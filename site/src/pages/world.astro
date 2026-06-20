@@ -1,0 +1,104 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+import { sections, chronologyPositions } from '../content-data/world.zh-Hant';
+import type { Provenance } from '@tipitaka/contracts';
+
+const crumbs = [{ label: t.nav.world }];
+const provLabel: Record<Provenance, string> = {
+  canonical: t.world.provCanonical,
+  commentarial: t.world.provCommentarial,
+  scholarly: t.world.provScholarly,
+  ai: t.world.provAi,
+};
+---
+
+<Base title={t.world.title} crumbs={crumbs}>
+  <h1>{t.world.title}</h1>
+  <p class="intro calm-note">{t.world.intro}</p>
+
+  {
+    sections.map((sec) => (
+      <section class="world-section">
+        <h2>{sec.title}</h2>
+        <ul class="facts">
+          {sec.facts.map((f) => (
+            <li class={`fact prov-${f.provenance}`}>
+              <span class={`prov-badge prov-${f.provenance}`}>
+                {provLabel[f.provenance]}
+                {f.provenance === 'scholarly' && <span class="disputed"> ・{t.world.disputed}</span>}
+              </span>
+              <span class="fact-content">{f.content}</span>
+              {f.note && <span class="fact-note calm-note">{f.note}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  <section class="world-section chronology">
+    <h2>{t.world.chronologyTitle}</h2>
+    <p class="calm-note">{t.world.chronologyNote}</p>
+    <ul class="facts">
+      {
+        chronologyPositions.map((f) => (
+          <li class="fact prov-scholarly">
+            <span class="prov-badge prov-scholarly">{t.world.provScholarly}</span>
+            <span class="fact-content">{f.content}</span>
+            {f.note && <span class="fact-note calm-note">{f.note}</span>}
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-6);
+  }
+  .world-section {
+    margin-bottom: var(--space-6);
+  }
+  h2 {
+    font-size: 18px;
+    margin-bottom: var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .facts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+  .fact {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    padding-inline-start: var(--space-3);
+    border-inline-start: 2px solid var(--rule);
+  }
+  .fact.prov-scholarly {
+    border-inline-start-color: var(--prov-scholarly);
+  }
+  .fact.prov-canonical {
+    border-inline-start-color: var(--prov-canonical);
+  }
+  .prov-badge {
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+  }
+  .disputed {
+    color: var(--prov-scholarly);
+  }
+  .fact-content {
+    color: var(--ink);
+  }
+  .fact-note {
+    font-size: 0.88em;
+  }
+</style>

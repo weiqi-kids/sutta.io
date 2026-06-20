@@ -1,0 +1,385 @@
+/* study.css — 研經頁三欄版面與材質（DESIGN §4/§5/§6、COMPONENT_STATES） */
+
+.study-page {
+  --col-gap: var(--space-4);
+}
+
+/* ---- 頁首（chrome 退場，sticky 於站頭下方） ---- */
+.study-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 56px;
+  z-index: 20;
+}
+.study-header-row {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: var(--space-3) var(--space-6);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+.study-title {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+.study-title-text {
+  display: flex;
+  flex-direction: column;
+}
+.title-pali {
+  font-family: var(--font-pali);
+  font-size: 20px;
+  color: var(--ink);
+}
+.title-zh {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+.nav-arrow {
+  text-decoration: none;
+  color: var(--ink-soft);
+  font-size: 20px;
+  padding: 0 var(--space-2);
+}
+.nav-arrow[aria-disabled='true'] {
+  opacity: 0.3;
+  pointer-events: none;
+}
+.study-controls {
+  display: flex;
+  gap: var(--space-2);
+}
+.ctrl {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  color: var(--ink-soft);
+  padding: var(--space-1) var(--space-3);
+  cursor: pointer;
+}
+.ctrl.is-on {
+  border-color: var(--thread);
+  color: var(--ink);
+}
+
+/* ---- 欄版面 ---- */
+.cols {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: var(--space-4) var(--space-6) var(--space-8);
+}
+.cols-three {
+  display: grid;
+  grid-template-columns: 40% 35% 25%;
+  gap: var(--col-gap);
+  align-items: start;
+}
+.cols-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--col-gap);
+  position: relative;
+}
+.cols-tab {
+  display: block;
+}
+.col-head {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  margin: 0 0 var(--space-3);
+  padding-bottom: var(--space-1);
+  border-bottom: 1px solid var(--rule);
+}
+
+/* ---- 對齊列 + 焦點之線（signature；DESIGN §5） ---- */
+.seg-row {
+  position: relative;
+  padding: var(--space-2) var(--space-3);
+  border-inline-start: 2px solid transparent;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  transition: background var(--motion-bind), border-color var(--motion-bind);
+}
+.seg-row.is-highlighted {
+  border-inline-start-color: var(--thread);
+  background: color-mix(in srgb, var(--thread) 7%, transparent);
+}
+
+/* ---- 欄 A 巴利（純 L1，墨、主字級） ---- */
+.col-pali .pali-line {
+  font-family: var(--font-pali);
+  font-size: var(--size-pali);
+  line-height: var(--lh-pali);
+  color: var(--ink);
+  margin: 0;
+  max-width: var(--measure-pali);
+}
+.pali-token {
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 1px 0;
+  /* 觸控目標 ≥ tap-min（DESIGN §8） */
+  display: inline-block;
+  min-height: var(--tap-min);
+  line-height: var(--tap-min);
+}
+.pali-token + .pali-token {
+  margin-inline-start: 0.28em;
+}
+.pali-token:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--thread);
+  text-underline-offset: 3px;
+}
+.pali-token.is-selected {
+  background: color-mix(in srgb, var(--thread) 16%, transparent);
+  box-shadow: inset 0 -2px 0 var(--thread);
+}
+.pali-token.is-grounded {
+  background: color-mix(in srgb, var(--thread) 10%, transparent);
+}
+
+/* ---- 欄 B：白話（L2 冷灰）/ 阿含（L1 暖墨）材質相反（STUDY_PAGE §5c） ---- */
+.gloss {
+  padding: var(--space-2) var(--space-3);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.gloss .gloss-text {
+  margin-inline-start: var(--space-2);
+}
+.agama-block {
+  margin-top: var(--space-4);
+  border-top: 1px dashed var(--rule);
+  padding-top: var(--space-3);
+}
+.agama-passage {
+  padding: var(--space-2) var(--space-3);
+  border-inline-start: 2px solid transparent;
+  margin-bottom: var(--space-2);
+}
+.agama-passage.is-highlighted {
+  border-inline-start-color: var(--thread);
+  background: color-mix(in srgb, var(--thread) 6%, transparent);
+}
+.agama-tag {
+  display: block;
+  font-size: var(--size-label);
+  margin-bottom: var(--space-1);
+}
+.agama-text {
+  /* 阿含是 L1 正典：暖墨、襯線、無徽章 */
+  font-family: var(--font-zh);
+  color: var(--ink);
+  margin: 0;
+  line-height: var(--lh-zh);
+}
+.no-agama {
+  font-style: normal;
+}
+.no-agama-hint {
+  font-size: 0.88em;
+}
+.col-empty {
+  padding: var(--space-3);
+}
+
+/* ---- 欄 C：研經卡（純 L2） ---- */
+.study-card {
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius);
+  margin-bottom: var(--space-3);
+}
+.card-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-2);
+}
+.card-title {
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.card-content {
+  margin: 0;
+  color: var(--ink);
+  line-height: var(--lh-zh);
+}
+.card-sources {
+  margin-top: var(--space-2);
+  font-size: 12px;
+}
+
+/* ---- DPD popover（portal 浮層；DESIGN §6 快速淡入） ---- */
+.dpd-popover {
+  position: absolute;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
+  padding: var(--space-3);
+  z-index: 100;
+  animation: dpd-in var(--motion-popover);
+}
+@keyframes dpd-in {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.dpd-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: var(--space-2);
+  margin-bottom: var(--space-2);
+}
+.dpd-surface {
+  font-family: var(--font-pali);
+  font-size: 18px;
+  color: var(--ink);
+}
+.dpd-multi {
+  font-family: var(--font-ui);
+  font-size: var(--size-label);
+  color: var(--prov-commentarial);
+  border: 1px solid var(--prov-commentarial);
+  border-radius: var(--radius);
+  padding: 1px 5px;
+}
+.dpd-row {
+  display: flex;
+  gap: var(--space-3);
+  padding: 2px 0;
+  font-size: 14px;
+}
+.dpd-label {
+  flex: 0 0 64px;
+  color: var(--ink-soft);
+  font-family: var(--font-ui);
+  font-size: 12px;
+}
+.dpd-value {
+  color: var(--ink);
+}
+.dpd-notfound {
+  margin: 0;
+  padding: var(--space-2) 0;
+}
+.dpd-candidates {
+  margin-top: var(--space-2);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--space-2);
+}
+.dpd-cand-toggle {
+  background: transparent;
+  border: none;
+  color: var(--ink-soft);
+  font-family: var(--font-ui);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 0;
+}
+.dpd-candidates ul {
+  list-style: none;
+  padding: var(--space-2) 0 0;
+  margin: 0;
+  font-size: 14px;
+}
+.dpd-candidates li {
+  padding: 2px 0;
+}
+
+/* ---- 手機頁籤 / 平板抽屜 ---- */
+.study-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 104px;
+  background: var(--paper);
+  z-index: 10;
+}
+.tab {
+  flex: 1;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: var(--space-3);
+  font-family: var(--font-ui);
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.tab.is-active {
+  color: var(--ink);
+  border-bottom-color: var(--thread);
+}
+.drawer-toggle {
+  position: fixed;
+  right: var(--space-4);
+  bottom: var(--space-4);
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: var(--space-2) var(--space-4);
+  font-family: var(--font-ui);
+  cursor: pointer;
+  z-index: 30;
+}
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(360px, 85vw);
+  background: var(--paper);
+  border-inline-start: 1px solid var(--rule);
+  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.15);
+  padding: var(--space-6) var(--space-4);
+  overflow-y: auto;
+  z-index: 40;
+}
+.drawer-close {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+
+@media (max-width: 1023px) {
+  .cols-two {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 639px) {
+  .col-pali .pali-line {
+    font-size: 18px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .seg-row,
+  .dpd-popover {
+    transition: none;
+    animation: none;
+  }
+}

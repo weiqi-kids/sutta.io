@@ -1,0 +1,212 @@
+---
+// Base.astro — 全站基底版面（SITE_IA §5 導覽 / §8 響應式 / DESIGN §5 chrome 退場）
+import '@fontsource/gentium-plus/400.css';
+import '@fontsource/gentium-plus/400-italic.css';
+import '@fontsource/gentium-plus/700.css';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/600.css';
+import '../styles/global.css';
+import { t, lang } from '../i18n/zh-Hant';
+
+export interface Crumb {
+  label: string;
+  href?: string;
+}
+interface Props {
+  title?: string;
+  description?: string;
+  crumbs?: Crumb[];
+  preview?: boolean;
+  /** 研經頁等需要滿版互動時，main 不加 measure 限制 */
+  wide?: boolean;
+}
+const {
+  title,
+  description = t.site.tagline,
+  crumbs = [],
+  preview = false,
+  wide = false,
+} = Astro.props;
+const fullTitle = title ? `${title}｜${t.site.name}` : t.site.name;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+---
+
+<!doctype html>
+<html lang={lang} data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+    <script is:inline>
+      // 主題：尊重儲存值，否則跟系統。早載避免閃爍。
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          var dark = saved ? saved === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+          document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    {preview && <div class="preview-banner">{t.common.previewBanner}</div>}
+
+    <header class="site-header chrome">
+      <div class="container header-inner">
+        <a class="brand" href={url('/')}>
+          <span class="brand-name">{t.site.name}</span>
+        </a>
+        <nav class="site-nav" aria-label="主導覽">
+          <a href={url('/browse')}>{t.nav.browse}</a>
+          <a href={url('/search')}>{t.nav.search}</a>
+          <a href={url('/lexicon')}>{t.nav.lexicon}</a>
+          <a href={url('/world')}>{t.nav.world}</a>
+          <a href={url('/about')}>{t.nav.about}</a>
+          <button id="theme-toggle" type="button" title={t.nav.theme} aria-label={t.nav.theme}>
+            ◑
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    {
+      crumbs.length > 0 && (
+        <nav class="breadcrumb chrome" aria-label="麵包屑">
+          <div class="container">
+            <a href={url('/')}>{t.common.breadcrumbHome}</a>
+            {crumbs.map((c) => (
+              <Fragment>
+                <span class="sep">›</span>
+                {c.href ? <a href={c.href}>{c.label}</a> : <span aria-current="page">{c.label}</span>}
+              </Fragment>
+            ))}
+          </div>
+        </nav>
+      )
+    }
+
+    <main class={wide ? 'site-main wide' : 'site-main'}>
+      {wide ? <slot /> : <div class="container"><div class="measure"><slot /></div></div>}
+    </main>
+
+    <footer class="site-footer chrome">
+      <div class="container">
+        <p>{t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a></p>
+      </div>
+    </footer>
+
+    <script is:inline define:vars={{ }}>
+      var btn = document.getElementById('theme-toggle');
+      if (btn) {
+        btn.addEventListener('click', function () {
+          var el = document.documentElement;
+          var next = el.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          el.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      }
+    </script>
+
+    <style>
+      .site-header {
+        background: var(--surface);
+        border-bottom: 1px solid var(--rule);
+        position: sticky;
+        top: 0;
+        z-index: 50;
+      }
+      .header-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 56px;
+      }
+      .brand {
+        text-decoration: none;
+        font-weight: 600;
+      }
+      .brand-name {
+        font-family: var(--font-zh);
+        font-size: 18px;
+        color: var(--ink);
+      }
+      .site-nav {
+        display: flex;
+        align-items: center;
+        gap: var(--space-4);
+      }
+      .site-nav a {
+        text-decoration: none;
+        color: var(--ink-soft);
+        font-size: 14px;
+      }
+      .site-nav a:hover {
+        color: var(--ink);
+      }
+      #theme-toggle {
+        background: transparent;
+        border: 1px solid var(--rule);
+        border-radius: var(--radius);
+        color: var(--ink-soft);
+        cursor: pointer;
+        width: 32px;
+        height: 32px;
+        line-height: 1;
+      }
+      .breadcrumb {
+        background: var(--surface);
+        border-bottom: 1px solid var(--rule);
+        font-size: 13px;
+        color: var(--ink-soft);
+      }
+      .breadcrumb .container {
+        display: flex;
+        align-items: center;
+        gap: var(--space-2);
+        padding-top: var(--space-2);
+        padding-bottom: var(--space-2);
+      }
+      .breadcrumb a {
+        color: var(--ink-soft);
+        text-decoration: none;
+      }
+      .breadcrumb a:hover {
+        color: var(--ink);
+      }
+      .breadcrumb .sep {
+        color: var(--rule);
+      }
+      .site-main {
+        padding: var(--space-8) 0 var(--space-8);
+        min-height: 60vh;
+      }
+      .site-main.wide {
+        padding: 0;
+      }
+      .site-footer {
+        border-top: 1px solid var(--rule);
+        background: var(--surface);
+        color: var(--ink-soft);
+        font-size: 13px;
+        padding: var(--space-6) 0;
+        margin-top: var(--space-8);
+      }
+      .site-footer a {
+        color: var(--ink-soft);
+      }
+      @media (max-width: 640px) {
+        .site-nav {
+          gap: var(--space-3);
+        }
+        .site-nav a {
+          font-size: 13px;
+        }
+      }
+    </style>
+  </body>
+</html>

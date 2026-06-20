@@ -1,0 +1,10 @@
+{
+  "name": "@tipitaka/contracts",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "types": "./study_page_types.ts",
+  "exports": {
+    ".": "./study_page_types.ts"
+  }
+}

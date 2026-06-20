@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t } from '../../i18n/zh-Hant';
+
+// 詞條頁由管線產出的 lemma/DPPN 索引驅動（Phase E）。
+// 在資料就緒前不預生成任何詞條頁。
+export function getStaticPaths() {
+  return [] as { params: { key: string } }[];
+}
+
+const { key } = Astro.params;
+const crumbs = [{ label: t.nav.lexicon, href: '/lexicon' }, { label: key ?? '' }];
+---
+
+<Base title={t.lexicon.title} crumbs={crumbs}>
+  <h1 lang="pi">{key}</h1>
+  <p class="calm-note">{t.lexicon.notFound}。{t.lexicon.notFoundHint}</p>
+</Base>

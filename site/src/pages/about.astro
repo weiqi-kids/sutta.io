@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+const crumbs = [{ label: t.nav.about }];
+---
+
+<Base title={t.about.title} crumbs={crumbs}>
+  <h1>{t.about.title}</h1>
+
+  <section>
+    <h2>{t.about.unofficialTitle}</h2>
+    <p>
+      本站是獨立的研經輔助工具，<strong>非任何官方機構、教團或宗派</strong>。內容以權威來源為憑，AI
+      輔助生成的內容明確標示。
+    </p>
+  </section>
+
+  <section>
+    <h2>{t.about.sourcesTitle}</h2>
+    <ul>
+      <li>
+        巴利經文與分段：<a href="https://suttacentral.net" rel="noopener">SuttaCentral</a>
+        <span class="data">bilara-data</span>
+      </li>
+      <li>
+        巴利逐字語法／字根：<a href="https://www.digitalpalidictionary.github.io" rel="noopener"
+          >Digital Pāḷi Dictionary（DPD）</a
+        >
+      </li>
+      <li>漢譯阿含：<a href="https://www.cbeta.org" rel="noopener">CBETA</a></li>
+      <li>人地事專名：DPPN（Dictionary of Pāli Proper Names，公共領域）</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>{t.about.licenseTitle}</h2>
+    <p>
+      資料來源含 <span class="data">CC BY-NC-SA</span>（DPD、CBETA），故本專案<strong>非商業</strong
+      >，衍生資料同樣以相同方式開放（share-alike）。DPPN 為公共領域。
+    </p>
+  </section>
+
+  <section>
+    <h2>{t.about.aiTitle}</h2>
+    <p class="calm-note">{t.common.aiContentNote}</p>
+    <p>
+      界線：<strong>事實走原文與字典（權威層，永不由 AI 改寫）</strong>；<strong
+        >解釋走 AI 輔助層（白話／概要／研經卡），且每一次都以原文真實語法為依據，上線前人工校稿</strong
+      >。背景與歷史一律具名引用、標明無定論之處。
+    </p>
+  </section>
+</Base>
+
+<style>
+  section {
+    margin-bottom: var(--space-6);
+  }
+  h2 {
+    font-size: 18px;
+    margin-bottom: var(--space-2);
+  }
+  ul {
+    padding-inline-start: var(--space-6);
+  }
+  li {
+    margin-bottom: var(--space-1);
+  }
+</style>

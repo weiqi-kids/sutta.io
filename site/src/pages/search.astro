@@ -1,0 +1,19 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+const crumbs = [{ label: t.nav.search }];
+// 完整搜尋（四種 L1 + 變音折疊 + 離線語意）於 Phase E 以 island 實作。
+---
+
+<Base title={t.search.title} crumbs={crumbs}>
+  <h1>{t.search.title}</h1>
+  <p class="calm-note">{t.search.initialHint}</p>
+  <div class="search-placeholder skeleton" aria-hidden="true"></div>
+</Base>
+
+<style>
+  .search-placeholder {
+    height: 48px;
+    margin-top: var(--space-4);
+  }
+</style>

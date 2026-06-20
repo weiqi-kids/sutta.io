@@ -1,0 +1,60 @@
+name: Deploy to GitHub Pages
+
+# 純靜態部署（BUILD_SPEC §0）：資料管線與 L2 生成在本機 build 期跑、產物 commit 進 data/；
+# CI 只讀 data/ 做 astro build，無金鑰、不跑 LLM、不抽重資料源。
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.32.1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      # 只裝 site 及其相依（避開 pipeline 的 better-sqlite3 / onnxruntime 重原生套件）
+      - name: Install site deps
+        run: pnpm install --filter @tipitaka/site... --frozen-lockfile
+
+      # 契約層（TEST_SPEC §1）：產物形狀 + 不變量；不過則 fail
+      - name: Contract validation
+        run: pnpm dlx tsx@4 scripts/validate-contract.ts
+
+      - name: Build site
+        run: pnpm -C site build
+
+      - name: Secret scan on artifacts (BUILD §4)
+        run: pnpm dlx tsx@4 scripts/scan-secrets.ts
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

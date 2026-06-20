@@ -1,0 +1,78 @@
+/* ============================================================================
+   design-tokens.css — 設計 token(E-2)
+   DESIGN_SPEC 的可實作對照;含四級出處視覺(J-6 / CONTEXT §3)。
+   淺色為主題,深色為 [data-theme="dark"]。
+   ============================================================================ */
+
+:root {
+  /* --- 色彩:淺色(DESIGN §3.1)。每個值有語意職責,不可挪用 --- */
+  --paper:      #E9E0CC;  /* 正典經文閱讀面(骨色偏赭,刻意≠#F4F1EA) */
+  --surface:    #F4EFE3;  /* chrome / 卡片面 */
+  --ink:        #2A2622;  /* 正典墨色(暖黑帶赭褐,非純黑) */
+  --ink-soft:   #6B6358;  /* 次級文字 */
+  --thread:     #B06A1F;  /* 燒灼藏紅:唯一焦點/對齊強調色,僅用於 active 綁定 */
+  --margin:     #5E6B6E;  /* L2「鉛筆」冷灰(冷於 ink;溫度差=語意) */
+  --margin-bg:  #E6E8E4;  /* L2 極淡冷底 */
+  --rule:       #D8CFB9;  /* 分隔線 */
+  --draft:      #9A7B2E;  /* 未校稿標記(暗芥黃) */
+
+  /* --- 四級出處(CONTEXT §3 / J-6)。canonical 無徽章;其餘各有清楚記號 --- */
+  --prov-canonical:    var(--ink);     /* 正典:暖墨,無徽章 */
+  --prov-commentarial: #8A6D3B;        /* 註釋傳統:暖褐標記 */
+  --prov-scholarly:    #4A6072;        /* 學界:冷藍灰,附具名來源 */
+  --prov-ai:           var(--margin);  /* AI:冷灰鉛筆 + AI 徽章 */
+
+  /* --- 字體(DESIGN §3.3)。全開源可自架 --- */
+  --font-pali:  "Gentium Plus", serif;              /* 巴利(IAST 變音為真畫出) */
+  --font-zh:    "Source Han Serif TC", "Noto Serif CJK TC", serif; /* 漢譯正典 */
+  --font-ui:    "Noto Sans TC", "Inter", sans-serif; /* chrome/標籤 */
+  --font-data:  "IBM Plex Mono", monospace;          /* DPD 詞形碼/id/數據 */
+
+  /* --- 字級 / 行高(DESIGN §3.4)。變音符號需行高餘裕 --- */
+  --size-pali:      20px;  --lh-pali:    1.7;
+  --size-zh:        18px;  --lh-zh:      1.9;
+  --size-title:     30px;
+  --size-data:      14px;
+  --size-label:     12px;
+  --measure-pali:   62ch;  /* 巴利欄理想量度上限 */
+
+  /* --- 間距 / 圓角 --- */
+  --space-1: 4px;  --space-2: 8px;  --space-3: 12px;
+  --space-4: 16px; --space-6: 24px; --space-8: 32px;
+  --radius: 4px;          /* 克制小圓角,非報紙零角、非 App 大角 */
+
+  /* --- 動態(DESIGN §6)。少即是多 --- */
+  --motion-bind:    120ms ease;  /* 焦點之線 */
+  --motion-popover: 100ms ease;  /* DPD popover */
+
+  /* --- 觸控(STUDY_PAGE a11y):巴利 token 最小可點區 --- */
+  --tap-min: 32px;
+}
+
+/* --- 深色「夜誦」(DESIGN §3.2),次要變體 --- */
+[data-theme="dark"] {
+  --paper:      #1A1A1E;
+  --surface:    #232228;
+  --ink:        #E8E2D4;  /* 暖,如燈下 */
+  --ink-soft:   #A39B8C;
+  --thread:     #D8923A;
+  --margin:     #8A9498;  /* 冷灰 */
+  --margin-bg:  #2A2E30;
+  --rule:       #3A372F;
+  --draft:      #C2A24E;
+
+  --prov-canonical:    var(--ink);
+  --prov-commentarial: #B59155;
+  --prov-scholarly:    #7C95A8;
+  --prov-ai:           var(--margin);
+}
+
+/* --- 斷點(SITE_IA §8 / STUDY_PAGE §1) --- */
+/* 桌機 ≥1024px:三欄 | 平板 640–1023:兩欄+抽屜 | 手機 <640:頁籤 */
+/* 於各元件以 @media 使用,token 檔僅記錄數值約定: */
+/*   --bp-tablet: 640px;  --bp-desktop: 1024px; (媒體查詢不能用變數,此處為文件約定) */
+
+/* --- 無障礙:尊重減量動態(DESIGN §6) --- */
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion-bind: 0ms; --motion-popover: 0ms; }
+}

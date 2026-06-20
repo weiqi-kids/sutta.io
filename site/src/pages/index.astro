@@ -1,0 +1,116 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+import { listSuttas } from '../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const suttas = listSuttas();
+// 精選一部代表經作為閱讀入口示範（SITE_IA §4）
+const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
+---
+
+<Base title={undefined}>
+  <section class="hero">
+    <h1 class="hero-title">{t.site.name}</h1>
+    <p class="hero-tagline">{t.site.tagline}</p>
+    <p class="unofficial calm-note">
+      {t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a>
+    </p>
+  </section>
+
+  <nav class="entries" aria-label="主要入口">
+    <a class="entry" href={url('/browse')}>
+      <span class="entry-label">{t.home.browseCollection}</span>
+      <span class="entry-sub calm-note">{t.browse.collectionMN}</span>
+    </a>
+    <a class="entry" href={url('/search')}>
+      <span class="entry-label">{t.home.searchEntry}</span>
+    </a>
+    <a class="entry" href={url('/lexicon')}>
+      <span class="entry-label">{t.home.lexiconEntry}</span>
+    </a>
+    <a class="entry" href={url('/world')}>
+      <span class="entry-label">{t.home.worldEntry}</span>
+    </a>
+  </nav>
+
+  {
+    featured && (
+      <section class="featured">
+        <span class="featured-label calm-note">{t.home.featuredLabel}</span>
+        <a class="featured-link" href={url(`/read/${featured.id}`)}>
+          <span lang="pi" class="featured-pali">
+            {featured.title_pali}
+          </span>
+          <span class="featured-zh">{featured.title_zh}</span>
+        </a>
+      </section>
+    )
+  }
+</Base>
+
+<style>
+  .hero {
+    margin: var(--space-8) 0 var(--space-6);
+  }
+  .hero-title {
+    font-size: var(--size-title);
+    margin: 0 0 var(--space-2);
+  }
+  .hero-tagline {
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-3);
+  }
+  .entries {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-3);
+    margin: var(--space-6) 0;
+  }
+  .entry {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    text-decoration: none;
+  }
+  .entry:hover {
+    border-color: var(--thread);
+  }
+  .entry-label {
+    font-family: var(--font-ui);
+    color: var(--ink);
+    font-size: 15px;
+  }
+  .featured {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+  }
+  .featured-label {
+    display: block;
+    margin-bottom: var(--space-2);
+  }
+  .featured-link {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-3);
+    text-decoration: none;
+  }
+  .featured-pali {
+    font-size: 22px;
+    color: var(--ink);
+  }
+  .featured-zh {
+    color: var(--ink-soft);
+  }
+  @media (max-width: 640px) {
+    .entries {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

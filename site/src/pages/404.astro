@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+---
+
+<Base title={t.common.notFound}>
+  <h1>{t.common.notFound}</h1>
+  <p class="calm-note">{t.common.notFoundBody}</p>
+  <p><a href={url('/')}>{t.common.backHome}</a></p>
+</Base>

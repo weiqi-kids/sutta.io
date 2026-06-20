@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t } from '../../i18n/zh-Hant';
+const crumbs = [{ label: t.nav.lexicon }];
+// 字典詞條頁於 Phase E 由管線索引驅動（DPD 詞條 + concordance + 用法摘要 + DPPN）。
+---
+
+<Base title={t.lexicon.title} crumbs={crumbs}>
+  <h1>{t.lexicon.title}</h1>
+  <p class="calm-note">輸入巴利字典原形（如 sati）查詞條，或從研經頁點字進入。</p>
+  <div class="lex-placeholder skeleton" aria-hidden="true"></div>
+</Base>
+
+<style>
+  .lex-placeholder {
+    height: 48px;
+    margin-top: var(--space-4);
+  }
+</style>

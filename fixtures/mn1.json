@@ -1,0 +1,142 @@
+{
+  "_fixture_notes": {
+    "purpose": "研經頁三欄原型測試資料。每個 segment/passage 觸發 STUDY_PAGE_SPEC §9 某個驗收狀態。",
+    "revision": "已對齊 DATA_PIPELINE §1『兩種漢』拆分:阿含(L1)上移至 passage 段落級;白話(L2)為 vernacular_gloss 留在 segment;token 加 ambiguous/candidates(A-2)。",
+    "provenance": {
+      "pali_text": "真實,取自 SuttaCentral MN1（L1）。",
+      "pali_lemma_morph": "常見字為教科書級正確值;morph_display 為人讀解碼示意。正式版由 dpd-db 產生。",
+      "dpd_id_freq": "PLACEHOLDER。真實值須來自 dpd-db。",
+      "agama_text_ref": "PLACEHOLDER/示意。阿含為另一傳本,段落級;真實對照須來自 SuttaCentral parallels + CBETA。",
+      "L2_content": "全部 mock(generated_by:'mock'),僅供版面與 L1/L2 界線測試。"
+    }
+  },
+
+  "sutta": {
+    "id": "mn1",
+    "title_pali": "Mūlapariyāya Sutta",
+    "title_zh": "根本法門經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "source": "suttacentral:mn1"
+  },
+
+  "segments": [
+    {
+      "_exercises": "正常段:巴利逐字 + 白話L2(approved)。含一個 ambiguous token(t2,觸發『多解』)。",
+      "segment_id": "mn1:1.1",
+      "pali_tokens": [
+        { "token_id": "t1",  "surface": "Evaṃ",        "lemma": "evaṃ",       "dpd_id": 11001, "root": null,    "morph": "ind",           "morph_display": "不變詞",                   "compound": null, "gloss": "如是、這樣", "freq": 9999, "ambiguous": false, "candidates": null },
+        { "token_id": "t2",  "surface": "me",           "lemma": "ahaṃ",       "dpd_id": 11002, "root": null,    "morph": "pron.instr.sg", "morph_display": "人稱代名詞·具格·單數",     "compound": null, "gloss": "被我（由我）", "freq": 9999, "ambiguous": true,
+          "candidates": [
+            { "lemma": "ahaṃ", "dpd_id": 11002, "root": null, "morph": "pron.instr.sg", "morph_display": "人稱代名詞·具格·單數", "compound": null, "gloss": "被我（由我）" },
+            { "lemma": "ahaṃ", "dpd_id": 11002, "root": null, "morph": "pron.gen.sg",   "morph_display": "人稱代名詞·屬格·單數", "compound": null, "gloss": "我的" }
+          ] },
+        { "token_id": "t3",  "surface": "sutaṃ",        "lemma": "suṇāti",     "dpd_id": 11003, "root": "√su",   "morph": "pp.nom.sg.nt",  "morph_display": "過去分詞·主格·單數·中性", "compound": null, "gloss": "被聽聞（聽到）", "freq": 4210, "ambiguous": false, "candidates": null },
+        { "token_id": "t4",  "surface": "ekaṃ",         "lemma": "eka",        "dpd_id": 11004, "root": null,    "morph": "adj.acc.sg.m",  "morph_display": "形容詞·對格·單數·陽性",   "compound": null, "gloss": "一", "freq": 8800, "ambiguous": false, "candidates": null },
+        { "token_id": "t5",  "surface": "samayaṃ",      "lemma": "samaya",     "dpd_id": 11005, "root": null,    "morph": "n.acc.sg.m",    "morph_display": "名詞·對格·單數·陽性",     "compound": null, "gloss": "時、時候", "freq": 3120, "ambiguous": false, "candidates": null },
+        { "token_id": "t6",  "surface": "bhagavā",      "lemma": "bhagavant",  "dpd_id": 11006, "root": null,    "morph": "n.nom.sg.m",    "morph_display": "名詞·主格·單數·陽性",     "compound": null, "gloss": "世尊", "freq": 7650, "ambiguous": false, "candidates": null },
+        { "token_id": "t9",  "surface": "subhagavane",  "lemma": "subhagavana","dpd_id": 11009, "root": null,    "morph": "n.loc.sg.nt",   "morph_display": "名詞·處格·單數·中性",     "compound": "subhaga + vana", "gloss": "在善賢林", "freq": 4, "ambiguous": false, "candidates": null },
+        { "token_id": "t10", "surface": "sālarājamūle", "lemma": "sālarājamūla","dpd_id": 11010,"root": null,    "morph": "n.loc.sg.nt",   "morph_display": "名詞·處格·單數·中性",     "compound": "sāla + rāja + mūla", "gloss": "在娑羅樹王下", "freq": 3, "ambiguous": false, "candidates": null }
+      ],
+      "vernacular_gloss": {
+        "generated_by": "mock",
+        "grounded_on": ["t1", "t2", "t3", "t9", "t10"],
+        "review_status": "approved",
+        "content": "「如是我聞」對應 evaṃ me sutaṃ。「善賢林娑羅樹王下」對應 subhagavane sālarājamūle（皆處格,表地點）。"
+      }
+    },
+
+    {
+      "_exercises": "含 dpd_id:null 的 token(t15,觸發 popover『無詞條』)+ 白話 draft(觸發『未校稿』)。",
+      "segment_id": "mn1:1.2",
+      "pali_tokens": [
+        { "token_id": "t13", "surface": "bhikkhū",   "lemma": "bhikkhu",   "dpd_id": 11013, "root": null,    "morph": "n.acc.pl.m", "morph_display": "名詞·對格·複數·陽性", "compound": null, "gloss": "（諸）比丘", "freq": 9100, "ambiguous": false, "candidates": null },
+        { "token_id": "t14", "surface": "āmantesi",  "lemma": "āmanteti",  "dpd_id": 11014, "root": "√mant", "morph": "aor.3sg",    "morph_display": "不定過去式·第三人稱·單數", "compound": null, "gloss": "呼喚、告知", "freq": 2400, "ambiguous": false, "candidates": null },
+        { "token_id": "t15", "surface": "Bhadante",  "lemma": null,        "dpd_id": null,  "root": null,    "morph": null,         "morph_display": null, "compound": null, "gloss": null, "freq": null, "ambiguous": false, "candidates": null }
+      ],
+      "vernacular_gloss": {
+        "generated_by": "mock",
+        "grounded_on": ["t13", "t14"],
+        "review_status": "draft",
+        "content": "（未校稿）「告諸比丘」對應 bhikkhū āmantesi（āmanteti 的不定過去式）。"
+      }
+    },
+
+    {
+      "_exercises": "白話 draft;此 segment 屬於 p2 段落(阿含為 null)→ 欄B 顯示無平行。",
+      "segment_id": "mn1:2.1",
+      "pali_tokens": [
+        { "token_id": "t18", "surface": "assutavā",   "lemma": "assutavant", "dpd_id": 11018, "root": null, "morph": "adj.nom.sg.m", "morph_display": "形容詞·主格·單數·陽性", "compound": "a + sutavant", "gloss": "未聞（法）的", "freq": 180, "ambiguous": false, "candidates": null },
+        { "token_id": "t19", "surface": "puthujjano", "lemma": "puthujjana", "dpd_id": 11019, "root": null, "morph": "n.nom.sg.m",   "morph_display": "名詞·主格·單數·陽性",   "compound": "puthu + jana", "gloss": "凡夫", "freq": 760, "ambiguous": false, "candidates": null }
+      ],
+      "vernacular_gloss": {
+        "generated_by": "mock",
+        "grounded_on": ["t18", "t19"],
+        "review_status": "draft",
+        "content": "（未校稿）assutavā puthujjano:未聞聖法的凡夫。"
+      }
+    },
+
+    {
+      "_exercises": "多列連續,測跨欄高亮同步;屬 p2(阿含 null)。",
+      "segment_id": "mn1:2.2",
+      "pali_tokens": [
+        { "token_id": "t20", "surface": "pathaviṃ",   "lemma": "pathavī",   "dpd_id": 11020, "root": null,  "morph": "n.acc.sg.f", "morph_display": "名詞·對格·單數·陰性", "compound": null, "gloss": "地、土", "freq": 980, "ambiguous": false, "candidates": null },
+        { "token_id": "t22", "surface": "sañjānāti",  "lemma": "sañjānāti", "dpd_id": 11022, "root": "√ñā", "morph": "pr.3sg",     "morph_display": "現在式·第三人稱·單數", "compound": "saṃ + jānāti", "gloss": "想、認知", "freq": 640, "ambiguous": false, "candidates": null }
+      ],
+      "vernacular_gloss": {
+        "generated_by": "mock",
+        "grounded_on": ["t20", "t22"],
+        "review_status": "draft",
+        "content": "（未校稿）pathaviṃ sañjānāti:對『地』生起『地』的概念認知。"
+      }
+    }
+  ],
+
+  "passages": [
+    {
+      "_exercises": "有阿含對照(L1,段落級,涵蓋兩個 segment)。",
+      "passage_id": "mn1:p1",
+      "segment_ids": ["mn1:1.1", "mn1:1.2"],
+      "agama": {
+        "source": "CBETA",
+        "ref": "PLACEHOLDER:示意",
+        "text": "（示意）如是我聞:一時,世尊遊某處……爾時世尊告諸比丘。"
+      }
+    },
+    {
+      "_exercises": "阿含為 null → 欄B『此段無對應漢譯平行』降級。驗收 #6。",
+      "passage_id": "mn1:p2",
+      "segment_ids": ["mn1:2.1", "mn1:2.2"],
+      "agama": null
+    }
+  ],
+
+  "summary": {
+    "generated_by": "mock",
+    "grounded_on": ["mn1:1.1", "mn1:2.1", "mn1:2.2"],
+    "review_status": "approved",
+    "content": "（mock 概要）本經為《中部》首經,佛陀分析凡夫、學人、阿羅漢、如來四種人對地水火風乃至涅槃的認知方式,指出妄想如何從『想』(sañjānāti)生起,唯遍知(pariññā)能止息。"
+  },
+
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "mock",
+      "review_status": "approved",
+      "title": "核心句式:sañjānāti → maññati",
+      "sources": ["mn1:2.2"],
+      "content": "（mock）全經反覆以『從 X 認知 X → 對 X 起妄想』鋪陳妄想層疊。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "mock",
+      "review_status": "draft",
+      "title": "字詞:puthujjana（凡夫）",
+      "sources": ["mn1:2.1"],
+      "content": "（mock·未校稿）puthu（眾多）+ jana（人）,指未見道、未聞聖法的一般人。"
+    }
+  ],
+
+  "manifest": { "dpd": "PLACEHOLDER", "cbeta": "PLACEHOLDER", "sc": "PLACEHOLDER", "built_at": "fixture" }
+}

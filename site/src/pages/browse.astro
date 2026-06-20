@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/zh-Hant';
+import { listSuttas } from '../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const suttas = listSuttas();
+const anyPreview = suttas.some((s) => s.isPreview);
+const crumbs = [{ label: t.nav.browse }];
+---
+
+<Base title={t.browse.title} crumbs={crumbs} preview={anyPreview}>
+  <h1>{t.browse.title}・{t.browse.collectionMN}</h1>
+  <table class="browse-table">
+    <thead>
+      <tr>
+        <th>{t.browse.colNo}</th>
+        <th>{t.browse.colTitlePali}</th>
+        <th>{t.browse.colTitleZh}</th>
+        <th>{t.browse.colParallel}</th>
+        <th>{t.browse.colReviewed}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        suttas.map((s) => (
+          <tr>
+            <td class="data">{s.id}</td>
+            <td>
+              <a href={url(`/read/${s.id}`)} lang="pi">
+                {s.title_pali}
+              </a>
+            </td>
+            <td>{s.title_zh}</td>
+            <td>{s.hasParallel ? t.browse.hasParallel : t.browse.noParallel}</td>
+            <td class="calm-note">{s.reviewed ? t.browse.reviewed : t.browse.draft}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</Base>
+
+<style>
+  .browse-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: var(--space-4);
+    font-size: 15px;
+  }
+  .browse-table th,
+  .browse-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+  }
+  .browse-table th {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--ink-soft);
+    font-weight: 600;
+  }
+  .browse-table a {
+    text-decoration: none;
+  }
+  .browse-table a:hover {
+    color: var(--thread);
+  }
+</style>

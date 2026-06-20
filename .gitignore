@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# build output
+site/dist/
+.astro/
+
+# pipeline scratch / heavy source downloads (不入 repo)
+pipeline/.cache/
+pipeline/vendor/
+*.db
+*.db-shm
+*.db-wal
+dpd-db*/
+.dpd-db.tag
+
+# secrets / env（金鑰絕不進 repo，BUILD §4）
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.log
+.vscode/
+.idea/

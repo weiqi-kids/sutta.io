@@ -1,0 +1,21 @@
+{
+  "name": "@tipitaka/pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "all": "tsx src/run.ts",
+    "fetch": "tsx src/run.ts --only=fetch",
+    "dpd": "tsx src/run.ts --only=dpd",
+    "embed": "tsx src/run.ts --only=embed"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.3.3",
+    "@tipitaka/contracts": "workspace:*",
+    "better-sqlite3": "^11.8.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.5"
+  }
+}
