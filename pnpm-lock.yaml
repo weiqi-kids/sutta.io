@@ -63,9 +63,6 @@ importers:
       '@fontsource/inter':
         specifier: ^5.1.1
         version: 5.2.8
-      '@huggingface/transformers':
-        specifier: ^3.3.3
-        version: 3.8.1
       '@tipitaka/contracts':
         specifier: workspace:*
         version: link:../contracts
