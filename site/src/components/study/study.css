@@ -181,6 +181,7 @@
   color: var(--ink);
   margin: 0;
   line-height: var(--lh-zh);
+  white-space: pre-line; /* 保留 CBETA 段落換行 */
 }
 .no-agama {
   font-style: normal;

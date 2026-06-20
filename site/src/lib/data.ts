@@ -78,15 +78,15 @@ export function listSuttas(): BrowseEntry[] {
     for (const f of fs.readdirSync(dir)) {
       if (!f.endsWith('.json')) continue;
       const base = f.replace(/\.json$/, '');
-      // 排除索引/嵌入/manifest/策展等非經檔
-      if (/^index-|^embeddings|^manifest|^browse$/.test(base)) continue;
+      // 排除索引/嵌入/manifest/目錄等非經檔
+      if (/^index-|^embeddings|^manifest|^browse$|^suttas$/.test(base)) continue;
       ids.add(base);
     }
   }
   const entries: BrowseEntry[] = [];
   for (const id of ids) {
     const s = getSutta(id);
-    if (!s) continue;
+    if (!s || !s.sutta) continue;
     entries.push({
       id: s.sutta.id,
       title_pali: s.sutta.title_pali,

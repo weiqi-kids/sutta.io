@@ -1,0 +1,8 @@
+{
+  "dpd": "v0.4.20260531",
+  "cbeta": "CBETA 2024.R1",
+  "sc": "published",
+  "embed_model": "Xenova/multilingual-e5-small",
+  "embed_dim": "384",
+  "built_at": "2026-06-20T14:24:29.549Z"
+}

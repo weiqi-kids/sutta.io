@@ -1,0 +1,5009 @@
+{
+  "evam": {
+    "lemma": "evaṃ",
+    "forms": [
+      "Evaṁ",
+      "evameva",
+      "Evampi",
+      "evampi",
+      "Evameva",
+      "evaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.1",
+      "mn10:4.9",
+      "mn10:5.4",
+      "mn10:7.4",
+      "mn10:9.2",
+      "mn10:10.4",
+      "mn10:11.2",
+      "mn10:12.4",
+      "mn10:13.2",
+      "mn10:15.2",
+      "mn10:17.2",
+      "mn10:25.2",
+      "mn10:31.4",
+      "mn10:33.4",
+      "mn10:35.4",
+      "mn10:37.4",
+      "mn10:39.4",
+      "mn10:41.4",
+      "mn10:43.4",
+      "mn10:45.4",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22"
+    ]
+  },
+  "aham": {
+    "lemma": "ahaṃ",
+    "forms": [
+      "me"
+    ],
+    "occurrences": [
+      "mn10:1.1",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "suta": {
+    "lemma": "suta",
+    "forms": [
+      "sutaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.1"
+    ]
+  },
+  "eka": {
+    "lemma": "eka",
+    "forms": [
+      "ekaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.2",
+      "mn10:46.9",
+      "mn10:46.10",
+      "mn10:46.19"
+    ]
+  },
+  "samaya": {
+    "lemma": "samaya",
+    "forms": [
+      "samayaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "bhagavant": {
+    "lemma": "bhagavant",
+    "forms": [
+      "bhagavā",
+      "bhagavato",
+      "Bhagavā"
+    ],
+    "occurrences": [
+      "mn10:1.2",
+      "mn10:1.3",
+      "mn10:1.5",
+      "mn10:1.6",
+      "mn10:47.3",
+      "mn10:47.4"
+    ]
+  },
+  "kuru": {
+    "lemma": "kuru",
+    "forms": [
+      "kurūsu",
+      "kurūnaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "viharati": {
+    "lemma": "viharati",
+    "forms": [
+      "viharati"
+    ],
+    "occurrences": [
+      "mn10:1.2",
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5",
+      "mn10:4.1",
+      "mn10:5.1",
+      "mn10:5.2",
+      "mn10:5.3",
+      "mn10:5.4",
+      "mn10:7.1",
+      "mn10:7.2",
+      "mn10:7.3",
+      "mn10:7.4",
+      "mn10:9.1",
+      "mn10:9.2",
+      "mn10:11.1",
+      "mn10:11.2",
+      "mn10:13.1",
+      "mn10:13.2",
+      "mn10:15.1",
+      "mn10:15.2",
+      "mn10:17.1",
+      "mn10:17.2",
+      "mn10:25.1",
+      "mn10:25.2",
+      "mn10:31.1",
+      "mn10:31.2",
+      "mn10:31.3",
+      "mn10:31.4",
+      "mn10:32.1",
+      "mn10:33.1",
+      "mn10:33.2",
+      "mn10:33.3",
+      "mn10:33.4",
+      "mn10:34.1",
+      "mn10:35.1",
+      "mn10:35.2",
+      "mn10:35.3",
+      "mn10:35.4",
+      "mn10:36.1",
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:37.1",
+      "mn10:37.2",
+      "mn10:37.3",
+      "mn10:37.4",
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:39.1",
+      "mn10:39.2",
+      "mn10:39.3",
+      "mn10:39.4",
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:41.1",
+      "mn10:41.2",
+      "mn10:41.3",
+      "mn10:41.4",
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:43.1",
+      "mn10:43.2",
+      "mn10:43.3",
+      "mn10:43.4",
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:45.1",
+      "mn10:45.2",
+      "mn10:45.3",
+      "mn10:45.4"
+    ]
+  },
+  "kammasadhamma": {
+    "lemma": "kammāsadhamma",
+    "forms": [
+      "kammāsadhammaṁ"
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "nama": {
+    "lemma": "nāma",
+    "forms": [
+      "nāma"
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "nigama": {
+    "lemma": "nigama",
+    "forms": [
+      "nigamo"
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "tatra": {
+    "lemma": "tatra",
+    "forms": [
+      "Tatra"
+    ],
+    "occurrences": [
+      "mn10:1.3"
+    ]
+  },
+  "kho": {
+    "lemma": "kho",
+    "forms": [
+      "kho"
+    ],
+    "occurrences": [
+      "mn10:1.3",
+      "mn10:4.9",
+      "mn10:5.4",
+      "mn10:7.4",
+      "mn10:9.2",
+      "mn10:10.4",
+      "mn10:11.2",
+      "mn10:12.4",
+      "mn10:13.2",
+      "mn10:14.3",
+      "mn10:15.2",
+      "mn10:16.3",
+      "mn10:17.2",
+      "mn10:24.3",
+      "mn10:25.2",
+      "mn10:30.3",
+      "mn10:31.4",
+      "mn10:33.4",
+      "mn10:35.4",
+      "mn10:37.4",
+      "mn10:39.4",
+      "mn10:41.4",
+      "mn10:43.4",
+      "mn10:45.4"
+    ]
+  },
+  "bhikkhu": {
+    "lemma": "bhikkhu",
+    "forms": [
+      "bhikkhū",
+      "bhikkhavo",
+      "bhikkhave",
+      "bhikkhu"
+    ],
+    "occurrences": [
+      "mn10:1.3",
+      "mn10:1.4",
+      "mn10:1.5",
+      "mn10:2.1",
+      "mn10:3.2",
+      "mn10:4.1",
+      "mn10:4.2",
+      "mn10:4.8",
+      "mn10:4.9",
+      "mn10:5.4",
+      "mn10:6.1",
+      "mn10:7.4",
+      "mn10:8.1",
+      "mn10:9.2",
+      "mn10:10.1",
+      "mn10:10.3",
+      "mn10:10.4",
+      "mn10:11.2",
+      "mn10:12.1",
+      "mn10:12.3",
+      "mn10:12.4",
+      "mn10:13.2",
+      "mn10:14.1",
+      "mn10:15.2",
+      "mn10:16.1",
+      "mn10:17.2",
+      "mn10:18-23.1",
+      "mn10:25.2",
+      "mn10:26-28.1",
+      "mn10:31.4",
+      "mn10:32.1",
+      "mn10:32.2",
+      "mn10:33.4",
+      "mn10:34.1",
+      "mn10:34.2",
+      "mn10:35.4",
+      "mn10:36.1",
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:36.4",
+      "mn10:37.4",
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:38.3",
+      "mn10:39.4",
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:40.3",
+      "mn10:41.4",
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:42.3",
+      "mn10:43.4",
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:44.3",
+      "mn10:45.4",
+      "mn10:46.1",
+      "mn10:46.3",
+      "mn10:46.4",
+      "mn10:46.10",
+      "mn10:46.11",
+      "mn10:46.13",
+      "mn10:46.14",
+      "mn10:46.21",
+      "mn10:46.22",
+      "mn10:47.1",
+      "mn10:47.4"
+    ]
+  },
+  "amanteti": {
+    "lemma": "āmanteti",
+    "forms": [
+      "āmantesi"
+    ],
+    "occurrences": [
+      "mn10:1.3"
+    ]
+  },
+  "ti": {
+    "lemma": "ti",
+    "forms": [
+      "ti",
+      "tīṇi"
+    ],
+    "occurrences": [
+      "mn10:1.4",
+      "mn10:1.5",
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.6",
+      "mn10:4.7",
+      "mn10:4.8",
+      "mn10:4.9",
+      "mn10:4.10",
+      "mn10:4.11",
+      "mn10:5.3",
+      "mn10:6.1",
+      "mn10:7.3",
+      "mn10:10.2",
+      "mn10:10.3",
+      "mn10:10.5",
+      "mn10:12.2",
+      "mn10:12.5",
+      "mn10:14.3",
+      "mn10:16.3",
+      "mn10:24.3",
+      "mn10:30.3",
+      "mn10:31.3",
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10",
+      "mn10:33.3",
+      "mn10:34.2",
+      "mn10:34.3",
+      "mn10:34.4",
+      "mn10:34.5",
+      "mn10:34.6",
+      "mn10:34.7",
+      "mn10:34.8",
+      "mn10:34.9",
+      "mn10:34.10",
+      "mn10:34.11",
+      "mn10:34.12",
+      "mn10:34.13",
+      "mn10:34.14",
+      "mn10:34.15",
+      "mn10:34.16",
+      "mn10:34.17",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.3",
+      "mn10:38.8",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.3",
+      "mn10:44.3",
+      "mn10:45.3",
+      "mn10:46.7",
+      "mn10:46.17",
+      "mn10:47.1",
+      "mn10:47.2"
+    ]
+  },
+  "bhadanta": {
+    "lemma": "bhadanta",
+    "forms": [
+      "Bhadante"
+    ],
+    "occurrences": [
+      "mn10:1.5"
+    ]
+  },
+  "ta": {
+    "lemma": "ta",
+    "forms": [
+      "te",
+      "So",
+      "naṁ",
+      "tañca",
+      "tassa",
+      "taṁ"
+    ],
+    "occurrences": [
+      "mn10:1.5",
+      "mn10:4.3",
+      "mn10:6.2",
+      "mn10:14.2",
+      "mn10:16.2",
+      "mn10:24.2",
+      "mn10:30.2",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:46.1",
+      "mn10:46.11",
+      "mn10:46.22",
+      "mn10:47.2",
+      "mn10:47.4"
+    ]
+  },
+  "paccassosi": {
+    "lemma": "paccassosi",
+    "forms": [
+      "paccassosuṁ"
+    ],
+    "occurrences": [
+      "mn10:1.5"
+    ]
+  },
+  "etadavoca": {
+    "lemma": "etadavoca",
+    "forms": [
+      "etadavoca"
+    ],
+    "occurrences": [
+      "mn10:1.6"
+    ]
+  },
+  "ekayana": {
+    "lemma": "ekāyana",
+    "forms": [
+      "Ekāyano"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "ima": {
+    "lemma": "ima",
+    "forms": [
+      "ayaṁ",
+      "imameva",
+      "imasmiṁ",
+      "ime",
+      "assa",
+      "ayampi",
+      "idaṁ"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:10.1",
+      "mn10:10.2",
+      "mn10:10.3",
+      "mn10:10.4",
+      "mn10:10.5",
+      "mn10:12.1",
+      "mn10:12.2",
+      "mn10:12.3",
+      "mn10:12.4",
+      "mn10:12.5",
+      "mn10:14.2",
+      "mn10:14.3",
+      "mn10:16.2",
+      "mn10:16.3",
+      "mn10:24.2",
+      "mn10:24.3",
+      "mn10:30.2",
+      "mn10:30.3",
+      "mn10:44.3",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22",
+      "mn10:47.1"
+    ]
+  },
+  "magga": {
+    "lemma": "magga",
+    "forms": [
+      "maggo"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "satta": {
+    "lemma": "satta",
+    "forms": [
+      "sattānaṁ",
+      "sattasu",
+      "satta"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:43.4",
+      "mn10:46.1",
+      "mn10:46.3",
+      "mn10:46.11",
+      "mn10:46.13",
+      "mn10:47.1"
+    ]
+  },
+  "visuddhi": {
+    "lemma": "visuddhi",
+    "forms": [
+      "visuddhiyā"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "sokaparideva": {
+    "lemma": "sokaparideva",
+    "forms": [
+      "sokaparidevānaṁ"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "samatikkama": {
+    "lemma": "samatikkama",
+    "forms": [
+      "samatikkamāya"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "dukkhadomanassa": {
+    "lemma": "dukkhadomanassa",
+    "forms": [
+      "dukkhadomanassānaṁ"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "atthangama": {
+    "lemma": "atthaṅgama",
+    "forms": [
+      "atthaṅgamāya",
+      "atthaṅgamo"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:38.4",
+      "mn10:38.5",
+      "mn10:38.6",
+      "mn10:38.7",
+      "mn10:38.8",
+      "mn10:47.1"
+    ]
+  },
+  "naya": {
+    "lemma": "ñāya",
+    "forms": [
+      "ñāyassa"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "adhigama": {
+    "lemma": "adhigama",
+    "forms": [
+      "adhigamāya"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "nibbana": {
+    "lemma": "nibbāna",
+    "forms": [
+      "nibbānassa"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "sacchikiriya": {
+    "lemma": "sacchikiriyā",
+    "forms": [
+      "sacchikiriyāya"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "yadidam": {
+    "lemma": "yadidaṃ",
+    "forms": [
+      "yadidaṁ"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:47.1"
+    ]
+  },
+  "catu": {
+    "lemma": "catu",
+    "forms": [
+      "cattāro",
+      "catūsu",
+      "cattāri"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:3.1",
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:45.4",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.6",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.16",
+      "mn10:46.22",
+      "mn10:47.1"
+    ]
+  },
+  "satipatthana": {
+    "lemma": "satipaṭṭhāna",
+    "forms": [
+      "satipaṭṭhānā",
+      "satipaṭṭhāne"
+    ],
+    "occurrences": [
+      "mn10:2.1",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22",
+      "mn10:47.1"
+    ]
+  },
+  "katama": {
+    "lemma": "katama",
+    "forms": [
+      "Katame"
+    ],
+    "occurrences": [
+      "mn10:3.1"
+    ]
+  },
+  "idha": {
+    "lemma": "idha",
+    "forms": [
+      "Idha"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:4.2",
+      "mn10:32.2",
+      "mn10:34.2",
+      "mn10:36.2",
+      "mn10:36.4",
+      "mn10:38.3",
+      "mn10:40.3",
+      "mn10:42.3",
+      "mn10:44.3"
+    ]
+  },
+  "kaya": {
+    "lemma": "kāya",
+    "forms": [
+      "kāye",
+      "kāyasmiṁ"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:4.1",
+      "mn10:5.1",
+      "mn10:5.2",
+      "mn10:5.4",
+      "mn10:7.1",
+      "mn10:7.2",
+      "mn10:7.4",
+      "mn10:9.1",
+      "mn10:9.2",
+      "mn10:10.2",
+      "mn10:10.5",
+      "mn10:11.1",
+      "mn10:11.2",
+      "mn10:12.2",
+      "mn10:12.5",
+      "mn10:13.1",
+      "mn10:13.2",
+      "mn10:15.1",
+      "mn10:15.2",
+      "mn10:17.1",
+      "mn10:17.2",
+      "mn10:25.1",
+      "mn10:25.2",
+      "mn10:31.1",
+      "mn10:31.2",
+      "mn10:31.4"
+    ]
+  },
+  "kayanupassi": {
+    "lemma": "kāyānupassī",
+    "forms": [
+      "kāyānupassī"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:4.1",
+      "mn10:5.1",
+      "mn10:5.4",
+      "mn10:7.1",
+      "mn10:7.4",
+      "mn10:9.1",
+      "mn10:9.2",
+      "mn10:11.1",
+      "mn10:11.2",
+      "mn10:13.1",
+      "mn10:13.2",
+      "mn10:15.1",
+      "mn10:15.2",
+      "mn10:17.1",
+      "mn10:17.2",
+      "mn10:25.1",
+      "mn10:25.2",
+      "mn10:31.1",
+      "mn10:31.4"
+    ]
+  },
+  "atapi": {
+    "lemma": "ātāpī",
+    "forms": [
+      "ātāpī"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5"
+    ]
+  },
+  "sampajana": {
+    "lemma": "sampajāna",
+    "forms": [
+      "sampajāno"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5"
+    ]
+  },
+  "satimant": {
+    "lemma": "satimant",
+    "forms": [
+      "satimā"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5"
+    ]
+  },
+  "vineti": {
+    "lemma": "vineti",
+    "forms": [
+      "vineyya"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5"
+    ]
+  },
+  "loka": {
+    "lemma": "loka",
+    "forms": [
+      "loke"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5",
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "abhijjhadomanassa": {
+    "lemma": "abhijjhādomanassa",
+    "forms": [
+      "abhijjhādomanassaṁ"
+    ],
+    "occurrences": [
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5"
+    ]
+  },
+  "vedana": {
+    "lemma": "vedana",
+    "forms": [
+      "vedanāsu",
+      "vedanaṁ",
+      "vedanā",
+      "vedanāya"
+    ],
+    "occurrences": [
+      "mn10:3.3",
+      "mn10:32.1",
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10",
+      "mn10:33.1",
+      "mn10:33.2",
+      "mn10:33.3",
+      "mn10:33.4",
+      "mn10:38.5"
+    ]
+  },
+  "vedananupassi": {
+    "lemma": "vedanānupassī",
+    "forms": [
+      "vedanānupassī"
+    ],
+    "occurrences": [
+      "mn10:3.3",
+      "mn10:32.1",
+      "mn10:33.1",
+      "mn10:33.4"
+    ]
+  },
+  "citta": {
+    "lemma": "citta",
+    "forms": [
+      "citte",
+      "cittaṁ",
+      "cittasmiṁ"
+    ],
+    "occurrences": [
+      "mn10:3.4",
+      "mn10:34.1",
+      "mn10:34.2",
+      "mn10:34.3",
+      "mn10:34.4",
+      "mn10:34.5",
+      "mn10:34.6",
+      "mn10:34.7",
+      "mn10:34.8",
+      "mn10:34.9",
+      "mn10:34.10",
+      "mn10:34.11",
+      "mn10:34.12",
+      "mn10:34.13",
+      "mn10:34.14",
+      "mn10:34.15",
+      "mn10:34.16",
+      "mn10:34.17",
+      "mn10:35.1",
+      "mn10:35.2",
+      "mn10:35.4"
+    ]
+  },
+  "cittanupassi": {
+    "lemma": "cittānupassī",
+    "forms": [
+      "cittānupassī"
+    ],
+    "occurrences": [
+      "mn10:3.4",
+      "mn10:34.1",
+      "mn10:35.1",
+      "mn10:35.4"
+    ]
+  },
+  "dhamma": {
+    "lemma": "dhamma",
+    "forms": [
+      "dhammesu",
+      "dhammā",
+      "dhamme"
+    ],
+    "occurrences": [
+      "mn10:3.5",
+      "mn10:36.1",
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:37.1",
+      "mn10:37.2",
+      "mn10:37.3",
+      "mn10:37.4",
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:39.1",
+      "mn10:39.2",
+      "mn10:39.3",
+      "mn10:39.4",
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:40.8",
+      "mn10:41.1",
+      "mn10:41.2",
+      "mn10:41.3",
+      "mn10:41.4",
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:43.1",
+      "mn10:43.2",
+      "mn10:43.3",
+      "mn10:43.4",
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:45.1",
+      "mn10:45.2",
+      "mn10:45.3",
+      "mn10:45.4",
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "dhammanupassi": {
+    "lemma": "dhammānupassī",
+    "forms": [
+      "dhammānupassī"
+    ],
+    "occurrences": [
+      "mn10:3.5",
+      "mn10:36.1",
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:37.1",
+      "mn10:37.4",
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:39.1",
+      "mn10:39.4",
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:41.1",
+      "mn10:41.4",
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:43.1",
+      "mn10:43.4",
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:45.1",
+      "mn10:45.4"
+    ]
+  },
+  "uddesa": {
+    "lemma": "uddesa",
+    "forms": [
+      "Uddeso"
+    ],
+    "occurrences": [
+      "mn10:3.6"
+    ]
+  },
+  "nitthita": {
+    "lemma": "niṭṭhita",
+    "forms": [
+      "niṭṭhito",
+      "niṭṭhitaṁ",
+      "niṭṭhitā"
+    ],
+    "occurrences": [
+      "mn10:3.6",
+      "mn10:5.5",
+      "mn10:7.5",
+      "mn10:9.3",
+      "mn10:11.3",
+      "mn10:13.3",
+      "mn10:31.5",
+      "mn10:31.6",
+      "mn10:33.5",
+      "mn10:35.5",
+      "mn10:37.5",
+      "mn10:39.5",
+      "mn10:41.5",
+      "mn10:43.5",
+      "mn10:45.5",
+      "mn10:45.6",
+      "mn10:47.5",
+      "mn10:47.6"
+    ]
+  },
+  "kayanupassana": {
+    "lemma": "kāyānupassanā",
+    "forms": [
+      "Kāyānupassanā"
+    ],
+    "occurrences": [
+      "mn10:4.0.1"
+    ]
+  },
+  "kayanupassanaanapanapabba": {
+    "lemma": "kāyānupassanāānāpānapabba",
+    "forms": [
+      "Kāyānupassanāānāpānapabba"
+    ],
+    "occurrences": [
+      "mn10:4.0.2"
+    ]
+  },
+  "katha": {
+    "lemma": "katha",
+    "forms": [
+      "Kathañca"
+    ],
+    "occurrences": [
+      "mn10:4.1",
+      "mn10:32.1",
+      "mn10:34.1",
+      "mn10:36.1",
+      "mn10:36.3",
+      "mn10:38.2",
+      "mn10:40.2",
+      "mn10:42.2",
+      "mn10:44.2"
+    ]
+  },
+  "arannagata": {
+    "lemma": "araññagata",
+    "forms": [
+      "araññagato"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "va": {
+    "lemma": "va",
+    "forms": [
+      "vā"
+    ],
+    "occurrences": [
+      "mn10:4.2",
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.8",
+      "mn10:4.9",
+      "mn10:5.1",
+      "mn10:5.2",
+      "mn10:5.3",
+      "mn10:6.1",
+      "mn10:6.2",
+      "mn10:7.1",
+      "mn10:7.2",
+      "mn10:7.3",
+      "mn10:9.1",
+      "mn10:11.1",
+      "mn10:12.3",
+      "mn10:13.1",
+      "mn10:14.1",
+      "mn10:15.1",
+      "mn10:16.1",
+      "mn10:17.1",
+      "mn10:25.1",
+      "mn10:31.1",
+      "mn10:31.2",
+      "mn10:31.3",
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10",
+      "mn10:33.1",
+      "mn10:33.2",
+      "mn10:33.3",
+      "mn10:34.2",
+      "mn10:34.3",
+      "mn10:34.4",
+      "mn10:34.5",
+      "mn10:34.6",
+      "mn10:34.7",
+      "mn10:34.8",
+      "mn10:34.9",
+      "mn10:34.10",
+      "mn10:34.11",
+      "mn10:34.12",
+      "mn10:34.13",
+      "mn10:34.14",
+      "mn10:34.15",
+      "mn10:34.16",
+      "mn10:34.17",
+      "mn10:35.1",
+      "mn10:35.2",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.1",
+      "mn10:37.2",
+      "mn10:37.3",
+      "mn10:39.1",
+      "mn10:39.2",
+      "mn10:39.3",
+      "mn10:41.1",
+      "mn10:41.2",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.1",
+      "mn10:43.2",
+      "mn10:43.3",
+      "mn10:45.1",
+      "mn10:45.2",
+      "mn10:45.3",
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "rukkhamulagata": {
+    "lemma": "rukkhamūlagata",
+    "forms": [
+      "rukkhamūlagato"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "sunnagaragata": {
+    "lemma": "suññāgāragata",
+    "forms": [
+      "suññāgāragato"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "nisidati": {
+    "lemma": "nisīdati",
+    "forms": [
+      "nisīdati"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "pallanka": {
+    "lemma": "pallaṅka",
+    "forms": [
+      "pallaṅkaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "abhujitva": {
+    "lemma": "ābhujitvā",
+    "forms": [
+      "ābhujitvā"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "uju": {
+    "lemma": "uju",
+    "forms": [
+      "ujuṁ"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "ki": {
+    "lemma": "ki",
+    "forms": [
+      "kāyaṁ",
+      "kāyo",
+      "Kāyañca"
+    ],
+    "occurrences": [
+      "mn10:4.2",
+      "mn10:5.3",
+      "mn10:6.2",
+      "mn10:7.3",
+      "mn10:10.1",
+      "mn10:10.4",
+      "mn10:12.1",
+      "mn10:12.4",
+      "mn10:14.2",
+      "mn10:14.3",
+      "mn10:16.2",
+      "mn10:16.3",
+      "mn10:24.2",
+      "mn10:24.3",
+      "mn10:30.2",
+      "mn10:30.3",
+      "mn10:31.3",
+      "mn10:40.7"
+    ]
+  },
+  "panidhaya": {
+    "lemma": "paṇidhāya",
+    "forms": [
+      "paṇidhāya"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "parimukham": {
+    "lemma": "parimukhaṃ",
+    "forms": [
+      "parimukhaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "santa": {
+    "lemma": "santa",
+    "forms": [
+      "satiṁ",
+      "sati",
+      "santaṁ",
+      "Santaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.2",
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.3",
+      "mn10:45.3",
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "upatthapetva": {
+    "lemma": "upaṭṭhapetvā",
+    "forms": [
+      "upaṭṭhapetvā"
+    ],
+    "occurrences": [
+      "mn10:4.2"
+    ]
+  },
+  "sa": {
+    "lemma": "sa",
+    "forms": [
+      "satova"
+    ],
+    "occurrences": [
+      "mn10:4.3"
+    ]
+  },
+  "assasati": {
+    "lemma": "assasati",
+    "forms": [
+      "assasati"
+    ],
+    "occurrences": [
+      "mn10:4.3"
+    ]
+  },
+  "passasati": {
+    "lemma": "passasati",
+    "forms": [
+      "passasati"
+    ],
+    "occurrences": [
+      "mn10:4.3"
+    ]
+  },
+  "digha": {
+    "lemma": "dīgha",
+    "forms": [
+      "Dīghaṁ",
+      "dīghaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.4",
+      "mn10:4.8",
+      "mn10:4.9"
+    ]
+  },
+  "assasanta": {
+    "lemma": "assasanta",
+    "forms": [
+      "assasanto"
+    ],
+    "occurrences": [
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.9"
+    ]
+  },
+  "pajanati": {
+    "lemma": "pajānāti",
+    "forms": [
+      "pajānāti"
+    ],
+    "occurrences": [
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.8",
+      "mn10:4.9",
+      "mn10:6.1",
+      "mn10:6.2",
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10",
+      "mn10:34.2",
+      "mn10:34.3",
+      "mn10:34.4",
+      "mn10:34.5",
+      "mn10:34.6",
+      "mn10:34.7",
+      "mn10:34.8",
+      "mn10:34.9",
+      "mn10:34.10",
+      "mn10:34.11",
+      "mn10:34.12",
+      "mn10:34.13",
+      "mn10:34.14",
+      "mn10:34.15",
+      "mn10:34.16",
+      "mn10:34.17",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:44.3"
+    ]
+  },
+  "passasanta": {
+    "lemma": "passasanta",
+    "forms": [
+      "passasanto"
+    ],
+    "occurrences": [
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.9"
+    ]
+  },
+  "rassa": {
+    "lemma": "rassa",
+    "forms": [
+      "rassaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.5",
+      "mn10:4.8",
+      "mn10:4.9"
+    ]
+  },
+  "sabbakayapatisamvedi": {
+    "lemma": "sabbakāyapaṭisaṃvedī",
+    "forms": [
+      "Sabbakāyapaṭisaṁvedī",
+      "sabbakāyapaṭisaṁvedī"
+    ],
+    "occurrences": [
+      "mn10:4.6",
+      "mn10:4.10"
+    ]
+  },
+  "sikkhati": {
+    "lemma": "sikkhati",
+    "forms": [
+      "sikkhati"
+    ],
+    "occurrences": [
+      "mn10:4.6",
+      "mn10:4.7",
+      "mn10:4.10",
+      "mn10:4.11"
+    ]
+  },
+  "passambhayanta": {
+    "lemma": "passambhayanta",
+    "forms": [
+      "Passambhayaṁ",
+      "passambhayaṁ"
+    ],
+    "occurrences": [
+      "mn10:4.7",
+      "mn10:4.11"
+    ]
+  },
+  "kayasankhara": {
+    "lemma": "kāyasaṅkhāra",
+    "forms": [
+      "kāyasaṅkhāraṁ"
+    ],
+    "occurrences": [
+      "mn10:4.7",
+      "mn10:4.11"
+    ]
+  },
+  "seyyathapi": {
+    "lemma": "seyyathāpi",
+    "forms": [
+      "Seyyathāpi",
+      "seyyathāpi"
+    ],
+    "occurrences": [
+      "mn10:4.8",
+      "mn10:10.3",
+      "mn10:12.3",
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1"
+    ]
+  },
+  "dakkhi": {
+    "lemma": "dakkhi",
+    "forms": [
+      "dakkho"
+    ],
+    "occurrences": [
+      "mn10:4.8",
+      "mn10:12.3"
+    ]
+  },
+  "bhamakara": {
+    "lemma": "bhamakāra",
+    "forms": [
+      "bhamakāro"
+    ],
+    "occurrences": [
+      "mn10:4.8"
+    ]
+  },
+  "bhamakarantevasi": {
+    "lemma": "bhamakārantevāsī",
+    "forms": [
+      "bhamakārantevāsī"
+    ],
+    "occurrences": [
+      "mn10:4.8"
+    ]
+  },
+  "anchanta": {
+    "lemma": "añchanta",
+    "forms": [
+      "añchanto"
+    ],
+    "occurrences": [
+      "mn10:4.8"
+    ]
+  },
+  "iti": {
+    "lemma": "iti",
+    "forms": [
+      "Iti",
+      "iti"
+    ],
+    "occurrences": [
+      "mn10:5.1",
+      "mn10:7.1",
+      "mn10:9.1",
+      "mn10:11.1",
+      "mn10:13.1",
+      "mn10:15.1",
+      "mn10:17.1",
+      "mn10:25.1",
+      "mn10:31.1",
+      "mn10:33.1",
+      "mn10:35.1",
+      "mn10:37.1",
+      "mn10:38.4",
+      "mn10:38.5",
+      "mn10:38.6",
+      "mn10:38.7",
+      "mn10:38.8",
+      "mn10:39.1",
+      "mn10:41.1",
+      "mn10:43.1",
+      "mn10:45.1",
+      "mn10:47.2"
+    ]
+  },
+  "ajjhatta": {
+    "lemma": "ajjhatta",
+    "forms": [
+      "ajjhattaṁ"
+    ],
+    "occurrences": [
+      "mn10:5.1",
+      "mn10:7.1",
+      "mn10:9.1",
+      "mn10:11.1",
+      "mn10:13.1",
+      "mn10:15.1",
+      "mn10:17.1",
+      "mn10:25.1",
+      "mn10:31.1",
+      "mn10:33.1",
+      "mn10:35.1",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.1",
+      "mn10:39.1",
+      "mn10:41.1",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.1",
+      "mn10:45.1"
+    ]
+  },
+  "bahiddha": {
+    "lemma": "bahiddha",
+    "forms": [
+      "bahiddhā"
+    ],
+    "occurrences": [
+      "mn10:5.1",
+      "mn10:7.1",
+      "mn10:31.1",
+      "mn10:33.1",
+      "mn10:35.1",
+      "mn10:37.1",
+      "mn10:39.1",
+      "mn10:41.1",
+      "mn10:43.1",
+      "mn10:45.1"
+    ]
+  },
+  "ajjhattabahiddha": {
+    "lemma": "ajjhattabahiddha",
+    "forms": [
+      "ajjhattabahiddhā"
+    ],
+    "occurrences": [
+      "mn10:5.1",
+      "mn10:7.1",
+      "mn10:31.1",
+      "mn10:33.1",
+      "mn10:35.1",
+      "mn10:37.1",
+      "mn10:39.1",
+      "mn10:41.1",
+      "mn10:43.1",
+      "mn10:45.1"
+    ]
+  },
+  "samudayadhammanupassi": {
+    "lemma": "samudayadhammānupassī",
+    "forms": [
+      "samudayadhammānupassī"
+    ],
+    "occurrences": [
+      "mn10:5.2",
+      "mn10:7.2",
+      "mn10:31.2",
+      "mn10:33.2",
+      "mn10:35.2",
+      "mn10:37.2",
+      "mn10:39.2",
+      "mn10:41.2",
+      "mn10:43.2",
+      "mn10:45.2"
+    ]
+  },
+  "vayadhammanupassi": {
+    "lemma": "vayadhammānupassī",
+    "forms": [
+      "vayadhammānupassī"
+    ],
+    "occurrences": [
+      "mn10:5.2",
+      "mn10:7.2",
+      "mn10:31.2",
+      "mn10:33.2",
+      "mn10:35.2",
+      "mn10:37.2",
+      "mn10:39.2",
+      "mn10:41.2",
+      "mn10:43.2",
+      "mn10:45.2"
+    ]
+  },
+  "samudayavayadhammanupassi": {
+    "lemma": "samudayavayadhammānupassī",
+    "forms": [
+      "samudayavayadhammānupassī"
+    ],
+    "occurrences": [
+      "mn10:5.2",
+      "mn10:7.2",
+      "mn10:31.2",
+      "mn10:33.2",
+      "mn10:35.2",
+      "mn10:37.2",
+      "mn10:39.2",
+      "mn10:41.2",
+      "mn10:43.2",
+      "mn10:45.2"
+    ]
+  },
+  "atthi": {
+    "lemma": "atthi",
+    "forms": [
+      "Atthi",
+      "atthi",
+      "aṭṭhi"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:10.2",
+      "mn10:10.5",
+      "mn10:12.2",
+      "mn10:12.5",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "panassi": {
+    "lemma": "panassi",
+    "forms": [
+      "panassa"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:6.2",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "paccupatthita": {
+    "lemma": "paccupaṭṭhita",
+    "forms": [
+      "paccupaṭṭhitā"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "hoti": {
+    "lemma": "hoti",
+    "forms": [
+      "hoti"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:6.2",
+      "mn10:7.3",
+      "mn10:8.1",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "yavant": {
+    "lemma": "yāvant",
+    "forms": [
+      "Yāvadeva"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "nanamatta": {
+    "lemma": "ñāṇamattā",
+    "forms": [
+      "ñāṇamattāya"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "patissatimatta": {
+    "lemma": "paṭissatimattā",
+    "forms": [
+      "paṭissatimattāya"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "anissita": {
+    "lemma": "anissita",
+    "forms": [
+      "anissito"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "ca": {
+    "lemma": "ca",
+    "forms": [
+      "ca"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:41.3",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "na": {
+    "lemma": "na",
+    "forms": [
+      "na"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "kaci": {
+    "lemma": "kaci",
+    "forms": [
+      "kiñci",
+      "koci"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22"
+    ]
+  },
+  "upadiyati": {
+    "lemma": "upādiyati",
+    "forms": [
+      "upādiyati"
+    ],
+    "occurrences": [
+      "mn10:5.3",
+      "mn10:7.3",
+      "mn10:31.3",
+      "mn10:33.3",
+      "mn10:35.3",
+      "mn10:37.3",
+      "mn10:39.3",
+      "mn10:41.3",
+      "mn10:43.3",
+      "mn10:45.3"
+    ]
+  },
+  "anapanapabba": {
+    "lemma": "ānāpānapabba",
+    "forms": [
+      "Ānāpānapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:5.5"
+    ]
+  },
+  "kayanupassanairiyapathapabba": {
+    "lemma": "kāyānupassanāiriyāpathapabba",
+    "forms": [
+      "Kāyānupassanāiriyāpathapabba"
+    ],
+    "occurrences": [
+      "mn10:6.0"
+    ]
+  },
+  "punati": {
+    "lemma": "punāti",
+    "forms": [
+      "Puna"
+    ],
+    "occurrences": [
+      "mn10:6.1",
+      "mn10:8.1",
+      "mn10:10.1",
+      "mn10:12.1",
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1",
+      "mn10:38.1",
+      "mn10:40.1",
+      "mn10:42.1",
+      "mn10:44.1"
+    ]
+  },
+  "caparam": {
+    "lemma": "caparaṃ",
+    "forms": [
+      "caparaṁ"
+    ],
+    "occurrences": [
+      "mn10:6.1",
+      "mn10:8.1",
+      "mn10:10.1",
+      "mn10:12.1",
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1",
+      "mn10:38.1",
+      "mn10:40.1",
+      "mn10:42.1",
+      "mn10:44.1"
+    ]
+  },
+  "gacchanta": {
+    "lemma": "gacchanta",
+    "forms": [
+      "gacchanto"
+    ],
+    "occurrences": [
+      "mn10:6.1"
+    ]
+  },
+  "thita": {
+    "lemma": "ṭhita",
+    "forms": [
+      "ṭhito",
+      "ṭhite"
+    ],
+    "occurrences": [
+      "mn10:6.1",
+      "mn10:8.1"
+    ]
+  },
+  "nisinna": {
+    "lemma": "nisinna",
+    "forms": [
+      "nisinno",
+      "nisinne"
+    ],
+    "occurrences": [
+      "mn10:6.1",
+      "mn10:8.1",
+      "mn10:12.3"
+    ]
+  },
+  "sayana": {
+    "lemma": "sayāna",
+    "forms": [
+      "sayāno"
+    ],
+    "occurrences": [
+      "mn10:6.1"
+    ]
+  },
+  "yatha": {
+    "lemma": "yathā",
+    "forms": [
+      "Yathā",
+      "yathā"
+    ],
+    "occurrences": [
+      "mn10:6.2",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "panihita": {
+    "lemma": "paṇihita",
+    "forms": [
+      "paṇihito"
+    ],
+    "occurrences": [
+      "mn10:6.2"
+    ]
+  },
+  "tatha": {
+    "lemma": "tatha",
+    "forms": [
+      "tathā"
+    ],
+    "occurrences": [
+      "mn10:6.2"
+    ]
+  },
+  "iriyapathapabba": {
+    "lemma": "iriyāpathapabba",
+    "forms": [
+      "Iriyāpathapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:7.5"
+    ]
+  },
+  "abhikkanta": {
+    "lemma": "abhikkanta",
+    "forms": [
+      "abhikkante"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "patikkanta": {
+    "lemma": "paṭikkanta",
+    "forms": [
+      "paṭikkante"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "sampajanakari": {
+    "lemma": "sampajānakārī",
+    "forms": [
+      "sampajānakārī"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "alokita": {
+    "lemma": "ālokita",
+    "forms": [
+      "ālokite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "vilokita": {
+    "lemma": "vilokita",
+    "forms": [
+      "vilokite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "saminjita": {
+    "lemma": "samiñjita",
+    "forms": [
+      "samiñjite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "pasarita": {
+    "lemma": "pasārita",
+    "forms": [
+      "pasārite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "sanghatipattacivaradharana": {
+    "lemma": "saṅghāṭipattacīvaradhāraṇa",
+    "forms": [
+      "saṅghāṭipattacīvaradhāraṇe"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "asita": {
+    "lemma": "asita",
+    "forms": [
+      "asite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "pita": {
+    "lemma": "pīta",
+    "forms": [
+      "pīte"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "khayita": {
+    "lemma": "khāyita",
+    "forms": [
+      "khāyite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "sayita": {
+    "lemma": "sāyita",
+    "forms": [
+      "sāyite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "uccarapassavakamma": {
+    "lemma": "uccārapassāvakamma",
+    "forms": [
+      "uccārapassāvakamme"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "gata": {
+    "lemma": "gata",
+    "forms": [
+      "gate"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "sutta": {
+    "lemma": "sutta",
+    "forms": [
+      "sutte"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "jagarita": {
+    "lemma": "jāgarita",
+    "forms": [
+      "jāgarite"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "bhasita": {
+    "lemma": "bhāsita",
+    "forms": [
+      "bhāsite",
+      "bhāsitaṁ"
+    ],
+    "occurrences": [
+      "mn10:8.1",
+      "mn10:47.4"
+    ]
+  },
+  "tunhibhava": {
+    "lemma": "tuṇhībhāva",
+    "forms": [
+      "tuṇhībhāve"
+    ],
+    "occurrences": [
+      "mn10:8.1"
+    ]
+  },
+  "pati": {
+    "lemma": "pāti",
+    "forms": [
+      "pe"
+    ],
+    "occurrences": [
+      "mn10:9.1",
+      "mn10:10.5",
+      "mn10:11.1",
+      "mn10:13.1",
+      "mn10:15.1",
+      "mn10:17.1",
+      "mn10:18-23.1",
+      "mn10:18-23.2",
+      "mn10:18-23.3",
+      "mn10:25.1",
+      "mn10:26-28.1",
+      "mn10:29.1",
+      "mn10:46.4",
+      "mn10:46.14"
+    ]
+  },
+  "sampajanapabba": {
+    "lemma": "sampajānapabba",
+    "forms": [
+      "Sampajānapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:9.3"
+    ]
+  },
+  "kayanupassanapatikulamanasikarapabba": {
+    "lemma": "kāyānupassanāpaṭikūlamanasikārapabba",
+    "forms": [
+      "Kāyānupassanāpaṭikūlamanasikārapabba"
+    ],
+    "occurrences": [
+      "mn10:10.0"
+    ]
+  },
+  "uddha": {
+    "lemma": "uddha",
+    "forms": [
+      "uddhaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "padatala": {
+    "lemma": "pādatala",
+    "forms": [
+      "pādatalā"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "adho": {
+    "lemma": "adho",
+    "forms": [
+      "adho"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "kesamatthaka": {
+    "lemma": "kesamatthaka",
+    "forms": [
+      "kesamatthakā"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "tacapariyanta": {
+    "lemma": "tacapariyanta",
+    "forms": [
+      "tacapariyantaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "pura": {
+    "lemma": "pūra",
+    "forms": [
+      "pūraṁ",
+      "pūrā"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.3",
+      "mn10:10.4"
+    ]
+  },
+  "nanappakara": {
+    "lemma": "nānappakāra",
+    "forms": [
+      "nānappakārassa"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "asuci": {
+    "lemma": "asuci",
+    "forms": [
+      "asucino"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.4"
+    ]
+  },
+  "paccavekkhati": {
+    "lemma": "paccavekkhati",
+    "forms": [
+      "paccavekkhati",
+      "paccavekkheyya"
+    ],
+    "occurrences": [
+      "mn10:10.1",
+      "mn10:10.3",
+      "mn10:10.4",
+      "mn10:12.1",
+      "mn10:12.4"
+    ]
+  },
+  "kesa": {
+    "lemma": "kesa",
+    "forms": [
+      "kesā"
+    ],
+    "occurrences": [
+      "mn10:10.2",
+      "mn10:10.5"
+    ]
+  },
+  "loma": {
+    "lemma": "loma",
+    "forms": [
+      "lomā"
+    ],
+    "occurrences": [
+      "mn10:10.2",
+      "mn10:10.5"
+    ]
+  },
+  "nakha": {
+    "lemma": "nakha",
+    "forms": [
+      "nakhā"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "danta": {
+    "lemma": "danta",
+    "forms": [
+      "dantā"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "taca": {
+    "lemma": "taca",
+    "forms": [
+      "taco"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "mamsa": {
+    "lemma": "maṃsa",
+    "forms": [
+      "maṁsaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "nharu": {
+    "lemma": "nhāru",
+    "forms": [
+      "nhāru"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "atthiminja": {
+    "lemma": "aṭṭhimiñja",
+    "forms": [
+      "aṭṭhimiñjaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "vakka": {
+    "lemma": "vakka",
+    "forms": [
+      "vakkaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "hadaya": {
+    "lemma": "hadaya",
+    "forms": [
+      "hadayaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "yakana": {
+    "lemma": "yakana",
+    "forms": [
+      "yakanaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "kilomaka": {
+    "lemma": "kilomaka",
+    "forms": [
+      "kilomakaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "pihaka": {
+    "lemma": "pihaka",
+    "forms": [
+      "pihakaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "papphasa": {
+    "lemma": "papphāsa",
+    "forms": [
+      "papphāsaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "anta": {
+    "lemma": "anta",
+    "forms": [
+      "antaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "antaguna": {
+    "lemma": "antaguṇa",
+    "forms": [
+      "antaguṇaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "udariya": {
+    "lemma": "udariya",
+    "forms": [
+      "udariyaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "karisa": {
+    "lemma": "karīsa",
+    "forms": [
+      "karīsaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "pitta": {
+    "lemma": "pitta",
+    "forms": [
+      "pittaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "semha": {
+    "lemma": "semha",
+    "forms": [
+      "semhaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "pubba": {
+    "lemma": "pubba",
+    "forms": [
+      "pubbo"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "lohita": {
+    "lemma": "lohita",
+    "forms": [
+      "lohitaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "seda": {
+    "lemma": "seda",
+    "forms": [
+      "sedo"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "meda": {
+    "lemma": "meda",
+    "forms": [
+      "medo"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "assa": {
+    "lemma": "assa",
+    "forms": [
+      "assu"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "vasi": {
+    "lemma": "vasi",
+    "forms": [
+      "vasā"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "khela": {
+    "lemma": "kheḷa",
+    "forms": [
+      "kheḷo"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "singhanika": {
+    "lemma": "siṅghāṇikā",
+    "forms": [
+      "siṅghāṇikā"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "lasika": {
+    "lemma": "lasikā",
+    "forms": [
+      "lasikā"
+    ],
+    "occurrences": [
+      "mn10:10.2"
+    ]
+  },
+  "ubhatomukha": {
+    "lemma": "ubhatomukha",
+    "forms": [
+      "ubhatomukhā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "putoli": {
+    "lemma": "putoḷi",
+    "forms": [
+      "putoḷi"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "nanavihita": {
+    "lemma": "nānāvihita",
+    "forms": [
+      "nānāvihitassa"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "dhanna": {
+    "lemma": "dhañña",
+    "forms": [
+      "dhaññassa"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "seyyathidam": {
+    "lemma": "seyyathidaṃ",
+    "forms": [
+      "seyyathidaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "sali": {
+    "lemma": "sāli",
+    "forms": [
+      "sālīnaṁ",
+      "sālī"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "vihi": {
+    "lemma": "vīhi",
+    "forms": [
+      "vīhīnaṁ",
+      "vīhī"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "mugga": {
+    "lemma": "mugga",
+    "forms": [
+      "muggānaṁ",
+      "muggā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "masa": {
+    "lemma": "māsa",
+    "forms": [
+      "māsānaṁ",
+      "māsā",
+      "māsāni",
+      "māsaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.3",
+      "mn10:46.11",
+      "mn10:46.13",
+      "mn10:46.14",
+      "mn10:46.15",
+      "mn10:46.16",
+      "mn10:46.17",
+      "mn10:46.18",
+      "mn10:46.19"
+    ]
+  },
+  "tila": {
+    "lemma": "tila",
+    "forms": [
+      "tilānaṁ",
+      "tilā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "tandula": {
+    "lemma": "taṇḍula",
+    "forms": [
+      "taṇḍulānaṁ",
+      "taṇḍulā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "tamenam": {
+    "lemma": "tamenaṃ",
+    "forms": [
+      "Tamenaṁ"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "cakkhumant": {
+    "lemma": "cakkhumant",
+    "forms": [
+      "cakkhumā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "purisa": {
+    "lemma": "purisa",
+    "forms": [
+      "puriso"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "muncitva": {
+    "lemma": "muñcitvā",
+    "forms": [
+      "muñcitvā"
+    ],
+    "occurrences": [
+      "mn10:10.3"
+    ]
+  },
+  "patikulamanasikarapabba": {
+    "lemma": "paṭikūlamanasikārapabba",
+    "forms": [
+      "Paṭikūlamanasikārapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:11.3"
+    ]
+  },
+  "kayanupassanadhatumanasikarapabba": {
+    "lemma": "kāyānupassanādhātumanasikārapabba",
+    "forms": [
+      "Kāyānupassanādhātumanasikārapabba"
+    ],
+    "occurrences": [
+      "mn10:12.0"
+    ]
+  },
+  "yathathita": {
+    "lemma": "yathāṭhita",
+    "forms": [
+      "yathāṭhitaṁ"
+    ],
+    "occurrences": [
+      "mn10:12.1",
+      "mn10:12.4"
+    ]
+  },
+  "yathapanihita": {
+    "lemma": "yathāpaṇihita",
+    "forms": [
+      "yathāpaṇihitaṁ"
+    ],
+    "occurrences": [
+      "mn10:12.1",
+      "mn10:12.4"
+    ]
+  },
+  "dhatuso": {
+    "lemma": "dhātuso",
+    "forms": [
+      "dhātuso"
+    ],
+    "occurrences": [
+      "mn10:12.1",
+      "mn10:12.4"
+    ]
+  },
+  "pathavidhatu": {
+    "lemma": "pathavīdhātu",
+    "forms": [
+      "pathavīdhātu"
+    ],
+    "occurrences": [
+      "mn10:12.2",
+      "mn10:12.5"
+    ]
+  },
+  "apodhatu": {
+    "lemma": "āpodhātu",
+    "forms": [
+      "āpodhātu"
+    ],
+    "occurrences": [
+      "mn10:12.2",
+      "mn10:12.5"
+    ]
+  },
+  "tejodhatu": {
+    "lemma": "tejodhātu",
+    "forms": [
+      "tejodhātu"
+    ],
+    "occurrences": [
+      "mn10:12.2",
+      "mn10:12.5"
+    ]
+  },
+  "vayodhatu": {
+    "lemma": "vāyodhātu",
+    "forms": [
+      "vāyodhātū"
+    ],
+    "occurrences": [
+      "mn10:12.2",
+      "mn10:12.5"
+    ]
+  },
+  "goghataka": {
+    "lemma": "goghātaka",
+    "forms": [
+      "goghātako"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "goghatakantevasi": {
+    "lemma": "goghātakantevāsī",
+    "forms": [
+      "goghātakantevāsī"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "gavi": {
+    "lemma": "gāvī",
+    "forms": [
+      "gāviṁ"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "vadhitva": {
+    "lemma": "vadhitvā",
+    "forms": [
+      "vadhitvā"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "catumahapatha": {
+    "lemma": "catumahāpatha",
+    "forms": [
+      "catumahāpathe"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "bilaso": {
+    "lemma": "bilaso",
+    "forms": [
+      "bilaso"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "vibhajitva": {
+    "lemma": "vibhajitvā",
+    "forms": [
+      "vibhajitvā"
+    ],
+    "occurrences": [
+      "mn10:12.3"
+    ]
+  },
+  "dhatumanasikarapabba": {
+    "lemma": "dhātumanasikārapabba",
+    "forms": [
+      "Dhātumanasikārapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:13.3"
+    ]
+  },
+  "kayanupassananavasivathikapabba": {
+    "lemma": "kāyānupassanānavasivathikapabba",
+    "forms": [
+      "Kāyānupassanānavasivathikapabba"
+    ],
+    "occurrences": [
+      "mn10:14.0"
+    ]
+  },
+  "passati": {
+    "lemma": "passati",
+    "forms": [
+      "passeyya"
+    ],
+    "occurrences": [
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1"
+    ]
+  },
+  "sarira": {
+    "lemma": "sarīra",
+    "forms": [
+      "sarīraṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1"
+    ]
+  },
+  "sivathika": {
+    "lemma": "sivathikā",
+    "forms": [
+      "sivathikāya"
+    ],
+    "occurrences": [
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1"
+    ]
+  },
+  "chaddita": {
+    "lemma": "chaḍḍita",
+    "forms": [
+      "chaḍḍitaṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1",
+      "mn10:16.1",
+      "mn10:18-23.1",
+      "mn10:26-28.1"
+    ]
+  },
+  "ekahamata": {
+    "lemma": "ekāhamata",
+    "forms": [
+      "ekāhamataṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "dvihamata": {
+    "lemma": "dvīhamata",
+    "forms": [
+      "dvīhamataṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "tihamata": {
+    "lemma": "tīhamata",
+    "forms": [
+      "tīhamataṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "uddhumataka": {
+    "lemma": "uddhumātaka",
+    "forms": [
+      "uddhumātakaṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "vinilaka": {
+    "lemma": "vinīlaka",
+    "forms": [
+      "vinīlakaṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "vipubbakajata": {
+    "lemma": "vipubbakajāta",
+    "forms": [
+      "vipubbakajātaṁ"
+    ],
+    "occurrences": [
+      "mn10:14.1"
+    ]
+  },
+  "upasamharati": {
+    "lemma": "upasaṃharati",
+    "forms": [
+      "upasaṁharati"
+    ],
+    "occurrences": [
+      "mn10:14.2",
+      "mn10:16.2",
+      "mn10:24.2",
+      "mn10:30.2"
+    ]
+  },
+  "evamdhamma": {
+    "lemma": "evaṃdhamma",
+    "forms": [
+      "evaṁdhammo"
+    ],
+    "occurrences": [
+      "mn10:14.3",
+      "mn10:16.3",
+      "mn10:24.3",
+      "mn10:30.3"
+    ]
+  },
+  "evambhavi": {
+    "lemma": "evaṃbhāvī",
+    "forms": [
+      "evaṁbhāvī"
+    ],
+    "occurrences": [
+      "mn10:14.3",
+      "mn10:16.3",
+      "mn10:24.3",
+      "mn10:30.3"
+    ]
+  },
+  "evamanatita": {
+    "lemma": "evaṃanatīta",
+    "forms": [
+      "evaṁanatīto"
+    ],
+    "occurrences": [
+      "mn10:14.3",
+      "mn10:16.3",
+      "mn10:24.3",
+      "mn10:30.3"
+    ]
+  },
+  "kaka": {
+    "lemma": "kāka",
+    "forms": [
+      "kākehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "khajjamana": {
+    "lemma": "khajjamāna",
+    "forms": [
+      "khajjamānaṁ"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "kulala": {
+    "lemma": "kulala",
+    "forms": [
+      "kulalehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "gijjha": {
+    "lemma": "gijjha",
+    "forms": [
+      "gijjhehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "kanka": {
+    "lemma": "kaṅka",
+    "forms": [
+      "kaṅkehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "sunakha": {
+    "lemma": "sunakha",
+    "forms": [
+      "sunakhehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "byaggha": {
+    "lemma": "byaggha",
+    "forms": [
+      "byagghehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "dipi": {
+    "lemma": "dīpi",
+    "forms": [
+      "dīpīhi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "singala": {
+    "lemma": "siṅgāla",
+    "forms": [
+      "siṅgālehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "vividha": {
+    "lemma": "vividha",
+    "forms": [
+      "vividhehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "panakajata": {
+    "lemma": "pāṇakajāta",
+    "forms": [
+      "pāṇakajātehi"
+    ],
+    "occurrences": [
+      "mn10:16.1"
+    ]
+  },
+  "atthikasankhalika": {
+    "lemma": "aṭṭhikasaṅkhalikā",
+    "forms": [
+      "aṭṭhikasaṅkhalikaṁ",
+      "Aṭṭhikasaṅkhalikaṁ"
+    ],
+    "occurrences": [
+      "mn10:18-23.1",
+      "mn10:18-23.2",
+      "mn10:18-23.3"
+    ]
+  },
+  "samamsalohita": {
+    "lemma": "samaṃsalohita",
+    "forms": [
+      "samaṁsalohitaṁ"
+    ],
+    "occurrences": [
+      "mn10:18-23.1"
+    ]
+  },
+  "nharusambandha": {
+    "lemma": "nhārusambandha",
+    "forms": [
+      "nhārusambandhaṁ"
+    ],
+    "occurrences": [
+      "mn10:18-23.1",
+      "mn10:18-23.2",
+      "mn10:18-23.3"
+    ]
+  },
+  "nimamsalohitamakkhita": {
+    "lemma": "nimaṃsalohitamakkhita",
+    "forms": [
+      "nimaṁsalohitamakkhitaṁ"
+    ],
+    "occurrences": [
+      "mn10:18-23.2"
+    ]
+  },
+  "apagatamamsalohita": {
+    "lemma": "apagatamaṃsalohita",
+    "forms": [
+      "apagatamaṁsalohitaṁ"
+    ],
+    "occurrences": [
+      "mn10:18-23.3"
+    ]
+  },
+  "atthika": {
+    "lemma": "aṭṭhika",
+    "forms": [
+      "Aṭṭhikāni",
+      "aṭṭhikāni"
+    ],
+    "occurrences": [
+      "mn10:24.1",
+      "mn10:26-28.1",
+      "mn10:29.1",
+      "mn10:30.1"
+    ]
+  },
+  "apagatasambandha": {
+    "lemma": "apagatasambandha",
+    "forms": [
+      "apagatasambandhāni"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "disa": {
+    "lemma": "disa",
+    "forms": [
+      "disā"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "vidisa": {
+    "lemma": "vidisā",
+    "forms": [
+      "vidisā"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "vikkhitta": {
+    "lemma": "vikkhitta",
+    "forms": [
+      "vikkhittāni",
+      "Vikkhittaṁ",
+      "vikkhittaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1",
+      "mn10:34.9"
+    ]
+  },
+  "anna": {
+    "lemma": "añña",
+    "forms": [
+      "aññena",
+      "aññā"
+    ],
+    "occurrences": [
+      "mn10:24.1",
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "hatthatthika": {
+    "lemma": "hatthaṭṭhika",
+    "forms": [
+      "hatthaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "padatthika": {
+    "lemma": "pādaṭṭhika",
+    "forms": [
+      "pādaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "gopphakatthika": {
+    "lemma": "gopphakaṭṭhika",
+    "forms": [
+      "gopphakaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "janghatthika": {
+    "lemma": "jaṅghaṭṭhika",
+    "forms": [
+      "jaṅghaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "urutthika": {
+    "lemma": "ūruṭṭhika",
+    "forms": [
+      "ūruṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "katitthika": {
+    "lemma": "kaṭiṭṭhika",
+    "forms": [
+      "kaṭiṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "phasukatthika": {
+    "lemma": "phāsukaṭṭhika",
+    "forms": [
+      "phāsukaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "pitthitthika": {
+    "lemma": "piṭṭhiṭṭhika",
+    "forms": [
+      "piṭṭhiṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "khandhatthika": {
+    "lemma": "khandhaṭṭhika",
+    "forms": [
+      "khandhaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "givatthika": {
+    "lemma": "gīvaṭṭhika",
+    "forms": [
+      "gīvaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "hanukatthika": {
+    "lemma": "hanukaṭṭhika",
+    "forms": [
+      "hanukaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "dantatthika": {
+    "lemma": "dantaṭṭhika",
+    "forms": [
+      "dantaṭṭhikaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "sisakataha": {
+    "lemma": "sīsakaṭāha",
+    "forms": [
+      "sīsakaṭāhaṁ"
+    ],
+    "occurrences": [
+      "mn10:24.1"
+    ]
+  },
+  "seta": {
+    "lemma": "seta",
+    "forms": [
+      "setāni"
+    ],
+    "occurrences": [
+      "mn10:26-28.1"
+    ]
+  },
+  "sankhavannapatibhaga": {
+    "lemma": "saṅkhavaṇṇapaṭibhāga",
+    "forms": [
+      "saṅkhavaṇṇapaṭibhāgāni"
+    ],
+    "occurrences": [
+      "mn10:26-28.1"
+    ]
+  },
+  "punjakita": {
+    "lemma": "puñjakita",
+    "forms": [
+      "puñjakitāni"
+    ],
+    "occurrences": [
+      "mn10:29.1"
+    ]
+  },
+  "terovassika": {
+    "lemma": "terovassika",
+    "forms": [
+      "terovassikāni"
+    ],
+    "occurrences": [
+      "mn10:29.1"
+    ]
+  },
+  "puti": {
+    "lemma": "pūti",
+    "forms": [
+      "pūtīni"
+    ],
+    "occurrences": [
+      "mn10:30.1"
+    ]
+  },
+  "cunnakajata": {
+    "lemma": "cuṇṇakajāta",
+    "forms": [
+      "cuṇṇakajātāni"
+    ],
+    "occurrences": [
+      "mn10:30.1"
+    ]
+  },
+  "navasivathikapabba": {
+    "lemma": "navasivathikapabba",
+    "forms": [
+      "Navasivathikapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:31.5"
+    ]
+  },
+  "cuddasakayanupassana": {
+    "lemma": "cuddasakāyānupassanā",
+    "forms": [
+      "Cuddasakāyānupassanā"
+    ],
+    "occurrences": [
+      "mn10:31.6"
+    ]
+  },
+  "vedananupassana": {
+    "lemma": "vedanānupassanā",
+    "forms": [
+      "Vedanānupassanā"
+    ],
+    "occurrences": [
+      "mn10:32.0",
+      "mn10:33.5"
+    ]
+  },
+  "sukha": {
+    "lemma": "sukha",
+    "forms": [
+      "sukhaṁ"
+    ],
+    "occurrences": [
+      "mn10:32.2",
+      "mn10:32.5",
+      "mn10:32.6"
+    ]
+  },
+  "vedayamana": {
+    "lemma": "vedayamāna",
+    "forms": [
+      "vedayamāno"
+    ],
+    "occurrences": [
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10"
+    ]
+  },
+  "dukkha": {
+    "lemma": "dukkha",
+    "forms": [
+      "Dukkhaṁ",
+      "dukkhaṁ"
+    ],
+    "occurrences": [
+      "mn10:32.3",
+      "mn10:32.7",
+      "mn10:32.8"
+    ]
+  },
+  "adukkhamasukha": {
+    "lemma": "adukkhamasukha",
+    "forms": [
+      "Adukkhamasukhaṁ",
+      "adukkhamasukhaṁ"
+    ],
+    "occurrences": [
+      "mn10:32.4",
+      "mn10:32.9",
+      "mn10:32.10"
+    ]
+  },
+  "samisa": {
+    "lemma": "sāmisa",
+    "forms": [
+      "Sāmisaṁ",
+      "sāmisaṁ"
+    ],
+    "occurrences": [
+      "mn10:32.5",
+      "mn10:32.7",
+      "mn10:32.9"
+    ]
+  },
+  "niramisa": {
+    "lemma": "nirāmisa",
+    "forms": [
+      "Nirāmisaṁ",
+      "nirāmisaṁ"
+    ],
+    "occurrences": [
+      "mn10:32.6",
+      "mn10:32.8",
+      "mn10:32.10"
+    ]
+  },
+  "cittanupassana": {
+    "lemma": "cittānupassanā",
+    "forms": [
+      "Cittānupassanā"
+    ],
+    "occurrences": [
+      "mn10:34.0",
+      "mn10:35.5"
+    ]
+  },
+  "saraga": {
+    "lemma": "sarāga",
+    "forms": [
+      "sarāgaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.2"
+    ]
+  },
+  "vitaraga": {
+    "lemma": "vītarāga",
+    "forms": [
+      "Vītarāgaṁ",
+      "vītarāgaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.3"
+    ]
+  },
+  "sadosa": {
+    "lemma": "sadosa",
+    "forms": [
+      "Sadosaṁ",
+      "sadosaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.4"
+    ]
+  },
+  "vitadosa": {
+    "lemma": "vītadosa",
+    "forms": [
+      "Vītadosaṁ",
+      "vītadosaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.5"
+    ]
+  },
+  "samoha": {
+    "lemma": "samoha",
+    "forms": [
+      "Samohaṁ",
+      "samohaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.6"
+    ]
+  },
+  "vitamoha": {
+    "lemma": "vītamoha",
+    "forms": [
+      "Vītamohaṁ",
+      "vītamohaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.7"
+    ]
+  },
+  "sankhitta": {
+    "lemma": "saṅkhitta",
+    "forms": [
+      "Saṅkhittaṁ",
+      "saṅkhittaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.8"
+    ]
+  },
+  "mahaggata": {
+    "lemma": "mahaggata",
+    "forms": [
+      "Mahaggataṁ",
+      "mahaggataṁ"
+    ],
+    "occurrences": [
+      "mn10:34.10"
+    ]
+  },
+  "amahaggata": {
+    "lemma": "amahaggata",
+    "forms": [
+      "Amahaggataṁ",
+      "amahaggataṁ"
+    ],
+    "occurrences": [
+      "mn10:34.11"
+    ]
+  },
+  "sauttara": {
+    "lemma": "sauttara",
+    "forms": [
+      "Sauttaraṁ",
+      "sauttaraṁ"
+    ],
+    "occurrences": [
+      "mn10:34.12"
+    ]
+  },
+  "anuttara": {
+    "lemma": "anuttara",
+    "forms": [
+      "Anuttaraṁ",
+      "anuttaraṁ"
+    ],
+    "occurrences": [
+      "mn10:34.13"
+    ]
+  },
+  "samahita": {
+    "lemma": "samāhita",
+    "forms": [
+      "Samāhitaṁ",
+      "samāhitaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.14"
+    ]
+  },
+  "asamahita": {
+    "lemma": "asamāhita",
+    "forms": [
+      "Asamāhitaṁ",
+      "asamāhitaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.15"
+    ]
+  },
+  "vimutta": {
+    "lemma": "vimutta",
+    "forms": [
+      "Vimuttaṁ",
+      "vimuttaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.16"
+    ]
+  },
+  "avimutta": {
+    "lemma": "avimutta",
+    "forms": [
+      "Avimuttaṁ",
+      "avimuttaṁ"
+    ],
+    "occurrences": [
+      "mn10:34.17"
+    ]
+  },
+  "dhammanupassana": {
+    "lemma": "dhammānupassanā",
+    "forms": [
+      "Dhammānupassanā"
+    ],
+    "occurrences": [
+      "mn10:36.0.1",
+      "mn10:45.6"
+    ]
+  },
+  "dhammanupassananivaranapabba": {
+    "lemma": "dhammānupassanānīvaraṇapabba",
+    "forms": [
+      "Dhammānupassanānīvaraṇapabba"
+    ],
+    "occurrences": [
+      "mn10:36.0.2"
+    ]
+  },
+  "panca": {
+    "lemma": "pañca",
+    "forms": [
+      "pañcasu",
+      "pañca"
+    ],
+    "occurrences": [
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:37.4",
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:39.4",
+      "mn10:46.5",
+      "mn10:46.15"
+    ]
+  },
+  "nivarana": {
+    "lemma": "nīvaraṇa",
+    "forms": [
+      "nīvaraṇesu"
+    ],
+    "occurrences": [
+      "mn10:36.2",
+      "mn10:36.3",
+      "mn10:37.4"
+    ]
+  },
+  "pana": {
+    "lemma": "pana",
+    "forms": [
+      "pana"
+    ],
+    "occurrences": [
+      "mn10:36.3",
+      "mn10:38.2",
+      "mn10:40.2",
+      "mn10:42.2",
+      "mn10:44.2"
+    ]
+  },
+  "kamacchanda": {
+    "lemma": "kāmacchanda",
+    "forms": [
+      "kāmacchandaṁ",
+      "kāmacchando",
+      "kāmacchandassa"
+    ],
+    "occurrences": [
+      "mn10:36.4"
+    ]
+  },
+  "asanta": {
+    "lemma": "asanta",
+    "forms": [
+      "asantaṁ"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "natthi": {
+    "lemma": "natthi",
+    "forms": [
+      "natthi"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "anuppanna": {
+    "lemma": "anuppanna",
+    "forms": [
+      "anuppannassa",
+      "anuppannāya"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "uppada": {
+    "lemma": "uppāda",
+    "forms": [
+      "uppādo"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "uppanna": {
+    "lemma": "uppanna",
+    "forms": [
+      "uppannassa",
+      "uppannāya"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "pahana": {
+    "lemma": "pahāna",
+    "forms": [
+      "pahānaṁ"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "pahina": {
+    "lemma": "pahīna",
+    "forms": [
+      "pahīnassa",
+      "pahīnāya"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "ayanta": {
+    "lemma": "āyanta",
+    "forms": [
+      "āyatiṁ"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "anuppada": {
+    "lemma": "anuppāda",
+    "forms": [
+      "anuppādo"
+    ],
+    "occurrences": [
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "byapada": {
+    "lemma": "byāpāda",
+    "forms": [
+      "byāpādaṁ",
+      "byāpādo",
+      "byāpādassa"
+    ],
+    "occurrences": [
+      "mn10:36.5"
+    ]
+  },
+  "thinamiddha": {
+    "lemma": "thinamiddha",
+    "forms": [
+      "thinamiddhaṁ",
+      "thinamiddhassa"
+    ],
+    "occurrences": [
+      "mn10:36.6"
+    ]
+  },
+  "uddhaccakukkucca": {
+    "lemma": "uddhaccakukkucca",
+    "forms": [
+      "uddhaccakukkuccaṁ",
+      "uddhaccakukkuccassa"
+    ],
+    "occurrences": [
+      "mn10:36.7"
+    ]
+  },
+  "vicikiccha": {
+    "lemma": "vicikiccha",
+    "forms": [
+      "vicikicchaṁ",
+      "vicikicchā",
+      "vicikicchāya"
+    ],
+    "occurrences": [
+      "mn10:36.8"
+    ]
+  },
+  "nivaranapabba": {
+    "lemma": "nīvaraṇapabba",
+    "forms": [
+      "Nīvaraṇapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:37.5"
+    ]
+  },
+  "dhammanupassanakhandhapabba": {
+    "lemma": "dhammānupassanākhandhapabba",
+    "forms": [
+      "Dhammānupassanākhandhapabba"
+    ],
+    "occurrences": [
+      "mn10:38.0"
+    ]
+  },
+  "upadanakkhandha": {
+    "lemma": "upādānakkhandha",
+    "forms": [
+      "upādānakkhandhesu"
+    ],
+    "occurrences": [
+      "mn10:38.1",
+      "mn10:38.2",
+      "mn10:39.4"
+    ]
+  },
+  "rupa": {
+    "lemma": "rūpa",
+    "forms": [
+      "rūpaṁ",
+      "rūpassa",
+      "rūpe"
+    ],
+    "occurrences": [
+      "mn10:38.4",
+      "mn10:40.3"
+    ]
+  },
+  "samudaya": {
+    "lemma": "samudaya",
+    "forms": [
+      "samudayo"
+    ],
+    "occurrences": [
+      "mn10:38.4",
+      "mn10:38.5",
+      "mn10:38.6",
+      "mn10:38.7",
+      "mn10:38.8"
+    ]
+  },
+  "sanna": {
+    "lemma": "sañña",
+    "forms": [
+      "saññā",
+      "saññāya"
+    ],
+    "occurrences": [
+      "mn10:38.6"
+    ]
+  },
+  "sankhara": {
+    "lemma": "saṅkhāra",
+    "forms": [
+      "saṅkhārā",
+      "saṅkhārānaṁ"
+    ],
+    "occurrences": [
+      "mn10:38.7"
+    ]
+  },
+  "vinnana": {
+    "lemma": "viññāṇa",
+    "forms": [
+      "viññāṇaṁ",
+      "viññāṇassa"
+    ],
+    "occurrences": [
+      "mn10:38.8"
+    ]
+  },
+  "khandhapabba": {
+    "lemma": "khandhapabba",
+    "forms": [
+      "Khandhapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:39.5"
+    ]
+  },
+  "dhammanupassanaayatanapabba": {
+    "lemma": "dhammānupassanāāyatanapabba",
+    "forms": [
+      "Dhammānupassanāāyatanapabba"
+    ],
+    "occurrences": [
+      "mn10:40.0"
+    ]
+  },
+  "cha": {
+    "lemma": "cha",
+    "forms": [
+      "chasu",
+      "cha"
+    ],
+    "occurrences": [
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:41.4",
+      "mn10:46.4",
+      "mn10:46.14"
+    ]
+  },
+  "ajjhattikabahira": {
+    "lemma": "ajjhattikabāhira",
+    "forms": [
+      "ajjhattikabāhiresu"
+    ],
+    "occurrences": [
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:41.4"
+    ]
+  },
+  "ayatana": {
+    "lemma": "āyatana",
+    "forms": [
+      "āyatanesu"
+    ],
+    "occurrences": [
+      "mn10:40.1",
+      "mn10:40.2",
+      "mn10:41.4"
+    ]
+  },
+  "cakkhu": {
+    "lemma": "cakkhu",
+    "forms": [
+      "cakkhuñca"
+    ],
+    "occurrences": [
+      "mn10:40.3"
+    ]
+  },
+  "ya": {
+    "lemma": "ya",
+    "forms": [
+      "yañca",
+      "Yo",
+      "yaṁ"
+    ],
+    "occurrences": [
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22",
+      "mn10:47.2"
+    ]
+  },
+  "tadubhaya": {
+    "lemma": "tadubhaya",
+    "forms": [
+      "tadubhayaṁ"
+    ],
+    "occurrences": [
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "paticca": {
+    "lemma": "paṭicca",
+    "forms": [
+      "paṭicca"
+    ],
+    "occurrences": [
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8",
+      "mn10:47.2"
+    ]
+  },
+  "uppajjati": {
+    "lemma": "uppajjati",
+    "forms": [
+      "uppajjati"
+    ],
+    "occurrences": [
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "samyojana": {
+    "lemma": "saṃyojana",
+    "forms": [
+      "saṁyojanaṁ",
+      "saṁyojanassa"
+    ],
+    "occurrences": [
+      "mn10:40.3",
+      "mn10:40.4",
+      "mn10:40.5",
+      "mn10:40.6",
+      "mn10:40.7",
+      "mn10:40.8"
+    ]
+  },
+  "sota": {
+    "lemma": "sota",
+    "forms": [
+      "Sotañca"
+    ],
+    "occurrences": [
+      "mn10:40.4"
+    ]
+  },
+  "sadda": {
+    "lemma": "sadda",
+    "forms": [
+      "sadde"
+    ],
+    "occurrences": [
+      "mn10:40.4"
+    ]
+  },
+  "ghana": {
+    "lemma": "ghāna",
+    "forms": [
+      "Ghānañca"
+    ],
+    "occurrences": [
+      "mn10:40.5"
+    ]
+  },
+  "gandha": {
+    "lemma": "gandha",
+    "forms": [
+      "gandhe"
+    ],
+    "occurrences": [
+      "mn10:40.5"
+    ]
+  },
+  "jivha": {
+    "lemma": "jivhā",
+    "forms": [
+      "Jivhañca"
+    ],
+    "occurrences": [
+      "mn10:40.6"
+    ]
+  },
+  "rasa": {
+    "lemma": "rasa",
+    "forms": [
+      "rase"
+    ],
+    "occurrences": [
+      "mn10:40.6"
+    ]
+  },
+  "photthabba": {
+    "lemma": "phoṭṭhabba",
+    "forms": [
+      "phoṭṭhabbe"
+    ],
+    "occurrences": [
+      "mn10:40.7"
+    ]
+  },
+  "manas": {
+    "lemma": "manas",
+    "forms": [
+      "Manañca"
+    ],
+    "occurrences": [
+      "mn10:40.8"
+    ]
+  },
+  "ayatanapabba": {
+    "lemma": "āyatanapabba",
+    "forms": [
+      "Āyatanapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:41.5"
+    ]
+  },
+  "dhammanupassanabojjhangapabba": {
+    "lemma": "dhammānupassanābojjhaṅgapabba",
+    "forms": [
+      "Dhammānupassanābojjhaṅgapabba"
+    ],
+    "occurrences": [
+      "mn10:42.0"
+    ]
+  },
+  "bojjhanga": {
+    "lemma": "bojjhaṅga",
+    "forms": [
+      "bojjhaṅgesu"
+    ],
+    "occurrences": [
+      "mn10:42.1",
+      "mn10:42.2",
+      "mn10:43.4"
+    ]
+  },
+  "satisambojjhanga": {
+    "lemma": "satisambojjhaṅga",
+    "forms": [
+      "satisambojjhaṅgaṁ",
+      "satisambojjhaṅgo",
+      "satisambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.3"
+    ]
+  },
+  "bhavana": {
+    "lemma": "bhāvanā",
+    "forms": [
+      "bhāvanāya"
+    ],
+    "occurrences": [
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "paripuri": {
+    "lemma": "pāripūri",
+    "forms": [
+      "pāripūrī"
+    ],
+    "occurrences": [
+      "mn10:42.3",
+      "mn10:42.4",
+      "mn10:42.5",
+      "mn10:42.6",
+      "mn10:42.7",
+      "mn10:42.8",
+      "mn10:42.9"
+    ]
+  },
+  "dhammavicayasambojjhanga": {
+    "lemma": "dhammavicayasambojjhaṅga",
+    "forms": [
+      "dhammavicayasambojjhaṅgaṁ",
+      "dhammavicayasambojjhaṅgo",
+      "dhammavicayasambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.4"
+    ]
+  },
+  "viriyasambojjhanga": {
+    "lemma": "vīriyasambojjhaṅga",
+    "forms": [
+      "vīriyasambojjhaṅgaṁ",
+      "vīriyasambojjhaṅgo",
+      "vīriyasambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.5"
+    ]
+  },
+  "pitisambojjhanga": {
+    "lemma": "pītisambojjhaṅga",
+    "forms": [
+      "pītisambojjhaṅgaṁ",
+      "pītisambojjhaṅgo",
+      "pītisambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.6"
+    ]
+  },
+  "passaddhisambojjhanga": {
+    "lemma": "passaddhisambojjhaṅga",
+    "forms": [
+      "passaddhisambojjhaṅgaṁ",
+      "passaddhisambojjhaṅgo",
+      "passaddhisambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.7"
+    ]
+  },
+  "samadhisambojjhanga": {
+    "lemma": "samādhisambojjhaṅga",
+    "forms": [
+      "samādhisambojjhaṅgaṁ",
+      "samādhisambojjhaṅgo",
+      "samādhisambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.8"
+    ]
+  },
+  "upekkhasambojjhanga": {
+    "lemma": "upekkhāsambojjhaṅga",
+    "forms": [
+      "upekkhāsambojjhaṅgaṁ",
+      "upekkhāsambojjhaṅgo",
+      "upekkhāsambojjhaṅgassa"
+    ],
+    "occurrences": [
+      "mn10:42.9"
+    ]
+  },
+  "bojjhangapabba": {
+    "lemma": "bojjhaṅgapabba",
+    "forms": [
+      "Bojjhaṅgapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:43.5"
+    ]
+  },
+  "dhammanupassanasaccapabba": {
+    "lemma": "dhammānupassanāsaccapabba",
+    "forms": [
+      "Dhammānupassanāsaccapabba"
+    ],
+    "occurrences": [
+      "mn10:44.0"
+    ]
+  },
+  "ariyasacca": {
+    "lemma": "ariyasacca",
+    "forms": [
+      "ariyasaccesu"
+    ],
+    "occurrences": [
+      "mn10:44.1",
+      "mn10:44.2",
+      "mn10:45.4"
+    ]
+  },
+  "yathabhuta": {
+    "lemma": "yathābhūta",
+    "forms": [
+      "yathābhūtaṁ"
+    ],
+    "occurrences": [
+      "mn10:44.3"
+    ]
+  },
+  "dukkhasamudaya": {
+    "lemma": "dukkhasamudaya",
+    "forms": [
+      "dukkhasamudayo"
+    ],
+    "occurrences": [
+      "mn10:44.3"
+    ]
+  },
+  "dukkhanirodha": {
+    "lemma": "dukkhanirodha",
+    "forms": [
+      "dukkhanirodho"
+    ],
+    "occurrences": [
+      "mn10:44.3"
+    ]
+  },
+  "dukkhanirodhagami": {
+    "lemma": "dukkhanirodhagāmī",
+    "forms": [
+      "dukkhanirodhagāminī"
+    ],
+    "occurrences": [
+      "mn10:44.3"
+    ]
+  },
+  "patipada": {
+    "lemma": "paṭipada",
+    "forms": [
+      "paṭipadā"
+    ],
+    "occurrences": [
+      "mn10:44.3"
+    ]
+  },
+  "saccapabba": {
+    "lemma": "saccapabba",
+    "forms": [
+      "Saccapabbaṁ"
+    ],
+    "occurrences": [
+      "mn10:45.5"
+    ]
+  },
+  "hi": {
+    "lemma": "hi",
+    "forms": [
+      "hi"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22"
+    ]
+  },
+  "bhaveti": {
+    "lemma": "bhāveti",
+    "forms": [
+      "bhāveyya"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.4",
+      "mn10:46.11",
+      "mn10:46.14",
+      "mn10:46.22"
+    ]
+  },
+  "vassa": {
+    "lemma": "vassa",
+    "forms": [
+      "vassāni",
+      "vassaṁ"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.3",
+      "mn10:46.4",
+      "mn10:46.5",
+      "mn10:46.6",
+      "mn10:46.7",
+      "mn10:46.8",
+      "mn10:46.9",
+      "mn10:46.10"
+    ]
+  },
+  "dvi": {
+    "lemma": "dvi",
+    "forms": [
+      "dvinnaṁ",
+      "dve"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.8",
+      "mn10:46.11",
+      "mn10:46.18",
+      "mn10:46.22"
+    ]
+  },
+  "phala": {
+    "lemma": "phala",
+    "forms": [
+      "phalānaṁ",
+      "phalaṁ"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.11",
+      "mn10:46.22"
+    ]
+  },
+  "annatara": {
+    "lemma": "aññatara",
+    "forms": [
+      "aññataraṁ"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.11",
+      "mn10:46.22"
+    ]
+  },
+  "patikankha": {
+    "lemma": "pāṭikaṅkha",
+    "forms": [
+      "pāṭikaṅkhaṁ"
+    ],
+    "occurrences": [
+      "mn10:46.1",
+      "mn10:46.11",
+      "mn10:46.22"
+    ]
+  },
+  "ditthi": {
+    "lemma": "diṭṭhi",
+    "forms": [
+      "diṭṭheva"
+    ],
+    "occurrences": [
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "upadisesa": {
+    "lemma": "upādisesa",
+    "forms": [
+      "upādisese"
+    ],
+    "occurrences": [
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "anagamita": {
+    "lemma": "anāgāmitā",
+    "forms": [
+      "anāgāmitā",
+      "anāgāmitāti"
+    ],
+    "occurrences": [
+      "mn10:46.2",
+      "mn10:46.12",
+      "mn10:46.23"
+    ]
+  },
+  "titthati": {
+    "lemma": "tiṭṭhati",
+    "forms": [
+      "Tiṭṭhantu",
+      "tiṭṭhatu"
+    ],
+    "occurrences": [
+      "mn10:46.3",
+      "mn10:46.10",
+      "mn10:46.13",
+      "mn10:46.21"
+    ]
+  },
+  "addhamasa": {
+    "lemma": "aḍḍhamāsa",
+    "forms": [
+      "aḍḍhamāsaṁ",
+      "aḍḍhamāso"
+    ],
+    "occurrences": [
+      "mn10:46.20",
+      "mn10:46.21"
+    ]
+  },
+  "sattaha": {
+    "lemma": "sattāha",
+    "forms": [
+      "sattāhaṁ"
+    ],
+    "occurrences": [
+      "mn10:46.22"
+    ]
+  },
+  "vutta": {
+    "lemma": "vutta",
+    "forms": [
+      "vuttaṁ"
+    ],
+    "occurrences": [
+      "mn10:47.2"
+    ]
+  },
+  "idametam": {
+    "lemma": "idametaṃ",
+    "forms": [
+      "idametaṁ"
+    ],
+    "occurrences": [
+      "mn10:47.2"
+    ]
+  },
+  "idamavoca": {
+    "lemma": "idamavoca",
+    "forms": [
+      "Idamavoca"
+    ],
+    "occurrences": [
+      "mn10:47.3"
+    ]
+  },
+  "attamana": {
+    "lemma": "attamana",
+    "forms": [
+      "Attamanā"
+    ],
+    "occurrences": [
+      "mn10:47.4"
+    ]
+  },
+  "abhinandi": {
+    "lemma": "abhinandi",
+    "forms": [
+      "abhinandunti"
+    ],
+    "occurrences": [
+      "mn10:47.4"
+    ]
+  },
+  "satipatthanasutta": {
+    "lemma": "satipaṭṭhānasutta",
+    "forms": [
+      "Satipaṭṭhānasuttaṁ"
+    ],
+    "occurrences": [
+      "mn10:47.5"
+    ]
+  },
+  "dasama": {
+    "lemma": "dasama",
+    "forms": [
+      "dasamaṁ"
+    ],
+    "occurrences": [
+      "mn10:47.5"
+    ]
+  },
+  "mulapariyayavagga": {
+    "lemma": "mūlapariyāyavagga",
+    "forms": [
+      "Mūlapariyāyavaggo"
+    ],
+    "occurrences": [
+      "mn10:47.6"
+    ]
+  },
+  "pathama": {
+    "lemma": "paṭhama",
+    "forms": [
+      "paṭhamo"
+    ],
+    "occurrences": [
+      "mn10:47.6"
+    ]
+  },
+  "tassuddanam": {
+    "lemma": "tassuddānaṃ",
+    "forms": [
+      "Tassuddānaṁ"
+    ],
+    "occurrences": [
+      "mn10:48.0"
+    ]
+  },
+  "mulasusamvaradhammadayada": {
+    "lemma": "mūlasusaṃvaradhammadāyādā",
+    "forms": [
+      "Mūlasusaṁvaradhammadāyādā"
+    ],
+    "occurrences": [
+      "mn10:48.1"
+    ]
+  },
+  "bheravananganakankheyyavattha": {
+    "lemma": "bheravānaṅgaṇākaṅkheyyavattha",
+    "forms": [
+      "Bheravānaṅgaṇākaṅkheyyavatthaṁ"
+    ],
+    "occurrences": [
+      "mn10:48.2"
+    ]
+  },
+  "sallekhasammaditthisatipattha": {
+    "lemma": "sallekhasammādiṭṭhisatipaṭṭha",
+    "forms": [
+      "Sallekhasammādiṭṭhisatipaṭṭhaṁ"
+    ],
+    "occurrences": [
+      "mn10:48.3"
+    ]
+  },
+  "vaggavara": {
+    "lemma": "vaggavara",
+    "forms": [
+      "Vaggavaro"
+    ],
+    "occurrences": [
+      "mn10:48.4"
+    ]
+  },
+  "asama": {
+    "lemma": "asama",
+    "forms": [
+      "asamo"
+    ],
+    "occurrences": [
+      "mn10:48.4"
+    ]
+  },
+  "susamatta": {
+    "lemma": "susamatta",
+    "forms": [
+      "susamatto"
+    ],
+    "occurrences": [
+      "mn10:48.4"
+    ]
+  }
+}
