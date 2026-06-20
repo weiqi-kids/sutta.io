@@ -164,7 +164,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.1.t0",
+          "mn10:1.1.t1",
+          "mn10:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn10:1.2",
@@ -510,7 +519,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.2.t0",
+          "mn10:1.2.t1",
+          "mn10:1.2.t2",
+          "mn10:1.2.t3",
+          "mn10:1.2.t4",
+          "mn10:1.2.t5",
+          "mn10:1.2.t6",
+          "mn10:1.2.t7",
+          "mn10:1.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住於拘樓國，（在）名為劍磨瑟曇的拘樓人市鎮（中）。"
+      }
     },
     {
       "segment_id": "mn10:1.3",
@@ -679,7 +703,18 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.3.t0",
+          "mn10:1.3.t1",
+          "mn10:1.3.t2",
+          "mn10:1.3.t3",
+          "mn10:1.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "在那裡，世尊確實招呼了比丘們。"
+      }
     },
     {
       "segment_id": "mn10:1.4",
@@ -742,7 +777,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.4.t0",
+          "mn10:1.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們！」"
+      }
     },
     {
       "segment_id": "mn10:1.5",
@@ -1026,7 +1069,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.5.t0",
+          "mn10:1.5.t1",
+          "mn10:1.5.t2",
+          "mn10:1.5.t3",
+          "mn10:1.5.t4",
+          "mn10:1.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「尊者！」那些比丘們回應了世尊。"
+      }
     },
     {
       "segment_id": "mn10:1.6",
@@ -1106,7 +1161,15 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:1.6.t0",
+          "mn10:1.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這（話）："
+      }
     },
     {
       "segment_id": "mn10:2.1",
@@ -1658,7 +1721,30 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:2.1.t0",
+          "mn10:2.1.t1",
+          "mn10:2.1.t2",
+          "mn10:2.1.t3",
+          "mn10:2.1.t4",
+          "mn10:2.1.t5",
+          "mn10:2.1.t6",
+          "mn10:2.1.t7",
+          "mn10:2.1.t8",
+          "mn10:2.1.t9",
+          "mn10:2.1.t10",
+          "mn10:2.1.t11",
+          "mn10:2.1.t12",
+          "mn10:2.1.t13",
+          "mn10:2.1.t14",
+          "mn10:2.1.t15",
+          "mn10:2.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們！這是眾生清淨、超越愁悲、消滅苦憂、證得正理、親證涅槃的唯一道路，亦即四念處。」"
+      }
     },
     {
       "segment_id": "mn10:3.1",
@@ -1730,7 +1816,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.1.t0",
+          "mn10:3.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "哪四（念處）？"
+      }
     },
     {
       "segment_id": "mn10:3.2",
@@ -2181,7 +2275,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.2.t0",
+          "mn10:3.2.t1",
+          "mn10:3.2.t2",
+          "mn10:3.2.t3",
+          "mn10:3.2.t4",
+          "mn10:3.2.t5",
+          "mn10:3.2.t6",
+          "mn10:3.2.t7",
+          "mn10:3.2.t8",
+          "mn10:3.2.t9",
+          "mn10:3.2.t10",
+          "mn10:3.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "於此，比丘們！比丘隨觀身於身而住，精勤、正知、具念，捨除世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn10:3.3",
@@ -2535,7 +2647,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.3.t0",
+          "mn10:3.3.t1",
+          "mn10:3.3.t2",
+          "mn10:3.3.t3",
+          "mn10:3.3.t4",
+          "mn10:3.3.t5",
+          "mn10:3.3.t6",
+          "mn10:3.3.t7",
+          "mn10:3.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "（比丘）隨觀受於受而住，精勤、正知、具念，捨除世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn10:3.4",
@@ -2934,7 +3061,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.4.t0",
+          "mn10:3.4.t1",
+          "mn10:3.4.t2",
+          "mn10:3.4.t3",
+          "mn10:3.4.t4",
+          "mn10:3.4.t5",
+          "mn10:3.4.t6",
+          "mn10:3.4.t7",
+          "mn10:3.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "（比丘）隨觀心於心而住，精勤、正知、具念，捨除世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn10:3.5",
@@ -3306,7 +3448,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.5.t0",
+          "mn10:3.5.t1",
+          "mn10:3.5.t2",
+          "mn10:3.5.t3",
+          "mn10:3.5.t4",
+          "mn10:3.5.t5",
+          "mn10:3.5.t6",
+          "mn10:3.5.t7",
+          "mn10:3.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "（比丘）隨觀法於諸法而住，精勤、正知、具念，捨除世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn10:3.6",
@@ -3350,7 +3507,15 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:3.6.t0",
+          "mn10:3.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "總說已竟。"
+      }
     },
     {
       "segment_id": "mn10:4.0.1",
@@ -3421,7 +3586,14 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.0.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "〔身隨觀〕"
+      }
     },
     {
       "segment_id": "mn10:4.0.2",
@@ -3455,7 +3627,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.0.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "〔身隨觀——入出息節〕"
+      }
     },
     {
       "segment_id": "mn10:4.1",
@@ -3693,7 +3872,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.1.t0",
+          "mn10:4.1.t1",
+          "mn10:4.1.t2",
+          "mn10:4.1.t3",
+          "mn10:4.1.t4",
+          "mn10:4.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何於身隨觀身而住？"
+      }
     },
     {
       "segment_id": "mn10:4.2",
@@ -4201,7 +4392,31 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.2.t0",
+          "mn10:4.2.t1",
+          "mn10:4.2.t2",
+          "mn10:4.2.t3",
+          "mn10:4.2.t4",
+          "mn10:4.2.t5",
+          "mn10:4.2.t6",
+          "mn10:4.2.t7",
+          "mn10:4.2.t8",
+          "mn10:4.2.t9",
+          "mn10:4.2.t10",
+          "mn10:4.2.t11",
+          "mn10:4.2.t12",
+          "mn10:4.2.t13",
+          "mn10:4.2.t14",
+          "mn10:4.2.t15",
+          "mn10:4.2.t16",
+          "mn10:4.2.t17"
+        ],
+        "review_status": "approved",
+        "content": "於此，諸比丘，比丘往林中，[或]至樹下，[或]往空閑處，坐下，盤折[就座]，端正[身體]，[令念]朝向當前，安立[念]。"
+      }
     },
     {
       "segment_id": "mn10:4.3",
@@ -4415,7 +4630,18 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.3.t0",
+          "mn10:4.3.t1",
+          "mn10:4.3.t2",
+          "mn10:4.3.t3",
+          "mn10:4.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "彼[具念]入息，[具念]出息。"
+      }
     },
     {
       "segment_id": "mn10:4.4",
@@ -4915,7 +5141,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.4.t0",
+          "mn10:4.4.t1",
+          "mn10:4.4.t2",
+          "mn10:4.4.t3",
+          "mn10:4.4.t5",
+          "mn10:4.4.t6",
+          "mn10:4.4.t7",
+          "mn10:4.4.t8",
+          "mn10:4.4.t9",
+          "mn10:4.4.t10",
+          "mn10:4.4.t12",
+          "mn10:4.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "入息長時，了知『（吸）長』；出息長時，了知『（呼）長』。"
+      }
     },
     {
       "segment_id": "mn10:4.5",
@@ -5415,7 +5659,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.5.t0",
+          "mn10:4.5.t1",
+          "mn10:4.5.t2",
+          "mn10:4.5.t3",
+          "mn10:4.5.t5",
+          "mn10:4.5.t6",
+          "mn10:4.5.t7",
+          "mn10:4.5.t8",
+          "mn10:4.5.t9",
+          "mn10:4.5.t10",
+          "mn10:4.5.t12",
+          "mn10:4.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "入息短時，了知『（吸）短』；出息短時，了知『（呼）短』。"
+      }
     },
     {
       "segment_id": "mn10:4.6",
@@ -5663,7 +5925,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.6.t0",
+          "mn10:4.6.t2",
+          "mn10:4.6.t3",
+          "mn10:4.6.t4",
+          "mn10:4.6.t6",
+          "mn10:4.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "『覺知全身（而入息）』，如是修習；『覺知全身（而出息）』，如是修習。"
+      }
     },
     {
       "segment_id": "mn10:4.7",
@@ -5885,7 +6159,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.7.t0",
+          "mn10:4.7.t1",
+          "mn10:4.7.t3",
+          "mn10:4.7.t4",
+          "mn10:4.7.t5",
+          "mn10:4.7.t6",
+          "mn10:4.7.t8",
+          "mn10:4.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "『令身行平靜（而入息）』，如是修習；『令身行平靜（而出息）』，如是修習。"
+      }
     },
     {
       "segment_id": "mn10:4.8",
@@ -6604,7 +6892,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.8.t0",
+          "mn10:4.8.t1",
+          "mn10:4.8.t2",
+          "mn10:4.8.t3",
+          "mn10:4.8.t4",
+          "mn10:4.8.t5",
+          "mn10:4.8.t6",
+          "mn10:4.8.t7",
+          "mn10:4.8.t8",
+          "mn10:4.8.t9",
+          "mn10:4.8.t10",
+          "mn10:4.8.t12",
+          "mn10:4.8.t13",
+          "mn10:4.8.t14",
+          "mn10:4.8.t15",
+          "mn10:4.8.t16",
+          "mn10:4.8.t17",
+          "mn10:4.8.t19",
+          "mn10:4.8.t20"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就好像一位車工（或其學徒），在車削長件時了知「我在車削長件」，在車削短件時了知「我在車削短件」。"
+      }
     },
     {
       "segment_id": "mn10:4.9",
@@ -7674,7 +7987,41 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.9.t0",
+          "mn10:4.9.t1",
+          "mn10:4.9.t2",
+          "mn10:4.9.t3",
+          "mn10:4.9.t4",
+          "mn10:4.9.t5",
+          "mn10:4.9.t6",
+          "mn10:4.9.t7",
+          "mn10:4.9.t9",
+          "mn10:4.9.t10",
+          "mn10:4.9.t11",
+          "mn10:4.9.t12",
+          "mn10:4.9.t13",
+          "mn10:4.9.t14",
+          "mn10:4.9.t16",
+          "mn10:4.9.t17",
+          "mn10:4.9.t18",
+          "mn10:4.9.t19",
+          "mn10:4.9.t20",
+          "mn10:4.9.t21",
+          "mn10:4.9.t23",
+          "mn10:4.9.t24",
+          "mn10:4.9.t25",
+          "mn10:4.9.t26",
+          "mn10:4.9.t27",
+          "mn10:4.9.t28",
+          "mn10:4.9.t30",
+          "mn10:4.9.t31"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘在長吸氣時了知「我在長吸氣」；在長呼氣時了知「我在長呼氣」；在短吸氣時了知「我在短吸氣」；在短呼氣時了知「我在短呼氣」。"
+      }
     },
     {
       "segment_id": "mn10:4.10",
@@ -7922,7 +8269,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.10.t0",
+          "mn10:4.10.t2",
+          "mn10:4.10.t3",
+          "mn10:4.10.t4",
+          "mn10:4.10.t6",
+          "mn10:4.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "他修習「感受著全身（而呼吸）」；他修習「感受著全身（而呼吸）」。（兩次分別對應吸氣與呼氣）"
+      }
     },
     {
       "segment_id": "mn10:4.11",
@@ -8144,7 +8503,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:4.11.t0",
+          "mn10:4.11.t1",
+          "mn10:4.11.t3",
+          "mn10:4.11.t4",
+          "mn10:4.11.t5",
+          "mn10:4.11.t6",
+          "mn10:4.11.t8",
+          "mn10:4.11.t9"
+        ],
+        "review_status": "approved",
+        "content": "他修習「令身行平靜（而呼吸）」；他修習「令身行平靜（而呼吸）」。（兩次分別對應吸氣與呼氣）"
+      }
     },
     {
       "segment_id": "mn10:5.1",
@@ -8953,7 +9326,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:5.1.t0",
+          "mn10:5.1.t1",
+          "mn10:5.1.t2",
+          "mn10:5.1.t3",
+          "mn10:5.1.t4",
+          "mn10:5.1.t5",
+          "mn10:5.1.t6",
+          "mn10:5.1.t7",
+          "mn10:5.1.t8",
+          "mn10:5.1.t9",
+          "mn10:5.1.t10",
+          "mn10:5.1.t11",
+          "mn10:5.1.t12",
+          "mn10:5.1.t13",
+          "mn10:5.1.t14",
+          "mn10:5.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，他或對內在的身隨觀身而安住，或對外在的身隨觀身而安住，或對內外的身隨觀身而安住。"
+      }
     },
     {
       "segment_id": "mn10:5.2",
@@ -9460,7 +9855,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:5.2.t0",
+          "mn10:5.2.t1",
+          "mn10:5.2.t2",
+          "mn10:5.2.t3",
+          "mn10:5.2.t4",
+          "mn10:5.2.t5",
+          "mn10:5.2.t6",
+          "mn10:5.2.t7",
+          "mn10:5.2.t8",
+          "mn10:5.2.t9",
+          "mn10:5.2.t10",
+          "mn10:5.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "他或安住於隨觀身中諸法的生起，或安住於隨觀身中諸法的滅去，或安住於隨觀身中諸法的生滅。"
+      }
     },
     {
       "segment_id": "mn10:5.3",
@@ -10131,7 +10544,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:5.3.t0",
+          "mn10:5.3.t1",
+          "mn10:5.3.t2",
+          "mn10:5.3.t3",
+          "mn10:5.3.t4",
+          "mn10:5.3.t5",
+          "mn10:5.3.t6",
+          "mn10:5.3.t7",
+          "mn10:5.3.t8",
+          "mn10:5.3.t9",
+          "mn10:5.3.t10",
+          "mn10:5.3.t11",
+          "mn10:5.3.t12",
+          "mn10:5.3.t13",
+          "mn10:5.3.t14",
+          "mn10:5.3.t15",
+          "mn10:5.3.t16",
+          "mn10:5.3.t17",
+          "mn10:5.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有身」的念現前，僅為了知與念而建立。他不依附而安住，對世間任何事物不執取。"
+      }
     },
     {
       "segment_id": "mn10:5.4",
@@ -10365,7 +10803,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:5.4.t0",
+          "mn10:5.4.t1",
+          "mn10:5.4.t2",
+          "mn10:5.4.t3",
+          "mn10:5.4.t4",
+          "mn10:5.4.t5",
+          "mn10:5.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘就這樣隨觀身而安住於身中。"
+      }
     },
     {
       "segment_id": "mn10:5.5",
@@ -10446,7 +10897,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:5.5.t0",
+          "mn10:5.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "入出息節（已）完畢。"
+      }
     },
     {
       "segment_id": "mn10:6.0",
@@ -10480,7 +10939,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:6.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "身隨觀威儀路節。"
+      }
     },
     {
       "segment_id": "mn10:6.1",
@@ -11048,7 +11514,33 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:6.1.t0",
+          "mn10:6.1.t1",
+          "mn10:6.1.t2",
+          "mn10:6.1.t3",
+          "mn10:6.1.t4",
+          "mn10:6.1.t5",
+          "mn10:6.1.t7",
+          "mn10:6.1.t8",
+          "mn10:6.1.t9",
+          "mn10:6.1.t10",
+          "mn10:6.1.t12",
+          "mn10:6.1.t13",
+          "mn10:6.1.t14",
+          "mn10:6.1.t15",
+          "mn10:6.1.t17",
+          "mn10:6.1.t18",
+          "mn10:6.1.t19",
+          "mn10:6.1.t20",
+          "mn10:6.1.t22",
+          "mn10:6.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘行走時清楚了知；站立時清楚了知；坐著時清楚了知；臥下時清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:6.2",
@@ -11457,7 +11949,24 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:6.2.t0",
+          "mn10:6.2.t1",
+          "mn10:6.2.t2",
+          "mn10:6.2.t3",
+          "mn10:6.2.t4",
+          "mn10:6.2.t5",
+          "mn10:6.2.t6",
+          "mn10:6.2.t7",
+          "mn10:6.2.t8",
+          "mn10:6.2.t9",
+          "mn10:6.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "無論（身體被安置於何種狀態），他便如實清楚了知之。（注：t3、t4 資料存疑，整段語義依其餘 token 重建）"
+      }
     },
     {
       "segment_id": "mn10:7.1",
@@ -12266,7 +12775,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:7.1.t0",
+          "mn10:7.1.t1",
+          "mn10:7.1.t2",
+          "mn10:7.1.t3",
+          "mn10:7.1.t4",
+          "mn10:7.1.t5",
+          "mn10:7.1.t6",
+          "mn10:7.1.t7",
+          "mn10:7.1.t8",
+          "mn10:7.1.t9",
+          "mn10:7.1.t10",
+          "mn10:7.1.t11",
+          "mn10:7.1.t12",
+          "mn10:7.1.t13",
+          "mn10:7.1.t14",
+          "mn10:7.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，或於內身隨觀身而安住，或於外身隨觀身而安住，或於內外身隨觀身而安住。"
+      }
     },
     {
       "segment_id": "mn10:7.2",
@@ -12773,7 +13304,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:7.2.t0",
+          "mn10:7.2.t1",
+          "mn10:7.2.t2",
+          "mn10:7.2.t3",
+          "mn10:7.2.t4",
+          "mn10:7.2.t5",
+          "mn10:7.2.t6",
+          "mn10:7.2.t7",
+          "mn10:7.2.t8",
+          "mn10:7.2.t9",
+          "mn10:7.2.t10",
+          "mn10:7.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或於身中隨觀生起之法而安住，或於身中隨觀滅去之法而安住，或於身中隨觀生滅之法而安住。"
+      }
     },
     {
       "segment_id": "mn10:7.3",
@@ -13444,7 +13993,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:7.3.t0",
+          "mn10:7.3.t1",
+          "mn10:7.3.t2",
+          "mn10:7.3.t3",
+          "mn10:7.3.t4",
+          "mn10:7.3.t5",
+          "mn10:7.3.t6",
+          "mn10:7.3.t7",
+          "mn10:7.3.t8",
+          "mn10:7.3.t9",
+          "mn10:7.3.t10",
+          "mn10:7.3.t11",
+          "mn10:7.3.t12",
+          "mn10:7.3.t13",
+          "mn10:7.3.t14",
+          "mn10:7.3.t15",
+          "mn10:7.3.t16",
+          "mn10:7.3.t17",
+          "mn10:7.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有身」如此，念便現前確立；僅以了知的量度、持續正念的量度，他不依附而安住，對世間任何事物皆不執取。"
+      }
     },
     {
       "segment_id": "mn10:7.4",
@@ -13678,7 +14252,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:7.4.t0",
+          "mn10:7.4.t1",
+          "mn10:7.4.t2",
+          "mn10:7.4.t3",
+          "mn10:7.4.t4",
+          "mn10:7.4.t5",
+          "mn10:7.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如此於身隨觀身而安住。"
+      }
     },
     {
       "segment_id": "mn10:7.5",
@@ -13759,7 +14346,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:7.5.t0",
+          "mn10:7.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "威儀節完畢。"
+      }
     },
     {
       "segment_id": "mn10:8.0",
@@ -15487,7 +16082,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:8.1.t0",
+          "mn10:8.1.t1",
+          "mn10:8.1.t2",
+          "mn10:8.1.t3",
+          "mn10:8.1.t4",
+          "mn10:8.1.t5",
+          "mn10:8.1.t6",
+          "mn10:8.1.t7",
+          "mn10:8.1.t8",
+          "mn10:8.1.t9",
+          "mn10:8.1.t10",
+          "mn10:8.1.t11",
+          "mn10:8.1.t12",
+          "mn10:8.1.t13",
+          "mn10:8.1.t14",
+          "mn10:8.1.t15",
+          "mn10:8.1.t16",
+          "mn10:8.1.t17",
+          "mn10:8.1.t18",
+          "mn10:8.1.t19",
+          "mn10:8.1.t20",
+          "mn10:8.1.t21",
+          "mn10:8.1.t22",
+          "mn10:8.1.t23",
+          "mn10:8.1.t24",
+          "mn10:8.1.t25",
+          "mn10:8.1.t26",
+          "mn10:8.1.t27",
+          "mn10:8.1.t28",
+          "mn10:8.1.t29",
+          "mn10:8.1.t30",
+          "mn10:8.1.t31",
+          "mn10:8.1.t32",
+          "mn10:8.1.t33",
+          "mn10:8.1.t34",
+          "mn10:8.1.t35",
+          "mn10:8.1.t36"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘前進時、返回時，以正知行事；向前看時、環顧時，以正知行事；（肢體）彎曲時、伸展時，以正知行事；持執大衣、缽及衣時，以正知行事；食、飲、嚼、嚐時，以正知行事；大小便時，以正知行事；行走、站立、坐著、睡眠、醒寤、說話、保持沉默時，以正知行事。"
+      }
     },
     {
       "segment_id": "mn10:9.1",
@@ -15821,7 +16459,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:9.1.t0",
+          "mn10:9.1.t1",
+          "mn10:9.1.t2",
+          "mn10:9.1.t3",
+          "mn10:9.1.t4",
+          "mn10:9.1.t5",
+          "mn10:9.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是，或於內身隨觀身而安住……（以下省略，同前文）"
+      }
     },
     {
       "segment_id": "mn10:9.2",
@@ -16055,7 +16706,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:9.2.t0",
+          "mn10:9.2.t1",
+          "mn10:9.2.t2",
+          "mn10:9.2.t3",
+          "mn10:9.2.t4",
+          "mn10:9.2.t5",
+          "mn10:9.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如此於身隨觀身而安住。"
+      }
     },
     {
       "segment_id": "mn10:9.3",
@@ -16136,7 +16800,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:9.3.t0",
+          "mn10:9.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "正知節，圓滿完畢。"
+      }
     },
     {
       "segment_id": "mn10:10.0",
@@ -16170,7 +16842,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "（標題）身隨觀——不淨作意節"
+      }
     },
     {
       "segment_id": "mn10:10.1",
@@ -16711,7 +17390,28 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.1.t0",
+          "mn10:10.1.t1",
+          "mn10:10.1.t2",
+          "mn10:10.1.t3",
+          "mn10:10.1.t4",
+          "mn10:10.1.t5",
+          "mn10:10.1.t6",
+          "mn10:10.1.t7",
+          "mn10:10.1.t8",
+          "mn10:10.1.t9",
+          "mn10:10.1.t10",
+          "mn10:10.1.t11",
+          "mn10:10.1.t12",
+          "mn10:10.1.t13",
+          "mn10:10.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
+      }
     },
     {
       "segment_id": "mn10:10.2",
@@ -18273,7 +18973,47 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.2.t0",
+          "mn10:10.2.t1",
+          "mn10:10.2.t2",
+          "mn10:10.2.t3",
+          "mn10:10.2.t4",
+          "mn10:10.2.t5",
+          "mn10:10.2.t6",
+          "mn10:10.2.t7",
+          "mn10:10.2.t8",
+          "mn10:10.2.t9",
+          "mn10:10.2.t10",
+          "mn10:10.2.t11",
+          "mn10:10.2.t12",
+          "mn10:10.2.t13",
+          "mn10:10.2.t14",
+          "mn10:10.2.t15",
+          "mn10:10.2.t16",
+          "mn10:10.2.t17",
+          "mn10:10.2.t18",
+          "mn10:10.2.t19",
+          "mn10:10.2.t20",
+          "mn10:10.2.t21",
+          "mn10:10.2.t22",
+          "mn10:10.2.t23",
+          "mn10:10.2.t24",
+          "mn10:10.2.t25",
+          "mn10:10.2.t26",
+          "mn10:10.2.t27",
+          "mn10:10.2.t28",
+          "mn10:10.2.t29",
+          "mn10:10.2.t30",
+          "mn10:10.2.t31",
+          "mn10:10.2.t32",
+          "mn10:10.2.t34"
+        ],
+        "review_status": "approved",
+        "content": "在這個身體中，有：髮、體毛、指甲、牙齒、皮膚、肉、肌腱、骨骼、骨髓、腎臟、心臟、肝臟、胸膜、脾臟、肺臟、腸、腸繫膜、胃中食物、糞便、膽汁、痰液、膿、血液、汗水、脂肪、淚水、油脂、唾液、鼻涕、關節滑液。"
+      }
     },
     {
       "segment_id": "mn10:10.3",
@@ -19545,7 +20285,45 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.3.t0",
+          "mn10:10.3.t1",
+          "mn10:10.3.t2",
+          "mn10:10.3.t3",
+          "mn10:10.3.t4",
+          "mn10:10.3.t5",
+          "mn10:10.3.t6",
+          "mn10:10.3.t7",
+          "mn10:10.3.t8",
+          "mn10:10.3.t9",
+          "mn10:10.3.t10",
+          "mn10:10.3.t11",
+          "mn10:10.3.t12",
+          "mn10:10.3.t13",
+          "mn10:10.3.t14",
+          "mn10:10.3.t15",
+          "mn10:10.3.t16",
+          "mn10:10.3.t17",
+          "mn10:10.3.t18",
+          "mn10:10.3.t19",
+          "mn10:10.3.t20",
+          "mn10:10.3.t21",
+          "mn10:10.3.t22",
+          "mn10:10.3.t23",
+          "mn10:10.3.t24",
+          "mn10:10.3.t25",
+          "mn10:10.3.t26",
+          "mn10:10.3.t27",
+          "mn10:10.3.t28",
+          "mn10:10.3.t29",
+          "mn10:10.3.t30",
+          "mn10:10.3.t31"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就好像有一只兩端開口的播種袋，裝滿各種穀物——精米、稻穀、綠豆、（資料義：月份）、芝麻、去殼米——一位有眼睛的人打開袋子，便能逐一識別：「這是精米，這是稻穀，這是綠豆，這是（資料義：月份），這是芝麻，這是去殼米。」"
+      }
     },
     {
       "segment_id": "mn10:10.4",
@@ -20096,7 +20874,28 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.4.t0",
+          "mn10:10.4.t1",
+          "mn10:10.4.t2",
+          "mn10:10.4.t3",
+          "mn10:10.4.t4",
+          "mn10:10.4.t5",
+          "mn10:10.4.t6",
+          "mn10:10.4.t7",
+          "mn10:10.4.t8",
+          "mn10:10.4.t9",
+          "mn10:10.4.t10",
+          "mn10:10.4.t11",
+          "mn10:10.4.t12",
+          "mn10:10.4.t13",
+          "mn10:10.4.t14"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
+      }
     },
     {
       "segment_id": "mn10:10.5",
@@ -20509,7 +21308,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:10.5.t0",
+          "mn10:10.5.t1",
+          "mn10:10.5.t2",
+          "mn10:10.5.t3",
+          "mn10:10.5.t4",
+          "mn10:10.5.t5",
+          "mn10:10.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "在這個身體中，有（諸部位）……（中略）。"
+      }
     },
     {
       "segment_id": "mn10:11.1",
@@ -20843,7 +21655,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:11.1.t0",
+          "mn10:11.1.t1",
+          "mn10:11.1.t2",
+          "mn10:11.1.t3",
+          "mn10:11.1.t4",
+          "mn10:11.1.t5",
+          "mn10:11.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是，或在自身內，觀身而住……（中略）"
+      }
     },
     {
       "segment_id": "mn10:11.2",
@@ -21077,7 +21902,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:11.2.t0",
+          "mn10:11.2.t1",
+          "mn10:11.2.t2",
+          "mn10:11.2.t3",
+          "mn10:11.2.t4",
+          "mn10:11.2.t5",
+          "mn10:11.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此，諸比丘，比丘便安住於觀身之中。"
+      }
     },
     {
       "segment_id": "mn10:11.3",
@@ -21158,7 +21996,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:11.3.t0",
+          "mn10:11.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "不淨作意節，圓滿完畢。"
+      }
     },
     {
       "segment_id": "mn10:12.0",
@@ -21192,7 +22038,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "身隨觀・界作意品（章節標題）"
+      }
     },
     {
       "segment_id": "mn10:12.1",
@@ -21478,7 +22331,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.1.t0",
+          "mn10:12.1.t1",
+          "mn10:12.1.t2",
+          "mn10:12.1.t3",
+          "mn10:12.1.t4",
+          "mn10:12.1.t5",
+          "mn10:12.1.t6",
+          "mn10:12.1.t7",
+          "mn10:12.1.t8",
+          "mn10:12.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，比丘又進而對此（身），如其所立、如其所向，以界的方式加以省察。」"
+      }
     },
     {
       "segment_id": "mn10:12.2",
@@ -21775,7 +22644,21 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.2.t0",
+          "mn10:12.2.t1",
+          "mn10:12.2.t2",
+          "mn10:12.2.t3",
+          "mn10:12.2.t4",
+          "mn10:12.2.t5",
+          "mn10:12.2.t6",
+          "mn10:12.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "「此身中有地界、水界、火界、風界。」"
+      }
     },
     {
       "segment_id": "mn10:12.3",
@@ -22163,7 +23046,27 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.3.t0",
+          "mn10:12.3.t1",
+          "mn10:12.3.t2",
+          "mn10:12.3.t3",
+          "mn10:12.3.t4",
+          "mn10:12.3.t5",
+          "mn10:12.3.t6",
+          "mn10:12.3.t7",
+          "mn10:12.3.t8",
+          "mn10:12.3.t9",
+          "mn10:12.3.t10",
+          "mn10:12.3.t11",
+          "mn10:12.3.t12",
+          "mn10:12.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，猶如屠牛者，或屠牛者的徒弟，宰殺一頭牛之後，在四衢大道上將其逐一切分，就坐於此——」（注：t2 dakkho 依提供資料釋為「看見了」，語境難解；t4、t6 vā 資料不足，整段白話依脈絡重建）"
+      }
     },
     {
       "segment_id": "mn10:12.4",
@@ -22459,7 +23362,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.4.t0",
+          "mn10:12.4.t1",
+          "mn10:12.4.t2",
+          "mn10:12.4.t3",
+          "mn10:12.4.t4",
+          "mn10:12.4.t5",
+          "mn10:12.4.t6",
+          "mn10:12.4.t7",
+          "mn10:12.4.t8",
+          "mn10:12.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，同樣地，比丘確實對此（身），如其所立、如其所向，以界的方式加以省察。」"
+      }
     },
     {
       "segment_id": "mn10:12.5",
@@ -22756,7 +23675,21 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:12.5.t0",
+          "mn10:12.5.t1",
+          "mn10:12.5.t2",
+          "mn10:12.5.t3",
+          "mn10:12.5.t4",
+          "mn10:12.5.t5",
+          "mn10:12.5.t6",
+          "mn10:12.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「此身中有地界、水界、火界、風界。」"
+      }
     },
     {
       "segment_id": "mn10:13.1",
@@ -23090,7 +24023,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:13.1.t0",
+          "mn10:13.1.t1",
+          "mn10:13.1.t2",
+          "mn10:13.1.t3",
+          "mn10:13.1.t4",
+          "mn10:13.1.t5",
+          "mn10:13.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "「如此，或就自身的身體隨觀身而住……（後文省略，依前文類推）」"
+      }
     },
     {
       "segment_id": "mn10:13.2",
@@ -23324,7 +24270,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:13.2.t0",
+          "mn10:13.2.t1",
+          "mn10:13.2.t2",
+          "mn10:13.2.t3",
+          "mn10:13.2.t4",
+          "mn10:13.2.t5",
+          "mn10:13.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "「如此，諸比丘，比丘確實就身體隨觀身而住。」"
+      }
     },
     {
       "segment_id": "mn10:13.3",
@@ -23405,7 +24364,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:13.3.t0",
+          "mn10:13.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "「界作意品，已圓滿完畢。」"
+      }
     },
     {
       "segment_id": "mn10:14.0",
@@ -23439,7 +24406,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:14.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "身隨觀・九塚間觀品（章節標題）"
+      }
     },
     {
       "segment_id": "mn10:14.1",
@@ -24125,7 +25099,31 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:14.1.t0",
+          "mn10:14.1.t1",
+          "mn10:14.1.t2",
+          "mn10:14.1.t3",
+          "mn10:14.1.t4",
+          "mn10:14.1.t5",
+          "mn10:14.1.t6",
+          "mn10:14.1.t7",
+          "mn10:14.1.t8",
+          "mn10:14.1.t9",
+          "mn10:14.1.t10",
+          "mn10:14.1.t11",
+          "mn10:14.1.t12",
+          "mn10:14.1.t13",
+          "mn10:14.1.t14",
+          "mn10:14.1.t15",
+          "mn10:14.1.t16",
+          "mn10:14.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，死亡一日、兩日或三日，已膨脹、已青紫、已流膿。"
+      }
     },
     {
       "segment_id": "mn10:14.2",
@@ -24289,7 +25287,17 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:14.2.t0",
+          "mn10:14.2.t1",
+          "mn10:14.2.t2",
+          "mn10:14.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "他就以正是此身與之相類比。"
+      }
     },
     {
       "segment_id": "mn10:14.3",
@@ -24568,7 +25576,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:14.3.t0",
+          "mn10:14.3.t1",
+          "mn10:14.3.t2",
+          "mn10:14.3.t3",
+          "mn10:14.3.t4",
+          "mn10:14.3.t5",
+          "mn10:14.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
+      }
     },
     {
       "segment_id": "mn10:15.1",
@@ -24902,7 +25923,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:15.1.t0",
+          "mn10:15.1.t1",
+          "mn10:15.1.t2",
+          "mn10:15.1.t3",
+          "mn10:15.1.t4",
+          "mn10:15.1.t5",
+          "mn10:15.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
+      }
     },
     {
       "segment_id": "mn10:15.2",
@@ -25136,7 +26170,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:15.2.t0",
+          "mn10:15.2.t1",
+          "mn10:15.2.t2",
+          "mn10:15.2.t3",
+          "mn10:15.2.t4",
+          "mn10:15.2.t5",
+          "mn10:15.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
+      }
     },
     {
       "segment_id": "mn10:16.1",
@@ -26548,7 +27595,50 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:16.1.t0",
+          "mn10:16.1.t1",
+          "mn10:16.1.t2",
+          "mn10:16.1.t3",
+          "mn10:16.1.t4",
+          "mn10:16.1.t5",
+          "mn10:16.1.t6",
+          "mn10:16.1.t7",
+          "mn10:16.1.t8",
+          "mn10:16.1.t9",
+          "mn10:16.1.t10",
+          "mn10:16.1.t11",
+          "mn10:16.1.t12",
+          "mn10:16.1.t13",
+          "mn10:16.1.t14",
+          "mn10:16.1.t15",
+          "mn10:16.1.t16",
+          "mn10:16.1.t17",
+          "mn10:16.1.t18",
+          "mn10:16.1.t19",
+          "mn10:16.1.t20",
+          "mn10:16.1.t21",
+          "mn10:16.1.t22",
+          "mn10:16.1.t23",
+          "mn10:16.1.t24",
+          "mn10:16.1.t25",
+          "mn10:16.1.t26",
+          "mn10:16.1.t27",
+          "mn10:16.1.t28",
+          "mn10:16.1.t29",
+          "mn10:16.1.t30",
+          "mn10:16.1.t31",
+          "mn10:16.1.t32",
+          "mn10:16.1.t33",
+          "mn10:16.1.t34",
+          "mn10:16.1.t35",
+          "mn10:16.1.t36"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，正被烏鴉、猛禽、禿鷲、（另種）烏鴉、狗、虎、豹、胡狼、或各種小生物所啃食。"
+      }
     },
     {
       "segment_id": "mn10:16.2",
@@ -26712,7 +27802,17 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:16.2.t0",
+          "mn10:16.2.t1",
+          "mn10:16.2.t2",
+          "mn10:16.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "他就以正是此身與之相類比。"
+      }
     },
     {
       "segment_id": "mn10:16.3",
@@ -26991,7 +28091,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:16.3.t0",
+          "mn10:16.3.t1",
+          "mn10:16.3.t2",
+          "mn10:16.3.t3",
+          "mn10:16.3.t4",
+          "mn10:16.3.t5",
+          "mn10:16.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
+      }
     },
     {
       "segment_id": "mn10:17.1",
@@ -27325,7 +28438,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:17.1.t0",
+          "mn10:17.1.t1",
+          "mn10:17.1.t2",
+          "mn10:17.1.t3",
+          "mn10:17.1.t4",
+          "mn10:17.1.t5",
+          "mn10:17.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
+      }
     },
     {
       "segment_id": "mn10:17.2",
@@ -27559,7 +28685,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:17.2.t0",
+          "mn10:17.2.t1",
+          "mn10:17.2.t2",
+          "mn10:17.2.t3",
+          "mn10:17.2.t4",
+          "mn10:17.2.t5",
+          "mn10:17.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
+      }
     },
     {
       "segment_id": "mn10:18-23.1",
@@ -28007,7 +29146,26 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:18-23.1.t0",
+          "mn10:18-23.1.t1",
+          "mn10:18-23.1.t2",
+          "mn10:18-23.1.t3",
+          "mn10:18-23.1.t4",
+          "mn10:18-23.1.t5",
+          "mn10:18-23.1.t6",
+          "mn10:18-23.1.t7",
+          "mn10:18-23.1.t8",
+          "mn10:18-23.1.t9",
+          "mn10:18-23.1.t10",
+          "mn10:18-23.1.t11",
+          "mn10:18-23.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的骸骨——帶有肉與血、以筋腱相連……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:18-23.2",
@@ -28180,7 +29338,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:18-23.2.t0",
+          "mn10:18-23.2.t1",
+          "mn10:18-23.2.t2",
+          "mn10:18-23.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "骸骨——無肉而染有血跡、以筋腱相連……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:18-23.3",
@@ -28353,7 +29521,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:18-23.3.t0",
+          "mn10:18-23.3.t1",
+          "mn10:18-23.3.t2",
+          "mn10:18-23.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "骸骨——無肉無血、以筋腱相連……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:24.1",
@@ -29561,7 +30739,44 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:24.1.t0",
+          "mn10:24.1.t1",
+          "mn10:24.1.t2",
+          "mn10:24.1.t3",
+          "mn10:24.1.t4",
+          "mn10:24.1.t5",
+          "mn10:24.1.t6",
+          "mn10:24.1.t7",
+          "mn10:24.1.t8",
+          "mn10:24.1.t9",
+          "mn10:24.1.t10",
+          "mn10:24.1.t11",
+          "mn10:24.1.t12",
+          "mn10:24.1.t13",
+          "mn10:24.1.t14",
+          "mn10:24.1.t15",
+          "mn10:24.1.t16",
+          "mn10:24.1.t17",
+          "mn10:24.1.t18",
+          "mn10:24.1.t19",
+          "mn10:24.1.t20",
+          "mn10:24.1.t21",
+          "mn10:24.1.t22",
+          "mn10:24.1.t23",
+          "mn10:24.1.t24",
+          "mn10:24.1.t25",
+          "mn10:24.1.t26",
+          "mn10:24.1.t27",
+          "mn10:24.1.t28",
+          "mn10:24.1.t29",
+          "mn10:24.1.t30"
+        ],
+        "review_status": "approved",
+        "content": "諸骨失去連結，散落四方——手骨在一處，足骨在另一處，踝骨在另一處，脛骨在另一處，股骨在另一處，髖骨在另一處，肋骨在另一處，脊骨在另一處，上脊骨在另一處，頸骨在另一處，顎骨在另一處，牙齒在另一處，頭骨在另一處。"
+      }
     },
     {
       "segment_id": "mn10:24.2",
@@ -29725,7 +30940,17 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:24.2.t0",
+          "mn10:24.2.t1",
+          "mn10:24.2.t2",
+          "mn10:24.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "彼（比丘）將正是此與其相比較。"
+      }
     },
     {
       "segment_id": "mn10:24.3",
@@ -30004,7 +31229,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:24.3.t0",
+          "mn10:24.3.t1",
+          "mn10:24.3.t2",
+          "mn10:24.3.t3",
+          "mn10:24.3.t4",
+          "mn10:24.3.t5",
+          "mn10:24.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "此（身）確實具有如此本質，命定如此，尚未超越此。"
+      }
     },
     {
       "segment_id": "mn10:25.1",
@@ -30338,7 +31576,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:25.1.t0",
+          "mn10:25.1.t1",
+          "mn10:25.1.t2",
+          "mn10:25.1.t3",
+          "mn10:25.1.t4",
+          "mn10:25.1.t5",
+          "mn10:25.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是，（他）於內在身中隨觀身而安住……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:25.2",
@@ -30572,7 +31823,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:25.2.t0",
+          "mn10:25.2.t1",
+          "mn10:25.2.t2",
+          "mn10:25.2.t3",
+          "mn10:25.2.t4",
+          "mn10:25.2.t5",
+          "mn10:25.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，如此確實，比丘於身中隨觀身而安住。"
+      }
     },
     {
       "segment_id": "mn10:26-28.1",
@@ -31048,7 +32312,26 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:26-28.1.t0",
+          "mn10:26-28.1.t1",
+          "mn10:26-28.1.t2",
+          "mn10:26-28.1.t3",
+          "mn10:26-28.1.t4",
+          "mn10:26-28.1.t5",
+          "mn10:26-28.1.t6",
+          "mn10:26-28.1.t7",
+          "mn10:26-28.1.t8",
+          "mn10:26-28.1.t9",
+          "mn10:26-28.1.t10",
+          "mn10:26-28.1.t11",
+          "mn10:26-28.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的遺體——諸骨白色，如法螺殼之色……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:29.1",
@@ -31249,7 +32532,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:29.1.t0",
+          "mn10:29.1.t1",
+          "mn10:29.1.t2",
+          "mn10:29.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸骨堆積成堆，已超過一年……（以下略）"
+      }
     },
     {
       "segment_id": "mn10:30.1",
@@ -31381,7 +32674,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:30.1.t0",
+          "mn10:30.1.t1",
+          "mn10:30.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "腐臭的、化為粉末的骨骸。"
+      }
     },
     {
       "segment_id": "mn10:30.2",
@@ -31545,7 +32847,17 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:30.2.t0",
+          "mn10:30.2.t1",
+          "mn10:30.2.t2",
+          "mn10:30.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "彼將正是此〔何物〕與之相比擬。"
+      }
     },
     {
       "segment_id": "mn10:30.3",
@@ -31824,7 +33136,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:30.3.t0",
+          "mn10:30.3.t1",
+          "mn10:30.3.t2",
+          "mn10:30.3.t3",
+          "mn10:30.3.t4",
+          "mn10:30.3.t5",
+          "mn10:30.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "「此〔何物〕確實具有如此本性，命定如此，尚未超越此。」"
+      }
     },
     {
       "segment_id": "mn10:31.1",
@@ -32633,7 +33958,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.1.t0",
+          "mn10:31.1.t1",
+          "mn10:31.1.t2",
+          "mn10:31.1.t3",
+          "mn10:31.1.t4",
+          "mn10:31.1.t5",
+          "mn10:31.1.t6",
+          "mn10:31.1.t7",
+          "mn10:31.1.t8",
+          "mn10:31.1.t9",
+          "mn10:31.1.t10",
+          "mn10:31.1.t11",
+          "mn10:31.1.t12",
+          "mn10:31.1.t13",
+          "mn10:31.1.t14",
+          "mn10:31.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，就自身之身觀身而住，就外身觀身而住，就內外之身觀身而住。"
+      }
     },
     {
       "segment_id": "mn10:31.2",
@@ -33140,7 +34487,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.2.t0",
+          "mn10:31.2.t1",
+          "mn10:31.2.t2",
+          "mn10:31.2.t3",
+          "mn10:31.2.t4",
+          "mn10:31.2.t5",
+          "mn10:31.2.t6",
+          "mn10:31.2.t7",
+          "mn10:31.2.t8",
+          "mn10:31.2.t9",
+          "mn10:31.2.t10",
+          "mn10:31.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "觀（身中）諸法生起之性而住，觀諸法滅去之性而住，觀諸法生起與滅去之性而住。"
+      }
     },
     {
       "segment_id": "mn10:31.3",
@@ -33811,7 +35176,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.3.t0",
+          "mn10:31.3.t1",
+          "mn10:31.3.t2",
+          "mn10:31.3.t3",
+          "mn10:31.3.t4",
+          "mn10:31.3.t5",
+          "mn10:31.3.t6",
+          "mn10:31.3.t7",
+          "mn10:31.3.t8",
+          "mn10:31.3.t9",
+          "mn10:31.3.t10",
+          "mn10:31.3.t11",
+          "mn10:31.3.t12",
+          "mn10:31.3.t13",
+          "mn10:31.3.t14",
+          "mn10:31.3.t15",
+          "mn10:31.3.t16",
+          "mn10:31.3.t17",
+          "mn10:31.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有〔何物〕」——〔於滅失中〕，念現前安立成為；僅為了知之量與持續正念之量，不依附而住，不於世間執取任何事物。"
+      }
     },
     {
       "segment_id": "mn10:31.4",
@@ -34045,7 +35435,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.4.t0",
+          "mn10:31.4.t1",
+          "mn10:31.4.t2",
+          "mn10:31.4.t3",
+          "mn10:31.4.t4",
+          "mn10:31.4.t5",
+          "mn10:31.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此，確實，諸比丘，比丘於身觀身而住。"
+      }
     },
     {
       "segment_id": "mn10:31.5",
@@ -34126,7 +35529,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.5.t0",
+          "mn10:31.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "九塚間觀品，已完畢。"
+      }
     },
     {
       "segment_id": "mn10:31.6",
@@ -34252,7 +35663,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:31.6.t0",
+          "mn10:31.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "十四身觀，已完畢。"
+      }
     },
     {
       "segment_id": "mn10:32.0",
@@ -34323,7 +35742,14 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "受隨觀"
+      }
     },
     {
       "segment_id": "mn10:32.1",
@@ -34516,7 +35942,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.1.t0",
+          "mn10:32.1.t1",
+          "mn10:32.1.t2",
+          "mn10:32.1.t3",
+          "mn10:32.1.t4",
+          "mn10:32.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何於諸感受中隨觀感受而住？"
+      }
     },
     {
       "segment_id": "mn10:32.2",
@@ -34931,7 +36369,24 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.2.t0",
+          "mn10:32.2.t1",
+          "mn10:32.2.t2",
+          "mn10:32.2.t3",
+          "mn10:32.2.t4",
+          "mn10:32.2.t5",
+          "mn10:32.2.t6",
+          "mn10:32.2.t7",
+          "mn10:32.2.t8",
+          "mn10:32.2.t10",
+          "mn10:32.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於此，比丘感受樂受時，了知『我感受樂受』。"
+      }
     },
     {
       "segment_id": "mn10:32.3",
@@ -35294,7 +36749,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.3.t0",
+          "mn10:32.3.t1",
+          "mn10:32.3.t2",
+          "mn10:32.3.t3",
+          "mn10:32.3.t4",
+          "mn10:32.3.t5",
+          "mn10:32.3.t7",
+          "mn10:32.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "感受苦受時，了知『我感受苦受』。"
+      }
     },
     {
       "segment_id": "mn10:32.4",
@@ -35657,7 +37126,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.4.t0",
+          "mn10:32.4.t1",
+          "mn10:32.4.t2",
+          "mn10:32.4.t3",
+          "mn10:32.4.t4",
+          "mn10:32.4.t5",
+          "mn10:32.4.t7",
+          "mn10:32.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "感受不苦不樂受時，了知『我感受不苦不樂受』。"
+      }
     },
     {
       "segment_id": "mn10:32.5",
@@ -36104,7 +37587,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.5.t0",
+          "mn10:32.5.t1",
+          "mn10:32.5.t2",
+          "mn10:32.5.t3",
+          "mn10:32.5.t4",
+          "mn10:32.5.t5",
+          "mn10:32.5.t6",
+          "mn10:32.5.t7",
+          "mn10:32.5.t9",
+          "mn10:32.5.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受世俗樂受時，了知『我感受世俗樂受』。"
+      }
     },
     {
       "segment_id": "mn10:32.6",
@@ -36551,7 +38050,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.6.t0",
+          "mn10:32.6.t1",
+          "mn10:32.6.t2",
+          "mn10:32.6.t3",
+          "mn10:32.6.t4",
+          "mn10:32.6.t5",
+          "mn10:32.6.t6",
+          "mn10:32.6.t7",
+          "mn10:32.6.t9",
+          "mn10:32.6.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受出世間樂受時，了知『我感受出世間樂受』。"
+      }
     },
     {
       "segment_id": "mn10:32.7",
@@ -36998,7 +38513,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.7.t0",
+          "mn10:32.7.t1",
+          "mn10:32.7.t2",
+          "mn10:32.7.t3",
+          "mn10:32.7.t4",
+          "mn10:32.7.t5",
+          "mn10:32.7.t6",
+          "mn10:32.7.t7",
+          "mn10:32.7.t9",
+          "mn10:32.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受世俗苦受時，了知『我感受世俗苦受』。"
+      }
     },
     {
       "segment_id": "mn10:32.8",
@@ -37445,7 +38976,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.8.t0",
+          "mn10:32.8.t1",
+          "mn10:32.8.t2",
+          "mn10:32.8.t3",
+          "mn10:32.8.t4",
+          "mn10:32.8.t5",
+          "mn10:32.8.t6",
+          "mn10:32.8.t7",
+          "mn10:32.8.t9",
+          "mn10:32.8.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受出世間苦受時，了知『我感受出世間苦受』。"
+      }
     },
     {
       "segment_id": "mn10:32.9",
@@ -37892,7 +39439,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.9.t0",
+          "mn10:32.9.t1",
+          "mn10:32.9.t2",
+          "mn10:32.9.t3",
+          "mn10:32.9.t4",
+          "mn10:32.9.t5",
+          "mn10:32.9.t6",
+          "mn10:32.9.t7",
+          "mn10:32.9.t9",
+          "mn10:32.9.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受世俗不苦不樂受時，了知『我感受世俗不苦不樂受』。"
+      }
     },
     {
       "segment_id": "mn10:32.10",
@@ -38339,7 +39902,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:32.10.t0",
+          "mn10:32.10.t1",
+          "mn10:32.10.t2",
+          "mn10:32.10.t3",
+          "mn10:32.10.t4",
+          "mn10:32.10.t5",
+          "mn10:32.10.t6",
+          "mn10:32.10.t7",
+          "mn10:32.10.t9",
+          "mn10:32.10.t10"
+        ],
+        "review_status": "approved",
+        "content": "感受出世間不苦不樂受時，了知『我感受出世間不苦不樂受』。"
+      }
     },
     {
       "segment_id": "mn10:33.1",
@@ -39013,7 +40592,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:33.1.t0",
+          "mn10:33.1.t1",
+          "mn10:33.1.t2",
+          "mn10:33.1.t3",
+          "mn10:33.1.t4",
+          "mn10:33.1.t5",
+          "mn10:33.1.t6",
+          "mn10:33.1.t7",
+          "mn10:33.1.t8",
+          "mn10:33.1.t9",
+          "mn10:33.1.t10",
+          "mn10:33.1.t11",
+          "mn10:33.1.t12",
+          "mn10:33.1.t13",
+          "mn10:33.1.t14",
+          "mn10:33.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，或於內在諸受中隨觀感受而住，或於外在諸受中隨觀感受而住，或於內外諸受中隨觀感受而住。"
+      }
     },
     {
       "segment_id": "mn10:33.2",
@@ -39493,7 +41094,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:33.2.t0",
+          "mn10:33.2.t1",
+          "mn10:33.2.t2",
+          "mn10:33.2.t3",
+          "mn10:33.2.t4",
+          "mn10:33.2.t5",
+          "mn10:33.2.t6",
+          "mn10:33.2.t7",
+          "mn10:33.2.t8",
+          "mn10:33.2.t9",
+          "mn10:33.2.t10",
+          "mn10:33.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或於諸受中隨觀生起之法性而住，或於諸受中隨觀滅去之法性而住，或於諸受中隨觀生滅之法性而住。"
+      }
     },
     {
       "segment_id": "mn10:33.3",
@@ -40164,7 +41783,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:33.3.t0",
+          "mn10:33.3.t1",
+          "mn10:33.3.t2",
+          "mn10:33.3.t3",
+          "mn10:33.3.t4",
+          "mn10:33.3.t5",
+          "mn10:33.3.t6",
+          "mn10:33.3.t7",
+          "mn10:33.3.t8",
+          "mn10:33.3.t9",
+          "mn10:33.3.t10",
+          "mn10:33.3.t11",
+          "mn10:33.3.t12",
+          "mn10:33.3.t13",
+          "mn10:33.3.t14",
+          "mn10:33.3.t15",
+          "mn10:33.3.t16",
+          "mn10:33.3.t17",
+          "mn10:33.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有受」——（念）現前確立而成；恰到僅為了了知、持續念的程度，不依附而住，對世間任何事物皆不執取。（t4 panassa、t5 sati 所提供詞條與本段語境落差明顯，整段白話綜合其餘詞條語境整合。）"
+      }
     },
     {
       "segment_id": "mn10:33.4",
@@ -40353,7 +41997,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:33.4.t0",
+          "mn10:33.4.t1",
+          "mn10:33.4.t2",
+          "mn10:33.4.t3",
+          "mn10:33.4.t4",
+          "mn10:33.4.t5",
+          "mn10:33.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此，諸比丘，比丘確實於諸受中隨觀感受而住。"
+      }
     },
     {
       "segment_id": "mn10:33.5",
@@ -40479,7 +42136,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:33.5.t0",
+          "mn10:33.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "受隨觀竟。"
+      }
     },
     {
       "segment_id": "mn10:34.0",
@@ -40550,7 +42215,14 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "心隨觀。"
+      }
     },
     {
       "segment_id": "mn10:34.1",
@@ -40788,7 +42460,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.1.t0",
+          "mn10:34.1.t1",
+          "mn10:34.1.t2",
+          "mn10:34.1.t3",
+          "mn10:34.1.t4",
+          "mn10:34.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "又，諸比丘，比丘如何隨觀心而住？"
+      }
     },
     {
       "segment_id": "mn10:34.2",
@@ -41102,7 +42786,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.2.t0",
+          "mn10:34.2.t1",
+          "mn10:34.2.t2",
+          "mn10:34.2.t3",
+          "mn10:34.2.t4",
+          "mn10:34.2.t5",
+          "mn10:34.2.t6",
+          "mn10:34.2.t8",
+          "mn10:34.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "於此，諸比丘，比丘或於有貪之心，了知（其心）為「有貪之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.3",
@@ -41382,7 +43081,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.3.t0",
+          "mn10:34.3.t1",
+          "mn10:34.3.t2",
+          "mn10:34.3.t3",
+          "mn10:34.3.t5",
+          "mn10:34.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "或於離貪之心，了知（其心）為「離貪之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.4",
@@ -41644,7 +43355,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.4.t0",
+          "mn10:34.4.t1",
+          "mn10:34.4.t2",
+          "mn10:34.4.t3",
+          "mn10:34.4.t5",
+          "mn10:34.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "或於有瞋之心，了知（其心）為「有瞋之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.5",
@@ -41906,7 +43629,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.5.t0",
+          "mn10:34.5.t1",
+          "mn10:34.5.t2",
+          "mn10:34.5.t3",
+          "mn10:34.5.t5",
+          "mn10:34.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知離瞋之心為「離瞋之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.6",
@@ -42168,7 +43903,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.6.t0",
+          "mn10:34.6.t1",
+          "mn10:34.6.t2",
+          "mn10:34.6.t3",
+          "mn10:34.6.t5",
+          "mn10:34.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知有癡之心為「有癡之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.7",
@@ -42430,7 +44177,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.7.t0",
+          "mn10:34.7.t1",
+          "mn10:34.7.t2",
+          "mn10:34.7.t3",
+          "mn10:34.7.t5",
+          "mn10:34.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知離癡之心為「離癡之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.8",
@@ -42692,7 +44451,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.8.t0",
+          "mn10:34.8.t1",
+          "mn10:34.8.t2",
+          "mn10:34.8.t3",
+          "mn10:34.8.t5",
+          "mn10:34.8.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知收縮之心為「收縮之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.9",
@@ -42954,7 +44725,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.9.t0",
+          "mn10:34.9.t1",
+          "mn10:34.9.t2",
+          "mn10:34.9.t3",
+          "mn10:34.9.t5",
+          "mn10:34.9.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知散亂之心為「散亂之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.10",
@@ -43216,7 +44999,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.10.t0",
+          "mn10:34.10.t1",
+          "mn10:34.10.t2",
+          "mn10:34.10.t3",
+          "mn10:34.10.t5",
+          "mn10:34.10.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知廣大之心為「廣大之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.11",
@@ -43478,7 +45273,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.11.t0",
+          "mn10:34.11.t1",
+          "mn10:34.11.t2",
+          "mn10:34.11.t3",
+          "mn10:34.11.t5",
+          "mn10:34.11.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知不廣大之心為「不廣大之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.12",
@@ -43740,7 +45547,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.12.t0",
+          "mn10:34.12.t1",
+          "mn10:34.12.t2",
+          "mn10:34.12.t3",
+          "mn10:34.12.t5",
+          "mn10:34.12.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知有上之心（尚可被超越之心）為「有上之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.13",
@@ -44002,7 +45821,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.13.t0",
+          "mn10:34.13.t1",
+          "mn10:34.13.t2",
+          "mn10:34.13.t3",
+          "mn10:34.13.t5",
+          "mn10:34.13.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知無上之心（無可超越之心）為「無上之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.14",
@@ -44264,7 +46095,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.14.t0",
+          "mn10:34.14.t1",
+          "mn10:34.14.t2",
+          "mn10:34.14.t3",
+          "mn10:34.14.t5",
+          "mn10:34.14.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，（他）了知入定之心（已攝收的心）為「入定之心」。"
+      }
     },
     {
       "segment_id": "mn10:34.15",
@@ -44526,7 +46369,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.15.t0",
+          "mn10:34.15.t1",
+          "mn10:34.15.t2",
+          "mn10:34.15.t3",
+          "mn10:34.15.t5",
+          "mn10:34.15.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，心未得定，〔他〕了知「〔此心〕未得定」。"
+      }
     },
     {
       "segment_id": "mn10:34.16",
@@ -44842,7 +46697,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.16.t0",
+          "mn10:34.16.t1",
+          "mn10:34.16.t2",
+          "mn10:34.16.t3",
+          "mn10:34.16.t5",
+          "mn10:34.16.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，心已解脫，〔他〕了知「〔此心〕已解脫」。"
+      }
     },
     {
       "segment_id": "mn10:34.17",
@@ -45104,7 +46971,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:34.17.t0",
+          "mn10:34.17.t1",
+          "mn10:34.17.t2",
+          "mn10:34.17.t3",
+          "mn10:34.17.t5",
+          "mn10:34.17.t6"
+        ],
+        "review_status": "approved",
+        "content": "或者，心未解脫，〔他〕了知「〔此心〕未解脫」。"
+      }
     },
     {
       "segment_id": "mn10:35.1",
@@ -45913,7 +47792,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:35.1.t0",
+          "mn10:35.1.t1",
+          "mn10:35.1.t2",
+          "mn10:35.1.t3",
+          "mn10:35.1.t4",
+          "mn10:35.1.t5",
+          "mn10:35.1.t6",
+          "mn10:35.1.t7",
+          "mn10:35.1.t8",
+          "mn10:35.1.t9",
+          "mn10:35.1.t10",
+          "mn10:35.1.t11",
+          "mn10:35.1.t12",
+          "mn10:35.1.t13",
+          "mn10:35.1.t14",
+          "mn10:35.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，〔他〕或於內心隨觀心而安住，或於外心隨觀心而安住，或於內外心隨觀心而安住。"
+      }
     },
     {
       "segment_id": "mn10:35.2",
@@ -46447,7 +48348,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:35.2.t0",
+          "mn10:35.2.t1",
+          "mn10:35.2.t2",
+          "mn10:35.2.t3",
+          "mn10:35.2.t4",
+          "mn10:35.2.t5",
+          "mn10:35.2.t6",
+          "mn10:35.2.t7",
+          "mn10:35.2.t8",
+          "mn10:35.2.t9",
+          "mn10:35.2.t10",
+          "mn10:35.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或於心中隨觀生起之法而安住，或於心中隨觀滅去之法而安住，或於心中隨觀生滅之法而安住。"
+      }
     },
     {
       "segment_id": "mn10:35.3",
@@ -47063,7 +48982,31 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:35.3.t0",
+          "mn10:35.3.t2",
+          "mn10:35.3.t3",
+          "mn10:35.3.t4",
+          "mn10:35.3.t5",
+          "mn10:35.3.t6",
+          "mn10:35.3.t7",
+          "mn10:35.3.t8",
+          "mn10:35.3.t9",
+          "mn10:35.3.t10",
+          "mn10:35.3.t11",
+          "mn10:35.3.t12",
+          "mn10:35.3.t13",
+          "mn10:35.3.t14",
+          "mn10:35.3.t15",
+          "mn10:35.3.t16",
+          "mn10:35.3.t17",
+          "mn10:35.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "或「有〔心〕」，彼之正念現前建立；只為達到了知之量、念住之量，〔他〕離依而住，不執取世間任何事物。"
+      }
     },
     {
       "segment_id": "mn10:35.4",
@@ -47297,7 +49240,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:35.4.t0",
+          "mn10:35.4.t1",
+          "mn10:35.4.t2",
+          "mn10:35.4.t3",
+          "mn10:35.4.t4",
+          "mn10:35.4.t5",
+          "mn10:35.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，如此，比丘確實於心隨觀心而安住。"
+      }
     },
     {
       "segment_id": "mn10:35.5",
@@ -47423,7 +49379,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:35.5.t0",
+          "mn10:35.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "心隨觀已竟。"
+      }
     },
     {
       "segment_id": "mn10:36.0.1",
@@ -47494,7 +49458,14 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.0.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "法隨觀（法念住）"
+      }
     },
     {
       "segment_id": "mn10:36.0.2",
@@ -47528,7 +49499,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.0.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "法隨觀——蓋（障礙）品"
+      }
     },
     {
       "segment_id": "mn10:36.1",
@@ -47739,7 +49717,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.1.t0",
+          "mn10:36.1.t1",
+          "mn10:36.1.t2",
+          "mn10:36.1.t3",
+          "mn10:36.1.t4",
+          "mn10:36.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何於諸法中隨觀諸法而住？"
+      }
     },
     {
       "segment_id": "mn10:36.2",
@@ -47960,7 +49950,21 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.2.t0",
+          "mn10:36.2.t1",
+          "mn10:36.2.t2",
+          "mn10:36.2.t3",
+          "mn10:36.2.t4",
+          "mn10:36.2.t5",
+          "mn10:36.2.t6",
+          "mn10:36.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於此，比丘於五蓋中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:36.3",
@@ -48223,7 +50227,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.3.t0",
+          "mn10:36.3.t1",
+          "mn10:36.3.t2",
+          "mn10:36.3.t3",
+          "mn10:36.3.t4",
+          "mn10:36.3.t5",
+          "mn10:36.3.t6",
+          "mn10:36.3.t7",
+          "mn10:36.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "又，諸比丘，比丘如何於五蓋中隨觀諸法而住？"
+      }
     },
     {
       "segment_id": "mn10:36.4",
@@ -49728,7 +51747,61 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.4.t0",
+          "mn10:36.4.t1",
+          "mn10:36.4.t2",
+          "mn10:36.4.t3",
+          "mn10:36.4.t4",
+          "mn10:36.4.t5",
+          "mn10:36.4.t6",
+          "mn10:36.4.t7",
+          "mn10:36.4.t8",
+          "mn10:36.4.t9",
+          "mn10:36.4.t10",
+          "mn10:36.4.t11",
+          "mn10:36.4.t12",
+          "mn10:36.4.t13",
+          "mn10:36.4.t14",
+          "mn10:36.4.t15",
+          "mn10:36.4.t16",
+          "mn10:36.4.t17",
+          "mn10:36.4.t18",
+          "mn10:36.4.t19",
+          "mn10:36.4.t20",
+          "mn10:36.4.t21",
+          "mn10:36.4.t22",
+          "mn10:36.4.t23",
+          "mn10:36.4.t24",
+          "mn10:36.4.t25",
+          "mn10:36.4.t26",
+          "mn10:36.4.t27",
+          "mn10:36.4.t28",
+          "mn10:36.4.t29",
+          "mn10:36.4.t30",
+          "mn10:36.4.t31",
+          "mn10:36.4.t32",
+          "mn10:36.4.t33",
+          "mn10:36.4.t34",
+          "mn10:36.4.t35",
+          "mn10:36.4.t36",
+          "mn10:36.4.t37",
+          "mn10:36.4.t38",
+          "mn10:36.4.t39",
+          "mn10:36.4.t40",
+          "mn10:36.4.t41",
+          "mn10:36.4.t42",
+          "mn10:36.4.t43",
+          "mn10:36.4.t44",
+          "mn10:36.4.t45",
+          "mn10:36.4.t46",
+          "mn10:36.4.t47"
+        ],
+        "review_status": "approved",
+        "content": "於此，諸比丘，比丘了知內在有欲欲——「我內在有欲欲」；了知內在無欲欲——「我內在無欲欲」；又了知未生起之欲欲如何生起，了知那；了知已生起之欲欲如何得以捨斷，了知那；了知已捨斷之欲欲如何於將來不再生起，了知那。"
+      }
     },
     {
       "segment_id": "mn10:36.5",
@@ -51181,7 +53254,58 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:36.5.t0",
+          "mn10:36.5.t1",
+          "mn10:36.5.t2",
+          "mn10:36.5.t3",
+          "mn10:36.5.t4",
+          "mn10:36.5.t5",
+          "mn10:36.5.t6",
+          "mn10:36.5.t7",
+          "mn10:36.5.t8",
+          "mn10:36.5.t9",
+          "mn10:36.5.t10",
+          "mn10:36.5.t11",
+          "mn10:36.5.t12",
+          "mn10:36.5.t13",
+          "mn10:36.5.t14",
+          "mn10:36.5.t15",
+          "mn10:36.5.t16",
+          "mn10:36.5.t17",
+          "mn10:36.5.t18",
+          "mn10:36.5.t19",
+          "mn10:36.5.t20",
+          "mn10:36.5.t21",
+          "mn10:36.5.t22",
+          "mn10:36.5.t23",
+          "mn10:36.5.t24",
+          "mn10:36.5.t25",
+          "mn10:36.5.t26",
+          "mn10:36.5.t27",
+          "mn10:36.5.t28",
+          "mn10:36.5.t29",
+          "mn10:36.5.t30",
+          "mn10:36.5.t31",
+          "mn10:36.5.t32",
+          "mn10:36.5.t33",
+          "mn10:36.5.t34",
+          "mn10:36.5.t35",
+          "mn10:36.5.t36",
+          "mn10:36.5.t37",
+          "mn10:36.5.t38",
+          "mn10:36.5.t39",
+          "mn10:36.5.t40",
+          "mn10:36.5.t41",
+          "mn10:36.5.t42",
+          "mn10:36.5.t43",
+          "mn10:36.5.t44"
+        ],
+        "review_status": "approved",
+        "content": "內在有瞋恚，了知「我內在有瞋恚」；內在無瞋恚，了知「我內在無瞋恚」；了知未生起之瞋恚如何生起，了知那；了知已生起之瞋恚如何得以捨斷，了知那；了知已捨斷之瞋恚如何於將來不再生起，了知那。"
+      }
     },
     {
       "segment_id": "mn10:36.6",
@@ -56942,7 +59066,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:37.1.t0",
+          "mn10:37.1.t1",
+          "mn10:37.1.t2",
+          "mn10:37.1.t3",
+          "mn10:37.1.t4",
+          "mn10:37.1.t5",
+          "mn10:37.1.t6",
+          "mn10:37.1.t7",
+          "mn10:37.1.t8",
+          "mn10:37.1.t9",
+          "mn10:37.1.t10",
+          "mn10:37.1.t11",
+          "mn10:37.1.t12",
+          "mn10:37.1.t13",
+          "mn10:37.1.t14",
+          "mn10:37.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:37.2",
@@ -57476,7 +59622,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:37.2.t0",
+          "mn10:37.2.t1",
+          "mn10:37.2.t2",
+          "mn10:37.2.t3",
+          "mn10:37.2.t4",
+          "mn10:37.2.t5",
+          "mn10:37.2.t6",
+          "mn10:37.2.t7",
+          "mn10:37.2.t8",
+          "mn10:37.2.t9",
+          "mn10:37.2.t10",
+          "mn10:37.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或於諸法中隨觀集起之法而住，或於諸法中隨觀滅去之法而住，或於諸法中隨觀集起與滅去之法而住。"
+      }
     },
     {
       "segment_id": "mn10:37.3",
@@ -58147,7 +60311,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:37.3.t0",
+          "mn10:37.3.t1",
+          "mn10:37.3.t2",
+          "mn10:37.3.t3",
+          "mn10:37.3.t4",
+          "mn10:37.3.t5",
+          "mn10:37.3.t6",
+          "mn10:37.3.t7",
+          "mn10:37.3.t8",
+          "mn10:37.3.t9",
+          "mn10:37.3.t10",
+          "mn10:37.3.t11",
+          "mn10:37.3.t12",
+          "mn10:37.3.t13",
+          "mn10:37.3.t14",
+          "mn10:37.3.t15",
+          "mn10:37.3.t16",
+          "mn10:37.3.t17",
+          "mn10:37.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有（具如此性質的）諸法」——或者——（某物）消失了；（念）存在之時，（諸法）得以現前；僅為了了知的程度、持續念的程度，（比丘）不依附而安住，不執取世間任何事物。"
+      }
     },
     {
       "segment_id": "mn10:37.4",
@@ -58392,7 +60581,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:37.4.t0",
+          "mn10:37.4.t1",
+          "mn10:37.4.t2",
+          "mn10:37.4.t3",
+          "mn10:37.4.t4",
+          "mn10:37.4.t5",
+          "mn10:37.4.t6",
+          "mn10:37.4.t7",
+          "mn10:37.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，如此確實，比丘於諸法（具如此性質的事物）中隨觀諸法，安住於五蓋中。"
+      }
     },
     {
       "segment_id": "mn10:37.5",
@@ -58473,7 +60677,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:37.5.t0",
+          "mn10:37.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "蓋品，圓滿完結。"
+      }
     },
     {
       "segment_id": "mn10:38.0",
@@ -58507,7 +60719,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "（法隨觀）蘊品。"
+      }
     },
     {
       "segment_id": "mn10:38.1",
@@ -58732,7 +60951,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.1.t0",
+          "mn10:38.1.t1",
+          "mn10:38.1.t2",
+          "mn10:38.1.t3",
+          "mn10:38.1.t4",
+          "mn10:38.1.t5",
+          "mn10:38.1.t6",
+          "mn10:38.1.t7",
+          "mn10:38.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘於諸法中隨觀諸法，安住於五取蘊中。"
+      }
     },
     {
       "segment_id": "mn10:38.2",
@@ -58985,7 +61219,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.2.t0",
+          "mn10:38.2.t1",
+          "mn10:38.2.t2",
+          "mn10:38.2.t3",
+          "mn10:38.2.t4",
+          "mn10:38.2.t5",
+          "mn10:38.2.t6",
+          "mn10:38.2.t7",
+          "mn10:38.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "然而，諸比丘，比丘如何於諸法中隨觀諸法，安住於五取蘊中？"
+      }
     },
     {
       "segment_id": "mn10:38.3",
@@ -59043,7 +61292,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.3.t0",
+          "mn10:38.3.t1",
+          "mn10:38.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，在此（教法中），比丘（如是觀察）："
+      }
     },
     {
       "segment_id": "mn10:38.4",
@@ -59308,7 +61566,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.4.t0",
+          "mn10:38.4.t1",
+          "mn10:38.4.t2",
+          "mn10:38.4.t3",
+          "mn10:38.4.t4",
+          "mn10:38.4.t5",
+          "mn10:38.4.t6",
+          "mn10:38.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "「如是色；如是色之集；如是色之滅。」"
+      }
     },
     {
       "segment_id": "mn10:38.5",
@@ -59591,7 +61863,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.5.t0",
+          "mn10:38.5.t1",
+          "mn10:38.5.t2",
+          "mn10:38.5.t3",
+          "mn10:38.5.t4",
+          "mn10:38.5.t5",
+          "mn10:38.5.t6",
+          "mn10:38.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「如是受；如是受之集；如是受之滅。」"
+      }
     },
     {
       "segment_id": "mn10:38.6",
@@ -59874,7 +62160,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.6.t0",
+          "mn10:38.6.t1",
+          "mn10:38.6.t2",
+          "mn10:38.6.t3",
+          "mn10:38.6.t4",
+          "mn10:38.6.t5",
+          "mn10:38.6.t6",
+          "mn10:38.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "「如是想；如是想之集；如是想之滅。」"
+      }
     },
     {
       "segment_id": "mn10:38.7",
@@ -60157,7 +62457,21 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.7.t0",
+          "mn10:38.7.t1",
+          "mn10:38.7.t2",
+          "mn10:38.7.t3",
+          "mn10:38.7.t4",
+          "mn10:38.7.t5",
+          "mn10:38.7.t6",
+          "mn10:38.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "「如此是諸行，如此是諸行的生起，如此是諸行的滅去。」"
+      }
     },
     {
       "segment_id": "mn10:38.8",
@@ -60446,7 +62760,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:38.8.t0",
+          "mn10:38.8.t1",
+          "mn10:38.8.t2",
+          "mn10:38.8.t3",
+          "mn10:38.8.t4",
+          "mn10:38.8.t5",
+          "mn10:38.8.t6",
+          "mn10:38.8.t7",
+          "mn10:38.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "「如此是識，如此是識的生起，如此是識的滅去。」"
+      }
     },
     {
       "segment_id": "mn10:39.1",
@@ -61174,7 +63503,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:39.1.t0",
+          "mn10:39.1.t1",
+          "mn10:39.1.t2",
+          "mn10:39.1.t3",
+          "mn10:39.1.t4",
+          "mn10:39.1.t5",
+          "mn10:39.1.t6",
+          "mn10:39.1.t7",
+          "mn10:39.1.t8",
+          "mn10:39.1.t9",
+          "mn10:39.1.t10",
+          "mn10:39.1.t11",
+          "mn10:39.1.t12",
+          "mn10:39.1.t13",
+          "mn10:39.1.t14",
+          "mn10:39.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，他或於內在的諸法中隨觀諸法而住，或於外在的諸法中隨觀諸法而住，或於內外的諸法中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:39.2",
@@ -61708,7 +64059,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:39.2.t0",
+          "mn10:39.2.t1",
+          "mn10:39.2.t2",
+          "mn10:39.2.t3",
+          "mn10:39.2.t4",
+          "mn10:39.2.t5",
+          "mn10:39.2.t6",
+          "mn10:39.2.t7",
+          "mn10:39.2.t8",
+          "mn10:39.2.t9",
+          "mn10:39.2.t10",
+          "mn10:39.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或住於在諸法中隨觀生起之性，或住於在諸法中隨觀滅去之性，或住於在諸法中隨觀生滅之性。"
+      }
     },
     {
       "segment_id": "mn10:39.3",
@@ -62379,7 +64748,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:39.3.t0",
+          "mn10:39.3.t1",
+          "mn10:39.3.t2",
+          "mn10:39.3.t3",
+          "mn10:39.3.t4",
+          "mn10:39.3.t5",
+          "mn10:39.3.t6",
+          "mn10:39.3.t7",
+          "mn10:39.3.t8",
+          "mn10:39.3.t9",
+          "mn10:39.3.t10",
+          "mn10:39.3.t11",
+          "mn10:39.3.t12",
+          "mn10:39.3.t13",
+          "mn10:39.3.t14",
+          "mn10:39.3.t15",
+          "mn10:39.3.t16",
+          "mn10:39.3.t17",
+          "mn10:39.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有此性質的諸法」——正念現前（對他而言）成立。僅為了了知的分量、持續正念的分量，他不依附而住，且對世界中的任何事物都不執取。"
+      }
     },
     {
       "segment_id": "mn10:39.4",
@@ -62614,7 +65008,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:39.4.t0",
+          "mn10:39.4.t1",
+          "mn10:39.4.t2",
+          "mn10:39.4.t3",
+          "mn10:39.4.t4",
+          "mn10:39.4.t5",
+          "mn10:39.4.t6",
+          "mn10:39.4.t7",
+          "mn10:39.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘就如此確實地於五取蘊中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:39.5",
@@ -62695,7 +65104,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:39.5.t0",
+          "mn10:39.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "蘊品已完結。"
+      }
     },
     {
       "segment_id": "mn10:40.0",
@@ -62729,7 +65146,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "法隨觀・處品（章節標題）"
+      }
     },
     {
       "segment_id": "mn10:40.1",
@@ -62978,7 +65402,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.1.t0",
+          "mn10:40.1.t1",
+          "mn10:40.1.t2",
+          "mn10:40.1.t3",
+          "mn10:40.1.t4",
+          "mn10:40.1.t5",
+          "mn10:40.1.t6",
+          "mn10:40.1.t7",
+          "mn10:40.1.t8",
+          "mn10:40.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘於六內外處中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:40.2",
@@ -63255,7 +65695,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.2.t0",
+          "mn10:40.2.t1",
+          "mn10:40.2.t2",
+          "mn10:40.2.t3",
+          "mn10:40.2.t4",
+          "mn10:40.2.t5",
+          "mn10:40.2.t6",
+          "mn10:40.2.t7",
+          "mn10:40.2.t8",
+          "mn10:40.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "然而諸比丘，比丘如何於六內外處中隨觀諸法而住？"
+      }
     },
     {
       "segment_id": "mn10:40.3",
@@ -64505,7 +66961,53 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.3.t0",
+          "mn10:40.3.t1",
+          "mn10:40.3.t2",
+          "mn10:40.3.t3",
+          "mn10:40.3.t4",
+          "mn10:40.3.t5",
+          "mn10:40.3.t6",
+          "mn10:40.3.t7",
+          "mn10:40.3.t8",
+          "mn10:40.3.t9",
+          "mn10:40.3.t10",
+          "mn10:40.3.t11",
+          "mn10:40.3.t12",
+          "mn10:40.3.t13",
+          "mn10:40.3.t14",
+          "mn10:40.3.t15",
+          "mn10:40.3.t16",
+          "mn10:40.3.t17",
+          "mn10:40.3.t18",
+          "mn10:40.3.t19",
+          "mn10:40.3.t20",
+          "mn10:40.3.t21",
+          "mn10:40.3.t22",
+          "mn10:40.3.t23",
+          "mn10:40.3.t24",
+          "mn10:40.3.t25",
+          "mn10:40.3.t26",
+          "mn10:40.3.t27",
+          "mn10:40.3.t28",
+          "mn10:40.3.t29",
+          "mn10:40.3.t30",
+          "mn10:40.3.t31",
+          "mn10:40.3.t32",
+          "mn10:40.3.t33",
+          "mn10:40.3.t34",
+          "mn10:40.3.t35",
+          "mn10:40.3.t36",
+          "mn10:40.3.t37",
+          "mn10:40.3.t38",
+          "mn10:40.3.t39"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，此處比丘了知眼，亦了知諸色；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:40.4",
@@ -65686,7 +68188,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.4.t0",
+          "mn10:40.4.t1",
+          "mn10:40.4.t2",
+          "mn10:40.4.t3",
+          "mn10:40.4.t4",
+          "mn10:40.4.t5",
+          "mn10:40.4.t6",
+          "mn10:40.4.t7",
+          "mn10:40.4.t8",
+          "mn10:40.4.t9",
+          "mn10:40.4.t10",
+          "mn10:40.4.t11",
+          "mn10:40.4.t12",
+          "mn10:40.4.t13",
+          "mn10:40.4.t14",
+          "mn10:40.4.t15",
+          "mn10:40.4.t16",
+          "mn10:40.4.t17",
+          "mn10:40.4.t18",
+          "mn10:40.4.t19",
+          "mn10:40.4.t20",
+          "mn10:40.4.t21",
+          "mn10:40.4.t22",
+          "mn10:40.4.t23",
+          "mn10:40.4.t24",
+          "mn10:40.4.t25",
+          "mn10:40.4.t26",
+          "mn10:40.4.t27",
+          "mn10:40.4.t28",
+          "mn10:40.4.t29",
+          "mn10:40.4.t30",
+          "mn10:40.4.t31",
+          "mn10:40.4.t32",
+          "mn10:40.4.t33",
+          "mn10:40.4.t34",
+          "mn10:40.4.t35",
+          "mn10:40.4.t36"
+        ],
+        "review_status": "approved",
+        "content": "了知耳，亦了知諸聲；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:40.5",
@@ -66857,7 +69402,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.5.t0",
+          "mn10:40.5.t1",
+          "mn10:40.5.t2",
+          "mn10:40.5.t3",
+          "mn10:40.5.t4",
+          "mn10:40.5.t5",
+          "mn10:40.5.t6",
+          "mn10:40.5.t7",
+          "mn10:40.5.t8",
+          "mn10:40.5.t9",
+          "mn10:40.5.t10",
+          "mn10:40.5.t11",
+          "mn10:40.5.t12",
+          "mn10:40.5.t13",
+          "mn10:40.5.t14",
+          "mn10:40.5.t15",
+          "mn10:40.5.t16",
+          "mn10:40.5.t17",
+          "mn10:40.5.t18",
+          "mn10:40.5.t19",
+          "mn10:40.5.t20",
+          "mn10:40.5.t21",
+          "mn10:40.5.t22",
+          "mn10:40.5.t23",
+          "mn10:40.5.t24",
+          "mn10:40.5.t25",
+          "mn10:40.5.t26",
+          "mn10:40.5.t27",
+          "mn10:40.5.t28",
+          "mn10:40.5.t29",
+          "mn10:40.5.t30",
+          "mn10:40.5.t31",
+          "mn10:40.5.t32",
+          "mn10:40.5.t33",
+          "mn10:40.5.t34",
+          "mn10:40.5.t35",
+          "mn10:40.5.t36"
+        ],
+        "review_status": "approved",
+        "content": "了知鼻，亦了知諸香；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:40.6",
@@ -68065,7 +70653,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.6.t0",
+          "mn10:40.6.t1",
+          "mn10:40.6.t2",
+          "mn10:40.6.t3",
+          "mn10:40.6.t4",
+          "mn10:40.6.t5",
+          "mn10:40.6.t6",
+          "mn10:40.6.t7",
+          "mn10:40.6.t8",
+          "mn10:40.6.t9",
+          "mn10:40.6.t10",
+          "mn10:40.6.t11",
+          "mn10:40.6.t12",
+          "mn10:40.6.t13",
+          "mn10:40.6.t14",
+          "mn10:40.6.t15",
+          "mn10:40.6.t16",
+          "mn10:40.6.t17",
+          "mn10:40.6.t18",
+          "mn10:40.6.t19",
+          "mn10:40.6.t20",
+          "mn10:40.6.t21",
+          "mn10:40.6.t22",
+          "mn10:40.6.t23",
+          "mn10:40.6.t24",
+          "mn10:40.6.t25",
+          "mn10:40.6.t26",
+          "mn10:40.6.t27",
+          "mn10:40.6.t28",
+          "mn10:40.6.t29",
+          "mn10:40.6.t30",
+          "mn10:40.6.t31",
+          "mn10:40.6.t32",
+          "mn10:40.6.t33",
+          "mn10:40.6.t34",
+          "mn10:40.6.t35",
+          "mn10:40.6.t36"
+        ],
+        "review_status": "approved",
+        "content": "了知舌，亦了知諸味；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:40.7",
@@ -69300,7 +71931,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.7.t0",
+          "mn10:40.7.t1",
+          "mn10:40.7.t2",
+          "mn10:40.7.t3",
+          "mn10:40.7.t4",
+          "mn10:40.7.t5",
+          "mn10:40.7.t6",
+          "mn10:40.7.t7",
+          "mn10:40.7.t8",
+          "mn10:40.7.t9",
+          "mn10:40.7.t10",
+          "mn10:40.7.t11",
+          "mn10:40.7.t12",
+          "mn10:40.7.t13",
+          "mn10:40.7.t14",
+          "mn10:40.7.t15",
+          "mn10:40.7.t16",
+          "mn10:40.7.t17",
+          "mn10:40.7.t18",
+          "mn10:40.7.t19",
+          "mn10:40.7.t20",
+          "mn10:40.7.t21",
+          "mn10:40.7.t22",
+          "mn10:40.7.t23",
+          "mn10:40.7.t24",
+          "mn10:40.7.t25",
+          "mn10:40.7.t26",
+          "mn10:40.7.t27",
+          "mn10:40.7.t28",
+          "mn10:40.7.t29",
+          "mn10:40.7.t30",
+          "mn10:40.7.t31",
+          "mn10:40.7.t32",
+          "mn10:40.7.t33",
+          "mn10:40.7.t34",
+          "mn10:40.7.t35",
+          "mn10:40.7.t36"
+        ],
+        "review_status": "approved",
+        "content": "了知身（依資料 lemma=ki，gloss 為疑問代名詞「誰？什麼？」，疑似資料有誤），亦了知諸觸（gloss 為空，資料不足）；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:40.8",
@@ -70517,7 +73191,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:40.8.t0",
+          "mn10:40.8.t1",
+          "mn10:40.8.t2",
+          "mn10:40.8.t3",
+          "mn10:40.8.t4",
+          "mn10:40.8.t5",
+          "mn10:40.8.t6",
+          "mn10:40.8.t7",
+          "mn10:40.8.t8",
+          "mn10:40.8.t9",
+          "mn10:40.8.t10",
+          "mn10:40.8.t11",
+          "mn10:40.8.t12",
+          "mn10:40.8.t13",
+          "mn10:40.8.t14",
+          "mn10:40.8.t15",
+          "mn10:40.8.t16",
+          "mn10:40.8.t17",
+          "mn10:40.8.t18",
+          "mn10:40.8.t19",
+          "mn10:40.8.t20",
+          "mn10:40.8.t21",
+          "mn10:40.8.t22",
+          "mn10:40.8.t23",
+          "mn10:40.8.t24",
+          "mn10:40.8.t25",
+          "mn10:40.8.t26",
+          "mn10:40.8.t27",
+          "mn10:40.8.t28",
+          "mn10:40.8.t29",
+          "mn10:40.8.t30",
+          "mn10:40.8.t31",
+          "mn10:40.8.t32",
+          "mn10:40.8.t33",
+          "mn10:40.8.t34",
+          "mn10:40.8.t35",
+          "mn10:40.8.t36"
+        ],
+        "review_status": "approved",
+        "content": "了知意，亦了知諸法；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+      }
     },
     {
       "segment_id": "mn10:41.1",
@@ -71245,7 +73962,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:41.1.t0",
+          "mn10:41.1.t1",
+          "mn10:41.1.t2",
+          "mn10:41.1.t3",
+          "mn10:41.1.t4",
+          "mn10:41.1.t5",
+          "mn10:41.1.t6",
+          "mn10:41.1.t7",
+          "mn10:41.1.t8",
+          "mn10:41.1.t9",
+          "mn10:41.1.t10",
+          "mn10:41.1.t11",
+          "mn10:41.1.t12",
+          "mn10:41.1.t13",
+          "mn10:41.1.t14",
+          "mn10:41.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，他或就內在諸法觀察諸法而安住，或就外在諸法觀察諸法而安住，或就內外諸法觀察諸法而安住。"
+      }
     },
     {
       "segment_id": "mn10:41.2",
@@ -71779,7 +74518,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:41.2.t0",
+          "mn10:41.2.t1",
+          "mn10:41.2.t2",
+          "mn10:41.2.t3",
+          "mn10:41.2.t4",
+          "mn10:41.2.t5",
+          "mn10:41.2.t6",
+          "mn10:41.2.t7",
+          "mn10:41.2.t8",
+          "mn10:41.2.t9",
+          "mn10:41.2.t10",
+          "mn10:41.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或就諸法中觀察生起之性而安住，或就諸法中觀察滅去之性而安住，或就諸法中觀察生滅之性而安住。"
+      }
     },
     {
       "segment_id": "mn10:41.3",
@@ -72709,7 +75466,23 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:41.4.t0",
+          "mn10:41.4.t1",
+          "mn10:41.4.t2",
+          "mn10:41.4.t3",
+          "mn10:41.4.t4",
+          "mn10:41.4.t5",
+          "mn10:41.4.t6",
+          "mn10:41.4.t7",
+          "mn10:41.4.t8",
+          "mn10:41.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘確實如是就六內外入處觀察諸法而安住。"
+      }
     },
     {
       "segment_id": "mn10:41.5",
@@ -72790,7 +75563,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:41.5.t0",
+          "mn10:41.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "處品已完畢。"
+      }
     },
     {
       "segment_id": "mn10:42.0",
@@ -72824,7 +75605,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "觀法——覺支品"
+      }
     },
     {
       "segment_id": "mn10:42.1",
@@ -73059,7 +75847,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.1.t0",
+          "mn10:42.1.t1",
+          "mn10:42.1.t2",
+          "mn10:42.1.t3",
+          "mn10:42.1.t4",
+          "mn10:42.1.t5",
+          "mn10:42.1.t6",
+          "mn10:42.1.t7",
+          "mn10:42.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘於七覺支之諸法中，以觀法者的方式安住。"
+      }
     },
     {
       "segment_id": "mn10:42.2",
@@ -73322,7 +76125,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.2.t0",
+          "mn10:42.2.t1",
+          "mn10:42.2.t2",
+          "mn10:42.2.t3",
+          "mn10:42.2.t4",
+          "mn10:42.2.t5",
+          "mn10:42.2.t6",
+          "mn10:42.2.t7",
+          "mn10:42.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何於七覺支之諸法中以觀法者的方式安住？"
+      }
     },
     {
       "segment_id": "mn10:42.3",
@@ -74649,7 +77467,53 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.3.t0",
+          "mn10:42.3.t1",
+          "mn10:42.3.t2",
+          "mn10:42.3.t3",
+          "mn10:42.3.t4",
+          "mn10:42.3.t5",
+          "mn10:42.3.t6",
+          "mn10:42.3.t7",
+          "mn10:42.3.t8",
+          "mn10:42.3.t9",
+          "mn10:42.3.t10",
+          "mn10:42.3.t11",
+          "mn10:42.3.t12",
+          "mn10:42.3.t13",
+          "mn10:42.3.t14",
+          "mn10:42.3.t15",
+          "mn10:42.3.t16",
+          "mn10:42.3.t17",
+          "mn10:42.3.t18",
+          "mn10:42.3.t19",
+          "mn10:42.3.t20",
+          "mn10:42.3.t21",
+          "mn10:42.3.t22",
+          "mn10:42.3.t23",
+          "mn10:42.3.t24",
+          "mn10:42.3.t25",
+          "mn10:42.3.t26",
+          "mn10:42.3.t27",
+          "mn10:42.3.t28",
+          "mn10:42.3.t29",
+          "mn10:42.3.t30",
+          "mn10:42.3.t31",
+          "mn10:42.3.t32",
+          "mn10:42.3.t33",
+          "mn10:42.3.t34",
+          "mn10:42.3.t35",
+          "mn10:42.3.t36",
+          "mn10:42.3.t37",
+          "mn10:42.3.t38",
+          "mn10:42.3.t39"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於此，比丘若自身內有念覺支，了知「我內有念覺支」；若自身內無念覺支，了知「我內無念覺支」；又未生起之念覺支如何生起，亦清楚了知；已生起之念覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.4",
@@ -75924,7 +78788,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.4.t0",
+          "mn10:42.4.t1",
+          "mn10:42.4.t2",
+          "mn10:42.4.t3",
+          "mn10:42.4.t4",
+          "mn10:42.4.t5",
+          "mn10:42.4.t6",
+          "mn10:42.4.t7",
+          "mn10:42.4.t8",
+          "mn10:42.4.t9",
+          "mn10:42.4.t10",
+          "mn10:42.4.t11",
+          "mn10:42.4.t12",
+          "mn10:42.4.t13",
+          "mn10:42.4.t14",
+          "mn10:42.4.t15",
+          "mn10:42.4.t16",
+          "mn10:42.4.t17",
+          "mn10:42.4.t18",
+          "mn10:42.4.t19",
+          "mn10:42.4.t20",
+          "mn10:42.4.t21",
+          "mn10:42.4.t22",
+          "mn10:42.4.t23",
+          "mn10:42.4.t24",
+          "mn10:42.4.t25",
+          "mn10:42.4.t26",
+          "mn10:42.4.t27",
+          "mn10:42.4.t28",
+          "mn10:42.4.t29",
+          "mn10:42.4.t30",
+          "mn10:42.4.t31",
+          "mn10:42.4.t32",
+          "mn10:42.4.t33",
+          "mn10:42.4.t34",
+          "mn10:42.4.t35",
+          "mn10:42.4.t36"
+        ],
+        "review_status": "approved",
+        "content": "若自身內有擇法覺支，了知「我內有擇法覺支」；若自身內無擇法覺支，了知「我內無擇法覺支」；又未生起之擇法覺支如何生起，亦清楚了知；已生起之擇法覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.5",
@@ -77199,7 +80106,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.5.t0",
+          "mn10:42.5.t1",
+          "mn10:42.5.t2",
+          "mn10:42.5.t3",
+          "mn10:42.5.t4",
+          "mn10:42.5.t5",
+          "mn10:42.5.t6",
+          "mn10:42.5.t7",
+          "mn10:42.5.t8",
+          "mn10:42.5.t9",
+          "mn10:42.5.t10",
+          "mn10:42.5.t11",
+          "mn10:42.5.t12",
+          "mn10:42.5.t13",
+          "mn10:42.5.t14",
+          "mn10:42.5.t15",
+          "mn10:42.5.t16",
+          "mn10:42.5.t17",
+          "mn10:42.5.t18",
+          "mn10:42.5.t19",
+          "mn10:42.5.t20",
+          "mn10:42.5.t21",
+          "mn10:42.5.t22",
+          "mn10:42.5.t23",
+          "mn10:42.5.t24",
+          "mn10:42.5.t25",
+          "mn10:42.5.t26",
+          "mn10:42.5.t27",
+          "mn10:42.5.t28",
+          "mn10:42.5.t29",
+          "mn10:42.5.t30",
+          "mn10:42.5.t31",
+          "mn10:42.5.t32",
+          "mn10:42.5.t33",
+          "mn10:42.5.t34",
+          "mn10:42.5.t35",
+          "mn10:42.5.t36"
+        ],
+        "review_status": "approved",
+        "content": "若自身內有精進覺支，了知「我內有精進覺支」；若自身內無精進覺支，了知「我內無精進覺支」；又未生起之精進覺支如何生起，亦清楚了知；已生起之精進覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.6",
@@ -78474,7 +81424,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.6.t0",
+          "mn10:42.6.t1",
+          "mn10:42.6.t2",
+          "mn10:42.6.t3",
+          "mn10:42.6.t4",
+          "mn10:42.6.t5",
+          "mn10:42.6.t6",
+          "mn10:42.6.t7",
+          "mn10:42.6.t8",
+          "mn10:42.6.t9",
+          "mn10:42.6.t10",
+          "mn10:42.6.t11",
+          "mn10:42.6.t12",
+          "mn10:42.6.t13",
+          "mn10:42.6.t14",
+          "mn10:42.6.t15",
+          "mn10:42.6.t16",
+          "mn10:42.6.t17",
+          "mn10:42.6.t18",
+          "mn10:42.6.t19",
+          "mn10:42.6.t20",
+          "mn10:42.6.t21",
+          "mn10:42.6.t22",
+          "mn10:42.6.t23",
+          "mn10:42.6.t24",
+          "mn10:42.6.t25",
+          "mn10:42.6.t26",
+          "mn10:42.6.t27",
+          "mn10:42.6.t28",
+          "mn10:42.6.t29",
+          "mn10:42.6.t30",
+          "mn10:42.6.t31",
+          "mn10:42.6.t32",
+          "mn10:42.6.t33",
+          "mn10:42.6.t34",
+          "mn10:42.6.t35",
+          "mn10:42.6.t36"
+        ],
+        "review_status": "approved",
+        "content": "若自身內有喜覺支，了知「我內有喜覺支」；若自身內無喜覺支，了知「我內無喜覺支」；又未生起之喜覺支如何生起，亦清楚了知；已生起之喜覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.7",
@@ -79749,7 +82742,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.7.t0",
+          "mn10:42.7.t1",
+          "mn10:42.7.t2",
+          "mn10:42.7.t3",
+          "mn10:42.7.t4",
+          "mn10:42.7.t5",
+          "mn10:42.7.t6",
+          "mn10:42.7.t7",
+          "mn10:42.7.t8",
+          "mn10:42.7.t9",
+          "mn10:42.7.t10",
+          "mn10:42.7.t11",
+          "mn10:42.7.t12",
+          "mn10:42.7.t13",
+          "mn10:42.7.t14",
+          "mn10:42.7.t15",
+          "mn10:42.7.t16",
+          "mn10:42.7.t17",
+          "mn10:42.7.t18",
+          "mn10:42.7.t19",
+          "mn10:42.7.t20",
+          "mn10:42.7.t21",
+          "mn10:42.7.t22",
+          "mn10:42.7.t23",
+          "mn10:42.7.t24",
+          "mn10:42.7.t25",
+          "mn10:42.7.t26",
+          "mn10:42.7.t27",
+          "mn10:42.7.t28",
+          "mn10:42.7.t29",
+          "mn10:42.7.t30",
+          "mn10:42.7.t31",
+          "mn10:42.7.t32",
+          "mn10:42.7.t33",
+          "mn10:42.7.t34",
+          "mn10:42.7.t35",
+          "mn10:42.7.t36"
+        ],
+        "review_status": "approved",
+        "content": "若自身內有輕安覺支，了知「我內有輕安覺支」；若自身內無輕安覺支，了知「我內無輕安覺支」；又未生起之輕安覺支如何生起，亦清楚了知；已生起之輕安覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.8",
@@ -81024,7 +84060,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.8.t0",
+          "mn10:42.8.t1",
+          "mn10:42.8.t2",
+          "mn10:42.8.t3",
+          "mn10:42.8.t4",
+          "mn10:42.8.t5",
+          "mn10:42.8.t6",
+          "mn10:42.8.t7",
+          "mn10:42.8.t8",
+          "mn10:42.8.t9",
+          "mn10:42.8.t10",
+          "mn10:42.8.t11",
+          "mn10:42.8.t12",
+          "mn10:42.8.t13",
+          "mn10:42.8.t14",
+          "mn10:42.8.t15",
+          "mn10:42.8.t16",
+          "mn10:42.8.t17",
+          "mn10:42.8.t18",
+          "mn10:42.8.t19",
+          "mn10:42.8.t20",
+          "mn10:42.8.t21",
+          "mn10:42.8.t22",
+          "mn10:42.8.t23",
+          "mn10:42.8.t24",
+          "mn10:42.8.t25",
+          "mn10:42.8.t26",
+          "mn10:42.8.t27",
+          "mn10:42.8.t28",
+          "mn10:42.8.t29",
+          "mn10:42.8.t30",
+          "mn10:42.8.t31",
+          "mn10:42.8.t32",
+          "mn10:42.8.t33",
+          "mn10:42.8.t34",
+          "mn10:42.8.t35",
+          "mn10:42.8.t36"
+        ],
+        "review_status": "approved",
+        "content": "若自身內有定覺支，了知「我內有定覺支」；若自身內無定覺支，了知「我內無定覺支」；又未生起之定覺支如何生起，亦清楚了知；已生起之定覺支藉由修習如何達致圓滿，亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:42.9",
@@ -82299,7 +85378,50 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:42.9.t0",
+          "mn10:42.9.t1",
+          "mn10:42.9.t2",
+          "mn10:42.9.t3",
+          "mn10:42.9.t4",
+          "mn10:42.9.t5",
+          "mn10:42.9.t6",
+          "mn10:42.9.t7",
+          "mn10:42.9.t8",
+          "mn10:42.9.t9",
+          "mn10:42.9.t10",
+          "mn10:42.9.t11",
+          "mn10:42.9.t12",
+          "mn10:42.9.t13",
+          "mn10:42.9.t14",
+          "mn10:42.9.t15",
+          "mn10:42.9.t16",
+          "mn10:42.9.t17",
+          "mn10:42.9.t18",
+          "mn10:42.9.t19",
+          "mn10:42.9.t20",
+          "mn10:42.9.t21",
+          "mn10:42.9.t22",
+          "mn10:42.9.t23",
+          "mn10:42.9.t24",
+          "mn10:42.9.t25",
+          "mn10:42.9.t26",
+          "mn10:42.9.t27",
+          "mn10:42.9.t28",
+          "mn10:42.9.t29",
+          "mn10:42.9.t30",
+          "mn10:42.9.t31",
+          "mn10:42.9.t32",
+          "mn10:42.9.t33",
+          "mn10:42.9.t34",
+          "mn10:42.9.t35",
+          "mn10:42.9.t36"
+        ],
+        "review_status": "approved",
+        "content": "若內在已有捨覺支，清楚了知「我內在有捨覺支」；若內在尚無捨覺支，清楚了知「我內在無捨覺支」；並清楚了知，尚未生起的捨覺支如何得以生起；以及已生起的捨覺支藉由修習而圓滿——此亦清楚了知。"
+      }
     },
     {
       "segment_id": "mn10:43.1",
@@ -83027,7 +86149,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:43.1.t0",
+          "mn10:43.1.t1",
+          "mn10:43.1.t2",
+          "mn10:43.1.t3",
+          "mn10:43.1.t4",
+          "mn10:43.1.t5",
+          "mn10:43.1.t6",
+          "mn10:43.1.t7",
+          "mn10:43.1.t8",
+          "mn10:43.1.t9",
+          "mn10:43.1.t10",
+          "mn10:43.1.t11",
+          "mn10:43.1.t12",
+          "mn10:43.1.t13",
+          "mn10:43.1.t14",
+          "mn10:43.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:43.2",
@@ -83561,7 +86705,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:43.2.t0",
+          "mn10:43.2.t1",
+          "mn10:43.2.t2",
+          "mn10:43.2.t3",
+          "mn10:43.2.t4",
+          "mn10:43.2.t5",
+          "mn10:43.2.t6",
+          "mn10:43.2.t7",
+          "mn10:43.2.t8",
+          "mn10:43.2.t9",
+          "mn10:43.2.t10",
+          "mn10:43.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或於諸法中隨觀生起之性質而住，或於諸法中隨觀滅去之性質而住，或於諸法中隨觀生滅之性質而住。"
+      }
     },
     {
       "segment_id": "mn10:43.3",
@@ -84232,7 +87394,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:43.3.t0",
+          "mn10:43.3.t1",
+          "mn10:43.3.t2",
+          "mn10:43.3.t3",
+          "mn10:43.3.t4",
+          "mn10:43.3.t5",
+          "mn10:43.3.t6",
+          "mn10:43.3.t7",
+          "mn10:43.3.t8",
+          "mn10:43.3.t9",
+          "mn10:43.3.t10",
+          "mn10:43.3.t11",
+          "mn10:43.3.t12",
+          "mn10:43.3.t13",
+          "mn10:43.3.t14",
+          "mn10:43.3.t15",
+          "mn10:43.3.t16",
+          "mn10:43.3.t17",
+          "mn10:43.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「諸法存在」——或（依資料）消逝——念已現前；只為了如實了知與持續念知，不依附而住，對諸世界任何事物皆不執取。"
+      }
     },
     {
       "segment_id": "mn10:43.4",
@@ -84477,7 +87664,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:43.4.t0",
+          "mn10:43.4.t1",
+          "mn10:43.4.t2",
+          "mn10:43.4.t3",
+          "mn10:43.4.t4",
+          "mn10:43.4.t5",
+          "mn10:43.4.t6",
+          "mn10:43.4.t7",
+          "mn10:43.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，比丘如此於七覺支中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:43.5",
@@ -84558,7 +87760,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:43.5.t0",
+          "mn10:43.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "覺支品圓竟。"
+      }
     },
     {
       "segment_id": "mn10:44.0",
@@ -84592,7 +87802,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:44.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "法隨觀·諦品"
+      }
     },
     {
       "segment_id": "mn10:44.1",
@@ -84836,7 +88053,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:44.1.t0",
+          "mn10:44.1.t1",
+          "mn10:44.1.t2",
+          "mn10:44.1.t3",
+          "mn10:44.1.t4",
+          "mn10:44.1.t5",
+          "mn10:44.1.t6",
+          "mn10:44.1.t7",
+          "mn10:44.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘於四聖諦中隨觀諸法而住。"
+      }
     },
     {
       "segment_id": "mn10:44.2",
@@ -85108,7 +88340,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:44.2.t0",
+          "mn10:44.2.t1",
+          "mn10:44.2.t2",
+          "mn10:44.2.t3",
+          "mn10:44.2.t4",
+          "mn10:44.2.t5",
+          "mn10:44.2.t6",
+          "mn10:44.2.t7",
+          "mn10:44.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "然而，比丘們，比丘如何於四聖諦中隨觀諸法而住？"
+      }
     },
     {
       "segment_id": "mn10:44.3",
@@ -85870,7 +89117,36 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:44.3.t0",
+          "mn10:44.3.t1",
+          "mn10:44.3.t2",
+          "mn10:44.3.t3",
+          "mn10:44.3.t5",
+          "mn10:44.3.t6",
+          "mn10:44.3.t7",
+          "mn10:44.3.t8",
+          "mn10:44.3.t9",
+          "mn10:44.3.t10",
+          "mn10:44.3.t11",
+          "mn10:44.3.t12",
+          "mn10:44.3.t13",
+          "mn10:44.3.t14",
+          "mn10:44.3.t15",
+          "mn10:44.3.t16",
+          "mn10:44.3.t17",
+          "mn10:44.3.t18",
+          "mn10:44.3.t19",
+          "mn10:44.3.t20",
+          "mn10:44.3.t21",
+          "mn10:44.3.t22",
+          "mn10:44.3.t23"
+        ],
+        "review_status": "approved",
+        "content": "於此，比丘們，比丘對「此」如實了知；對「此為苦之生起」如實了知；對「此為苦之息滅」如實了知；對「此為導向苦滅之道」如實了知。"
+      }
     },
     {
       "segment_id": "mn10:45.1",
@@ -86598,7 +89874,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.1.t0",
+          "mn10:45.1.t1",
+          "mn10:45.1.t2",
+          "mn10:45.1.t3",
+          "mn10:45.1.t4",
+          "mn10:45.1.t5",
+          "mn10:45.1.t6",
+          "mn10:45.1.t7",
+          "mn10:45.1.t8",
+          "mn10:45.1.t9",
+          "mn10:45.1.t10",
+          "mn10:45.1.t11",
+          "mn10:45.1.t12",
+          "mn10:45.1.t13",
+          "mn10:45.1.t14",
+          "mn10:45.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如是，（他）或安住於在自身諸法中隨觀諸法，或安住於在外部諸法中隨觀諸法，或安住於在內外諸法中隨觀諸法。"
+      }
     },
     {
       "segment_id": "mn10:45.2",
@@ -87132,7 +90430,25 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.2.t0",
+          "mn10:45.2.t1",
+          "mn10:45.2.t2",
+          "mn10:45.2.t3",
+          "mn10:45.2.t4",
+          "mn10:45.2.t5",
+          "mn10:45.2.t6",
+          "mn10:45.2.t7",
+          "mn10:45.2.t8",
+          "mn10:45.2.t9",
+          "mn10:45.2.t10",
+          "mn10:45.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "或安住於在諸法中觀察生起之本質，或安住於在諸法中觀察滅去之本質，或安住於在諸法中觀察生滅之本質。"
+      }
     },
     {
       "segment_id": "mn10:45.3",
@@ -87803,7 +91119,32 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.3.t0",
+          "mn10:45.3.t1",
+          "mn10:45.3.t2",
+          "mn10:45.3.t3",
+          "mn10:45.3.t4",
+          "mn10:45.3.t5",
+          "mn10:45.3.t6",
+          "mn10:45.3.t7",
+          "mn10:45.3.t8",
+          "mn10:45.3.t9",
+          "mn10:45.3.t10",
+          "mn10:45.3.t11",
+          "mn10:45.3.t12",
+          "mn10:45.3.t13",
+          "mn10:45.3.t14",
+          "mn10:45.3.t15",
+          "mn10:45.3.t16",
+          "mn10:45.3.t17",
+          "mn10:45.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "「有諸法」——如此，念知現前。僅就所需的了知量度與念住量度而言，（他）安住於不依附，不於世間執取任何事物。"
+      }
     },
     {
       "segment_id": "mn10:45.4",
@@ -88057,7 +91398,22 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.4.t0",
+          "mn10:45.4.t1",
+          "mn10:45.4.t2",
+          "mn10:45.4.t3",
+          "mn10:45.4.t4",
+          "mn10:45.4.t5",
+          "mn10:45.4.t6",
+          "mn10:45.4.t7",
+          "mn10:45.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "就如此，諸比丘，比丘安住於在這四聖諦的諸法中隨觀諸法。"
+      }
     },
     {
       "segment_id": "mn10:45.5",
@@ -88138,7 +91494,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.5.t0",
+          "mn10:45.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "諦品，圓滿完畢。"
+      }
     },
     {
       "segment_id": "mn10:45.6",
@@ -88264,7 +91628,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:45.6.t0",
+          "mn10:45.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "法隨觀，圓滿完畢。"
+      }
     },
     {
       "segment_id": "mn10:46.1",
@@ -88890,7 +92262,30 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.1.t0",
+          "mn10:46.1.t1",
+          "mn10:46.1.t2",
+          "mn10:46.1.t3",
+          "mn10:46.1.t4",
+          "mn10:46.1.t5",
+          "mn10:46.1.t6",
+          "mn10:46.1.t7",
+          "mn10:46.1.t8",
+          "mn10:46.1.t9",
+          "mn10:46.1.t10",
+          "mn10:46.1.t11",
+          "mn10:46.1.t12",
+          "mn10:46.1.t13",
+          "mn10:46.1.t14",
+          "mn10:46.1.t15",
+          "mn10:46.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，無論何人若如此修習這四念住達七年，對他而言，兩種果報之中的一種是可以期待的。"
+      }
     },
     {
       "segment_id": "mn10:46.2",
@@ -89298,7 +92693,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.2.t0",
+          "mn10:46.2.t1",
+          "mn10:46.2.t2",
+          "mn10:46.2.t3",
+          "mn10:46.2.t4",
+          "mn10:46.2.t5",
+          "mn10:46.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "（若有）見解——在具有如此本質的諸法之中，（得到）另一種（果報）；（此情況）存在時，或（若有）執取殘餘，（得到）不還果。"
+      }
     },
     {
       "segment_id": "mn10:46.3",
@@ -89425,7 +92833,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.3.t0",
+          "mn10:46.3.t1",
+          "mn10:46.3.t2",
+          "mn10:46.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，姑且不論七年。"
+      }
     },
     {
       "segment_id": "mn10:46.4",
@@ -89787,7 +93205,25 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.4.t0",
+          "mn10:46.4.t1",
+          "mn10:46.4.t2",
+          "mn10:46.4.t3",
+          "mn10:46.4.t4",
+          "mn10:46.4.t5",
+          "mn10:46.4.t6",
+          "mn10:46.4.t7",
+          "mn10:46.4.t8",
+          "mn10:46.4.t9",
+          "mn10:46.4.t10",
+          "mn10:46.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，無論何人若如此修習這四念住達六年……（以下省略）"
+      }
     },
     {
       "segment_id": "mn10:46.5",
@@ -89850,7 +93286,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.5.t0",
+          "mn10:46.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "五年"
+      }
     },
     {
       "segment_id": "mn10:46.6",
@@ -89913,7 +93357,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.6.t0",
+          "mn10:46.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "四年"
+      }
     },
     {
       "segment_id": "mn10:46.7",
@@ -89976,7 +93428,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.7.t0",
+          "mn10:46.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "三年"
+      }
     },
     {
       "segment_id": "mn10:46.8",
@@ -90039,7 +93499,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.8.t0",
+          "mn10:46.8.t1"
+        ],
+        "review_status": "approved",
+        "content": "二年"
+      }
     },
     {
       "segment_id": "mn10:46.9",
@@ -90183,7 +93651,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.9.t0",
+          "mn10:46.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "一個雨季"
+      }
     },
     {
       "segment_id": "mn10:46.10",
@@ -90355,7 +93831,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.10.t0",
+          "mn10:46.10.t1",
+          "mn10:46.10.t2",
+          "mn10:46.10.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，且置一雨季。"
+      }
     },
     {
       "segment_id": "mn10:46.11",
@@ -90981,7 +94467,30 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.11.t0",
+          "mn10:46.11.t1",
+          "mn10:46.11.t2",
+          "mn10:46.11.t3",
+          "mn10:46.11.t4",
+          "mn10:46.11.t5",
+          "mn10:46.11.t6",
+          "mn10:46.11.t7",
+          "mn10:46.11.t8",
+          "mn10:46.11.t9",
+          "mn10:46.11.t10",
+          "mn10:46.11.t11",
+          "mn10:46.11.t12",
+          "mn10:46.11.t13",
+          "mn10:46.11.t14",
+          "mn10:46.11.t15",
+          "mn10:46.11.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，凡任何人如此修習這四念處，（資料標注為「執著之」）諸月，對彼而言，兩種果中某一果可以期待。"
+      }
     },
     {
       "segment_id": "mn10:46.12",
@@ -91389,7 +94898,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.12.t0",
+          "mn10:46.12.t1",
+          "mn10:46.12.t2",
+          "mn10:46.12.t3",
+          "mn10:46.12.t4",
+          "mn10:46.12.t5",
+          "mn10:46.12.t6"
+        ],
+        "review_status": "approved",
+        "content": "在具此性質的法中持有見解者，若另一種（智）存在，則（得）不還或有餘（執取殘餘）。"
+      }
     },
     {
       "segment_id": "mn10:46.13",
@@ -91516,7 +95038,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.13.t0",
+          "mn10:46.13.t1",
+          "mn10:46.13.t2",
+          "mn10:46.13.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，且置（資料標注為「執著之」）諸月。"
+      }
     },
     {
       "segment_id": "mn10:46.14",
@@ -91878,7 +95410,25 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.14.t0",
+          "mn10:46.14.t1",
+          "mn10:46.14.t2",
+          "mn10:46.14.t3",
+          "mn10:46.14.t4",
+          "mn10:46.14.t5",
+          "mn10:46.14.t6",
+          "mn10:46.14.t7",
+          "mn10:46.14.t8",
+          "mn10:46.14.t9",
+          "mn10:46.14.t10",
+          "mn10:46.14.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，凡任何人如此修習這四念處六個月……（pe 為省略符號，後文省略）"
+      }
     },
     {
       "segment_id": "mn10:46.15",
@@ -91941,7 +95491,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.15.t0",
+          "mn10:46.15.t1"
+        ],
+        "review_status": "approved",
+        "content": "五個月"
+      }
     },
     {
       "segment_id": "mn10:46.16",
@@ -92004,7 +95562,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.16.t0",
+          "mn10:46.16.t1"
+        ],
+        "review_status": "approved",
+        "content": "四個月"
+      }
     },
     {
       "segment_id": "mn10:46.17",
@@ -92067,7 +95633,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.17.t0",
+          "mn10:46.17.t1"
+        ],
+        "review_status": "approved",
+        "content": "三個月"
+      }
     },
     {
       "segment_id": "mn10:46.18",
@@ -92130,7 +95704,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.18.t0",
+          "mn10:46.18.t1"
+        ],
+        "review_status": "approved",
+        "content": "兩個月"
+      }
     },
     {
       "segment_id": "mn10:46.19",
@@ -92247,7 +95829,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.19.t0",
+          "mn10:46.19.t1"
+        ],
+        "review_status": "approved",
+        "content": "一個月"
+      }
     },
     {
       "segment_id": "mn10:46.20",
@@ -92267,7 +95857,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.20.t0"
+        ],
+        "review_status": "approved",
+        "content": "半個māsaka（低值幣）"
+      }
     },
     {
       "segment_id": "mn10:46.21",
@@ -92315,7 +95912,16 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.21.t0",
+          "mn10:46.21.t1",
+          "mn10:46.21.t2"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，讓半個māsaka先擱置一旁，"
+      }
     },
     {
       "segment_id": "mn10:46.22",
@@ -92890,7 +96496,29 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.22.t0",
+          "mn10:46.22.t1",
+          "mn10:46.22.t2",
+          "mn10:46.22.t3",
+          "mn10:46.22.t4",
+          "mn10:46.22.t5",
+          "mn10:46.22.t6",
+          "mn10:46.22.t7",
+          "mn10:46.22.t8",
+          "mn10:46.22.t9",
+          "mn10:46.22.t10",
+          "mn10:46.22.t11",
+          "mn10:46.22.t12",
+          "mn10:46.22.t13",
+          "mn10:46.22.t14",
+          "mn10:46.22.t15"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，任何人若如此修習這四念住七天，對他而言，兩果中某一果可以期待："
+      }
     },
     {
       "segment_id": "mn10:46.23",
@@ -93261,7 +96889,20 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:46.23.t0",
+          "mn10:46.23.t1",
+          "mn10:46.23.t2",
+          "mn10:46.23.t3",
+          "mn10:46.23.t4",
+          "mn10:46.23.t5",
+          "mn10:46.23.t6"
+        ],
+        "review_status": "approved",
+        "content": "就在當下持此見解之法中——或另一種，若有餘依存在，即不還果。"
+      }
     },
     {
       "segment_id": "mn10:47.1",
@@ -93837,7 +97478,31 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.1.t0",
+          "mn10:47.1.t1",
+          "mn10:47.1.t2",
+          "mn10:47.1.t3",
+          "mn10:47.1.t4",
+          "mn10:47.1.t5",
+          "mn10:47.1.t6",
+          "mn10:47.1.t7",
+          "mn10:47.1.t8",
+          "mn10:47.1.t9",
+          "mn10:47.1.t10",
+          "mn10:47.1.t11",
+          "mn10:47.1.t12",
+          "mn10:47.1.t13",
+          "mn10:47.1.t14",
+          "mn10:47.1.t15",
+          "mn10:47.1.t16",
+          "mn10:47.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此乃直接之道，為（眾生）清淨、超越憂與悲、消滅苦與憂惱、獲得正道、親證涅槃——即四念住。"
+      }
     },
     {
       "segment_id": "mn10:47.2",
@@ -94131,7 +97796,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.2.t0",
+          "mn10:47.2.t1",
+          "mn10:47.2.t2",
+          "mn10:47.2.t3",
+          "mn10:47.2.t4",
+          "mn10:47.2.t5",
+          "mn10:47.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "如是，凡那（被播種散布）之事，此乃指彼——（資料不足）——（引句結束）"
+      }
     },
     {
       "segment_id": "mn10:47.3",
@@ -94211,7 +97889,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.3.t0",
+          "mn10:47.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "具吉祥德性者（世尊）如是說了這。"
+      }
     },
     {
       "segment_id": "mn10:47.4",
@@ -94549,7 +98235,19 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.4.t0",
+          "mn10:47.4.t1",
+          "mn10:47.4.t2",
+          "mn10:47.4.t3",
+          "mn10:47.4.t4",
+          "mn10:47.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘們對世尊所說的話滿心歡喜、欣然讚同。"
+      }
     },
     {
       "segment_id": "mn10:47.5",
@@ -94672,7 +98370,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.5.t0",
+          "mn10:47.5.t1",
+          "mn10:47.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "第十《念處經》已圓滿結束。"
+      }
     },
     {
       "segment_id": "mn10:47.6",
@@ -94739,7 +98446,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:47.6.t0",
+          "mn10:47.6.t1",
+          "mn10:47.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "第一《根本法門品》已圓滿結束。"
+      }
     },
     {
       "segment_id": "mn10:48.0",
@@ -94759,7 +98475,14 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:48.0.t0"
+        ],
+        "review_status": "approved",
+        "content": "彼品攝頌（各品末尾列示諸經標題或主題之簡短偈頌）。"
+      }
     },
     {
       "segment_id": "mn10:48.1",
@@ -94925,7 +98648,16 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn10:48.4.t0",
+          "mn10:48.4.t1",
+          "mn10:48.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "殊勝品，阿薩摩（天神），善妙領受之。"
+      }
     }
   ],
   "passages": [
@@ -95173,8 +98905,134 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-4-6",
+    "grounded_on": [
+      "mn10:1.2",
+      "mn10:2.1",
+      "mn10:3.1",
+      "mn10:3.2",
+      "mn10:3.3",
+      "mn10:3.4",
+      "mn10:3.5",
+      "mn10:4.0.2",
+      "mn10:4.3",
+      "mn10:4.4",
+      "mn10:4.5",
+      "mn10:4.6",
+      "mn10:4.7",
+      "mn10:5.1",
+      "mn10:5.2",
+      "mn10:5.3",
+      "mn10:5.5",
+      "mn10:6.0",
+      "mn10:6.1",
+      "mn10:7.5",
+      "mn10:8.1",
+      "mn10:9.3",
+      "mn10:10.0",
+      "mn10:10.1",
+      "mn10:10.2",
+      "mn10:11.3",
+      "mn10:12.0",
+      "mn10:12.2",
+      "mn10:13.3",
+      "mn10:14.0",
+      "mn10:14.1",
+      "mn10:30.1",
+      "mn10:31.5",
+      "mn10:31.6",
+      "mn10:32.0",
+      "mn10:32.2",
+      "mn10:32.3",
+      "mn10:32.4",
+      "mn10:32.5",
+      "mn10:32.6",
+      "mn10:32.7",
+      "mn10:32.8",
+      "mn10:32.9",
+      "mn10:32.10",
+      "mn10:33.5",
+      "mn10:34.0",
+      "mn10:34.2",
+      "mn10:34.3",
+      "mn10:34.4",
+      "mn10:34.5",
+      "mn10:34.6",
+      "mn10:34.7",
+      "mn10:34.8",
+      "mn10:34.9",
+      "mn10:34.14",
+      "mn10:34.16",
+      "mn10:35.5",
+      "mn10:36.0.1",
+      "mn10:36.0.2",
+      "mn10:36.4",
+      "mn10:36.5",
+      "mn10:36.6",
+      "mn10:36.7",
+      "mn10:36.8",
+      "mn10:37.5",
+      "mn10:38.0",
+      "mn10:38.4",
+      "mn10:38.5",
+      "mn10:38.6",
+      "mn10:38.7",
+      "mn10:38.8",
+      "mn10:39.5",
+      "mn10:40.0",
+      "mn10:40.3",
+      "mn10:41.5",
+      "mn10:42.0",
+      "mn10:42.3",
+      "mn10:43.5",
+      "mn10:44.0",
+      "mn10:44.3",
+      "mn10:45.5",
+      "mn10:46.1",
+      "mn10:46.2",
+      "mn10:46.22",
+      "mn10:46.23",
+      "mn10:47.1"
+    ],
+    "review_status": "approved",
+    "content": "本經為《中部》第十經，世尊在拘樓國劍磨瑟曇向比丘眾宣說四念處，開宗即定義此為眾生清淨、超越愁悲、消滅苦憂、親證涅槃的唯一道路。\n\n全經以四大板塊展開。身隨觀含六節：入出息（覺知長短息、令身行平靜）、威儀（了知行住坐臥）、正知（一切動作以正知行事）、不淨作意（觀三十二部位不淨性）、四界作意、九塚間觀（從新屍膨脹至骨粉的九階段）。受隨觀辨別樂、苦、不苦不樂三受，各分世俗與出世間共九類。心隨觀了知十六種心態，含有無貪瞋癡、收縮散亂、入定與否、解脫與否。法隨觀分五節：五蓋（觀其有無及生滅捨斷）、五取蘊（觀色受想行識的集滅）、六內外處（觀根境結縛的生滅）、七覺支（觀其有無與修習圓滿）、四聖諦（如實了知苦集滅道）。\n\n每節以觀內外、觀生滅、不依附、不執取收結。末段宣示：修習四念處七日乃至七年，可期阿羅漢果或不還果。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "詞義「ekāyana」——非「唯一」而是「直接前行」",
+      "sources": [
+        "mn10:2.1",
+        "mn10:47.1"
+      ],
+      "content": "ekāyana 字根義為「一向前進之道」，非排他的「唯一」；與 magga（路）合用，強調此道直通目標，不迂迴。經首與經末對應呼應，構成全經框架。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "句式「內／外／內外 + 生起／滅去／生滅」——各念住收攝公式",
+      "sources": [
+        "mn10:5.1",
+        "mn10:5.2"
+      ],
+      "content": "每個念住節末固定以 ajjhatta／bahiddhā／ubhayaṃ（內／外／內外）三元，再疊加 samudaya／vaya 二元收攝，形成全經一貫的六重觀察公式。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "詞彙「sāmisa／nirāmisa」——受隨觀的世俗／出世間二分",
+      "sources": [
+        "mn10:32.5",
+        "mn10:32.6"
+      ],
+      "content": "sāmisa（有肉／世俗）對 nirāmisa（無肉／出世間）將樂、苦、不苦不樂三受各再一分，合計九受；是受隨觀獨有的細分層次。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",
