@@ -78,15 +78,15 @@ export function listSuttas(): BrowseEntry[] {
     for (const f of fs.readdirSync(dir)) {
       if (!f.endsWith('.json')) continue;
       const base = f.replace(/\.json$/, '');
-      // 排除索引/嵌入/manifest/目錄等非經檔
-      if (/^index-|^embeddings|^manifest|^browse$|^suttas$/.test(base)) continue;
+      // 排除索引/嵌入/manifest/目錄/字典/片段等非經檔
+      if (/^index-|^embeddings|^manifest|^browse$|^suttas$|^lexicon$|^snippets$/.test(base)) continue;
       ids.add(base);
     }
   }
   const entries: BrowseEntry[] = [];
   for (const id of ids) {
     const s = getSutta(id);
-    if (!s || !s.sutta) continue;
+    if (!s || !s.sutta || !Array.isArray(s.segments) || !Array.isArray(s.passages)) continue;
     entries.push({
       id: s.sutta.id,
       title_pali: s.sutta.title_pali,
@@ -135,6 +135,18 @@ export function getSurfaceIndex(): unknown | null {
 }
 export function getManifest(): Record<string, string> | null {
   return readJsonIfExists(path.join(DATA_DIR, 'manifest.json'));
+}
+
+export interface LexiconEntry {
+  lemma: string;
+  root: string | null;
+  gloss: string | null;
+  morph_samples: string[];
+  forms: string[];
+  occurrences: { seg: string; sutta: string }[];
+}
+export function getLexicon(): Record<string, LexiconEntry> {
+  return readJsonIfExists<Record<string, LexiconEntry>>(path.join(DATA_DIR, 'lexicon.json')) ?? {};
 }
 export function getCurated(id: string): unknown | null {
   return readJsonIfExists(path.join(DATA_DIR, 'curated', `${id}.json`));

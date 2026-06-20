@@ -6,7 +6,7 @@ import type { SuttaFixture } from '@tipitaka/contracts';
 import { SUTTAS, DATA_DIR, DPD_DB_PATH, DPD_DOWNLOAD_URL, VENDOR_DIR } from './config.ts';
 import { writeJson, readJson, ensureDir } from './util.ts';
 import { buildSutta } from './pack.ts';
-import { buildIndexes, buildCatalog } from './index.ts';
+import { buildIndexes, buildCatalog, buildSnippets, buildLexicon } from './index.ts';
 import { buildEmbeddings } from './embed.ts';
 import { writeManifest } from './manifest.ts';
 
@@ -81,6 +81,8 @@ async function main() {
   if (runStep('index')) {
     const stats = buildIndexes(built);
     buildCatalog(built);
+    buildSnippets(built);
+    buildLexicon(built);
     console.log(`▶ 索引（P7）：fulltext ${stats.fulltextKeys}、lemma ${stats.lemmaKeys}、surface ${stats.surfaceKeys} 鍵`);
   }
 

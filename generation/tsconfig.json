@@ -1,0 +1,7 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "types": ["node"]
+  },
+  "include": ["src/**/*.ts", "../contracts/study_page_types.ts"]
+}

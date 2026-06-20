@@ -1,18 +1,142 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { t } from '../../i18n/zh-Hant';
+import { getLexicon } from '../../lib/data';
 
-// 詞條頁由管線產出的 lemma/DPPN 索引驅動（Phase E）。
-// 在資料就緒前不預生成任何詞條頁。
 export function getStaticPaths() {
-  return [] as { params: { key: string } }[];
+  const lex = getLexicon();
+  return Object.entries(lex).map(([key, entry]) => ({
+    params: { key },
+    props: { entry },
+  }));
 }
 
 const { key } = Astro.params;
-const crumbs = [{ label: t.nav.lexicon, href: '/lexicon' }, { label: key ?? '' }];
+const { entry } = Astro.props as { entry: import('../../lib/data').LexiconEntry };
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: entry.lemma }];
 ---
 
-<Base title={t.lexicon.title} crumbs={crumbs}>
-  <h1 lang="pi">{key}</h1>
-  <p class="calm-note">{t.lexicon.notFound}。{t.lexicon.notFoundHint}</p>
+<Base title={`${entry.lemma}｜${t.lexicon.title}`} crumbs={crumbs}>
+  <article class="lex">
+    <header class="lex-head">
+      <h1 lang="pi">{entry.lemma}</h1>
+      {entry.root && <span class="lex-root data" lang="pi">{entry.root}</span>}
+    </header>
+
+    {/* DPD 文法（L1，暖墨，無徽章） */}
+    <section class="lex-section">
+      <h2>{t.lexicon.grammar}</h2>
+      <dl class="lex-grid">
+        {entry.gloss && (
+          <>
+            <dt>{t.dpd.gloss}</dt>
+            <dd lang="en">{entry.gloss}</dd>
+          </>
+        )}
+        {entry.root && (
+          <>
+            <dt>{t.dpd.root}</dt>
+            <dd class="data" lang="pi">{entry.root}</dd>
+          </>
+        )}
+        {entry.morph_samples.length > 0 && (
+          <>
+            <dt>{t.dpd.morph}</dt>
+            <dd>{entry.morph_samples.join('、')}</dd>
+          </>
+        )}
+      </dl>
+    </section>
+
+    {/* 變化形 */}
+    {entry.forms.length > 0 && (
+      <section class="lex-section">
+        <h2>{t.lexicon.forms}</h2>
+        <p class="lex-forms" lang="pi">{entry.forms.join('・')}</p>
+      </section>
+    )}
+
+    {/* 用法摘要（L2，T4，僅高頻/要詞；此處暫無） */}
+    <section class="lex-section">
+      <h2>{t.lexicon.usageSummary} <span class="ai-badge">{t.study.aiBadge}</span></h2>
+      <p class="calm-note">{t.lexicon.noUsageSummary}</p>
+    </section>
+
+    {/* 全藏出現（concordance，L1） */}
+    <section class="lex-section">
+      <h2>{t.lexicon.occurrences}　<span class="calm-note">{t.lexicon.occurrenceCount(entry.occurrences.length)}</span></h2>
+      <ul class="lex-occ">
+        {entry.occurrences.slice(0, 200).map((o) => (
+          <li>
+            <a href={url(`/read/${o.sutta}#${o.seg}`)} class="data">{o.seg}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </article>
 </Base>
+
+<style>
+  .lex-head {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: var(--space-2);
+  }
+  .lex-head h1 {
+    font-family: var(--font-pali);
+    margin: 0;
+  }
+  .lex-root {
+    color: var(--ink-soft);
+  }
+  .lex-section {
+    margin: var(--space-5) 0;
+  }
+  .lex-section h2 {
+    font-size: 15px;
+    margin-bottom: var(--space-2);
+  }
+  .lex-grid {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: var(--space-1) var(--space-3);
+    margin: 0;
+  }
+  .lex-grid dt {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .lex-grid dd {
+    margin: 0;
+  }
+  .lex-forms {
+    font-family: var(--font-pali);
+    font-size: 18px;
+    line-height: 1.8;
+  }
+  .lex-occ {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .lex-occ a {
+    text-decoration: none;
+    color: var(--ink-soft);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    padding: 2px 6px;
+    font-size: 12px;
+  }
+  .lex-occ a:hover {
+    border-color: var(--thread);
+    color: var(--ink);
+  }
+</style>

@@ -1,19 +1,12 @@
 ---
 import Base from '../layouts/Base.astro';
+import SearchPage from '../components/search/SearchPage';
 import { t } from '../i18n/zh-Hant';
 const crumbs = [{ label: t.nav.search }];
-// 完整搜尋（四種 L1 + 變音折疊 + 離線語意）於 Phase E 以 island 實作。
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<Base title={t.search.title} crumbs={crumbs}>
+<Base title={t.search.title} crumbs={crumbs} wide={false}>
   <h1>{t.search.title}</h1>
-  <p class="calm-note">{t.search.initialHint}</p>
-  <div class="search-placeholder skeleton" aria-hidden="true"></div>
+  <SearchPage client:load baseUrl={base} />
 </Base>
-
-<style>
-  .search-placeholder {
-    height: 48px;
-    margin-top: var(--space-4);
-  }
-</style>

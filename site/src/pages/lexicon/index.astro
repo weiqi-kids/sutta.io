@@ -1,19 +1,97 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { t } from '../../i18n/zh-Hant';
+import { getLexicon } from '../../lib/data';
+
+const lex = getLexicon();
+const entries = Object.entries(lex)
+  .map(([key, e]) => ({ key, lemma: e.lemma, gloss: e.gloss, n: e.occurrences.length }))
+  .sort((a, b) => a.key.localeCompare(b.key));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
 const crumbs = [{ label: t.nav.lexicon }];
-// 字典詞條頁於 Phase E 由管線索引驅動（DPD 詞條 + concordance + 用法摘要 + DPPN）。
 ---
 
 <Base title={t.lexicon.title} crumbs={crumbs}>
   <h1>{t.lexicon.title}</h1>
-  <p class="calm-note">輸入巴利字典原形（如 sati）查詞條，或從研經頁點字進入。</p>
-  <div class="lex-placeholder skeleton" aria-hidden="true"></div>
+  <p class="calm-note">{entries.length} 個原形。輸入巴利字（變音可省略）即時篩選。</p>
+  <input id="lex-filter" class="lex-filter" placeholder="dhamma / sati …" lang="pi" autocomplete="off" />
+  <ul class="lex-list" id="lex-list">
+    {
+      entries.map((e) => (
+        <li data-key={e.key}>
+          <a href={url(`/lexicon/${e.key}`)}>
+            <span class="ll-lemma" lang="pi">{e.lemma}</span>
+            {e.gloss && <span class="ll-gloss" lang="en">{e.gloss.slice(0, 40)}</span>}
+            <span class="ll-n calm-note">{e.n}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
 </Base>
 
+<script is:inline>
+  const inp = document.getElementById('lex-filter');
+  const list = document.getElementById('lex-list');
+  inp?.addEventListener('input', () => {
+    const q = inp.value.trim().toLowerCase();
+    for (const li of list.children) {
+      const k = li.getAttribute('data-key') || '';
+      li.style.display = !q || k.includes(q) ? '' : 'none';
+    }
+  });
+</script>
+
 <style>
-  .lex-placeholder {
-    height: 48px;
-    margin-top: var(--space-4);
+  .lex-filter {
+    width: 100%;
+    font-size: 16px;
+    padding: var(--space-3);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    background: var(--surface);
+    color: var(--ink);
+    margin: var(--space-3) 0;
+  }
+  .lex-filter:focus-visible {
+    border-color: var(--thread);
+  }
+  .lex-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    columns: 2;
+    column-gap: var(--space-6);
+  }
+  .lex-list li {
+    break-inside: avoid;
+  }
+  .lex-list a {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+    padding: var(--space-1) 0;
+    text-decoration: none;
+  }
+  .ll-lemma {
+    font-family: var(--font-pali);
+    color: var(--ink);
+  }
+  .ll-gloss {
+    font-size: 12px;
+    color: var(--ink-soft);
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .ll-n {
+    font-size: 11px;
+  }
+  @media (max-width: 640px) {
+    .lex-list {
+      columns: 1;
+    }
   }
 </style>

@@ -67,6 +67,43 @@ export function buildIndexes(suttas: SuttaFixture[]) {
   };
 }
 
+/** 字典索引 data/lexicon.json（字典頁：DPD 文法 + 變化形 + concordance）。 */
+export function buildLexicon(suttas: SuttaFixture[]) {
+  const lex: Record<
+    string,
+    { lemma: string; root: string | null; gloss: string | null; morph_samples: string[]; forms: string[]; occurrences: { seg: string; sutta: string }[] }
+  > = {};
+  for (const s of suttas) {
+    for (const seg of s.segments) {
+      for (const tok of seg.pali_tokens) {
+        if (!tok.lemma) continue;
+        const key = foldDiacritics(tok.lemma);
+        const e = (lex[key] ??= { lemma: tok.lemma, root: tok.root, gloss: tok.gloss, morph_samples: [], forms: [], occurrences: [] });
+        if (!e.root && tok.root) e.root = tok.root;
+        if (!e.gloss && tok.gloss) e.gloss = tok.gloss;
+        if (tok.morph_display && !e.morph_samples.includes(tok.morph_display) && e.morph_samples.length < 8) e.morph_samples.push(tok.morph_display);
+        if (!e.forms.includes(tok.surface)) e.forms.push(tok.surface);
+        if (!e.occurrences.some((o) => o.seg === seg.segment_id)) e.occurrences.push({ seg: seg.segment_id, sutta: s.sutta.id });
+      }
+    }
+  }
+  writeJson(path.join(DATA_DIR, 'lexicon.json'), lex);
+}
+
+/** 片段索引 data/snippets.json（搜尋結果顯示命中片段）。 */
+export function buildSnippets(suttas: SuttaFixture[]) {
+  const snip: Record<string, { pi: string; zh?: string }> = {};
+  for (const s of suttas) {
+    for (const seg of s.segments) {
+      const pi = seg.pali_tokens.map((t) => t.surface).join(' ');
+      const entry: { pi: string; zh?: string } = { pi };
+      if (seg.vernacular_gloss?.content) entry.zh = seg.vernacular_gloss.content;
+      snip[seg.segment_id] = entry;
+    }
+  }
+  writeJson(path.join(DATA_DIR, 'snippets.json'), snip);
+}
+
 /** 目錄索引 data/suttas.json（搜尋頁「經文定位」+ 客端瀏覽）。 */
 export function buildCatalog(suttas: SuttaFixture[]) {
   const list = suttas.map((s) => ({

@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "predev": "node ./scripts/copy-data.mjs",
     "dev": "astro dev",
+    "prebuild": "node ./scripts/copy-data.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -16,6 +18,7 @@
     "@fontsource/inter": "^5.1.1",
     "@tipitaka/contracts": "workspace:*",
     "astro": "^5.2.5",
+    "opencc-js": "^1.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

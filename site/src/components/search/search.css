@@ -1,0 +1,99 @@
+/* search.css — 搜尋頁（SEARCH §3 結果呈現 / DESIGN 材質） */
+.search-bar {
+  margin-bottom: var(--space-6);
+}
+.mode-tabs {
+  display: flex;
+  gap: var(--space-1);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-3);
+}
+.mode {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  color: var(--ink-soft);
+  padding: var(--space-1) var(--space-3);
+  cursor: pointer;
+}
+.mode.is-active {
+  border-color: var(--thread);
+  color: var(--ink);
+  background: color-mix(in srgb, var(--thread) 8%, transparent);
+}
+.search-input-row {
+  display: flex;
+  gap: var(--space-2);
+}
+.search-input {
+  flex: 1;
+  font-size: 16px;
+  padding: var(--space-3);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--ink);
+}
+.search-input:focus-visible {
+  border-color: var(--thread);
+}
+.search-go {
+  background: var(--thread);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  padding: 0 var(--space-4);
+  font-family: var(--font-ui);
+  cursor: pointer;
+}
+.sem-hint,
+.initial-hint {
+  margin-top: var(--space-2);
+}
+.result-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.result-item a {
+  display: block;
+  padding: var(--space-3);
+  border-bottom: 1px solid var(--rule);
+  text-decoration: none;
+}
+.result-item a:hover {
+  background: var(--surface);
+}
+.result-title {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  color: var(--ink-soft);
+  margin-inline-end: var(--space-2);
+}
+.result-seg {
+  color: var(--ink-soft);
+  font-size: 12px;
+}
+.result-lemma {
+  font-family: var(--font-pali);
+  color: var(--thread);
+  margin-inline-start: var(--space-2);
+}
+.result-snippet {
+  display: block;
+  margin-top: var(--space-1);
+  color: var(--ink);
+  font-family: var(--font-pali);
+  font-size: 16px;
+}
+.result-snippet.zh {
+  font-family: var(--font-zh);
+}
+.empty {
+  padding: var(--space-6) 0;
+}
+.empty-title {
+  font-size: 16px;
+}

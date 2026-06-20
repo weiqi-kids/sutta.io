@@ -5,6 +5,7 @@ node_modules/
 # build output
 site/dist/
 .astro/
+site/public/data/
 
 # pipeline scratch / heavy source downloads (不入 repo)
 pipeline/.cache/
@@ -14,6 +15,9 @@ pipeline/vendor/
 *.db-wal
 dpd-db*/
 .dpd-db.tag
+
+# L2 草稿（未校稿，內部用；approved 後才併入 data/{sutta}.json）
+data/l2-draft/
 
 # secrets / env（金鑰絕不進 repo，BUILD §4）
 .env
