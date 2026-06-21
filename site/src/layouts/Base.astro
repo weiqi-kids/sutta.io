@@ -18,6 +18,10 @@ const lang = locale;
 const t = getStrings(locale);
 const altHref = altLocaleHref(Astro.url.pathname, locale);
 const altLabel = locale === 'en' ? '中' : 'EN';
+// 分析 / 站長驗證（env 閘控；未設則不載入，預設零追蹤）
+const ga4Id = import.meta.env.PUBLIC_GA4_ID ?? '';
+const gscToken = import.meta.env.PUBLIC_GSC_VERIFICATION ?? '';
+const canonical = new URL(Astro.url.pathname, 'https://sutta.io').href;
 
 export interface Crumb {
   label: string;
@@ -53,6 +57,16 @@ const url = (p: string) => `${base}${lp}${p}` || '/';
     <meta name="description" content={description} />
     <meta name="color-scheme" content="light dark" />
     <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+    <link rel="canonical" href={canonical} />
+    {gscToken && <meta name="google-site-verification" content={gscToken} />}
+    {
+      ga4Id && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`} />
+          <script is:inline set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');`} />
+        </>
+      )
+    }
     <script is:inline>
       // 主題：尊重儲存值，否則跟系統。早載避免閃爍。
       (function () {

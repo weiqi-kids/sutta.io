@@ -44,6 +44,11 @@ jobs:
 
       - name: Build site
         run: pnpm -C site build
+        env:
+          # 於 repo Settings → Secrets and variables → Actions → Variables 設定（皆為公開值，非機密）
+          PUBLIC_GA4_ID: ${{ vars.PUBLIC_GA4_ID }}
+          PUBLIC_GSC_VERIFICATION: ${{ vars.PUBLIC_GSC_VERIFICATION }}
+          PUBLIC_L3_API: ${{ vars.PUBLIC_L3_API }}
 
       - name: Secret scan on artifacts (BUILD §4)
         run: pnpm dlx tsx@4 scripts/scan-secrets.ts
