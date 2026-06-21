@@ -17,7 +17,7 @@ const segText = (sutta: string, seg: string) => {
 };
 ---
 
-<Base title={t.search.title} crumbs={crumbs} wide={false}>
+<Base title={t.search.title} description={t.search.desc} crumbs={crumbs} wide={false}>
   <h1>{t.search.title}</h1>
   <SearchPage client:load baseUrl={base} l3Api={l3Api} lang={Astro.currentLocale} />
 

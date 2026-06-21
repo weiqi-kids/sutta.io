@@ -15,7 +15,7 @@ const url = (p: string) => `${base}${p}` || '/';
 const crumbs = [{ label: t.nav.lexicon }];
 ---
 
-<Base title={t.lexicon.title} crumbs={crumbs}>
+<Base title={t.lexicon.title} description={t.lexicon.desc} crumbs={crumbs}>
   <h1>{t.lexicon.title}</h1>
 
   <section class="glossary">

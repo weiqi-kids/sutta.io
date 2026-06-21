@@ -29,10 +29,19 @@ export const en: Strings = {
     lexiconEntry: 'Dictionary',
     worldEntry: 'The World of Early Buddhist Texts',
     featuredLabel: 'Featured sutta',
+    faqTitle: 'Frequently asked questions',
+    faq: [
+      { q: 'What is the Canonical Text Study System?', a: 'An independent study tool: word-by-word grammatical analysis of the Pāli canon as the backbone, parallel Chinese Āgama, and AI-assisted vernacular, summaries and study aids grounded in real source data, keeping a strict canonical-vs-AI trust boundary.' },
+      { q: 'Where does the data come from? Is it reliable?', a: 'Pāli text and segmentation from SuttaCentral, word-by-word roots and morphology from the Digital Pāḷi Dictionary (DPD), Chinese Āgama from CBETA, and proper names from Malalasekera’s DPPN — all named, traceable and openly licensed.' },
+      { q: 'Can the AI-generated content be trusted?', a: 'AI-assisted content is always generated from the real grammar of the source texts, clearly marked “AI”, and human-reviewed before publication. Facts come from the canon and dictionary (never rewritten by AI); interpretation goes through AI and is always tethered to the facts.' },
+      { q: 'Is it free? Do I need an account?', a: 'Completely free, no login, no ads. Core reading and dictionary lookup work offline.' },
+      { q: 'Which suttas are included?', a: 'Currently the Pāli Majjhima Nikāya, with one new sutta added automatically each day.' },
+    ] as { q: string; a: string }[],
   },
   browse: {
     title: 'Browse',
     collectionMN: 'Majjhima Nikāya',
+    desc: 'Browse the Pāli Majjhima Nikāya: number, Pāli and Chinese title, Āgama parallel and review status, into the word-by-word study page.',
     colNo: 'No.',
     colTitlePali: 'Pāli title',
     colTitleZh: 'Chinese title',
@@ -95,6 +104,7 @@ export const en: Strings = {
   },
   search: {
     title: 'Search',
+    desc: 'Search the Pāli canon: by sutta, word form, headword (lemma), or full text, with diacritic and simplified-Chinese folding, plus offline semantic search and curated study questions.',
     placeholder: 'Sutta number, Pāli word, or any string',
     modeSutta: 'Sutta',
     modeSurface: 'Word form',
@@ -112,6 +122,7 @@ export const en: Strings = {
   },
   lexicon: {
     title: 'Dictionary',
+    desc: 'Pāli dictionary: DPD grammar, roots, inflected forms, occurrences and usage summaries; proper names via DPPN with four-level provenance.',
     grammar: 'Grammar',
     forms: 'Inflected forms',
     occurrences: 'Occurrences',
@@ -126,6 +137,7 @@ export const en: Strings = {
   },
   world: {
     title: 'The World of Early Buddhist Texts',
+    desc: 'The world of early Buddhist texts: political geography, society, intellectual climate and recorded calamities of the Buddha\u2019s era, with named scholarly citations and no fixed dates.',
     intro: 'The world in which these texts arose — era, political geography, society, intellectual climate, and the calamities recorded in the canon. Background is background, not a causal explanation of doctrine.',
     secPolitics: 'Political geography',
     secSociety: 'Society & economy',
@@ -141,6 +153,7 @@ export const en: Strings = {
   },
   about: {
     title: 'About',
+    desc: 'About the Canonical Text Study System: independent study tool, sources and attribution, license, and the canonical-vs-AI trust boundary.',
     unofficialTitle: 'Independence statement',
     sourcesTitle: 'Sources & attribution',
     licenseTitle: 'License',

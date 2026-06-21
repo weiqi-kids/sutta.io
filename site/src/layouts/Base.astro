@@ -34,6 +34,8 @@ interface Props {
   preview?: boolean;
   /** 研經頁等需要滿版互動時，main 不加 measure 限制 */
   wide?: boolean;
+  /** 頁面專屬 JSON-LD（如首頁 FAQPage），附加於站點 schema 之後 */
+  extraSchema?: object | object[];
 }
 const {
   title,
@@ -41,7 +43,9 @@ const {
   crumbs = [],
   preview = false,
   wide = false,
+  extraSchema,
 } = Astro.props;
+const buildDate = new Date().toISOString().slice(0, 10);
 const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
 const ogTitle = title ? `${title}｜${t.site.name}` : t.site.ogTitle;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -50,7 +54,7 @@ const url = (p: string) => `${base}${lp}${p}` || '/';
 // hreflang 互連（同頁的另一語系）
 const zhHref = 'https://sutta.io' + Astro.url.pathname.replace(/^\/en(\/|$)/, '/');
 const enHref = 'https://sutta.io' + (Astro.url.pathname.startsWith('/en') ? Astro.url.pathname : '/en' + (Astro.url.pathname === '/' ? '/' : Astro.url.pathname));
-const ogImage = 'https://sutta.io/og.svg';
+const ogImage = 'https://sutta.io/og.png';
 // Schema.org（GEO：讓 AI 理解這是一個「系統/工具」實體）
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -60,8 +64,22 @@ const jsonLd = {
   url: 'https://sutta.io/',
   inLanguage: ['zh-Hant', 'en', 'pi'],
   applicationCategory: 'EducationalApplication',
+  operatingSystem: 'Web',
   description: t.site.description,
   isAccessibleForFree: true,
+  dateModified: buildDate,
+  creator: {
+    '@type': 'Organization',
+    name: t.site.schemaName,
+    alternateName: '原典研經庫',
+    url: 'https://sutta.io/',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: t.site.schemaName,
+    alternateName: '原典研經庫',
+    url: 'https://sutta.io/',
+  },
   about: [
     { '@type': 'Thing', name: 'Pāli Canon' },
     { '@type': 'Thing', name: '巴利三藏' },
@@ -105,6 +123,7 @@ const jsonLd = {
 
     {/* Schema.org JSON-LD（SEO + GEO：AI 理解為研經系統實體） */}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+    {extraSchema && <script type="application/ld+json" is:inline set:html={JSON.stringify(extraSchema)} />}
 
     {gscToken && <meta name="google-site-verification" content={gscToken} />}
     {

@@ -11,7 +11,7 @@ const anyPreview = suttas.some((s) => s.isPreview);
 const crumbs = [{ label: t.nav.browse }];
 ---
 
-<Base title={t.browse.title} crumbs={crumbs} preview={anyPreview}>
+<Base title={t.browse.title} description={t.browse.desc} crumbs={crumbs} preview={anyPreview}>
   <h1>{t.browse.title}・{t.browse.collectionMN}</h1>
   <table class="browse-table">
     <thead>

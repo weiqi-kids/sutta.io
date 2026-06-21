@@ -9,9 +9,19 @@ const url = (p: string) => `${base}${p}` || '/';
 const suttas = listSuttas();
 // 精選一部代表經作為閱讀入口示範（SITE_IA §4）
 const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
+// FAQPage schema（AEO：利於精選摘要/AI 直接引用）
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: t.home.faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
 ---
 
-<Base title={undefined}>
+<Base title={undefined} extraSchema={faqSchema}>
   <section class="hero">
     <h1 class="hero-title">{t.site.name}</h1>
     <p class="hero-tagline">{t.site.tagline}</p>
@@ -35,6 +45,18 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
       <span class="entry-label">{t.home.worldEntry}</span>
     </a>
   </nav>
+
+  <section class="faq">
+    <h2>{t.home.faqTitle}</h2>
+    {
+      t.home.faq.map((f) => (
+        <details class="faq-item">
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))
+    }
+  </section>
 
   {
     featured && (
@@ -86,6 +108,30 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
     font-family: var(--font-ui);
     color: var(--ink);
     font-size: 15px;
+  }
+  .faq {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+  }
+  .faq h2 {
+    font-size: 18px;
+    margin-bottom: var(--space-3);
+  }
+  .faq-item {
+    border-bottom: 1px solid var(--rule);
+    padding: var(--space-2) 0;
+  }
+  .faq-item summary {
+    cursor: pointer;
+    font-family: var(--font-ui);
+    color: var(--ink);
+    font-size: 15px;
+  }
+  .faq-item p {
+    color: var(--ink-soft);
+    margin: var(--space-2) 0 0;
+    line-height: var(--lh-zh);
   }
   .featured {
     margin-top: var(--space-8);

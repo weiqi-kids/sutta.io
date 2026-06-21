@@ -31,10 +31,19 @@ export const t = {
     lexiconEntry: '查字典',
     worldEntry: '早期佛典的世界',
     featuredLabel: '代表經',
+    faqTitle: '常見問題',
+    faq: [
+      { q: '原典研經庫是什麼？', a: '原典研經庫是一個獨立的研經工具：以巴利原典的逐字語法解析為骨幹，並排漢譯阿含對照，再以 AI 在真實資料依據下生成漢譯白話、章節概要與研經輔助，嚴守「正典／AI」的信任界線。' },
+      { q: '資料從哪裡來？可靠嗎？', a: '巴利原典與分段來自 SuttaCentral，逐字字根詞形來自 Digital Pāḷi Dictionary（DPD），漢譯阿含來自 CBETA，人地事專名來自 Malalasekera 的 DPPN。皆具名、可追溯、開放授權。' },
+      { q: 'AI 生成的內容可信嗎？', a: 'AI 輔助內容一律以原典真實語法資料為依據生成、明確標示「AI」、上線前經人工校稿。事實走原典與字典（永不由 AI 改寫），解釋走 AI 並永遠掛在事實上。' },
+      { q: '免費嗎？需要登入嗎？', a: '完全免費、免登入、無廣告。核心的經文閱讀與字典查詢可離線使用。' },
+      { q: '收錄哪些經？', a: '目前收錄巴利中部（Majjhima Nikāya），每日自動新增一部經，逐步擴充。' },
+    ] as { q: string; a: string }[],
   },
   browse: {
     title: '瀏覽',
     collectionMN: '中部',
+    desc: '瀏覽巴利中部（Majjhima Nikāya）經目：經號、巴利名、中文名、阿含平行與校稿狀態，進入逐字研經頁。',
     colNo: '經號',
     colTitlePali: '巴利名',
     colTitleZh: '中文名',
@@ -97,6 +106,7 @@ export const t = {
   },
   search: {
     title: '搜尋',
+    desc: '搜尋巴利原典：經文定位、字詞（surface）、原形（lemma）、全文四種，支援變音與繁簡折疊，並有離線語意搜尋與策展研經問題。',
     placeholder: '輸入經號、巴利字、或任意字串',
     modeSutta: '經文',
     modeSurface: '字詞',
@@ -114,6 +124,7 @@ export const t = {
   },
   lexicon: {
     title: '字典',
+    desc: '巴利字典：DPD 逐字文法、字根、變化形、全藏出現與用法摘要；專名走 DPPN，四級出處標示。',
     grammar: '文法',
     forms: '變化形',
     occurrences: '全藏出現',
@@ -128,6 +139,7 @@ export const t = {
   },
   world: {
     title: '早期佛典的世界',
+    desc: '早期佛典的世界：佛陀時代的政治地理、社會經濟、思想環境與在典天災人禍，具名學界引用、絕對年代不裁決。',
     intro: '經典發生時的世界背景——時代、政治地理、社會、思想環境，以及在典記載的天災人禍。背景是背景，不是教義的因果解釋。',
     secPolitics: '政治地理',
     secSociety: '社會經濟',
@@ -143,6 +155,7 @@ export const t = {
   },
   about: {
     title: '關於',
+    desc: '關於原典研經庫：獨立研經工具、資料來源與署名、授權、以及 AI 輔助內容的信任界線。',
     unofficialTitle: '獨立工具聲明',
     sourcesTitle: '資料來源與署名',
     licenseTitle: '授權',
