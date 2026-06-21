@@ -24,6 +24,7 @@ export const politics: WorldSection = {
       provenance: 'scholarly',
       content:
         '佛陀時代的恆河平原正經歷「第二次城市化」：城鎮、貿易與國邦政治興起。摩竭陀（都王舍城）與憍薩羅（都舍衛城）為兩大強權，並有跋耆／離車等共和寡頭邦並存。',
+      source_ref: 'Romila Thapar, Early India: From the Origins to AD 1300 (2002)；F. R. Allchin, The Archaeology of Early Historic South Asia (1995)',
       note: '為廣泛接受的史學框架，但絕對年代仍有辯論；年代一律以「約／範圍」表述。',
     },
   ],
@@ -37,6 +38,7 @@ export const society: WorldSection = {
       provenance: 'scholarly',
       content:
         '城鎮與貿易帶動貨幣經濟，居士／商人（gahapati）階層抬頭；婆羅門正統與新興沙門（出家遊行）潮流並存。',
+      source_ref: 'Hermann Kulke & Dietmar Rothermund, A History of India (4th ed., 2004)',
       note: '學界重建，絕對年代寫為「約」。',
     },
   ],
@@ -50,6 +52,7 @@ export const thought: WorldSection = {
       provenance: 'scholarly',
       content:
         '沙門運動興盛，與同代的耆那教（大雄 Mahāvīra）、六師外道等並存，是一個多元的思想市場。',
+      source_ref: 'Johannes Bronkhorst, The Two Sources of Indian Asceticism (1993)；Richard Gombrich, Theravāda Buddhism (2nd ed., 2006)',
       note: '客觀並陳，不以任何一方立場褒貶他派。',
     },
   ],
@@ -74,6 +77,18 @@ export const events: WorldSection = {
 };
 
 export const sections: WorldSection[] = [politics, society, thought, events];
+
+// J-8 參考文獻（學界具名來源；本頁學界陳述之依據）。持續增補。
+export const bibliography: string[] = [
+  'Heinz Bechert (ed.), When Did the Buddha Live? The Controversy on the Dating of the Historical Buddha (1995).',
+  'A. K. Warder, Indian Buddhism (1970).',
+  'Richard Gombrich, Theravāda Buddhism: A Social History from Ancient Benares to Modern Colombo (2nd ed., 2006).',
+  'Romila Thapar, Early India: From the Origins to AD 1300 (2002).',
+  'F. R. Allchin, The Archaeology of Early Historic South Asia: The Emergence of Cities and States (1995).',
+  'Hermann Kulke & Dietmar Rothermund, A History of India (4th ed., 2004).',
+  'Johannes Bronkhorst, The Two Sources of Indian Asceticism (1993).',
+  'G. P. Malalasekera, Dictionary of Pāli Proper Names (1937–38；公共領域).',
+];
 
 // 年代問題（SOURCING §5A：示範「不裁決」，各立場具名並列、全標 scholarly）
 export const chronologyPositions: SourcedFact[] = [

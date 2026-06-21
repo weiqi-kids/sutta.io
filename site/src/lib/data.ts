@@ -80,7 +80,7 @@ export function listSuttas(): BrowseEntry[] {
       if (!f.endsWith('.json')) continue;
       const base = f.replace(/\.json$/, '');
       // 排除索引/嵌入/manifest/目錄/字典/片段等非經檔
-      if (/^index-|^embeddings|^manifest|^browse$|^suttas$|^lexicon$|^snippets$|^surface-lemmas$/.test(base)) continue;
+      if (/^index-|^embeddings|^manifest|^browse$|^suttas$|^lexicon$|^snippets$|^surface-lemmas$|^entities$/.test(base)) continue;
       ids.add(base);
     }
   }
@@ -163,8 +163,8 @@ export function getEntitiesForSutta(id: string): EntityLink[] {
 
 import type { EntityRef } from '@tipitaka/contracts';
 function allEntities(): Record<string, EntityRef> {
-  const e = readJsonIfExists<Record<string, EntityRef>>(path.join(CONTENT_DIR, 'entities', 'entries.json')) ?? {};
-  // 去掉 _note 等非詞條鍵
+  // DPPN 擷取產物（pipeline buildEntities → data/entities.json）
+  const e = readJsonIfExists<Record<string, EntityRef>>(path.join(DATA_DIR, 'entities.json')) ?? {};
   const out: Record<string, EntityRef> = {};
   for (const [k, v] of Object.entries(e)) if (v && (v as EntityRef).entity_id) out[k] = v as EntityRef;
   return out;

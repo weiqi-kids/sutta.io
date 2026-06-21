@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { t } from '../i18n/zh-Hant';
-import { sections, chronologyPositions } from '../content-data/world.zh-Hant';
+import { sections, chronologyPositions, bibliography } from '../content-data/world.zh-Hant';
 import type { Provenance } from '@tipitaka/contracts';
 
 const crumbs = [{ label: t.nav.world }];
@@ -29,6 +29,9 @@ const provLabel: Record<Provenance, string> = {
                 {f.provenance === 'scholarly' && <span class="disputed"> ・{t.world.disputed}</span>}
               </span>
               <span class="fact-content">{f.content}</span>
+              {f.source_ref && f.provenance === 'scholarly' && (
+                <span class="fact-cite calm-note">來源：{f.source_ref}</span>
+              )}
               {f.note && <span class="fact-note calm-note">{f.note}</span>}
             </li>
           ))}
@@ -50,6 +53,14 @@ const provLabel: Record<Provenance, string> = {
           </li>
         ))
       }
+    </ul>
+  </section>
+
+  <section class="world-section bibliography">
+    <h2>參考文獻</h2>
+    <p class="calm-note">本頁學界陳述之具名來源（持續增補）。</p>
+    <ul class="biblio-list">
+      {bibliography.map((b) => <li>{b}</li>)}
     </ul>
   </section>
 </Base>
@@ -100,5 +111,17 @@ const provLabel: Record<Provenance, string> = {
   }
   .fact-note {
     font-size: 0.88em;
+  }
+  .fact-cite {
+    font-size: 0.85em;
+    color: var(--prov-scholarly);
+  }
+  .biblio-list {
+    padding-inline-start: var(--space-6);
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+  .biblio-list li {
+    margin-bottom: var(--space-1);
   }
 </style>

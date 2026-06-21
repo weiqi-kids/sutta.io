@@ -1,7 +1,7 @@
 {
-  "_note": "此經出現的專名連結（研經頁「相關」區）。",
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
   "entities": [
-    { "key": "kuru", "name_pali": "Kuru", "name_zh": "拘樓國" },
-    { "key": "kammasadhamma", "name_pali": "Kammāssadhamma", "name_zh": "劍磨瑟曇" }
+    { "key": "kuru", "name_pali": "Kuru", "name_zh": "拘樓國", "occ_segment": "mn10:1.2" },
+    { "key": "kammasadhamma", "name_pali": "Kammāsadhamma", "name_zh": "劍磨瑟曇", "occ_segment": "mn10:1.2" }
   ]
 }

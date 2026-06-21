@@ -17,26 +17,61 @@ const crumbs = [{ label: t.nav.about }];
 
   <section>
     <h2>{t.about.sourcesTitle}</h2>
-    <ul>
-      <li>
-        巴利經文與分段：<a href="https://suttacentral.net" rel="noopener">SuttaCentral</a>
-        <span class="data">bilara-data</span>
-      </li>
-      <li>
-        巴利逐字語法／字根：<a href="https://www.digitalpalidictionary.github.io" rel="noopener"
-          >Digital Pāḷi Dictionary（DPD）</a
-        >
-      </li>
-      <li>漢譯阿含：<a href="https://www.cbeta.org" rel="noopener">CBETA</a></li>
-      <li>人地事專名：DPPN（Dictionary of Pāli Proper Names，公共領域）</li>
-    </ul>
+    <table class="src-table">
+      <thead>
+        <tr><th>資料</th><th>來源</th><th>授權</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>巴利經文與分段</td>
+          <td><a href="https://suttacentral.net" rel="noopener">SuttaCentral</a> bilara-data（Mahāsaṅgīti 底本）</td>
+          <td class="data">公共領域 / CC0</td>
+        </tr>
+        <tr>
+          <td>巴利逐字語法・字根・釋義</td>
+          <td><a href="https://digitalpalidictionary.github.io" rel="noopener">Digital Pāḷi Dictionary（DPD）</a></td>
+          <td class="data">CC BY-NC-SA 4.0</td>
+        </tr>
+        <tr>
+          <td>漢譯阿含（中阿含）</td>
+          <td><a href="https://www.cbeta.org" rel="noopener">CBETA</a> 電子佛典</td>
+          <td class="data">CC BY-NC-SA 3.0 台灣</td>
+        </tr>
+        <tr>
+          <td>人地事專名</td>
+          <td>
+            <a href="https://github.com/mbingenheimer/buddhist_studies_glossaries" rel="noopener"
+              >G. P. Malalasekera, Dictionary of Pāli Proper Names（DPPN）</a
+            >
+          </td>
+          <td class="data">公共領域</td>
+        </tr>
+        <tr>
+          <td>離線語意搜尋模型</td>
+          <td>
+            <a href="https://huggingface.co/intfloat/multilingual-e5-small" rel="noopener"
+              >intfloat / multilingual-e5-small</a
+            >（build 與瀏覽器端同模型）
+          </td>
+          <td class="data">MIT</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="calm-note">
+      漢譯白話、概要、研經卡、用法摘要、策展重排為本站 AI 輔助生成（依據上述原文資料），<strong
+        >非採用任何第三方人工譯文</strong
+      >，故無第三方譯文授權牽涉。世界總覽頁的學界陳述具名引用見該頁參考文獻。
+    </p>
   </section>
 
   <section>
     <h2>{t.about.licenseTitle}</h2>
     <p>
-      資料來源含 <span class="data">CC BY-NC-SA</span>（DPD、CBETA），故本專案<strong>非商業</strong
-      >，衍生資料同樣以相同方式開放（share-alike）。DPPN 為公共領域。
+      資料來源含 <span class="data">CC BY-NC-SA</span>（DPD、CBETA）——皆要求<strong>署名・非商業・相同方式分享</strong
+      >。其 share-alike 條款傳播至整個衍生資料庫，故本站<strong>非商業</strong>、衍生資料同樣以相同方式開放；DPPN 與巴利底本為公共領域，嵌入模型為 MIT，皆與上述相容。
+    </p>
+    <p class="calm-note">
+      合規勾稽：DPD 署名・NC・SA ✓｜CBETA 署名・NC ✓｜SuttaCentral 底本公共領域 ✓｜DPPN 公共領域（署名 Malalasekera）✓｜e5-small MIT ✓｜全站非商業、衍生 share-alike ✓
     </p>
   </section>
 
@@ -73,6 +108,24 @@ const crumbs = [{ label: t.nav.about }];
   }
   li {
     margin-bottom: var(--space-1);
+  }
+  .src-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    margin-bottom: var(--space-3);
+  }
+  .src-table th,
+  .src-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .src-table th {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--ink-soft);
   }
 
   /* 迴向：安靜冷灰材質，與中立學術內容分開（不喧賓奪主） */

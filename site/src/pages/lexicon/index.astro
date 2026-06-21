@@ -1,9 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { t } from '../../i18n/zh-Hant';
-import { getLexicon } from '../../lib/data';
+import { getLexicon, getAllEntityKeys } from '../../lib/data';
+import { glossary } from '../../content-data/glossary.zh-Hant';
 
 const lex = getLexicon();
+const validKeys = new Set([...Object.keys(lex), ...getAllEntityKeys()]);
 const entries = Object.entries(lex)
   .map(([key, e]) => ({ key, lemma: e.lemma, gloss: e.gloss, n: e.occurrences.length }))
   .sort((a, b) => a.key.localeCompare(b.key));
@@ -14,6 +16,34 @@ const crumbs = [{ label: t.nav.lexicon }];
 
 <Base title={t.lexicon.title} crumbs={crumbs}>
   <h1>{t.lexicon.title}</h1>
+
+  <section class="glossary">
+    <h2>教義要詞對照</h2>
+    <p class="calm-note">核心要詞的本站標準譯法（防生成前後不一）；英文釋義與字根見各詞條（DPD）。</p>
+    <ul class="gloss-list">
+      {
+        glossary.map((g) => (
+          <li>
+            {validKeys.has(g.key) ? (
+              <a href={url(`/lexicon/${g.key}`)} class="gloss-term">
+                <span lang="pi" class="gt-pali">{g.pali}</span>
+                <span class="gt-zh">{g.zh}</span>
+              </a>
+            ) : (
+              <span class="gloss-term">
+                <span lang="pi" class="gt-pali nolink">{g.pali}</span>
+                <span class="gt-zh">{g.zh}</span>
+              </span>
+            )}
+            {g.en && <span class="gt-en calm-note" lang="en">{g.en}</span>}
+            {g.note && <span class="gt-note calm-note">{g.note}</span>}
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <h2 class="all-terms-h">全部原形</h2>
   <p class="calm-note">{entries.length} 個原形。輸入巴利字（變音可省略）即時篩選。</p>
   <input id="lex-filter" class="lex-filter" placeholder="dhamma / sati …" lang="pi" autocomplete="off" />
   <ul class="lex-list" id="lex-list">
@@ -44,6 +74,53 @@ const crumbs = [{ label: t.nav.lexicon }];
 </script>
 
 <style>
+  .glossary {
+    margin: var(--space-4) 0 var(--space-6);
+    padding-bottom: var(--space-4);
+    border-bottom: 1px solid var(--rule);
+  }
+  .glossary h2,
+  .all-terms-h {
+    font-size: 16px;
+    margin-bottom: var(--space-2);
+  }
+  .gloss-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-3) 0 0;
+    display: grid;
+    gap: var(--space-2);
+  }
+  .gloss-list li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-2);
+  }
+  .gloss-term {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: baseline;
+    gap: var(--space-2);
+  }
+  .gt-pali {
+    font-family: var(--font-pali);
+    color: var(--thread);
+  }
+  .gt-pali.nolink {
+    color: var(--ink);
+  }
+  .gt-zh {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .gt-en {
+    font-size: 12px;
+  }
+  .gt-note {
+    font-size: 12px;
+    flex-basis: 100%;
+  }
   .lex-filter {
     width: 100%;
     font-size: 16px;

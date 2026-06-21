@@ -1,0 +1,46 @@
+{
+  "kuru": {
+    "entity_id": "kuru",
+    "kind": "place",
+    "name_pali": "Kuru",
+    "name_zh": "拘樓國",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN10）。",
+        "source_ref": "mn10:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "kuru Kuru A country, one of the sixteen Great Nations. DN.ii.200 AN.i.213 During the Buddha’s time the chieftain of Kuru was called Koravya, and his discussion with the Elder Raṭṭhapāla, who was himself the scion of a noble family of the Kurus, is recounted in the Raṭṭhapāla Sutta. MN.ii.65ff. Koravya had a park called Migacīra. Discourses to the Kurus include the Mahānidāna Sutta, the Mahāsatipaṭṭhāna Sutta, the Māgaṇḍiya Sutta, the Anañjasappāya Sutta, the Sammosa Sutta and the Ariyavasā Sutta. All these were preached at Kammāssadhamma, which is described as a nigama of the Kurūs, where the Buddha resided from time to time. Another town of the Kurūs, which we find mentioned, is Thullakoṭṭh",
+        "note": "DPPN 引用：DN.ii.200、AN.i.213、MN.ii.65ff.、MN.ii.54（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  },
+  "kammasadhamma": {
+    "entity_id": "kammasadhamma",
+    "kind": "place",
+    "name_pali": "Kammāsadhamma",
+    "name_zh": "劍磨瑟曇",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN10）。",
+        "source_ref": "mn10:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "kammāsadhamma Kammāsadhamma Kammāsadamma Kammasadamma Kammasadhamma A township of the Kurūs. The Buddha, during the course of his wanderings, stayed there several times; the exact place of his residence is, however, mentioned only once, namely the fire-hut of a brahmin of the Bhāradvāja-gotta, where a grass mat was spread for him by the brahmin. It was on this occasion, according to the Māgaṇḍiya Sutta, MN.i.501 that, after a long discussion, Māgaṇḍiya was converted. Several important discourses were preached at Kammāsadamma, among them being the Mahānidāna Sutta, DN.ii.55 SN.ii.92 the Mahāsatipaṭṭhāna Sutta, DN.ii.290 MN.i.55 and the Ānañjasappāya Sutta. MN.ii.26 The Saṃyutta Nikāya SN.ii.1",
+        "note": "DPPN 引用：MN.i.501、DN.ii.55、SN.ii.92、DN.ii.290、MN.i.55、MN.ii.26、SN.ii.107f.、AN.v.29f.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn10:1.2"
+    ]
+  }
+}

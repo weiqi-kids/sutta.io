@@ -9,6 +9,7 @@ import { buildSutta } from './pack.ts';
 import { buildIndexes, buildCatalog, buildSnippets, buildLexicon, buildSurfaceLemmas } from './index.ts';
 import { buildEmbeddings } from './embed.ts';
 import { writeManifest } from './manifest.ts';
+import { buildEntities } from './dppn.ts';
 
 const only = process.argv.find((a) => a.startsWith('--only='))?.split('=')[1];
 const runStep = (s: string) => !only || only === s;
@@ -84,6 +85,7 @@ async function main() {
     buildSnippets(built);
     buildLexicon(built);
     buildSurfaceLemmas(built);
+    buildEntities();
     console.log(`▶ 索引（P7）：fulltext ${stats.fulltextKeys}、lemma ${stats.lemmaKeys}、surface ${stats.surfaceKeys} 鍵`);
   }
 
