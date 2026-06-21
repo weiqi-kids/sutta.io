@@ -151,6 +151,20 @@ export const t = {
   footer: {
     dedication: '願以此功德，普及於一切',
   },
+  chat: {
+    open: '對話研經',
+    title: '對話研經',
+    grounding: '僅依據本經段落作答，並附段落引用；不確定會明說，不裁決宗派。',
+    placeholder: '就本經提問，例如：「四念處的修習次第為何？」',
+    inputPlaceholder: '就本經提問…',
+    send: '送出',
+    error: '（連線或服務異常，請稍後再試）',
+    rateLimited: '（查詢過於頻繁，請稍候再試）',
+  },
+  search2: {
+    genRerank: '語意（生成式重排）',
+    genRerankHint: '任意問題 → 本機嵌入檢索候選 → 線上生成式重排（V2，需 L3 服務）。',
+  },
   common: {
     breadcrumbHome: '首頁',
     loading: '載入中',

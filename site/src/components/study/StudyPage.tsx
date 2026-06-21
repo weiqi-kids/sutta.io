@@ -7,6 +7,7 @@ import ChineseColumn from './ChineseColumn';
 import StudyColumn from './StudyColumn';
 import DpdPopover from './DpdPopover';
 import RelatedPanel from './RelatedPanel';
+import ChatSidebar from './ChatSidebar';
 import type { SuttaContextData } from '../../lib/data';
 import './study.css';
 
@@ -22,11 +23,12 @@ interface Props {
   baseUrl: string;
   context?: SuttaContextData | null;
   entities?: EntityLink[];
+  l3Api?: string;
 }
 
 type Tab = 'pali' | 'chinese' | 'study';
 
-export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [] }: Props) {
+export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], l3Api = '' }: Props) {
   const { sutta, segments, passages, summary, study_cards } = fixture;
   const hasAgama = passages.some((p) => p.agama != null);
 
@@ -205,6 +207,7 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
       {selectedToken && anchorRect && (
         <DpdPopover token={selectedToken} anchorRect={anchorRect} onClose={() => setSelectedToken(null)} />
       )}
+      {l3Api && <ChatSidebar fixture={fixture} apiBase={l3Api} />}
     </div>
   );
 }

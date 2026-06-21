@@ -26,6 +26,7 @@ if (!fixture) {
 const preview = isPreviewSutta(fixture);
 const context = getSuttaContext(suttaId!);
 const entities = getEntitiesForSutta(suttaId!);
+const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
   { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse` },
@@ -40,5 +41,5 @@ const crumbs = [
   preview={preview}
   wide={true}
 >
-  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} />
+  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} l3Api={l3Api} />
 </Base>

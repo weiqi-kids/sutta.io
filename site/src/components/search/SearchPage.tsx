@@ -6,8 +6,8 @@ import {
 } from '../../lib/search-client';
 import './search.css';
 
-type Mode = 'sutta' | 'surface' | 'lemma' | 'fulltext' | 'semantic';
-interface Props { baseUrl: string }
+type Mode = 'sutta' | 'surface' | 'lemma' | 'fulltext' | 'semantic' | 'genrerank';
+interface Props { baseUrl: string; l3Api?: string }
 interface Result {
   seg?: string;
   sutta: string;
@@ -19,7 +19,7 @@ interface Result {
   count?: number;
 }
 
-export default function SearchPage({ baseUrl }: Props) {
+export default function SearchPage({ baseUrl, l3Api = '' }: Props) {
   const url = (p: string) => `${baseUrl}${p}` || '/';
   const dataUrl = (f: string) => `${baseUrl}/data/${f}`;
 
@@ -124,7 +124,7 @@ export default function SearchPage({ baseUrl }: Props) {
       return;
     }
 
-    if (mode === 'semantic') {
+    if (mode === 'semantic' || mode === 'genrerank') {
       await ensureSemantic();
       const { meta, mat } = embed.current!;
       const snip = await loadJson(snippets, 'snippets.json');
@@ -138,10 +138,29 @@ export default function SearchPage({ baseUrl }: Props) {
         scores.push({ seg: meta.ids[i], score: dot });
       }
       scores.sort((a, b) => b.score - a.score);
+
+      if (mode === 'genrerank' && l3Api) {
+        // 任意查詢生成式重排（V2）：嵌入檢索候選 → 線上 proxy 重排
+        const candidates = scores.slice(0, 16).map((s) => ({ id: s.seg, pali: snip[s.seg]?.pi, vernacular: snip[s.seg]?.zh }));
+        try {
+          const r = await fetch(`${l3Api}/rerank`, {
+            method: 'POST',
+            headers: { 'content-type': 'application/json' },
+            body: JSON.stringify({ question: q, candidates }),
+          });
+          const j = (await r.json()) as { ranked?: { segment_id: string; reason_zh: string }[] };
+          const ranked = j.ranked ?? [];
+          setResults(ranked.map((x) => ({ seg: x.segment_id, sutta: suttaIdOf(x.segment_id), title: titleOf(suttaIdOf(x.segment_id)), snippet: x.reason_zh, lang: 'zh' as const })));
+        } catch {
+          setResults([]);
+        }
+        return;
+      }
+
       setResults(scores.slice(0, 20).map((s) => ({ seg: s.seg, sutta: suttaIdOf(s.seg), title: titleOf(suttaIdOf(s.seg)), snippet: snip[s.seg]?.zh ?? snip[s.seg]?.pi, lang: snip[s.seg]?.zh ? 'zh' : 'pi', score: s.score })));
       return;
     }
-  }, [query, mode, ensureSemantic]);
+  }, [query, mode, ensureSemantic, l3Api]);
 
   const onSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -154,6 +173,7 @@ export default function SearchPage({ baseUrl }: Props) {
     { k: 'surface', label: t.search.modeSurface },
     { k: 'lemma', label: t.search.modeLemma },
     { k: 'semantic', label: t.search.modeSemantic },
+    ...(l3Api ? [{ k: 'genrerank' as Mode, label: t.search2.genRerank }] : []),
   ];
 
   return (
@@ -180,6 +200,11 @@ export default function SearchPage({ baseUrl }: Props) {
         {mode === 'semantic' && (
           <p className="calm-note sem-hint">
             {semStatus === 'loading' ? t.search.semanticLoading : t.search.semanticHint}
+          </p>
+        )}
+        {mode === 'genrerank' && (
+          <p className="calm-note sem-hint">
+            <span className="ai-badge">{t.study.aiBadge}</span> {t.search2.genRerankHint}
           </p>
         )}
       </form>

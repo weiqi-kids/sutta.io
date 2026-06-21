@@ -1,0 +1,20 @@
+{
+  // L3 對話研經 / 任意查詢生成式重排 的 serverless proxy（G-3）。
+  // 金鑰以 secret 存放（wrangler secret put ANTHROPIC_API_KEY），絕不進前端/repo。
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sutta-l3-proxy",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-06-01",
+  "observability": { "enabled": true },
+  "vars": {
+    // 允許呼叫此 proxy 的來源（前端網域）。部署時改成你的網域。
+    "ALLOWED_ORIGIN": "https://sutta.io",
+    "MODEL": "claude-sonnet-4-6",
+    // 每 IP 每分鐘上限（簡易濫用防護；需綁定 KV）
+    "RATE_LIMIT_PER_MIN": "15"
+  },
+  // 速率限制計數用 KV（部署時建立並填 id）：
+  // wrangler kv namespace create RL
+  "kv_namespaces": [{ "binding": "RL", "id": "REPLACE_WITH_KV_ID" }]
+  // 部署後設密鑰：wrangler secret put ANTHROPIC_API_KEY
+}
