@@ -1,5 +1,5 @@
 import type { Segment, PaliToken } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 
 interface Props {
   segments: Segment[];
@@ -21,6 +21,7 @@ export default function PaliColumn({
   onSegmentActivate,
   onTokenSelect,
 }: Props) {
+  const t = useI18n();
   return (
     <div className="col col-pali" lang="pi">
       <h2 className="col-head" lang="zh-Hant">

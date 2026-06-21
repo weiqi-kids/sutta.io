@@ -1,5 +1,5 @@
 import type { SummaryCard, StudyCardData } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 
 interface Props {
   summary: SummaryCard | null;
@@ -8,6 +8,7 @@ interface Props {
 
 // 欄 C：章節概要 + 研經卡（純 L2）。全部帶 AI 徽章 + L2 材質 + review 狀態。
 export default function StudyColumn({ summary, studyCards }: Props) {
+  const t = useI18n();
   return (
     <div className="col col-study">
       <h2 className="col-head">{t.study.colStudy}</h2>

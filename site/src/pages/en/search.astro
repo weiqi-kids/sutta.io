@@ -1,9 +1,9 @@
 ---
-import Base from '../layouts/Base.astro';
-import SearchPage from '../components/search/SearchPage';
-import { getStrings } from '../i18n';
+import Base from '../../layouts/Base.astro';
+import SearchPage from '../../components/search/SearchPage';
+import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getAllCurated, getSutta } from '../lib/data';
+import { getAllCurated, getSutta } from '../../lib/data';
 const crumbs = [{ label: t.nav.search }];
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');

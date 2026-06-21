@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
 import type { DpdAnalysis, PaliToken } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 
 interface Props {
   token: PaliToken;
@@ -12,6 +12,7 @@ interface Props {
 // DPD 詞條浮層（STUDY_PAGE §4.2，portal）。全部 L1，來自 dpd-db。
 // dpd_id===null → 降級「DPD 尚未收錄此詞」；ambiguous → 標「多解」可展開 candidates。
 export default function DpdPopover({ token, anchorRect, onClose }: Props) {
+  const t = useI18n();
   const ref = useRef<HTMLDivElement>(null);
   const [showCandidates, setShowCandidates] = useState(false);
 

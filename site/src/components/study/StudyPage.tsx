@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import type { PaliToken, SuttaFixture } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { getStrings } from '../../i18n';
+import { I18nProvider } from '../../i18n/react';
 import { useLayoutMode } from './useBreakpoint';
 import PaliColumn from './PaliColumn';
 import ChineseColumn from './ChineseColumn';
@@ -24,11 +25,13 @@ interface Props {
   context?: SuttaContextData | null;
   entities?: EntityLink[];
   l3Api?: string;
+  lang?: string;
 }
 
 type Tab = 'pali' | 'chinese' | 'study';
 
-export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], l3Api = '' }: Props) {
+export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], l3Api = '', lang }: Props) {
+  const t = getStrings(lang);
   const { sutta, segments, passages, summary, study_cards } = fixture;
   const hasAgama = passages.some((p) => p.agama != null);
 
@@ -200,14 +203,16 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
   }
 
   return (
-    <div className="study-page">
-      {header}
-      <RelatedPanel suttaId={sutta.id} context={context} hasAgama={hasAgama} entities={entities} baseUrl={baseUrl} />
-      {columns}
-      {selectedToken && anchorRect && (
-        <DpdPopover token={selectedToken} anchorRect={anchorRect} onClose={() => setSelectedToken(null)} />
-      )}
-      {l3Api && <ChatSidebar fixture={fixture} apiBase={l3Api} />}
-    </div>
+    <I18nProvider lang={lang}>
+      <div className="study-page">
+        {header}
+        <RelatedPanel suttaId={sutta.id} context={context} hasAgama={hasAgama} entities={entities} baseUrl={baseUrl} />
+        {columns}
+        {selectedToken && anchorRect && (
+          <DpdPopover token={selectedToken} anchorRect={anchorRect} onClose={() => setSelectedToken(null)} />
+        )}
+        {l3Api && <ChatSidebar fixture={fixture} apiBase={l3Api} />}
+      </div>
+    </I18nProvider>
   );
 }

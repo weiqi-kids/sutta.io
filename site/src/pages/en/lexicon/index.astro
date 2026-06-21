@@ -1,9 +1,9 @@
 ---
-import Base from '../../layouts/Base.astro';
-import { getStrings } from '../../i18n';
+import Base from '../../../layouts/Base.astro';
+import { getStrings } from '../../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getAllEntityKeys } from '../../lib/data';
-import { glossary } from '../../content-data/glossary.zh-Hant';
+import { getLexicon, getAllEntityKeys } from '../../../lib/data';
+import { glossary } from '../../../content-data/glossary.zh-Hant';
 
 const lex = getLexicon();
 const validKeys = new Set([...Object.keys(lex), ...getAllEntityKeys()]);

@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
-import { t } from '../i18n/zh-Hant';
+import { getStrings } from '../i18n';
+const t = getStrings(Astro.currentLocale);
 const crumbs = [{ label: t.nav.about }];
 ---
 

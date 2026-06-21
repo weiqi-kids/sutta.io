@@ -12,7 +12,12 @@ import '@fontsource/noto-serif-tc/600.css';
 import '@fontsource/noto-sans-tc/400.css';
 import '@fontsource/noto-sans-tc/600.css';
 import '../styles/global.css';
-import { t, lang } from '../i18n/zh-Hant';
+import { getStrings, localeOf, altLocaleHref } from '../i18n';
+const locale = localeOf(Astro.currentLocale);
+const lang = locale;
+const t = getStrings(locale);
+const altHref = altLocaleHref(Astro.url.pathname, locale);
+const altLabel = locale === 'en' ? '中' : 'EN';
 
 export interface Crumb {
   label: string;
@@ -35,7 +40,8 @@ const {
 } = Astro.props;
 const fullTitle = title ? `${title}｜${t.site.name}` : t.site.name;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const lp = locale === 'en' ? '/en' : '';
+const url = (p: string) => `${base}${lp}${p}` || '/';
 ---
 
 <!doctype html>
@@ -75,6 +81,7 @@ const url = (p: string) => `${base}${p}` || '/';
           <a href={url('/lexicon')}>{t.nav.lexicon}</a>
           <a href={url('/world')}>{t.nav.world}</a>
           <a href={url('/about')}>{t.nav.about}</a>
+          <a class="lang-switch" href={altHref} hreflang={locale === 'en' ? 'zh-Hant' : 'en'}>{altLabel}</a>
           <button id="theme-toggle" type="button" title={t.nav.theme} aria-label={t.nav.theme}>
             ◑
           </button>
@@ -186,6 +193,16 @@ const url = (p: string) => `${base}${p}` || '/';
         width: 32px;
         height: 32px;
         line-height: 1;
+      }
+      .lang-switch {
+        border: 1px solid var(--rule);
+        border-radius: var(--radius);
+        padding: 4px 8px;
+        font-size: 12px !important;
+        color: var(--ink-soft) !important;
+      }
+      .lang-switch:hover {
+        border-color: var(--thread);
       }
       .nav-toggle {
         display: none;

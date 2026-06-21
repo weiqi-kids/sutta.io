@@ -1,8 +1,8 @@
 ---
-import Base from '../layouts/Base.astro';
-import { getStrings } from '../i18n';
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { sections, chronologyPositions, bibliography } from '../content-data/world.zh-Hant';
+import { sections, chronologyPositions, bibliography } from '../../content-data/world.zh-Hant';
 import type { Provenance } from '@tipitaka/contracts';
 
 const crumbs = [{ label: t.nav.world }];

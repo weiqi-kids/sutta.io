@@ -1,0 +1,109 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+const crumbs = [{ label: t.nav.about }];
+---
+
+<Base title={t.about.title} crumbs={crumbs}>
+  <h1>{t.about.title}</h1>
+
+  <section>
+    <h2>{t.about.unofficialTitle}</h2>
+    <p>
+      This is an independent study aid, <strong>not affiliated with any official institution, monastic order, or
+      sect</strong>. Content rests on authoritative sources; AI-assisted material is clearly marked.
+    </p>
+  </section>
+
+  <section>
+    <h2>{t.about.sourcesTitle}</h2>
+    <table class="src-table">
+      <thead>
+        <tr><th>Data</th><th>Source</th><th>License</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Pāli text & segmentation</td>
+          <td><a href="https://suttacentral.net" rel="noopener">SuttaCentral</a> bilara-data (Mahāsaṅgīti edition)</td>
+          <td class="data">Public domain / CC0</td>
+        </tr>
+        <tr>
+          <td>Pāli grammar · roots · glosses</td>
+          <td><a href="https://digitalpalidictionary.github.io" rel="noopener">Digital Pāḷi Dictionary (DPD)</a></td>
+          <td class="data">CC BY-NC-SA 4.0</td>
+        </tr>
+        <tr>
+          <td>Chinese Āgama (Madhyama)</td>
+          <td><a href="https://www.cbeta.org" rel="noopener">CBETA</a></td>
+          <td class="data">CC BY-NC-SA 3.0 TW</td>
+        </tr>
+        <tr>
+          <td>Proper names</td>
+          <td>
+            <a href="https://github.com/mbingenheimer/buddhist_studies_glossaries" rel="noopener"
+              >G. P. Malalasekera, Dictionary of Pāli Proper Names (DPPN)</a
+            >
+          </td>
+          <td class="data">Public domain</td>
+        </tr>
+        <tr>
+          <td>Offline semantic model</td>
+          <td>
+            <a href="https://huggingface.co/intfloat/multilingual-e5-small" rel="noopener"
+              >intfloat / multilingual-e5-small</a
+            > (same model at build and in-browser)
+          </td>
+          <td class="data">MIT</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="calm-note">
+      The Chinese gloss, summaries, study cards, usage notes, and curated reranking are AI-assisted, generated from the
+      source texts above; <strong>no third-party human translation is used</strong>, so no third-party translation
+      licenses are involved. Named scholarly citations appear in the references on the World page.
+    </p>
+  </section>
+
+  <section>
+    <h2>{t.about.licenseTitle}</h2>
+    <p>
+      Sources include <span class="data">CC BY-NC-SA</span> material (DPD, CBETA), which require
+      <strong>attribution · non-commercial · share-alike</strong>. Share-alike propagates to the whole derived database,
+      so this site is <strong>non-commercial</strong> and its derived data is released under the same terms; DPPN and the
+      Pāli edition are public domain, and the embedding model is MIT — all compatible.
+    </p>
+  </section>
+
+  <section>
+    <h2>{t.about.aiTitle}</h2>
+    <p class="calm-note">{t.common.aiContentNote}</p>
+    <p>
+      The line: <strong>facts come from the source texts and dictionary (the authoritative layer, never rewritten by
+      AI)</strong>; <strong>interpretation goes through the AI-assisted layer (gloss / summary / study cards), each time
+      grounded in the real grammar of the source and reviewed before publication</strong>. Background and history are
+      cited by name, with points of no consensus marked as such.
+    </p>
+  </section>
+
+  <section class="dedication" aria-label="dedication of merit">
+    <h2>{t.about.dedicationTitle}</h2>
+    <p class="calm-note dedication-note">{t.about.dedicationNote}</p>
+    <blockquote class="dedication-verse">
+      {t.about.dedicationVerse.map((line) => <span>{line}</span>)}
+    </blockquote>
+    <p class="dedication-source calm-note">{t.about.dedicationSource}</p>
+  </section>
+</Base>
+
+<style>
+  section { margin-bottom: var(--space-6); }
+  h2 { font-size: 18px; margin-bottom: var(--space-2); }
+  .src-table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: var(--space-3); }
+  .src-table th, .src-table td { text-align: start; padding: var(--space-2) var(--space-3); border-bottom: 1px solid var(--rule); vertical-align: top; }
+  .src-table th { font-family: var(--font-ui); font-size: 13px; color: var(--ink-soft); }
+  .dedication { margin-top: var(--space-8); padding-top: var(--space-6); border-top: 1px solid var(--rule); }
+  .dedication-note { margin-bottom: var(--space-4); }
+  .dedication-verse { margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--space-1); font-family: var(--font-zh); font-size: 19px; line-height: 1.9; color: var(--ink-soft); text-align: center; letter-spacing: 0.04em; }
+  .dedication-source { text-align: center; margin-top: var(--space-3); }
+</style>

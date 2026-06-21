@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { t } from '../../i18n/zh-Hant';
+import { getStrings } from '../../i18n';
 import {
   normalizePaliQuery, toTraditional, chineseBigrams, suttaIdOf,
   type FulltextIndex, type LemmaIndex, type SurfaceIndex, type SuttaCatalog, type EmbedMeta,
@@ -7,7 +7,7 @@ import {
 import './search.css';
 
 type Mode = 'sutta' | 'surface' | 'lemma' | 'fulltext' | 'semantic' | 'genrerank';
-interface Props { baseUrl: string; l3Api?: string }
+interface Props { baseUrl: string; l3Api?: string; lang?: string }
 interface Result {
   seg?: string;
   sutta: string;
@@ -19,7 +19,8 @@ interface Result {
   count?: number;
 }
 
-export default function SearchPage({ baseUrl, l3Api = '' }: Props) {
+export default function SearchPage({ baseUrl, l3Api = '', lang }: Props) {
+  const t = getStrings(lang);
   const url = (p: string) => `${baseUrl}${p}` || '/';
   const dataUrl = (f: string) => `${baseUrl}/data/${f}`;
 

@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import type { SuttaFixture } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 
 interface Props {
   fixture: SuttaFixture;
@@ -14,6 +14,7 @@ interface Msg {
 // L3 對話研經側欄（V2；僅在設定 PUBLIC_L3_API 時掛載）。
 // grounded on 當前經 context；回應由 serverless proxy 串流，標 AI 徽章。
 export default function ChatSidebar({ fixture, apiBase }: Props) {
+  const t = useI18n();
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState<Msg[]>([]);
   const [input, setInput] = useState('');

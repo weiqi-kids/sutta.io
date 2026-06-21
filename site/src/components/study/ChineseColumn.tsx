@@ -1,5 +1,5 @@
 import type { Segment, Passage } from '@tipitaka/contracts';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 
 interface Props {
   segments: Segment[];
@@ -25,6 +25,7 @@ export default function ChineseColumn({
   onSegmentActivate,
   onGlossHover,
 }: Props) {
+  const t = useI18n();
   return (
     <div className="col col-chinese">
       <h2 className="col-head">{t.study.colChinese}</h2>

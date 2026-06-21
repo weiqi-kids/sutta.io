@@ -9,6 +9,12 @@ export default defineConfig({
   base: '/',
   trailingSlash: 'ignore',
   output: 'static',
+  // D-9：繁中為預設（根路徑），英文 UI 於 /en/。內容維持多語。
+  i18n: {
+    defaultLocale: 'zh-Hant',
+    locales: ['zh-Hant', 'en'],
+    routing: { prefixDefaultLocale: false },
+  },
   integrations: [react()],
   build: {
     // 深連結用 fragment（/read/mn10#mn10:1.1），靜態友善（SITE_IA §2）

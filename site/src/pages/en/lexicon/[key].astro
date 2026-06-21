@@ -1,8 +1,8 @@
 ---
-import Base from '../../layouts/Base.astro';
-import { getStrings } from '../../i18n';
+import Base from '../../../layouts/Base.astro';
+import { getStrings } from '../../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getUsage, getEntity, getAllEntityKeys } from '../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys } from '../../../lib/data';
 import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
@@ -16,8 +16,8 @@ export function getStaticPaths() {
 
 const { key } = Astro.params;
 const { entry, usage, entity } = Astro.props as {
-  entry: import('../../lib/data').LexiconEntry | null;
-  usage: import('../../lib/data').UsageData | null;
+  entry: import('../../../lib/data').LexiconEntry | null;
+  usage: import('../../../lib/data').UsageData | null;
   entity: import('@tipitaka/contracts').EntityRef | null;
 };
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');

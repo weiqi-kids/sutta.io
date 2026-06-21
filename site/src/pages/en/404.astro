@@ -1,6 +1,6 @@
 ---
-import Base from '../layouts/Base.astro';
-import { getStrings } from '../i18n';
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { t } from '../../i18n/zh-Hant';
+import { useI18n } from '../../i18n/react';
 import type { SuttaContextData } from '../../lib/data';
 
 interface EntityLink {
@@ -17,6 +17,7 @@ interface Props {
 
 // SITE_IA §6 研經頁「相關」交叉引用區（可摺疊）：此經背景(L1) + 阿含對照註 + 其他語言平行 + 人地事連結。
 export default function RelatedPanel({ suttaId, context, hasAgama, entities, baseUrl }: Props) {
+  const t = useI18n();
   const [open, setOpen] = useState(false);
   const url = (p: string) => `${baseUrl}${p}` || '/';
   const hasAnything = context || hasAgama || entities.length > 0;
