@@ -191,14 +191,27 @@ const jsonLd = {
     </main>
 
     <footer class="site-footer chrome">
-      <div class="container">
-        <p>
-          {t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a>・<a
+      <div class="container footer-inner">
+        <div class="footer-brand">
+          <span class="footer-name">{t.site.name}</span>
+          <span class="footer-tagline">{t.site.tagline}</span>
+        </div>
+        <nav class="footer-links" aria-label="頁尾導覽">
+          <a href={url('/browse')}>{t.nav.browse}</a>
+          <a href={url('/search')}>{t.nav.search}</a>
+          <a href={url('/lexicon')}>{t.nav.lexicon}</a>
+          <a href={url('/world')}>{t.nav.world}</a>
+          <a href={url('/about')}>{t.nav.about}</a>
+          <a
             href="https://github.com/weiqi-kids/sutta.io/issues/new?labels=%E5%8B%98%E8%AA%A4&title=%5B%E5%8B%98%E8%AA%A4%5D%20"
             target="_blank"
             rel="noopener">{t.nav.errata}</a
           >
-        </p>
+        </nav>
+      </div>
+      <div class="container footer-meta-row">
+        <p class="footer-meta">{t.site.unofficial}・{t.footer.rights}</p>
+        <p class="footer-meta footer-sources">{t.footer.sources}</p>
         <p class="footer-dedication">{t.footer.dedication}</p>
       </div>
     </footer>
@@ -358,18 +371,63 @@ const jsonLd = {
         background: var(--surface);
         color: var(--ink-soft);
         font-size: var(--text-xs);
-        padding: var(--space-6) 0;
+        padding: var(--space-8) 0 var(--space-6);
         margin-top: var(--space-8);
       }
-      .site-footer a {
+      .footer-inner {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: var(--space-6);
+        flex-wrap: wrap;
+        padding-bottom: var(--space-4);
+        border-bottom: 1px solid var(--rule);
+      }
+      .footer-brand {
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-1);
+      }
+      .footer-name {
+        font-family: var(--font-zh);
+        font-size: var(--text-base);
+        color: var(--ink);
+        font-weight: 600;
+      }
+      .footer-tagline {
         color: var(--ink-soft);
       }
+      .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-4);
+      }
+      .footer-links a,
+      .site-footer a {
+        color: var(--ink-soft);
+        text-decoration: none;
+      }
+      .footer-links a:hover,
+      .site-footer a:hover {
+        color: var(--thread);
+      }
+      .footer-meta-row {
+        padding-top: var(--space-4);
+      }
+      .footer-meta {
+        margin: 0 0 var(--space-1);
+        color: var(--ink-soft);
+      }
+      .footer-sources {
+        color: var(--ink-soft);
+        opacity: 0.85;
+      }
       .footer-dedication {
-        margin-top: var(--space-1);
+        margin: var(--space-3) 0 0;
         color: var(--margin);
         font-family: var(--font-zh);
         letter-spacing: 0.08em;
-        opacity: 0.85;
+        opacity: 0.8;
       }
       @media (max-width: 640px) {
         .site-nav {

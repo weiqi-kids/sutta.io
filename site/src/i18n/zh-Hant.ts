@@ -167,6 +167,8 @@ export const t = {
   },
   footer: {
     dedication: '願以此功德，普及於一切',
+    sources: '資料來源：SuttaCentral・DPD・CBETA・DPPN（皆具名、開放授權）',
+    rights: '內容依各來源 CC BY-NC-SA／公共領域授權・非商業',
   },
   chat: {
     open: '對話研經',

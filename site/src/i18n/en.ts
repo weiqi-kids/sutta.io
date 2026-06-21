@@ -165,6 +165,8 @@ export const en: Strings = {
   },
   footer: {
     dedication: 'May the merit of this work reach all beings',
+    sources: 'Sources: SuttaCentral · DPD · CBETA · DPPN (all named, openly licensed)',
+    rights: 'Content under each source’s CC BY-NC-SA / public domain · non-commercial',
   },
   chat: {
     open: 'Discuss this sutta',
