@@ -16,7 +16,9 @@
     "generate": "pnpm -C generation run all",
     "review": "pnpm -C generation run review",
     "test:contract": "tsx scripts/validate-contract.ts",
-    "test:keyscan": "tsx scripts/scan-secrets.ts"
+    "test:keyscan": "tsx scripts/scan-secrets.ts",
+    "test:golden": "tsx scripts/validate-golden.ts",
+    "build:golden": "tsx scripts/build-golden.ts"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",

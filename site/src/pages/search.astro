@@ -2,11 +2,100 @@
 import Base from '../layouts/Base.astro';
 import SearchPage from '../components/search/SearchPage';
 import { t } from '../i18n/zh-Hant';
+import { getAllCurated, getSutta } from '../lib/data';
 const crumbs = [{ label: t.nav.search }];
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const curated = getAllCurated();
+// 段落片段（顯示策展結果用）
+const segText = (sutta: string, seg: string) => {
+  const s = getSutta(sutta);
+  const g = s?.segments.find((x) => x.segment_id === seg)?.vernacular_gloss?.content;
+  return g ?? seg;
+};
 ---
 
 <Base title={t.search.title} crumbs={crumbs} wide={false}>
   <h1>{t.search.title}</h1>
   <SearchPage client:load baseUrl={base} />
+
+  {
+    curated.length > 0 && (
+      <section class="curated">
+        <h2>
+          {t.search.curatedTitle} <span class="ai-badge">{t.study.aiBadge}</span>
+        </h2>
+        {curated.map((c) =>
+          c.data.questions.map((q) => (
+            <details class="curated-q l2">
+              <summary>{q.q}</summary>
+              <ul class="curated-results">
+                {q.ranked.map((r) => (
+                  <li>
+                    <a href={url(`/read/${c.sutta}#${r.segment_id}`)}>
+                      <span class="cr-seg data">{r.segment_id}</span>
+                      <span class="cr-reason">{r.reason_zh}</span>
+                      <span class="cr-text calm-note">{segText(c.sutta, r.segment_id).slice(0, 50)}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          ))
+        )}
+        <p class="calm-note curated-note">{t.common.aiContentNote}</p>
+      </section>
+    )
+  }
 </Base>
+
+<style>
+  .curated {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+  }
+  .curated h2 {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+  .curated-q {
+    border-radius: var(--radius);
+    padding: var(--space-2) var(--space-3);
+    margin-bottom: var(--space-2);
+  }
+  .curated-q summary {
+    cursor: pointer;
+    font-family: var(--font-ui);
+    color: var(--ink);
+  }
+  .curated-results {
+    list-style: none;
+    padding: var(--space-2) 0 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .curated-results a {
+    text-decoration: none;
+    display: block;
+  }
+  .cr-seg {
+    color: var(--ink-soft);
+    font-size: 12px;
+    margin-inline-end: var(--space-2);
+  }
+  .cr-reason {
+    color: var(--ink);
+  }
+  .cr-text {
+    display: block;
+    margin-top: 2px;
+  }
+  .curated-note {
+    margin-top: var(--space-3);
+  }
+</style>

@@ -8,6 +8,7 @@
     "review": "tsx src/review.ts"
   },
   "dependencies": {
+    "@huggingface/transformers": "^3.3.3",
     "@tipitaka/contracts": "workspace:*"
   },
   "devDependencies": {

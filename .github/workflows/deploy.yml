@@ -39,6 +39,9 @@ jobs:
       - name: Contract validation
         run: pnpm dlx tsx@4 scripts/validate-contract.ts
 
+      - name: Golden regression (TEST_SPEC §2)
+        run: pnpm dlx tsx@4 scripts/validate-golden.ts
+
       - name: Build site
         run: pnpm -C site build
 

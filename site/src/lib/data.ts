@@ -161,6 +161,21 @@ export function getEntitiesForSutta(id: string): EntityLink[] {
   return e?.entities ?? [];
 }
 
+import type { EntityRef } from '@tipitaka/contracts';
+function allEntities(): Record<string, EntityRef> {
+  const e = readJsonIfExists<Record<string, EntityRef>>(path.join(CONTENT_DIR, 'entities', 'entries.json')) ?? {};
+  // 去掉 _note 等非詞條鍵
+  const out: Record<string, EntityRef> = {};
+  for (const [k, v] of Object.entries(e)) if (v && (v as EntityRef).entity_id) out[k] = v as EntityRef;
+  return out;
+}
+export function getEntity(key: string): EntityRef | null {
+  return allEntities()[key] ?? null;
+}
+export function getAllEntityKeys(): string[] {
+  return Object.keys(allEntities());
+}
+
 export interface LexiconEntry {
   lemma: string;
   root: string | null;
@@ -172,6 +187,37 @@ export interface LexiconEntry {
 export function getLexicon(): Record<string, LexiconEntry> {
   return readJsonIfExists<Record<string, LexiconEntry>>(path.join(DATA_DIR, 'lexicon.json')) ?? {};
 }
-export function getCurated(id: string): unknown | null {
-  return readJsonIfExists(path.join(DATA_DIR, 'curated', `${id}.json`));
+
+export interface UsageData {
+  generated_by: string;
+  review_status: string;
+  summary: string;
+  senses: { gloss: string; segment_ids: string[] }[];
+  grounded_on: string[];
+}
+/** T4 用法摘要（L2）。僅高頻/要詞有；其餘 null。 */
+export function getUsage(key: string): UsageData | null {
+  const all = readJsonIfExists<Record<string, UsageData>>(path.join(DATA_DIR, 'usage.json'));
+  const u = all?.[key];
+  return u && u.review_status === 'approved' ? u : null;
+}
+export interface CuratedData {
+  questions: {
+    q: string;
+    ranked: { segment_id: string; reason_zh: string }[];
+    review_status: string;
+    generated_by: string;
+  }[];
+}
+export function getCurated(id: string): CuratedData | null {
+  return readJsonIfExists<CuratedData>(path.join(DATA_DIR, 'curated', `${id}.json`));
+}
+/** 所有經的策展問題（搜尋頁顯示）。 */
+export function getAllCurated(): { sutta: string; data: CuratedData }[] {
+  const out: { sutta: string; data: CuratedData }[] = [];
+  for (const s of listSuttas()) {
+    const c = getCurated(s.id);
+    if (c && c.questions.length) out.push({ sutta: s.id, data: c });
+  }
+  return out;
 }

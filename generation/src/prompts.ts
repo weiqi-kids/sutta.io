@@ -86,6 +86,35 @@ export const T3_SCHEMA = {
   required: ['cards'],
 };
 
+// T4 用法摘要（字典頁，僅高頻/要詞）
+export const T4_SYSTEM = `依據下方某字在經中「實際出現的句子」與其 DPD 詞條，寫此字跨語境的用法差異摘要（繁體中文）。
+規則：
+- 只據提供的出現句與 DPD；不得引入未提供的例證。
+- 描述「在哪些語境作何義/何用」，附代表性出現處 segment_id（須為提供清單中的確切 id，不自創）。
+- 不裁決教義詮釋；該字若涉宗派理解差異，陳述「傳統上有不同理解」並止。`;
+
+export const T4_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  properties: {
+    summary_zh: { type: 'string' },
+    senses: {
+      type: 'array',
+      items: {
+        type: 'object',
+        additionalProperties: false,
+        properties: {
+          gloss: { type: 'string' },
+          segment_ids: { type: 'array', items: { type: 'string' } },
+        },
+        required: ['gloss', 'segment_ids'],
+      },
+    },
+    grounded_on: { type: 'array', items: { type: 'string' } },
+  },
+  required: ['summary_zh', 'senses', 'grounded_on'],
+};
+
 // T5 策展重排（固定研經問題）
 export const T5_SYSTEM = `你在重排一個「固定研經問題」的候選段落。只依據提供的候選 segment 內容判斷相關度。
 規則：

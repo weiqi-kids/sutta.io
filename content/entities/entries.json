@@ -1,0 +1,55 @@
+{
+  "_note": "DPPN 專名詞條（CONTEXT B / LEXICON §6）。每條 SourcedFact 標四級出處；canonical 連經段、scholarly 標來源與爭議、不寫死絕對年代。DPPN 為公共領域，仍須署名。",
+  "kuru": {
+    "entity_id": "kuru",
+    "kind": "place",
+    "name_pali": "Kuru",
+    "name_zh": "拘樓國",
+    "dppn_ref": "DPPN: Kuru",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "佛陀說《念處經》《大念處經》時所在的國土；經文載世尊遊化於拘樓國，住其市鎮劍磨瑟曇。",
+        "source_ref": "mn10:1.2"
+      },
+      {
+        "provenance": "canonical",
+        "content": "增支部所列「十六大國（Mahājanapadas）」之一。",
+        "note": "經內名單可定位經段。"
+      },
+      {
+        "provenance": "scholarly",
+        "content": "學界一般將拘樓國定位於今印度德里—哈里亞納一帶的恆河上游平原。",
+        "note": "屬學界重建，細節有不同說法；絕對範圍非定論。"
+      }
+    ],
+    "occurrences": ["mn10:1.2"],
+    "context_notes": [
+      {
+        "provenance": "commentarial",
+        "content": "註釋傳統稱拘樓人以智慧與正念著稱，故佛於此處宣說深細的念處法門。",
+        "note": "出自註釋書傳述，非正典史實。"
+      }
+    ]
+  },
+  "kammasadhamma": {
+    "entity_id": "kammasadhamma",
+    "kind": "place",
+    "name_pali": "Kammāssadhamma",
+    "name_zh": "劍磨瑟曇",
+    "dppn_ref": "DPPN: Kammāsadhamma",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "拘樓國的一處市鎮（nigama）；《念處經》與《大般涅槃經》等多部經以此為說法地。",
+        "source_ref": "mn10:1.2"
+      },
+      {
+        "provenance": "scholarly",
+        "content": "確切今址無定論；學界依經文線索推測在拘樓國境內，未有共識定點。",
+        "note": "年代與地望皆標為未定。"
+      }
+    ],
+    "occurrences": ["mn10:1.2"]
+  }
+}

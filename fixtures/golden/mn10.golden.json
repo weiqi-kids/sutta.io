@@ -1,0 +1,1938 @@
+{
+  "_note": "回歸基準（管線輸出快照，作回歸哨兵；正式 golden 須人工逐欄核過，H-1）。",
+  "sutta": "mn10",
+  "segments": [
+    {
+      "segment_id": "mn10:4.0.1",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "1",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "Kāyānupassanā",
+          "lemma": "kāyānupassanā",
+          "dpd_id": 21261,
+          "root": null,
+          "morph": "noun fem nom sg",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.0.2",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "1.1",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "Kāyānupassanāānāpānapabba",
+          "lemma": "kāyānupassanāānāpānapabba",
+          "dpd_id": 82947,
+          "root": null,
+          "morph": "noun nt voc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.4",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasanto",
+          "lemma": "assasanta",
+          "dpd_id": 10011,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasanto",
+          "lemma": "passasanta",
+          "dpd_id": 44771,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.5",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasanto",
+          "lemma": "assasanta",
+          "dpd_id": 10011,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasanto",
+          "lemma": "passasanta",
+          "dpd_id": 44771,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.6",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Sabbakāyapaṭisaṁvedī",
+          "lemma": "sabbakāyapaṭisaṃvedī",
+          "dpd_id": 58792,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasissāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sikkhati",
+          "lemma": "sikkhati",
+          "dpd_id": 62711,
+          "root": "√sikkh",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "sabbakāyapaṭisaṁvedī",
+          "lemma": "sabbakāyapaṭisaṃvedī",
+          "dpd_id": 58792,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasissāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sikkhati",
+          "lemma": "sikkhati",
+          "dpd_id": 62711,
+          "root": "√sikkh",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.7",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Passambhayaṁ",
+          "lemma": "passambhayanta",
+          "dpd_id": 44761,
+          "root": "√sambh",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāyasaṅkhāraṁ",
+          "lemma": "kāyasaṅkhāra",
+          "dpd_id": 21217,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "assasissāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sikkhati",
+          "lemma": "sikkhati",
+          "dpd_id": 62711,
+          "root": "√sikkh",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "passambhayaṁ",
+          "lemma": "passambhayanta",
+          "dpd_id": 44761,
+          "root": "√sambh",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāyasaṅkhāraṁ",
+          "lemma": "kāyasaṅkhāra",
+          "dpd_id": 21217,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "passasissāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sikkhati",
+          "lemma": "sikkhati",
+          "dpd_id": 62711,
+          "root": "√sikkh",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.8",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Seyyathāpi",
+          "lemma": "seyyathāpi",
+          "dpd_id": 64953,
+          "root": null,
+          "morph": "sandhi",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "dakkho",
+          "lemma": "dakkhi",
+          "dpd_id": 31691,
+          "root": "√dis",
+          "morph": "verb aor 2nd sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhamakāro",
+          "lemma": "bhamakāra",
+          "dpd_id": 49419,
+          "root": null,
+          "morph": "noun masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhamakārantevāsī",
+          "lemma": "bhamakārantevāsī",
+          "dpd_id": 49420,
+          "root": null,
+          "morph": "noun masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "añchanto",
+          "lemma": "añchanta",
+          "dpd_id": 1463,
+          "root": "√añch",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "añchāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "añchanto",
+          "lemma": "añchanta",
+          "dpd_id": 1463,
+          "root": "√añch",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "añchāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.9",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "evameva",
+          "lemma": "evaṃ",
+          "dpd_id": 18134,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": true
+        },
+        {
+          "surface": "kho",
+          "lemma": "kho",
+          "dpd_id": 23966,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhu",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasanto",
+          "lemma": "assasanta",
+          "dpd_id": 10011,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasanto",
+          "lemma": "passasanta",
+          "dpd_id": 44771,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "dīghaṁ",
+          "lemma": "dīgha",
+          "dpd_id": 32721,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasanto",
+          "lemma": "assasanta",
+          "dpd_id": 10011,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasanto",
+          "lemma": "passasanta",
+          "dpd_id": 44771,
+          "root": "√sas",
+          "morph": "prp masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "rassaṁ",
+          "lemma": "rassa",
+          "dpd_id": 54744,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasāmī",
+          "lemma": null,
+          "dpd_id": null,
+          "root": null,
+          "morph": null,
+          "ambiguous": false
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "pajānāti",
+          "lemma": "pajānāti",
+          "dpd_id": 39702,
+          "root": "√ñā",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.2",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "ekaṁ",
+          "lemma": "eka",
+          "dpd_id": 17377,
+          "root": null,
+          "morph": "adj nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "samayaṁ",
+          "lemma": "samaya",
+          "dpd_id": 59451,
+          "root": "√i",
+          "morph": "noun masc acc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhagavā",
+          "lemma": "bhagavant",
+          "dpd_id": 49140,
+          "root": "√bhaj",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kurūsu",
+          "lemma": "kuru",
+          "dpd_id": 22502,
+          "root": null,
+          "morph": "noun masc loc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "kammāsadhammaṁ",
+          "lemma": "kammāsadhamma",
+          "dpd_id": 20396,
+          "root": null,
+          "morph": "noun nt nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "nāma",
+          "lemma": "nāma",
+          "dpd_id": 36431,
+          "root": null,
+          "morph": "adj masc voc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kurūnaṁ",
+          "lemma": "kuru",
+          "dpd_id": 22502,
+          "root": null,
+          "morph": "noun masc dat pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "nigamo",
+          "lemma": "nigama",
+          "dpd_id": 36863,
+          "root": "√gam",
+          "morph": "noun masc nom sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:2.1",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Ekāyano",
+          "lemma": "ekāyana",
+          "dpd_id": 17738,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ayaṁ",
+          "lemma": "ima",
+          "dpd_id": 13779,
+          "root": null,
+          "morph": "pron masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "maggo",
+          "lemma": "magga",
+          "dpd_id": 80438,
+          "root": "√magg",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sattānaṁ",
+          "lemma": "satta",
+          "dpd_id": 57678,
+          "root": "√saj",
+          "morph": "pp masc dat pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "visuddhiyā",
+          "lemma": "visuddhi",
+          "dpd_id": 69305,
+          "root": "√sudh",
+          "morph": "noun fem instr sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sokaparidevānaṁ",
+          "lemma": "sokaparideva",
+          "dpd_id": 65095,
+          "root": null,
+          "morph": "noun masc dat pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "samatikkamāya",
+          "lemma": "samatikkama",
+          "dpd_id": 59264,
+          "root": "√kam",
+          "morph": "noun masc dat sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "dukkhadomanassānaṁ",
+          "lemma": "dukkhadomanassa",
+          "dpd_id": 32892,
+          "root": null,
+          "morph": "noun nt dat pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "atthaṅgamāya",
+          "lemma": "atthaṅgama",
+          "dpd_id": 2631,
+          "root": null,
+          "morph": "noun masc dat sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ñāyassa",
+          "lemma": "ñāya",
+          "dpd_id": 28957,
+          "root": "√i",
+          "morph": "noun masc dat sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "adhigamāya",
+          "lemma": "adhigama",
+          "dpd_id": 3160,
+          "root": "√gam",
+          "morph": "noun masc dat sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "nibbānassa",
+          "lemma": "nibbāna",
+          "dpd_id": 37569,
+          "root": "√vā",
+          "morph": "noun nt dat sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sacchikiriyāya",
+          "lemma": "sacchikiriyā",
+          "dpd_id": 57194,
+          "root": null,
+          "morph": "noun fem instr sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "yadidaṁ",
+          "lemma": "yadidaṃ",
+          "dpd_id": 53750,
+          "root": null,
+          "morph": "sandhi",
+          "ambiguous": false
+        },
+        {
+          "surface": "cattāro",
+          "lemma": "catu",
+          "dpd_id": 25849,
+          "root": null,
+          "morph": "card masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "satipaṭṭhānā",
+          "lemma": "satipaṭṭhāna",
+          "dpd_id": 57625,
+          "root": null,
+          "morph": "noun masc nom pl",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:3.2",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Idha",
+          "lemma": "idha",
+          "dpd_id": 13686,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhu",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāye",
+          "lemma": "kāya",
+          "dpd_id": 21131,
+          "root": "√ci",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāyānupassī",
+          "lemma": "kāyānupassī",
+          "dpd_id": 21263,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ātāpī",
+          "lemma": "ātāpī",
+          "dpd_id": 11470,
+          "root": "√tap",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sampajāno",
+          "lemma": "sampajāna",
+          "dpd_id": 60224,
+          "root": "√ñā",
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "satimā",
+          "lemma": "satimant",
+          "dpd_id": 57641,
+          "root": "√sar",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vineyya",
+          "lemma": "vineti",
+          "dpd_id": 68249,
+          "root": "√nī",
+          "morph": "verb opt 3rd sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "loke",
+          "lemma": "loka",
+          "dpd_id": 55972,
+          "root": "√lok",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "abhijjhādomanassaṁ",
+          "lemma": "abhijjhādomanassa",
+          "dpd_id": 7658,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:3.3",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "vedanāsu",
+          "lemma": "vedana",
+          "dpd_id": 86282,
+          "root": "√vid",
+          "morph": "adj fem loc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "vedanānupassī",
+          "lemma": "vedanānupassī",
+          "dpd_id": 70261,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ātāpī",
+          "lemma": "ātāpī",
+          "dpd_id": 11470,
+          "root": "√tap",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sampajāno",
+          "lemma": "sampajāna",
+          "dpd_id": 60224,
+          "root": "√ñā",
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "satimā",
+          "lemma": "satimant",
+          "dpd_id": 57641,
+          "root": "√sar",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vineyya",
+          "lemma": "vineti",
+          "dpd_id": 68249,
+          "root": "√nī",
+          "morph": "verb opt 3rd sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "loke",
+          "lemma": "loka",
+          "dpd_id": 55972,
+          "root": "√lok",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "abhijjhādomanassaṁ",
+          "lemma": "abhijjhādomanassa",
+          "dpd_id": 7658,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:3.4",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "citte",
+          "lemma": "citta",
+          "dpd_id": 26557,
+          "root": "√citt",
+          "morph": "adj masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "cittānupassī",
+          "lemma": "cittānupassī",
+          "dpd_id": 26682,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ātāpī",
+          "lemma": "ātāpī",
+          "dpd_id": 11470,
+          "root": "√tap",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sampajāno",
+          "lemma": "sampajāna",
+          "dpd_id": 60224,
+          "root": "√ñā",
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "satimā",
+          "lemma": "satimant",
+          "dpd_id": 57641,
+          "root": "√sar",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vineyya",
+          "lemma": "vineti",
+          "dpd_id": 68249,
+          "root": "√nī",
+          "morph": "verb opt 3rd sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "loke",
+          "lemma": "loka",
+          "dpd_id": 55972,
+          "root": "√lok",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "abhijjhādomanassaṁ",
+          "lemma": "abhijjhādomanassa",
+          "dpd_id": 7658,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:3.5",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "dhammesu",
+          "lemma": "dhamma",
+          "dpd_id": 34635,
+          "root": "√dhar",
+          "morph": "adj masc loc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "dhammānupassī",
+          "lemma": "dhammānupassī",
+          "dpd_id": 34955,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ātāpī",
+          "lemma": "ātāpī",
+          "dpd_id": 11470,
+          "root": "√tap",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sampajāno",
+          "lemma": "sampajāna",
+          "dpd_id": 60224,
+          "root": "√ñā",
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "satimā",
+          "lemma": "satimant",
+          "dpd_id": 57641,
+          "root": "√sar",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "vineyya",
+          "lemma": "vineti",
+          "dpd_id": 68249,
+          "root": "√nī",
+          "morph": "verb opt 3rd sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "loke",
+          "lemma": "loka",
+          "dpd_id": 55972,
+          "root": "√lok",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "abhijjhādomanassaṁ",
+          "lemma": "abhijjhādomanassa",
+          "dpd_id": 7658,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.1",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Kathañca",
+          "lemma": "katha",
+          "dpd_id": 19792,
+          "root": "√kath",
+          "morph": "adj",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhu",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāye",
+          "lemma": "kāya",
+          "dpd_id": 21131,
+          "root": "√ci",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāyānupassī",
+          "lemma": "kāyānupassī",
+          "dpd_id": 21263,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "viharati",
+          "lemma": "viharati",
+          "dpd_id": 69661,
+          "root": "√har",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.2",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Idha",
+          "lemma": "idha",
+          "dpd_id": 13686,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhu",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "araññagato",
+          "lemma": "araññagata",
+          "dpd_id": 8847,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "rukkhamūlagato",
+          "lemma": "rukkhamūlagata",
+          "dpd_id": 55063,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "suññāgāragato",
+          "lemma": "suññāgāragata",
+          "dpd_id": 63746,
+          "root": null,
+          "morph": "adj masc nom sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "vā",
+          "lemma": "va",
+          "dpd_id": 65506,
+          "root": null,
+          "morph": "letter masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "nisīdati",
+          "lemma": "nisīdati",
+          "dpd_id": 38204,
+          "root": "√sad",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "pallaṅkaṁ",
+          "lemma": "pallaṅka",
+          "dpd_id": 44559,
+          "root": "√añc",
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "ābhujitvā",
+          "lemma": "ābhujitvā",
+          "dpd_id": 12037,
+          "root": "√bhuj",
+          "morph": "abs",
+          "ambiguous": false
+        },
+        {
+          "surface": "ujuṁ",
+          "lemma": "uju",
+          "dpd_id": 14392,
+          "root": "√uj",
+          "morph": "adj masc acc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "kāyaṁ",
+          "lemma": "ki",
+          "dpd_id": 21591,
+          "root": null,
+          "morph": "interr fem loc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "paṇidhāya",
+          "lemma": "paṇidhāya",
+          "dpd_id": 41552,
+          "root": "√dhā",
+          "morph": "ger",
+          "ambiguous": false
+        },
+        {
+          "surface": "parimukhaṁ",
+          "lemma": "parimukhaṃ",
+          "dpd_id": 43897,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "satiṁ",
+          "lemma": "santa",
+          "dpd_id": 58152,
+          "root": "√as",
+          "morph": "prp fem acc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "upaṭṭhapetvā",
+          "lemma": "upaṭṭhapetvā",
+          "dpd_id": 15510,
+          "root": "√ṭhā",
+          "morph": "abs",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:4.3",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "So",
+          "lemma": "ta",
+          "dpd_id": 29188,
+          "root": null,
+          "morph": "pron masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "satova",
+          "lemma": "sa",
+          "dpd_id": 56233,
+          "root": null,
+          "morph": "pron",
+          "ambiguous": true
+        },
+        {
+          "surface": "assasati",
+          "lemma": "assasati",
+          "dpd_id": 10008,
+          "root": "√sas",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "satova",
+          "lemma": "sa",
+          "dpd_id": 56233,
+          "root": null,
+          "morph": "pron",
+          "ambiguous": true
+        },
+        {
+          "surface": "passasati",
+          "lemma": "passasati",
+          "dpd_id": 44770,
+          "root": "√sas",
+          "morph": "verb pr 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.1",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Evaṁ",
+          "lemma": "evaṃ",
+          "dpd_id": 18134,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "me",
+          "lemma": "ahaṃ",
+          "dpd_id": 10868,
+          "root": null,
+          "morph": "pron 1st acc sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "sutaṁ",
+          "lemma": "suta",
+          "dpd_id": 63769,
+          "root": "√su",
+          "morph": "pp nt nom sg",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.3",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Tatra",
+          "lemma": "tatra",
+          "dpd_id": 29605,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "kho",
+          "lemma": "kho",
+          "dpd_id": 23966,
+          "root": null,
+          "morph": "ind",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhagavā",
+          "lemma": "bhagavant",
+          "dpd_id": 49140,
+          "root": "√bhaj",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhikkhū",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "āmantesi",
+          "lemma": "āmanteti",
+          "dpd_id": 12084,
+          "root": "√mant",
+          "morph": "verb pr 2nd sg",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.4",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "bhikkhavo",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.5",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Bhadante",
+          "lemma": "bhadanta",
+          "dpd_id": 49335,
+          "root": "√bhad",
+          "morph": "noun masc acc pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "ti",
+          "lemma": "ti",
+          "dpd_id": 30432,
+          "root": null,
+          "morph": "ve masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "te",
+          "lemma": "ta",
+          "dpd_id": 29188,
+          "root": null,
+          "morph": "pron masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhikkhū",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "bhagavato",
+          "lemma": "bhagavant",
+          "dpd_id": 49140,
+          "root": "√bhaj",
+          "morph": "adj masc dat sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "paccassosuṁ",
+          "lemma": "paccassosi",
+          "dpd_id": 39413,
+          "root": "√su",
+          "morph": "verb aor 3rd pl",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:1.6",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Bhagavā",
+          "lemma": "bhagavant",
+          "dpd_id": 49140,
+          "root": "√bhaj",
+          "morph": "adj masc nom sg",
+          "ambiguous": true
+        },
+        {
+          "surface": "etadavoca",
+          "lemma": "etadavoca",
+          "dpd_id": 17868,
+          "root": null,
+          "morph": "verb reflx aor 3rd sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:3.1",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Katame",
+          "lemma": "katama",
+          "dpd_id": 19645,
+          "root": null,
+          "morph": "interr masc nom pl",
+          "ambiguous": true
+        },
+        {
+          "surface": "cattāro",
+          "lemma": "catu",
+          "dpd_id": 25849,
+          "root": null,
+          "morph": "card masc nom pl",
+          "ambiguous": true
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:46.20",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "aḍḍhamāsaṁ",
+          "lemma": "aḍḍhamāsa",
+          "dpd_id": 1945,
+          "root": null,
+          "morph": "noun masc acc sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:46.21",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "tiṭṭhatu",
+          "lemma": "tiṭṭhati",
+          "dpd_id": 30486,
+          "root": "√ṭhā",
+          "morph": "verb imp 3rd sg",
+          "ambiguous": false
+        },
+        {
+          "surface": "bhikkhave",
+          "lemma": "bhikkhu",
+          "dpd_id": 49885,
+          "root": "√bhikkh",
+          "morph": "noun masc voc pl",
+          "ambiguous": false
+        },
+        {
+          "surface": "aḍḍhamāso",
+          "lemma": "aḍḍhamāsa",
+          "dpd_id": 1945,
+          "root": null,
+          "morph": "noun masc nom sg",
+          "ambiguous": false
+        }
+      ]
+    },
+    {
+      "segment_id": "mn10:48.0",
+      "has_agama_parallel": true,
+      "tokens": [
+        {
+          "surface": "Tassuddānaṁ",
+          "lemma": "tassuddānaṃ",
+          "dpd_id": 30192,
+          "root": null,
+          "morph": "sandhi",
+          "ambiguous": false
+        }
+      ]
+    }
+  ]
+}

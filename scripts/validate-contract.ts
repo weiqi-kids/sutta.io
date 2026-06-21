@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SUTTA_DIRS = ['data', 'fixtures'];
-const NON_SUTTA = /^(index-|embeddings|manifest|browse$|suttas$|lexicon$|snippets$|surface-lemmas$)/;
+const NON_SUTTA = /^(index-|embeddings|manifest|browse$|suttas$|lexicon$|snippets$|surface-lemmas$|^usage$)/;
 
 const REVIEW = new Set(['draft', 'approved']);
 const PROVENANCE = new Set(['canonical', 'commentarial', 'scholarly', 'ai']);

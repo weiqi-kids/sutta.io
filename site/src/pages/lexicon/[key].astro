@@ -1,80 +1,165 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { t } from '../../i18n/zh-Hant';
-import { getLexicon } from '../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys } from '../../lib/data';
+import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
   const lex = getLexicon();
-  return Object.entries(lex).map(([key, entry]) => ({
+  const keys = new Set([...Object.keys(lex), ...getAllEntityKeys()]);
+  return [...keys].map((key) => ({
     params: { key },
-    props: { entry },
+    props: { entry: lex[key] ?? null, usage: getUsage(key), entity: getEntity(key) },
   }));
 }
 
 const { key } = Astro.params;
-const { entry } = Astro.props as { entry: import('../../lib/data').LexiconEntry };
+const { entry, usage, entity } = Astro.props as {
+  entry: import('../../lib/data').LexiconEntry | null;
+  usage: import('../../lib/data').UsageData | null;
+  entity: import('@tipitaka/contracts').EntityRef | null;
+};
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
-const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: entry.lemma }];
+const headword = entity?.name_pali ?? entry?.lemma ?? key;
+const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
+const provLabel: Record<Provenance, string> = {
+  canonical: t.world.provCanonical,
+  commentarial: t.world.provCommentarial,
+  scholarly: t.world.provScholarly,
+  ai: t.world.provAi,
+};
 ---
 
 <Base title={`${entry.lemma}｜${t.lexicon.title}`} crumbs={crumbs}>
   <article class="lex">
     <header class="lex-head">
-      <h1 lang="pi">{entry.lemma}</h1>
-      {entry.root && <span class="lex-root data" lang="pi">{entry.root}</span>}
+      <h1 lang="pi">{headword}</h1>
+      {entity && <span class="lex-kind calm-note">{t.lexicon.entity}・{entity.name_zh}</span>}
+      {entry?.root && <span class="lex-root data" lang="pi">{entry.root}</span>}
     </header>
 
+    {/* 專名詞條（DPPN，四級出處；CONTEXT B / LEXICON §6） */}
+    {entity && (
+      <section class="lex-section">
+        <h2>{t.lexicon.entity}</h2>
+        <ul class="entity-facts">
+          {entity.summary.map((f) => (
+            <li class={`fact prov-${f.provenance}`}>
+              <span class={`prov-badge prov-${f.provenance}`}>
+                {provLabel[f.provenance]}
+                {f.provenance === 'scholarly' && <span> ・{t.world.disputed}</span>}
+              </span>
+              <span class="fact-content">{f.content}</span>
+              {f.source_ref && (
+                <a class="data fact-src" href={url(`/read/${f.source_ref.split(':')[0]}#${f.source_ref}`)}>
+                  {f.source_ref}
+                </a>
+              )}
+              {f.note && <span class="fact-note calm-note">{f.note}</span>}
+            </li>
+          ))}
+        </ul>
+        {entity.context_notes && entity.context_notes.length > 0 && (
+          <>
+            <h3 class="entity-sub">{t.lexicon.background}</h3>
+            <ul class="entity-facts">
+              {entity.context_notes.map((f) => (
+                <li class={`fact prov-${f.provenance}`}>
+                  <span class={`prov-badge prov-${f.provenance}`}>{provLabel[f.provenance]}</span>
+                  <span class="fact-content">{f.content}</span>
+                  {f.note && <span class="fact-note calm-note">{f.note}</span>}
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+        {entity.dppn_ref && <p class="calm-note entity-src">來源：{entity.dppn_ref}（公共領域）</p>}
+      </section>
+    )}
+
     {/* DPD 文法（L1，暖墨，無徽章） */}
-    <section class="lex-section">
-      <h2>{t.lexicon.grammar}</h2>
-      <dl class="lex-grid">
-        {entry.gloss && (
-          <>
-            <dt>{t.dpd.gloss}</dt>
-            <dd lang="en">{entry.gloss}</dd>
-          </>
-        )}
-        {entry.root && (
-          <>
-            <dt>{t.dpd.root}</dt>
-            <dd class="data" lang="pi">{entry.root}</dd>
-          </>
-        )}
-        {entry.morph_samples.length > 0 && (
-          <>
-            <dt>{t.dpd.morph}</dt>
-            <dd>{entry.morph_samples.join('、')}</dd>
-          </>
-        )}
-      </dl>
-    </section>
+    {entry && (
+      <section class="lex-section">
+        <h2>{t.lexicon.grammar}</h2>
+        <dl class="lex-grid">
+          {entry.gloss && (
+            <>
+              <dt>{t.dpd.gloss}</dt>
+              <dd lang="en">{entry.gloss}</dd>
+            </>
+          )}
+          {entry.root && (
+            <>
+              <dt>{t.dpd.root}</dt>
+              <dd class="data" lang="pi">{entry.root}</dd>
+            </>
+          )}
+          {entry.morph_samples.length > 0 && (
+            <>
+              <dt>{t.dpd.morph}</dt>
+              <dd>{entry.morph_samples.join('、')}</dd>
+            </>
+          )}
+        </dl>
+      </section>
+    )}
 
     {/* 變化形 */}
-    {entry.forms.length > 0 && (
+    {entry && entry.forms.length > 0 && (
       <section class="lex-section">
         <h2>{t.lexicon.forms}</h2>
         <p class="lex-forms" lang="pi">{entry.forms.join('・')}</p>
       </section>
     )}
 
-    {/* 用法摘要（L2，T4，僅高頻/要詞；此處暫無） */}
+    {/* 用法摘要（L2，T4，僅高頻/要詞） */}
+    {entry && (
     <section class="lex-section">
       <h2>{t.lexicon.usageSummary} <span class="ai-badge">{t.study.aiBadge}</span></h2>
-      <p class="calm-note">{t.lexicon.noUsageSummary}</p>
+      {
+        usage ? (
+          <div class="l2 usage-l2">
+            <p class="usage-summary">{usage.summary}</p>
+            {usage.senses.length > 0 && (
+              <ul class="usage-senses">
+                {usage.senses.map((s) => (
+                  <li>
+                    <span class="usage-gloss">{s.gloss}</span>
+                    {s.segment_ids.length > 0 && (
+                      <span class="usage-srcs calm-note">
+                        {s.segment_ids.map((seg) => (
+                          <a href={url(`/read/${seg.split(':')[0]}#${seg}`)} class="data">
+                            {seg}
+                          </a>
+                        ))}
+                      </span>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        ) : (
+          <p class="calm-note">{t.lexicon.noUsageSummary}</p>
+        )
+      }
     </section>
+    )}
 
     {/* 全藏出現（concordance，L1） */}
-    <section class="lex-section">
-      <h2>{t.lexicon.occurrences}　<span class="calm-note">{t.lexicon.occurrenceCount(entry.occurrences.length)}</span></h2>
-      <ul class="lex-occ">
-        {entry.occurrences.slice(0, 200).map((o) => (
-          <li>
-            <a href={url(`/read/${o.sutta}#${o.seg}`)} class="data">{o.seg}</a>
-          </li>
-        ))}
-      </ul>
-    </section>
+    {entry && (
+      <section class="lex-section">
+        <h2>{t.lexicon.occurrences}　<span class="calm-note">{t.lexicon.occurrenceCount(entry.occurrences.length)}</span></h2>
+        <ul class="lex-occ">
+          {entry.occurrences.slice(0, 200).map((o) => (
+            <li>
+              <a href={url(`/read/${o.sutta}#${o.seg}`)} class="data">{o.seg}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
   </article>
 </Base>
 
@@ -138,5 +223,77 @@ const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: entry.
   .lex-occ a:hover {
     border-color: var(--thread);
     color: var(--ink);
+  }
+  .usage-l2 {
+    padding: var(--space-3);
+    border-radius: var(--radius);
+  }
+  .usage-summary {
+    margin: 0 0 var(--space-2);
+    color: var(--ink);
+  }
+  .usage-senses {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .usage-gloss {
+    color: var(--ink);
+  }
+  .usage-srcs {
+    margin-inline-start: var(--space-2);
+    display: inline-flex;
+    gap: var(--space-2);
+  }
+  .lex-kind {
+    font-size: 13px;
+  }
+  .entity-facts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+  .entity-facts .fact {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    padding-inline-start: var(--space-3);
+    border-inline-start: 2px solid var(--rule);
+  }
+  .entity-facts .fact.prov-scholarly {
+    border-inline-start-color: var(--prov-scholarly);
+  }
+  .entity-facts .fact.prov-canonical {
+    border-inline-start-color: var(--prov-canonical);
+  }
+  .entity-facts .fact.prov-commentarial {
+    border-inline-start-color: var(--prov-commentarial);
+  }
+  .prov-badge {
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+  }
+  .fact-content {
+    color: var(--ink);
+  }
+  .fact-src {
+    font-size: 12px;
+    width: fit-content;
+  }
+  .fact-note {
+    font-size: 0.88em;
+  }
+  .entity-sub {
+    font-size: 14px;
+    margin: var(--space-4) 0 var(--space-2);
+  }
+  .entity-src {
+    margin-top: var(--space-3);
   }
 </style>
