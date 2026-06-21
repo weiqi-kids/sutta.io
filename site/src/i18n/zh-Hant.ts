@@ -130,6 +130,13 @@ export const t = {
     sourcesTitle: '資料來源與署名',
     licenseTitle: '授權',
     aiTitle: '關於 AI 輔助內容',
+    dedicationTitle: '迴向',
+    dedicationNote: '以下為製作者個人發願，與本站中立、不涉宗派的學術立場分開看待。',
+    dedicationVerse: ['願以此功德，普及於一切，', '我等與眾生，皆共成佛道。'],
+    dedicationSource: '——《妙法蓮華經》迴向偈',
+  },
+  footer: {
+    dedication: '願以此功德，普及於一切',
   },
   common: {
     breadcrumbHome: '首頁',

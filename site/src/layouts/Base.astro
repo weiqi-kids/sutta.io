@@ -97,6 +97,7 @@ const url = (p: string) => `${base}${p}` || '/';
     <footer class="site-footer chrome">
       <div class="container">
         <p>{t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a></p>
+        <p class="footer-dedication">{t.footer.dedication}</p>
       </div>
     </footer>
 
@@ -198,6 +199,13 @@ const url = (p: string) => `${base}${p}` || '/';
       }
       .site-footer a {
         color: var(--ink-soft);
+      }
+      .footer-dedication {
+        margin-top: var(--space-1);
+        color: var(--margin);
+        font-family: var(--font-zh);
+        letter-spacing: 0.08em;
+        opacity: 0.85;
       }
       @media (max-width: 640px) {
         .site-nav {
