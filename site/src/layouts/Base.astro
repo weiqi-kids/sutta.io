@@ -37,15 +37,42 @@ interface Props {
 }
 const {
   title,
-  description = t.site.tagline,
+  description = t.site.description,
   crumbs = [],
   preview = false,
   wide = false,
 } = Astro.props;
-const fullTitle = title ? `${title}｜${t.site.name}` : t.site.name;
+const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
+const ogTitle = title ? `${title}｜${t.site.name}` : t.site.ogTitle;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lp = locale === 'en' ? '/en' : '';
 const url = (p: string) => `${base}${lp}${p}` || '/';
+// hreflang 互連（同頁的另一語系）
+const zhHref = 'https://sutta.io' + Astro.url.pathname.replace(/^\/en(\/|$)/, '/');
+const enHref = 'https://sutta.io' + (Astro.url.pathname.startsWith('/en') ? Astro.url.pathname : '/en' + (Astro.url.pathname === '/' ? '/' : Astro.url.pathname));
+const ogImage = 'https://sutta.io/og.svg';
+// Schema.org（GEO：讓 AI 理解這是一個「系統/工具」實體）
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': ['WebSite', 'WebApplication'],
+  name: t.site.schemaName,
+  alternateName: ['原典研經庫', 'Canonical Text Study System'],
+  url: 'https://sutta.io/',
+  inLanguage: ['zh-Hant', 'en', 'pi'],
+  applicationCategory: 'EducationalApplication',
+  description: t.site.description,
+  isAccessibleForFree: true,
+  about: [
+    { '@type': 'Thing', name: 'Pāli Canon' },
+    { '@type': 'Thing', name: '巴利三藏' },
+    { '@type': 'Thing', name: 'Early Buddhist Texts' },
+  ],
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://sutta.io/search?q={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
 ---
 
 <!doctype html>
@@ -58,6 +85,27 @@ const url = (p: string) => `${base}${lp}${p}` || '/';
     <meta name="color-scheme" content="light dark" />
     <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
     <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
+    <link rel="alternate" hreflang="en" href={enHref} />
+    <link rel="alternate" hreflang="x-default" href={zhHref} />
+
+    {/* Open Graph（分享卡片） */}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t.site.name} />
+    <meta property="og:title" content={ogTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content={locale === 'en' ? 'en_US' : 'zh_TW'} />
+    {/* Twitter */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={ogTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    {/* Schema.org JSON-LD（SEO + GEO：AI 理解為研經系統實體） */}
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+
     {gscToken && <meta name="google-site-verification" content={gscToken} />}
     {
       ga4Id && (

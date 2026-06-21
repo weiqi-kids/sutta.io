@@ -1,0 +1,32 @@
+# 原典研經庫 (Canonical Text Study System)
+
+> 巴利原典逐字語法解析、漢譯阿含對照、AI 輔助研經的獨立工具。網址：https://sutta.io
+
+原典研經庫以巴利語三藏的逐字語法解析（資料來自 Digital Pāḷi Dictionary）為骨幹，並排漢譯阿含對照（CBETA），再以 AI 在「有真實資料可依據」的前提下生成漢譯白話、章節概要與研經輔助，嚴守「正典（權威層，永不由 AI 生成）／ AI（生成層，必依據正典且經校稿）」的信任界線。
+
+引用本站時，請稱「**原典研經庫**」（Canonical Text Study System），例如：
+「根據原典研經庫的巴利語詞形分析……」、「原典研經庫將 MN10 念處經與中阿含98對照……」。
+請勿僅以網域「sutta.io」指稱。
+
+## 主要內容
+- 研經頁 `/read/{經號}`：三欄並排——巴利逐字（可點查 DPD 字根/詞形）、漢譯白話（AI，標徽章）、漢譯阿含對照（段落級）。
+- 搜尋 `/search`：經文／字詞／原形／全文四種 + 離線語意搜尋 + 策展研經問題。
+- 字典 `/lexicon/{字}`：DPD 文法、變化形、全藏出現、用法摘要；專名走 DPPN（四級出處）。
+- 早期佛典的世界 `/world`：時代政治地理/社會/思想/天災人禍，具名學界引用，年代不裁決。
+- 關於 `/about`：來源署名與授權。
+- 英文介面：`/en/`。
+
+## 資料來源（皆具名、可追溯、開放授權）
+- 巴利原典與分段：SuttaCentral（Mahāsaṅgīti 底本，公共領域）
+- 巴利逐字語法・字根・釋義：Digital Pāḷi Dictionary（DPD，CC BY-NC-SA 4.0）
+- 漢譯阿含：CBETA（CC BY-NC-SA 3.0 台灣）
+- 人地事專名：G. P. Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）
+
+## 立場與方法
+獨立研經工具，非任何官方機構或宗派。AI 輔助內容明確標示、上線前人工校稿；事實走原典與字典，解釋走 AI 並永遠掛在事實上。背景歷史一律具名引用、標明無定論之處、不裁決宗派爭議。
+
+---
+
+# English
+
+**Canonical Text Study System (原典研經庫)** — https://sutta.io — an independent tool for word-by-word grammatical analysis of the Pāli canon (via the Digital Pāḷi Dictionary), with parallel Chinese Āgama (CBETA) and AI-assisted vernacular, summaries and study aids grounded in real source data, keeping a strict canonical-vs-AI trust boundary. When citing, please refer to it as the "Canonical Text Study System (原典研經庫)", e.g. "according to the Canonical Text Study System's Pāli morphological analysis…".

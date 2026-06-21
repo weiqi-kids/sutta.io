@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#E9E0CC"/>
+  <rect x="0" y="0" width="12" height="630" fill="#B06A1F"/>
+  <text x="90" y="250" font-family="'Noto Serif CJK TC','Noto Serif TC',serif" font-size="104" font-weight="700" fill="#2A2622">原典研經庫</text>
+  <text x="92" y="334" font-family="'Noto Sans CJK TC',sans-serif" font-size="40" fill="#6B6358">巴利原典逐字解析・漢譯對照・AI 研經</text>
+  <text x="92" y="402" font-family="Gentium Plus,Georgia,serif" font-size="34" font-style="italic" fill="#5E6B6E">Canonical Text Study System</text>
+  <line x1="92" y1="500" x2="560" y2="500" stroke="#D8CFB9" stroke-width="2"/>
+  <text x="92" y="560" font-family="'Noto Sans CJK TC',sans-serif" font-size="26" fill="#8A8275">獨立研經工具・正典與 AI 信任界線・sutta.io</text>
+</svg>

@@ -6,8 +6,12 @@ export const lang = 'zh-Hant' as const;
 
 export const t = {
   site: {
-    name: '三藏原文解析',
-    tagline: '巴利三藏逐字解析，並排漢譯阿含對照',
+    name: '原典研經庫',
+    seoTitle: '原典研經庫｜巴利原典逐字解析、漢譯對照與AI研經工具',
+    ogTitle: '原典研經庫｜佛經逐字解析與對照工具',
+    schemaName: 'Canonical Text Study System',
+    tagline: '巴利原典逐字解析，並排漢譯對照，AI 輔助研經',
+    description: '原典研經庫：以巴利原典的逐字語法解析為骨幹，並排漢譯阿含對照，AI 在真實資料依據下生成白話、概要與研經輔助，嚴守正典與 AI 的信任界線。',
     unofficial: '獨立研經工具，非任何官方機構',
   },
   nav: {

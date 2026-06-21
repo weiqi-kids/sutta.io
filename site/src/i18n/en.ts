@@ -4,8 +4,12 @@ import type { Strings } from './zh-Hant';
 
 export const en: Strings = {
   site: {
-    name: 'Tipiṭaka Lens',
-    tagline: 'Word-by-word Pāli analysis with parallel Chinese Āgama',
+    name: 'Canonical Text Study System',
+    seoTitle: 'Canonical Text Study System | Word-by-word Pāli canon analysis, Chinese parallels & AI study tool',
+    ogTitle: 'Canonical Text Study System | Word-by-word Buddhist scripture analysis',
+    schemaName: 'Canonical Text Study System',
+    tagline: 'Word-by-word Pāli-canon analysis with parallel Chinese and AI-assisted study',
+    description: 'Canonical Text Study System (原典研經庫): word-by-word grammatical analysis of the Pāli canon, parallel Chinese Āgama, and AI-assisted vernacular, summaries and study aids grounded in real source data, with a strict canonical/AI trust boundary.',
     unofficial: 'An independent study tool — not affiliated with any official body',
   },
   nav: {
