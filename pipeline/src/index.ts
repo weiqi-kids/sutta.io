@@ -90,6 +90,23 @@ export function buildLexicon(suttas: SuttaFixture[]) {
   writeJson(path.join(DATA_DIR, 'lexicon.json'), lex);
 }
 
+/** surface→lemmas 消歧索引（LEXICON §3：一形多原形時先選）。 */
+export function buildSurfaceLemmas(suttas: SuttaFixture[]) {
+  const map: Record<string, { key: string; lemma: string; gloss: string | null }[]> = {};
+  for (const s of suttas) {
+    for (const seg of s.segments) {
+      for (const tok of seg.pali_tokens) {
+        if (!tok.lemma) continue;
+        const sk = foldDiacritics(tok.surface);
+        const lk = foldDiacritics(tok.lemma);
+        const arr = (map[sk] ??= []);
+        if (!arr.some((x) => x.key === lk)) arr.push({ key: lk, lemma: tok.lemma, gloss: tok.gloss });
+      }
+    }
+  }
+  writeJson(path.join(DATA_DIR, 'surface-lemmas.json'), map);
+}
+
 /** 片段索引 data/snippets.json（搜尋結果顯示命中片段）。 */
 export function buildSnippets(suttas: SuttaFixture[]) {
   const snip: Record<string, { pi: string; zh?: string }> = {};

@@ -6,6 +6,11 @@ import '@fontsource/gentium-plus/700.css';
 import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/inter/400.css';
 import '@fontsource/inter/600.css';
+// 漢字自架（G-2）：思源宋體(Noto Serif TC) 正典、Noto Sans TC chrome。unicode-range 子集，只載所需。
+import '@fontsource/noto-serif-tc/400.css';
+import '@fontsource/noto-serif-tc/600.css';
+import '@fontsource/noto-sans-tc/400.css';
+import '@fontsource/noto-sans-tc/600.css';
 import '../styles/global.css';
 import { t, lang } from '../i18n/zh-Hant';
 
@@ -61,7 +66,10 @@ const url = (p: string) => `${base}${p}` || '/';
         <a class="brand" href={url('/')}>
           <span class="brand-name">{t.site.name}</span>
         </a>
-        <nav class="site-nav" aria-label="主導覽">
+        <button id="nav-toggle" class="nav-toggle" type="button" aria-label="選單" aria-expanded="false">
+          ☰
+        </button>
+        <nav class="site-nav" id="site-nav" aria-label="主導覽">
           <a href={url('/browse')}>{t.nav.browse}</a>
           <a href={url('/search')}>{t.nav.search}</a>
           <a href={url('/lexicon')}>{t.nav.lexicon}</a>
@@ -96,7 +104,13 @@ const url = (p: string) => `${base}${p}` || '/';
 
     <footer class="site-footer chrome">
       <div class="container">
-        <p>{t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a></p>
+        <p>
+          {t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a>・<a
+            href="https://github.com/weiqi-kids/sutta.io/issues/new?labels=%E5%8B%98%E8%AA%A4&title=%5B%E5%8B%98%E8%AA%A4%5D%20"
+            target="_blank"
+            rel="noopener">{t.nav.errata}</a
+          >
+        </p>
         <p class="footer-dedication">{t.footer.dedication}</p>
       </div>
     </footer>
@@ -109,6 +123,20 @@ const url = (p: string) => `${base}${p}` || '/';
           var next = el.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
           el.setAttribute('data-theme', next);
           try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+      }
+      var navBtn = document.getElementById('nav-toggle');
+      var navEl = document.getElementById('site-nav');
+      if (navBtn && navEl) {
+        navBtn.addEventListener('click', function () {
+          var open = navEl.classList.toggle('is-open');
+          navBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+        navEl.addEventListener('click', function (e) {
+          if (e.target && e.target.tagName === 'A') {
+            navEl.classList.remove('is-open');
+            navBtn.setAttribute('aria-expanded', 'false');
+          }
         });
       }
     </script>
@@ -158,6 +186,44 @@ const url = (p: string) => `${base}${p}` || '/';
         width: 32px;
         height: 32px;
         line-height: 1;
+      }
+      .nav-toggle {
+        display: none;
+        background: transparent;
+        border: 1px solid var(--rule);
+        border-radius: var(--radius);
+        color: var(--ink);
+        cursor: pointer;
+        width: 36px;
+        height: 32px;
+        font-size: 16px;
+        line-height: 1;
+      }
+      @media (max-width: 640px) {
+        .nav-toggle {
+          display: inline-block;
+        }
+        .site-nav {
+          display: none;
+          position: absolute;
+          top: 56px;
+          right: 0;
+          left: 0;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0;
+          background: var(--surface);
+          border-bottom: 1px solid var(--rule);
+          padding: var(--space-2) var(--space-6);
+        }
+        .site-nav.is-open {
+          display: flex;
+        }
+        .site-nav a {
+          padding: var(--space-3) 0;
+          width: 100%;
+          border-bottom: 1px solid var(--rule);
+        }
       }
       .breadcrumb {
         background: var(--surface);

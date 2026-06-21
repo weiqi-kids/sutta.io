@@ -13,6 +13,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // site/src/lib → repo 根 data/
 export const DATA_DIR = path.resolve(__dirname, '../../../data');
 const FIXTURES_DIR = path.resolve(__dirname, '../../../fixtures');
+const CONTENT_DIR = path.resolve(__dirname, '../../../content');
 
 function readJsonIfExists<T>(file: string): T | null {
   try {
@@ -79,7 +80,7 @@ export function listSuttas(): BrowseEntry[] {
       if (!f.endsWith('.json')) continue;
       const base = f.replace(/\.json$/, '');
       // 排除索引/嵌入/manifest/目錄/字典/片段等非經檔
-      if (/^index-|^embeddings|^manifest|^browse$|^suttas$|^lexicon$|^snippets$/.test(base)) continue;
+      if (/^index-|^embeddings|^manifest|^browse$|^suttas$|^lexicon$|^snippets$|^surface-lemmas$/.test(base)) continue;
       ids.add(base);
     }
   }
@@ -135,6 +136,29 @@ export function getSurfaceIndex(): unknown | null {
 }
 export function getManifest(): Record<string, string> | null {
   return readJsonIfExists(path.join(DATA_DIR, 'manifest.json'));
+}
+
+export interface SuttaContextData {
+  sutta_id: string;
+  setting_place?: string;
+  audience?: string;
+  occasion?: string;
+  derived_from: string[];
+}
+/** CONTEXT A 此經緣起（L1，authored 於 content/context/）。 */
+export function getSuttaContext(id: string): SuttaContextData | null {
+  return readJsonIfExists<SuttaContextData>(path.join(CONTENT_DIR, 'context', `${id}.json`));
+}
+
+export interface EntityLink {
+  key: string;
+  name_pali: string;
+  name_zh?: string;
+}
+/** 此經出現的人地事專名（DPPN；CONTEXT B）。讀 content/entities/{sutta}.json。 */
+export function getEntitiesForSutta(id: string): EntityLink[] {
+  const e = readJsonIfExists<{ entities: EntityLink[] }>(path.join(CONTENT_DIR, 'entities', `${id}.json`));
+  return e?.entities ?? [];
 }
 
 export interface LexiconEntry {

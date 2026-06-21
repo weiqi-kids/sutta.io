@@ -91,6 +91,26 @@
 .result-snippet.zh {
   font-family: var(--font-zh);
 }
+.disambig {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+.disambig-list {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-2) 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+.disambig-list a {
+  font-family: var(--font-pali);
+  color: var(--thread);
+  text-decoration: none;
+}
 .empty {
   padding: var(--space-6) 0;
 }

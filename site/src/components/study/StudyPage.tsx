@@ -6,19 +6,29 @@ import PaliColumn from './PaliColumn';
 import ChineseColumn from './ChineseColumn';
 import StudyColumn from './StudyColumn';
 import DpdPopover from './DpdPopover';
+import RelatedPanel from './RelatedPanel';
+import type { SuttaContextData } from '../../lib/data';
 import './study.css';
 
+interface EntityLink {
+  key: string;
+  name_pali: string;
+  name_zh?: string;
+}
 interface Props {
   fixture: SuttaFixture;
   prevId: string | null;
   nextId: string | null;
   baseUrl: string;
+  context?: SuttaContextData | null;
+  entities?: EntityLink[];
 }
 
 type Tab = 'pali' | 'chinese' | 'study';
 
-export default function StudyPage({ fixture, prevId, nextId, baseUrl }: Props) {
+export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [] }: Props) {
   const { sutta, segments, passages, summary, study_cards } = fixture;
+  const hasAgama = passages.some((p) => p.agama != null);
 
   const [activeSegmentId, setActiveSegmentId] = useState<string | null>(null);
   const [hoveredSegmentId, setHoveredSegmentId] = useState<string | null>(null);
@@ -190,6 +200,7 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl }: Props) {
   return (
     <div className="study-page">
       {header}
+      <RelatedPanel suttaId={sutta.id} context={context} hasAgama={hasAgama} entities={entities} baseUrl={baseUrl} />
       {columns}
       {selectedToken && anchorRect && (
         <DpdPopover token={selectedToken} anchorRect={anchorRect} onClose={() => setSelectedToken(null)} />

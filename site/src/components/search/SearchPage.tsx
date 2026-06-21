@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { t } from '../../i18n/zh-Hant';
 import {
-  foldDiacritics, toTraditional, chineseBigrams, suttaIdOf,
+  normalizePaliQuery, toTraditional, chineseBigrams, suttaIdOf,
   type FulltextIndex, type LemmaIndex, type SurfaceIndex, type SuttaCatalog, type EmbedMeta,
 } from '../../lib/search-client';
 import './search.css';
@@ -26,6 +26,7 @@ export default function SearchPage({ baseUrl }: Props) {
   const [query, setQuery] = useState('');
   const [mode, setMode] = useState<Mode>('fulltext');
   const [results, setResults] = useState<Result[] | null>(null);
+  const [disambig, setDisambig] = useState<{ key: string; lemma: string; gloss: string | null }[]>([]);
   const [searched, setSearched] = useState(false);
   const [semStatus, setSemStatus] = useState<'idle' | 'loading' | 'ready'>('idle');
 
@@ -35,6 +36,7 @@ export default function SearchPage({ baseUrl }: Props) {
   const fulltext = useRef<FulltextIndex | null>(null);
   const lemmaIdx = useRef<LemmaIndex | null>(null);
   const surfaceIdx = useRef<SurfaceIndex | null>(null);
+  const surfaceLemmas = useRef<Record<string, { key: string; lemma: string; gloss: string | null }[]> | null>(null);
   const embed = useRef<{ meta: EmbedMeta; mat: Float32Array } | null>(null);
   const extractor = useRef<any>(null);
 
@@ -70,6 +72,7 @@ export default function SearchPage({ baseUrl }: Props) {
   const runSearch = useCallback(async () => {
     const q = query.trim();
     setSearched(true);
+    setDisambig([]);
     if (!q) { setResults(null); return; }
 
     if (mode === 'sutta') {
@@ -85,7 +88,11 @@ export default function SearchPage({ baseUrl }: Props) {
     if (mode === 'surface') {
       const idx = await loadJson(surfaceIdx, 'index-surface.json');
       const snip = await loadJson(snippets, 'snippets.json');
-      const hits = idx[foldDiacritics(q)] ?? [];
+      const sl = await loadJson(surfaceLemmas, 'surface-lemmas.json');
+      // 消歧（LEXICON §3）：一形多原形時先列原形選擇
+      const lemmas = sl[normalizePaliQuery(q)] ?? [];
+      setDisambig(lemmas);
+      const hits = idx[normalizePaliQuery(q)] ?? [];
       setResults(hits.slice(0, 100).map((h) => ({ seg: h.seg, sutta: suttaIdOf(h.seg), title: titleOf(suttaIdOf(h.seg)), snippet: snip[h.seg]?.pi, lang: 'pi' })));
       return;
     }
@@ -93,7 +100,7 @@ export default function SearchPage({ baseUrl }: Props) {
     if (mode === 'lemma') {
       const idx = await loadJson(lemmaIdx, 'index-lemma.json');
       const snip = await loadJson(snippets, 'snippets.json');
-      const e = idx[foldDiacritics(q)];
+      const e = idx[normalizePaliQuery(q)];
       if (!e) { setResults([]); return; }
       setResults(e.occurrences.slice(0, 100).map((seg) => ({ seg, sutta: suttaIdOf(seg), title: titleOf(suttaIdOf(seg)), snippet: snip[seg]?.pi, lang: 'pi', lemma: e.lemma })));
       return;
@@ -104,7 +111,7 @@ export default function SearchPage({ baseUrl }: Props) {
       const snip = await loadJson(snippets, 'snippets.json');
       const isCjk = /[一-鿿]/.test(q);
       const segScore = new Map<string, { lang: 'pi' | 'zh'; n: number }>();
-      const keys = isCjk ? chineseBigrams(toTraditional(q)) : [foldDiacritics(q)];
+      const keys = isCjk ? chineseBigrams(toTraditional(q)) : [normalizePaliQuery(q)];
       for (const k of keys) {
         for (const p of idx.postings[k] ?? []) {
           const cur = segScore.get(p.seg);
@@ -176,6 +183,22 @@ export default function SearchPage({ baseUrl }: Props) {
           </p>
         )}
       </form>
+
+      {disambig.length > 0 && (
+        <div className="disambig">
+          <span className="calm-note">{t.lexicon.disambiguate}</span>
+          <ul className="disambig-list">
+            {disambig.map((d) => (
+              <li key={d.key}>
+                <a href={url(`/lexicon/${d.key}`)} lang="pi">
+                  {d.lemma}
+                </a>
+                {d.gloss && <span className="calm-note" lang="en"> {d.gloss.slice(0, 30)}</span>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       {!searched && <p className="calm-note initial-hint">{t.search.initialHint}</p>}
 

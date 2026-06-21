@@ -24,7 +24,7 @@
 
   /* --- 字體(DESIGN §3.3)。全開源可自架 --- */
   --font-pali:  "Gentium Plus", serif;              /* 巴利(IAST 變音為真畫出) */
-  --font-zh:    "Source Han Serif TC", "Noto Serif CJK TC", serif; /* 漢譯正典 */
+  --font-zh:    "Noto Serif TC", "Source Han Serif TC", "Noto Serif CJK TC", serif; /* 漢譯正典（自架 Noto Serif TC，G-2） */
   --font-ui:    "Noto Sans TC", "Inter", sans-serif; /* chrome/標籤 */
   --font-data:  "IBM Plex Mono", monospace;          /* DPD 詞形碼/id/數據 */
 

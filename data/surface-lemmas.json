@@ -1,0 +1,3369 @@
+{
+  "evam": [
+    {
+      "key": "evam",
+      "lemma": "evaṃ",
+      "gloss": "thus; this; like this; similarly; in the same manner; just as; such"
+    }
+  ],
+  "me": [
+    {
+      "key": "aham",
+      "lemma": "ahaṃ",
+      "gloss": "I"
+    }
+  ],
+  "sutam": [
+    {
+      "key": "suta",
+      "lemma": "suta",
+      "gloss": "heard"
+    }
+  ],
+  "ekam": [
+    {
+      "key": "eka",
+      "lemma": "eka",
+      "gloss": "a; a certain; a single"
+    }
+  ],
+  "samayam": [
+    {
+      "key": "samaya",
+      "lemma": "samaya",
+      "gloss": "time; occasion"
+    }
+  ],
+  "bhagava": [
+    {
+      "key": "bhagavant",
+      "lemma": "bhagavant",
+      "gloss": "having good fortune quality"
+    }
+  ],
+  "kurusu": [
+    {
+      "key": "kuru",
+      "lemma": "kuru",
+      "gloss": "name of a country"
+    }
+  ],
+  "viharati": [
+    {
+      "key": "viharati",
+      "lemma": "viharati",
+      "gloss": "lives; dwells; stays (in)"
+    }
+  ],
+  "kammasadhammam": [
+    {
+      "key": "kammasadhamma",
+      "lemma": "kammāsadhamma",
+      "gloss": "name of a town in the Kuru country"
+    }
+  ],
+  "nama": [
+    {
+      "key": "nama",
+      "lemma": "nāma",
+      "gloss": "called; named"
+    }
+  ],
+  "kurunam": [
+    {
+      "key": "kuru",
+      "lemma": "kuru",
+      "gloss": "name of a country"
+    }
+  ],
+  "nigamo": [
+    {
+      "key": "nigama",
+      "lemma": "nigama",
+      "gloss": "town; market town"
+    }
+  ],
+  "tatra": [
+    {
+      "key": "tatra",
+      "lemma": "tatra",
+      "gloss": "there; in that place"
+    }
+  ],
+  "kho": [
+    {
+      "key": "kho",
+      "lemma": "kho",
+      "gloss": "indeed; surely; certainly; truly"
+    }
+  ],
+  "bhikkhu": [
+    {
+      "key": "bhikkhu",
+      "lemma": "bhikkhu",
+      "gloss": "monk; monastic; mendicant; fully ordained monk"
+    }
+  ],
+  "amantesi": [
+    {
+      "key": "amanteti",
+      "lemma": "āmanteti",
+      "gloss": "invites; calls; summons"
+    }
+  ],
+  "bhikkhavo": [
+    {
+      "key": "bhikkhu",
+      "lemma": "bhikkhu",
+      "gloss": "monk; monastic; mendicant; fully ordained monk"
+    }
+  ],
+  "ti": [
+    {
+      "key": "ti",
+      "lemma": "ti",
+      "gloss": "(gram) ti; verbal ending of the present tense 3rd person singular"
+    }
+  ],
+  "bhadante": [
+    {
+      "key": "bhadanta",
+      "lemma": "bhadanta",
+      "gloss": "venerable; reverend"
+    }
+  ],
+  "te": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "bhagavato": [
+    {
+      "key": "bhagavant",
+      "lemma": "bhagavant",
+      "gloss": "having good fortune quality"
+    }
+  ],
+  "paccassosum": [
+    {
+      "key": "paccassosi",
+      "lemma": "paccassosi",
+      "gloss": "replied (to); agreed (with); assented (to)"
+    }
+  ],
+  "etadavoca": [
+    {
+      "key": "etadavoca",
+      "lemma": "etadavoca",
+      "gloss": "said this (to)"
+    }
+  ],
+  "ekayano": [
+    {
+      "key": "ekayana",
+      "lemma": "ekāyana",
+      "gloss": "direct; one-way; (or) going once"
+    }
+  ],
+  "ayam": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "bhikkhave": [
+    {
+      "key": "bhikkhu",
+      "lemma": "bhikkhu",
+      "gloss": "monk; monastic; mendicant; fully ordained monk"
+    }
+  ],
+  "maggo": [
+    {
+      "key": "magga",
+      "lemma": "magga",
+      "gloss": "with a road; with a path"
+    }
+  ],
+  "sattanam": [
+    {
+      "key": "satta",
+      "lemma": "satta",
+      "gloss": "clung; stuck; attached (to)"
+    }
+  ],
+  "visuddhiya": [
+    {
+      "key": "visuddhi",
+      "lemma": "visuddhi",
+      "gloss": "purity; purification (of); holiness"
+    }
+  ],
+  "sokaparidevanam": [
+    {
+      "key": "sokaparideva",
+      "lemma": "sokaparideva",
+      "gloss": "sorrow and lamentation; sadness and crying"
+    }
+  ],
+  "samatikkamaya": [
+    {
+      "key": "samatikkama",
+      "lemma": "samatikkama",
+      "gloss": "surpassing; overcoming (of); going beyond; transcendence"
+    }
+  ],
+  "dukkhadomanassanam": [
+    {
+      "key": "dukkhadomanassa",
+      "lemma": "dukkhadomanassa",
+      "gloss": "discomfort and distress; pain and stress; physical pain and mental suffering"
+    }
+  ],
+  "atthangamaya": [
+    {
+      "key": "atthangama",
+      "lemma": "atthaṅgama",
+      "gloss": "disappearance; vanishing; settling down; subsiding; passing away (of)"
+    }
+  ],
+  "nayassa": [
+    {
+      "key": "naya",
+      "lemma": "ñāya",
+      "gloss": "way; means; method; system; approach"
+    }
+  ],
+  "adhigamaya": [
+    {
+      "key": "adhigama",
+      "lemma": "adhigama",
+      "gloss": "discovery; finding (of)"
+    }
+  ],
+  "nibbanassa": [
+    {
+      "key": "nibbana",
+      "lemma": "nibbāna",
+      "gloss": "(of fire) extinguishing; quenching; going out"
+    }
+  ],
+  "sacchikiriyaya": [
+    {
+      "key": "sacchikiriya",
+      "lemma": "sacchikiriyā",
+      "gloss": "personal experience; intimate experience; personal realization (of)"
+    }
+  ],
+  "yadidam": [
+    {
+      "key": "yadidam",
+      "lemma": "yadidaṃ",
+      "gloss": "namely; that is"
+    }
+  ],
+  "cattaro": [
+    {
+      "key": "catu",
+      "lemma": "catu",
+      "gloss": "four (4)"
+    }
+  ],
+  "satipatthana": [
+    {
+      "key": "satipatthana",
+      "lemma": "satipaṭṭhāna",
+      "gloss": "attending mindfully; being present with mindfulness"
+    }
+  ],
+  "katame": [
+    {
+      "key": "katama",
+      "lemma": "katama",
+      "gloss": "what?; which (of the many)?"
+    }
+  ],
+  "idha": [
+    {
+      "key": "idha",
+      "lemma": "idha",
+      "gloss": "here; now; in this world"
+    }
+  ],
+  "kaye": [
+    {
+      "key": "kaya",
+      "lemma": "kāya",
+      "gloss": "body; physical body; physical process"
+    }
+  ],
+  "kayanupassi": [
+    {
+      "key": "kayanupassi",
+      "lemma": "kāyānupassī",
+      "gloss": "observing the body; who watches the body"
+    }
+  ],
+  "atapi": [
+    {
+      "key": "atapi",
+      "lemma": "ātāpī",
+      "gloss": "avid; ardent; zealous; with continuous effort"
+    }
+  ],
+  "sampajano": [
+    {
+      "key": "sampajana",
+      "lemma": "sampajāna",
+      "gloss": "clearly aware; fully knowing; completely comprehending"
+    }
+  ],
+  "satima": [
+    {
+      "key": "satimant",
+      "lemma": "satimant",
+      "gloss": "mindful; fully present; attentive"
+    }
+  ],
+  "vineyya": [
+    {
+      "key": "vineti",
+      "lemma": "vineti",
+      "gloss": "trains; instructs; educates; enjoins"
+    }
+  ],
+  "loke": [
+    {
+      "key": "loka",
+      "lemma": "loka",
+      "gloss": "world; universe; cosmos"
+    }
+  ],
+  "abhijjhadomanassam": [
+    {
+      "key": "abhijjhadomanassa",
+      "lemma": "abhijjhādomanassa",
+      "gloss": "covetousness and depression; wanting and unhappiness; craving and aversion; greed and distress"
+    }
+  ],
+  "vedanasu": [
+    {
+      "key": "vedana",
+      "lemma": "vedana",
+      "gloss": "with felt experience; with a feeling; having a feeling tone"
+    }
+  ],
+  "vedananupassi": [
+    {
+      "key": "vedananupassi",
+      "lemma": "vedanānupassī",
+      "gloss": "contemplating feeling; who observes felt experience"
+    }
+  ],
+  "citte": [
+    {
+      "key": "citta",
+      "lemma": "citta",
+      "gloss": "decorated; beautiful; adorned"
+    }
+  ],
+  "cittanupassi": [
+    {
+      "key": "cittanupassi",
+      "lemma": "cittānupassī",
+      "gloss": "observing the mind; who watches mental experience"
+    }
+  ],
+  "dhammesu": [
+    {
+      "key": "dhamma",
+      "lemma": "dhamma",
+      "gloss": "of such nature; liable (to); prone (to); destined (for)"
+    }
+  ],
+  "dhammanupassi": [
+    {
+      "key": "dhammanupassi",
+      "lemma": "dhammānupassī",
+      "gloss": "observing phenomena; who watches mental phenomena; (or) observing the nature of things"
+    }
+  ],
+  "uddeso": [
+    {
+      "key": "uddesa",
+      "lemma": "uddesa",
+      "gloss": "proposition; synopsis; statement in brief; summary; introduction"
+    }
+  ],
+  "nitthito": [
+    {
+      "key": "nitthita",
+      "lemma": "niṭṭhita",
+      "gloss": "finished; completed; accomplished"
+    }
+  ],
+  "kayanupassana": [
+    {
+      "key": "kayanupassana",
+      "lemma": "kāyānupassanā",
+      "gloss": "following the body; body contemplation"
+    }
+  ],
+  "kayanupassanaanapanapabba": [
+    {
+      "key": "kayanupassanaanapanapabba",
+      "lemma": "kāyānupassanāānāpānapabba",
+      "gloss": "body contemplation, section on in and out breathing"
+    }
+  ],
+  "kathanca": [
+    {
+      "key": "katha",
+      "lemma": "katha",
+      "gloss": "with words; having talk; asking"
+    }
+  ],
+  "arannagato": [
+    {
+      "key": "arannagata",
+      "lemma": "araññagata",
+      "gloss": "gone to the forest; gone to the woods"
+    }
+  ],
+  "va": [
+    {
+      "key": "va",
+      "lemma": "va",
+      "gloss": "(gram) letter v; 37th letter of the alphabet; dento-labial semi-vowel"
+    }
+  ],
+  "rukkhamulagato": [
+    {
+      "key": "rukkhamulagata",
+      "lemma": "rukkhamūlagata",
+      "gloss": "gone to the foot of a tree"
+    }
+  ],
+  "sunnagaragato": [
+    {
+      "key": "sunnagaragata",
+      "lemma": "suññāgāragata",
+      "gloss": "gone to an uninhabited place; gone to an empty dwelling"
+    }
+  ],
+  "nisidati": [
+    {
+      "key": "nisidati",
+      "lemma": "nisīdati",
+      "gloss": "sits (on); sits down (in)"
+    }
+  ],
+  "pallankam": [
+    {
+      "key": "pallanka",
+      "lemma": "pallaṅka",
+      "gloss": "couch; seat; sofa"
+    }
+  ],
+  "abhujitva": [
+    {
+      "key": "abhujitva",
+      "lemma": "ābhujitvā",
+      "gloss": "having bent; having folded"
+    }
+  ],
+  "ujum": [
+    {
+      "key": "uju",
+      "lemma": "uju",
+      "gloss": "straight; upright; erect"
+    }
+  ],
+  "kayam": [
+    {
+      "key": "ki",
+      "lemma": "ki",
+      "gloss": "who?; what?; which?"
+    }
+  ],
+  "panidhaya": [
+    {
+      "key": "panidhaya",
+      "lemma": "paṇidhāya",
+      "gloss": "guiding; directing; determining; setting"
+    }
+  ],
+  "parimukham": [
+    {
+      "key": "parimukham",
+      "lemma": "parimukhaṃ",
+      "gloss": "as first priority; to the fore; (comm) directed towards the meditation object"
+    }
+  ],
+  "satim": [
+    {
+      "key": "santa",
+      "lemma": "santa",
+      "gloss": "existing; being; there is"
+    }
+  ],
+  "upatthapetva": [
+    {
+      "key": "upatthapetva",
+      "lemma": "upaṭṭhapetvā",
+      "gloss": "having set up; having made sure is present"
+    }
+  ],
+  "so": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "satova": [
+    {
+      "key": "sa",
+      "lemma": "sa",
+      "gloss": "own; one's own; one's own possession"
+    }
+  ],
+  "assasati": [
+    {
+      "key": "assasati",
+      "lemma": "assasati",
+      "gloss": "inhales; breathes in"
+    }
+  ],
+  "passasati": [
+    {
+      "key": "passasati",
+      "lemma": "passasati",
+      "gloss": "exhales; breathes out"
+    }
+  ],
+  "digham": [
+    {
+      "key": "digha",
+      "lemma": "dīgha",
+      "gloss": "long (in space or time); tall; deep"
+    }
+  ],
+  "assasanto": [
+    {
+      "key": "assasanta",
+      "lemma": "assasanta",
+      "gloss": "inhaling; breathing in"
+    }
+  ],
+  "pajanati": [
+    {
+      "key": "pajanati",
+      "lemma": "pajānāti",
+      "gloss": "knows; knows clearly; understands; distinguishes"
+    }
+  ],
+  "passasanto": [
+    {
+      "key": "passasanta",
+      "lemma": "passasanta",
+      "gloss": "exhaling; breathing out"
+    }
+  ],
+  "rassam": [
+    {
+      "key": "rassa",
+      "lemma": "rassa",
+      "gloss": "short; small"
+    }
+  ],
+  "sabbakayapatisamvedi": [
+    {
+      "key": "sabbakayapatisamvedi",
+      "lemma": "sabbakāyapaṭisaṃvedī",
+      "gloss": "experiencing the whole body; conscious of the whole body; sensitive to the whole process"
+    }
+  ],
+  "sikkhati": [
+    {
+      "key": "sikkhati",
+      "lemma": "sikkhati",
+      "gloss": "learns; trains (in); practices"
+    }
+  ],
+  "passambhayam": [
+    {
+      "key": "passambhayanta",
+      "lemma": "passambhayanta",
+      "gloss": "calming; stilling; settling; becoming quiet"
+    }
+  ],
+  "kayasankharam": [
+    {
+      "key": "kayasankhara",
+      "lemma": "kāyasaṅkhāra",
+      "gloss": "physical process; bodily function; breathing"
+    }
+  ],
+  "seyyathapi": [
+    {
+      "key": "seyyathapi",
+      "lemma": "seyyathāpi",
+      "gloss": "just like; as if; imagine if"
+    }
+  ],
+  "dakkho": [
+    {
+      "key": "dakkhi",
+      "lemma": "dakkhi",
+      "gloss": "saw"
+    }
+  ],
+  "bhamakaro": [
+    {
+      "key": "bhamakara",
+      "lemma": "bhamakāra",
+      "gloss": "turner; lathe operator"
+    }
+  ],
+  "bhamakarantevasi": [
+    {
+      "key": "bhamakarantevasi",
+      "lemma": "bhamakārantevāsī",
+      "gloss": "turner's assistant; lathe operator's apprentice"
+    }
+  ],
+  "anchanto": [
+    {
+      "key": "anchanta",
+      "lemma": "añchanta",
+      "gloss": "turning; cutting (on a lathe)"
+    }
+  ],
+  "evameva": [
+    {
+      "key": "evam",
+      "lemma": "evaṃ",
+      "gloss": "thus; this; like this; similarly; in the same manner; just as; such"
+    }
+  ],
+  "iti": [
+    {
+      "key": "iti",
+      "lemma": "iti",
+      "gloss": "thus; like this; this is; and so"
+    }
+  ],
+  "ajjhattam": [
+    {
+      "key": "ajjhatta",
+      "lemma": "ajjhatta",
+      "gloss": "inner; internal; personal; in oneself"
+    }
+  ],
+  "bahiddha": [
+    {
+      "key": "bahiddha",
+      "lemma": "bahiddha",
+      "gloss": "external; outward"
+    }
+  ],
+  "ajjhattabahiddha": [
+    {
+      "key": "ajjhattabahiddha",
+      "lemma": "ajjhattabahiddha",
+      "gloss": "internal and external; inner and outward"
+    }
+  ],
+  "samudayadhammanupassi": [
+    {
+      "key": "samudayadhammanupassi",
+      "lemma": "samudayadhammānupassī",
+      "gloss": "seeing the arising of phenomena (in); (or) contemplating the nature of arising (in)"
+    }
+  ],
+  "kayasmim": [
+    {
+      "key": "kaya",
+      "lemma": "kāya",
+      "gloss": "body; physical body; physical process"
+    }
+  ],
+  "vayadhammanupassi": [
+    {
+      "key": "vayadhammanupassi",
+      "lemma": "vayadhammānupassī",
+      "gloss": "seeing the disappearance of phenomena; (or) contemplating the nature of disappearance"
+    }
+  ],
+  "samudayavayadhammanupassi": [
+    {
+      "key": "samudayavayadhammanupassi",
+      "lemma": "samudayavayadhammānupassī",
+      "gloss": "seeing the arising and disappearance of phenomena; (or) contemplating the nature of arising and disappearance"
+    }
+  ],
+  "atthi": [
+    {
+      "key": "atthi",
+      "lemma": "atthi",
+      "gloss": "there is; there exists"
+    }
+  ],
+  "kayo": [
+    {
+      "key": "ki",
+      "lemma": "ki",
+      "gloss": "who?; what?; which?"
+    }
+  ],
+  "panassa": [
+    {
+      "key": "panassi",
+      "lemma": "panassi",
+      "gloss": "was lost; disappeared; went to ruin"
+    }
+  ],
+  "sati": [
+    {
+      "key": "santa",
+      "lemma": "santa",
+      "gloss": "existing; being; there is"
+    }
+  ],
+  "paccupatthita": [
+    {
+      "key": "paccupatthita",
+      "lemma": "paccupaṭṭhita",
+      "gloss": "present (towards); standing by"
+    }
+  ],
+  "hoti": [
+    {
+      "key": "hoti",
+      "lemma": "hoti",
+      "gloss": "is; becomes"
+    }
+  ],
+  "yavadeva": [
+    {
+      "key": "yavant",
+      "lemma": "yāvant",
+      "gloss": "as many as; however many"
+    }
+  ],
+  "nanamattaya": [
+    {
+      "key": "nanamatta",
+      "lemma": "ñāṇamattā",
+      "gloss": "measure of understanding; mere knowing"
+    }
+  ],
+  "patissatimattaya": [
+    {
+      "key": "patissatimatta",
+      "lemma": "paṭissatimattā",
+      "gloss": "measure of continuous mindfulness; degree of lucid self-awareness"
+    }
+  ],
+  "anissito": [
+    {
+      "key": "anissita",
+      "lemma": "anissita",
+      "gloss": "detached (from); disengaged (from); separated (from); independent (of)"
+    }
+  ],
+  "ca": [
+    {
+      "key": "ca",
+      "lemma": "ca",
+      "gloss": "(gram) letter c; 14th letter of the alphabet; palatal consonant"
+    }
+  ],
+  "na": [
+    {
+      "key": "na",
+      "lemma": "na",
+      "gloss": "no; not; neither; nor"
+    }
+  ],
+  "kinci": [
+    {
+      "key": "kaci",
+      "lemma": "kaci",
+      "gloss": "someone; something; anyone; anything; whoever"
+    }
+  ],
+  "upadiyati": [
+    {
+      "key": "upadiyati",
+      "lemma": "upādiyati",
+      "gloss": "grasps; holds (onto); clings (to); takes possession (of)"
+    }
+  ],
+  "evampi": [
+    {
+      "key": "evam",
+      "lemma": "evaṃ",
+      "gloss": "thus; this; like this; similarly; in the same manner; just as; such"
+    }
+  ],
+  "anapanapabbam": [
+    {
+      "key": "anapanapabba",
+      "lemma": "ānāpānapabba",
+      "gloss": "section on in and out breathing"
+    }
+  ],
+  "nitthitam": [
+    {
+      "key": "nitthita",
+      "lemma": "niṭṭhita",
+      "gloss": "finished; completed; accomplished"
+    }
+  ],
+  "kayanupassanairiyapathapabba": [
+    {
+      "key": "kayanupassanairiyapathapabba",
+      "lemma": "kāyānupassanāiriyāpathapabba",
+      "gloss": "body contemplation, section on postures"
+    }
+  ],
+  "puna": [
+    {
+      "key": "punati",
+      "lemma": "punāti",
+      "gloss": "cleans; purifies"
+    }
+  ],
+  "caparam": [
+    {
+      "key": "caparam",
+      "lemma": "caparaṃ",
+      "gloss": "and further; and what is more; furthermore"
+    }
+  ],
+  "gacchanto": [
+    {
+      "key": "gacchanta",
+      "lemma": "gacchanta",
+      "gloss": "going; walking; travelling"
+    }
+  ],
+  "thito": [
+    {
+      "key": "thita",
+      "lemma": "ṭhita",
+      "gloss": "stood; stood still"
+    }
+  ],
+  "nisinno": [
+    {
+      "key": "nisinna",
+      "lemma": "nisinna",
+      "gloss": "seated (in)"
+    }
+  ],
+  "sayano": [
+    {
+      "key": "sayana",
+      "lemma": "sayāna",
+      "gloss": "lying down"
+    }
+  ],
+  "yatha": [
+    {
+      "key": "yatha",
+      "lemma": "yathā",
+      "gloss": "like; as; as per; according to; how; in whatever way"
+    }
+  ],
+  "panihito": [
+    {
+      "key": "panihita",
+      "lemma": "paṇihita",
+      "gloss": "guided; directed; orientated; determined; intended"
+    }
+  ],
+  "tatha": [
+    {
+      "key": "tatha",
+      "lemma": "tatha",
+      "gloss": "true; real; actual"
+    }
+  ],
+  "nam": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "iriyapathapabbam": [
+    {
+      "key": "iriyapathapabba",
+      "lemma": "iriyāpathapabba",
+      "gloss": "section on postures"
+    }
+  ],
+  "abhikkante": [
+    {
+      "key": "abhikkanta",
+      "lemma": "abhikkanta",
+      "gloss": "superb; surpassing; excellent"
+    }
+  ],
+  "patikkante": [
+    {
+      "key": "patikkanta",
+      "lemma": "paṭikkanta",
+      "gloss": "returned; come back (from)"
+    }
+  ],
+  "sampajanakari": [
+    {
+      "key": "sampajanakari",
+      "lemma": "sampajānakārī",
+      "gloss": "forming a clear perception (of); creating a clear impression (of); cultivating attention (while)"
+    }
+  ],
+  "alokite": [
+    {
+      "key": "alokita",
+      "lemma": "ālokita",
+      "gloss": "looking ahead; looking forward"
+    }
+  ],
+  "vilokite": [
+    {
+      "key": "vilokita",
+      "lemma": "vilokita",
+      "gloss": "looking around"
+    }
+  ],
+  "saminjite": [
+    {
+      "key": "saminjita",
+      "lemma": "samiñjita",
+      "gloss": "bending back; folding back; flexing"
+    }
+  ],
+  "pasarite": [
+    {
+      "key": "pasarita",
+      "lemma": "pasārita",
+      "gloss": "stretching out; straightening; extending"
+    }
+  ],
+  "sanghatipattacivaradharane": [
+    {
+      "key": "sanghatipattacivaradharana",
+      "lemma": "saṅghāṭipattacīvaradhāraṇa",
+      "gloss": "carrying the outer robe, bowl and robe"
+    }
+  ],
+  "asite": [
+    {
+      "key": "asita",
+      "lemma": "asita",
+      "gloss": "eaten"
+    }
+  ],
+  "pite": [
+    {
+      "key": "pita",
+      "lemma": "pīta",
+      "gloss": "drunk"
+    }
+  ],
+  "khayite": [
+    {
+      "key": "khayita",
+      "lemma": "khāyita",
+      "gloss": "chewed; bitten; gnawed (by)"
+    }
+  ],
+  "sayite": [
+    {
+      "key": "sayita",
+      "lemma": "sāyita",
+      "gloss": "tasted; savoured"
+    }
+  ],
+  "uccarapassavakamme": [
+    {
+      "key": "uccarapassavakamma",
+      "lemma": "uccārapassāvakamma",
+      "gloss": "going to the toilet; defecating and urinating"
+    }
+  ],
+  "gate": [
+    {
+      "key": "gata",
+      "lemma": "gata",
+      "gloss": "gone (to); went (for)"
+    }
+  ],
+  "thite": [
+    {
+      "key": "thita",
+      "lemma": "ṭhita",
+      "gloss": "stood; stood still"
+    }
+  ],
+  "nisinne": [
+    {
+      "key": "nisinna",
+      "lemma": "nisinna",
+      "gloss": "seated (in)"
+    }
+  ],
+  "sutte": [
+    {
+      "key": "sutta",
+      "lemma": "sutta",
+      "gloss": "sleeping; asleep"
+    }
+  ],
+  "jagarite": [
+    {
+      "key": "jagarita",
+      "lemma": "jāgarita",
+      "gloss": "being awake"
+    }
+  ],
+  "bhasite": [
+    {
+      "key": "bhasita",
+      "lemma": "bhāsita",
+      "gloss": "said; spoken; recited (by)"
+    }
+  ],
+  "tunhibhave": [
+    {
+      "key": "tunhibhava",
+      "lemma": "tuṇhībhāva",
+      "gloss": "silence; keeping quiet; being silent; (comm) not talking"
+    }
+  ],
+  "pe": [
+    {
+      "key": "pati",
+      "lemma": "pāti",
+      "gloss": null
+    }
+  ],
+  "sampajanapabbam": [
+    {
+      "key": "sampajanapabba",
+      "lemma": "sampajānapabba",
+      "gloss": "section on knowing clearly"
+    }
+  ],
+  "kayanupassanapatikulamanasikarapabba": [
+    {
+      "key": "kayanupassanapatikulamanasikarapabba",
+      "lemma": "kāyānupassanāpaṭikūlamanasikārapabba",
+      "gloss": "body contemplation, section on attention to the repulsive"
+    }
+  ],
+  "imameva": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "uddham": [
+    {
+      "key": "uddha",
+      "lemma": "uddha",
+      "gloss": "upper; upwards; upright"
+    }
+  ],
+  "padatala": [
+    {
+      "key": "padatala",
+      "lemma": "pādatala",
+      "gloss": "sole of the foot"
+    }
+  ],
+  "adho": [
+    {
+      "key": "adho",
+      "lemma": "adho",
+      "gloss": "below; under"
+    }
+  ],
+  "kesamatthaka": [
+    {
+      "key": "kesamatthaka",
+      "lemma": "kesamatthaka",
+      "gloss": "top of the hair"
+    }
+  ],
+  "tacapariyantam": [
+    {
+      "key": "tacapariyanta",
+      "lemma": "tacapariyanta",
+      "gloss": "wrapped in skin; surrounded with skin"
+    }
+  ],
+  "puram": [
+    {
+      "key": "pura",
+      "lemma": "pūra",
+      "gloss": "full (of); filled (with); stuffed (with)"
+    }
+  ],
+  "nanappakarassa": [
+    {
+      "key": "nanappakara",
+      "lemma": "nānappakāra",
+      "gloss": "various; many different kinds of; manifold"
+    }
+  ],
+  "asucino": [
+    {
+      "key": "asuci",
+      "lemma": "asuci",
+      "gloss": "impure; unclean; filthy; foul; disgusting"
+    }
+  ],
+  "paccavekkhati": [
+    {
+      "key": "paccavekkhati",
+      "lemma": "paccavekkhati",
+      "gloss": "views; reviews; regards; reflects; considers; looks upon"
+    }
+  ],
+  "imasmim": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "kesa": [
+    {
+      "key": "kesa",
+      "lemma": "kesa",
+      "gloss": "(of a horse) with a mane"
+    }
+  ],
+  "loma": [
+    {
+      "key": "loma",
+      "lemma": "loma",
+      "gloss": "with hair; having (a kind of) hair; -haired"
+    }
+  ],
+  "nakha": [
+    {
+      "key": "nakha",
+      "lemma": "nakha",
+      "gloss": "fingernail; toenail"
+    }
+  ],
+  "danta": [
+    {
+      "key": "danta",
+      "lemma": "danta",
+      "gloss": "tooth"
+    }
+  ],
+  "taco": [
+    {
+      "key": "taca",
+      "lemma": "taca",
+      "gloss": "(of a human) skin"
+    }
+  ],
+  "mamsam": [
+    {
+      "key": "mamsa",
+      "lemma": "maṃsa",
+      "gloss": "meat; flesh"
+    }
+  ],
+  "nharu": [
+    {
+      "key": "nharu",
+      "lemma": "nhāru",
+      "gloss": "tendon; sinew"
+    }
+  ],
+  "atthiminjam": [
+    {
+      "key": "atthiminja",
+      "lemma": "aṭṭhimiñja",
+      "gloss": "bone marrow"
+    }
+  ],
+  "vakkam": [
+    {
+      "key": "vakka",
+      "lemma": "vakka",
+      "gloss": "kidney"
+    }
+  ],
+  "hadayam": [
+    {
+      "key": "hadaya",
+      "lemma": "hadaya",
+      "gloss": "heart"
+    }
+  ],
+  "yakanam": [
+    {
+      "key": "yakana",
+      "lemma": "yakana",
+      "gloss": "liver"
+    }
+  ],
+  "kilomakam": [
+    {
+      "key": "kilomaka",
+      "lemma": "kilomaka",
+      "gloss": "pleura; membrane"
+    }
+  ],
+  "pihakam": [
+    {
+      "key": "pihaka",
+      "lemma": "pihaka",
+      "gloss": "spleen"
+    }
+  ],
+  "papphasam": [
+    {
+      "key": "papphasa",
+      "lemma": "papphāsa",
+      "gloss": "lungs"
+    }
+  ],
+  "antam": [
+    {
+      "key": "anta",
+      "lemma": "anta",
+      "gloss": "(gram) final; ending with; finishing with"
+    }
+  ],
+  "antagunam": [
+    {
+      "key": "antaguna",
+      "lemma": "antaguṇa",
+      "gloss": "mesentery"
+    }
+  ],
+  "udariyam": [
+    {
+      "key": "udariya",
+      "lemma": "udariya",
+      "gloss": "stomach contents; undigested food"
+    }
+  ],
+  "karisam": [
+    {
+      "key": "karisa",
+      "lemma": "karīsa",
+      "gloss": "faeces; excrement"
+    }
+  ],
+  "pittam": [
+    {
+      "key": "pitta",
+      "lemma": "pitta",
+      "gloss": "bile"
+    }
+  ],
+  "semham": [
+    {
+      "key": "semha",
+      "lemma": "semha",
+      "gloss": "phlegm; mucous"
+    }
+  ],
+  "pubbo": [
+    {
+      "key": "pubba",
+      "lemma": "pubba",
+      "gloss": "previous; earlier; former"
+    }
+  ],
+  "lohitam": [
+    {
+      "key": "lohita",
+      "lemma": "lohita",
+      "gloss": "blood"
+    }
+  ],
+  "sedo": [
+    {
+      "key": "seda",
+      "lemma": "seda",
+      "gloss": "sweat; perspiration"
+    }
+  ],
+  "medo": [
+    {
+      "key": "meda",
+      "lemma": "meda",
+      "gloss": "fat"
+    }
+  ],
+  "assu": [
+    {
+      "key": "assa",
+      "lemma": "assa",
+      "gloss": "may be; could be; should be; would be; could become"
+    }
+  ],
+  "vasa": [
+    {
+      "key": "vasi",
+      "lemma": "vasi",
+      "gloss": "lived; stayed (in)"
+    }
+  ],
+  "khelo": [
+    {
+      "key": "khela",
+      "lemma": "kheḷa",
+      "gloss": "saliva; spit; phlegm"
+    }
+  ],
+  "singhanika": [
+    {
+      "key": "singhanika",
+      "lemma": "siṅghāṇikā",
+      "gloss": "snot; nasal mucous"
+    }
+  ],
+  "lasika": [
+    {
+      "key": "lasika",
+      "lemma": "lasikā",
+      "gloss": "synovial fluid"
+    }
+  ],
+  "ubhatomukha": [
+    {
+      "key": "ubhatomukha",
+      "lemma": "ubhatomukha",
+      "gloss": "double-mouthed; with an opening at each end"
+    }
+  ],
+  "putoli": [
+    {
+      "key": "putoli",
+      "lemma": "putoḷi",
+      "gloss": "sowing bag (with an opening at each end)"
+    }
+  ],
+  "pura": [
+    {
+      "key": "pura",
+      "lemma": "pūra",
+      "gloss": "full (of); filled (with); stuffed (with)"
+    }
+  ],
+  "nanavihitassa": [
+    {
+      "key": "nanavihita",
+      "lemma": "nānāvihita",
+      "gloss": "various kinds of; many different"
+    }
+  ],
+  "dhannassa": [
+    {
+      "key": "dhanna",
+      "lemma": "dhañña",
+      "gloss": "lucky; auspicious; fortunate"
+    }
+  ],
+  "seyyathidam": [
+    {
+      "key": "seyyathidam",
+      "lemma": "seyyathidaṃ",
+      "gloss": "i.e.; as follows"
+    }
+  ],
+  "salinam": [
+    {
+      "key": "sali",
+      "lemma": "sāli",
+      "gloss": "fine rice"
+    }
+  ],
+  "vihinam": [
+    {
+      "key": "vihi",
+      "lemma": "vīhi",
+      "gloss": "rice paddy; Oryza sativa"
+    }
+  ],
+  "mugganam": [
+    {
+      "key": "mugga",
+      "lemma": "mugga",
+      "gloss": "mung beans"
+    }
+  ],
+  "masanam": [
+    {
+      "key": "masa",
+      "lemma": "māsa",
+      "gloss": "month"
+    }
+  ],
+  "tilanam": [
+    {
+      "key": "tila",
+      "lemma": "tila",
+      "gloss": "sesame seed"
+    }
+  ],
+  "tandulanam": [
+    {
+      "key": "tandula",
+      "lemma": "taṇḍula",
+      "gloss": "dehusked rice; (comm) grain from grass"
+    }
+  ],
+  "tamenam": [
+    {
+      "key": "tamenam",
+      "lemma": "tamenaṃ",
+      "gloss": "that one; him; her; that thing; that person"
+    }
+  ],
+  "cakkhuma": [
+    {
+      "key": "cakkhumant",
+      "lemma": "cakkhumant",
+      "gloss": "with eyes; who can see; who has vision; gifted with sight"
+    }
+  ],
+  "puriso": [
+    {
+      "key": "purisa",
+      "lemma": "purisa",
+      "gloss": "man; male; person"
+    }
+  ],
+  "muncitva": [
+    {
+      "key": "muncitva",
+      "lemma": "muñcitvā",
+      "gloss": "having released; having let go"
+    }
+  ],
+  "paccavekkheyya": [
+    {
+      "key": "paccavekkhati",
+      "lemma": "paccavekkhati",
+      "gloss": "views; reviews; regards; reflects; considers; looks upon"
+    }
+  ],
+  "ime": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "sali": [
+    {
+      "key": "sali",
+      "lemma": "sāli",
+      "gloss": "fine rice"
+    }
+  ],
+  "vihi": [
+    {
+      "key": "vihi",
+      "lemma": "vīhi",
+      "gloss": "rice paddy; Oryza sativa"
+    }
+  ],
+  "mugga": [
+    {
+      "key": "mugga",
+      "lemma": "mugga",
+      "gloss": "mung beans"
+    }
+  ],
+  "masa": [
+    {
+      "key": "masa",
+      "lemma": "māsa",
+      "gloss": "month"
+    }
+  ],
+  "tila": [
+    {
+      "key": "tila",
+      "lemma": "tila",
+      "gloss": "sesame seed"
+    }
+  ],
+  "tandula": [
+    {
+      "key": "tandula",
+      "lemma": "taṇḍula",
+      "gloss": "dehusked rice; (comm) grain from grass"
+    }
+  ],
+  "patikulamanasikarapabbam": [
+    {
+      "key": "patikulamanasikarapabba",
+      "lemma": "paṭikūlamanasikārapabba",
+      "gloss": "section on attention to the repulsive"
+    }
+  ],
+  "kayanupassanadhatumanasikarapabba": [
+    {
+      "key": "kayanupassanadhatumanasikarapabba",
+      "lemma": "kāyānupassanādhātumanasikārapabba",
+      "gloss": "body contemplation, section on attention to the states"
+    }
+  ],
+  "yathathitam": [
+    {
+      "key": "yathathita",
+      "lemma": "yathāṭhita",
+      "gloss": "however it is standing; just as it is positioned"
+    }
+  ],
+  "yathapanihitam": [
+    {
+      "key": "yathapanihita",
+      "lemma": "yathāpaṇihita",
+      "gloss": "however it is positioned; however it is disposed"
+    }
+  ],
+  "dhatuso": [
+    {
+      "key": "dhatuso",
+      "lemma": "dhātuso",
+      "gloss": "as states; as elements; by way of the elements"
+    }
+  ],
+  "pathavidhatu": [
+    {
+      "key": "pathavidhatu",
+      "lemma": "pathavīdhātu",
+      "gloss": "solids; solid state; earth element"
+    }
+  ],
+  "apodhatu": [
+    {
+      "key": "apodhatu",
+      "lemma": "āpodhātu",
+      "gloss": "liquids; liquid state; (comm) element of cohesion"
+    }
+  ],
+  "tejodhatu": [
+    {
+      "key": "tejodhatu",
+      "lemma": "tejodhātu",
+      "gloss": "fiery state"
+    }
+  ],
+  "vayodhatu": [
+    {
+      "key": "vayodhatu",
+      "lemma": "vāyodhātu",
+      "gloss": "gas; gaseous state"
+    }
+  ],
+  "goghatako": [
+    {
+      "key": "goghataka",
+      "lemma": "goghātaka",
+      "gloss": "butcher"
+    }
+  ],
+  "goghatakantevasi": [
+    {
+      "key": "goghatakantevasi",
+      "lemma": "goghātakantevāsī",
+      "gloss": "butcher's apprentice; butcher's assistant"
+    }
+  ],
+  "gavim": [
+    {
+      "key": "gavi",
+      "lemma": "gāvī",
+      "gloss": "cow"
+    }
+  ],
+  "vadhitva": [
+    {
+      "key": "vadhitva",
+      "lemma": "vadhitvā",
+      "gloss": "having killed; having slaughtered; having slayed"
+    }
+  ],
+  "catumahapathe": [
+    {
+      "key": "catumahapatha",
+      "lemma": "catumahāpatha",
+      "gloss": "four-way intersection; crossroads; meeting of four great roads"
+    }
+  ],
+  "bilaso": [
+    {
+      "key": "bilaso",
+      "lemma": "bilaso",
+      "gloss": "into pieces; into portions"
+    }
+  ],
+  "vibhajitva": [
+    {
+      "key": "vibhajitva",
+      "lemma": "vibhajitvā",
+      "gloss": "having dissected; having cut up"
+    }
+  ],
+  "assa": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "dhatumanasikarapabbam": [
+    {
+      "key": "dhatumanasikarapabba",
+      "lemma": "dhātumanasikārapabba",
+      "gloss": "section on attention to the states"
+    }
+  ],
+  "kayanupassananavasivathikapabba": [
+    {
+      "key": "kayanupassananavasivathikapabba",
+      "lemma": "kāyānupassanānavasivathikapabba",
+      "gloss": "body contemplation, section on the nine charnel ground (contemplations)"
+    }
+  ],
+  "passeyya": [
+    {
+      "key": "passati",
+      "lemma": "passati",
+      "gloss": "sees"
+    }
+  ],
+  "sariram": [
+    {
+      "key": "sarira",
+      "lemma": "sarīra",
+      "gloss": "body"
+    }
+  ],
+  "sivathikaya": [
+    {
+      "key": "sivathika",
+      "lemma": "sivathikā",
+      "gloss": "charnel ground"
+    }
+  ],
+  "chadditam": [
+    {
+      "key": "chaddita",
+      "lemma": "chaḍḍita",
+      "gloss": "thrown away; discarded; abandoned; disposed of"
+    }
+  ],
+  "ekahamatam": [
+    {
+      "key": "ekahamata",
+      "lemma": "ekāhamata",
+      "gloss": "dead for one day; one day deceased"
+    }
+  ],
+  "dvihamatam": [
+    {
+      "key": "dvihamata",
+      "lemma": "dvīhamata",
+      "gloss": "dead for two days; two days deceased"
+    }
+  ],
+  "tihamatam": [
+    {
+      "key": "tihamata",
+      "lemma": "tīhamata",
+      "gloss": "dead for three days; three days deceased"
+    }
+  ],
+  "uddhumatakam": [
+    {
+      "key": "uddhumataka",
+      "lemma": "uddhumātaka",
+      "gloss": "(of a corpse) swollen; bloated"
+    }
+  ],
+  "vinilakam": [
+    {
+      "key": "vinilaka",
+      "lemma": "vinīlaka",
+      "gloss": "purple; livid; black and blue"
+    }
+  ],
+  "vipubbakajatam": [
+    {
+      "key": "vipubbakajata",
+      "lemma": "vipubbakajāta",
+      "gloss": "festering; suppurating; decomposing"
+    }
+  ],
+  "upasamharati": [
+    {
+      "key": "upasamharati",
+      "lemma": "upasaṃharati",
+      "gloss": "compares (with); likens (to)"
+    }
+  ],
+  "ayampi": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "evamdhammo": [
+    {
+      "key": "evamdhamma",
+      "lemma": "evaṃdhamma",
+      "gloss": "of such nature; of such character"
+    }
+  ],
+  "evambhavi": [
+    {
+      "key": "evambhavi",
+      "lemma": "evaṃbhāvī",
+      "gloss": "destined for this; thus fated; going to be such"
+    }
+  ],
+  "evamanatito": [
+    {
+      "key": "evamanatita",
+      "lemma": "evaṃanatīta",
+      "gloss": "not past this; subject to this in future; yet to experience this"
+    }
+  ],
+  "kakehi": [
+    {
+      "key": "kaka",
+      "lemma": "kāka",
+      "gloss": "crow"
+    }
+  ],
+  "khajjamanam": [
+    {
+      "key": "khajjamana",
+      "lemma": "khajjamāna",
+      "gloss": "being eaten; being devoured (by)"
+    }
+  ],
+  "kulalehi": [
+    {
+      "key": "kulala",
+      "lemma": "kulala",
+      "gloss": "bird of prey; eagle; hawk; osprey"
+    }
+  ],
+  "gijjhehi": [
+    {
+      "key": "gijjha",
+      "lemma": "gijjha",
+      "gloss": "vulture"
+    }
+  ],
+  "kankehi": [
+    {
+      "key": "kanka",
+      "lemma": "kaṅka",
+      "gloss": "crow"
+    }
+  ],
+  "sunakhehi": [
+    {
+      "key": "sunakha",
+      "lemma": "sunakha",
+      "gloss": "dog"
+    }
+  ],
+  "byagghehi": [
+    {
+      "key": "byaggha",
+      "lemma": "byaggha",
+      "gloss": "tiger"
+    }
+  ],
+  "dipihi": [
+    {
+      "key": "dipi",
+      "lemma": "dīpi",
+      "gloss": "leopard; panther"
+    }
+  ],
+  "singalehi": [
+    {
+      "key": "singala",
+      "lemma": "siṅgāla",
+      "gloss": "jackal"
+    }
+  ],
+  "vividhehi": [
+    {
+      "key": "vividha",
+      "lemma": "vividha",
+      "gloss": "various kinds of; assorted; multiple; many types of"
+    }
+  ],
+  "panakajatehi": [
+    {
+      "key": "panakajata",
+      "lemma": "pāṇakajāta",
+      "gloss": "kind of little creature; type of small animal"
+    }
+  ],
+  "atthikasankhalikam": [
+    {
+      "key": "atthikasankhalika",
+      "lemma": "aṭṭhikasaṅkhalikā",
+      "gloss": "skeleton"
+    }
+  ],
+  "samamsalohitam": [
+    {
+      "key": "samamsalohita",
+      "lemma": "samaṃsalohita",
+      "gloss": "with flesh and blood"
+    }
+  ],
+  "nharusambandham": [
+    {
+      "key": "nharusambandha",
+      "lemma": "nhārusambandha",
+      "gloss": "connected by tendons"
+    }
+  ],
+  "nimamsalohitamakkhitam": [
+    {
+      "key": "nimamsalohitamakkhita",
+      "lemma": "nimaṃsalohitamakkhita",
+      "gloss": "without flesh and smeared with blood"
+    }
+  ],
+  "apagatamamsalohitam": [
+    {
+      "key": "apagatamamsalohita",
+      "lemma": "apagatamaṃsalohita",
+      "gloss": "without flesh and blood"
+    }
+  ],
+  "atthikani": [
+    {
+      "key": "atthika",
+      "lemma": "aṭṭhika",
+      "gloss": "bone"
+    }
+  ],
+  "apagatasambandhani": [
+    {
+      "key": "apagatasambandha",
+      "lemma": "apagatasambandha",
+      "gloss": "disconnected; without connection"
+    }
+  ],
+  "disa": [
+    {
+      "key": "disa",
+      "lemma": "disa",
+      "gloss": "like; resembling; as; referring to"
+    }
+  ],
+  "vidisa": [
+    {
+      "key": "vidisa",
+      "lemma": "vidisā",
+      "gloss": "all directions; intermediate directions (e.g. north-east; south-west)"
+    }
+  ],
+  "vikkhittani": [
+    {
+      "key": "vikkhitta",
+      "lemma": "vikkhitta",
+      "gloss": "scattered; disconnected; distracted; (comm) because of restlessness and worry"
+    }
+  ],
+  "annena": [
+    {
+      "key": "anna",
+      "lemma": "añña",
+      "gloss": "another; other; different; someone else; not oneself"
+    }
+  ],
+  "hatthatthikam": [
+    {
+      "key": "hatthatthika",
+      "lemma": "hatthaṭṭhika",
+      "gloss": "hand bone"
+    }
+  ],
+  "padatthikam": [
+    {
+      "key": "padatthika",
+      "lemma": "pādaṭṭhika",
+      "gloss": "foot bone"
+    }
+  ],
+  "gopphakatthikam": [
+    {
+      "key": "gopphakatthika",
+      "lemma": "gopphakaṭṭhika",
+      "gloss": "ankle bone"
+    }
+  ],
+  "janghatthikam": [
+    {
+      "key": "janghatthika",
+      "lemma": "jaṅghaṭṭhika",
+      "gloss": "shin bone"
+    }
+  ],
+  "urutthikam": [
+    {
+      "key": "urutthika",
+      "lemma": "ūruṭṭhika",
+      "gloss": "thigh bone"
+    }
+  ],
+  "katitthikam": [
+    {
+      "key": "katitthika",
+      "lemma": "kaṭiṭṭhika",
+      "gloss": "hip bone"
+    }
+  ],
+  "phasukatthikam": [
+    {
+      "key": "phasukatthika",
+      "lemma": "phāsukaṭṭhika",
+      "gloss": "rib bone"
+    }
+  ],
+  "pitthitthikam": [
+    {
+      "key": "pitthitthika",
+      "lemma": "piṭṭhiṭṭhika",
+      "gloss": "backbone; spine; spinal column"
+    }
+  ],
+  "khandhatthikam": [
+    {
+      "key": "khandhatthika",
+      "lemma": "khandhaṭṭhika",
+      "gloss": "upper backbone"
+    }
+  ],
+  "givatthikam": [
+    {
+      "key": "givatthika",
+      "lemma": "gīvaṭṭhika",
+      "gloss": "neck bone"
+    }
+  ],
+  "hanukatthikam": [
+    {
+      "key": "hanukatthika",
+      "lemma": "hanukaṭṭhika",
+      "gloss": "jaw bone"
+    }
+  ],
+  "dantatthikam": [
+    {
+      "key": "dantatthika",
+      "lemma": "dantaṭṭhika",
+      "gloss": "teeth"
+    }
+  ],
+  "sisakataham": [
+    {
+      "key": "sisakataha",
+      "lemma": "sīsakaṭāha",
+      "gloss": "skull"
+    }
+  ],
+  "setani": [
+    {
+      "key": "seta",
+      "lemma": "seta",
+      "gloss": "white; pure white"
+    }
+  ],
+  "sankhavannapatibhagani": [
+    {
+      "key": "sankhavannapatibhaga",
+      "lemma": "saṅkhavaṇṇapaṭibhāga",
+      "gloss": "like the colour of a conch shell; bleached white"
+    }
+  ],
+  "punjakitani": [
+    {
+      "key": "punjakita",
+      "lemma": "puñjakita",
+      "gloss": "heaped in a pile"
+    }
+  ],
+  "terovassikani": [
+    {
+      "key": "terovassika",
+      "lemma": "terovassika",
+      "gloss": "more than a year old; many years old"
+    }
+  ],
+  "putini": [
+    {
+      "key": "puti",
+      "lemma": "pūti",
+      "gloss": "fermented; foul-smelling; fetid; stinking; rotten; putrid"
+    }
+  ],
+  "cunnakajatani": [
+    {
+      "key": "cunnakajata",
+      "lemma": "cuṇṇakajāta",
+      "gloss": "crumbled to dust; become powder"
+    }
+  ],
+  "navasivathikapabbam": [
+    {
+      "key": "navasivathikapabba",
+      "lemma": "navasivathikapabba",
+      "gloss": "section on the nine charnel ground (contemplations)"
+    }
+  ],
+  "cuddasakayanupassana": [
+    {
+      "key": "cuddasakayanupassana",
+      "lemma": "cuddasakāyānupassanā",
+      "gloss": "fourteen body contemplations"
+    }
+  ],
+  "nitthita": [
+    {
+      "key": "nitthita",
+      "lemma": "niṭṭhita",
+      "gloss": "finished; completed; accomplished"
+    }
+  ],
+  "vedananupassana": [
+    {
+      "key": "vedananupassana",
+      "lemma": "vedanānupassanā",
+      "gloss": "following felt experience; contemplating feeling tone"
+    }
+  ],
+  "sukham": [
+    {
+      "key": "sukha",
+      "lemma": "sukha",
+      "gloss": "easy (on); comfortable (for); pleasant (for); good (for); contented"
+    }
+  ],
+  "vedanam": [
+    {
+      "key": "vedana",
+      "lemma": "vedana",
+      "gloss": "with felt experience; with a feeling; having a feeling tone"
+    }
+  ],
+  "vedayamano": [
+    {
+      "key": "vedayamana",
+      "lemma": "vedayamāna",
+      "gloss": "feeling; experiencing; sensing"
+    }
+  ],
+  "dukkham": [
+    {
+      "key": "dukkha",
+      "lemma": "dukkha",
+      "gloss": "uncomfortable; unpleasant"
+    }
+  ],
+  "adukkhamasukham": [
+    {
+      "key": "adukkhamasukha",
+      "lemma": "adukkhamasukha",
+      "gloss": "neutral; neither unpleasant nor pleasant; neither comfortable nor uncomfortable"
+    }
+  ],
+  "samisam": [
+    {
+      "key": "samisa",
+      "lemma": "sāmisa",
+      "gloss": "fleshly; carnal; physical; worldly; of the flesh"
+    }
+  ],
+  "niramisam": [
+    {
+      "key": "niramisa",
+      "lemma": "nirāmisa",
+      "gloss": "not worldly; spiritual; not of the flesh; (comm) free from defilements"
+    }
+  ],
+  "vedana": [
+    {
+      "key": "vedana",
+      "lemma": "vedana",
+      "gloss": "with felt experience; with a feeling; having a feeling tone"
+    }
+  ],
+  "cittanupassana": [
+    {
+      "key": "cittanupassana",
+      "lemma": "cittānupassanā",
+      "gloss": "following the mind; contemplating the mind; mind-watching"
+    }
+  ],
+  "saragam": [
+    {
+      "key": "saraga",
+      "lemma": "sarāga",
+      "gloss": "with greed; with lust; desirous; passionate; inflamed; infatuated"
+    }
+  ],
+  "cittam": [
+    {
+      "key": "citta",
+      "lemma": "citta",
+      "gloss": "decorated; beautiful; adorned"
+    }
+  ],
+  "vitaragam": [
+    {
+      "key": "vitaraga",
+      "lemma": "vītarāga",
+      "gloss": "free from desire; without lust; free from passion (for)"
+    }
+  ],
+  "sadosam": [
+    {
+      "key": "sadosa",
+      "lemma": "sadosa",
+      "gloss": "with hatred; with ill-will"
+    }
+  ],
+  "vitadosam": [
+    {
+      "key": "vitadosa",
+      "lemma": "vītadosa",
+      "gloss": "free from hatred; without ill-will"
+    }
+  ],
+  "samoham": [
+    {
+      "key": "samoha",
+      "lemma": "samoha",
+      "gloss": "deluded; confused; befuddled"
+    }
+  ],
+  "vitamoham": [
+    {
+      "key": "vitamoha",
+      "lemma": "vītamoha",
+      "gloss": "free from delusion; free from confusion"
+    }
+  ],
+  "sankhittam": [
+    {
+      "key": "sankhitta",
+      "lemma": "saṅkhitta",
+      "gloss": "concise; brief; short; abbreviated; contracted"
+    }
+  ],
+  "vikkhittam": [
+    {
+      "key": "vikkhitta",
+      "lemma": "vikkhitta",
+      "gloss": "scattered; disconnected; distracted; (comm) because of restlessness and worry"
+    }
+  ],
+  "mahaggatam": [
+    {
+      "key": "mahaggata",
+      "lemma": "mahaggata",
+      "gloss": "enlarged; exalted; expansive; grand; impressive"
+    }
+  ],
+  "amahaggatam": [
+    {
+      "key": "amahaggata",
+      "lemma": "amahaggata",
+      "gloss": "narrow; not enlarged; not exalted; unexpansive; not impressive"
+    }
+  ],
+  "sauttaram": [
+    {
+      "key": "sauttara",
+      "lemma": "sauttara",
+      "gloss": "inferior; surpassable; exceed-able"
+    }
+  ],
+  "anuttaram": [
+    {
+      "key": "anuttara",
+      "lemma": "anuttara",
+      "gloss": "highest (of); unsurpassed (by); incomparable (to); superior (to)"
+    }
+  ],
+  "samahitam": [
+    {
+      "key": "samahita",
+      "lemma": "samāhita",
+      "gloss": "meditatively composed; centred; collected; settled; steadied"
+    }
+  ],
+  "asamahitam": [
+    {
+      "key": "asamahita",
+      "lemma": "asamāhita",
+      "gloss": "not meditatively composed; scattered; uncollected; unsettled; distracted; unsteady"
+    }
+  ],
+  "vimuttam": [
+    {
+      "key": "vimutta",
+      "lemma": "vimutta",
+      "gloss": "freed; liberated; released; emancipated (from)"
+    }
+  ],
+  "avimuttam": [
+    {
+      "key": "avimutta",
+      "lemma": "avimutta",
+      "gloss": "not free; not liberated"
+    }
+  ],
+  "cittasmim": [
+    {
+      "key": "citta",
+      "lemma": "citta",
+      "gloss": "decorated; beautiful; adorned"
+    }
+  ],
+  "dhammanupassana": [
+    {
+      "key": "dhammanupassana",
+      "lemma": "dhammānupassanā",
+      "gloss": "following mental phenomena; contemplating qualia"
+    }
+  ],
+  "dhammanupassananivaranapabba": [
+    {
+      "key": "dhammanupassananivaranapabba",
+      "lemma": "dhammānupassanānīvaraṇapabba",
+      "gloss": "contemplating qualia, section on the obstructions"
+    }
+  ],
+  "pancasu": [
+    {
+      "key": "panca",
+      "lemma": "pañca",
+      "gloss": "five (5)"
+    }
+  ],
+  "nivaranesu": [
+    {
+      "key": "nivarana",
+      "lemma": "nīvaraṇa",
+      "gloss": "obstacle; obstruction; barrier; hindrance"
+    }
+  ],
+  "pana": [
+    {
+      "key": "pana",
+      "lemma": "pana",
+      "gloss": "moreover; and so; but; or; however"
+    }
+  ],
+  "santam": [
+    {
+      "key": "santa",
+      "lemma": "santa",
+      "gloss": "existing; being; there is"
+    }
+  ],
+  "kamacchandam": [
+    {
+      "key": "kamacchanda",
+      "lemma": "kāmacchanda",
+      "gloss": "interest in sensual pleasure; sensual desire; sensual impulse (for)"
+    }
+  ],
+  "kamacchando": [
+    {
+      "key": "kamacchanda",
+      "lemma": "kāmacchanda",
+      "gloss": "interest in sensual pleasure; sensual desire; sensual impulse (for)"
+    }
+  ],
+  "asantam": [
+    {
+      "key": "asanta",
+      "lemma": "asanta",
+      "gloss": "untrue; false"
+    }
+  ],
+  "natthi": [
+    {
+      "key": "natthi",
+      "lemma": "natthi",
+      "gloss": "is not; it is not; there is not; there is no; there is nothing"
+    }
+  ],
+  "anuppannassa": [
+    {
+      "key": "anuppanna",
+      "lemma": "anuppanna",
+      "gloss": "unborn; unarisen; not existing; nonexistent"
+    }
+  ],
+  "kamacchandassa": [
+    {
+      "key": "kamacchanda",
+      "lemma": "kāmacchanda",
+      "gloss": "interest in sensual pleasure; sensual desire; sensual impulse (for)"
+    }
+  ],
+  "uppado": [
+    {
+      "key": "uppada",
+      "lemma": "uppāda",
+      "gloss": "arising; appearance; coming into being (of)"
+    }
+  ],
+  "tanca": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "uppannassa": [
+    {
+      "key": "uppanna",
+      "lemma": "uppanna",
+      "gloss": "arisen; appeared; come into being (in)"
+    }
+  ],
+  "pahanam": [
+    {
+      "key": "pahana",
+      "lemma": "pahāna",
+      "gloss": "giving up; letting go; removing; abandoning (of)"
+    }
+  ],
+  "pahinassa": [
+    {
+      "key": "pahina",
+      "lemma": "pahīna",
+      "gloss": "abandoned; dispelled; eliminated; removed; given up"
+    }
+  ],
+  "ayatim": [
+    {
+      "key": "ayanta",
+      "lemma": "āyanta",
+      "gloss": "approaching; coming; arriving"
+    }
+  ],
+  "anuppado": [
+    {
+      "key": "anuppada",
+      "lemma": "anuppāda",
+      "gloss": "non-arising; non-appearance; not coming into existence"
+    }
+  ],
+  "byapadam": [
+    {
+      "key": "byapada",
+      "lemma": "byāpāda",
+      "gloss": "dislike; ill-will; hatred; hostility; enmity; malevolence (towards)"
+    }
+  ],
+  "byapado": [
+    {
+      "key": "byapada",
+      "lemma": "byāpāda",
+      "gloss": "dislike; ill-will; hatred; hostility; enmity; malevolence (towards)"
+    }
+  ],
+  "byapadassa": [
+    {
+      "key": "byapada",
+      "lemma": "byāpāda",
+      "gloss": "dislike; ill-will; hatred; hostility; enmity; malevolence (towards)"
+    }
+  ],
+  "thinamiddham": [
+    {
+      "key": "thinamiddha",
+      "lemma": "thinamiddha",
+      "gloss": "dull and drowsy; having sloth and torpor"
+    }
+  ],
+  "thinamiddhassa": [
+    {
+      "key": "thinamiddha",
+      "lemma": "thinamiddha",
+      "gloss": "dull and drowsy; having sloth and torpor"
+    }
+  ],
+  "uddhaccakukkuccam": [
+    {
+      "key": "uddhaccakukkucca",
+      "lemma": "uddhaccakukkucca",
+      "gloss": "restlessness and uneasiness; agitation and anxiety"
+    }
+  ],
+  "uddhaccakukkuccassa": [
+    {
+      "key": "uddhaccakukkucca",
+      "lemma": "uddhaccakukkucca",
+      "gloss": "restlessness and uneasiness; agitation and anxiety"
+    }
+  ],
+  "vicikiccham": [
+    {
+      "key": "vicikiccha",
+      "lemma": "vicikiccha",
+      "gloss": "with doubt; having uncertainty; being indecisive (about)"
+    }
+  ],
+  "vicikiccha": [
+    {
+      "key": "vicikiccha",
+      "lemma": "vicikiccha",
+      "gloss": "with doubt; having uncertainty; being indecisive (about)"
+    }
+  ],
+  "anuppannaya": [
+    {
+      "key": "anuppanna",
+      "lemma": "anuppanna",
+      "gloss": "unborn; unarisen; not existing; nonexistent"
+    }
+  ],
+  "vicikicchaya": [
+    {
+      "key": "vicikiccha",
+      "lemma": "vicikiccha",
+      "gloss": "with doubt; having uncertainty; being indecisive (about)"
+    }
+  ],
+  "uppannaya": [
+    {
+      "key": "uppanna",
+      "lemma": "uppanna",
+      "gloss": "arisen; appeared; come into being (in)"
+    }
+  ],
+  "pahinaya": [
+    {
+      "key": "pahina",
+      "lemma": "pahīna",
+      "gloss": "abandoned; dispelled; eliminated; removed; given up"
+    }
+  ],
+  "dhamma": [
+    {
+      "key": "dhamma",
+      "lemma": "dhamma",
+      "gloss": "of such nature; liable (to); prone (to); destined (for)"
+    }
+  ],
+  "nivaranapabbam": [
+    {
+      "key": "nivaranapabba",
+      "lemma": "nīvaraṇapabba",
+      "gloss": "section on the obstructions"
+    }
+  ],
+  "dhammanupassanakhandhapabba": [
+    {
+      "key": "dhammanupassanakhandhapabba",
+      "lemma": "dhammānupassanākhandhapabba",
+      "gloss": "contemplating qualia, section on the aggregates"
+    }
+  ],
+  "upadanakkhandhesu": [
+    {
+      "key": "upadanakkhandha",
+      "lemma": "upādānakkhandha",
+      "gloss": "aggregates that are clung to; physical and mental conglomerations that are held onto as a self"
+    }
+  ],
+  "rupam": [
+    {
+      "key": "rupa",
+      "lemma": "rūpa",
+      "gloss": "of character; having nature of; of type; of kind; having the quality of; appearing as"
+    }
+  ],
+  "rupassa": [
+    {
+      "key": "rupa",
+      "lemma": "rūpa",
+      "gloss": "of character; having nature of; of type; of kind; having the quality of; appearing as"
+    }
+  ],
+  "samudayo": [
+    {
+      "key": "samudaya",
+      "lemma": "samudaya",
+      "gloss": "source; origination; arising; appearance (of)"
+    }
+  ],
+  "atthangamo": [
+    {
+      "key": "atthangama",
+      "lemma": "atthaṅgama",
+      "gloss": "disappearance; vanishing; settling down; subsiding; passing away (of)"
+    }
+  ],
+  "vedanaya": [
+    {
+      "key": "vedana",
+      "lemma": "vedana",
+      "gloss": "with felt experience; with a feeling; having a feeling tone"
+    }
+  ],
+  "sanna": [
+    {
+      "key": "sanna",
+      "lemma": "sañña",
+      "gloss": "perceiving; having perception; regarding (as)"
+    }
+  ],
+  "sannaya": [
+    {
+      "key": "sanna",
+      "lemma": "sañña",
+      "gloss": "perceiving; having perception; regarding (as)"
+    }
+  ],
+  "sankhara": [
+    {
+      "key": "sankhara",
+      "lemma": "saṅkhāra",
+      "gloss": "intention; volitional formation; choice; karmic activity"
+    }
+  ],
+  "sankharanam": [
+    {
+      "key": "sankhara",
+      "lemma": "saṅkhāra",
+      "gloss": "intention; volitional formation; choice; karmic activity"
+    }
+  ],
+  "vinnanam": [
+    {
+      "key": "vinnana",
+      "lemma": "viññāṇa",
+      "gloss": "awareness; consciousness; cognition; mind; fifth of the five aggregates"
+    }
+  ],
+  "vinnanassa": [
+    {
+      "key": "vinnana",
+      "lemma": "viññāṇa",
+      "gloss": "awareness; consciousness; cognition; mind; fifth of the five aggregates"
+    }
+  ],
+  "khandhapabbam": [
+    {
+      "key": "khandhapabba",
+      "lemma": "khandhapabba",
+      "gloss": "section on the aggregates"
+    }
+  ],
+  "dhammanupassanaayatanapabba": [
+    {
+      "key": "dhammanupassanaayatanapabba",
+      "lemma": "dhammānupassanāāyatanapabba",
+      "gloss": "contemplating qualia, section on the sense fields"
+    }
+  ],
+  "chasu": [
+    {
+      "key": "cha",
+      "lemma": "cha",
+      "gloss": "six (6)"
+    }
+  ],
+  "ajjhattikabahiresu": [
+    {
+      "key": "ajjhattikabahira",
+      "lemma": "ajjhattikabāhira",
+      "gloss": "internal and external; personal and other"
+    }
+  ],
+  "ayatanesu": [
+    {
+      "key": "ayatana",
+      "lemma": "āyatana",
+      "gloss": "sense base; internal sense organ"
+    }
+  ],
+  "cakkhunca": [
+    {
+      "key": "cakkhu",
+      "lemma": "cakkhu",
+      "gloss": "eye"
+    }
+  ],
+  "rupe": [
+    {
+      "key": "rupa",
+      "lemma": "rūpa",
+      "gloss": "of character; having nature of; of type; of kind; having the quality of; appearing as"
+    }
+  ],
+  "yanca": [
+    {
+      "key": "ya",
+      "lemma": "ya",
+      "gloss": "whoever; whatever; whichever"
+    }
+  ],
+  "tadubhayam": [
+    {
+      "key": "tadubhaya",
+      "lemma": "tadubhaya",
+      "gloss": "both of those"
+    }
+  ],
+  "paticca": [
+    {
+      "key": "paticca",
+      "lemma": "paṭicca",
+      "gloss": null
+    }
+  ],
+  "uppajjati": [
+    {
+      "key": "uppajjati",
+      "lemma": "uppajjati",
+      "gloss": "appears; arises; occurs; takes place (for or in)"
+    }
+  ],
+  "samyojanam": [
+    {
+      "key": "samyojana",
+      "lemma": "saṃyojana",
+      "gloss": "with a fetter; having a chain; about a bond; regarding a thing which binds"
+    }
+  ],
+  "samyojanassa": [
+    {
+      "key": "samyojana",
+      "lemma": "saṃyojana",
+      "gloss": "with a fetter; having a chain; about a bond; regarding a thing which binds"
+    }
+  ],
+  "sotanca": [
+    {
+      "key": "sota",
+      "lemma": "sota",
+      "gloss": "stream; river; current"
+    }
+  ],
+  "sadde": [
+    {
+      "key": "sadda",
+      "lemma": "sadda",
+      "gloss": "sound; noise"
+    }
+  ],
+  "ghananca": [
+    {
+      "key": "ghana",
+      "lemma": "ghāna",
+      "gloss": "nose"
+    }
+  ],
+  "gandhe": [
+    {
+      "key": "gandha",
+      "lemma": "gandha",
+      "gloss": "smell; scent; odour"
+    }
+  ],
+  "jivhanca": [
+    {
+      "key": "jivha",
+      "lemma": "jivhā",
+      "gloss": "tongue"
+    }
+  ],
+  "rase": [
+    {
+      "key": "rasa",
+      "lemma": "rasa",
+      "gloss": "taste; flavour"
+    }
+  ],
+  "kayanca": [
+    {
+      "key": "ki",
+      "lemma": "ki",
+      "gloss": "who?; what?; which?"
+    }
+  ],
+  "photthabbe": [
+    {
+      "key": "photthabba",
+      "lemma": "phoṭṭhabba",
+      "gloss": null
+    }
+  ],
+  "mananca": [
+    {
+      "key": "manas",
+      "lemma": "manas",
+      "gloss": "mind; mental faculty; intellect"
+    }
+  ],
+  "dhamme": [
+    {
+      "key": "dhamma",
+      "lemma": "dhamma",
+      "gloss": "of such nature; liable (to); prone (to); destined (for)"
+    }
+  ],
+  "ayatanapabbam": [
+    {
+      "key": "ayatanapabba",
+      "lemma": "āyatanapabba",
+      "gloss": "section on the sense fields"
+    }
+  ],
+  "dhammanupassanabojjhangapabba": [
+    {
+      "key": "dhammanupassanabojjhangapabba",
+      "lemma": "dhammānupassanābojjhaṅgapabba",
+      "gloss": "contemplating qualia, section on the factors of awakening"
+    }
+  ],
+  "sattasu": [
+    {
+      "key": "satta",
+      "lemma": "satta",
+      "gloss": "seven (7)"
+    }
+  ],
+  "bojjhangesu": [
+    {
+      "key": "bojjhanga",
+      "lemma": "bojjhaṅga",
+      "gloss": "element of awakening; factor of enlightenment"
+    }
+  ],
+  "satisambojjhangam": [
+    {
+      "key": "satisambojjhanga",
+      "lemma": "satisambojjhaṅga",
+      "gloss": "mindfulness as an element of awakening; remembering as factor of enlightenment"
+    }
+  ],
+  "satisambojjhango": [
+    {
+      "key": "satisambojjhanga",
+      "lemma": "satisambojjhaṅga",
+      "gloss": "mindfulness as an element of awakening; remembering as factor of enlightenment"
+    }
+  ],
+  "satisambojjhangassa": [
+    {
+      "key": "satisambojjhanga",
+      "lemma": "satisambojjhaṅga",
+      "gloss": "mindfulness as an element of awakening; remembering as factor of enlightenment"
+    }
+  ],
+  "bhavanaya": [
+    {
+      "key": "bhavana",
+      "lemma": "bhāvanā",
+      "gloss": "developing; cultivating; meditating"
+    }
+  ],
+  "paripuri": [
+    {
+      "key": "paripuri",
+      "lemma": "pāripūri",
+      "gloss": "fulfilment; completion; culmination; maturity (of)"
+    }
+  ],
+  "dhammavicayasambojjhangam": [
+    {
+      "key": "dhammavicayasambojjhanga",
+      "lemma": "dhammavicayasambojjhaṅga",
+      "gloss": "investigation of reality as an element of awakening; analysing the teaching as an factor of enlightenment"
+    }
+  ],
+  "dhammavicayasambojjhango": [
+    {
+      "key": "dhammavicayasambojjhanga",
+      "lemma": "dhammavicayasambojjhaṅga",
+      "gloss": "investigation of reality as an element of awakening; analysing the teaching as an factor of enlightenment"
+    }
+  ],
+  "dhammavicayasambojjhangassa": [
+    {
+      "key": "dhammavicayasambojjhanga",
+      "lemma": "dhammavicayasambojjhaṅga",
+      "gloss": "investigation of reality as an element of awakening; analysing the teaching as an factor of enlightenment"
+    }
+  ],
+  "viriyasambojjhangam": [
+    {
+      "key": "viriyasambojjhanga",
+      "lemma": "vīriyasambojjhaṅga",
+      "gloss": "effort as an element of awakening; energy as a factor of enlightenment"
+    }
+  ],
+  "viriyasambojjhango": [
+    {
+      "key": "viriyasambojjhanga",
+      "lemma": "vīriyasambojjhaṅga",
+      "gloss": "effort as an element of awakening; energy as a factor of enlightenment"
+    }
+  ],
+  "viriyasambojjhangassa": [
+    {
+      "key": "viriyasambojjhanga",
+      "lemma": "vīriyasambojjhaṅga",
+      "gloss": "effort as an element of awakening; energy as a factor of enlightenment"
+    }
+  ],
+  "pitisambojjhangam": [
+    {
+      "key": "pitisambojjhanga",
+      "lemma": "pītisambojjhaṅga",
+      "gloss": "delight as an element of awakening; joy as an factor of enlightenment"
+    }
+  ],
+  "pitisambojjhango": [
+    {
+      "key": "pitisambojjhanga",
+      "lemma": "pītisambojjhaṅga",
+      "gloss": "delight as an element of awakening; joy as an factor of enlightenment"
+    }
+  ],
+  "pitisambojjhangassa": [
+    {
+      "key": "pitisambojjhanga",
+      "lemma": "pītisambojjhaṅga",
+      "gloss": "delight as an element of awakening; joy as an factor of enlightenment"
+    }
+  ],
+  "passaddhisambojjhangam": [
+    {
+      "key": "passaddhisambojjhanga",
+      "lemma": "passaddhisambojjhaṅga",
+      "gloss": "tranquillity as an element of awakening; serenity as a factor of enlightenment"
+    }
+  ],
+  "passaddhisambojjhango": [
+    {
+      "key": "passaddhisambojjhanga",
+      "lemma": "passaddhisambojjhaṅga",
+      "gloss": "tranquillity as an element of awakening; serenity as a factor of enlightenment"
+    }
+  ],
+  "passaddhisambojjhangassa": [
+    {
+      "key": "passaddhisambojjhanga",
+      "lemma": "passaddhisambojjhaṅga",
+      "gloss": "tranquillity as an element of awakening; serenity as a factor of enlightenment"
+    }
+  ],
+  "samadhisambojjhangam": [
+    {
+      "key": "samadhisambojjhanga",
+      "lemma": "samādhisambojjhaṅga",
+      "gloss": "stability of mind as an element of awakening; meditative composure as a factor of enlightenment"
+    }
+  ],
+  "samadhisambojjhango": [
+    {
+      "key": "samadhisambojjhanga",
+      "lemma": "samādhisambojjhaṅga",
+      "gloss": "stability of mind as an element of awakening; meditative composure as a factor of enlightenment"
+    }
+  ],
+  "samadhisambojjhangassa": [
+    {
+      "key": "samadhisambojjhanga",
+      "lemma": "samādhisambojjhaṅga",
+      "gloss": "stability of mind as an element of awakening; meditative composure as a factor of enlightenment"
+    }
+  ],
+  "upekkhasambojjhangam": [
+    {
+      "key": "upekkhasambojjhanga",
+      "lemma": "upekkhāsambojjhaṅga",
+      "gloss": "equanimity as an element of awakening; mental poise as a factor of enlightenment"
+    }
+  ],
+  "upekkhasambojjhango": [
+    {
+      "key": "upekkhasambojjhanga",
+      "lemma": "upekkhāsambojjhaṅga",
+      "gloss": "equanimity as an element of awakening; mental poise as a factor of enlightenment"
+    }
+  ],
+  "upekkhasambojjhangassa": [
+    {
+      "key": "upekkhasambojjhanga",
+      "lemma": "upekkhāsambojjhaṅga",
+      "gloss": "equanimity as an element of awakening; mental poise as a factor of enlightenment"
+    }
+  ],
+  "bojjhangapabbam": [
+    {
+      "key": "bojjhangapabba",
+      "lemma": "bojjhaṅgapabba",
+      "gloss": "section on the factors of awakening"
+    }
+  ],
+  "dhammanupassanasaccapabba": [
+    {
+      "key": "dhammanupassanasaccapabba",
+      "lemma": "dhammānupassanāsaccapabba",
+      "gloss": "contemplating qualia, section on the truths"
+    }
+  ],
+  "catusu": [
+    {
+      "key": "catu",
+      "lemma": "catu",
+      "gloss": "four (4)"
+    }
+  ],
+  "ariyasaccesu": [
+    {
+      "key": "ariyasacca",
+      "lemma": "ariyasacca",
+      "gloss": "truth of the Buddha; noble truth"
+    }
+  ],
+  "idam": [
+    {
+      "key": "ima",
+      "lemma": "ima",
+      "gloss": "this"
+    }
+  ],
+  "yathabhutam": [
+    {
+      "key": "yathabhuta",
+      "lemma": "yathābhūta",
+      "gloss": "as it is; in reality; of such nature"
+    }
+  ],
+  "dukkhasamudayo": [
+    {
+      "key": "dukkhasamudaya",
+      "lemma": "dukkhasamudaya",
+      "gloss": "source of stress; arising of suffering; appearance of discomfort"
+    }
+  ],
+  "dukkhanirodho": [
+    {
+      "key": "dukkhanirodha",
+      "lemma": "dukkhanirodha",
+      "gloss": "end of suffering; cessation of distress"
+    }
+  ],
+  "dukkhanirodhagamini": [
+    {
+      "key": "dukkhanirodhagami",
+      "lemma": "dukkhanirodhagāmī",
+      "gloss": "leading to the cessation of suffering"
+    }
+  ],
+  "patipada": [
+    {
+      "key": "patipada",
+      "lemma": "paṭipada",
+      "gloss": "who is walking the path; who is practising the path; going along"
+    }
+  ],
+  "saccapabbam": [
+    {
+      "key": "saccapabba",
+      "lemma": "saccapabba",
+      "gloss": "section on the truths"
+    }
+  ],
+  "yo": [
+    {
+      "key": "ya",
+      "lemma": "ya",
+      "gloss": "whoever; whatever; whichever"
+    }
+  ],
+  "hi": [
+    {
+      "key": "hi",
+      "lemma": "hi",
+      "gloss": "(gram) hi; verbal ending of imperative 2nd person singular"
+    }
+  ],
+  "koci": [
+    {
+      "key": "kaci",
+      "lemma": "kaci",
+      "gloss": "someone; something; anyone; anything; whoever"
+    }
+  ],
+  "satipatthane": [
+    {
+      "key": "satipatthana",
+      "lemma": "satipaṭṭhāna",
+      "gloss": "attending mindfully; being present with mindfulness"
+    }
+  ],
+  "bhaveyya": [
+    {
+      "key": "bhaveti",
+      "lemma": "bhāveti",
+      "gloss": "cultivates; develops"
+    }
+  ],
+  "satta": [
+    {
+      "key": "satta",
+      "lemma": "satta",
+      "gloss": "clung; stuck; attached (to)"
+    }
+  ],
+  "vassani": [
+    {
+      "key": "vassa",
+      "lemma": "vassa",
+      "gloss": "year"
+    }
+  ],
+  "tassa": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "dvinnam": [
+    {
+      "key": "dvi",
+      "lemma": "dvi",
+      "gloss": "two (2)"
+    }
+  ],
+  "phalanam": [
+    {
+      "key": "phala",
+      "lemma": "phala",
+      "gloss": "fruit; nut; berry"
+    }
+  ],
+  "annataram": [
+    {
+      "key": "annatara",
+      "lemma": "aññatara",
+      "gloss": "a certain; a"
+    }
+  ],
+  "phalam": [
+    {
+      "key": "phala",
+      "lemma": "phala",
+      "gloss": "fruit; nut; berry"
+    }
+  ],
+  "patikankham": [
+    {
+      "key": "patikankha",
+      "lemma": "pāṭikaṅkha",
+      "gloss": "to be expected; certain (for); can be anticipated"
+    }
+  ],
+  "dittheva": [
+    {
+      "key": "ditthi",
+      "lemma": "diṭṭhi",
+      "gloss": "with a view; having a belief; holding an opinion; with a theory"
+    }
+  ],
+  "anna": [
+    {
+      "key": "anna",
+      "lemma": "añña",
+      "gloss": "another; other; different; someone else; not oneself"
+    }
+  ],
+  "upadisese": [
+    {
+      "key": "upadisesa",
+      "lemma": "upādisesa",
+      "gloss": "remnant of grasping; remaining fuel of existence"
+    }
+  ],
+  "anagamita": [
+    {
+      "key": "anagamita",
+      "lemma": "anāgāmitā",
+      "gloss": "fact of being a non-returner; non-returning"
+    }
+  ],
+  "titthantu": [
+    {
+      "key": "titthati",
+      "lemma": "tiṭṭhati",
+      "gloss": "stands"
+    }
+  ],
+  "cha": [
+    {
+      "key": "cha",
+      "lemma": "cha",
+      "gloss": "six (6)"
+    }
+  ],
+  "panca": [
+    {
+      "key": "panca",
+      "lemma": "pañca",
+      "gloss": "five (5)"
+    }
+  ],
+  "cattari": [
+    {
+      "key": "catu",
+      "lemma": "catu",
+      "gloss": "four (4)"
+    }
+  ],
+  "tini": [
+    {
+      "key": "ti",
+      "lemma": "ti",
+      "gloss": "three (3)"
+    }
+  ],
+  "dve": [
+    {
+      "key": "dvi",
+      "lemma": "dvi",
+      "gloss": "two (2)"
+    }
+  ],
+  "vassam": [
+    {
+      "key": "vassa",
+      "lemma": "vassa",
+      "gloss": "rain; downpour"
+    }
+  ],
+  "titthatu": [
+    {
+      "key": "titthati",
+      "lemma": "tiṭṭhati",
+      "gloss": "stands"
+    }
+  ],
+  "masani": [
+    {
+      "key": "masa",
+      "lemma": "māsa",
+      "gloss": "month"
+    }
+  ],
+  "masam": [
+    {
+      "key": "masa",
+      "lemma": "māsa",
+      "gloss": "month"
+    }
+  ],
+  "addhamasam": [
+    {
+      "key": "addhamasa",
+      "lemma": "aḍḍhamāsa",
+      "gloss": "half a māsaka; coin of low value"
+    }
+  ],
+  "addhamaso": [
+    {
+      "key": "addhamasa",
+      "lemma": "aḍḍhamāsa",
+      "gloss": "half a māsaka; coin of low value"
+    }
+  ],
+  "sattaham": [
+    {
+      "key": "sattaha",
+      "lemma": "sattāha",
+      "gloss": "seven days; week"
+    }
+  ],
+  "anagamitati": [
+    {
+      "key": "anagamita",
+      "lemma": "anāgāmitā",
+      "gloss": "fact of being a non-returner; non-returning"
+    }
+  ],
+  "yam": [
+    {
+      "key": "ya",
+      "lemma": "ya",
+      "gloss": "whoever; whatever; whichever"
+    }
+  ],
+  "tam": [
+    {
+      "key": "ta",
+      "lemma": "ta",
+      "gloss": "that"
+    }
+  ],
+  "vuttam": [
+    {
+      "key": "vutta",
+      "lemma": "vutta",
+      "gloss": "sown; scattered; planted"
+    }
+  ],
+  "idametam": [
+    {
+      "key": "idametam",
+      "lemma": "idametaṃ",
+      "gloss": "this (with reference) to that"
+    }
+  ],
+  "idamavoca": [
+    {
+      "key": "idamavoca",
+      "lemma": "idamavoca",
+      "gloss": "one said this (to)"
+    }
+  ],
+  "attamana": [
+    {
+      "key": "attamana",
+      "lemma": "attamana",
+      "gloss": "pleased; happy; delighted; elated"
+    }
+  ],
+  "bhasitam": [
+    {
+      "key": "bhasita",
+      "lemma": "bhāsita",
+      "gloss": "said; spoken; recited (by)"
+    }
+  ],
+  "abhinandunti": [
+    {
+      "key": "abhinandi",
+      "lemma": "abhinandi",
+      "gloss": "delighted (in); was pleased (with); approved (of); was happy (with); relished"
+    }
+  ],
+  "satipatthanasuttam": [
+    {
+      "key": "satipatthanasutta",
+      "lemma": "satipaṭṭhānasutta",
+      "gloss": "Majjhima Nikāya 10 (MN10)"
+    }
+  ],
+  "dasamam": [
+    {
+      "key": "dasama",
+      "lemma": "dasama",
+      "gloss": "tenth (10th)"
+    }
+  ],
+  "mulapariyayavaggo": [
+    {
+      "key": "mulapariyayavagga",
+      "lemma": "mūlapariyāyavagga",
+      "gloss": "Vagga 1 of the Majjhima Nikāya (MN1-10)"
+    }
+  ],
+  "pathamo": [
+    {
+      "key": "pathama",
+      "lemma": "paṭhama",
+      "gloss": "first (1st); prime"
+    }
+  ],
+  "tassuddanam": [
+    {
+      "key": "tassuddanam",
+      "lemma": "tassuddānaṃ",
+      "gloss": "summary; a short verse given at the end of each vagga listing the titles or topics of the relevant suttas"
+    }
+  ],
+  "mulasusamvaradhammadayada": [
+    {
+      "key": "mulasusamvaradhammadayada",
+      "lemma": "mūlasusaṃvaradhammadāyādā",
+      "gloss": "in reference to MN1 Mūlapariyāyasutta , MN2 Sabbāsavasutta, MN3 Dhammadāyādasutta"
+    }
+  ],
+  "bheravananganakankheyyavattham": [
+    {
+      "key": "bheravananganakankheyyavattha",
+      "lemma": "bheravānaṅgaṇākaṅkheyyavattha",
+      "gloss": "in reference to MN4 Bhayabheravasutta, MN5 Anaṅgaṇasutta, MN6 Ākaṅkheyyasutta, MN7 Vatthasutta"
+    }
+  ],
+  "sallekhasammaditthisatipattham": [
+    {
+      "key": "sallekhasammaditthisatipattha",
+      "lemma": "sallekhasammādiṭṭhisatipaṭṭha",
+      "gloss": "in reference to MN8 Sallekhasutta, MN9 Sammādiṭṭhisutta, MN10 Mahāsatipaṭṭhānasutta"
+    }
+  ],
+  "vaggavaro": [
+    {
+      "key": "vaggavara",
+      "lemma": "vaggavara",
+      "gloss": "excellent chapter"
+    }
+  ],
+  "asamo": [
+    {
+      "key": "asama",
+      "lemma": "asama",
+      "gloss": "name of a deity"
+    }
+  ],
+  "susamatto": [
+    {
+      "key": "susamatta",
+      "lemma": "susamatta",
+      "gloss": "correctly adopted; properly undertaken; (comm) well grasped"
+    }
+  ]
+}

@@ -11,6 +11,23 @@ export function foldDiacritics(s: string): string {
   return s.toLowerCase().split('').map((c) => DIACRITIC_MAP[c] ?? c).join('');
 }
 
+/**
+ * Velthuis 轉寫輸入 → 折疊鍵（SEARCH §2）。
+ * 使用者打 `samaadhi`/`sama.m`/`~naa.na` 等 → 正規化後與折疊索引比對。
+ * 因索引鍵為去變音 ASCII，這裡直接把 Velthuis 序列折成對應 ASCII。
+ */
+const VELTHUIS: [RegExp, string][] = [
+  [/aa/g, 'a'], [/ii/g, 'i'], [/uu/g, 'u'],
+  [/\.m/g, 'm'], [/\.n/g, 'n'], [/"n/g, 'n'], [/;n/g, 'n'], [/~n/g, 'n'],
+  [/\.t/g, 't'], [/\.d/g, 'd'], [/\.l/g, 'l'], [/\.r/g, 'r'],
+  [/"s/g, 's'], [/\.s/g, 's'], [/\.h/g, 'h'],
+];
+export function normalizePaliQuery(s: string): string {
+  let q = foldDiacritics(s); // 先處理真正的變音字 + 小寫
+  for (const [re, rep] of VELTHUIS) q = q.replace(re, rep);
+  return q;
+}
+
 // 簡體 → 繁體（查詢端折疊；輸入簡體命中繁體經文，SEARCH §2）
 const s2t = OpenCC.Converter({ from: 'cn', to: 'tw' });
 export function toTraditional(s: string): string {

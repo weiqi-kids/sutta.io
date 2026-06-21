@@ -14,6 +14,7 @@ const FILES = [
   'index-surface.json',
   'suttas.json',
   'snippets.json',
+  'surface-lemmas.json',
   'embeddings.bin',
   'embeddings-meta.json',
 ];

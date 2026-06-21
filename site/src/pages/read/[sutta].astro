@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import StudyPage from '../../components/study/StudyPage';
 import { t } from '../../i18n/zh-Hant';
-import { listSuttas, getSutta, isPreviewSutta } from '../../lib/data';
+import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta } from '../../lib/data';
 
 export function getStaticPaths() {
   const suttas = listSuttas();
@@ -24,6 +24,8 @@ if (!fixture) {
 }
 
 const preview = isPreviewSutta(fixture);
+const context = getSuttaContext(suttaId!);
+const entities = getEntitiesForSutta(suttaId!);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
   { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse` },
@@ -38,5 +40,5 @@ const crumbs = [
   preview={preview}
   wide={true}
 >
-  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} />
+  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} />
 </Base>
