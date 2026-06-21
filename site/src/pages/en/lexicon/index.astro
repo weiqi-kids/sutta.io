@@ -82,7 +82,7 @@ const crumbs = [{ label: t.nav.lexicon }];
   }
   .glossary h2,
   .all-terms-h {
-    font-size: 16px;
+    font-size: var(--text-sm);
     margin-bottom: var(--space-2);
   }
   .gloss-list {
@@ -116,15 +116,15 @@ const crumbs = [{ label: t.nav.lexicon }];
     font-weight: 600;
   }
   .gt-en {
-    font-size: 12px;
+    font-size: var(--text-2xs);
   }
   .gt-note {
-    font-size: 12px;
+    font-size: var(--text-2xs);
     flex-basis: 100%;
   }
   .lex-filter {
     width: 100%;
-    font-size: 16px;
+    font-size: var(--text-sm);
     padding: var(--space-3);
     border: 1px solid var(--rule);
     border-radius: var(--radius);
@@ -157,7 +157,7 @@ const crumbs = [{ label: t.nav.lexicon }];
     color: var(--ink);
   }
   .ll-gloss {
-    font-size: 12px;
+    font-size: var(--text-2xs);
     color: var(--ink-soft);
     flex: 1;
     overflow: hidden;
@@ -165,7 +165,7 @@ const crumbs = [{ label: t.nav.lexicon }];
     white-space: nowrap;
   }
   .ll-n {
-    font-size: 11px;
+    font-size: var(--text-2xs);
   }
   @media (max-width: 640px) {
     .lex-list {

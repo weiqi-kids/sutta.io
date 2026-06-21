@@ -1,78 +1,90 @@
 /* ============================================================================
-   design-tokens.css — 設計 token(E-2)
-   DESIGN_SPEC 的可實作對照;含四級出處視覺(J-6 / CONTEXT §3)。
-   淺色為主題,深色為 [data-theme="dark"]。
+   design-tokens.css — 統一設計 token（E-2）
+   配色：OKLCH（感知均勻；暖=正典 / 冷=AI，色溫即信任層級）。
+   字級：離散階梯，**最小 15px、內文 20px、巴利 23px**（夠大、好讀）。參考 yao.care 字級下限精神。
+   淺色為主題，深色為 [data-theme="dark"]。元件一律引用本檔 token，勿散落硬值。
    ============================================================================ */
 
 :root {
-  /* --- 色彩:淺色(DESIGN §3.1)。每個值有語意職責,不可挪用 --- */
-  --paper:      #E9E0CC;  /* 正典經文閱讀面(骨色偏赭,刻意≠#F4F1EA) */
-  --surface:    #F4EFE3;  /* chrome / 卡片面 */
-  --ink:        #2A2622;  /* 正典墨色(暖黑帶赭褐,非純黑) */
-  --ink-soft:   #6B6358;  /* 次級文字 */
-  --thread:     #B06A1F;  /* 燒灼藏紅:唯一焦點/對齊強調色,僅用於 active 綁定 */
-  --margin:     #5E6B6E;  /* L2「鉛筆」冷灰(冷於 ink;溫度差=語意) */
-  --margin-bg:  #E6E8E4;  /* L2 極淡冷底 */
-  --rule:       #D8CFB9;  /* 分隔線 */
-  --draft:      #9A7B2E;  /* 未校稿標記(暗芥黃) */
+  /* ── 字級階梯（常用字型大小限制；元件只從這組挑） ────────────────
+     下限 15px；內文 base 20px。行高：內文 1.6+，標題收緊。 */
+  --text-2xs: 0.9375rem;  /* 15px — 最小：mono 段號/徽章 */
+  --text-xs:  1rem;       /* 16px — 標籤、次級 chrome、資料碼 */
+  --text-sm:  1.125rem;   /* 18px — 表格、輔助說明 */
+  --text-base:1.25rem;    /* 20px — 內文預設 */
+  --text-md:  1.4375rem;  /* 23px — 巴利原文 */
+  --text-lg:  1.625rem;   /* 26px — 強調 */
+  --text-xl:  2rem;       /* 32px — 區段標題 */
+  --text-2xl: 2.5rem;     /* 40px — 經名/頁標 */
+  --text-3xl: 3rem;       /* 48px — hero */
 
-  /* --- 四級出處(CONTEXT §3 / J-6)。canonical 無徽章;其餘各有清楚記號 --- */
-  --prov-canonical:    var(--ink);     /* 正典:暖墨,無徽章 */
-  --prov-commentarial: #8A6D3B;        /* 註釋傳統:暖褐標記 */
-  --prov-scholarly:    #4A6072;        /* 學界:冷藍灰,附具名來源 */
-  --prov-ai:           var(--margin);  /* AI:冷灰鉛筆 + AI 徽章 */
+  /* ── 角色字級（對應上方階梯；既有元件用這些名稱） ── */
+  --size-pali:   var(--text-md);    /* 23px 巴利內文（變音不被上行裁切） */
+  --lh-pali:     1.75;
+  --size-zh:     var(--text-base);  /* 20px 漢譯內文 */
+  --lh-zh:       1.85;
+  --size-title:  var(--text-2xl);   /* 40px 經名顯示 */
+  --size-data:   var(--text-xs);    /* 16px DPD 詞形碼/id（等寬） */
+  --size-label:  var(--text-2xs);   /* 15px 標籤/徽章 */
+  --size-ui:     var(--text-xs);    /* 16px chrome/控制項 */
+  --measure-pali: 62ch;
 
-  /* --- 字體(DESIGN §3.3)。全開源可自架 --- */
-  --font-pali:  "Gentium Plus", serif;              /* 巴利(IAST 變音為真畫出) */
-  --font-zh:    "Noto Serif TC", "Source Han Serif TC", "Noto Serif CJK TC", serif; /* 漢譯正典（自架 Noto Serif TC，G-2） */
-  --font-ui:    "Noto Sans TC", "Inter", sans-serif; /* chrome/標籤 */
-  --font-data:  "IBM Plex Mono", monospace;          /* DPD 詞形碼/id/數據 */
+  /* ── 配色（OKLCH，淺色，主）。每值有語意職責，不可挪用 ── */
+  --paper:      oklch(0.908 0.028 86.6);   /* 正典經文閱讀面（骨色偏赭） */
+  --surface:    oklch(0.953 0.017 88.0);   /* chrome / 卡片面（亮一階） */
+  --ink:        oklch(0.272 0.009 67.4);   /* 正典墨色（暖黑帶赭褐） */
+  --ink-soft:   oklch(0.504 0.020 76.0);   /* 次級文字 */
+  --thread:     oklch(0.589 0.123 62.1);   /* 燒灼藏紅：唯一焦點/對齊強調，僅 active 綁定 */
+  --margin:     oklch(0.518 0.016 213.2);  /* L2「鉛筆」冷灰（冷於 ink；溫度差=語意） */
+  --margin-bg:  oklch(0.928 0.006 128.5);  /* L2 極淡冷底 */
+  --rule:       oklch(0.856 0.031 88.4);   /* 分隔線 */
+  --draft:      oklch(0.598 0.101 86.6);   /* 未校稿標記（暗芥黃） */
 
-  /* --- 字級 / 行高(DESIGN §3.4)。變音符號需行高餘裕 --- */
-  --size-pali:      20px;  --lh-pali:    1.7;
-  --size-zh:        18px;  --lh-zh:      1.9;
-  --size-title:     30px;
-  --size-data:      14px;
-  --size-label:     12px;
-  --measure-pali:   62ch;  /* 巴利欄理想量度上限 */
+  /* ── 四級出處（CONTEXT §3 / J-6）。canonical 無徽章；其餘各有記號 ── */
+  --prov-canonical:    var(--ink);                 /* 正典：暖墨，無徽章 */
+  --prov-commentarial: oklch(0.552 0.077 79.7);    /* 註釋傳統：暖褐 */
+  --prov-scholarly:    oklch(0.478 0.039 243.4);   /* 學界：冷藍灰，附具名來源 */
+  --prov-ai:           var(--margin);              /* AI：冷灰鉛筆 + AI 徽章 */
 
-  /* --- 間距 / 圓角 --- */
+  /* ── 字體（DESIGN §3.3）。全開源、可自架 ── */
+  --font-pali:  "Gentium Plus", serif;
+  --font-zh:    "Noto Serif TC", "Source Han Serif TC", "Noto Serif CJK TC", serif;
+  --font-ui:    "Noto Sans TC", "Inter", sans-serif;
+  --font-data:  "IBM Plex Mono", monospace;
+
+  /* ── 間距 / 圓角 ── */
   --space-1: 4px;  --space-2: 8px;  --space-3: 12px;
   --space-4: 16px; --space-6: 24px; --space-8: 32px;
-  --radius: 4px;          /* 克制小圓角,非報紙零角、非 App 大角 */
+  --radius: 4px;
 
-  /* --- 動態(DESIGN §6)。少即是多 --- */
-  --motion-bind:    120ms ease;  /* 焦點之線 */
-  --motion-popover: 100ms ease;  /* DPD popover */
+  /* ── 動態（DESIGN §6）。少即是多 ── */
+  --motion-bind:    120ms ease;
+  --motion-popover: 100ms ease;
 
-  /* --- 觸控(STUDY_PAGE a11y):巴利 token 最小可點區 --- */
-  --tap-min: 32px;
+  /* ── 觸控：巴利 token 最小可點區 ── */
+  --tap-min: 36px;
 }
 
-/* --- 深色「夜誦」(DESIGN §3.2),次要變體 --- */
+/* ── 深色「夜誦」（DESIGN §3.2），次要變體 ── */
 [data-theme="dark"] {
-  --paper:      #1A1A1E;
-  --surface:    #232228;
-  --ink:        #E8E2D4;  /* 暖,如燈下 */
-  --ink-soft:   #A39B8C;
-  --thread:     #D8923A;
-  --margin:     #8A9498;  /* 冷灰 */
-  --margin-bg:  #2A2E30;
-  --rule:       #3A372F;
-  --draft:      #C2A24E;
+  --paper:      oklch(0.220 0.008 285.7);
+  --surface:    oklch(0.256 0.011 293.2);
+  --ink:        oklch(0.914 0.020 87.5);
+  --ink-soft:   oklch(0.692 0.023 83.3);
+  --thread:     oklch(0.715 0.132 68.6);
+  --margin:     oklch(0.660 0.013 223.6);
+  --margin-bg:  oklch(0.298 0.007 229.1);
+  --rule:       oklch(0.337 0.014 89.9);
+  --draft:      oklch(0.724 0.110 88.6);
 
   --prov-canonical:    var(--ink);
-  --prov-commentarial: #B59155;
-  --prov-scholarly:    #7C95A8;
+  --prov-commentarial: oklch(0.677 0.089 79.1);
+  --prov-scholarly:    oklch(0.657 0.040 241.0);
   --prov-ai:           var(--margin);
 }
 
-/* --- 斷點(SITE_IA §8 / STUDY_PAGE §1) --- */
-/* 桌機 ≥1024px:三欄 | 平板 640–1023:兩欄+抽屜 | 手機 <640:頁籤 */
-/* 於各元件以 @media 使用,token 檔僅記錄數值約定: */
-/*   --bp-tablet: 640px;  --bp-desktop: 1024px; (媒體查詢不能用變數,此處為文件約定) */
+/* 斷點：桌機 ≥1024 三欄 | 平板 640–1023 兩欄+抽屜 | 手機 <640 頁籤（媒體查詢不能用變數，此處為文件約定） */
 
-/* --- 無障礙:尊重減量動態(DESIGN §6) --- */
 @media (prefers-reduced-motion: reduce) {
   :root { --motion-bind: 0ms; --motion-popover: 0ms; }
 }

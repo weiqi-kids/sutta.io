@@ -85,7 +85,7 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
   .entry-label {
     font-family: var(--font-ui);
     color: var(--ink);
-    font-size: 15px;
+    font-size: var(--text-sm);
   }
   .featured {
     margin-top: var(--space-8);
@@ -103,7 +103,7 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
     text-decoration: none;
   }
   .featured-pali {
-    font-size: 22px;
+    font-size: var(--text-md);
     color: var(--ink);
   }
   .featured-zh {

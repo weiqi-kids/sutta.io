@@ -10,7 +10,7 @@
 }
 .mode {
   font-family: var(--font-ui);
-  font-size: 13px;
+  font-size: var(--text-xs);
   background: transparent;
   border: 1px solid var(--rule);
   border-radius: var(--radius);
@@ -29,7 +29,7 @@
 }
 .search-input {
   flex: 1;
-  font-size: 16px;
+  font-size: var(--text-sm);
   padding: var(--space-3);
   border: 1px solid var(--rule);
   border-radius: var(--radius);
@@ -68,13 +68,13 @@
 }
 .result-title {
   font-family: var(--font-ui);
-  font-size: 13px;
+  font-size: var(--text-xs);
   color: var(--ink-soft);
   margin-inline-end: var(--space-2);
 }
 .result-seg {
   color: var(--ink-soft);
-  font-size: 12px;
+  font-size: var(--text-2xs);
 }
 .result-lemma {
   font-family: var(--font-pali);
@@ -86,7 +86,7 @@
   margin-top: var(--space-1);
   color: var(--ink);
   font-family: var(--font-pali);
-  font-size: 16px;
+  font-size: var(--text-sm);
 }
 .result-snippet.zh {
   font-family: var(--font-zh);
@@ -115,5 +115,5 @@
   padding: var(--space-6) 0;
 }
 .empty-title {
-  font-size: 16px;
+  font-size: var(--text-sm);
 }
