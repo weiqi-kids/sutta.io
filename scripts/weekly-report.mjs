@@ -48,6 +48,7 @@ async function ga4(token) {
       dateRanges: [{ startDate: days(7), endDate: days(1) }],
       metrics: [{ name: 'sessions' }, { name: 'activeUsers' }, { name: 'screenPageViews' }],
       dimensions: [{ name: 'pagePath' }],
+      metricAggregations: ['TOTAL'], // 否則 g.totals 為 undefined → 總計三行恆印 0（即使有流量）
       orderBys: [{ metric: { metricName: 'screenPageViews' }, desc: true }],
       limit: 10,
     }),
