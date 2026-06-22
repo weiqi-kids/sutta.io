@@ -66,7 +66,9 @@ async function fetchJuanText(juan: number): Promise<string> {
   const txt = await fetchCached(url, `cbeta-T0026-${String(juan).padStart(3, '0')}.json`);
   const obj = JSON.parse(txt) as { results: string[] };
   const html = (obj.results?.[0] ?? '').replace(/<a[^>]*class="noteAnchor"[^>]*>.*?<\/a>/g, '');
-  return html.replace(/<[^>]+>/g, '');
+  const text = html.replace(/<[^>]+>/g, '');
+  // CBETA 內嵌頁/行標記（如「T01n0026_p0467a29」「467a29」）會插在「第」與序號間，破壞標題比對 → 先去除
+  return text.replace(/T\d+n\d+_p\d+\w*/g, '').replace(/\d+[abc]\d{1,2}/g, '');
 }
 
 function cleanAgama(body: string): string {
@@ -74,6 +76,13 @@ function cleanAgama(body: string): string {
   b = b.replace(/[\s　]+/g, ' ').trim();
   b = b.replace(/\s*「/g, '\n\n「').replace(/。\s*復次/g, '。\n\n復次');
   return b.replace(/^\n+/, '').trim();
+}
+
+// CBETA 中阿含經標題格式不統一：前綴可為「中阿含」或全形「（經號）」（如「（二九）」「（二〇〇）」），
+// 中間夾品名（如「舍梨子相應品」「大品」，≤12 字），收於「{經名}第N」（N 為品內序號）。
+function suttaTitleRe(name: string): RegExp {
+  const esc = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return new RegExp('(?:中阿含|（[一二三四五六七八九十〇○零百]+）)[^。\\n]{0,12}' + esc + '第[一二三四五六七八九十]+');
 }
 
 /** 自動抓某 MN 經的中阿含對照。失敗 → null。 */
@@ -88,14 +97,14 @@ export async function fetchAgama(suttaId: string): Promise<AgamaParallel | null>
     const text = await fetchJuanText(cur.juan);
 
     // 起：該經標題「…{name}第X」；訖：下一經標題 或 「{name}…竟」
-    const titleRe = new RegExp('中阿含[^。\\n]{0,10}' + cur.name + '第[一二三四五六七八九十]+');
+    const titleRe = suttaTitleRe(cur.name);
     const tm = titleRe.exec(text);
     if (!tm) return null;
     const bodyStart = tm.index + tm[0].length;
 
     let endIdx = -1;
     if (next) {
-      const nextRe = new RegExp('中阿含[^。\\n]{0,10}' + next.name + '第[一二三四五六七八九十]+');
+      const nextRe = suttaTitleRe(next.name);
       const nm = nextRe.exec(text.slice(bodyStart));
       if (nm) endIdx = bodyStart + nm.index;
     }
