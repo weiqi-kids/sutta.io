@@ -39,4 +39,10 @@ export const DPD_DOWNLOAD_URL = `https://github.com/digitalpalidictionary/dpd-db
 export const SUTTA_TITLES: Record<string, { pali: string; zh: string; collection: string; collection_zh: string }> = {
   mn10: { pali: 'Satipaṭṭhānasutta', zh: '念處經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn1: { pali: 'Mūlapariyāyasutta', zh: '根本法門經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  // 手動批次 A（2026-06-22）：策展名經，漢譯平行紮實
+  mn2: { pali: 'Sabbāsavasutta', zh: '一切漏經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn9: { pali: 'Sammādiṭṭhisutta', zh: '正見經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn22: { pali: 'Alagaddūpamasutta', zh: '蛇喻經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn118: { pali: 'Ānāpānassatisutta', zh: '入出息念經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn141: { pali: 'Saccavibhaṅgasutta', zh: '諦分別經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
 };
