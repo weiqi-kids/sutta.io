@@ -1,5 +1,13 @@
 [
   {
+    "id": "mn10",
+    "title_pali": "Satipaṭṭhānasutta",
+    "title_zh": "念處經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
     "id": "mn2",
     "title_pali": "Sabbāsavasutta",
     "title_zh": "一切漏經",
@@ -16,33 +24,9 @@
     "hasParallel": true
   },
   {
-    "id": "mn10",
-    "title_pali": "Satipaṭṭhānasutta",
-    "title_zh": "念處經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
     "id": "mn22",
     "title_pali": "Alagaddūpamasutta",
     "title_zh": "蛇喻經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn118",
-    "title_pali": "Ānāpānassatisutta",
-    "title_zh": "入出息念經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": false
-  },
-  {
-    "id": "mn141",
-    "title_pali": "Saccavibhaṅgasutta",
-    "title_zh": "諦分別經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true

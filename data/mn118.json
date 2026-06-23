@@ -13136,7 +13136,26 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn118:9.1.t0",
+          "mn118:9.1.t1",
+          "mn118:9.1.t2",
+          "mn118:9.1.t3",
+          "mn118:9.1.t4",
+          "mn118:9.1.t5",
+          "mn118:9.1.t6",
+          "mn118:9.1.t7",
+          "mn118:9.1.t8",
+          "mn118:9.1.t9",
+          "mn118:9.1.t10",
+          "mn118:9.1.t11",
+          "mn118:9.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於此比丘僧伽中，有阿羅漢，諸漏已盡、梵行已立、應作已作、重擔已卸、自利已達、有結已盡、以正智解脫者。"
+      }
     },
     {
       "segment_id": "mn118:9.2",
@@ -29319,7 +29338,26 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn118:24.5.t0",
+          "mn118:24.5.t1",
+          "mn118:24.5.t2",
+          "mn118:24.5.t3",
+          "mn118:24.5.t4",
+          "mn118:24.5.t5",
+          "mn118:24.5.t6",
+          "mn118:24.5.t7",
+          "mn118:24.5.t8",
+          "mn118:24.5.t9",
+          "mn118:24.5.t10",
+          "mn118:24.5.t11",
+          "mn118:24.5.t12"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，於那時，比丘於身隨觀身而住，精勤、正知、具念，調伏世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn118:24.6",
@@ -30054,7 +30092,27 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn118:24.7.t0",
+          "mn118:24.7.t1",
+          "mn118:24.7.t2",
+          "mn118:24.7.t3",
+          "mn118:24.7.t4",
+          "mn118:24.7.t5",
+          "mn118:24.7.t6",
+          "mn118:24.7.t7",
+          "mn118:24.7.t8",
+          "mn118:24.7.t9",
+          "mn118:24.7.t10",
+          "mn118:24.7.t11",
+          "mn118:24.7.t12",
+          "mn118:24.7.t13"
+        ],
+        "review_status": "approved",
+        "content": "因此，比丘們，於那時，比丘於身隨觀身而住，精勤、正知、具念，調伏世間的貪憂。"
+      }
     },
     {
       "segment_id": "mn118:25.1",
