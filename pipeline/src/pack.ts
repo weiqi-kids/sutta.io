@@ -27,6 +27,7 @@ export async function buildSutta(suttaId: string): Promise<SuttaFixture> {
         freq: a.freq,
         ambiguous: a.ambiguous,
         candidates: a.candidates,
+        deconstruction: a.deconstruction, // B-12 additive：sandhi/複合詞切分
       };
     });
     return {

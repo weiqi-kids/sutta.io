@@ -57,6 +57,11 @@ export interface PaliToken extends DpdAnalysis {
   freq: number | null;             // 全藏出現次數（原型為 placeholder）
   ambiguous: boolean;              // 多解旗標；UI 在 popover 標「多解」
   candidates: DpdAnalysis[] | null;// ambiguous 時的其餘候選；否則 null
+  // B-12 additive enrichment：DPD deconstructor 的 sandhi/複合詞切分。可選欄（舊產物無此欄）。
+  // 與 dpd_id 正交：sandhi 連音形多半無 headword（dpd_id===null）但仍可有切分，故不受降級不變量約束。
+  // 形狀：候選切分清單，每候選為構詞片段陣列；無切分則 null/省略。
+  // 例："Kathañca" → [["kathaṃ","ca"]]；多義 "patimā" → [["pata","imā"],["pati","amā"]]
+  deconstruction?: string[][] | null;
 }
 
 /**

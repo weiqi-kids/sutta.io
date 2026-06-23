@@ -16,6 +16,11 @@ export interface TokenAnalysis {
   freq: number | null;
   ambiguous: boolean;
   candidates: DpdAnalysis[] | null;
+  // B-12 additive enrichment：DPD deconstructor 提供的 sandhi/複合詞切分。
+  // 與 dpd_id 正交：sandhi 連音形多半無 headword（dpd_id===null）但仍有切分。
+  // 形狀：候選切分清單，每候選為切分後的構詞片段陣列。無則 null。
+  // 例：surface "Kathañca" → [["kathaṃ","ca"]]；多義 "patimā" → [["pata","imā"],["pati","amā"],...]
+  deconstruction: string[][] | null;
 }
 
 let db: Database.Database | null = null;
@@ -81,12 +86,34 @@ interface HeadwordRow {
   ebt_count: number;
 }
 
+// B-12：解析 DPD deconstructor 欄（JSON 字串）→ 候選切分清單。
+// 原始格式：'["yad + idaṃ"]' 或多義 '["pata + imā", "pati + amā"]'；空為 '' 或 '[]'。
+// 回傳 string[][]（每候選切成片段）或 null（無切分）。
+function parseDeconstructor(raw: string | null | undefined): string[][] | null {
+  if (!raw) return null;
+  let arr: unknown;
+  try {
+    arr = JSON.parse(raw);
+  } catch {
+    return null;
+  }
+  if (!Array.isArray(arr) || arr.length === 0) return null;
+  const splits: string[][] = [];
+  for (const cand of arr) {
+    if (typeof cand !== 'string') continue;
+    const parts = cand.split('+').map((p) => p.trim()).filter(Boolean);
+    if (parts.length >= 2) splits.push(parts); // 至少兩段才算切分
+  }
+  return splits.length > 0 ? splits : null;
+}
+
 export function analyzeSurface(surface: string): TokenAnalysis {
   const d = openDpd();
   const key = dpdLookupKey(surface);
   const NONE: TokenAnalysis = {
     lemma: null, dpd_id: null, root: null, morph: null, morph_display: null,
     compound: null, gloss: null, freq: null, ambiguous: false, candidates: null,
+    deconstruction: null,
   };
   if (!key) return NONE;
 
@@ -94,6 +121,9 @@ export function analyzeSurface(surface: string): TokenAnalysis {
     .prepare('SELECT headwords, grammar, deconstructor FROM lookup WHERE lookup_key = ?')
     .get(key) as { headwords: string; grammar: string; deconstructor: string } | undefined;
   if (!row) return NONE;
+
+  // B-12：切分與 headword/grammar 正交，先算好，所有回傳路徑都帶上。
+  const deconstruction = parseDeconstructor(row.deconstructor);
 
   let headwordIds: number[] = [];
   try {
@@ -108,8 +138,9 @@ export function analyzeSurface(surface: string): TokenAnalysis {
     grammarList = [];
   }
 
-  // 查無 headword 且無 grammar → DPD 未收錄此詞（dpd_id null 主訊號）
-  if (headwordIds.length === 0 && grammarList.length === 0) return NONE;
+  // 查無 headword 且無 grammar → DPD 未收錄此詞（dpd_id null 主訊號）。
+  // 但 sandhi 連音形常落此路徑卻仍有切分 → 仍帶上 deconstruction（additive）。
+  if (headwordIds.length === 0 && grammarList.length === 0) return { ...NONE, deconstruction };
 
   const hwStmt = d.prepare(
     'SELECT id, lemma_1, pos, root_key, meaning_1, meaning_lit, compound_construction, construction, ebt_count FROM dpd_headwords WHERE id = ?'
@@ -159,7 +190,7 @@ export function analyzeSurface(surface: string): TokenAnalysis {
     }
   }
 
-  if (scored.length === 0) return NONE;
+  if (scored.length === 0) return { ...NONE, deconstruction };
 
   // 規則 a（A-2）：偏好高頻解析。穩定排序（freq 降冪，原序為次）；不決則標多解保留全部候選。
   const indexed = scored.map((s, i) => ({ ...s, i }));
@@ -180,5 +211,6 @@ export function analyzeSurface(surface: string): TokenAnalysis {
     freq: indexed[0].freq || null,
     ambiguous,
     candidates: rest,
+    deconstruction,
   };
 }

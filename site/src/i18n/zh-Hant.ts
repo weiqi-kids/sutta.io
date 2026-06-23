@@ -73,6 +73,7 @@ export const t = {
     anotherRecension: '另一傳本',
     noAgamaParallel: '此段無對應漢譯平行',
     noAgamaHint: '本經多處如此',
+    agamaSrc: '漢譯阿含對照：CBETA（CC BY-NC-SA 3.0 TW）',
     draftMark: '未校稿',
     aiBadge: 'AI',
     glossSectionLabel: '逐字白話',
@@ -96,6 +97,7 @@ export const t = {
     root: '字根',
     morph: '詞形',
     compound: '複合詞',
+    deconstruction: '連音／複合切分',
     gloss: '簡義',
     freq: '全藏出現',
     fullEntry: '看完整詞條 →',
@@ -136,6 +138,8 @@ export const t = {
     notFoundHint: '試試用字形（surface）搜尋。',
     occurrenceCount: (n: number) => `出現 ${n} 次`,
     background: '時代背景',
+    grammarSrcLabel: '文法資料來源：',
+    grammarSrcName: 'Digital Pāḷi Dictionary（CC BY-NC-SA 4.0）',
   },
   world: {
     title: '早期佛典的世界',
@@ -169,6 +173,7 @@ export const t = {
     dedication: '願以此功德，普及於一切',
     sources: '資料來源：SuttaCentral・DPD・CBETA・DPPN（皆具名、開放授權）',
     rights: '內容依各來源 CC BY-NC-SA／公共領域授權・非商業',
+    contentLicense: '本站內容（白話／概要／研經輔助）採 CC BY-NC-SA 4.0 釋出',
   },
   chat: {
     open: '對話研經',

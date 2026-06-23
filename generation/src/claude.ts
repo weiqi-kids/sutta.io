@@ -17,11 +17,12 @@ export interface ClaudeResult<T> {
  */
 function callOnce<T>(system: string, userText: string, schema: object): ClaudeResult<T> {
   try {
+    // userText（含整經 grounding）以 stdin 餵入，不放 argv：大經（如 mn22 357 段）
+    // 放 argv 會超過 OS ARG_MAX → spawnSync E2BIG。`claude -p` 無 prompt 引數時讀 stdin。
     const out = execFileSync(
       'claude',
       [
         '-p',
-        userText,
         '--append-system-prompt',
         system,
         '--model',
@@ -32,7 +33,8 @@ function callOnce<T>(system: string, userText: string, schema: object): ClaudeRe
         JSON.stringify(schema),
       ],
       {
-        stdio: ['ignore', 'pipe', 'pipe'],
+        input: userText,
+        stdio: ['pipe', 'pipe', 'pipe'],
         encoding: 'utf-8',
         maxBuffer: 64 * 1024 * 1024,
         timeout: 600_000, // sonnet 仔細生成多段可達數分鐘

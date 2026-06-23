@@ -78,6 +78,18 @@ function validateSutta(file: string, s: any) {
         if (!Array.isArray(tk.candidates)) fail(rel, `${tk.token_id}: candidates 應為 null 或陣列`);
       }
       if (!isNullableNum(tk.freq)) fail(rel, `${tk.token_id}: freq 應為 number 或 null`);
+      // B-12 additive：deconstruction 為可選欄；與 dpd_id 正交（連音形 dpd_id 可為 null 仍有切分），
+      // 故刻意排除於上方降級不變量之外。非 null/undefined 時須為 string[][]。
+      if (tk.deconstruction !== null && tk.deconstruction !== undefined) {
+        if (
+          !Array.isArray(tk.deconstruction) ||
+          !tk.deconstruction.every(
+            (cand: unknown) => Array.isArray(cand) && cand.length >= 2 && cand.every(isStr)
+          )
+        ) {
+          fail(rel, `${tk.token_id}: deconstruction 應為 string[][]（每候選≥2片段）或 null`);
+        }
+      }
     }
     // vernacular_gloss（L2）
     const g = seg.vernacular_gloss;

@@ -71,6 +71,7 @@ export const en: Strings = {
     anotherRecension: 'another recension',
     noAgamaParallel: 'No corresponding Chinese parallel for this passage',
     noAgamaHint: 'common throughout this sutta',
+    agamaSrc: 'Chinese Āgama parallel: CBETA (CC BY-NC-SA 3.0 TW)',
     draftMark: 'unreviewed',
     aiBadge: 'AI',
     glossSectionLabel: 'word gloss',
@@ -94,6 +95,7 @@ export const en: Strings = {
     root: 'Root',
     morph: 'Morphology',
     compound: 'Compound',
+    deconstruction: 'Sandhi / compound split',
     gloss: 'Gloss',
     freq: 'Corpus freq.',
     fullEntry: 'Full entry →',
@@ -134,6 +136,8 @@ export const en: Strings = {
     notFoundHint: 'Try searching by surface form.',
     occurrenceCount: (n: number) => `${n} occurrence${n === 1 ? '' : 's'}`,
     background: 'Historical background',
+    grammarSrcLabel: 'Grammar data: ',
+    grammarSrcName: 'Digital Pāḷi Dictionary (CC BY-NC-SA 4.0)',
   },
   world: {
     title: 'The World of Early Buddhist Texts',
@@ -167,6 +171,7 @@ export const en: Strings = {
     dedication: 'May the merit of this work reach all beings',
     sources: 'Sources: SuttaCentral · DPD · CBETA · DPPN (all named, openly licensed)',
     rights: 'Content under each source’s CC BY-NC-SA / public domain · non-commercial',
+    contentLicense: 'This site’s content (vernacular renderings / summaries / study aids) is released under CC BY-NC-SA 4.0',
   },
   chat: {
     open: 'Discuss this sutta',

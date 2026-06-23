@@ -72,6 +72,13 @@ export default function DpdPopover({ token, anchorRect, onClose }: Props) {
           {row(t.dpd.root, token.root ? <span lang="pi">{token.root}</span> : t.dpd.none, true)}
           {token.morph_display && row(t.dpd.morph, token.morph_display)}
           {token.compound && row(t.dpd.compound, <span lang="pi">{token.compound}</span>)}
+          {token.deconstruction && token.deconstruction.length > 0 &&
+            row(
+              t.dpd.deconstruction,
+              <span lang="pi">
+                {token.deconstruction.map((parts) => parts.join(' + ')).join('　/　')}
+              </span>
+            )}
           {token.gloss && row(t.dpd.gloss, token.gloss)}
           {row(t.dpd.freq, token.freq != null ? token.freq.toLocaleString() : t.dpd.none, true)}
 

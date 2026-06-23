@@ -244,6 +244,7 @@ const breadcrumbSchema =
       <div class="container footer-meta-row">
         <p class="footer-meta">{t.site.unofficial}・{t.footer.rights}</p>
         <p class="footer-meta footer-sources">{t.footer.sources}</p>
+        <p class="footer-meta footer-content-license">{t.footer.contentLicense}</p>
         <p class="footer-dedication">{t.footer.dedication}</p>
       </div>
     </footer>
@@ -451,6 +452,10 @@ const breadcrumbSchema =
         color: var(--ink-soft);
       }
       .footer-sources {
+        color: var(--ink-soft);
+        opacity: 0.85;
+      }
+      .footer-content-license {
         color: var(--ink-soft);
         opacity: 0.85;
       }

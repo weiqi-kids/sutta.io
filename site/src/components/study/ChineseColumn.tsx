@@ -65,6 +65,13 @@ export default function ChineseColumn({
       {/* 阿含對照（L1，passage 段落級，預設摺疊由父層控制 agamaVisible） */}
       {agamaVisible && (
         <div className="agama-block">
+          {passages.some((p) => p.agama) && (
+            <p className="calm-note agama-src">
+              <a href="https://www.cbeta.org/" target="_blank" rel="noopener">
+                {t.study.agamaSrc}
+              </a>
+            </p>
+          )}
           {passages.map((p) => {
             const hl = p.segment_ids.includes(highlightedSegmentId ?? '');
             return (
