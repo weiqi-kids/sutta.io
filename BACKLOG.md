@@ -112,7 +112,7 @@
 | F-5 | 授權合規最終勾稽 | ✅ | SPEC §9 五項全勾並簽結(含 F-1 N/A 認定);依據 `LICENSE_AUDIT.md`、紅線 `COMPLIANCE_GOVERNANCE.md`。唯一殘項:LICENSE 檔(待程式碼授權決策,見 F-9 註)。 |
 | F-7 | 嵌入模型授權確認 | ✅ | e5-small=MIT,已正式記錄於 `LICENSE_AUDIT.md` §1(來源表)。 |
 | F-8 | 合併授權 + share-alike 交互檢查 | ✅ | `LICENSE_AUDIT.md` §2.3 + 紅線 R2 定性:內容層整體掛 **CC BY-NC-SA 4.0**(4.0 相容 CBETA 3.0-TW 之 SA);CC0/PD/MIT 來源不加新限制、與 BY-NC-SA 相容;程式碼層與內容層分離(SA 不傳染程式碼)。 |
-| F-9 | 程式碼授權 LICENSE 檔 | ⬜ | 內容授權已定(CC BY-NC-SA 4.0);**程式碼授權待站方決策**(MIT/AGPL/保留),決後落為 repo `LICENSE` 檔並分層聲明(紅線 R2)。 |
+| F-9 | 程式碼授權 LICENSE 檔 | ✅ | `LICENSE`=MIT(程式碼);`LICENSE-CONTENT.md`=CC BY-NC-SA 4.0(內容層)。分層聲明落實紅線 R2(SA 不傳染程式碼)。 |
 
 ---
 
