@@ -1,935 +1,4 @@
 {
-  "mn10:1.1": {
-    "pi": "Evaṁ me sutaṁ",
-    "zh": "如是我聞。"
-  },
-  "mn10:1.2": {
-    "pi": "ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo",
-    "zh": "一時，世尊住於拘樓國，（在）名為劍磨瑟曇的拘樓人市鎮（中）。"
-  },
-  "mn10:1.3": {
-    "pi": "Tatra kho bhagavā bhikkhū āmantesi",
-    "zh": "在那裡，世尊確實招呼了比丘們。"
-  },
-  "mn10:1.4": {
-    "pi": "bhikkhavo ti",
-    "zh": "「比丘們！」"
-  },
-  "mn10:1.5": {
-    "pi": "Bhadante ti te bhikkhū bhagavato paccassosuṁ",
-    "zh": "「尊者！」那些比丘們回應了世尊。"
-  },
-  "mn10:1.6": {
-    "pi": "Bhagavā etadavoca",
-    "zh": "世尊說了這（話）："
-  },
-  "mn10:2.1": {
-    "pi": "Ekāyano ayaṁ bhikkhave maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ cattāro satipaṭṭhānā",
-    "zh": "「比丘們！這是眾生清淨、超越愁悲、消滅苦憂、證得正理、親證涅槃的唯一道路，亦即四念處。」"
-  },
-  "mn10:3.1": {
-    "pi": "Katame cattāro",
-    "zh": "哪四（念處）？"
-  },
-  "mn10:3.2": {
-    "pi": "Idha bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
-    "zh": "於此，比丘們！比丘隨觀身於身而住，精勤、正知、具念，捨除世間的貪憂。"
-  },
-  "mn10:3.3": {
-    "pi": "vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
-    "zh": "（比丘）隨觀受於受而住，精勤、正知、具念，捨除世間的貪憂。"
-  },
-  "mn10:3.4": {
-    "pi": "citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
-    "zh": "（比丘）隨觀心於心而住，精勤、正知、具念，捨除世間的貪憂。"
-  },
-  "mn10:3.5": {
-    "pi": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
-    "zh": "（比丘）隨觀法於諸法而住，精勤、正知、具念，捨除世間的貪憂。"
-  },
-  "mn10:3.6": {
-    "pi": "Uddeso niṭṭhito",
-    "zh": "總說已竟。"
-  },
-  "mn10:4.0.1": {
-    "pi": "1 Kāyānupassanā",
-    "zh": "〔身隨觀〕"
-  },
-  "mn10:4.0.2": {
-    "pi": "1.1 Kāyānupassanāānāpānapabba",
-    "zh": "〔身隨觀——入出息節〕"
-  },
-  "mn10:4.1": {
-    "pi": "Kathañca bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "諸比丘，比丘如何於身隨觀身而住？"
-  },
-  "mn10:4.2": {
-    "pi": "Idha bhikkhave bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā",
-    "zh": "於此，諸比丘，比丘往林中，[或]至樹下，[或]往空閑處，坐下，盤折[就座]，端正[身體]，[令念]朝向當前，安立[念]。"
-  },
-  "mn10:4.3": {
-    "pi": "So satova assasati satova passasati",
-    "zh": "彼[具念]入息，[具念]出息。"
-  },
-  "mn10:4.4": {
-    "pi": "Dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti",
-    "zh": "入息長時，了知『（吸）長』；出息長時，了知『（呼）長』。"
-  },
-  "mn10:4.5": {
-    "pi": "rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
-    "zh": "入息短時，了知『（吸）短』；出息短時，了知『（呼）短』。"
-  },
-  "mn10:4.6": {
-    "pi": "Sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
-    "zh": "『覺知全身（而入息）』，如是修習；『覺知全身（而出息）』，如是修習。"
-  },
-  "mn10:4.7": {
-    "pi": "Passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
-    "zh": "『令身行平靜（而入息）』，如是修習；『令身行平靜（而出息）』，如是修習。"
-  },
-  "mn10:4.8": {
-    "pi": "Seyyathāpi bhikkhave dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto dīghaṁ añchāmī ti pajānāti rassaṁ vā añchanto rassaṁ añchāmī ti pajānāti",
-    "zh": "諸比丘，就好像一位車工（或其學徒），在車削長件時了知「我在車削長件」，在車削短件時了知「我在車削短件」。"
-  },
-  "mn10:4.9": {
-    "pi": "evameva kho bhikkhave bhikkhu dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
-    "zh": "諸比丘，同樣地，比丘在長吸氣時了知「我在長吸氣」；在長呼氣時了知「我在長呼氣」；在短吸氣時了知「我在短吸氣」；在短呼氣時了知「我在短呼氣」。"
-  },
-  "mn10:4.10": {
-    "pi": "sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
-    "zh": "他修習「感受著全身（而呼吸）」；他修習「感受著全身（而呼吸）」。（兩次分別對應吸氣與呼氣）"
-  },
-  "mn10:4.11": {
-    "pi": "passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
-    "zh": "他修習「令身行平靜（而呼吸）」；他修習「令身行平靜（而呼吸）」。（兩次分別對應吸氣與呼氣）"
-  },
-  "mn10:5.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
-    "zh": "如此，他或對內在的身隨觀身而安住，或對外在的身隨觀身而安住，或對內外的身隨觀身而安住。"
-  },
-  "mn10:5.2": {
-    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
-    "zh": "他或安住於隨觀身中諸法的生起，或安住於隨觀身中諸法的滅去，或安住於隨觀身中諸法的生滅。"
-  },
-  "mn10:5.3": {
-    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有身」的念現前，僅為了知與念而建立。他不依附而安住，對世間任何事物不執取。"
-  },
-  "mn10:5.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "諸比丘，比丘就這樣隨觀身而安住於身中。"
-  },
-  "mn10:5.5": {
-    "pi": "Ānāpānapabbaṁ niṭṭhitaṁ",
-    "zh": "入出息節（已）完畢。"
-  },
-  "mn10:6.0": {
-    "pi": "1.2 Kāyānupassanāiriyāpathapabba",
-    "zh": "身隨觀威儀路節。"
-  },
-  "mn10:6.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu gacchanto vā gacchāmī ti pajānāti ṭhito vā ṭhitomhī ti pajānāti nisinno vā nisinnomhī ti pajānāti sayāno vā sayānomhī ti pajānāti",
-    "zh": "再者，諸比丘，比丘行走時清楚了知；站立時清楚了知；坐著時清楚了知；臥下時清楚了知。"
-  },
-  "mn10:6.2": {
-    "pi": "Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti",
-    "zh": "無論（身體被安置於何種狀態），他便如實清楚了知之。（注：t3、t4 資料存疑，整段語義依其餘 token 重建）"
-  },
-  "mn10:7.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
-    "zh": "如是，或於內身隨觀身而安住，或於外身隨觀身而安住，或於內外身隨觀身而安住。"
-  },
-  "mn10:7.2": {
-    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
-    "zh": "或於身中隨觀生起之法而安住，或於身中隨觀滅去之法而安住，或於身中隨觀生滅之法而安住。"
-  },
-  "mn10:7.3": {
-    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有身」如此，念便現前確立；僅以了知的量度、持續正念的量度，他不依附而安住，對世間任何事物皆不執取。"
-  },
-  "mn10:7.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "諸比丘，比丘如此於身隨觀身而安住。"
-  },
-  "mn10:7.5": {
-    "pi": "Iriyāpathapabbaṁ niṭṭhitaṁ",
-    "zh": "威儀節完畢。"
-  },
-  "mn10:8.0": {
-    "pi": "1.3 Kāyānupassanāsampajānapabba"
-  },
-  "mn10:8.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu abhikkante paṭikkante sampajānakārī hoti ālokite vilokite sampajānakārī hoti samiñjite pasārite sampajānakārī hoti saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti asite pīte khāyite sāyite sampajānakārī hoti uccārapassāvakamme sampajānakārī hoti gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti",
-    "zh": "再者，諸比丘，比丘前進時、返回時，以正知行事；向前看時、環顧時，以正知行事；（肢體）彎曲時、伸展時，以正知行事；持執大衣、缽及衣時，以正知行事；食、飲、嚼、嚐時，以正知行事；大小便時，以正知行事；行走、站立、坐著、睡眠、醒寤、說話、保持沉默時，以正知行事。"
-  },
-  "mn10:9.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "如是，或於內身隨觀身而安住……（以下省略，同前文）"
-  },
-  "mn10:9.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "諸比丘，比丘如此於身隨觀身而安住。"
-  },
-  "mn10:9.3": {
-    "pi": "Sampajānapabbaṁ niṭṭhitaṁ",
-    "zh": "正知節，圓滿完畢。"
-  },
-  "mn10:10.0": {
-    "pi": "1.4 Kāyānupassanāpaṭikūlamanasikārapabba",
-    "zh": "（標題）身隨觀——不淨作意節"
-  },
-  "mn10:10.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati",
-    "zh": "再者，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
-  },
-  "mn10:10.2": {
-    "pi": "atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan ti",
-    "zh": "在這個身體中，有：髮、體毛、指甲、牙齒、皮膚、肉、肌腱、骨骼、骨髓、腎臟、心臟、肝臟、胸膜、脾臟、肺臟、腸、腸繫膜、胃中食物、糞便、膽汁、痰液、膿、血液、汗水、脂肪、淚水、油脂、唾液、鼻涕、關節滑液。"
-  },
-  "mn10:10.3": {
-    "pi": "Seyyathāpi bhikkhave ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa seyyathidaṁ sālīnaṁ vīhīnaṁ muggānaṁ māsānaṁ tilānaṁ taṇḍulānaṁ Tamenaṁ cakkhumā puriso muñcitvā paccavekkheyya ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā ti",
-    "zh": "諸比丘，就好像有一只兩端開口的播種袋，裝滿各種穀物——精米、稻穀、綠豆、（資料義：月份）、芝麻、去殼米——一位有眼睛的人打開袋子，便能逐一識別：「這是精米，這是稻穀，這是綠豆，這是（資料義：月份），這是芝麻，這是去殼米。」"
-  },
-  "mn10:10.4": {
-    "pi": "Evameva kho bhikkhave bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati",
-    "zh": "同樣地，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
-  },
-  "mn10:10.5": {
-    "pi": "atthi imasmiṁ kāye kesā lomā pe muttan ti",
-    "zh": "在這個身體中，有（諸部位）……（中略）。"
-  },
-  "mn10:11.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "如是，或在自身內，觀身而住……（中略）"
-  },
-  "mn10:11.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "如此，諸比丘，比丘便安住於觀身之中。"
-  },
-  "mn10:11.3": {
-    "pi": "Paṭikūlamanasikārapabbaṁ niṭṭhitaṁ",
-    "zh": "不淨作意節，圓滿完畢。"
-  },
-  "mn10:12.0": {
-    "pi": "1.5 Kāyānupassanādhātumanasikārapabba",
-    "zh": "身隨觀・界作意品（章節標題）"
-  },
-  "mn10:12.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati",
-    "zh": "「諸比丘，比丘又進而對此（身），如其所立、如其所向，以界的方式加以省察。」"
-  },
-  "mn10:12.2": {
-    "pi": "atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū ti",
-    "zh": "「此身中有地界、水界、火界、風界。」"
-  },
-  "mn10:12.3": {
-    "pi": "Seyyathāpi bhikkhave dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa",
-    "zh": "「諸比丘，猶如屠牛者，或屠牛者的徒弟，宰殺一頭牛之後，在四衢大道上將其逐一切分，就坐於此——」（注：t2 dakkho 依提供資料釋為「看見了」，語境難解；t4、t6 vā 資料不足，整段白話依脈絡重建）"
-  },
-  "mn10:12.4": {
-    "pi": "Evameva kho bhikkhave bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati",
-    "zh": "「諸比丘，同樣地，比丘確實對此（身），如其所立、如其所向，以界的方式加以省察。」"
-  },
-  "mn10:12.5": {
-    "pi": "atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū ti",
-    "zh": "「此身中有地界、水界、火界、風界。」"
-  },
-  "mn10:13.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "「如此，或就自身的身體隨觀身而住……（後文省略，依前文類推）」"
-  },
-  "mn10:13.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "「如此，諸比丘，比丘確實就身體隨觀身而住。」"
-  },
-  "mn10:13.3": {
-    "pi": "Dhātumanasikārapabbaṁ niṭṭhitaṁ",
-    "zh": "「界作意品，已圓滿完畢。」"
-  },
-  "mn10:14.0": {
-    "pi": "1.6 Kāyānupassanānavasivathikapabba",
-    "zh": "身隨觀・九塚間觀品（章節標題）"
-  },
-  "mn10:14.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ ekāhamataṁ vā dvīhamataṁ vā tīhamataṁ vā uddhumātakaṁ vinīlakaṁ vipubbakajātaṁ",
-    "zh": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，死亡一日、兩日或三日，已膨脹、已青紫、已流膿。"
-  },
-  "mn10:14.2": {
-    "pi": "So imameva kāyaṁ upasaṁharati",
-    "zh": "他就以正是此身與之相類比。"
-  },
-  "mn10:14.3": {
-    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
-    "zh": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
-  },
-  "mn10:15.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
-  },
-  "mn10:15.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
-  },
-  "mn10:16.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ kākehi vā khajjamānaṁ kulalehi vā khajjamānaṁ gijjhehi vā khajjamānaṁ kaṅkehi vā khajjamānaṁ sunakhehi vā khajjamānaṁ byagghehi vā khajjamānaṁ dīpīhi vā khajjamānaṁ siṅgālehi vā khajjamānaṁ vividhehi vā pāṇakajātehi khajjamānaṁ",
-    "zh": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，正被烏鴉、猛禽、禿鷲、（另種）烏鴉、狗、虎、豹、胡狼、或各種小生物所啃食。"
-  },
-  "mn10:16.2": {
-    "pi": "So imameva kāyaṁ upasaṁharati",
-    "zh": "他就以正是此身與之相類比。"
-  },
-  "mn10:16.3": {
-    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
-    "zh": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
-  },
-  "mn10:17.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
-  },
-  "mn10:17.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
-  },
-  "mn10:18-23.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ aṭṭhikasaṅkhalikaṁ samaṁsalohitaṁ nhārusambandhaṁ pe",
-    "zh": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的骸骨——帶有肉與血、以筋腱相連……（以下略）"
-  },
-  "mn10:18-23.2": {
-    "pi": "Aṭṭhikasaṅkhalikaṁ nimaṁsalohitamakkhitaṁ nhārusambandhaṁ pe",
-    "zh": "骸骨——無肉而染有血跡、以筋腱相連……（以下略）"
-  },
-  "mn10:18-23.3": {
-    "pi": "Aṭṭhikasaṅkhalikaṁ apagatamaṁsalohitaṁ nhārusambandhaṁ pe",
-    "zh": "骸骨——無肉無血、以筋腱相連……（以下略）"
-  },
-  "mn10:24.1": {
-    "pi": "Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni aññena hatthaṭṭhikaṁ aññena pādaṭṭhikaṁ aññena gopphakaṭṭhikaṁ aññena jaṅghaṭṭhikaṁ aññena ūruṭṭhikaṁ aññena kaṭiṭṭhikaṁ aññena phāsukaṭṭhikaṁ aññena piṭṭhiṭṭhikaṁ aññena khandhaṭṭhikaṁ aññena gīvaṭṭhikaṁ aññena hanukaṭṭhikaṁ aññena dantaṭṭhikaṁ aññena sīsakaṭāhaṁ",
-    "zh": "諸骨失去連結，散落四方——手骨在一處，足骨在另一處，踝骨在另一處，脛骨在另一處，股骨在另一處，髖骨在另一處，肋骨在另一處，脊骨在另一處，上脊骨在另一處，頸骨在另一處，顎骨在另一處，牙齒在另一處，頭骨在另一處。"
-  },
-  "mn10:24.2": {
-    "pi": "So imameva kāyaṁ upasaṁharati",
-    "zh": "彼（比丘）將正是此與其相比較。"
-  },
-  "mn10:24.3": {
-    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
-    "zh": "此（身）確實具有如此本質，命定如此，尚未超越此。"
-  },
-  "mn10:25.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
-    "zh": "如是，（他）於內在身中隨觀身而安住……（以下略）"
-  },
-  "mn10:25.2": {
-    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "諸比丘，如此確實，比丘於身中隨觀身而安住。"
-  },
-  "mn10:26-28.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni pe",
-    "zh": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的遺體——諸骨白色，如法螺殼之色……（以下略）"
-  },
-  "mn10:29.1": {
-    "pi": "Aṭṭhikāni puñjakitāni terovassikāni pe",
-    "zh": "諸骨堆積成堆，已超過一年……（以下略）"
-  },
-  "mn10:30.1": {
-    "pi": "Aṭṭhikāni pūtīni cuṇṇakajātāni",
-    "zh": "腐臭的、化為粉末的骨骸。"
-  },
-  "mn10:30.2": {
-    "pi": "So imameva kāyaṁ upasaṁharati",
-    "zh": "彼將正是此〔何物〕與之相比擬。"
-  },
-  "mn10:30.3": {
-    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
-    "zh": "「此〔何物〕確實具有如此本性，命定如此，尚未超越此。」"
-  },
-  "mn10:31.1": {
-    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
-    "zh": "如此，就自身之身觀身而住，就外身觀身而住，就內外之身觀身而住。"
-  },
-  "mn10:31.2": {
-    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
-    "zh": "觀（身中）諸法生起之性而住，觀諸法滅去之性而住，觀諸法生起與滅去之性而住。"
-  },
-  "mn10:31.3": {
-    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有〔何物〕」——〔於滅失中〕，念現前安立成為；僅為了知之量與持續正念之量，不依附而住，不於世間執取任何事物。"
-  },
-  "mn10:31.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
-    "zh": "如此，確實，諸比丘，比丘於身觀身而住。"
-  },
-  "mn10:31.5": {
-    "pi": "Navasivathikapabbaṁ niṭṭhitaṁ",
-    "zh": "九塚間觀品，已完畢。"
-  },
-  "mn10:31.6": {
-    "pi": "Cuddasakāyānupassanā niṭṭhitā",
-    "zh": "十四身觀，已完畢。"
-  },
-  "mn10:32.0": {
-    "pi": "2 Vedanānupassanā",
-    "zh": "受隨觀"
-  },
-  "mn10:32.1": {
-    "pi": "Kathañca bhikkhave bhikkhu vedanāsu vedanānupassī viharati",
-    "zh": "諸比丘，比丘如何於諸感受中隨觀感受而住？"
-  },
-  "mn10:32.2": {
-    "pi": "Idha bhikkhave bhikkhu sukhaṁ vā vedanaṁ vedayamāno sukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "諸比丘，於此，比丘感受樂受時，了知『我感受樂受』。"
-  },
-  "mn10:32.3": {
-    "pi": "Dukkhaṁ vā vedanaṁ vedayamāno dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受苦受時，了知『我感受苦受』。"
-  },
-  "mn10:32.4": {
-    "pi": "Adukkhamasukhaṁ vā vedanaṁ vedayamāno adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受不苦不樂受時，了知『我感受不苦不樂受』。"
-  },
-  "mn10:32.5": {
-    "pi": "Sāmisaṁ vā sukhaṁ vedanaṁ vedayamāno sāmisaṁ sukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受世俗樂受時，了知『我感受世俗樂受』。"
-  },
-  "mn10:32.6": {
-    "pi": "Nirāmisaṁ vā sukhaṁ vedanaṁ vedayamāno nirāmisaṁ sukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受出世間樂受時，了知『我感受出世間樂受』。"
-  },
-  "mn10:32.7": {
-    "pi": "Sāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno sāmisaṁ dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受世俗苦受時，了知『我感受世俗苦受』。"
-  },
-  "mn10:32.8": {
-    "pi": "Nirāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno nirāmisaṁ dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受出世間苦受時，了知『我感受出世間苦受』。"
-  },
-  "mn10:32.9": {
-    "pi": "Sāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno sāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受世俗不苦不樂受時，了知『我感受世俗不苦不樂受』。"
-  },
-  "mn10:32.10": {
-    "pi": "Nirāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno nirāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
-    "zh": "感受出世間不苦不樂受時，了知『我感受出世間不苦不樂受』。"
-  },
-  "mn10:33.1": {
-    "pi": "Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati bahiddhā vā vedanāsu vedanānupassī viharati ajjhattabahiddhā vā vedanāsu vedanānupassī viharati",
-    "zh": "如是，或於內在諸受中隨觀感受而住，或於外在諸受中隨觀感受而住，或於內外諸受中隨觀感受而住。"
-  },
-  "mn10:33.2": {
-    "pi": "samudayadhammānupassī vā vedanāsu viharati vayadhammānupassī vā vedanāsu viharati samudayavayadhammānupassī vā vedanāsu viharati",
-    "zh": "或於諸受中隨觀生起之法性而住，或於諸受中隨觀滅去之法性而住，或於諸受中隨觀生滅之法性而住。"
-  },
-  "mn10:33.3": {
-    "pi": "Atthi vedanā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有受」——（念）現前確立而成；恰到僅為了了知、持續念的程度，不依附而住，對世間任何事物皆不執取。（t4 panassa、t5 sati 所提供詞條與本段語境落差明顯，整段白話綜合其餘詞條語境整合。）"
-  },
-  "mn10:33.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu vedanāsu vedanānupassī viharati",
-    "zh": "如此，諸比丘，比丘確實於諸受中隨觀感受而住。"
-  },
-  "mn10:33.5": {
-    "pi": "Vedanānupassanā niṭṭhitā",
-    "zh": "受隨觀竟。"
-  },
-  "mn10:34.0": {
-    "pi": "3 Cittānupassanā",
-    "zh": "心隨觀。"
-  },
-  "mn10:34.1": {
-    "pi": "Kathañca bhikkhave bhikkhu citte cittānupassī viharati",
-    "zh": "又，諸比丘，比丘如何隨觀心而住？"
-  },
-  "mn10:34.2": {
-    "pi": "Idha bhikkhave bhikkhu sarāgaṁ vā cittaṁ sarāgaṁ cittan ti pajānāti",
-    "zh": "於此，諸比丘，比丘或於有貪之心，了知（其心）為「有貪之心」。"
-  },
-  "mn10:34.3": {
-    "pi": "Vītarāgaṁ vā cittaṁ vītarāgaṁ cittan ti pajānāti",
-    "zh": "或於離貪之心，了知（其心）為「離貪之心」。"
-  },
-  "mn10:34.4": {
-    "pi": "Sadosaṁ vā cittaṁ sadosaṁ cittan ti pajānāti",
-    "zh": "或於有瞋之心，了知（其心）為「有瞋之心」。"
-  },
-  "mn10:34.5": {
-    "pi": "Vītadosaṁ vā cittaṁ vītadosaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知離瞋之心為「離瞋之心」。"
-  },
-  "mn10:34.6": {
-    "pi": "Samohaṁ vā cittaṁ samohaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知有癡之心為「有癡之心」。"
-  },
-  "mn10:34.7": {
-    "pi": "Vītamohaṁ vā cittaṁ vītamohaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知離癡之心為「離癡之心」。"
-  },
-  "mn10:34.8": {
-    "pi": "Saṅkhittaṁ vā cittaṁ saṅkhittaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知收縮之心為「收縮之心」。"
-  },
-  "mn10:34.9": {
-    "pi": "Vikkhittaṁ vā cittaṁ vikkhittaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知散亂之心為「散亂之心」。"
-  },
-  "mn10:34.10": {
-    "pi": "Mahaggataṁ vā cittaṁ mahaggataṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知廣大之心為「廣大之心」。"
-  },
-  "mn10:34.11": {
-    "pi": "Amahaggataṁ vā cittaṁ amahaggataṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知不廣大之心為「不廣大之心」。"
-  },
-  "mn10:34.12": {
-    "pi": "Sauttaraṁ vā cittaṁ sauttaraṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知有上之心（尚可被超越之心）為「有上之心」。"
-  },
-  "mn10:34.13": {
-    "pi": "Anuttaraṁ vā cittaṁ anuttaraṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知無上之心（無可超越之心）為「無上之心」。"
-  },
-  "mn10:34.14": {
-    "pi": "Samāhitaṁ vā cittaṁ samāhitaṁ cittan ti pajānāti",
-    "zh": "或者，（他）了知入定之心（已攝收的心）為「入定之心」。"
-  },
-  "mn10:34.15": {
-    "pi": "Asamāhitaṁ vā cittaṁ asamāhitaṁ cittan ti pajānāti",
-    "zh": "或者，心未得定，〔他〕了知「〔此心〕未得定」。"
-  },
-  "mn10:34.16": {
-    "pi": "Vimuttaṁ vā cittaṁ vimuttaṁ cittan ti pajānāti",
-    "zh": "或者，心已解脫，〔他〕了知「〔此心〕已解脫」。"
-  },
-  "mn10:34.17": {
-    "pi": "Avimuttaṁ vā cittaṁ avimuttaṁ cittan ti pajānāti",
-    "zh": "或者，心未解脫，〔他〕了知「〔此心〕未解脫」。"
-  },
-  "mn10:35.1": {
-    "pi": "Iti ajjhattaṁ vā citte cittānupassī viharati bahiddhā vā citte cittānupassī viharati ajjhattabahiddhā vā citte cittānupassī viharati",
-    "zh": "如此，〔他〕或於內心隨觀心而安住，或於外心隨觀心而安住，或於內外心隨觀心而安住。"
-  },
-  "mn10:35.2": {
-    "pi": "samudayadhammānupassī vā cittasmiṁ viharati vayadhammānupassī vā cittasmiṁ viharati samudayavayadhammānupassī vā cittasmiṁ viharati",
-    "zh": "或於心中隨觀生起之法而安住，或於心中隨觀滅去之法而安住，或於心中隨觀生滅之法而安住。"
-  },
-  "mn10:35.3": {
-    "pi": "Atthi cittan ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "或「有〔心〕」，彼之正念現前建立；只為達到了知之量、念住之量，〔他〕離依而住，不執取世間任何事物。"
-  },
-  "mn10:35.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu citte cittānupassī viharati",
-    "zh": "諸比丘，如此，比丘確實於心隨觀心而安住。"
-  },
-  "mn10:35.5": {
-    "pi": "Cittānupassanā niṭṭhitā",
-    "zh": "心隨觀已竟。"
-  },
-  "mn10:36.0.1": {
-    "pi": "4 Dhammānupassanā",
-    "zh": "法隨觀（法念住）"
-  },
-  "mn10:36.0.2": {
-    "pi": "4.1 Dhammānupassanānīvaraṇapabba",
-    "zh": "法隨觀——蓋（障礙）品"
-  },
-  "mn10:36.1": {
-    "pi": "Kathañca bhikkhave bhikkhu dhammesu dhammānupassī viharati",
-    "zh": "諸比丘，比丘如何於諸法中隨觀諸法而住？"
-  },
-  "mn10:36.2": {
-    "pi": "Idha bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
-    "zh": "諸比丘，於此，比丘於五蓋中隨觀諸法而住。"
-  },
-  "mn10:36.3": {
-    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
-    "zh": "又，諸比丘，比丘如何於五蓋中隨觀諸法而住？"
-  },
-  "mn10:36.4": {
-    "pi": "Idha bhikkhave bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ atthi me ajjhattaṁ kāmacchando ti pajānāti asantaṁ vā ajjhattaṁ kāmacchandaṁ natthi me ajjhattaṁ kāmacchando ti pajānāti yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "於此，諸比丘，比丘了知內在有欲欲——「我內在有欲欲」；了知內在無欲欲——「我內在無欲欲」；又了知未生起之欲欲如何生起，了知那；了知已生起之欲欲如何得以捨斷，了知那；了知已捨斷之欲欲如何於將來不再生起，了知那。"
-  },
-  "mn10:36.5": {
-    "pi": "Santaṁ vā ajjhattaṁ byāpādaṁ atthi me ajjhattaṁ byāpādo ti pajānāti asantaṁ vā ajjhattaṁ byāpādaṁ natthi me ajjhattaṁ byāpādo ti pajānāti yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "內在有瞋恚，了知「我內在有瞋恚」；內在無瞋恚，了知「我內在無瞋恚」；了知未生起之瞋恚如何生起，了知那；了知已生起之瞋恚如何得以捨斷，了知那；了知已捨斷之瞋恚如何於將來不再生起，了知那。"
-  },
-  "mn10:36.6": {
-    "pi": "Santaṁ vā ajjhattaṁ thinamiddhaṁ atthi me ajjhattaṁ thinamiddhan ti pajānāti asantaṁ vā ajjhattaṁ thinamiddhaṁ natthi me ajjhattaṁ thinamiddhan ti pajānāti yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "內在有昏沉睡眠，了知「我內在有昏沉睡眠」；內在無昏沉睡眠，了知「我內在無昏沉睡眠」；了知未生起之昏沉睡眠如何生起，了知那；了知已生起之昏沉睡眠如何得以捨斷，了知那；了知已捨斷之昏沉睡眠如何於將來不再生起，了知那。"
-  },
-  "mn10:36.7": {
-    "pi": "Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ atthi me ajjhattaṁ uddhaccakukkuccan ti pajānāti asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ natthi me ajjhattaṁ uddhaccakukkuccan ti pajānāti yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "內在有掉舉惡作，了知「我內在有掉舉惡作」；內在無掉舉惡作，了知「我內在無掉舉惡作」；了知未生起之掉舉惡作如何生起，了知那；了知已生起之掉舉惡作如何得以捨斷，了知那；了知已捨斷之掉舉惡作如何於將來不再生起，了知那。"
-  },
-  "mn10:36.8": {
-    "pi": "Santaṁ vā ajjhattaṁ vicikicchaṁ atthi me ajjhattaṁ vicikicchā ti pajānāti asantaṁ vā ajjhattaṁ vicikicchaṁ natthi me ajjhattaṁ vicikicchā ti pajānāti yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "內在有疑惑，了知「我內在有疑惑」；內在無疑惑，了知「我內在無疑惑」；了知未生起之疑惑如何生起，了知那；了知已生起之疑惑如何得以捨斷，了知那；了知已捨斷之疑惑如何於將來不再生起，了知那。"
-  },
-  "mn10:37.1": {
-    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
-    "zh": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
-  },
-  "mn10:37.2": {
-    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
-    "zh": "或於諸法中隨觀集起之法而住，或於諸法中隨觀滅去之法而住，或於諸法中隨觀集起與滅去之法而住。"
-  },
-  "mn10:37.3": {
-    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有（具如此性質的）諸法」——或者——（某物）消失了；（念）存在之時，（諸法）得以現前；僅為了了知的程度、持續念的程度，（比丘）不依附而安住，不執取世間任何事物。"
-  },
-  "mn10:37.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
-    "zh": "諸比丘，如此確實，比丘於諸法（具如此性質的事物）中隨觀諸法，安住於五蓋中。"
-  },
-  "mn10:37.5": {
-    "pi": "Nīvaraṇapabbaṁ niṭṭhitaṁ",
-    "zh": "蓋品，圓滿完結。"
-  },
-  "mn10:38.0": {
-    "pi": "4.2 Dhammānupassanākhandhapabba",
-    "zh": "（法隨觀）蘊品。"
-  },
-  "mn10:38.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
-    "zh": "再者，諸比丘，比丘於諸法中隨觀諸法，安住於五取蘊中。"
-  },
-  "mn10:38.2": {
-    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
-    "zh": "然而，諸比丘，比丘如何於諸法中隨觀諸法，安住於五取蘊中？"
-  },
-  "mn10:38.3": {
-    "pi": "Idha bhikkhave bhikkhu",
-    "zh": "諸比丘，在此（教法中），比丘（如是觀察）："
-  },
-  "mn10:38.4": {
-    "pi": "iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo",
-    "zh": "「如是色；如是色之集；如是色之滅。」"
-  },
-  "mn10:38.5": {
-    "pi": "iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo",
-    "zh": "「如是受；如是受之集；如是受之滅。」"
-  },
-  "mn10:38.6": {
-    "pi": "iti saññā iti saññāya samudayo iti saññāya atthaṅgamo",
-    "zh": "「如是想；如是想之集；如是想之滅。」"
-  },
-  "mn10:38.7": {
-    "pi": "iti saṅkhārā iti saṅkhārānaṁ samudayo iti saṅkhārānaṁ atthaṅgamo",
-    "zh": "「如此是諸行，如此是諸行的生起，如此是諸行的滅去。」"
-  },
-  "mn10:38.8": {
-    "pi": "iti viññāṇaṁ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo ti",
-    "zh": "「如此是識，如此是識的生起，如此是識的滅去。」"
-  },
-  "mn10:39.1": {
-    "pi": "iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
-    "zh": "如此，他或於內在的諸法中隨觀諸法而住，或於外在的諸法中隨觀諸法而住，或於內外的諸法中隨觀諸法而住。"
-  },
-  "mn10:39.2": {
-    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
-    "zh": "或住於在諸法中隨觀生起之性，或住於在諸法中隨觀滅去之性，或住於在諸法中隨觀生滅之性。"
-  },
-  "mn10:39.3": {
-    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有此性質的諸法」——正念現前（對他而言）成立。僅為了了知的分量、持續正念的分量，他不依附而住，且對世界中的任何事物都不執取。"
-  },
-  "mn10:39.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
-    "zh": "諸比丘，比丘就如此確實地於五取蘊中隨觀諸法而住。"
-  },
-  "mn10:39.5": {
-    "pi": "Khandhapabbaṁ niṭṭhitaṁ",
-    "zh": "蘊品已完結。"
-  },
-  "mn10:40.0": {
-    "pi": "4.3 Dhammānupassanāāyatanapabba",
-    "zh": "法隨觀・處品（章節標題）"
-  },
-  "mn10:40.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
-    "zh": "再者，諸比丘，比丘於六內外處中隨觀諸法而住。"
-  },
-  "mn10:40.2": {
-    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
-    "zh": "然而諸比丘，比丘如何於六內外處中隨觀諸法而住？"
-  },
-  "mn10:40.3": {
-    "pi": "Idha bhikkhave bhikkhu cakkhuñca pajānāti rūpe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "諸比丘，此處比丘了知眼，亦了知諸色；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:40.4": {
-    "pi": "Sotañca pajānāti sadde ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "了知耳，亦了知諸聲；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:40.5": {
-    "pi": "Ghānañca pajānāti gandhe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "了知鼻，亦了知諸香；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:40.6": {
-    "pi": "Jivhañca pajānāti rase ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "了知舌，亦了知諸味；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:40.7": {
-    "pi": "Kāyañca pajānāti phoṭṭhabbe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "了知身（依資料 lemma=ki，gloss 為疑問代名詞「誰？什麼？」，疑似資料有誤），亦了知諸觸（gloss 為空，資料不足）；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:40.8": {
-    "pi": "Manañca pajānāti dhamme ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
-    "zh": "了知意，亦了知諸法；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
-  },
-  "mn10:41.1": {
-    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
-    "zh": "如是，他或就內在諸法觀察諸法而安住，或就外在諸法觀察諸法而安住，或就內外諸法觀察諸法而安住。"
-  },
-  "mn10:41.2": {
-    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
-    "zh": "或就諸法中觀察生起之性而安住，或就諸法中觀察滅去之性而安住，或就諸法中觀察生滅之性而安住。"
-  },
-  "mn10:41.3": {
-    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有諸法」——如是，念已現前；僅就了知之程度、僅就持續念知之程度，他不依附而安住，不執取世間任何事物。（按：panassa 一詞，字典所收釋義與此處文脈不符，疑為連音「pana+assa」，字典尚未拆分。）"
-  },
-  "mn10:41.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
-    "zh": "諸比丘，比丘確實如是就六內外入處觀察諸法而安住。"
-  },
-  "mn10:41.5": {
-    "pi": "Āyatanapabbaṁ niṭṭhitaṁ",
-    "zh": "處品已完畢。"
-  },
-  "mn10:42.0": {
-    "pi": "4.4 Dhammānupassanābojjhaṅgapabba",
-    "zh": "觀法——覺支品"
-  },
-  "mn10:42.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
-    "zh": "再者，諸比丘，比丘於七覺支之諸法中，以觀法者的方式安住。"
-  },
-  "mn10:42.2": {
-    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
-    "zh": "諸比丘，比丘如何於七覺支之諸法中以觀法者的方式安住？"
-  },
-  "mn10:42.3": {
-    "pi": "Idha bhikkhave bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ atthi me ajjhattaṁ satisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ natthi me ajjhattaṁ satisambojjhaṅgo ti pajānāti yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "諸比丘，於此，比丘若自身內有念覺支，了知「我內有念覺支」；若自身內無念覺支，了知「我內無念覺支」；又未生起之念覺支如何生起，亦清楚了知；已生起之念覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.4": {
-    "pi": "Santaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ atthi me ajjhattaṁ dhammavicayasambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ natthi me ajjhattaṁ dhammavicayasambojjhaṅgo ti pajānāti yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若自身內有擇法覺支，了知「我內有擇法覺支」；若自身內無擇法覺支，了知「我內無擇法覺支」；又未生起之擇法覺支如何生起，亦清楚了知；已生起之擇法覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.5": {
-    "pi": "Santaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ atthi me ajjhattaṁ vīriyasambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ natthi me ajjhattaṁ vīriyasambojjhaṅgo ti pajānāti yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若自身內有精進覺支，了知「我內有精進覺支」；若自身內無精進覺支，了知「我內無精進覺支」；又未生起之精進覺支如何生起，亦清楚了知；已生起之精進覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.6": {
-    "pi": "Santaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ atthi me ajjhattaṁ pītisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ natthi me ajjhattaṁ pītisambojjhaṅgo ti pajānāti yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若自身內有喜覺支，了知「我內有喜覺支」；若自身內無喜覺支，了知「我內無喜覺支」；又未生起之喜覺支如何生起，亦清楚了知；已生起之喜覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.7": {
-    "pi": "Santaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ atthi me ajjhattaṁ passaddhisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ natthi me ajjhattaṁ passaddhisambojjhaṅgo ti pajānāti yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若自身內有輕安覺支，了知「我內有輕安覺支」；若自身內無輕安覺支，了知「我內無輕安覺支」；又未生起之輕安覺支如何生起，亦清楚了知；已生起之輕安覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.8": {
-    "pi": "Santaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ atthi me ajjhattaṁ samādhisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ natthi me ajjhattaṁ samādhisambojjhaṅgo ti pajānāti yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若自身內有定覺支，了知「我內有定覺支」；若自身內無定覺支，了知「我內無定覺支」；又未生起之定覺支如何生起，亦清楚了知；已生起之定覺支藉由修習如何達致圓滿，亦清楚了知。"
-  },
-  "mn10:42.9": {
-    "pi": "Santaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ atthi me ajjhattaṁ upekkhāsambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ natthi me ajjhattaṁ upekkhāsambojjhaṅgo ti pajānāti yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
-    "zh": "若內在已有捨覺支，清楚了知「我內在有捨覺支」；若內在尚無捨覺支，清楚了知「我內在無捨覺支」；並清楚了知，尚未生起的捨覺支如何得以生起；以及已生起的捨覺支藉由修習而圓滿——此亦清楚了知。"
-  },
-  "mn10:43.1": {
-    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
-    "zh": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
-  },
-  "mn10:43.2": {
-    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
-    "zh": "或於諸法中隨觀生起之性質而住，或於諸法中隨觀滅去之性質而住，或於諸法中隨觀生滅之性質而住。"
-  },
-  "mn10:43.3": {
-    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「諸法存在」——或（依資料）消逝——念已現前；只為了如實了知與持續念知，不依附而住，對諸世界任何事物皆不執取。"
-  },
-  "mn10:43.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
-    "zh": "比丘們，比丘如此於七覺支中隨觀諸法而住。"
-  },
-  "mn10:43.5": {
-    "pi": "Bojjhaṅgapabbaṁ niṭṭhitaṁ",
-    "zh": "覺支品圓竟。"
-  },
-  "mn10:44.0": {
-    "pi": "4.5 Dhammānupassanāsaccapabba",
-    "zh": "法隨觀·諦品"
-  },
-  "mn10:44.1": {
-    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
-    "zh": "再者，比丘們，比丘於四聖諦中隨觀諸法而住。"
-  },
-  "mn10:44.2": {
-    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
-    "zh": "然而，比丘們，比丘如何於四聖諦中隨觀諸法而住？"
-  },
-  "mn10:44.3": {
-    "pi": "Idha bhikkhave bhikkhu idaṁ dukkhan ti yathābhūtaṁ pajānāti ayaṁ dukkhasamudayo ti yathābhūtaṁ pajānāti ayaṁ dukkhanirodho ti yathābhūtaṁ pajānāti ayaṁ dukkhanirodhagāminī paṭipadā ti yathābhūtaṁ pajānāti",
-    "zh": "於此，比丘們，比丘對「此」如實了知；對「此為苦之生起」如實了知；對「此為苦之息滅」如實了知；對「此為導向苦滅之道」如實了知。"
-  },
-  "mn10:45.1": {
-    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
-    "zh": "如是，（他）或安住於在自身諸法中隨觀諸法，或安住於在外部諸法中隨觀諸法，或安住於在內外諸法中隨觀諸法。"
-  },
-  "mn10:45.2": {
-    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
-    "zh": "或安住於在諸法中觀察生起之本質，或安住於在諸法中觀察滅去之本質，或安住於在諸法中觀察生滅之本質。"
-  },
-  "mn10:45.3": {
-    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
-    "zh": "「有諸法」——如此，念知現前。僅就所需的了知量度與念住量度而言，（他）安住於不依附，不於世間執取任何事物。"
-  },
-  "mn10:45.4": {
-    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
-    "zh": "就如此，諸比丘，比丘安住於在這四聖諦的諸法中隨觀諸法。"
-  },
-  "mn10:45.5": {
-    "pi": "Saccapabbaṁ niṭṭhitaṁ",
-    "zh": "諦品，圓滿完畢。"
-  },
-  "mn10:45.6": {
-    "pi": "Dhammānupassanā niṭṭhitā",
-    "zh": "法隨觀，圓滿完畢。"
-  },
-  "mn10:46.1": {
-    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya satta vassāni tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
-    "zh": "諸比丘，無論何人若如此修習這四念住達七年，對他而言，兩種果報之中的一種是可以期待的。"
-  },
-  "mn10:46.2": {
-    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitā",
-    "zh": "（若有）見解——在具有如此本質的諸法之中，（得到）另一種（果報）；（此情況）存在時，或（若有）執取殘餘，（得到）不還果。"
-  },
-  "mn10:46.3": {
-    "pi": "Tiṭṭhantu bhikkhave satta vassāni",
-    "zh": "諸比丘，姑且不論七年。"
-  },
-  "mn10:46.4": {
-    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya cha vassāni pe",
-    "zh": "諸比丘，無論何人若如此修習這四念住達六年……（以下省略）"
-  },
-  "mn10:46.5": {
-    "pi": "pañca vassāni",
-    "zh": "五年"
-  },
-  "mn10:46.6": {
-    "pi": "cattāri vassāni",
-    "zh": "四年"
-  },
-  "mn10:46.7": {
-    "pi": "tīṇi vassāni",
-    "zh": "三年"
-  },
-  "mn10:46.8": {
-    "pi": "dve vassāni",
-    "zh": "二年"
-  },
-  "mn10:46.9": {
-    "pi": "ekaṁ vassaṁ",
-    "zh": "一個雨季"
-  },
-  "mn10:46.10": {
-    "pi": "tiṭṭhatu bhikkhave ekaṁ vassaṁ",
-    "zh": "諸比丘，且置一雨季。"
-  },
-  "mn10:46.11": {
-    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya satta māsāni tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
-    "zh": "諸比丘，凡任何人如此修習這四念處，（資料標注為「執著之」）諸月，對彼而言，兩種果中某一果可以期待。"
-  },
-  "mn10:46.12": {
-    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitā",
-    "zh": "在具此性質的法中持有見解者，若另一種（智）存在，則（得）不還或有餘（執取殘餘）。"
-  },
-  "mn10:46.13": {
-    "pi": "Tiṭṭhantu bhikkhave satta māsāni",
-    "zh": "諸比丘，且置（資料標注為「執著之」）諸月。"
-  },
-  "mn10:46.14": {
-    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya cha māsāni pe",
-    "zh": "諸比丘，凡任何人如此修習這四念處六個月……（pe 為省略符號，後文省略）"
-  },
-  "mn10:46.15": {
-    "pi": "pañca māsāni",
-    "zh": "五個月"
-  },
-  "mn10:46.16": {
-    "pi": "cattāri māsāni",
-    "zh": "四個月"
-  },
-  "mn10:46.17": {
-    "pi": "tīṇi māsāni",
-    "zh": "三個月"
-  },
-  "mn10:46.18": {
-    "pi": "dve māsāni",
-    "zh": "兩個月"
-  },
-  "mn10:46.19": {
-    "pi": "ekaṁ māsaṁ",
-    "zh": "一個月"
-  },
-  "mn10:46.20": {
-    "pi": "aḍḍhamāsaṁ",
-    "zh": "半個māsaka（低值幣）"
-  },
-  "mn10:46.21": {
-    "pi": "tiṭṭhatu bhikkhave aḍḍhamāso",
-    "zh": "比丘們，讓半個māsaka先擱置一旁，"
-  },
-  "mn10:46.22": {
-    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya sattāhaṁ tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
-    "zh": "比丘們，任何人若如此修習這四念住七天，對他而言，兩果中某一果可以期待："
-  },
-  "mn10:46.23": {
-    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti",
-    "zh": "就在當下持此見解之法中——或另一種，若有餘依存在，即不還果。"
-  },
-  "mn10:47.1": {
-    "pi": "Ekāyano ayaṁ bhikkhave maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ cattāro satipaṭṭhānā ti",
-    "zh": "比丘們，此乃直接之道，為（眾生）清淨、超越憂與悲、消滅苦與憂惱、獲得正道、親證涅槃——即四念住。"
-  },
-  "mn10:47.2": {
-    "pi": "Iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan ti",
-    "zh": "如是，凡那（被播種散布）之事，此乃指彼——（資料不足）——（引句結束）"
-  },
-  "mn10:47.3": {
-    "pi": "Idamavoca bhagavā",
-    "zh": "具吉祥德性者（世尊）如是說了這。"
-  },
-  "mn10:47.4": {
-    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
-    "zh": "那些比丘們對世尊所說的話滿心歡喜、欣然讚同。"
-  },
-  "mn10:47.5": {
-    "pi": "Satipaṭṭhānasuttaṁ niṭṭhitaṁ dasamaṁ",
-    "zh": "第十《念處經》已圓滿結束。"
-  },
-  "mn10:47.6": {
-    "pi": "Mūlapariyāyavaggo niṭṭhito paṭhamo",
-    "zh": "第一《根本法門品》已圓滿結束。"
-  },
-  "mn10:48.0": {
-    "pi": "Tassuddānaṁ",
-    "zh": "彼品攝頌（各品末尾列示諸經標題或主題之簡短偈頌）。"
-  },
-  "mn10:48.1": {
-    "pi": "Mūlasusaṁvaradhammadāyādā",
-    "zh": "〔攝頌含〕根本（法門）、善（調）伏、法嗣（即MN1、MN2、MN3）。"
-  },
-  "mn10:48.2": {
-    "pi": "Bheravānaṅgaṇākaṅkheyyavatthaṁ",
-    "zh": "〔以及〕怖畏—無垢穢—願欲—法衣（即MN4、MN5、MN6、MN7）。"
-  },
-  "mn10:48.3": {
-    "pi": "Sallekhasammādiṭṭhisatipaṭṭhaṁ",
-    "zh": "〔以及〕削減—正見—念處（即MN8、MN9、MN10）。"
-  },
-  "mn10:48.4": {
-    "pi": "Vaggavaro asamo susamatto",
-    "zh": "殊勝品，阿薩摩（天神），善妙領受之。"
-  },
   "mn2:1.1": {
     "pi": "Evaṁ me sutaṁ",
     "zh": "如是我所聞。"
@@ -2338,6 +1407,937 @@
   "mn9:71.5": {
     "pi": "Sammādiṭṭhisuttaṁ niṭṭhitaṁ navamaṁ",
     "zh": "《正見經》，第九篇，圓滿完畢。"
+  },
+  "mn10:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn10:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo",
+    "zh": "一時，世尊住於拘樓國，（在）名為劍磨瑟曇的拘樓人市鎮（中）。"
+  },
+  "mn10:1.3": {
+    "pi": "Tatra kho bhagavā bhikkhū āmantesi",
+    "zh": "在那裡，世尊確實招呼了比丘們。"
+  },
+  "mn10:1.4": {
+    "pi": "bhikkhavo ti",
+    "zh": "「比丘們！」"
+  },
+  "mn10:1.5": {
+    "pi": "Bhadante ti te bhikkhū bhagavato paccassosuṁ",
+    "zh": "「尊者！」那些比丘們回應了世尊。"
+  },
+  "mn10:1.6": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這（話）："
+  },
+  "mn10:2.1": {
+    "pi": "Ekāyano ayaṁ bhikkhave maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ cattāro satipaṭṭhānā",
+    "zh": "「比丘們！這是眾生清淨、超越愁悲、消滅苦憂、證得正理、親證涅槃的唯一道路，亦即四念處。」"
+  },
+  "mn10:3.1": {
+    "pi": "Katame cattāro",
+    "zh": "哪四（念處）？"
+  },
+  "mn10:3.2": {
+    "pi": "Idha bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "於此，比丘們！比丘隨觀身於身而住，精勤、正知、具念，捨除世間的貪憂。"
+  },
+  "mn10:3.3": {
+    "pi": "vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "（比丘）隨觀受於受而住，精勤、正知、具念，捨除世間的貪憂。"
+  },
+  "mn10:3.4": {
+    "pi": "citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "（比丘）隨觀心於心而住，精勤、正知、具念，捨除世間的貪憂。"
+  },
+  "mn10:3.5": {
+    "pi": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "（比丘）隨觀法於諸法而住，精勤、正知、具念，捨除世間的貪憂。"
+  },
+  "mn10:3.6": {
+    "pi": "Uddeso niṭṭhito",
+    "zh": "總說已竟。"
+  },
+  "mn10:4.0.1": {
+    "pi": "1 Kāyānupassanā",
+    "zh": "〔身隨觀〕"
+  },
+  "mn10:4.0.2": {
+    "pi": "1.1 Kāyānupassanāānāpānapabba",
+    "zh": "〔身隨觀——入出息節〕"
+  },
+  "mn10:4.1": {
+    "pi": "Kathañca bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "諸比丘，比丘如何於身隨觀身而住？"
+  },
+  "mn10:4.2": {
+    "pi": "Idha bhikkhave bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā",
+    "zh": "於此，諸比丘，比丘往林中，[或]至樹下，[或]往空閑處，坐下，盤折[就座]，端正[身體]，[令念]朝向當前，安立[念]。"
+  },
+  "mn10:4.3": {
+    "pi": "So satova assasati satova passasati",
+    "zh": "彼[具念]入息，[具念]出息。"
+  },
+  "mn10:4.4": {
+    "pi": "Dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti",
+    "zh": "入息長時，了知『（吸）長』；出息長時，了知『（呼）長』。"
+  },
+  "mn10:4.5": {
+    "pi": "rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
+    "zh": "入息短時，了知『（吸）短』；出息短時，了知『（呼）短』。"
+  },
+  "mn10:4.6": {
+    "pi": "Sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "『覺知全身（而入息）』，如是修習；『覺知全身（而出息）』，如是修習。"
+  },
+  "mn10:4.7": {
+    "pi": "Passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "『令身行平靜（而入息）』，如是修習；『令身行平靜（而出息）』，如是修習。"
+  },
+  "mn10:4.8": {
+    "pi": "Seyyathāpi bhikkhave dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto dīghaṁ añchāmī ti pajānāti rassaṁ vā añchanto rassaṁ añchāmī ti pajānāti",
+    "zh": "諸比丘，就好像一位車工（或其學徒），在車削長件時了知「我在車削長件」，在車削短件時了知「我在車削短件」。"
+  },
+  "mn10:4.9": {
+    "pi": "evameva kho bhikkhave bhikkhu dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
+    "zh": "諸比丘，同樣地，比丘在長吸氣時了知「我在長吸氣」；在長呼氣時了知「我在長呼氣」；在短吸氣時了知「我在短吸氣」；在短呼氣時了知「我在短呼氣」。"
+  },
+  "mn10:4.10": {
+    "pi": "sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "他修習「感受著全身（而呼吸）」；他修習「感受著全身（而呼吸）」。（兩次分別對應吸氣與呼氣）"
+  },
+  "mn10:4.11": {
+    "pi": "passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "他修習「令身行平靜（而呼吸）」；他修習「令身行平靜（而呼吸）」。（兩次分別對應吸氣與呼氣）"
+  },
+  "mn10:5.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
+    "zh": "如此，他或對內在的身隨觀身而安住，或對外在的身隨觀身而安住，或對內外的身隨觀身而安住。"
+  },
+  "mn10:5.2": {
+    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
+    "zh": "他或安住於隨觀身中諸法的生起，或安住於隨觀身中諸法的滅去，或安住於隨觀身中諸法的生滅。"
+  },
+  "mn10:5.3": {
+    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有身」的念現前，僅為了知與念而建立。他不依附而安住，對世間任何事物不執取。"
+  },
+  "mn10:5.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "諸比丘，比丘就這樣隨觀身而安住於身中。"
+  },
+  "mn10:5.5": {
+    "pi": "Ānāpānapabbaṁ niṭṭhitaṁ",
+    "zh": "入出息節（已）完畢。"
+  },
+  "mn10:6.0": {
+    "pi": "1.2 Kāyānupassanāiriyāpathapabba",
+    "zh": "身隨觀威儀路節。"
+  },
+  "mn10:6.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu gacchanto vā gacchāmī ti pajānāti ṭhito vā ṭhitomhī ti pajānāti nisinno vā nisinnomhī ti pajānāti sayāno vā sayānomhī ti pajānāti",
+    "zh": "再者，諸比丘，比丘行走時清楚了知；站立時清楚了知；坐著時清楚了知；臥下時清楚了知。"
+  },
+  "mn10:6.2": {
+    "pi": "Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti",
+    "zh": "無論（身體被安置於何種狀態），他便如實清楚了知之。（注：t3、t4 資料存疑，整段語義依其餘 token 重建）"
+  },
+  "mn10:7.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
+    "zh": "如是，或於內身隨觀身而安住，或於外身隨觀身而安住，或於內外身隨觀身而安住。"
+  },
+  "mn10:7.2": {
+    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
+    "zh": "或於身中隨觀生起之法而安住，或於身中隨觀滅去之法而安住，或於身中隨觀生滅之法而安住。"
+  },
+  "mn10:7.3": {
+    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有身」如此，念便現前確立；僅以了知的量度、持續正念的量度，他不依附而安住，對世間任何事物皆不執取。"
+  },
+  "mn10:7.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "諸比丘，比丘如此於身隨觀身而安住。"
+  },
+  "mn10:7.5": {
+    "pi": "Iriyāpathapabbaṁ niṭṭhitaṁ",
+    "zh": "威儀節完畢。"
+  },
+  "mn10:8.0": {
+    "pi": "1.3 Kāyānupassanāsampajānapabba"
+  },
+  "mn10:8.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu abhikkante paṭikkante sampajānakārī hoti ālokite vilokite sampajānakārī hoti samiñjite pasārite sampajānakārī hoti saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti asite pīte khāyite sāyite sampajānakārī hoti uccārapassāvakamme sampajānakārī hoti gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti",
+    "zh": "再者，諸比丘，比丘前進時、返回時，以正知行事；向前看時、環顧時，以正知行事；（肢體）彎曲時、伸展時，以正知行事；持執大衣、缽及衣時，以正知行事；食、飲、嚼、嚐時，以正知行事；大小便時，以正知行事；行走、站立、坐著、睡眠、醒寤、說話、保持沉默時，以正知行事。"
+  },
+  "mn10:9.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "如是，或於內身隨觀身而安住……（以下省略，同前文）"
+  },
+  "mn10:9.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "諸比丘，比丘如此於身隨觀身而安住。"
+  },
+  "mn10:9.3": {
+    "pi": "Sampajānapabbaṁ niṭṭhitaṁ",
+    "zh": "正知節，圓滿完畢。"
+  },
+  "mn10:10.0": {
+    "pi": "1.4 Kāyānupassanāpaṭikūlamanasikārapabba",
+    "zh": "（標題）身隨觀——不淨作意節"
+  },
+  "mn10:10.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati",
+    "zh": "再者，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
+  },
+  "mn10:10.2": {
+    "pi": "atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan ti",
+    "zh": "在這個身體中，有：髮、體毛、指甲、牙齒、皮膚、肉、肌腱、骨骼、骨髓、腎臟、心臟、肝臟、胸膜、脾臟、肺臟、腸、腸繫膜、胃中食物、糞便、膽汁、痰液、膿、血液、汗水、脂肪、淚水、油脂、唾液、鼻涕、關節滑液。"
+  },
+  "mn10:10.3": {
+    "pi": "Seyyathāpi bhikkhave ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa seyyathidaṁ sālīnaṁ vīhīnaṁ muggānaṁ māsānaṁ tilānaṁ taṇḍulānaṁ Tamenaṁ cakkhumā puriso muñcitvā paccavekkheyya ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā ti",
+    "zh": "諸比丘，就好像有一只兩端開口的播種袋，裝滿各種穀物——精米、稻穀、綠豆、（資料義：月份）、芝麻、去殼米——一位有眼睛的人打開袋子，便能逐一識別：「這是精米，這是稻穀，這是綠豆，這是（資料義：月份），這是芝麻，這是去殼米。」"
+  },
+  "mn10:10.4": {
+    "pi": "Evameva kho bhikkhave bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati",
+    "zh": "同樣地，諸比丘，比丘就在這個身體——從足底往上，從髮頂往下，以皮膚為界——充滿各種不淨之物，加以觀察："
+  },
+  "mn10:10.5": {
+    "pi": "atthi imasmiṁ kāye kesā lomā pe muttan ti",
+    "zh": "在這個身體中，有（諸部位）……（中略）。"
+  },
+  "mn10:11.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "如是，或在自身內，觀身而住……（中略）"
+  },
+  "mn10:11.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "如此，諸比丘，比丘便安住於觀身之中。"
+  },
+  "mn10:11.3": {
+    "pi": "Paṭikūlamanasikārapabbaṁ niṭṭhitaṁ",
+    "zh": "不淨作意節，圓滿完畢。"
+  },
+  "mn10:12.0": {
+    "pi": "1.5 Kāyānupassanādhātumanasikārapabba",
+    "zh": "身隨觀・界作意品（章節標題）"
+  },
+  "mn10:12.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati",
+    "zh": "「諸比丘，比丘又進而對此（身），如其所立、如其所向，以界的方式加以省察。」"
+  },
+  "mn10:12.2": {
+    "pi": "atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū ti",
+    "zh": "「此身中有地界、水界、火界、風界。」"
+  },
+  "mn10:12.3": {
+    "pi": "Seyyathāpi bhikkhave dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa",
+    "zh": "「諸比丘，猶如屠牛者，或屠牛者的徒弟，宰殺一頭牛之後，在四衢大道上將其逐一切分，就坐於此——」（注：t2 dakkho 依提供資料釋為「看見了」，語境難解；t4、t6 vā 資料不足，整段白話依脈絡重建）"
+  },
+  "mn10:12.4": {
+    "pi": "Evameva kho bhikkhave bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati",
+    "zh": "「諸比丘，同樣地，比丘確實對此（身），如其所立、如其所向，以界的方式加以省察。」"
+  },
+  "mn10:12.5": {
+    "pi": "atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū ti",
+    "zh": "「此身中有地界、水界、火界、風界。」"
+  },
+  "mn10:13.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "「如此，或就自身的身體隨觀身而住……（後文省略，依前文類推）」"
+  },
+  "mn10:13.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "「如此，諸比丘，比丘確實就身體隨觀身而住。」"
+  },
+  "mn10:13.3": {
+    "pi": "Dhātumanasikārapabbaṁ niṭṭhitaṁ",
+    "zh": "「界作意品，已圓滿完畢。」"
+  },
+  "mn10:14.0": {
+    "pi": "1.6 Kāyānupassanānavasivathikapabba",
+    "zh": "身隨觀・九塚間觀品（章節標題）"
+  },
+  "mn10:14.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ ekāhamataṁ vā dvīhamataṁ vā tīhamataṁ vā uddhumātakaṁ vinīlakaṁ vipubbakajātaṁ",
+    "zh": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，死亡一日、兩日或三日，已膨脹、已青紫、已流膿。"
+  },
+  "mn10:14.2": {
+    "pi": "So imameva kāyaṁ upasaṁharati",
+    "zh": "他就以正是此身與之相類比。"
+  },
+  "mn10:14.3": {
+    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
+    "zh": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
+  },
+  "mn10:15.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
+  },
+  "mn10:15.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
+  },
+  "mn10:16.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ kākehi vā khajjamānaṁ kulalehi vā khajjamānaṁ gijjhehi vā khajjamānaṁ kaṅkehi vā khajjamānaṁ sunakhehi vā khajjamānaṁ byagghehi vā khajjamānaṁ dīpīhi vā khajjamānaṁ siṅgālehi vā khajjamānaṁ vividhehi vā pāṇakajātehi khajjamānaṁ",
+    "zh": "再者，比丘們，比丘（假設他）見到一具遺體被棄置於墳場，正被烏鴉、猛禽、禿鷲、（另種）烏鴉、狗、虎、豹、胡狼、或各種小生物所啃食。"
+  },
+  "mn10:16.2": {
+    "pi": "So imameva kāyaṁ upasaṁharati",
+    "zh": "他就以正是此身與之相類比。"
+  },
+  "mn10:16.3": {
+    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
+    "zh": "「此（身）確實亦具此本性、將趨向如是、尚未超越此。」"
+  },
+  "mn10:17.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "如此，（他）安住於對內在身體的隨觀……（省略，以下略）"
+  },
+  "mn10:17.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "就這樣，比丘們，比丘確實安住於對身體的隨觀。"
+  },
+  "mn10:18-23.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ aṭṭhikasaṅkhalikaṁ samaṁsalohitaṁ nhārusambandhaṁ pe",
+    "zh": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的骸骨——帶有肉與血、以筋腱相連……（以下略）"
+  },
+  "mn10:18-23.2": {
+    "pi": "Aṭṭhikasaṅkhalikaṁ nimaṁsalohitamakkhitaṁ nhārusambandhaṁ pe",
+    "zh": "骸骨——無肉而染有血跡、以筋腱相連……（以下略）"
+  },
+  "mn10:18-23.3": {
+    "pi": "Aṭṭhikasaṅkhalikaṁ apagatamaṁsalohitaṁ nhārusambandhaṁ pe",
+    "zh": "骸骨——無肉無血、以筋腱相連……（以下略）"
+  },
+  "mn10:24.1": {
+    "pi": "Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni aññena hatthaṭṭhikaṁ aññena pādaṭṭhikaṁ aññena gopphakaṭṭhikaṁ aññena jaṅghaṭṭhikaṁ aññena ūruṭṭhikaṁ aññena kaṭiṭṭhikaṁ aññena phāsukaṭṭhikaṁ aññena piṭṭhiṭṭhikaṁ aññena khandhaṭṭhikaṁ aññena gīvaṭṭhikaṁ aññena hanukaṭṭhikaṁ aññena dantaṭṭhikaṁ aññena sīsakaṭāhaṁ",
+    "zh": "諸骨失去連結，散落四方——手骨在一處，足骨在另一處，踝骨在另一處，脛骨在另一處，股骨在另一處，髖骨在另一處，肋骨在另一處，脊骨在另一處，上脊骨在另一處，頸骨在另一處，顎骨在另一處，牙齒在另一處，頭骨在另一處。"
+  },
+  "mn10:24.2": {
+    "pi": "So imameva kāyaṁ upasaṁharati",
+    "zh": "彼（比丘）將正是此與其相比較。"
+  },
+  "mn10:24.3": {
+    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
+    "zh": "此（身）確實具有如此本質，命定如此，尚未超越此。"
+  },
+  "mn10:25.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati pe",
+    "zh": "如是，（他）於內在身中隨觀身而安住……（以下略）"
+  },
+  "mn10:25.2": {
+    "pi": "evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "諸比丘，如此確實，比丘於身中隨觀身而安住。"
+  },
+  "mn10:26-28.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni pe",
+    "zh": "再者，諸比丘，比丘猶如看見一具被棄置於屍林中的遺體——諸骨白色，如法螺殼之色……（以下略）"
+  },
+  "mn10:29.1": {
+    "pi": "Aṭṭhikāni puñjakitāni terovassikāni pe",
+    "zh": "諸骨堆積成堆，已超過一年……（以下略）"
+  },
+  "mn10:30.1": {
+    "pi": "Aṭṭhikāni pūtīni cuṇṇakajātāni",
+    "zh": "腐臭的、化為粉末的骨骸。"
+  },
+  "mn10:30.2": {
+    "pi": "So imameva kāyaṁ upasaṁharati",
+    "zh": "彼將正是此〔何物〕與之相比擬。"
+  },
+  "mn10:30.3": {
+    "pi": "ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto ti",
+    "zh": "「此〔何物〕確實具有如此本性，命定如此，尚未超越此。」"
+  },
+  "mn10:31.1": {
+    "pi": "Iti ajjhattaṁ vā kāye kāyānupassī viharati bahiddhā vā kāye kāyānupassī viharati ajjhattabahiddhā vā kāye kāyānupassī viharati",
+    "zh": "如此，就自身之身觀身而住，就外身觀身而住，就內外之身觀身而住。"
+  },
+  "mn10:31.2": {
+    "pi": "samudayadhammānupassī vā kāyasmiṁ viharati vayadhammānupassī vā kāyasmiṁ viharati samudayavayadhammānupassī vā kāyasmiṁ viharati",
+    "zh": "觀（身中）諸法生起之性而住，觀諸法滅去之性而住，觀諸法生起與滅去之性而住。"
+  },
+  "mn10:31.3": {
+    "pi": "Atthi kāyo ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有〔何物〕」——〔於滅失中〕，念現前安立成為；僅為了知之量與持續正念之量，不依附而住，不於世間執取任何事物。"
+  },
+  "mn10:31.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati",
+    "zh": "如此，確實，諸比丘，比丘於身觀身而住。"
+  },
+  "mn10:31.5": {
+    "pi": "Navasivathikapabbaṁ niṭṭhitaṁ",
+    "zh": "九塚間觀品，已完畢。"
+  },
+  "mn10:31.6": {
+    "pi": "Cuddasakāyānupassanā niṭṭhitā",
+    "zh": "十四身觀，已完畢。"
+  },
+  "mn10:32.0": {
+    "pi": "2 Vedanānupassanā",
+    "zh": "受隨觀"
+  },
+  "mn10:32.1": {
+    "pi": "Kathañca bhikkhave bhikkhu vedanāsu vedanānupassī viharati",
+    "zh": "諸比丘，比丘如何於諸感受中隨觀感受而住？"
+  },
+  "mn10:32.2": {
+    "pi": "Idha bhikkhave bhikkhu sukhaṁ vā vedanaṁ vedayamāno sukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "諸比丘，於此，比丘感受樂受時，了知『我感受樂受』。"
+  },
+  "mn10:32.3": {
+    "pi": "Dukkhaṁ vā vedanaṁ vedayamāno dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受苦受時，了知『我感受苦受』。"
+  },
+  "mn10:32.4": {
+    "pi": "Adukkhamasukhaṁ vā vedanaṁ vedayamāno adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受不苦不樂受時，了知『我感受不苦不樂受』。"
+  },
+  "mn10:32.5": {
+    "pi": "Sāmisaṁ vā sukhaṁ vedanaṁ vedayamāno sāmisaṁ sukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受世俗樂受時，了知『我感受世俗樂受』。"
+  },
+  "mn10:32.6": {
+    "pi": "Nirāmisaṁ vā sukhaṁ vedanaṁ vedayamāno nirāmisaṁ sukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受出世間樂受時，了知『我感受出世間樂受』。"
+  },
+  "mn10:32.7": {
+    "pi": "Sāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno sāmisaṁ dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受世俗苦受時，了知『我感受世俗苦受』。"
+  },
+  "mn10:32.8": {
+    "pi": "Nirāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno nirāmisaṁ dukkhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受出世間苦受時，了知『我感受出世間苦受』。"
+  },
+  "mn10:32.9": {
+    "pi": "Sāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno sāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受世俗不苦不樂受時，了知『我感受世俗不苦不樂受』。"
+  },
+  "mn10:32.10": {
+    "pi": "Nirāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno nirāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī ti pajānāti",
+    "zh": "感受出世間不苦不樂受時，了知『我感受出世間不苦不樂受』。"
+  },
+  "mn10:33.1": {
+    "pi": "Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati bahiddhā vā vedanāsu vedanānupassī viharati ajjhattabahiddhā vā vedanāsu vedanānupassī viharati",
+    "zh": "如是，或於內在諸受中隨觀感受而住，或於外在諸受中隨觀感受而住，或於內外諸受中隨觀感受而住。"
+  },
+  "mn10:33.2": {
+    "pi": "samudayadhammānupassī vā vedanāsu viharati vayadhammānupassī vā vedanāsu viharati samudayavayadhammānupassī vā vedanāsu viharati",
+    "zh": "或於諸受中隨觀生起之法性而住，或於諸受中隨觀滅去之法性而住，或於諸受中隨觀生滅之法性而住。"
+  },
+  "mn10:33.3": {
+    "pi": "Atthi vedanā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有受」——（念）現前確立而成；恰到僅為了了知、持續念的程度，不依附而住，對世間任何事物皆不執取。（t4 panassa、t5 sati 所提供詞條與本段語境落差明顯，整段白話綜合其餘詞條語境整合。）"
+  },
+  "mn10:33.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu vedanāsu vedanānupassī viharati",
+    "zh": "如此，諸比丘，比丘確實於諸受中隨觀感受而住。"
+  },
+  "mn10:33.5": {
+    "pi": "Vedanānupassanā niṭṭhitā",
+    "zh": "受隨觀竟。"
+  },
+  "mn10:34.0": {
+    "pi": "3 Cittānupassanā",
+    "zh": "心隨觀。"
+  },
+  "mn10:34.1": {
+    "pi": "Kathañca bhikkhave bhikkhu citte cittānupassī viharati",
+    "zh": "又，諸比丘，比丘如何隨觀心而住？"
+  },
+  "mn10:34.2": {
+    "pi": "Idha bhikkhave bhikkhu sarāgaṁ vā cittaṁ sarāgaṁ cittan ti pajānāti",
+    "zh": "於此，諸比丘，比丘或於有貪之心，了知（其心）為「有貪之心」。"
+  },
+  "mn10:34.3": {
+    "pi": "Vītarāgaṁ vā cittaṁ vītarāgaṁ cittan ti pajānāti",
+    "zh": "或於離貪之心，了知（其心）為「離貪之心」。"
+  },
+  "mn10:34.4": {
+    "pi": "Sadosaṁ vā cittaṁ sadosaṁ cittan ti pajānāti",
+    "zh": "或於有瞋之心，了知（其心）為「有瞋之心」。"
+  },
+  "mn10:34.5": {
+    "pi": "Vītadosaṁ vā cittaṁ vītadosaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知離瞋之心為「離瞋之心」。"
+  },
+  "mn10:34.6": {
+    "pi": "Samohaṁ vā cittaṁ samohaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知有癡之心為「有癡之心」。"
+  },
+  "mn10:34.7": {
+    "pi": "Vītamohaṁ vā cittaṁ vītamohaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知離癡之心為「離癡之心」。"
+  },
+  "mn10:34.8": {
+    "pi": "Saṅkhittaṁ vā cittaṁ saṅkhittaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知收縮之心為「收縮之心」。"
+  },
+  "mn10:34.9": {
+    "pi": "Vikkhittaṁ vā cittaṁ vikkhittaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知散亂之心為「散亂之心」。"
+  },
+  "mn10:34.10": {
+    "pi": "Mahaggataṁ vā cittaṁ mahaggataṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知廣大之心為「廣大之心」。"
+  },
+  "mn10:34.11": {
+    "pi": "Amahaggataṁ vā cittaṁ amahaggataṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知不廣大之心為「不廣大之心」。"
+  },
+  "mn10:34.12": {
+    "pi": "Sauttaraṁ vā cittaṁ sauttaraṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知有上之心（尚可被超越之心）為「有上之心」。"
+  },
+  "mn10:34.13": {
+    "pi": "Anuttaraṁ vā cittaṁ anuttaraṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知無上之心（無可超越之心）為「無上之心」。"
+  },
+  "mn10:34.14": {
+    "pi": "Samāhitaṁ vā cittaṁ samāhitaṁ cittan ti pajānāti",
+    "zh": "或者，（他）了知入定之心（已攝收的心）為「入定之心」。"
+  },
+  "mn10:34.15": {
+    "pi": "Asamāhitaṁ vā cittaṁ asamāhitaṁ cittan ti pajānāti",
+    "zh": "或者，心未得定，〔他〕了知「〔此心〕未得定」。"
+  },
+  "mn10:34.16": {
+    "pi": "Vimuttaṁ vā cittaṁ vimuttaṁ cittan ti pajānāti",
+    "zh": "或者，心已解脫，〔他〕了知「〔此心〕已解脫」。"
+  },
+  "mn10:34.17": {
+    "pi": "Avimuttaṁ vā cittaṁ avimuttaṁ cittan ti pajānāti",
+    "zh": "或者，心未解脫，〔他〕了知「〔此心〕未解脫」。"
+  },
+  "mn10:35.1": {
+    "pi": "Iti ajjhattaṁ vā citte cittānupassī viharati bahiddhā vā citte cittānupassī viharati ajjhattabahiddhā vā citte cittānupassī viharati",
+    "zh": "如此，〔他〕或於內心隨觀心而安住，或於外心隨觀心而安住，或於內外心隨觀心而安住。"
+  },
+  "mn10:35.2": {
+    "pi": "samudayadhammānupassī vā cittasmiṁ viharati vayadhammānupassī vā cittasmiṁ viharati samudayavayadhammānupassī vā cittasmiṁ viharati",
+    "zh": "或於心中隨觀生起之法而安住，或於心中隨觀滅去之法而安住，或於心中隨觀生滅之法而安住。"
+  },
+  "mn10:35.3": {
+    "pi": "Atthi cittan ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "或「有〔心〕」，彼之正念現前建立；只為達到了知之量、念住之量，〔他〕離依而住，不執取世間任何事物。"
+  },
+  "mn10:35.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu citte cittānupassī viharati",
+    "zh": "諸比丘，如此，比丘確實於心隨觀心而安住。"
+  },
+  "mn10:35.5": {
+    "pi": "Cittānupassanā niṭṭhitā",
+    "zh": "心隨觀已竟。"
+  },
+  "mn10:36.0.1": {
+    "pi": "4 Dhammānupassanā",
+    "zh": "法隨觀（法念住）"
+  },
+  "mn10:36.0.2": {
+    "pi": "4.1 Dhammānupassanānīvaraṇapabba",
+    "zh": "法隨觀——蓋（障礙）品"
+  },
+  "mn10:36.1": {
+    "pi": "Kathañca bhikkhave bhikkhu dhammesu dhammānupassī viharati",
+    "zh": "諸比丘，比丘如何於諸法中隨觀諸法而住？"
+  },
+  "mn10:36.2": {
+    "pi": "Idha bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
+    "zh": "諸比丘，於此，比丘於五蓋中隨觀諸法而住。"
+  },
+  "mn10:36.3": {
+    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
+    "zh": "又，諸比丘，比丘如何於五蓋中隨觀諸法而住？"
+  },
+  "mn10:36.4": {
+    "pi": "Idha bhikkhave bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ atthi me ajjhattaṁ kāmacchando ti pajānāti asantaṁ vā ajjhattaṁ kāmacchandaṁ natthi me ajjhattaṁ kāmacchando ti pajānāti yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "於此，諸比丘，比丘了知內在有欲欲——「我內在有欲欲」；了知內在無欲欲——「我內在無欲欲」；又了知未生起之欲欲如何生起，了知那；了知已生起之欲欲如何得以捨斷，了知那；了知已捨斷之欲欲如何於將來不再生起，了知那。"
+  },
+  "mn10:36.5": {
+    "pi": "Santaṁ vā ajjhattaṁ byāpādaṁ atthi me ajjhattaṁ byāpādo ti pajānāti asantaṁ vā ajjhattaṁ byāpādaṁ natthi me ajjhattaṁ byāpādo ti pajānāti yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "內在有瞋恚，了知「我內在有瞋恚」；內在無瞋恚，了知「我內在無瞋恚」；了知未生起之瞋恚如何生起，了知那；了知已生起之瞋恚如何得以捨斷，了知那；了知已捨斷之瞋恚如何於將來不再生起，了知那。"
+  },
+  "mn10:36.6": {
+    "pi": "Santaṁ vā ajjhattaṁ thinamiddhaṁ atthi me ajjhattaṁ thinamiddhan ti pajānāti asantaṁ vā ajjhattaṁ thinamiddhaṁ natthi me ajjhattaṁ thinamiddhan ti pajānāti yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "內在有昏沉睡眠，了知「我內在有昏沉睡眠」；內在無昏沉睡眠，了知「我內在無昏沉睡眠」；了知未生起之昏沉睡眠如何生起，了知那；了知已生起之昏沉睡眠如何得以捨斷，了知那；了知已捨斷之昏沉睡眠如何於將來不再生起，了知那。"
+  },
+  "mn10:36.7": {
+    "pi": "Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ atthi me ajjhattaṁ uddhaccakukkuccan ti pajānāti asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ natthi me ajjhattaṁ uddhaccakukkuccan ti pajānāti yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "內在有掉舉惡作，了知「我內在有掉舉惡作」；內在無掉舉惡作，了知「我內在無掉舉惡作」；了知未生起之掉舉惡作如何生起，了知那；了知已生起之掉舉惡作如何得以捨斷，了知那；了知已捨斷之掉舉惡作如何於將來不再生起，了知那。"
+  },
+  "mn10:36.8": {
+    "pi": "Santaṁ vā ajjhattaṁ vicikicchaṁ atthi me ajjhattaṁ vicikicchā ti pajānāti asantaṁ vā ajjhattaṁ vicikicchaṁ natthi me ajjhattaṁ vicikicchā ti pajānāti yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "內在有疑惑，了知「我內在有疑惑」；內在無疑惑，了知「我內在無疑惑」；了知未生起之疑惑如何生起，了知那；了知已生起之疑惑如何得以捨斷，了知那；了知已捨斷之疑惑如何於將來不再生起，了知那。"
+  },
+  "mn10:37.1": {
+    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
+    "zh": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
+  },
+  "mn10:37.2": {
+    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
+    "zh": "或於諸法中隨觀集起之法而住，或於諸法中隨觀滅去之法而住，或於諸法中隨觀集起與滅去之法而住。"
+  },
+  "mn10:37.3": {
+    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有（具如此性質的）諸法」——或者——（某物）消失了；（念）存在之時，（諸法）得以現前；僅為了了知的程度、持續念的程度，（比丘）不依附而安住，不執取世間任何事物。"
+  },
+  "mn10:37.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu",
+    "zh": "諸比丘，如此確實，比丘於諸法（具如此性質的事物）中隨觀諸法，安住於五蓋中。"
+  },
+  "mn10:37.5": {
+    "pi": "Nīvaraṇapabbaṁ niṭṭhitaṁ",
+    "zh": "蓋品，圓滿完結。"
+  },
+  "mn10:38.0": {
+    "pi": "4.2 Dhammānupassanākhandhapabba",
+    "zh": "（法隨觀）蘊品。"
+  },
+  "mn10:38.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
+    "zh": "再者，諸比丘，比丘於諸法中隨觀諸法，安住於五取蘊中。"
+  },
+  "mn10:38.2": {
+    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
+    "zh": "然而，諸比丘，比丘如何於諸法中隨觀諸法，安住於五取蘊中？"
+  },
+  "mn10:38.3": {
+    "pi": "Idha bhikkhave bhikkhu",
+    "zh": "諸比丘，在此（教法中），比丘（如是觀察）："
+  },
+  "mn10:38.4": {
+    "pi": "iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo",
+    "zh": "「如是色；如是色之集；如是色之滅。」"
+  },
+  "mn10:38.5": {
+    "pi": "iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo",
+    "zh": "「如是受；如是受之集；如是受之滅。」"
+  },
+  "mn10:38.6": {
+    "pi": "iti saññā iti saññāya samudayo iti saññāya atthaṅgamo",
+    "zh": "「如是想；如是想之集；如是想之滅。」"
+  },
+  "mn10:38.7": {
+    "pi": "iti saṅkhārā iti saṅkhārānaṁ samudayo iti saṅkhārānaṁ atthaṅgamo",
+    "zh": "「如此是諸行，如此是諸行的生起，如此是諸行的滅去。」"
+  },
+  "mn10:38.8": {
+    "pi": "iti viññāṇaṁ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo ti",
+    "zh": "「如此是識，如此是識的生起，如此是識的滅去。」"
+  },
+  "mn10:39.1": {
+    "pi": "iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
+    "zh": "如此，他或於內在的諸法中隨觀諸法而住，或於外在的諸法中隨觀諸法而住，或於內外的諸法中隨觀諸法而住。"
+  },
+  "mn10:39.2": {
+    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
+    "zh": "或住於在諸法中隨觀生起之性，或住於在諸法中隨觀滅去之性，或住於在諸法中隨觀生滅之性。"
+  },
+  "mn10:39.3": {
+    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有此性質的諸法」——正念現前（對他而言）成立。僅為了了知的分量、持續正念的分量，他不依附而住，且對世界中的任何事物都不執取。"
+  },
+  "mn10:39.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu",
+    "zh": "諸比丘，比丘就如此確實地於五取蘊中隨觀諸法而住。"
+  },
+  "mn10:39.5": {
+    "pi": "Khandhapabbaṁ niṭṭhitaṁ",
+    "zh": "蘊品已完結。"
+  },
+  "mn10:40.0": {
+    "pi": "4.3 Dhammānupassanāāyatanapabba",
+    "zh": "法隨觀・處品（章節標題）"
+  },
+  "mn10:40.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
+    "zh": "再者，諸比丘，比丘於六內外處中隨觀諸法而住。"
+  },
+  "mn10:40.2": {
+    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
+    "zh": "然而諸比丘，比丘如何於六內外處中隨觀諸法而住？"
+  },
+  "mn10:40.3": {
+    "pi": "Idha bhikkhave bhikkhu cakkhuñca pajānāti rūpe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "諸比丘，此處比丘了知眼，亦了知諸色；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:40.4": {
+    "pi": "Sotañca pajānāti sadde ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "了知耳，亦了知諸聲；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:40.5": {
+    "pi": "Ghānañca pajānāti gandhe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "了知鼻，亦了知諸香；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:40.6": {
+    "pi": "Jivhañca pajānāti rase ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "了知舌，亦了知諸味；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:40.7": {
+    "pi": "Kāyañca pajānāti phoṭṭhabbe ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "了知身（依資料 lemma=ki，gloss 為疑問代名詞「誰？什麼？」，疑似資料有誤），亦了知諸觸（gloss 為空，資料不足）；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:40.8": {
+    "pi": "Manañca pajānāti dhamme ca pajānāti yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti",
+    "zh": "了知意，亦了知諸法；了知緣此二者而生起之結縛；了知未生起之結縛如何生起；了知已生起之結縛如何被捨斷；了知已被捨斷之結縛於將來如何不再生起。"
+  },
+  "mn10:41.1": {
+    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
+    "zh": "如是，他或就內在諸法觀察諸法而安住，或就外在諸法觀察諸法而安住，或就內外諸法觀察諸法而安住。"
+  },
+  "mn10:41.2": {
+    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
+    "zh": "或就諸法中觀察生起之性而安住，或就諸法中觀察滅去之性而安住，或就諸法中觀察生滅之性而安住。"
+  },
+  "mn10:41.3": {
+    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有諸法」——如是，念已現前；僅就了知之程度、僅就持續念知之程度，他不依附而安住，不執取世間任何事物。（按：panassa 一詞，字典所收釋義與此處文脈不符，疑為連音「pana+assa」，字典尚未拆分。）"
+  },
+  "mn10:41.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu",
+    "zh": "諸比丘，比丘確實如是就六內外入處觀察諸法而安住。"
+  },
+  "mn10:41.5": {
+    "pi": "Āyatanapabbaṁ niṭṭhitaṁ",
+    "zh": "處品已完畢。"
+  },
+  "mn10:42.0": {
+    "pi": "4.4 Dhammānupassanābojjhaṅgapabba",
+    "zh": "觀法——覺支品"
+  },
+  "mn10:42.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
+    "zh": "再者，諸比丘，比丘於七覺支之諸法中，以觀法者的方式安住。"
+  },
+  "mn10:42.2": {
+    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
+    "zh": "諸比丘，比丘如何於七覺支之諸法中以觀法者的方式安住？"
+  },
+  "mn10:42.3": {
+    "pi": "Idha bhikkhave bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ atthi me ajjhattaṁ satisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ natthi me ajjhattaṁ satisambojjhaṅgo ti pajānāti yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "諸比丘，於此，比丘若自身內有念覺支，了知「我內有念覺支」；若自身內無念覺支，了知「我內無念覺支」；又未生起之念覺支如何生起，亦清楚了知；已生起之念覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.4": {
+    "pi": "Santaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ atthi me ajjhattaṁ dhammavicayasambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ natthi me ajjhattaṁ dhammavicayasambojjhaṅgo ti pajānāti yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若自身內有擇法覺支，了知「我內有擇法覺支」；若自身內無擇法覺支，了知「我內無擇法覺支」；又未生起之擇法覺支如何生起，亦清楚了知；已生起之擇法覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.5": {
+    "pi": "Santaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ atthi me ajjhattaṁ vīriyasambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ natthi me ajjhattaṁ vīriyasambojjhaṅgo ti pajānāti yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若自身內有精進覺支，了知「我內有精進覺支」；若自身內無精進覺支，了知「我內無精進覺支」；又未生起之精進覺支如何生起，亦清楚了知；已生起之精進覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.6": {
+    "pi": "Santaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ atthi me ajjhattaṁ pītisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ natthi me ajjhattaṁ pītisambojjhaṅgo ti pajānāti yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若自身內有喜覺支，了知「我內有喜覺支」；若自身內無喜覺支，了知「我內無喜覺支」；又未生起之喜覺支如何生起，亦清楚了知；已生起之喜覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.7": {
+    "pi": "Santaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ atthi me ajjhattaṁ passaddhisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ natthi me ajjhattaṁ passaddhisambojjhaṅgo ti pajānāti yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若自身內有輕安覺支，了知「我內有輕安覺支」；若自身內無輕安覺支，了知「我內無輕安覺支」；又未生起之輕安覺支如何生起，亦清楚了知；已生起之輕安覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.8": {
+    "pi": "Santaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ atthi me ajjhattaṁ samādhisambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ natthi me ajjhattaṁ samādhisambojjhaṅgo ti pajānāti yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若自身內有定覺支，了知「我內有定覺支」；若自身內無定覺支，了知「我內無定覺支」；又未生起之定覺支如何生起，亦清楚了知；已生起之定覺支藉由修習如何達致圓滿，亦清楚了知。"
+  },
+  "mn10:42.9": {
+    "pi": "Santaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ atthi me ajjhattaṁ upekkhāsambojjhaṅgo ti pajānāti asantaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ natthi me ajjhattaṁ upekkhāsambojjhaṅgo ti pajānāti yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti tañca pajānāti yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti",
+    "zh": "若內在已有捨覺支，清楚了知「我內在有捨覺支」；若內在尚無捨覺支，清楚了知「我內在無捨覺支」；並清楚了知，尚未生起的捨覺支如何得以生起；以及已生起的捨覺支藉由修習而圓滿——此亦清楚了知。"
+  },
+  "mn10:43.1": {
+    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
+    "zh": "如是，或於內在諸法中隨觀諸法而住，或於外在諸法中隨觀諸法而住，或於內外諸法中隨觀諸法而住。"
+  },
+  "mn10:43.2": {
+    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
+    "zh": "或於諸法中隨觀生起之性質而住，或於諸法中隨觀滅去之性質而住，或於諸法中隨觀生滅之性質而住。"
+  },
+  "mn10:43.3": {
+    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「諸法存在」——或（依資料）消逝——念已現前；只為了如實了知與持續念知，不依附而住，對諸世界任何事物皆不執取。"
+  },
+  "mn10:43.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu",
+    "zh": "比丘們，比丘如此於七覺支中隨觀諸法而住。"
+  },
+  "mn10:43.5": {
+    "pi": "Bojjhaṅgapabbaṁ niṭṭhitaṁ",
+    "zh": "覺支品圓竟。"
+  },
+  "mn10:44.0": {
+    "pi": "4.5 Dhammānupassanāsaccapabba",
+    "zh": "法隨觀·諦品"
+  },
+  "mn10:44.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
+    "zh": "再者，比丘們，比丘於四聖諦中隨觀諸法而住。"
+  },
+  "mn10:44.2": {
+    "pi": "Kathañca pana bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
+    "zh": "然而，比丘們，比丘如何於四聖諦中隨觀諸法而住？"
+  },
+  "mn10:44.3": {
+    "pi": "Idha bhikkhave bhikkhu idaṁ dukkhan ti yathābhūtaṁ pajānāti ayaṁ dukkhasamudayo ti yathābhūtaṁ pajānāti ayaṁ dukkhanirodho ti yathābhūtaṁ pajānāti ayaṁ dukkhanirodhagāminī paṭipadā ti yathābhūtaṁ pajānāti",
+    "zh": "於此，比丘們，比丘對「此」如實了知；對「此為苦之生起」如實了知；對「此為苦之息滅」如實了知；對「此為導向苦滅之道」如實了知。"
+  },
+  "mn10:45.1": {
+    "pi": "Iti ajjhattaṁ vā dhammesu dhammānupassī viharati bahiddhā vā dhammesu dhammānupassī viharati ajjhattabahiddhā vā dhammesu dhammānupassī viharati",
+    "zh": "如是，（他）或安住於在自身諸法中隨觀諸法，或安住於在外部諸法中隨觀諸法，或安住於在內外諸法中隨觀諸法。"
+  },
+  "mn10:45.2": {
+    "pi": "samudayadhammānupassī vā dhammesu viharati vayadhammānupassī vā dhammesu viharati samudayavayadhammānupassī vā dhammesu viharati",
+    "zh": "或安住於在諸法中觀察生起之本質，或安住於在諸法中觀察滅去之本質，或安住於在諸法中觀察生滅之本質。"
+  },
+  "mn10:45.3": {
+    "pi": "Atthi dhammā ti vā panassa sati paccupaṭṭhitā hoti Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati",
+    "zh": "「有諸法」——如此，念知現前。僅就所需的了知量度與念住量度而言，（他）安住於不依附，不於世間執取任何事物。"
+  },
+  "mn10:45.4": {
+    "pi": "Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu",
+    "zh": "就如此，諸比丘，比丘安住於在這四聖諦的諸法中隨觀諸法。"
+  },
+  "mn10:45.5": {
+    "pi": "Saccapabbaṁ niṭṭhitaṁ",
+    "zh": "諦品，圓滿完畢。"
+  },
+  "mn10:45.6": {
+    "pi": "Dhammānupassanā niṭṭhitā",
+    "zh": "法隨觀，圓滿完畢。"
+  },
+  "mn10:46.1": {
+    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya satta vassāni tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
+    "zh": "諸比丘，無論何人若如此修習這四念住達七年，對他而言，兩種果報之中的一種是可以期待的。"
+  },
+  "mn10:46.2": {
+    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitā",
+    "zh": "（若有）見解——在具有如此本質的諸法之中，（得到）另一種（果報）；（此情況）存在時，或（若有）執取殘餘，（得到）不還果。"
+  },
+  "mn10:46.3": {
+    "pi": "Tiṭṭhantu bhikkhave satta vassāni",
+    "zh": "諸比丘，姑且不論七年。"
+  },
+  "mn10:46.4": {
+    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya cha vassāni pe",
+    "zh": "諸比丘，無論何人若如此修習這四念住達六年……（以下省略）"
+  },
+  "mn10:46.5": {
+    "pi": "pañca vassāni",
+    "zh": "五年"
+  },
+  "mn10:46.6": {
+    "pi": "cattāri vassāni",
+    "zh": "四年"
+  },
+  "mn10:46.7": {
+    "pi": "tīṇi vassāni",
+    "zh": "三年"
+  },
+  "mn10:46.8": {
+    "pi": "dve vassāni",
+    "zh": "二年"
+  },
+  "mn10:46.9": {
+    "pi": "ekaṁ vassaṁ",
+    "zh": "一個雨季"
+  },
+  "mn10:46.10": {
+    "pi": "tiṭṭhatu bhikkhave ekaṁ vassaṁ",
+    "zh": "諸比丘，且置一雨季。"
+  },
+  "mn10:46.11": {
+    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya satta māsāni tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
+    "zh": "諸比丘，凡任何人如此修習這四念處，（資料標注為「執著之」）諸月，對彼而言，兩種果中某一果可以期待。"
+  },
+  "mn10:46.12": {
+    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitā",
+    "zh": "在具此性質的法中持有見解者，若另一種（智）存在，則（得）不還或有餘（執取殘餘）。"
+  },
+  "mn10:46.13": {
+    "pi": "Tiṭṭhantu bhikkhave satta māsāni",
+    "zh": "諸比丘，且置（資料標注為「執著之」）諸月。"
+  },
+  "mn10:46.14": {
+    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya cha māsāni pe",
+    "zh": "諸比丘，凡任何人如此修習這四念處六個月……（pe 為省略符號，後文省略）"
+  },
+  "mn10:46.15": {
+    "pi": "pañca māsāni",
+    "zh": "五個月"
+  },
+  "mn10:46.16": {
+    "pi": "cattāri māsāni",
+    "zh": "四個月"
+  },
+  "mn10:46.17": {
+    "pi": "tīṇi māsāni",
+    "zh": "三個月"
+  },
+  "mn10:46.18": {
+    "pi": "dve māsāni",
+    "zh": "兩個月"
+  },
+  "mn10:46.19": {
+    "pi": "ekaṁ māsaṁ",
+    "zh": "一個月"
+  },
+  "mn10:46.20": {
+    "pi": "aḍḍhamāsaṁ",
+    "zh": "半個māsaka（低值幣）"
+  },
+  "mn10:46.21": {
+    "pi": "tiṭṭhatu bhikkhave aḍḍhamāso",
+    "zh": "比丘們，讓半個māsaka先擱置一旁，"
+  },
+  "mn10:46.22": {
+    "pi": "Yo hi koci bhikkhave ime cattāro satipaṭṭhāne evaṁ bhāveyya sattāhaṁ tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ",
+    "zh": "比丘們，任何人若如此修習這四念住七天，對他而言，兩果中某一果可以期待："
+  },
+  "mn10:46.23": {
+    "pi": "diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti",
+    "zh": "就在當下持此見解之法中——或另一種，若有餘依存在，即不還果。"
+  },
+  "mn10:47.1": {
+    "pi": "Ekāyano ayaṁ bhikkhave maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ cattāro satipaṭṭhānā ti",
+    "zh": "比丘們，此乃直接之道，為（眾生）清淨、超越憂與悲、消滅苦與憂惱、獲得正道、親證涅槃——即四念住。"
+  },
+  "mn10:47.2": {
+    "pi": "Iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan ti",
+    "zh": "如是，凡那（被播種散布）之事，此乃指彼——（資料不足）——（引句結束）"
+  },
+  "mn10:47.3": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "具吉祥德性者（世尊）如是說了這。"
+  },
+  "mn10:47.4": {
+    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "那些比丘們對世尊所說的話滿心歡喜、欣然讚同。"
+  },
+  "mn10:47.5": {
+    "pi": "Satipaṭṭhānasuttaṁ niṭṭhitaṁ dasamaṁ",
+    "zh": "第十《念處經》已圓滿結束。"
+  },
+  "mn10:47.6": {
+    "pi": "Mūlapariyāyavaggo niṭṭhito paṭhamo",
+    "zh": "第一《根本法門品》已圓滿結束。"
+  },
+  "mn10:48.0": {
+    "pi": "Tassuddānaṁ",
+    "zh": "彼品攝頌（各品末尾列示諸經標題或主題之簡短偈頌）。"
+  },
+  "mn10:48.1": {
+    "pi": "Mūlasusaṁvaradhammadāyādā",
+    "zh": "〔攝頌含〕根本（法門）、善（調）伏、法嗣（即MN1、MN2、MN3）。"
+  },
+  "mn10:48.2": {
+    "pi": "Bheravānaṅgaṇākaṅkheyyavatthaṁ",
+    "zh": "〔以及〕怖畏—無垢穢—願欲—法衣（即MN4、MN5、MN6、MN7）。"
+  },
+  "mn10:48.3": {
+    "pi": "Sallekhasammādiṭṭhisatipaṭṭhaṁ",
+    "zh": "〔以及〕削減—正見—念處（即MN8、MN9、MN10）。"
+  },
+  "mn10:48.4": {
+    "pi": "Vaggavaro asamo susamatto",
+    "zh": "殊勝品，阿薩摩（天神），善妙領受之。"
   },
   "mn22:1.1": {
     "pi": "Evaṁ me sutaṁ",
@@ -3764,5 +3764,1090 @@
   "mn22:47.5": {
     "pi": "Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ",
     "zh": "蛇喻經，第二，已竟。"
+  },
+  "mn118:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn118:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde sambahulehi abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ",
+    "zh": "一時，世尊住舍衛城東園鹿子母講堂，與眾多著名的長老弟子眾在一起。"
+  },
+  "mn118:1.3": {
+    "pi": "āyasmatā ca sāriputtena āyasmatā ca mahāmoggallānena āyasmatā ca mahākassapena āyasmatā ca mahākaccāyanena āyasmatā ca mahākoṭṭhikena āyasmatā ca mahākappinena āyasmatā ca mahācundena āyasmatā ca anuruddhena āyasmatā ca revatena āyasmatā ca ānandena aññehi ca abhiññātehi abhiññātehi therehi sāvakehi saddhiṁ",
+    "zh": "與尊者舍利弗、尊者大目揵連、尊者大迦葉、尊者大迦旃延、尊者大拘絺羅、尊者大劫賓那、尊者大純陀、尊者阿那律、尊者離婆多、尊者阿難，以及其他著名的長老弟子眾在一起。"
+  },
+  "mn118:2.1": {
+    "pi": "Tena kho pana samayena therā bhikkhū nave bhikkhū ovadanti anusāsanti",
+    "zh": "那時，長老比丘們教誡、教導新比丘們。"
+  },
+  "mn118:2.2": {
+    "pi": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṁsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
+    "zh": "有些長老比丘教誡、教導十位比丘；有些長老比丘教誡、教導二十位比丘；有些長老比丘教誡、教導三十位比丘；有些長老比丘教誡、教導四十位比丘。"
+  },
+  "mn118:2.3": {
+    "pi": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṁ pubbenāparaṁ visesaṁ jānanti",
+    "zh": "那些新比丘們，被長老比丘們教誡、教導，了知殊勝的、前後相續的勝果。"
+  },
+  "mn118:3.1": {
+    "pi": "Tena kho pana samayena bhagavā tadahuposathe pannarase pavāraṇāya puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti",
+    "zh": "那時，世尊在那布薩日當天——月圓第十五日的自恣、圓滿滿月夜——被比丘僧眾圍繞，坐於露天之中。"
+  },
+  "mn118:3.2": {
+    "pi": "Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi",
+    "zh": "然後，世尊環視沉默、沉默的比丘僧眾後，呼喚比丘們。"
+  },
+  "mn118:4.1": {
+    "pi": "āraddhosmi bhikkhave imāya paṭipadāya",
+    "zh": "諸比丘，依此修行道——"
+  },
+  "mn118:4.2": {
+    "pi": "āraddhacittosmi bhikkhave imāya paṭipadāya",
+    "zh": "諸比丘，依此修行道——"
+  },
+  "mn118:4.3": {
+    "pi": "Tasmātiha bhikkhave bhiyyoso mattāya vīriyaṁ ārabhatha appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya",
+    "zh": "因此，諸比丘，你們當更加倍地振起精進：為達到尚未達到的，為獲得尚未獲得的，為親證尚未親證的。"
+  },
+  "mn118:4.4": {
+    "pi": "Idhevāhaṁ sāvatthiyaṁ komudiṁ cātumāsiniṁ āgamessāmī ti",
+    "zh": "「就在此處，我（將住）於舍衛城，（迎接）葛提迦月第四個月的圓滿日。」"
+  },
+  "mn118:5.1": {
+    "pi": "Assosuṁ kho jānapadā bhikkhū",
+    "zh": "來自各地鄉間的比丘們確實聽說了。"
+  },
+  "mn118:5.2": {
+    "pi": "bhagavā kira tattheva sāvatthiyaṁ komudiṁ cātumāsiniṁ āgamessatī ti",
+    "zh": "「（據說）世尊就在那舍衛城，（將住迎接）葛提迦月第四個月的圓滿日。」"
+  },
+  "mn118:5.3": {
+    "pi": "Te jānapadā bhikkhū sāvatthiṁ osaranti bhagavantaṁ dassanāya",
+    "zh": "那些來自鄉間的比丘們前往舍衛城，為了拜見世尊。"
+  },
+  "mn118:6.1": {
+    "pi": "Te ca kho therā bhikkhū bhiyyoso mattāya nave bhikkhū ovadanti anusāsanti",
+    "zh": "那些長老比丘們更加倍地教誡、指導新比丘們。"
+  },
+  "mn118:6.2": {
+    "pi": "Appekacce therā bhikkhū dasapi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū vīsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū tiṁsampi bhikkhū ovadanti anusāsanti appekacce therā bhikkhū cattārīsampi bhikkhū ovadanti anusāsanti",
+    "zh": "某些長老比丘們教誡、指導十位比丘；某些長老比丘們教誡、指導（二十）位比丘；某些長老比丘們教誡、指導（三十）位比丘；某些長老比丘們教誡、指導（四十）位比丘。"
+  },
+  "mn118:6.3": {
+    "pi": "Te ca navā bhikkhū therehi bhikkhūhi ovadiyamānā anusāsiyamānā uḷāraṁ pubbenāparaṁ visesaṁ jānanti",
+    "zh": "那些新比丘們在被長老比丘們教誡、指導時，了知到前後相繼的殊勝進步。"
+  },
+  "mn118:7.1": {
+    "pi": "Tena kho pana samayena bhagavā tadahuposathe pannarase komudiyā cātumāsiniyā puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti",
+    "zh": "就在那時，世尊在那葛提迦月第四月圓滿的布薩日，那圓滿之夜，被比丘僧團圍繞著，坐於露天之中。"
+  },
+  "mn118:7.2": {
+    "pi": "Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi",
+    "zh": "於是，世尊環視了寂靜無聲的比丘僧團之後，向比丘們說話。"
+  },
+  "mn118:8.1": {
+    "pi": "Apalāpāyaṁ bhikkhave parisā nippalāpāyaṁ bhikkhave parisā suddhā sāre patiṭṭhitā",
+    "zh": "諸比丘，此眾無閒談、無廢話，清淨，安立於本質之中。"
+  },
+  "mn118:8.2": {
+    "pi": "Tathārūpo ayaṁ bhikkhave bhikkhusaṅgho tathārūpā ayaṁ bhikkhave parisā",
+    "zh": "諸比丘，此比丘僧伽如是，諸比丘，此眾如是。"
+  },
+  "mn118:8.3": {
+    "pi": "yathārūpā parisā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṁ puññakkhettaṁ lokassa",
+    "zh": "如是之眾，應受供養、應受款待、應受布施、應受合掌禮敬，是世間無上福田。"
+  },
+  "mn118:8.4": {
+    "pi": "Tathārūpo ayaṁ bhikkhave bhikkhusaṅgho tathārūpā ayaṁ bhikkhave parisā",
+    "zh": "諸比丘，此比丘僧伽如是，諸比丘，此眾如是。"
+  },
+  "mn118:8.5": {
+    "pi": "yathārūpāya parisāya appaṁ dinnaṁ bahu hoti bahu dinnaṁ bahutaraṁ",
+    "zh": "對如是之眾，施予少許，所得（果報）為多；施予為多，所得更多。"
+  },
+  "mn118:8.6": {
+    "pi": "Tathārūpo ayaṁ bhikkhave bhikkhusaṅgho tathārūpā ayaṁ bhikkhave parisā",
+    "zh": "諸比丘，此比丘僧伽如是，諸比丘，此眾如是。"
+  },
+  "mn118:8.7": {
+    "pi": "yathārūpā parisā dullabhā dassanāya lokassa",
+    "zh": "如是之眾，世間難得一見。"
+  },
+  "mn118:8.8": {
+    "pi": "Tathārūpo ayaṁ bhikkhave bhikkhusaṅgho tathārūpā ayaṁ bhikkhave parisā",
+    "zh": "諸比丘，此比丘僧伽如是，諸比丘，此眾如是。"
+  },
+  "mn118:8.9": {
+    "pi": "yathārūpaṁ parisaṁ alaṁ yojanagaṇanāni dassanāya gantuṁ puṭosenāpi",
+    "zh": "如是之眾，值得攜帶乾糧、跋涉無數由旬前往瞻見。"
+  },
+  "mn118:9.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā"
+  },
+  "mn118:9.2": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此類的比丘們。"
+  },
+  "mn118:10.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā",
+    "zh": "諸比丘，在此比丘僧團中，有比丘們，藉由五下分結的滅盡，化生彼處，在彼般涅槃，為不還法者，不再從彼世界返回。"
+  },
+  "mn118:10.2": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此類的比丘們。"
+  },
+  "mn118:11.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti",
+    "zh": "諸比丘，在此比丘僧團中，有比丘們，藉由三結的滅盡、貪瞋癡的薄弱，為一來者，僅再來此世間一次，即將作苦的終結。"
+  },
+  "mn118:11.2": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此類的比丘們。"
+  },
+  "mn118:12.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā",
+    "zh": "諸比丘，在此比丘僧團中，有比丘們，藉由三結的滅盡，為入流者，具不墮惡道之法，已決定，以正等覺為歸趣。"
+  },
+  "mn118:12.2": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此類的比丘們。"
+  },
+  "mn118:13.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ satipaṭṭhānānaṁ bhāvanānuyogamanuyuttā viharanti",
+    "zh": "諸比丘，在此比丘僧團中，有比丘們，致力於四念住的修習而住。"
+  },
+  "mn118:13.2": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此類的比丘們。"
+  },
+  "mn118:14.1": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe catunnaṁ sammappadhānānaṁ bhāvanānuyogamanuyuttā viharanti pe",
+    "zh": "諸比丘，在此比丘僧團中，有比丘們，致力於四正勤的修習而住……（以下省略）。"
+  },
+  "mn118:14.2": {
+    "pi": "catunnaṁ iddhipādānaṁ",
+    "zh": "四神足（的）"
+  },
+  "mn118:14.3": {
+    "pi": "pañcannaṁ indriyānaṁ",
+    "zh": "五根（的）"
+  },
+  "mn118:14.4": {
+    "pi": "pañcannaṁ balānaṁ",
+    "zh": "五力（的）"
+  },
+  "mn118:14.5": {
+    "pi": "sattannaṁ bojjhaṅgānaṁ",
+    "zh": "七覺支（的）"
+  },
+  "mn118:14.6": {
+    "pi": "ariyassa aṭṭhaṅgikassa maggassa bhāvanānuyogamanuyuttā viharanti",
+    "zh": "（有比丘）致力於修習聖八支道而住。"
+  },
+  "mn118:14.7": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，此比丘僧伽中，亦有如此這般（修習）的比丘住著。"
+  },
+  "mn118:14.8": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe mettābhāvanānuyogamanuyuttā viharanti",
+    "zh": "諸比丘，此比丘僧伽中，有致力於修習慈心而住的（比丘）；"
+  },
+  "mn118:14.9": {
+    "pi": "karuṇābhāvanānuyogamanuyuttā viharanti",
+    "zh": "有致力於修習悲心而住的（比丘）；"
+  },
+  "mn118:14.10": {
+    "pi": "muditābhāvanānuyogamanuyuttā viharanti",
+    "zh": "有致力於修習喜心而住的（比丘）；"
+  },
+  "mn118:14.11": {
+    "pi": "upekkhābhāvanānuyogamanuyuttā viharanti",
+    "zh": "有致力於修習捨心而住的（比丘）。"
+  },
+  "mn118:14.12": {
+    "pi": "asubhabhāvanānuyogamanuyuttā viharanti",
+    "zh": "〔他們〕安住於不淨觀的修習。"
+  },
+  "mn118:14.13": {
+    "pi": "aniccasaññābhāvanānuyogamanuyuttā viharanti",
+    "zh": "〔他們〕安住於無常想的修習。"
+  },
+  "mn118:14.14": {
+    "pi": "evarūpāpi bhikkhave santi bhikkhū imasmiṁ bhikkhusaṅghe",
+    "zh": "諸比丘，在此比丘僧團中，也有如此（修行）的比丘存在。"
+  },
+  "mn118:14.15": {
+    "pi": "Santi bhikkhave bhikkhū imasmiṁ bhikkhusaṅghe ānāpānassatibhāvanānuyogamanuyuttā viharanti",
+    "zh": "諸比丘，在此比丘僧團中，有比丘安住於入出息念的修習。"
+  },
+  "mn118:15.1": {
+    "pi": "Ānāpānassati bhikkhave bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā",
+    "zh": "諸比丘，入出息念若已修習、已多多修習，則具大果報、大利益。"
+  },
+  "mn118:15.2": {
+    "pi": "Ānāpānassati bhikkhave bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūreti",
+    "zh": "諸比丘，入出息念修習、多修習，能令四念處圓滿。"
+  },
+  "mn118:15.3": {
+    "pi": "Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti",
+    "zh": "四念處若已修習、已多修習，能令七覺支圓滿。"
+  },
+  "mn118:15.4": {
+    "pi": "Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrenti",
+    "zh": "七覺支若已修習、已多修習，能令明與解脫圓滿。"
+  },
+  "mn118:16.1": {
+    "pi": "Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā",
+    "zh": "諸比丘，入出息念怎樣修習、怎樣多修習，方具大果報、大利益？"
+  },
+  "mn118:17.1": {
+    "pi": "Idha bhikkhave bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā",
+    "zh": "諸比丘，在此，比丘前往森林、或前往樹下、或前往空曠處，盤腿而坐，端直身體，向前安立正念。"
+  },
+  "mn118:17.2": {
+    "pi": "So satova assasati satova passasati",
+    "zh": "彼自入息，自出息。"
+  },
+  "mn118:18.1": {
+    "pi": "Dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti",
+    "zh": "入息長時，了知「入息長」；出息長時，了知「出息長」。"
+  },
+  "mn118:18.2": {
+    "pi": "rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
+    "zh": "入息短時，了知「入息短」；出息短時，了知「出息短」。"
+  },
+  "mn118:18.3": {
+    "pi": "sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修學「覺知全身而入息」，修學「覺知全身而出息」。"
+  },
+  "mn118:18.4": {
+    "pi": "passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "修學「令身行平靜而入息」，修學「令身行平靜而出息」。"
+  },
+  "mn118:19.1": {
+    "pi": "Pītipaṭisaṁvedī assasissāmī ti sikkhati pītipaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修學「覺知喜而入息」，修學「覺知喜而出息」。"
+  },
+  "mn118:19.2": {
+    "pi": "sukhapaṭisaṁvedī assasissāmī ti sikkhati sukhapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修學「覺知樂而入息」，修學「覺知樂而出息」。"
+  },
+  "mn118:19.3": {
+    "pi": "cittasaṅkhārapaṭisaṁvedī assasissāmī ti sikkhati cittasaṅkhārapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修學「覺知心行而入息」，修學「覺知心行而出息」。"
+  },
+  "mn118:19.4": {
+    "pi": "passambhayaṁ cittasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ cittasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "修學「令心行平靜而入息」，修學「令心行平靜而出息」。"
+  },
+  "mn118:20.1": {
+    "pi": "Cittapaṭisaṁvedī assasissāmī ti sikkhati cittapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修學「覺知心而入息」，修學「覺知心而出息」。"
+  },
+  "mn118:20.2": {
+    "pi": "abhippamodayaṁ cittaṁ assasissāmī ti sikkhati abhippamodayaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "「令心歡喜悅樂」——如是修學；「令心歡喜悅樂」——如是修學。"
+  },
+  "mn118:20.3": {
+    "pi": "samādahaṁ cittaṁ assasissāmī ti sikkhati samādahaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "「令心安住凝定」——如是修學；「令心安住凝定」——如是修學。"
+  },
+  "mn118:20.4": {
+    "pi": "vimocayaṁ cittaṁ assasissāmī ti sikkhati vimocayaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "「令心解脫自在」——如是修學；「令心解脫自在」——如是修學。"
+  },
+  "mn118:21.1": {
+    "pi": "Aniccānupassī assasissāmī ti sikkhati aniccānupassī passasissāmī ti sikkhati",
+    "zh": "「隨觀無常」——如是修學；「隨觀無常」——如是修學。"
+  },
+  "mn118:21.2": {
+    "pi": "virāgānupassī assasissāmī ti sikkhati virāgānupassī passasissāmī ti sikkhati",
+    "zh": "「隨觀離欲」——如是修學；「隨觀離欲」——如是修學。"
+  },
+  "mn118:21.3": {
+    "pi": "nirodhānupassī assasissāmī ti sikkhati nirodhānupassī passasissāmī ti sikkhati",
+    "zh": "「隨觀滅」——如是修學；「隨觀滅」——如是修學。"
+  },
+  "mn118:21.4": {
+    "pi": "paṭinissaggānupassī assasissāmī ti sikkhati paṭinissaggānupassī passasissāmī ti sikkhati",
+    "zh": "「隨觀捨棄」——如是修學；「隨觀捨棄」——如是修學。"
+  },
+  "mn118:22.1": {
+    "pi": "Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā",
+    "zh": "諸比丘，如是修習、數數修習出入息念，則有大果、大利益。"
+  },
+  "mn118:23.1": {
+    "pi": "Kathaṁ bhāvitā ca bhikkhave ānāpānassati kathaṁ bahulīkatā cattāro satipaṭṭhāne paripūreti",
+    "zh": "諸比丘，如何修習、數數修習出入息念，令四念處圓滿？"
+  },
+  "mn118:24.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu dīghaṁ vā assasanto dīghaṁ assasāmī ti pajānāti dīghaṁ vā passasanto dīghaṁ passasāmī ti pajānāti",
+    "zh": "諸比丘，於某時，比丘長長入息，了知「長」；長長出息，了知「長」。"
+  },
+  "mn118:24.2": {
+    "pi": "rassaṁ vā assasanto rassaṁ assasāmī ti pajānāti rassaṁ vā passasanto rassaṁ passasāmī ti pajānāti",
+    "zh": "短的，正在吸氣時，『短』，如是了知；短的，正在呼氣時，『短』，如是了知。"
+  },
+  "mn118:24.3": {
+    "pi": "sabbakāyapaṭisaṁvedī assasissāmī ti sikkhati sabbakāyapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修習『遍知全身』；修習『遍知全身』。"
+  },
+  "mn118:24.4": {
+    "pi": "passambhayaṁ kāyasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ kāyasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "修習『令身行平息』；修習『令身行平息』。"
+  },
+  "mn118:24.5": {
+    "pi": "kāye kāyānupassī bhikkhave tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ"
+  },
+  "mn118:24.6": {
+    "pi": "Kāyesu kāyaññatarāhaṁ bhikkhave evaṁ vadāmi yadidaṁ assāsapassāsā",
+    "zh": "比丘們，所謂『諸身』，我說的就是入息與出息。"
+  },
+  "mn118:24.7": {
+    "pi": "Tasmātiha bhikkhave kāye kāyānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ"
+  },
+  "mn118:25.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu pītipaṭisaṁvedī assasissāmī ti sikkhati pītipaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "比丘們，於某時，比丘修習『感受喜』；修習『感受喜』。"
+  },
+  "mn118:25.2": {
+    "pi": "sukhapaṭisaṁvedī assasissāmī ti sikkhati sukhapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修習『感受樂』；修習『感受樂』。"
+  },
+  "mn118:25.3": {
+    "pi": "cittasaṅkhārapaṭisaṁvedī assasissāmī ti sikkhati cittasaṅkhārapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "修習『感受心行』；修習『感受心行』。"
+  },
+  "mn118:25.4": {
+    "pi": "passambhayaṁ cittasaṅkhāraṁ assasissāmī ti sikkhati passambhayaṁ cittasaṅkhāraṁ passasissāmī ti sikkhati",
+    "zh": "修習『令心行平息』；修習『令心行平息』。"
+  },
+  "mn118:25.5": {
+    "pi": "vedanāsu vedanānupassī bhikkhave tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "諸比丘，在諸感受中隨觀感受，於彼時，比丘精勤、正知、具念，調伏世間的貪憂而住。"
+  },
+  "mn118:25.6": {
+    "pi": "Vedanāsu vedanāññatarāhaṁ bhikkhave evaṁ vadāmi yadidaṁ assāsapassāsānaṁ sādhukaṁ manasikāraṁ",
+    "zh": "諸比丘，於諸感受中，我如是說，即是對入出息之作意。（sādhukaṁ 提供詞彙解釋為「村名」，與語境不符，整段翻譯存疑。）"
+  },
+  "mn118:25.7": {
+    "pi": "Tasmātiha bhikkhave vedanāsu vedanānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "是故，諸比丘，於彼時，在諸感受中隨觀感受，比丘精勤、正知、具念，調伏世間的貪憂而住。"
+  },
+  "mn118:26.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu cittapaṭisaṁvedī assasissāmī ti sikkhati cittapaṭisaṁvedī passasissāmī ti sikkhati",
+    "zh": "諸比丘，在某一時，比丘學習「體驗心」，學習「體驗心」。"
+  },
+  "mn118:26.2": {
+    "pi": "abhippamodayaṁ cittaṁ assasissāmī ti sikkhati abhippamodayaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "學習「令心歡喜」，學習「令心歡喜」。（cittaṁ 提供詞彙解釋為「裝飾的；美麗的；莊嚴的」，語境預期為「心」，疑資料有誤。）"
+  },
+  "mn118:26.3": {
+    "pi": "samādahaṁ cittaṁ assasissāmī ti sikkhati samādahaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "學習「令心安定」，學習「令心安定」。（cittaṁ 提供詞彙解釋與語境「心」不符，同前段問題。）"
+  },
+  "mn118:26.4": {
+    "pi": "vimocayaṁ cittaṁ assasissāmī ti sikkhati vimocayaṁ cittaṁ passasissāmī ti sikkhati",
+    "zh": "學習「令心解脫」，學習「令心解脫」。（cittaṁ 提供詞彙解釋與語境「心」不符，同前段問題。）"
+  },
+  "mn118:26.5": {
+    "pi": "citte cittānupassī bhikkhave tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "諸比丘，在諸心中隨觀心，於彼時，比丘精勤、正知、具念，調伏世間的貪憂而住。（citte 提供詞彙解釋為「裝飾的；美麗的」，語境預期為「於心中」，疑資料有誤。）"
+  },
+  "mn118:26.6": {
+    "pi": "Nāhaṁ bhikkhave muṭṭhassatissa asampajānassa ānāpānassatiṁ vadāmi",
+    "zh": "諸比丘，我不對失念、不正知者說入出息念。"
+  },
+  "mn118:26.7": {
+    "pi": "Tasmātiha bhikkhave citte cittānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "是故，諸比丘，於彼時，在諸心中隨觀心，比丘精勤、正知、具念，調伏世間的貪憂而住。（citte 提供詞彙解釋與語境「於心中」不符，疑資料有誤。）"
+  },
+  "mn118:27.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu aniccānupassī assasissāmī ti sikkhati aniccānupassī passasissāmī ti sikkhati",
+    "zh": "諸比丘，在那個時機，比丘以「觀無常者」之心修習，以「觀無常者」之心修習。"
+  },
+  "mn118:27.2": {
+    "pi": "virāgānupassī assasissāmī ti sikkhati virāgānupassī passasissāmī ti sikkhati",
+    "zh": "（他）以「觀離貪者」之心修習，以「觀離貪者」之心修習。"
+  },
+  "mn118:27.3": {
+    "pi": "nirodhānupassī assasissāmī ti sikkhati nirodhānupassī passasissāmī ti sikkhati",
+    "zh": "（他）以「觀滅者」之心修習，以「觀滅者」之心修習。"
+  },
+  "mn118:27.4": {
+    "pi": "paṭinissaggānupassī assasissāmī ti sikkhati paṭinissaggānupassī passasissāmī ti sikkhati",
+    "zh": "（他）以「觀捨離者」之心修習，以「觀捨離者」之心修習。"
+  },
+  "mn118:27.5": {
+    "pi": "dhammesu dhammānupassī bhikkhave tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "諸比丘，在那個時機，比丘於具有如此本質者之中以「觀法者」方式安住，精勤、正知、念住，調伏世間的貪憂。"
+  },
+  "mn118:27.6": {
+    "pi": "So yaṁ taṁ abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti",
+    "zh": "彼（比丘）見到凡是對貪憂之捨斷，明了之，成為平等的觀察者。"
+  },
+  "mn118:27.7": {
+    "pi": "Tasmātiha bhikkhave dhammesu dhammānupassī tasmiṁ samaye bhikkhu viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "是故，諸比丘，在那個時機，比丘於具有如此本質者之中以「觀法者」方式安住，精勤、正知、念住，調伏世間的貪憂。"
+  },
+  "mn118:28.1": {
+    "pi": "Evaṁ bhāvitā kho bhikkhave ānāpānassati evaṁ bahulīkatā cattāro satipaṭṭhāne paripūreti",
+    "zh": "諸比丘，如是修習、如是多修習入出息念，（即）圓滿四念住。"
+  },
+  "mn118:29.1": {
+    "pi": "Kathaṁ bhāvitā ca bhikkhave cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti",
+    "zh": "諸比丘，（以何種方式）修習、多修習四念住，（可）圓滿七覺支？"
+  },
+  "mn118:30.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ upaṭṭhitāssa tasmiṁ samaye sati hoti asammuṭṭhā",
+    "zh": "諸比丘，在某時機，比丘觀身於身（等）中安住，精勤、正知、念住，調伏世間的貪憂；在那個時機，（正念）現前，不忘失。"
+  },
+  "mn118:30.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti Satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘的正念現前——念已建立、不散亂——之時，念覺支在那時刻為比丘所生起；比丘修習念覺支，在那時刻，念覺支達到比丘修習的圓滿。"
+  },
+  "mn118:31.1": {
+    "pi": "So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati",
+    "zh": "彼如此正念而住，以慧審查、審察、周遍審思那個法，進入（擇法）。"
+  },
+  "mn118:31.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘如此正念而住、以慧審查、審察、周遍審思那個法而達到之時，擇法覺支在那時刻為比丘所生起；比丘修習擇法覺支，在那時刻，擇法覺支達到比丘修習的圓滿。"
+  },
+  "mn118:32.1": {
+    "pi": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ",
+    "zh": "對他而言，在以慧審查、〔審察〕、周遍審思那個法而達到之際，不退縮的精進生起了。"
+  },
+  "mn118:32.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘以慧審查、〔審察〕、周遍審思那個法而達到、不退縮的精進生起之時，精進覺支在那時刻為比丘所生起；比丘修習精進覺支，在那時刻，精進覺支達到比丘修習的圓滿。"
+  },
+  "mn118:33.1": {
+    "pi": "Āraddhavīriyassa uppajjati pīti nirāmisā",
+    "zh": "對精進已生起者，生起無染著的喜悅。"
+  },
+  "mn118:33.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘精進已生起、無染著的喜悅生起之時，喜覺支在那時刻為比丘所生起；比丘修習喜覺支，在那時刻，喜覺支達到比丘修習的圓滿。"
+  },
+  "mn118:34.1": {
+    "pi": "Pītimanassa kāyopi passambhati cittampi passambhati",
+    "zh": "對心中喜悅者，〔資料標：誰/何〕也平息，〔資料標：莊嚴的〕也平息。"
+  },
+  "mn118:34.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno pītimanassa kāyopi passambhati cittampi passambhati passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘心中喜悅、〔資料標：誰/何〕也平息、〔資料標：莊嚴的〕也平息之時，輕安覺支在那時刻為比丘所生起；比丘修習輕安覺支，在那時刻，輕安覺支達到比丘修習的圓滿。"
+  },
+  "mn118:35.1": {
+    "pi": "Passaddhakāyassa sukhino cittaṁ samādhiyati",
+    "zh": "對身已輕安、安樂者，〔資料標：莊嚴的〕心得定。"
+  },
+  "mn118:35.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，於任何時機，比丘身已輕安、安樂，（心）被安定——於彼時機，定覺支於彼比丘已現起；於彼時機，比丘修習定覺支；於彼時機，彼比丘的修習趨向圓滿。"
+  },
+  "mn118:36.1": {
+    "pi": "So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti",
+    "zh": "彼（比丘）對如此被安定之（心），成為（善好地）平等觀察者。"
+  },
+  "mn118:36.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，於任何時機，比丘對如此被安定之（心）成為（善好地）平等觀察者——於彼時機，捨覺支於彼比丘已現起；於彼時機，比丘修習捨覺支；於彼時機，彼比丘的修習趨向圓滿。"
+  },
+  "mn118:37.1": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu vedanāsu pe",
+    "zh": "諸比丘，於任何時機，比丘於諸感受中……（以下省略）"
+  },
+  "mn118:38.1": {
+    "pi": "citte",
+    "zh": "於（心）中"
+  },
+  "mn118:38.2": {
+    "pi": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ upaṭṭhitāssa tasmiṁ samaye sati hoti asammuṭṭhā",
+    "zh": "於諸（如此性質之）法中，隨觀諸法而住，精勤、正知、具念，調伏世間的貪婪與憂惱；於彼時機，（念）存在，成為不忘失的。"
+  },
+  "mn118:38.3": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，於任何時機，比丘的念已現前、存在而不忘失——念覺支——於彼時機，念覺支於彼比丘已現起；於彼時機，比丘修習念覺支；於彼時機，彼比丘的修習趨向圓滿。"
+  },
+  "mn118:38.4": {
+    "pi": "So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati",
+    "zh": "彼（比丘）如此正念而住，對彼（如此性質的）法是清楚知道的，審察、考察、周遍審察，達到（擇法覺支）。"
+  },
+  "mn118:38.5": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicayati parivīmaṁsaṁ āpajjati dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，於任何時機，比丘如此正念而住，審察、考察、周遍審察彼法——於彼時機，擇法覺支於彼比丘已現起；於彼時機，比丘修習擇法覺支；於彼時機，彼比丘的修習趨向圓滿。"
+  },
+  "mn118:38.6": {
+    "pi": "Tassa taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ",
+    "zh": "於彼（比丘）審察、（資料不足）、周遍審察、達到彼（如此性質的）法之際，精進——不懈怠的——已現起。"
+  },
+  "mn118:38.7": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicayato parivīmaṁsaṁ āpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘以智慧審察、考察、徹底探究那法時，精進被激發、不懈怠——在那時，比丘的精進覺支被激發；在那時，比丘修習精進覺支；在那時，比丘的修習達到圓滿。"
+  },
+  "mn118:38.8": {
+    "pi": "Āraddhavīriyassa uppajjati pīti nirāmisā",
+    "zh": "對精進已提起的（比丘），生起出離的喜悅。"
+  },
+  "mn118:38.9": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在精進已提起的比丘生起出離的喜悅時，喜覺支在那時於比丘中被激發；在那時，比丘修習喜覺支；在那時，比丘的修習達到圓滿。"
+  },
+  "mn118:38.10": {
+    "pi": "Pītimanassa kāyopi passambhati cittampi passambhati",
+    "zh": "對心充滿喜悅的（比丘），身（資料不足）也平靜，心（資料不足）也平靜。"
+  },
+  "mn118:38.11": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno pītimanassa kāyopi passambhati cittampi passambhati passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在心充滿喜悅的比丘身（資料不足）也平靜、心（資料不足）也平靜時，輕安覺支在那時於比丘中被激發；在那時，比丘修習輕安覺支；在那時，比丘的修習達到圓滿。"
+  },
+  "mn118:38.12": {
+    "pi": "Passaddhakāyassa sukhino cittaṁ samādhiyati",
+    "zh": "對身已輕安、安樂的（比丘），心（資料不足）入定。"
+  },
+  "mn118:38.13": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在身已輕安、安樂的比丘的心（資料不足）入定時，定覺支在那時於比丘中被激發；在那時，比丘修習定覺支；在那時，比丘的修習達到圓滿。"
+  },
+  "mn118:39.1": {
+    "pi": "So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti",
+    "zh": "他對如此入定的心（資料不足）（資料不足）地，成為以捨心觀察者。"
+  },
+  "mn118:39.2": {
+    "pi": "Yasmiṁ samaye bhikkhave bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati",
+    "zh": "諸比丘，在比丘對如此入定的心（資料不足）（資料不足）地以捨心觀察時，捨覺支在那時於比丘中被激發；在那時，比丘修習捨覺支；在那時，比丘的修習達到圓滿。"
+  },
+  "mn118:40.1": {
+    "pi": "Evaṁ bhāvitā kho bhikkhave cattāro satipaṭṭhānā evaṁ bahulīkatā satta sambojjhaṅge paripūrenti",
+    "zh": "諸比丘，四念處如此修習、如此屢屢實踐，（資料不足）諸覺支得以圓滿。"
+  },
+  "mn118:41.1": {
+    "pi": "Kathaṁ bhāvitā ca bhikkhave satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti",
+    "zh": "如何修習，比丘們，[那些]覺支，如何多多修練，得以圓滿明與解脫？"
+  },
+  "mn118:42.1": {
+    "pi": "Idha bhikkhave bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+    "zh": "比丘們，在此，比丘修習念覺支，依止遠離、依止離欲、依止滅盡，趣向完全捨棄。"
+  },
+  "mn118:42.2": {
+    "pi": "Dhammavicayasambojjhaṅgaṁ bhāveti pe",
+    "zh": "修習擇法覺支……（以下省略，格式同前）"
+  },
+  "mn118:42.3": {
+    "pi": "vīriyasambojjhaṅgaṁ bhāveti",
+    "zh": "修習精進覺支。"
+  },
+  "mn118:42.4": {
+    "pi": "pītisambojjhaṅgaṁ bhāveti",
+    "zh": "修習喜覺支。"
+  },
+  "mn118:42.5": {
+    "pi": "passaddhisambojjhaṅgaṁ bhāveti",
+    "zh": "修習輕安覺支。"
+  },
+  "mn118:42.6": {
+    "pi": "samādhisambojjhaṅgaṁ bhāveti",
+    "zh": "修習定覺支。"
+  },
+  "mn118:42.7": {
+    "pi": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+    "zh": "修習捨覺支，依止遠離、依止離欲、依止滅盡，趣向完全捨棄。"
+  },
+  "mn118:43.1": {
+    "pi": "Evaṁ bhāvitā kho bhikkhave satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī ti",
+    "zh": "如此修習，比丘們，[那些]覺支，如此多次修練，圓滿明與解脫。"
+  },
+  "mn118:43.2": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊如此說道。"
+  },
+  "mn118:43.3": {
+    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "那些比丘們歡喜地對世尊所說之語隨喜。"
+  },
+  "mn118:43.4": {
+    "pi": "Ānāpānassatisuttaṁ niṭṭhitaṁ aṭṭhamaṁ",
+    "zh": "《入出息念經》，第八，完結。"
+  },
+  "mn141:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn141:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye",
+    "zh": "一時，世尊住於波羅奈斯城仙人墮處鹿野苑。"
+  },
+  "mn141:1.3": {
+    "pi": "Tatra kho bhagavā bhikkhū āmantesi",
+    "zh": "於彼處，世尊確實招呼諸比丘。"
+  },
+  "mn141:1.4": {
+    "pi": "bhikkhavo ti",
+    "zh": "「諸比丘！」"
+  },
+  "mn141:1.5": {
+    "pi": "Bhadante ti te bhikkhū bhagavato paccassosuṁ",
+    "zh": "彼等諸比丘向世尊回應道：「尊者！」"
+  },
+  "mn141:1.6": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這番話："
+  },
+  "mn141:2.1": {
+    "pi": "Tathāgatena bhikkhave arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ yadidaṁ",
+    "zh": "「諸比丘，如來、阿羅漢、正等正覺者在波羅奈斯城仙人墮處鹿野苑轉動了無上法輪，此法輪不可逆轉，無論世間的沙門、婆羅門、天神、魔、梵天或任何人皆不能止息，即是——"
+  },
+  "mn141:2.2": {
+    "pi": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+    "zh": "對四聖諦的宣說、教導、闡明、建立、開示、分析與明解。"
+  },
+  "mn141:2.3": {
+    "pi": "Katamesaṁ catunnaṁ",
+    "zh": "哪四者？"
+  },
+  "mn141:3.1": {
+    "pi": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+    "zh": "對苦聖諦的宣說、教導、闡明、建立、開示、分析與明解；對苦集聖諦的宣說、教導、闡明、建立、開示、分析與明解；對苦滅聖諦的宣說、教導、闡明、建立、開示、分析與明解；對導向苦滅之道聖諦的宣說、教導、闡明、建立、開示、分析與明解。"
+  },
+  "mn141:4.1": {
+    "pi": "Tathāgatena bhikkhave arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ yadidaṁ",
+    "zh": "諸比丘，如來、阿羅漢、正等覺者，在波羅奈斯城仙人墮處鹿野苑，轉動了無上法輪，此乃世間任何沙門、或婆羅門、或天神、或魔羅、或梵天、或任何人皆不可逆轉者——即是："
+  },
+  "mn141:4.2": {
+    "pi": "imesaṁ catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+    "zh": "對這四聖諦的宣說、教導、描述、建立、揭示、分析、闡明。"
+  },
+  "mn141:5.1": {
+    "pi": "Sevatha bhikkhave sāriputtamoggallāne",
+    "zh": "諸比丘，你們應親近舍利弗與目犍連。"
+  },
+  "mn141:5.2": {
+    "pi": "bhajatha bhikkhave sāriputtamoggallāne",
+    "zh": "諸比丘，你們應結交舍利弗與目犍連。"
+  },
+  "mn141:5.3": {
+    "pi": "Paṇḍitā bhikkhū anuggāhakā sabrahmacārīnaṁ",
+    "zh": "他們是智慧的比丘，是同修梵行者的（anuggāhakā 字釋缺）。"
+  },
+  "mn141:5.4": {
+    "pi": "Seyyathāpi bhikkhave janetā evaṁ sāriputto",
+    "zh": "諸比丘，猶如生育者，如此，舍利弗（亦如是）。"
+  },
+  "mn141:5.5": {
+    "pi": "seyyathāpi jātassa āpādetā evaṁ moggallāno",
+    "zh": "猶如對已出生者之造成者，如此，目犍連（亦如是）。"
+  },
+  "mn141:5.6": {
+    "pi": "Sāriputto bhikkhave sotāpattiphale vineti moggallāno uttamatthe",
+    "zh": "諸比丘，舍利弗教化於入流果，目犍連（教化於）最高義。"
+  },
+  "mn141:5.7": {
+    "pi": "Sāriputto bhikkhave pahoti cattāri ariyasaccāni vitthārena ācikkhituṁ desetuṁ paññāpetuṁ paṭṭhapetuṁ vivarituṁ vibhajituṁ uttānīkātun ti",
+    "zh": "諸比丘，舍利弗能夠廣詳地宣說、教導、描述、建立、闡明、分析四聖諦。"
+  },
+  "mn141:6.1": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊說了此語。"
+  },
+  "mn141:6.2": {
+    "pi": "Idaṁ vatvāna sugato uṭṭhāyāsanā vihāraṁ pāvisi",
+    "zh": "說了這話之後，善逝者從座起身，進入了精舍。"
+  },
+  "mn141:7.1": {
+    "pi": "Tatra kho āyasmā sāriputto acirapakkantassa bhagavato bhikkhū āmantesi",
+    "zh": "就在那裡，世尊剛離去之後，尊者舍利弗呼喚了比丘們。"
+  },
+  "mn141:7.2": {
+    "pi": "āvuso bhikkhave ti",
+    "zh": "「道友們，比丘們！」"
+  },
+  "mn141:7.3": {
+    "pi": "Āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ",
+    "zh": "那些比丘們以「道友！」回應了尊者舍利弗。"
+  },
+  "mn141:7.4": {
+    "pi": "Āyasmā sāriputto etadavoca",
+    "zh": "尊者舍利弗說道："
+  },
+  "mn141:8.1": {
+    "pi": "Tathāgatena āvuso arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ yadidaṁ",
+    "zh": "「道友們，如來、阿羅漢、正等正覺者，在波羅奈城仙人墮處鹿野苑，轉動了無上法輪——此法輪不可逆轉，在世間無論沙門、婆羅門、天神、魔羅、梵天或任何人均然——亦即……」（注：各 vā 詞條資料不足，整段語義依其餘 token 合成）"
+  },
+  "mn141:8.2": {
+    "pi": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+    "zh": "宣說、教導、描述、建立、開顯、分析、闡明四聖諦。"
+  },
+  "mn141:8.3": {
+    "pi": "Katamesaṁ catunnaṁ",
+    "zh": "哪四（聖諦）？"
+  },
+  "mn141:9.1": {
+    "pi": "Dukkhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhasamudayassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhanirodhassa ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+    "zh": "宣說、教導、描述、建立、開顯、分析、闡明苦聖諦；宣說、教導、描述、建立、開顯、分析、闡明苦集聖諦；宣說、教導、描述、建立、開顯、分析、闡明苦滅聖諦；宣說、教導、描述、建立、開顯、分析、闡明導向苦滅道跡的聖諦。"
+  },
+  "mn141:10.1": {
+    "pi": "Katamañcāvuso dukkhaṁ ariyasaccaṁ",
+    "zh": "那麼，道友們，什麼是苦聖諦？"
+  },
+  "mn141:10.2": {
+    "pi": "Jātipi dukkhā jarāpi dukkhā maraṇampi dukkhaṁ sokaparidevadukkhadomanassupāyāsāpi dukkhā yampicchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandhā dukkhā",
+    "zh": "生亦是苦，老亦是苦，死亦是苦，愁、悲、苦、憂、惱亦是苦；所欲不得亦是苦；簡言之，五取蘊是苦。"
+  },
+  "mn141:11.1": {
+    "pi": "Katamā cāvuso jāti",
+    "zh": "諸友，何為生？"
+  },
+  "mn141:11.2": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho",
+    "zh": "凡彼彼有情類中諸有情，所有的生、誕生、入胎、出生、諸蘊之顯現、諸處之獲得，"
+  },
+  "mn141:11.3": {
+    "pi": "ayaṁ vuccatāvuso jāti",
+    "zh": "諸友，此即名為生。"
+  },
+  "mn141:12.1": {
+    "pi": "Katamā cāvuso jarā",
+    "zh": "諸友，何為老？"
+  },
+  "mn141:12.2": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko",
+    "zh": "凡彼彼有情類中諸有情，所有的老、衰老、齒落、白髮、皺紋叢生、壽命之衰減、諸根之衰退，"
+  },
+  "mn141:12.3": {
+    "pi": "ayaṁ vuccatāvuso jarā",
+    "zh": "諸友，此即名為老。"
+  },
+  "mn141:13.1": {
+    "pi": "Katamañcāvuso maraṇaṁ",
+    "zh": "諸友，復何為死？"
+  },
+  "mn141:13.2": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālaṅkiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo",
+    "zh": "凡彼彼有情類中諸有情，從彼彼有情類的死歿、消逝、壞滅、消失、死亡、死、命終、諸蘊壞散、色身棄捨、命根斷絕，"
+  },
+  "mn141:13.3": {
+    "pi": "idaṁ vuccatāvuso maraṇaṁ",
+    "zh": "諸友，此即名為死。"
+  },
+  "mn141:14.1": {
+    "pi": "Katamo cāvuso soko",
+    "zh": "且，諸友，何謂憂？"
+  },
+  "mn141:14.2": {
+    "pi": "Yo kho āvuso aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṁ antosoko antoparisoko",
+    "zh": "凡確實，諸友，遭遇某種某種不幸、被某種某種苦性法所觸及者，其憂、憂愁、悲傷之狀態、內憂、深切內憂——"
+  },
+  "mn141:14.3": {
+    "pi": "ayaṁ vuccatāvuso soko",
+    "zh": "此，諸友，稱為憂。"
+  },
+  "mn141:15.1": {
+    "pi": "Katamo cāvuso paridevo",
+    "zh": "且，諸友，何謂悲泣？"
+  },
+  "mn141:15.2": {
+    "pi": "Yo kho āvuso aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṁ paridevitattaṁ",
+    "zh": "凡確實，諸友，遭遇某種某種不幸、被某種某種苦性法所觸及者，其哀嘆、悲泣、哀嘆（陰性）、悲泣（陰性）、哀嘆之狀態、悲泣之狀態——"
+  },
+  "mn141:15.3": {
+    "pi": "ayaṁ vuccatāvuso paridevo",
+    "zh": "此，諸友，稱為悲泣。"
+  },
+  "mn141:16.1": {
+    "pi": "Katamañcāvuso dukkhaṁ",
+    "zh": "且，諸友，何謂苦？"
+  },
+  "mn141:16.2": {
+    "pi": "Yaṁ kho āvuso kāyikaṁ dukkhaṁ kāyikaṁ asātaṁ kāyasamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ",
+    "zh": "凡確實，諸友，身體的苦、身體的不悅、由身觸所生之苦與不悅之受——"
+  },
+  "mn141:16.3": {
+    "pi": "idaṁ vuccatāvuso dukkhaṁ",
+    "zh": "此，諸友，稱為苦。"
+  },
+  "mn141:17.1": {
+    "pi": "Katamañcāvuso domanassaṁ",
+    "zh": "且，諸友，何謂憂苦？"
+  },
+  "mn141:17.2": {
+    "pi": "Yaṁ kho āvuso cetasikaṁ dukkhaṁ cetasikaṁ asātaṁ manosamphassajaṁ dukkhaṁ asātaṁ vedayitaṁ",
+    "zh": "賢友，凡是屬於心的、苦的，屬於心的、不適意的，由意觸所生的苦、不適意的感受——"
+  },
+  "mn141:17.3": {
+    "pi": "idaṁ vuccatāvuso domanassaṁ",
+    "zh": "賢友，此稱為『憂』。"
+  },
+  "mn141:18.1": {
+    "pi": "Katamo cāvuso upāyāso",
+    "zh": "而，賢友，什麼是『惱』？"
+  },
+  "mn141:18.2": {
+    "pi": "Yo kho āvuso aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṁ upāyāsitattaṁ",
+    "zh": "賢友，凡是遭逢某種不幸、被某種苦性法所觸者，其苦惱、惱苦、苦惱之性、惱苦之性——"
+  },
+  "mn141:18.3": {
+    "pi": "ayaṁ vuccatāvuso upāyāso",
+    "zh": "賢友，此稱為『惱』。"
+  },
+  "mn141:19.1": {
+    "pi": "Katamañcāvuso yampicchaṁ na labhati tampi dukkhaṁ",
+    "zh": "而，賢友，什麼是『求不得苦』？所欲而不得，彼亦是苦。"
+  },
+  "mn141:19.2": {
+    "pi": "Jātidhammānaṁ āvuso sattānaṁ evaṁ icchā uppajjati",
+    "zh": "賢友，對具有生性的眾生（或：執著於生的眾生），如此欲求生起："
+  },
+  "mn141:19.3": {
+    "pi": "aho vata mayaṁ na jātidhammā assāma na ca vata no jāti āgaccheyyā ti",
+    "zh": "『啊，願我們不具有生性，願我們的出生不再來！』"
+  },
+  "mn141:19.4": {
+    "pi": "Na kho panetaṁ icchāya pattabbaṁ",
+    "zh": "然而此不能僅藉欲求而得達。"
+  },
+  "mn141:19.5": {
+    "pi": "Idampi yampicchaṁ na labhati tampi dukkhaṁ",
+    "zh": "此亦是『求不得苦』——所欲而不得，彼亦是苦。"
+  },
+  "mn141:19.6": {
+    "pi": "Jarādhammānaṁ āvuso sattānaṁ pe",
+    "zh": "賢友們，對於本性會衰老的執著者們……（pe：資料不足）"
+  },
+  "mn141:19.7": {
+    "pi": "byādhidhammānaṁ āvuso sattānaṁ",
+    "zh": "賢友們，對於本性會患病的執著者們……"
+  },
+  "mn141:19.8": {
+    "pi": "maraṇadhammānaṁ āvuso sattānaṁ",
+    "zh": "賢友們，對於本性會死亡的執著者們……"
+  },
+  "mn141:19.9": {
+    "pi": "sokaparidevadukkhadomanassupāyāsadhammānaṁ āvuso sattānaṁ evaṁ icchā uppajjati",
+    "zh": "賢友們，對於本性具有憂、悲、苦、憂惱、絕望的執著者們，如此之欲求生起。"
+  },
+  "mn141:19.10": {
+    "pi": "aho vata mayaṁ na sokaparidevadukkhadomanassupāyāsadhammā assāma na ca vata no sokaparidevadukkhadomanassupāyāsā āgaccheyyun ti",
+    "zh": "「日！從事修行的我們，願不成為具有憂、悲、苦、憂惱、絕望本質者；且（文法元語言：字母 c），從事修行的，（文法元語言：否定 no）憂、悲、苦、憂惱、絕望。」（ti 引文終）"
+  },
+  "mn141:19.11": {
+    "pi": "Na kho panetaṁ icchāya pattabbaṁ",
+    "zh": "然而此事，確實，並非藉由欲求所能達到。"
+  },
+  "mn141:19.12": {
+    "pi": "Idampi yampicchaṁ na labhati tampi dukkhaṁ",
+    "zh": "此亦是苦——所欲求之（事）卻得不到彼。"
+  },
+  "mn141:20.1": {
+    "pi": "Katame cāvuso saṅkhittena pañcupādānakkhandhā dukkhā",
+    "zh": "賢友們，那麼哪些是苦——簡而言之，五取蘊？"
+  },
+  "mn141:20.2": {
+    "pi": "Seyyathidaṁ rūpupādānakkhandho vedanupādānakkhandho saññupādānakkhandho saṅkhārupādānakkhandho viññāṇupādānakkhandho",
+    "zh": "即是：色取蘊、受取蘊、想取蘊、行取蘊、識取蘊。"
+  },
+  "mn141:20.3": {
+    "pi": "Ime vuccantāvuso saṅkhittena pañcupādānakkhandhā dukkhā",
+    "zh": "這些，簡而言之，即是（稱為）苦的五取蘊。"
+  },
+  "mn141:20.4": {
+    "pi": "Idaṁ vuccatāvuso dukkhaṁ ariyasaccaṁ",
+    "zh": "諸友，這稱為苦聖諦。"
+  },
+  "mn141:21.1": {
+    "pi": "Katamañcāvuso dukkhasamudayaṁ ariyasaccaṁ",
+    "zh": "諸友，那麼什麼是苦集聖諦？"
+  },
+  "mn141:21.2": {
+    "pi": "Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī seyyathidaṁ",
+    "zh": "那渴愛，導向再有，伴隨喜與貪，在此處彼處耽樂，即："
+  },
+  "mn141:21.3": {
+    "pi": "kāmataṇhā bhavataṇhā vibhavataṇhā",
+    "zh": "欲愛、有愛、無有愛。"
+  },
+  "mn141:21.4": {
+    "pi": "idaṁ vuccatāvuso dukkhasamudayaṁ ariyasaccaṁ",
+    "zh": "諸友，這稱為苦集聖諦。"
+  },
+  "mn141:22.1": {
+    "pi": "Katamañcāvuso dukkhanirodhaṁ ariyasaccaṁ",
+    "zh": "諸友，那麼什麼是苦滅聖諦？"
+  },
+  "mn141:22.2": {
+    "pi": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+    "zh": "就是對那渴愛的無餘離貪滅盡、捨棄、放捨、解脫、無依著。"
+  },
+  "mn141:22.3": {
+    "pi": "idaṁ vuccatāvuso dukkhanirodhaṁ ariyasaccaṁ",
+    "zh": "諸友，這稱為苦滅聖諦。"
+  },
+  "mn141:23.1": {
+    "pi": "Katamañcāvuso dukkhanirodhagāminī paṭipadā ariyasaccaṁ",
+    "zh": "諸友，那麼什麼是趣向苦滅的道聖諦？"
+  },
+  "mn141:23.2": {
+    "pi": "Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ",
+    "zh": "就是這聖八支道，即："
+  },
+  "mn141:23.3": {
+    "pi": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi",
+    "zh": "正見、正思惟、正語、正業、正命、正精進、正念、正定。"
+  },
+  "mn141:24.1": {
+    "pi": "Katamā cāvuso sammādiṭṭhi",
+    "zh": "諸友，何者是正見？"
+  },
+  "mn141:24.2": {
+    "pi": "Yaṁ kho āvuso dukkhe ñāṇaṁ dukkhasamudaye ñāṇaṁ dukkhanirodhe ñāṇaṁ dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ",
+    "zh": "諸友，凡對苦有知智、對苦之生起有知智、對苦之止息有知智、對引向苦滅之道有知智者，"
+  },
+  "mn141:24.3": {
+    "pi": "ayaṁ vuccatāvuso sammādiṭṭhi",
+    "zh": "諸友，此即稱為正見。"
+  },
+  "mn141:25.1": {
+    "pi": "Katamo cāvuso sammāsaṅkappo",
+    "zh": "諸友，何者是正思惟？"
+  },
+  "mn141:25.2": {
+    "pi": "Nekkhammasaṅkappo abyāpādasaṅkappo avihiṁsāsaṅkappo",
+    "zh": "出離的意向、無惡意的意向、不傷害的意向——"
+  },
+  "mn141:25.3": {
+    "pi": "ayaṁ vuccatāvuso sammāsaṅkappo",
+    "zh": "諸友，此即稱為正思惟。"
+  },
+  "mn141:26.1": {
+    "pi": "Katamā cāvuso sammāvācā",
+    "zh": "諸友，何者是正語？"
+  },
+  "mn141:26.2": {
+    "pi": "Musāvādā veramaṇī pisuṇāya vācāya veramaṇī pharusāya vācāya veramaṇī samphappalāpā veramaṇī",
+    "zh": "離妄語、離離間語、離粗惡語、離雜穢語——"
+  },
+  "mn141:26.3": {
+    "pi": "ayaṁ vuccatāvuso sammāvācā",
+    "zh": "諸友，此即稱為正語。"
+  },
+  "mn141:27.1": {
+    "pi": "Katamo cāvuso sammākammanto",
+    "zh": "「諸友，何謂正業？」"
+  },
+  "mn141:27.2": {
+    "pi": "Pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī",
+    "zh": "「離殺生之戒、離不與取之戒、離欲邪行之戒。」"
+  },
+  "mn141:27.3": {
+    "pi": "ayaṁ vuccatāvuso sammākammanto",
+    "zh": "「諸友，此即稱為正業。」"
+  },
+  "mn141:28.1": {
+    "pi": "Katamo cāvuso sammāājīvo",
+    "zh": "「諸友，何謂正命？」"
+  },
+  "mn141:28.2": {
+    "pi": "Idhāvuso ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvikaṁ kappeti",
+    "zh": "「諸友，於此，聖弟子捨棄邪命，以正命經營生計。」"
+  },
+  "mn141:28.3": {
+    "pi": "ayaṁ vuccatāvuso sammāājīvo",
+    "zh": "「諸友，此即稱為正命。」"
+  },
+  "mn141:29.1": {
+    "pi": "Katamo cāvuso sammāvāyāmo",
+    "zh": "「諸友，何謂正精進？」"
+  },
+  "mn141:29.2": {
+    "pi": "Idhāvuso bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati",
+    "zh": "「諸友，於此，比丘為令未生起的惡、不善諸法不生起，生起欲求，努力、策勵、提舉（其心）、精勤。」"
+  },
+  "mn141:29.3": {
+    "pi": "uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati",
+    "zh": "「為令已生起的惡、不善諸法得以捨棄，生起欲求，努力、策勵、提舉（其心）、精勤。」"
+  },
+  "mn141:29.4": {
+    "pi": "anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati",
+    "zh": "「為令未生起的善諸法得以生起，生起欲求，努力、策勵、提舉（其心）、精勤。」"
+  },
+  "mn141:29.5": {
+    "pi": "uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati",
+    "zh": "為了已生起的善法的穩固、不忘失、增長、擴展、修習與完滿，（他）生起意欲、努力、振起精進、攝持心（資料標為「裝飾的」）、精勤。"
+  },
+  "mn141:29.6": {
+    "pi": "ayaṁ vuccatāvuso sammāvāyāmo",
+    "zh": "諸友，此即稱為正精進。"
+  },
+  "mn141:30.1": {
+    "pi": "Katamā cāvuso sammāsati",
+    "zh": "又，諸友，何為正念？"
+  },
+  "mn141:30.2": {
+    "pi": "Idhāvuso bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "諸友，於此，比丘於身隨觀身而住，熱誠、正知、具念，調伏世間的貪憂。"
+  },
+  "mn141:30.3": {
+    "pi": "Vedanāsu vedanānupassī viharati pe",
+    "zh": "於諸受隨觀受而住……（省略）"
+  },
+  "mn141:30.4": {
+    "pi": "citte cittānupassī viharati",
+    "zh": "於心隨觀心而住。"
+  },
+  "mn141:30.5": {
+    "pi": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ",
+    "zh": "於諸法隨觀法而住，熱誠、正知、具念，調伏世間的貪憂。"
+  },
+  "mn141:30.6": {
+    "pi": "ayaṁ vuccatāvuso sammāsati",
+    "zh": "諸友，此即稱為正念。"
+  },
+  "mn141:31.1": {
+    "pi": "Katamo cāvuso sammāsamādhi",
+    "zh": "又，諸友，何為正定？"
+  },
+  "mn141:31.2": {
+    "pi": "Idhāvuso bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati",
+    "zh": "諸友，於此，比丘遠離諸欲，遠離不善諸法，有尋、有伺，具足由遠離所生之喜與樂，進入第一禪那而住。"
+  },
+  "mn141:31.3": {
+    "pi": "vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati",
+    "zh": "尋與伺平息之後，內在清澄、心得一境性；無尋、無伺，定生喜樂，第二禪而住。"
+  },
+  "mn141:31.4": {
+    "pi": "pītiyā ca virāgā upekkhako ca viharati pe tatiyaṁ jhānaṁ pe",
+    "zh": "從喜的離欲，住於捨……第三禪……（pe 為文本縮略標記，資料不足，以省略號代）"
+  },
+  "mn141:31.5": {
+    "pi": "catutthaṁ jhānaṁ upasampajja viharati",
+    "zh": "第四禪而住。"
+  },
+  "mn141:31.6": {
+    "pi": "ayaṁ vuccatāvuso sammāsamādhi",
+    "zh": "朋友們，此稱為正定。"
+  },
+  "mn141:31.7": {
+    "pi": "Idaṁ vuccatāvuso dukkhanirodhagāminī paṭipadā ariyasaccaṁ",
+    "zh": "朋友們，此稱為導向苦滅之行道的聖諦。"
+  },
+  "mn141:32.1": {
+    "pi": "Tathāgatenāvuso arahatā sammāsambuddhena bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṁ yadidaṁ",
+    "zh": "由阿羅漢、正等正覺者在波羅奈仙人墮處鹿野苑所轉起的無上法輪，任何沙門、婆羅門、天神、魔、梵天或世間中任何人皆不可逆轉——亦即……"
+  },
+  "mn141:32.2": {
+    "pi": "imesaṁ catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkamman ti",
+    "zh": "對這四聖諦的宣示、教說、施設、安立、開顯、分別。"
+  },
+  "mn141:32.3": {
+    "pi": "Idamavoca āyasmā sāriputto",
+    "zh": "尊者舍利弗如是說。"
+  },
+  "mn141:32.4": {
+    "pi": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti",
+    "zh": "那些比丘們歡喜讚許尊者舍利弗所說之言。"
+  },
+  "mn141:32.5": {
+    "pi": "Saccavibhaṅgasuttaṁ niṭṭhitaṁ ekādasamaṁ",
+    "zh": "《諦分別經》第十一，完畢。"
   }
 }
