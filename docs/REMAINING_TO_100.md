@@ -45,9 +45,11 @@
 - **治理紅線** ✅：`docs/02-content/COMPLIANCE_GOVERNANCE.md`（R1 NC／R2 SA／R3 BY／R4 譯文 紅線 + 變更複查 checkpoint）。LICENSE_AUDIT §3 待辦同步更新（逐頁署名/內容授權標籤皆已上線）。
 - **F-9 程式碼 LICENSE 檔** ⬜（**唯一殘項**）：內容授權已定 CC BY-NC-SA 4.0；**程式碼授權待站方決策**（MIT／AGPL／保留），決後落為 repo `LICENSE` 並分層聲明（紅線 R2）。
 
-### 6. 勘誤回流 D-11（回報入口已有，缺回流流程）
-- **現況**：footer 已有 GitHub Issue 預填勘誤連結（已上線）。
-- **待做**：把「Issue → 分流 → 修正 → 重新發布」回流流程寫成常態（學術可信度）。
+### 6. 勘誤回流 D-11 ✅（2026-06-23）
+- 回報入口已上線（footer → GitHub Issue 預填 `勘誤`）。
+- 回流流程已定為常態文件：`docs/04-engineering/ERRATA_REFLOW.md`
+  （Issue → 分流標籤[L1/L2/glossary/site] → 修正[直改 data 或 repack 保留 L2 或改 glossary] → 核准[pending-review=0] → 重建索引/嵌入 → 驗證 → build → `closes #<issue>` → Pages 部署）。
+- 後續可選：週報納入「本期勘誤處理數」追蹤回流健康度。
 
 ### 7. L3 worker 收尾（已上線，餘觀測）
 - 瀏覽器實測 `/chat` 串流（rerank 已驗證 key 端到端可用；chat streaming 待在研經頁實點）。

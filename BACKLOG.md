@@ -86,7 +86,7 @@
 | D-6 | 首頁 / 進入點 | ✅ | SITE_IA_SPEC §4 + `index.astro`(安靜入口+非官方聲明)。 |
 | D-9 | i18n 字串外部化(實作) | ✅ | `i18n/zh-Hant.ts`+`en.ts`(真翻譯)+`/en/` 全頁鏡像雙路由;dist 已 build。 |
 | D-10 | 語意搜尋實作 | ✅ | SearchPage.tsx 懶載 transformers.js(CDN)+讀 embeddings.bin 做 cosine;genrerank 走 L3 proxy。 |
-| D-11 | **勘誤回報機制** | ⬜ | **本輪優先**。靜態站無後端:GitHub Issue 預填 / Formspree / Worker 收件 + 修正回流。學術可信度需要。 |
+| D-11 | **勘誤回報機制** | ✅ | 回報入口已上線(頁尾→GitHub Issue 預填 `勘誤`);回流流程定為常態:`docs/04-engineering/ERRATA_REFLOW.md`(Issue→分流標籤→修 L1/L2/glossary→核准→重建索引/嵌入→驗證→build→`closes #`→Pages 部署)。 |
 
 ---
 
