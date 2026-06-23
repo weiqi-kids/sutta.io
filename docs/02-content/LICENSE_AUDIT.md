@@ -95,14 +95,16 @@
 - [x] 站台目前無廣告／無付費牆／非商業機構（`about.astro` 獨立聲明；頁尾 unofficial）。→ NC 合規。
 - [x] e5-small（MIT）已在關於頁列出並標 MIT。
 
+**已補完（2026-06-23）：**
+- [x] **逐頁署名 DPD**：字典頁 DPD 文法區塊行內署名「Digital Pāḷi Dictionary（CC BY-NC-SA 4.0）」（`lexicon.grammarSrcName`，連 digitalpalidictionary.github.io）。
+- [x] **逐頁署名 CBETA**：研經頁阿含對照欄行內署名「漢譯阿含對照：CBETA（CC BY-NC-SA 3.0 TW）」（`study.agamaSrc`，連 cbeta.org；ChineseColumn.tsx）。
+- [x] **明確聲明站台「內容」授權**：頁尾 `contentLicense`=「本站內容（白話／概要／研經輔助）採 CC BY-NC-SA 4.0 釋出」（`Base.astro` L247）。
+- [x] **NC 紅線寫入治理文件**：`COMPLIANCE_GOVERNANCE.md` R1（NC）、R4（譯文）等紅線 + 變更複查 checkpoint。
+
 **待辦（open）：**
-- [ ] **（建議，非強制）逐頁署名**：字典頁 DPD 文法區塊旁加一行「Digital Pāḷi Dictionary（CC BY-NC-SA 4.0）」，對齊現有 DPPN `entity-src` 樣式。
-- [ ] **（建議，非強制）逐頁署名**：研經頁阿含對照欄旁加一行「CBETA（CC BY-NC-SA 3.0 台灣）」可見文字（目前僅 JSON-LD，無可見文字）。
-- [ ] **明確聲明站台「內容」授權**：在頁尾／關於頁明寫「本站內容以 **CC BY-NC-SA 4.0** 釋出」（目前是「衍生同以相同方式開放」的描述，未指明具體授權版本）。把保守 SA 路線落為一個可被引用的明確授權標籤。
-- [ ] **程式碼授權與內容授權分離聲明**：若 repo 對外開源，於 README / LICENSE 區分「程式碼授權」與「內容授權（CC BY-NC-SA）」，避免 SA 被誤讀為傳染到程式碼。
-- [ ] **NC 紅線寫入治理文件**：明確記載「L3 若收費，回應不得夾帶／衍生 DPD/CBETA 受授權素材；廣告聯播／販售素材一律禁止」——把 §2.2 風險點固定成規範，防未來變現破壞 NC。
-- [ ] **CBETA 署名格式核對**：CBETA 對引用格式有建議（出處冊號/經號）；確認對照欄至少可追溯到 CBETA 經目（目前對照已有經號定位，建議連結回 cbeta.org 對應經）。
-- [ ] **持續確認非商業**：每次新增功能（尤其分析、API、捐款）對照 §2.2，確保不觸碰 NC。
+- [ ] **程式碼授權與內容授權分離聲明**：repo 尚無 `LICENSE` 檔；對外開源時須以 `LICENSE` 區分「程式碼授權（站方自決）」與「內容授權（CC BY-NC-SA 4.0）」，避免 SA 被誤讀為傳染至程式碼。（治理紅線 R2 已要求分離，待落為 LICENSE 檔。）
+- [ ] **CBETA 署名格式精修（建議，非強制）**：行內已連 cbeta.org 首頁且內容含經號；可進一步深連至 CBETA 對應經目 URL（加分項）。
+- [ ] **持續確認非商業**：每次新增功能（尤其分析、API、捐款）對照 §2.2 / `COMPLIANCE_GOVERNANCE.md` R1，確保不觸碰 NC。
 
 ---
 

@@ -105,13 +105,14 @@
 
 | ID | 項目 | 狀態 | 說明 |
 |----|------|------|------|
-| F-1 | SuttaCentral 各譯文授權逐筆確認 | ⬜ | **本輪優先**。目前只有checklist,需清出可用清單。 |
+| F-1 | SuttaCentral 各譯文授權逐筆確認 | ✅ | **N/A 結案**：本站僅用 Mahāsaṅgīti 原典（CC0）+ 站方 AI 自生譯文，未採任何第三方人工譯文（`LICENSE_AUDIT.md` §4）；紅線 R4 守住「改採他人譯文須重做稽核」（`COMPLIANCE_GOVERNANCE.md`）。 |
 | F-2 | 教義詞彙對照表 | ✅ | `content/glossary.json`（67 詞，單一真相）→ `generation/src/glossary.ts` 渲染對照區塊注入 T1/T2/T3 system prompt（`tasks.ts`）；`usage.ts` KEY_WORDS 亦改由 glossary 派生。僅規範譯名，不動 grounding 鐵則。既有 6 經為人工核准內容，沿用；新經自動套用。 |
-| F-3 | 署名(attribution)頁面呈現 | 🔶 | 頁尾已含來源/授權;CC-BY 逐源署名格式待最終確認。 |
+| F-3 | 署名(attribution)頁面呈現 | ✅ | 頁尾+about+llms.txt 站台層署名;字典頁 DPD、研經頁 CBETA 行內可見署名(連原站)。 |
 | F-4 | 「非官方/獨立工具」聲明 | ✅ | 頁尾+about 已明確標示(站內 i18n)。 |
-| F-5 | 授權合規最終勾稽 | ⬜ | **本輪優先**。SPEC §9 清單全部打勾。 |
-| F-7 | 嵌入模型授權確認 | 🔶 | 已採 e5-small(MIT);需正式記錄確認。 |
-| F-8 | 合併授權 + share-alike 交互檢查 | ⬜ | **本輪優先**。DPD+CBETA 皆 CC BY-NC-SA;SA 傳播到整包,需相容性檢查與整體授權定性。 |
+| F-5 | 授權合規最終勾稽 | ✅ | SPEC §9 五項全勾並簽結(含 F-1 N/A 認定);依據 `LICENSE_AUDIT.md`、紅線 `COMPLIANCE_GOVERNANCE.md`。唯一殘項:LICENSE 檔(待程式碼授權決策,見 F-9 註)。 |
+| F-7 | 嵌入模型授權確認 | ✅ | e5-small=MIT,已正式記錄於 `LICENSE_AUDIT.md` §1(來源表)。 |
+| F-8 | 合併授權 + share-alike 交互檢查 | ✅ | `LICENSE_AUDIT.md` §2.3 + 紅線 R2 定性:內容層整體掛 **CC BY-NC-SA 4.0**(4.0 相容 CBETA 3.0-TW 之 SA);CC0/PD/MIT 來源不加新限制、與 BY-NC-SA 相容;程式碼層與內容層分離(SA 不傳染程式碼)。 |
+| F-9 | 程式碼授權 LICENSE 檔 | ⬜ | 內容授權已定(CC BY-NC-SA 4.0);**程式碼授權待站方決策**(MIT/AGPL/保留),決後落為 repo `LICENSE` 檔並分層聲明(紅線 R2)。 |
 
 ---
 

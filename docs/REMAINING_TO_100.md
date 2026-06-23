@@ -39,10 +39,11 @@
 - **J-4 在典天災人禍事件標注** ⬜：DN16 跋耆戰爭、滅釋迦族、飢荒瘟疫、季風/雨安居等。
 - **J-8 學界來源蒐集** ⬜：依 `docs/02-content/SOURCING_STANDARD.md` 逐條具名引用（持續工作）。
 
-### 5. 合規收尾 F（大部分已由 LICENSE_AUDIT + 本 session 完成；剩收尾）
-- **F-5 合規最終勾稽** ⬜：照 `SPEC.md` §9 清單逐項打勾、正式簽結（實質分析已在 LICENSE_AUDIT）。
+### 5. 合規收尾 F（✅ 大致簽結；剩 1 項待決策）
+- **F-5 合規最終勾稽** ✅（2026-06-23）：`SPEC.md` §9 五項全勾並簽結（含 F-1 SuttaCentral 逐譯文 **N/A** 認定）。F-1/F-3/F-7/F-8 同步結案。
 - **F-2 教義詞彙對照表** ✅（2026-06-23）：`content/glossary.json`（67 核心教義詞，單一真相）→ `generation/src/glossary.ts` 渲染對照區塊，注入 T1/T2/T3 system prompt（`generation/src/tasks.ts` 的 `GLOSSARY`）；`usage.ts` 排名要詞亦改由 glossary 派生。僅規範譯名一致，不動「只依提供資料／不裁決教義」鐵則。既有 6 經已人工核准沿用，新經自動套用。
-- 雜項：驗證 CBETA citation 連回 cbeta.org 經目；把「NC 紅線（不得商業化/付費回傳授權內容）」寫入治理註記（LICENSE_AUDIT 已列）。
+- **治理紅線** ✅：`docs/02-content/COMPLIANCE_GOVERNANCE.md`（R1 NC／R2 SA／R3 BY／R4 譯文 紅線 + 變更複查 checkpoint）。LICENSE_AUDIT §3 待辦同步更新（逐頁署名/內容授權標籤皆已上線）。
+- **F-9 程式碼 LICENSE 檔** ⬜（**唯一殘項**）：內容授權已定 CC BY-NC-SA 4.0；**程式碼授權待站方決策**（MIT／AGPL／保留），決後落為 repo `LICENSE` 並分層聲明（紅線 R2）。
 
 ### 6. 勘誤回流 D-11（回報入口已有，缺回流流程）
 - **現況**：footer 已有 GitHub Issue 預填勘誤連結（已上線）。
