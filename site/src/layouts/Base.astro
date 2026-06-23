@@ -127,7 +127,12 @@ const breadcrumbSchema =
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex,follow" />}
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+    {/* 圖示：根目錄絕對路徑（勿用 url() 否則 /en 頁會被加前綴而 404） */}
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#E9E0CC" />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
     <link rel="alternate" hreflang="en" href={enHref} />
