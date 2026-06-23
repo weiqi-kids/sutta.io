@@ -5,6 +5,7 @@ import path from 'node:path';
 import { callClaudeStructured } from './claude.ts';
 import { T4_SYSTEM, T4_SCHEMA } from './prompts.ts';
 import { MODEL } from './tasks.ts';
+import { loadGlossary } from './glossary.ts';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');
 const DATA_DIR = path.join(ROOT, 'data');
@@ -15,8 +16,9 @@ const STOP = new Set([
   'eva', 'pi', 'ce', 'v?', 'yo', 'ya', 'kho', 'pana', 'hi', 'taṃ', 'iti', 'va', 'su', 'ta',
   'evaṃ', 'tathā', 'yathā', 'seyyathā', 'atha', 'tatra', 'tattha', 'puna', 'api',
 ]);
-// F-2 教義要詞（即使非最高頻也納入）
-const KEY_WORDS = ['sati', 'kāya', 'vedanā', 'citta', 'dhamma', 'satipaṭṭhāna', 'pajānāti', 'sampajāna'];
+// F-2 教義要詞（即使非最高頻也納入排名優先）：以 content/glossary.json 為單一真相，
+// 另加少數高頻動詞形（非術語對照表對象但值得用法摘要）。
+const KEY_WORDS = [...new Set([...loadGlossary().map((t) => t.pali), 'pajānāti', 'sampajāna'])];
 
 interface LexEntry {
   lemma: string;

@@ -41,7 +41,7 @@
 
 ### 5. 合規收尾 F（大部分已由 LICENSE_AUDIT + 本 session 完成；剩收尾）
 - **F-5 合規最終勾稽** ⬜：照 `SPEC.md` §9 清單逐項打勾、正式簽結（實質分析已在 LICENSE_AUDIT）。
-- **F-2 教義詞彙對照表** 🔶：現只內嵌 `generation/src/usage.ts` 一小組；需獨立成檔餵 L2 prompt，避免前後譯法不一。
+- **F-2 教義詞彙對照表** ✅（2026-06-23）：`content/glossary.json`（67 核心教義詞，單一真相）→ `generation/src/glossary.ts` 渲染對照區塊，注入 T1/T2/T3 system prompt（`generation/src/tasks.ts` 的 `GLOSSARY`）；`usage.ts` 排名要詞亦改由 glossary 派生。僅規範譯名一致，不動「只依提供資料／不裁決教義」鐵則。既有 6 經已人工核准沿用，新經自動套用。
 - 雜項：驗證 CBETA citation 連回 cbeta.org 經目；把「NC 紅線（不得商業化/付費回傳授權內容）」寫入治理註記（LICENSE_AUDIT 已列）。
 
 ### 6. 勘誤回流 D-11（回報入口已有，缺回流流程）

@@ -106,7 +106,7 @@
 | ID | 項目 | 狀態 | 說明 |
 |----|------|------|------|
 | F-1 | SuttaCentral 各譯文授權逐筆確認 | ⬜ | **本輪優先**。目前只有checklist,需清出可用清單。 |
-| F-2 | 教義詞彙對照表 | 🔶 | 現只內嵌 `usage.ts` 一小組;需獨立成檔餵 L2 prompt 防前後譯法不一。 |
+| F-2 | 教義詞彙對照表 | ✅ | `content/glossary.json`（67 詞，單一真相）→ `generation/src/glossary.ts` 渲染對照區塊注入 T1/T2/T3 system prompt（`tasks.ts`）；`usage.ts` KEY_WORDS 亦改由 glossary 派生。僅規範譯名，不動 grounding 鐵則。既有 6 經為人工核准內容，沿用；新經自動套用。 |
 | F-3 | 署名(attribution)頁面呈現 | 🔶 | 頁尾已含來源/授權;CC-BY 逐源署名格式待最終確認。 |
 | F-4 | 「非官方/獨立工具」聲明 | ✅ | 頁尾+about 已明確標示(站內 i18n)。 |
 | F-5 | 授權合規最終勾稽 | ⬜ | **本輪優先**。SPEC §9 清單全部打勾。 |

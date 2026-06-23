@@ -10,8 +10,11 @@ import {
 import {
   buildValidSets, checkGrounding, checkFabricatedRefs, checkCaseContradiction, type GuardIssue,
 } from './guardrails.ts';
+import { glossaryBlock } from './glossary.ts';
 
 export const MODEL = 'claude-sonnet-4-6';
+// F-2：教義術語對照表注入 L2 prompt（T1/T2/T3），確保跨經譯名一致。
+const GLOSSARY = glossaryBlock();
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');
 const DATA_DIR = path.join(ROOT, 'data');
 const DRAFT_DIR = path.join(DATA_DIR, 'l2-draft');
@@ -98,7 +101,7 @@ export async function generate(id: string, opts: { limit?: number; batch?: numbe
       })),
     };
     const r = callClaudeStructured<{ segments: { segment_id: string; segment_gloss_zh: string; tokens: { token_id: string; gloss_zh: string; note?: string }[] }[] }>(
-      T1_SYSTEM,
+      T1_SYSTEM + GLOSSARY,
       JSON.stringify(input),
       T1_SCHEMA
     );
@@ -142,7 +145,7 @@ export async function generate(id: string, opts: { limit?: number; batch?: numbe
         vernacular: store.vernacular[s.segment_id]?.content ?? null,
       })),
     };
-    const r = callClaudeStructured<{ summary_zh: string; grounded_on: string[] }>(T2_SYSTEM, JSON.stringify(input), T2_SCHEMA);
+    const r = callClaudeStructured<{ summary_zh: string; grounded_on: string[] }>(T2_SYSTEM + GLOSSARY, JSON.stringify(input), T2_SCHEMA);
     if (r.ok && r.data) {
       store.cost_usd += r.costUsd ?? 0;
       const grounded = sanitizeIds(r.data.grounded_on, valid.segIds);
@@ -168,7 +171,7 @@ export async function generate(id: string, opts: { limit?: number; batch?: numbe
         key_tokens: s.pali_tokens.filter((t) => t.dpd_id != null).slice(0, 6).map((t) => ({ lemma: t.lemma, gloss: t.gloss })),
       })),
     };
-    const r = callClaudeStructured<{ cards: { title: string; content_zh: string; sources: string[] }[] }>(T3_SYSTEM, JSON.stringify(input), T3_SCHEMA);
+    const r = callClaudeStructured<{ cards: { title: string; content_zh: string; sources: string[] }[] }>(T3_SYSTEM + GLOSSARY, JSON.stringify(input), T3_SCHEMA);
     if (r.ok && r.data) {
       store.cost_usd += r.costUsd ?? 0;
       store.study_cards = r.data.cards.map((c) => {

@@ -1,0 +1,88 @@
+{
+  "_meta": {
+    "purpose": "教義術語對照表（F-2）：規範全站 L2 白話/概要/研經卡的核心教義詞中譯，避免逐經獨立生成造成前後譯法不一。",
+    "rule": "本表僅規範『譯名選用』，不改變 L2 鐵則：仍只依提供的 token/L1 資料、缺依據降級不硬生、不裁決宗派教義。表中詞若於該段實際出現且語境相符，採表中譯法；語境不符（同形異義）則依該段 morph/語境另譯並可加註。",
+    "scope": "繁體中文。以漢傳通用標準譯名為主，兼顧巴利學界慣例。多義詞於 note 標明語境分歧。",
+    "feeds": ["T1 漢譯白話", "T2 章節概要", "T3 研經卡"],
+    "version": "2026-06-23"
+  },
+  "terms": [
+    { "pali": "dukkha", "zh": "苦", "note": "四聖諦第一諦；三相之一。形容詞義可作『苦的／不圓滿』。" },
+    { "pali": "anicca", "zh": "無常", "note": "三相之一。" },
+    { "pali": "anattā", "zh": "無我", "note": "三相之一；anatta 形容詞同。" },
+    { "pali": "tilakkhaṇa", "zh": "三相", "note": "無常、苦、無我。" },
+
+    { "pali": "khandha", "zh": "蘊", "note": "pañcakkhandha=五蘊；pañcupādānakkhandha=五取蘊。" },
+    { "pali": "rūpa", "zh": "色", "note": "蘊之一指『色』；於『境』語境（如 rūpa 為眼所緣）可作『色境／形色』。" },
+    { "pali": "vedanā", "zh": "受", "note": "感受；勿譯為『感覺/情緒』。四念處之受念處。" },
+    { "pali": "saññā", "zh": "想", "note": "辨識、表象作用；勿譯為『思想』。" },
+    { "pali": "saṅkhāra", "zh": "行", "note": "造作／諸行；複數 saṅkhārā 多指『諸行（有為法）』，緣起支則為『行』。" },
+    { "pali": "viññāṇa", "zh": "識", "note": "了別作用。" },
+
+    { "pali": "ariyasacca", "zh": "聖諦", "note": "cattāri ariyasaccāni=四聖諦。" },
+    { "pali": "samudaya", "zh": "集", "note": "四聖諦第二諦『苦之集（起因）』；動詞義可作『生起』。" },
+    { "pali": "nirodha", "zh": "滅", "note": "四聖諦第三諦；苦之止息。" },
+    { "pali": "magga", "zh": "道", "note": "第四諦之道；ariyo aṭṭhaṅgiko maggo=八支聖道。" },
+
+    { "pali": "sammādiṭṭhi", "zh": "正見" },
+    { "pali": "sammāsaṅkappa", "zh": "正思惟" },
+    { "pali": "sammāvācā", "zh": "正語" },
+    { "pali": "sammākammanta", "zh": "正業" },
+    { "pali": "sammāājīva", "zh": "正命" },
+    { "pali": "sammāvāyāma", "zh": "正精進" },
+    { "pali": "sammāsati", "zh": "正念" },
+    { "pali": "sammāsamādhi", "zh": "正定" },
+
+    { "pali": "satipaṭṭhāna", "zh": "念處", "note": "cattāro satipaṭṭhānā=四念處。" },
+    { "pali": "sati", "zh": "念", "note": "正念之念；勿譯為『記憶/思念』。" },
+    { "pali": "sampajañña", "zh": "正知", "note": "形容詞 sampajāna=正知的／具正知。" },
+    { "pali": "ātāpī", "zh": "精勤", "note": "熱忱精進；常與 sampajāno satimā 連用。" },
+    { "pali": "kāya", "zh": "身", "note": "身念處之身；亦可指『身體／聚集』，依語境。" },
+    { "pali": "citta", "zh": "心", "note": "心念處之心。" },
+    { "pali": "dhamma", "zh": "法", "note": "高度多義：教法（佛陀之教）、法念處之『諸法（心所/現象）』、單數常指『法（真理/教導）』。依語境擇『法／教法／現象』，必要時加註。" },
+
+    { "pali": "samatha", "zh": "止", "note": "奢摩他；與 vipassanā 相對。" },
+    { "pali": "vipassanā", "zh": "觀", "note": "毗婆舍那；洞察。" },
+    { "pali": "samādhi", "zh": "定", "note": "心一境性；勿譯為『冥想』。" },
+    { "pali": "jhāna", "zh": "禪", "note": "禪那；四色界定。" },
+    { "pali": "ānāpānasati", "zh": "入出息念", "note": "亦作『安般念』。" },
+
+    { "pali": "nibbāna", "zh": "涅槃" },
+    { "pali": "saṃsāra", "zh": "輪迴" },
+    { "pali": "kamma", "zh": "業" },
+    { "pali": "paṭiccasamuppāda", "zh": "緣起" },
+    { "pali": "avijjā", "zh": "無明", "note": "緣起第一支。" },
+    { "pali": "taṇhā", "zh": "渴愛", "note": "亦作『愛』；苦集之因。" },
+    { "pali": "upādāna", "zh": "取", "note": "執取；四取。" },
+    { "pali": "bhava", "zh": "有", "note": "存在／生命狀態；緣起支。" },
+
+    { "pali": "rāga", "zh": "貪", "note": "lobha 亦譯『貪』。" },
+    { "pali": "dosa", "zh": "瞋" },
+    { "pali": "moha", "zh": "癡" },
+    { "pali": "nīvaraṇa", "zh": "蓋", "note": "pañca nīvaraṇāni=五蓋。" },
+    { "pali": "kāmacchanda", "zh": "貪欲", "note": "五蓋之一。" },
+    { "pali": "byāpāda", "zh": "瞋恚", "note": "五蓋之一。" },
+    { "pali": "thīnamiddha", "zh": "惛沉睡眠", "note": "五蓋之一。" },
+    { "pali": "uddhaccakukkucca", "zh": "掉舉惡作", "note": "五蓋之一。" },
+    { "pali": "vicikicchā", "zh": "疑", "note": "五蓋之一。" },
+
+    { "pali": "bojjhaṅga", "zh": "覺支", "note": "satta bojjhaṅgā=七覺支。" },
+    { "pali": "sīla", "zh": "戒", "note": "三學之一。" },
+    { "pali": "paññā", "zh": "慧", "note": "三學之一；智慧。" },
+
+    { "pali": "mettā", "zh": "慈" },
+    { "pali": "karuṇā", "zh": "悲" },
+    { "pali": "muditā", "zh": "喜", "note": "隨喜；四無量心之一（與 pīti『喜』區分）。" },
+    { "pali": "upekkhā", "zh": "捨", "note": "平等捨；四無量心／覺支之一。" },
+    { "pali": "pīti", "zh": "喜", "note": "禪支之喜悅（與 muditā 區分）。" },
+    { "pali": "sukha", "zh": "樂", "note": "禪支之樂；與 dukkha 相對。" },
+
+    { "pali": "buddha", "zh": "佛", "note": "覺者。" },
+    { "pali": "bhagavā", "zh": "世尊" },
+    { "pali": "tathāgata", "zh": "如來" },
+    { "pali": "arahant", "zh": "阿羅漢" },
+    { "pali": "bhikkhu", "zh": "比丘", "note": "bhikkhunī=比丘尼。" },
+    { "pali": "saṅgha", "zh": "僧伽", "note": "僧團。" },
+    { "pali": "sāvaka", "zh": "聲聞弟子", "note": "ariyasāvaka=聖弟子。" }
+  ]
+}
