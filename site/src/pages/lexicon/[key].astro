@@ -22,6 +22,9 @@ const { entry, usage, entity } = Astro.props as {
 };
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
+// 薄詞條（僅文法骨架、出現極少）標 noindex，集中 Google 抓取預算於有價值內容頁
+const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || Boolean(entry && entry.occurrences.length >= 3);
+const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
 const provLabel: Record<Provenance, string> = {
@@ -32,7 +35,7 @@ const provLabel: Record<Provenance, string> = {
 };
 ---
 
-<Base title={`${headword}｜${t.lexicon.title}`} description={`${headword}｜${t.lexicon.desc}`} crumbs={crumbs}>
+<Base title={`${headword}｜${t.lexicon.title}`} description={`${headword}｜${t.lexicon.desc}`} crumbs={crumbs} noindex={noindex}>
   <article class="lex">
     <header class="lex-head">
       <h1 lang="pi">{headword}</h1>

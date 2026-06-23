@@ -33,14 +33,73 @@ const crumbs = [
   { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse` },
   { label: fixture.sutta.title_zh },
 ];
+
+const { sutta, summary, manifest, passages } = fixture;
+const hasAgama = passages.some((p) => p.agama != null);
+
+const fallbackDescription = `${sutta.title_pali}（${sutta.title_zh}）逐字巴利解析與漢譯對照`;
+function buildDescription(): string {
+  if (summary?.review_status === 'approved' && summary.content && summary.content.trim()) {
+    const collapsed = summary.content.replace(/\s+/g, ' ').trim();
+    return collapsed.length > 150 ? `${collapsed.slice(0, 150)}…` : collapsed;
+  }
+  return fallbackDescription;
+}
+const description = buildDescription();
+
+const pageUrl = `https://sutta.io/read/${sutta.id}/`;
+const dateModified = manifest?.built_at ? manifest.built_at.slice(0, 10) : undefined;
+
+const citation: Array<Record<string, string>> = [
+  { '@type': 'CreativeWork', name: 'SuttaCentral (Mahāsaṅgīti)', url: 'https://suttacentral.net/' },
+  { '@type': 'CreativeWork', name: 'Digital Pāḷi Dictionary (DPD)', url: 'https://digitalpalidictionary.github.io/' },
+];
+if (hasAgama) {
+  citation.push({ '@type': 'CreativeWork', name: 'CBETA 漢文大藏經', url: 'https://www.cbeta.org/' });
+}
+
+const organization = {
+  '@type': 'Organization',
+  name: '原典研經庫',
+  alternateName: 'Canonical Text Study System',
+  url: 'https://sutta.io/',
+};
+
+const articleSchema: Record<string, unknown> = {
+  '@type': ['Article', 'CreativeWork'],
+  headline: `${sutta.title_pali}（${sutta.title_zh}）`,
+  name: `${sutta.title_pali}（${sutta.title_zh}）`,
+  description,
+  inLanguage: ['pi', 'zh-Hant'],
+  about: [
+    { '@type': 'Thing', name: sutta.title_pali },
+    { '@type': 'Thing', name: sutta.title_zh },
+    { '@type': 'Thing', name: 'Pāli Canon' },
+  ],
+  isPartOf: {
+    '@type': 'CreativeWorkSeries',
+    name: sutta.collection_zh ?? sutta.collection,
+    inLanguage: 'pi',
+  },
+  url: pageUrl,
+  author: organization,
+  publisher: organization,
+  isAccessibleForFree: true,
+  license: 'https://sutta.io/about',
+  citation,
+};
+if (dateModified) {
+  articleSchema.dateModified = dateModified;
+}
 ---
 
 <Base
   title={fixture.sutta.title_zh}
-  description={`${fixture.sutta.title_pali}（${fixture.sutta.title_zh}）逐字巴利解析與漢譯對照`}
+  description={description}
   crumbs={crumbs}
   preview={preview}
   wide={true}
+  extraSchema={articleSchema}
 >
   <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} l3Api={l3Api} lang={Astro.currentLocale} />
 </Base>

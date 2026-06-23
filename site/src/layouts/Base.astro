@@ -36,6 +36,8 @@ interface Props {
   wide?: boolean;
   /** 頁面專屬 JSON-LD（如首頁 FAQPage），附加於站點 schema 之後 */
   extraSchema?: object | object[];
+  /** 內容單薄頁（如無用法摘要的字頁）設 noindex,follow，集中抓取預算到真內容頁 */
+  noindex?: boolean;
 }
 const {
   title,
@@ -44,6 +46,7 @@ const {
   preview = false,
   wide = false,
   extraSchema,
+  noindex = false,
 } = Astro.props;
 const buildDate = new Date().toISOString().slice(0, 10);
 const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
@@ -91,6 +94,28 @@ const jsonLd = {
     'query-input': 'required name=search_term_string',
   },
 };
+// BreadcrumbList（SEO rich result）：由 crumbs 衍生，首頁置首；末項（當前頁）無 item。
+const breadcrumbSchema =
+  crumbs.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: t.common.breadcrumbHome,
+            item: new URL(url('/'), 'https://sutta.io').href,
+          },
+          ...crumbs.map((c, i) => ({
+            '@type': 'ListItem',
+            position: i + 2,
+            name: c.label,
+            ...(c.href ? { item: new URL(c.href, 'https://sutta.io').href } : {}),
+          })),
+        ],
+      }
+    : null;
 ---
 
 <!doctype html>
@@ -100,6 +125,7 @@ const jsonLd = {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <meta name="color-scheme" content="light dark" />
     <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
     <link rel="canonical" href={canonical} />
@@ -123,6 +149,7 @@ const jsonLd = {
 
     {/* Schema.org JSON-LD（SEO + GEO：AI 理解為研經系統實體） */}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+    {breadcrumbSchema && <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbSchema)} />}
     {extraSchema && <script type="application/ld+json" is:inline set:html={JSON.stringify(extraSchema)} />}
 
     {gscToken && <meta name="google-site-verification" content={gscToken} />}
