@@ -145,8 +145,8 @@
 | ID | 項目 | 狀態 | 說明 |
 |----|------|------|------|
 | J-1 | 寫 `CONTEXT_SPEC.md` | ✅ | 背景層:緣起/人地事/時代背景 + 四級出處標記。 |
-| J-2 | 此經緣起(A) 抽取 | 🔶 | `content/context/mn10.json` 已有種子(劍磨瑟曇/拘樓國);其餘經隨 daily 補。 |
-| J-3 | 人地事詞條 + DPPN 接入(B) | 🔶 | `dppn.ts` 已接;`content/entities/mn10.json` 有種子;規模化待逐經。 |
+| J-2 | 此經緣起(A) 抽取 | 🔶 | 已上線 6 部全備(`content/context/mn{2,9,10,22,118,141}.json`,從各經 nidāna 結構化,provenance canonical);新經隨 daily/batch 補。 |
+| J-3 | 人地事詞條 + DPPN 接入(B) | 🔶 | 已上線 6 部全備(`content/entities/*.json`,21 專名經 `dppn.ts` 接 DPPN→`data/entities.json`,含舍利弗/舍衛城/阿利吒/鹿野苑等);新經隨 daily/batch 補。 |
 | J-4 | 在典天災人禍事件 標注 | ⬜ | DN16 跋耆戰爭、滅釋迦族、飢荒瘟疫等;季風/雨安居環境事實。 |
 | J-5 | 「早期佛典的世界」總覽頁(C) | ✅ | `world.astro` 已實作(CONTEXT §5.1)。 |
 | J-6 | 出處四級標記 落型別+UI | ✅ | types Provenance+SourcedFact 等;視覺值入 design-tokens。 |

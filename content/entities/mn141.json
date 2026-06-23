@@ -1,0 +1,10 @@
+{
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
+  "entities": [
+    { "key": "baranasi", "name_pali": "Bārāṇasī", "name_zh": "波羅奈（城）", "occ_segment": "mn141:1.2" },
+    { "key": "isipatana", "name_pali": "Isipatana", "name_zh": "仙人墮處（仙人住處）", "occ_segment": "mn141:1.2" },
+    { "key": "migadaya", "name_pali": "Migadāya", "name_zh": "鹿野苑", "occ_segment": "mn141:1.2" },
+    { "key": "sariputta", "name_pali": "Sāriputta", "name_zh": "舍利弗", "occ_segment": "mn141:5.1" },
+    { "key": "mahamoggallana", "name_pali": "Mahāmoggallāna", "name_zh": "大目犍連", "occ_segment": "mn141:5.1" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
+  "entities": [
+    { "key": "savatthi", "name_pali": "Sāvatthī", "name_zh": "舍衛城", "occ_segment": "mn118:1.2" },
+    { "key": "pubbarama", "name_pali": "Pubbārāma", "name_zh": "東園", "occ_segment": "mn118:1.2" },
+    { "key": "migaramata", "name_pali": "Migāramātā", "name_zh": "鹿子母（毘舍佉，講堂施主）", "occ_segment": "mn118:1.2" },
+    { "key": "sariputta", "name_pali": "Sāriputta", "name_zh": "舍利弗", "occ_segment": "mn118:1.3" },
+    { "key": "mahamoggallana", "name_pali": "Mahāmoggallāna", "name_zh": "大目犍連", "occ_segment": "mn118:1.3" },
+    { "key": "mahakassapa", "name_pali": "Mahākassapa", "name_zh": "大迦葉", "occ_segment": "mn118:1.3" },
+    { "key": "mahakaccana", "name_pali": "Mahākaccāna", "name_zh": "大迦旃延", "occ_segment": "mn118:1.3" },
+    { "key": "mahakotthika", "name_pali": "Mahākoṭṭhika", "name_zh": "大拘絺羅", "occ_segment": "mn118:1.3" },
+    { "key": "mahakappina", "name_pali": "Mahākappina", "name_zh": "大劫賓那", "occ_segment": "mn118:1.3" },
+    { "key": "mahacunda", "name_pali": "Mahācunda", "name_zh": "大純陀", "occ_segment": "mn118:1.3" },
+    { "key": "anuruddha", "name_pali": "Anuruddha", "name_zh": "阿那律", "occ_segment": "mn118:1.3" },
+    { "key": "revata", "name_pali": "Revata", "name_zh": "離婆多", "occ_segment": "mn118:1.3" },
+    { "key": "ananda", "name_pali": "Ānanda", "name_zh": "阿難", "occ_segment": "mn118:1.3" }
+  ]
+}

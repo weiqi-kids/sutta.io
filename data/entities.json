@@ -42,5 +42,386 @@
     "occurrences": [
       "mn10:1.2"
     ]
+  },
+  "savatthi": {
+    "entity_id": "savatthi",
+    "kind": "place",
+    "name_pali": "Sāvatthī",
+    "name_zh": "舍衛城",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "sāvatthī Sāvatthī The capital city of Kosala in India and one of the six great Indian cities during the lifetime of the Buddha. DN.ii.147 It was six leagues from Sāketa. Vin.i.253 It was on the banks of the Aciravatī. Vin.i.191 Vin.i.293 The road from Rājagaha to Sāvatthī passed through Vesāli, Vin.ii.159f. and the Pārāyanavagga Snp.1011–1013 gives the resting places between the two cities Setavyā, Kapilavatthu, Kusinārā, Pāvā and Bhoganagara. Further on, there was a road running southwards from Sāvatthī through Sāketa to Kosambī. Near the city was the Andhavana. Between Sāketa and Sāvatthī was Toraṇavatthu. SN.iv.374 The Buddha passed the greater part of his monastic life in Sāvatthī, and t",
+        "note": "DPPN 引用：DN.ii.147、Vin.i.253、Vin.i.191、Vin.i.293、Vin.ii.159f.、Snp.1011–1013、SN.iv.374（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.2"
+    ]
+  },
+  "pubbarama": {
+    "entity_id": "pubbarama",
+    "kind": "place",
+    "name_pali": "Pubbārāma",
+    "name_zh": "東園",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "pubbārāma Pubbārāma A monastery outside the eastern gate of Sāvatthī. Location: 27.52532, 82.08984 (Precision: 3, Type: monastery)"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.2"
+    ]
+  },
+  "migaramata": {
+    "entity_id": "migaramata",
+    "kind": "place",
+    "name_pali": "Migāramātā",
+    "name_zh": "鹿子母（毘舍佉，講堂施主）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.2"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.2"
+    ]
+  },
+  "sariputta": {
+    "entity_id": "sariputta",
+    "kind": "person",
+    "name_pali": "Sāriputta",
+    "name_zh": "舍利弗",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "sāriputta Sāriputta The chief disciple of Gotama- Buddha. He is also called Upatissa, which was evidently his personal name. MN.i.150 Sāriputta was a great friend of Mahāmoggallāna. After going forth together under Sañjaya, he heard the essence of the Dhamma from Assaji, and together with Moggallāna they became monks under the Buddha. This was shortly after the Buddha’s Awakening. Sāriputta soon became enlightened, and became a popular teacher, well respected by the other monks, and often praised by the Buddha. He features in many Suttas as a teacher. He passed away shortly before the Buddha.",
+        "note": "DPPN 引用：MN.i.150（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahamoggallana": {
+    "entity_id": "mahamoggallana",
+    "kind": "person",
+    "name_pali": "Mahāmoggallāna",
+    "name_zh": "大目犍連",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "mahāmoggallāna Mahāmoggallāna Moggallāna Kolita The second of the Chief Disciples of the Buddha. He and Sāriputta went forth as disciples of Sañjaya. After some time, Sāriputta, wandering about in Rājagaha, met Assaji, was converted by him to the faith of the Buddha, and became a sotāpanna. He found Moggallāna and repeated the stanza he had heard from Assaji ye dhammā hetuppabhavā, etc., and Moggallāna also became a sotāpanna. The two then resolved to visit the Buddha at Veḷuvana, after an unsuccessful attempt to persuade Sañjaya to accompany them. Sañjaya’s disciples, however, five hundred in number, agreed to go, and they all arrived at Veḷuvana. The Buddha preached to them, and ordained t",
+        "note": "DPPN 引用：Vin.i.39ff.、AN.iv.85f.、SN.ii.235、AN.i.88、MN.iii.248、AN.i.23、Thag.1183、Vin.iii.7（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahakassapa": {
+    "entity_id": "mahakassapa",
+    "kind": "person",
+    "name_pali": "Mahākassapa",
+    "name_zh": "大迦葉",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "mahākassapa Mahākassapa Kassapa Pippali One of the Buddha’s most eminent disciples, chief among those who upheld austere practices. AN.i.23 His personal name was Pippali, but he is usually known by his clan name Kassapa, prefixed with Mahā to distinguish him from the other Kassapas. Mahākassapa went forth, apparently together with his wife Bhaddā Kāpilānī, before meeting the Buddha on the road. He gave him a brief teaching: SN.ii.220 ‘There shall be a lively sense of conscience and regard towards all monks, seniors, novices, and those of middle status.’ ‘Whatever doctrine I shall hear bearing upon what is good, to all that I will hearken with attentive ear, digesting it, pondering it, gather",
+        "note": "DPPN 引用：AN.i.23、SN.ii.220、SN.ii.221、DN.ii.163f.、SN.i.114、SN.ii.205、SN.ii.194f.、SN.ii.197ff.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahakaccana": {
+    "entity_id": "mahakaccana",
+    "kind": "place",
+    "name_pali": "Mahākaccāna",
+    "name_zh": "大迦旃延",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahakotthika": {
+    "entity_id": "mahakotthika",
+    "kind": "place",
+    "name_pali": "Mahākoṭṭhika",
+    "name_zh": "大拘絺羅",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahakappina": {
+    "entity_id": "mahakappina",
+    "kind": "person",
+    "name_pali": "Mahākappina",
+    "name_zh": "大劫賓那",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "mahākappina Mahākappina One of the most eminent disciples of the Buddha, considered foremost among those who taught the monks. AN.i.25 The Vinaya Vin.i.105 records that when Kappina was in the Deer Park at Maddakucchi he wondered whether he need attend the uposatha ceremonies, since he himself was pure. The Buddha appeared before him, telling him to go. He sent for him and asked him to teach the Doctrine to his associates. This Kappina did, and at the end of a single sermon one thousand listening recluses became arahants, hence the title conferred on him. The Theragāthā contains verses in which he celebrates wisdom and equanimity in theface of death. Thag.547–556 Kappina is described by the ",
+        "note": "DPPN 引用：AN.i.25、Vin.i.105、Thag.547–556、SN.i.145、SN.v.315、Thag.1086（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "mahacunda": {
+    "entity_id": "mahacunda",
+    "kind": "place",
+    "name_pali": "Mahācunda",
+    "name_zh": "大純陀",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "anuruddha": {
+    "entity_id": "anuruddha",
+    "kind": "person",
+    "name_pali": "Anuruddha",
+    "name_zh": "阿那律",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "anuruddha Anuruddha First cousin of the Buddha and one of his most eminent disciples. He was the son of the Sākyan Amitodana and brother of Mahānāma. When members of other Sākyan families had joined the Order of their distinguished kinsman, Mahānāma was grieved that none had gone forth from his own. He therefore suggested to his brother that one of them should leave household life. Anuruddha was at first reluctant to agree, for he had been reared most delicately and luxuriously, dwelling in a different house for each season, surrounded by dancers and mimes. But on hearing from Mahānāma of the endless round of household cares he agreed to go. He could not, however, get his mother’s consent un",
+        "note": "DPPN 引用：Vin.ii.180–183、AN.i.23、AN.iv.228ff.、AN.i.281–282、AN.iv.228ff.、Thag.901、MN.iii.153f.、MN.i.462ff.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "revata": {
+    "entity_id": "revata",
+    "kind": "person",
+    "name_pali": "Revata",
+    "name_zh": "離婆多",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "revata Revata (1) Khadiravaniya An eminent disciple of the Buddha, declared by him foremost among forest dwellers. AN.i.24 His Theragāthā verses appear under two names. As Khadiravaniya he admonishes Cāla, Upacāla, and Sīsapacāla to be mindful. Thag.42 The greater part of his verses, where his is called Revata, speak of his good intentions in going forth, and how he has accomplished the Buddha’s path. Thag.645–658 Revata (2) Kaṅkhārevata The Buddha declared him chief of the monks who practised jhāna. AN.i.24 Ud.v.9 Thag.3 Before he became an arahant he was greatly troubled in mind as to what was permissible for him to use and what was not, hence his name, “Revata the Doubter”. UdA.314 He is ",
+        "note": "DPPN 引用：AN.i.24、Thag.42、Thag.645–658、AN.i.24、Ud.v.9、Thag.3、UdA.314、MN.i.462（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "ananda": {
+    "entity_id": "ananda",
+    "kind": "person",
+    "name_pali": "Ānanda",
+    "name_zh": "阿難",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN118）。",
+        "source_ref": "mn118:1.3"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "ānanda Ānanda One of the principal disciples of the Buddha. He was a first cousin of the Buddha and was deeply attached to him. Ānanda entered the Order in the second year of the Buddha’s ministry, together with other Sākiyan princes, such as Bhaddiya, Anuruddha, Bhagu, Kimbila and Devadatta, and was ordained by the Buddha himself, Vin.ii.182 his upajjhāya being Belatthasīsa. Vin.i.202 Vin.iv.86 Soon after, he heard a discourse by Puṇṇa Mantāniputta and became a Sotāpanna SN.iii.105 Ānanda remained close to the Buddha for the following 25 years, and participates in numerous discourses. He was one of the principal reciters at the First Council after the Buddha passed away, and was responsible",
+        "note": "DPPN 引用：Vin.ii.182、Vin.i.202、Vin.iv.86、SN.iii.105（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn118:1.3"
+    ]
+  },
+  "baranasi": {
+    "entity_id": "baranasi",
+    "kind": "place",
+    "name_pali": "Bārāṇasī",
+    "name_zh": "波羅奈（城）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN141）。",
+        "source_ref": "mn141:1.2"
+      }
+    ],
+    "occurrences": [
+      "mn141:1.2"
+    ]
+  },
+  "isipatana": {
+    "entity_id": "isipatana",
+    "kind": "place",
+    "name_pali": "Isipatana",
+    "name_zh": "仙人墮處（仙人住處）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN141）。",
+        "source_ref": "mn141:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "isipatana Isipatana Migadaya Deer Park An open space near Benares, the site of the famous Migadāya or Deer Park. It was eighteen leagues from Uruvelā, and when Gotama gave up his austere penances his friends, the Pañcavaggiyā monks, left him and went to Isipatana. After his Enlightenment the Buddha, leaving Uruvelā, joined them in Isipatana, and it was there that he preached his first sermon, the Dhammacakkappavattana Sutta. Vin.i.10f. Isipatana is mentioned by the Buddha as one of the four places of pilgrimage which his devout followers should visit. DN.ii.141 Here it was that one day at dawn Yasa came to the Buddha and became an arahant. Vin.i.15f. It was at Isipatana, too, that the rule w",
+        "note": "DPPN 引用：Vin.i.10f.、DN.ii.141、Vin.i.15f.、Vin.i.189、Vin.i.216ff.、SN.i.105f.、SN.iii.66f.、AN.i.110f.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn141:1.2"
+    ]
+  },
+  "migadaya": {
+    "entity_id": "migadaya",
+    "kind": "place",
+    "name_pali": "Migadāya",
+    "name_zh": "鹿野苑",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN141）。",
+        "source_ref": "mn141:1.2"
+      }
+    ],
+    "occurrences": [
+      "mn141:1.2"
+    ]
+  },
+  "jetavana": {
+    "entity_id": "jetavana",
+    "kind": "place",
+    "name_pali": "Jetavana",
+    "name_zh": "祇樹林（祇陀林）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN2）。",
+        "source_ref": "mn2:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "jetavana Jetavana Jeta’s Grove Anāthapiṇḍaka’s Park Anāthapiṇḍikassa ārāma Anāthapiṇḍada’s Park A park in Sāvatthī, in which was built the Anāthapiṇḍikārāma. When the Buddha accepted Anāthapiṇḍika’s invitation to visit Sāvatthī the latter, seeking a suitable place for the Buddha’s residence, discovered this park belonging to Jeta. Anāthapiṇḍika built in the grounds dwelling rooms, retiring rooms, store rooms and service halls, halls with fireplaces, closets, cloisters, halls for exercise, wells, bathrooms, ponds, open and roofed sheds, etc. Vin.ii.158f. The monastery became the Buddha’s favorite residence, and the bulk of all discourses were delivered there, so much so that the Jetavana beca",
+        "note": "DPPN 引用：Vin.ii.158f.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn2:1.2"
+    ]
+  },
+  "anathapindika": {
+    "entity_id": "anathapindika",
+    "kind": "person",
+    "name_pali": "Anāthapiṇḍika",
+    "name_zh": "給孤獨（長者）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN2）。",
+        "source_ref": "mn2:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "anāthapiṇḍika Anāthapiṇḍika A banker (seṭṭhi) of Sāvatthī who became famous because of his unparalleled generosity to the Buddha. His first meeting with the Buddha was during the first year after the Enlightenment, in Rājagaha., Vin.ii.154ff. whither Anāthapiṇḍika had come on business. His wife was the sister of the seṭṭhi of Rājagaha, and when he arrived he found the seṭṭhi preparing a meal for the Buddha and his monks on so splendid a scale that he thought that a wedding was in progress or that the king had been invited. On learning the truth he became eager to visit the Buddha, and did so very early the next morning. Vin.ii.155–156 He was so excited by the thought of the visit that he got",
+        "note": "DPPN 引用：Vin.ii.154ff.、Vin.ii.155–156、Vin.ii.158、AN.i.25、Vin.ii.156（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn2:1.2"
+    ]
+  },
+  "arittha": {
+    "entity_id": "arittha",
+    "kind": "person",
+    "name_pali": "Ariṭṭha",
+    "name_zh": "阿利吒（本為馴鷹者之比丘）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN22）。",
+        "source_ref": "mn22:2.1"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "ariṭṭha Ariṭṭha (1) A monk. He had been subjected by the Saṅgha to the ukkhepanīyakamma for refusal to renounce a sinful doctrine, namely, that the states of mind declared by the Buddha to be stumbling-blocks are not such at all for him who indulges in them. Ariṭṭha left the Order and would not come back until the ukkhepanīyakamma was revoked. Vin.ii.25–28 He was a vulture-trainer (gaddhabādhiputta). His case is cited as that of a pācittiya offence because he refused to give up a wrong doctrine even after the monks had three times requested him to do so. Vin.iv.135 In spite of the ukkhepanīyakamma the Chabbaggiyā (group of six) monks kept company with Ariṭṭha, thereby committing a pācittiya-",
+        "note": "DPPN 引用：Vin.ii.25–28、Vin.iv.135、Vin.iv.137、Vin.iv.218、MN.i.130ff.、SN.v.314–315、AN.iii.451、DN.iii.201（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn22:2.1"
+    ]
   }
 }

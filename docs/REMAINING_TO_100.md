@@ -34,8 +34,8 @@
 - **H-3 研經頁原型驗收八條** ⬜：照 `docs/01-pages/STUDY_PAGE_SPEC.md` §9 逐條過。
 - **H-4 L2 抽樣人工品質審** ⬜：設為每日新經常態抽查（事實/教義正確性）。工具：`scripts/sample-l2.mjs`、`scripts/qa-scan-l2.mjs`。簽核表模板見 `docs/04-engineering/QA_ACCEPTANCE.md`。
 
-### 4. 背景脈絡層規模化 J（目前僅 mn10）
-- **J-2 此經緣起** 🔶 / **J-3 人地事 DPPN 詞條** 🔶：`content/context/` 與 `content/entities/` **只有 mn10.json**；其餘 5 部已上線經與後續新經都缺背景脈絡。需逐經補（隨 daily 或批次）。
+### 4. 背景脈絡層規模化 J（已上線 6 部全備）
+- **J-2 此經緣起** 🔶 / **J-3 人地事 DPPN 詞條** 🔶（2026-06-23 補齊已上線 6 部）：`content/context/` 與 `content/entities/` 已含 mn{2,9,10,22,118,141}；context 從各經 nidāna 結構化（provenance canonical、derived_from 可追溯），entities 21 專名經 `dppn.ts` 接 DPPN 摘要。**後續新經**隨 daily/batch 逐經補（next-sutta 以檔案存在判完成，新經須一併新增此二檔）。
 - **J-4 在典天災人禍事件標注** ⬜：DN16 跋耆戰爭、滅釋迦族、飢荒瘟疫、季風/雨安居等。
 - **J-8 學界來源蒐集** ⬜：依 `docs/02-content/SOURCING_STANDARD.md` 逐條具名引用（持續工作）。
 
