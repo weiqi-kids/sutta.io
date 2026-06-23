@@ -6,6 +6,7 @@ import os from 'node:os';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
+import { computePending, renderPendingMarkdown } from './pending-review.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KEY_PATH = process.env.SUTTA_GA4_SA || path.join(os.homedir(), '.config/sutta-io/ga4-sa.json');
@@ -108,6 +109,13 @@ async function main() {
     }
   } catch (e) {
     md += `## Search Console\n> 例外：${e.message}\n\n`;
+  }
+
+  // 待核 L2 段落（pending review）— 與 pending-review.mjs 共用同一套計算邏輯。
+  try {
+    md += renderPendingMarkdown(computePending());
+  } catch (e) {
+    md += `## 待核 L2 段落（pending review）\n> 例外：${e.message}\n\n`;
   }
 
   const out = path.join(ROOT, 'pipeline/.cache/weekly-report.md');

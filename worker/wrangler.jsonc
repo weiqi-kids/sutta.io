@@ -15,6 +15,6 @@
   },
   // 速率限制計數用 KV（部署時建立並填 id）：
   // wrangler kv namespace create RL
-  "kv_namespaces": [{ "binding": "RL", "id": "REPLACE_WITH_KV_ID" }]
+  "kv_namespaces": [{ "binding": "RL", "id": "e16719e4141642e0be4bfef34f0e1002" }]
   // 部署後設密鑰：wrangler secret put ANTHROPIC_API_KEY
 }
