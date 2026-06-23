@@ -13722,7 +13722,24 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn9:11.5.t0",
+          "mn9:11.5.t1",
+          "mn9:11.5.t2",
+          "mn9:11.5.t3",
+          "mn9:11.5.t4",
+          "mn9:11.5.t5",
+          "mn9:11.5.t6",
+          "mn9:11.5.t7",
+          "mn9:11.5.t8",
+          "mn9:11.5.t9",
+          "mn9:11.5.t10"
+        ],
+        "review_status": "approved",
+        "content": "「從渴愛的生起，食生起；從渴愛的滅盡，食滅盡。就是此聖八支道，是導向食滅之道，亦即：」"
+      }
     },
     {
       "segment_id": "mn9:11.6",
@@ -56714,7 +56731,24 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn9:54.8.t0",
+          "mn9:54.8.t1",
+          "mn9:54.8.t2",
+          "mn9:54.8.t3",
+          "mn9:54.8.t4",
+          "mn9:54.8.t5",
+          "mn9:54.8.t6",
+          "mn9:54.8.t7",
+          "mn9:54.8.t8",
+          "mn9:54.8.t9",
+          "mn9:54.8.t10"
+        ],
+        "review_status": "approved",
+        "content": "由識的集起，名與色集起；由識的滅，名與色滅。正是這八支聖道，就是趣向名與色之滅的修行道，亦即："
+      }
     },
     {
       "segment_id": "mn9:54.9",
@@ -73698,7 +73732,47 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn9:71.1.t0",
+          "mn9:71.1.t1",
+          "mn9:71.1.t2",
+          "mn9:71.1.t3",
+          "mn9:71.1.t4",
+          "mn9:71.1.t5",
+          "mn9:71.1.t6",
+          "mn9:71.1.t7",
+          "mn9:71.1.t8",
+          "mn9:71.1.t9",
+          "mn9:71.1.t10",
+          "mn9:71.1.t11",
+          "mn9:71.1.t12",
+          "mn9:71.1.t13",
+          "mn9:71.1.t14",
+          "mn9:71.1.t15",
+          "mn9:71.1.t16",
+          "mn9:71.1.t17",
+          "mn9:71.1.t18",
+          "mn9:71.1.t19",
+          "mn9:71.1.t20",
+          "mn9:71.1.t21",
+          "mn9:71.1.t22",
+          "mn9:71.1.t24",
+          "mn9:71.1.t25",
+          "mn9:71.1.t26",
+          "mn9:71.1.t27",
+          "mn9:71.1.t28",
+          "mn9:71.1.t29",
+          "mn9:71.1.t30",
+          "mn9:71.1.t31",
+          "mn9:71.1.t32",
+          "mn9:71.1.t33",
+          "mn9:71.1.t34"
+        ],
+        "review_status": "approved",
+        "content": "道友，凡聖弟子如此了知漏、如此了知漏之生起、如此了知漏之滅盡、如此了知導向漏滅之道，彼便完全捨棄貪隨眠，遣除瞋隨眠，連根拔除見慢隨眠，捨棄無明、生起明，便在當下諸法中成為使苦終結者。"
+      }
     },
     {
       "segment_id": "mn9:71.2",

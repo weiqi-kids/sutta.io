@@ -6483,7 +6483,29 @@
           "candidates": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn2:5.2.t0",
+          "mn2:5.2.t1",
+          "mn2:5.2.t2",
+          "mn2:5.2.t3",
+          "mn2:5.2.t4",
+          "mn2:5.2.t5",
+          "mn2:5.2.t6",
+          "mn2:5.2.t7",
+          "mn2:5.2.t8",
+          "mn2:5.2.t9",
+          "mn2:5.2.t10",
+          "mn2:5.2.t11",
+          "mn2:5.2.t12",
+          "mn2:5.2.t13",
+          "mn2:5.2.t14",
+          "mn2:5.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，在此，未多聞的凡夫，對聖者無所見，不善巧於聖法，未受聖法調御；對善人無所見，不善巧於善人之法，未受善人之法調御。"
+      }
     },
     {
       "segment_id": "mn2:5.3",
