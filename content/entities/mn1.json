@@ -1,0 +1,7 @@
+{
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
+  "entities": [
+    { "key": "ukkattha", "name_pali": "Ukkaṭṭhā", "name_zh": "鬱迦羅（城）", "occ_segment": "mn1:1.2" },
+    { "key": "subhagavana", "name_pali": "Subhagavana", "name_zh": "善賢林", "occ_segment": "mn1:1.2" }
+  ]
+}

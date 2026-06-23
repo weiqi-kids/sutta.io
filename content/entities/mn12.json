@@ -1,0 +1,9 @@
+{
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
+  "entities": [
+    { "key": "vesali", "name_pali": "Vesālī", "name_zh": "毗舍離", "occ_segment": "mn12:1.2" },
+    { "key": "sunakkhatta", "name_pali": "Sunakkhatta", "name_zh": "善星（離車子，捨戒還俗者）", "occ_segment": "mn12:2.1" },
+    { "key": "licchavi", "name_pali": "Licchavi", "name_zh": "離車（族）", "occ_segment": "mn12:2.1" },
+    { "key": "sariputta", "name_pali": "Sāriputta", "name_zh": "舍利弗", "occ_segment": "mn12:3.1" }
+  ]
+}
