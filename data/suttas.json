@@ -46,5 +46,53 @@
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
+  },
+  {
+    "id": "mn1",
+    "title_pali": "Mūlapariyāyasutta",
+    "title_zh": "根本法門經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn3",
+    "title_pali": "MN3",
+    "title_zh": "mn3",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn4",
+    "title_pali": "MN4",
+    "title_zh": "mn4",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn11",
+    "title_pali": "MN11",
+    "title_zh": "mn11",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn12",
+    "title_pali": "MN12",
+    "title_zh": "mn12",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn13",
+    "title_pali": "MN13",
+    "title_zh": "mn13",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
   }
 ]
