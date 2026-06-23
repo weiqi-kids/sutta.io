@@ -929,5 +929,2840 @@
   "mn10:48.4": {
     "pi": "Vaggavaro asamo susamatto",
     "zh": "殊勝品，阿薩摩（天神），善妙領受之。"
+  },
+  "mn2:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我所聞。"
+  },
+  "mn2:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme",
+    "zh": "某一時，世尊住於舍衛城，祇陀林，給孤獨長者之樂園。"
+  },
+  "mn2:1.3": {
+    "pi": "Tatra kho bhagavā bhikkhū āmantesi",
+    "zh": "於彼處，世尊確實召喚了比丘們。"
+  },
+  "mn2:1.4": {
+    "pi": "bhikkhavo ti",
+    "zh": "「諸比丘！」"
+  },
+  "mn2:1.5": {
+    "pi": "Bhadante ti te bhikkhū bhagavato paccassosuṁ",
+    "zh": "「尊者！」那些比丘們回應了世尊。"
+  },
+  "mn2:1.6": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這些（話）。"
+  },
+  "mn2:2.1": {
+    "pi": "sabbāsavasaṁvarapariyāyaṁ vo bhikkhave desessāmi",
+    "zh": "諸比丘，我將為（汝等）宣說一切漏防護之法門。"
+  },
+  "mn2:2.2": {
+    "pi": "Taṁ suṇātha sādhukaṁ manasi karotha bhāsissāmī ti",
+    "zh": "「你們聽那，（當）於心（如實）作意。」"
+  },
+  "mn2:2.3": {
+    "pi": "Evaṁ bhante ti kho te bhikkhū bhagavato paccassosuṁ",
+    "zh": "「如是，尊者！」那些比丘們確實回應了世尊。"
+  },
+  "mn2:2.4": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這些（話）。"
+  },
+  "mn2:3.1": {
+    "pi": "Jānato ahaṁ bhikkhave passato āsavānaṁ khayaṁ vadāmi no ajānato no apassato",
+    "zh": "諸比丘，我說：知者、見者，諸漏得以滅盡；而非不知者、不見者。"
+  },
+  "mn2:3.2": {
+    "pi": "Kiñca bhikkhave jānato kiñca passato āsavānaṁ khayaṁ vadāmi",
+    "zh": "諸比丘，知何、見何，我說諸漏滅盡？"
+  },
+  "mn2:3.3": {
+    "pi": "Yoniso ca manasikāraṁ ayoniso ca manasikāraṁ",
+    "zh": "〔答：〕如理作意，以及不如理作意。"
+  },
+  "mn2:3.4": {
+    "pi": "Ayoniso bhikkhave manasikaroto anuppannā ceva āsavā uppajjanti uppannā ca āsavā pavaḍḍhanti",
+    "zh": "諸比丘，不如理作意者，未生起的諸漏生起，已生起的諸漏增長。"
+  },
+  "mn2:3.5": {
+    "pi": "yoniso ca kho bhikkhave manasikaroto anuppannā ceva āsavā na uppajjanti uppannā ca āsavā pahīyanti",
+    "zh": "而諸比丘，如理作意者，未生起的諸漏確實不生起，已生起的諸漏則被捨斷。"
+  },
+  "mn2:4.1": {
+    "pi": "Atthi bhikkhave āsavā dassanā pahātabbā atthi āsavā saṁvarā pahātabbā atthi āsavā paṭisevanā pahātabbā atthi āsavā adhivāsanā pahātabbā atthi āsavā parivajjanā pahātabbā atthi āsavā vinodanā pahātabbā atthi āsavā bhāvanā pahātabbā",
+    "zh": "諸比丘，有應由見捨斷的諸漏；有應由防護捨斷的諸漏；有應由受用捨斷的諸漏；有應由忍耐捨斷的諸漏；有應由迴避捨斷的諸漏；有應由驅除捨斷的諸漏；有應由修習捨斷的諸漏。"
+  },
+  "mn2:5.0": {
+    "pi": "1 Dassanāpahātabbaāsava"
+  },
+  "mn2:5.1": {
+    "pi": "Katame ca bhikkhave āsavā dassanā pahātabbā",
+    "zh": "諸比丘，哪些是應由見捨斷的諸漏？"
+  },
+  "mn2:5.2": {
+    "pi": "Idha bhikkhave assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto"
+  },
+  "mn2:5.3": {
+    "pi": "manasikaraṇīye dhamme nappajānāti amanasikaraṇīye dhamme nappajānāti",
+    "zh": "（他）不了知應當作意的諸法，亦不了知不應作意的諸法。"
+  },
+  "mn2:5.4": {
+    "pi": "So manasikaraṇīye dhamme appajānanto amanasikaraṇīye dhamme appajānanto ye dhammā na manasikaraṇīyā te dhamme manasi karoti ye dhammā manasikaraṇīyā te dhamme na manasi karoti",
+    "zh": "彼人不了知應當作意之法，亦不了知不應作意之法；對不應作意的諸法，他置於心上；對應當作意的諸法，他不置於心上。"
+  },
+  "mn2:6.1": {
+    "pi": "Katame ca bhikkhave dhammā na manasikaraṇīyā ye dhamme manasi karoti",
+    "zh": "比丘們，哪些是不應作意的諸法——即那些（若對之）作意的諸法？"
+  },
+  "mn2:6.2": {
+    "pi": "Yassa bhikkhave dhamme manasikaroto anuppanno vā kāmāsavo uppajjati uppanno vā kāmāsavo pavaḍḍhati",
+    "zh": "比丘們，就正在作意那些諸法的（人）而言：未生的欲漏生起，或已生的欲漏增長；"
+  },
+  "mn2:6.3": {
+    "pi": "anuppanno vā bhavāsavo uppajjati uppanno vā bhavāsavo pavaḍḍhati",
+    "zh": "未生的有漏生起，或已生的有漏增長；"
+  },
+  "mn2:6.4": {
+    "pi": "anuppanno vā avijjāsavo uppajjati uppanno vā avijjāsavo pavaḍḍhati",
+    "zh": "未生的無明漏生起，或已生的無明漏增長。"
+  },
+  "mn2:6.5": {
+    "pi": "ime dhammā na manasikaraṇīyā ye dhamme manasi karoti",
+    "zh": "這些是不應作意的諸法——即那些（若對之）作意的諸法。"
+  },
+  "mn2:6.6": {
+    "pi": "Katame ca bhikkhave dhammā manasikaraṇīyā ye dhamme na manasi karoti",
+    "zh": "比丘們，哪些又是應作意的諸法——即那些（若對之）不作意的諸法？"
+  },
+  "mn2:6.7": {
+    "pi": "Yassa bhikkhave dhamme manasikaroto anuppanno vā kāmāsavo na uppajjati uppanno vā kāmāsavo pahīyati",
+    "zh": "比丘們，就正在作意那些諸法的（人）而言：未生的欲漏不生起，或已生的欲漏被捨斷；"
+  },
+  "mn2:6.8": {
+    "pi": "anuppanno vā bhavāsavo na uppajjati uppanno vā bhavāsavo pahīyati",
+    "zh": "未生的有漏不生起，或已生的有漏被捨斷；"
+  },
+  "mn2:6.9": {
+    "pi": "anuppanno vā avijjāsavo na uppajjati uppanno vā avijjāsavo pahīyati",
+    "zh": "未生的無明漏不生起，或已生的無明漏被捨斷。"
+  },
+  "mn2:6.10": {
+    "pi": "ime dhammā manasikaraṇīyā ye dhamme na manasi karoti",
+    "zh": "這些是應作意的諸法——即那些（若對之）不作意的諸法。"
+  },
+  "mn2:7.1": {
+    "pi": "Tassa amanasikaraṇīyānaṁ dhammānaṁ manasikārā manasikaraṇīyānaṁ dhammānaṁ amanasikārā anuppannā ceva āsavā uppajjanti uppannā ca āsavā pavaḍḍhanti",
+    "zh": "對於他，因作意於不應作意之諸法、不作意於應作意之諸法，未生之漏生起，已生之漏增長。"
+  },
+  "mn2:7.2": {
+    "pi": "So evaṁ ayoniso manasi karoti",
+    "zh": "他如此不如理地作意。"
+  },
+  "mn2:7.3": {
+    "pi": "ahosiṁ nu kho ahaṁ atītamaddhānaṁ Na nu kho ahosiṁ atītamaddhānaṁ Kiṁ nu kho ahosiṁ atītamaddhānaṁ Kathaṁ nu kho ahosiṁ atītamaddhānaṁ Kiṁ hutvā kiṁ ahosiṁ nu kho ahaṁ atītamaddhānaṁ",
+    "zh": "「我在過去確實曾存在嗎？我在過去確實不曾存在嗎？我在過去確實是什麼？我在過去確實如何存在？成為什麼之後，我在過去確實又是什麼？」"
+  },
+  "mn2:7.4": {
+    "pi": "Bhavissāmi nu kho ahaṁ anāgatamaddhānaṁ Na nu kho bhavissāmi anāgatamaddhānaṁ Kiṁ nu kho bhavissāmi anāgatamaddhānaṁ Kathaṁ nu kho bhavissāmi anāgatamaddhānaṁ Kiṁ hutvā kiṁ bhavissāmi nu kho ahaṁ anāgatamaddhānan ti",
+    "zh": "「我在未來確實將存在嗎？我在未來確實將不存在嗎？未來我確實將是什麼？未來我確實將如何存在？成為什麼之後，我在未來確實將是什麼？」"
+  },
+  "mn2:7.5": {
+    "pi": "Etarahi vā paccuppannamaddhānaṁ ajjhattaṁ kathaṅkathī hoti",
+    "zh": "或者，在當下，他對自身內在感到困惑疑惑。"
+  },
+  "mn2:7.6": {
+    "pi": "ahaṁ nu khosmi No nu khosmi Kiṁ nu khosmi Kathaṁ nu khosmi Ayaṁ nu kho satto kuto āgato So kuhiṁ gāmī bhavissatī ti",
+    "zh": "「我確實是嗎？我確實不是嗎？我確實是什麼？我確實如何是？這個執著的眾生從何而來？他將往何處去？」"
+  },
+  "mn2:8.1": {
+    "pi": "Tassa evaṁ ayoniso manasikaroto channaṁ diṭṭhīnaṁ aññatarā diṭṭhi uppajjati",
+    "zh": "對於他，如此不如理地作意，於六（種）見解之中，某一見解生起。"
+  },
+  "mn2:8.2": {
+    "pi": "Atthi me attā ti vā assa saccato thetato diṭṭhi uppajjati",
+    "zh": "或者，「我有自我」——如此真實確切的見解對他生起。"
+  },
+  "mn2:8.3": {
+    "pi": "natthi me attā ti vā assa saccato thetato diṭṭhi uppajjati",
+    "zh": "或者，「我無自我」——如此真實確切的見解對他生起。"
+  },
+  "mn2:8.4": {
+    "pi": "attanāva attānaṁ sañjānāmī ti vā assa saccato thetato diṭṭhi uppajjati",
+    "zh": "或者，「以自我（來）感知自我」——如此真實確切的見解對他生起。"
+  },
+  "mn2:8.5": {
+    "pi": "attanāva anattānaṁ sañjānāmī ti vā assa saccato thetato diṭṭhi uppajjati",
+    "zh": "或者，「以自我觀無我」的見解，作為真實、確實之事，於他生起。"
+  },
+  "mn2:8.6": {
+    "pi": "anattanāva attānaṁ sañjānāmī ti vā assa saccato thetato diṭṭhi uppajjati",
+    "zh": "或者，「以無我觀自我」的見解，作為真實、確實之事，於他生起。"
+  },
+  "mn2:8.7": {
+    "pi": "atha vā panassa evaṁ diṭṭhi hoti",
+    "zh": "或者，他亦有如此的見解。（t2 資料標為「消失；滅失」，與前後文意存在詮釋差異；此處傳統上有不同理解。）"
+  },
+  "mn2:8.8": {
+    "pi": "yo me ayaṁ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṁ kammānaṁ vipākaṁ paṭisaṁvedeti so kho pana me ayaṁ attā nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassatī ti",
+    "zh": "「這個我，能說、能感受，在此處彼處親受善惡業的果報——然而，這個我是常、住、永恆、不變易之法，永世如此。」"
+  },
+  "mn2:8.9": {
+    "pi": "Idaṁ vuccati bhikkhave diṭṭhigataṁ diṭṭhigahanaṁ diṭṭhikantāraṁ diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ",
+    "zh": "諸比丘，這被稱為見取、見稠林、見荒漠、見的曲解、見的翻騰、見結。"
+  },
+  "mn2:8.10": {
+    "pi": "Diṭṭhisaṁyojanasaṁyutto bhikkhave assutavā puthujjano na parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi",
+    "zh": "諸比丘，與見結相應的無聞凡夫，不能從生、老、死、愁、悲、苦、憂、惱中完全解脫。"
+  },
+  "mn2:8.11": {
+    "pi": "na parimuccati dukkhasmā ti vadāmi",
+    "zh": "不能從苦中解脫——我如是說。"
+  },
+  "mn2:9.1": {
+    "pi": "Sutavā ca kho bhikkhave ariyasāvako",
+    "zh": "然而，諸比丘，多聞的聖弟子——"
+  },
+  "mn2:9.2": {
+    "pi": "ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto",
+    "zh": "能見諸聖者、熟練聖法、善學聖法；能見善士、熟練善士之法、善學善士之法——"
+  },
+  "mn2:9.3": {
+    "pi": "manasikaraṇīye dhamme pajānāti amanasikaraṇīye dhamme pajānāti",
+    "zh": "了知應當作意的諸法，了知不應當作意的諸法。"
+  },
+  "mn2:9.4": {
+    "pi": "So manasikaraṇīye dhamme pajānanto amanasikaraṇīye dhamme pajānanto ye dhammā na manasikaraṇīyā te dhamme na manasi karoti ye dhammā manasikaraṇīyā te dhamme manasi karoti",
+    "zh": "彼了知應作意之諸法、了知不應作意之諸法；對那些不應作意的諸法，彼不作意之；對那些應作意的諸法，彼作意之。"
+  },
+  "mn2:10.1": {
+    "pi": "Katame ca bhikkhave dhammā na manasikaraṇīyā ye dhamme na manasi karoti",
+    "zh": "諸比丘，哪些是不應作意之諸法？即那些不於心中作意的諸法。"
+  },
+  "mn2:10.2": {
+    "pi": "Yassa bhikkhave dhamme manasikaroto anuppanno vā kāmāsavo uppajjati uppanno vā kāmāsavo pavaḍḍhati",
+    "zh": "諸比丘，對於那作意諸法之人，未生起的欲漏生起，或已生起的欲漏增長；"
+  },
+  "mn2:10.3": {
+    "pi": "anuppanno vā bhavāsavo uppajjati uppanno vā bhavāsavo pavaḍḍhati",
+    "zh": "未生起的有漏生起，或已生起的有漏增長；"
+  },
+  "mn2:10.4": {
+    "pi": "anuppanno vā avijjāsavo uppajjati uppanno vā avijjāsavo pavaḍḍhati",
+    "zh": "未生起的無明漏生起，或已生起的無明漏增長——"
+  },
+  "mn2:10.5": {
+    "pi": "ime dhammā na manasikaraṇīyā ye dhamme na manasi karoti",
+    "zh": "這些是不應作意之諸法——即那些不於心中作意的諸法。"
+  },
+  "mn2:10.6": {
+    "pi": "Katame ca bhikkhave dhammā manasikaraṇīyā ye dhamme manasi karoti",
+    "zh": "諸比丘，哪些是應作意之諸法？即那些於心中作意的諸法。"
+  },
+  "mn2:10.7": {
+    "pi": "Yassa bhikkhave dhamme manasikaroto anuppanno vā kāmāsavo na uppajjati uppanno vā kāmāsavo pahīyati",
+    "zh": "諸比丘，對於那作意諸法之人，未生起的欲漏不生起，或已生起的欲漏被捨斷；"
+  },
+  "mn2:10.8": {
+    "pi": "anuppanno vā bhavāsavo na uppajjati uppanno vā bhavāsavo pahīyati",
+    "zh": "未生起的有漏不生起，或已生起的有漏被捨斷；"
+  },
+  "mn2:10.9": {
+    "pi": "anuppanno vā avijjāsavo na uppajjati uppanno vā avijjāsavo pahīyati",
+    "zh": "未生起的無明漏不生起，或已生起的無明漏被捨斷。"
+  },
+  "mn2:10.10": {
+    "pi": "ime dhammā manasikaraṇīyā ye dhamme manasi karoti",
+    "zh": "這些是應當作意的諸法——他對那些諸法於意中作意。"
+  },
+  "mn2:10.11": {
+    "pi": "Tassa amanasikaraṇīyānaṁ dhammānaṁ amanasikārā manasikaraṇīyānaṁ dhammānaṁ manasikārā anuppannā ceva āsavā na uppajjanti uppannā ca āsavā pahīyanti",
+    "zh": "對於他，由於不作意不應作意的諸法、作意應作意的諸法，未生的諸漏不生起，已生的諸漏則被捨斷。"
+  },
+  "mn2:11.1": {
+    "pi": "So idaṁ dukkhan ti yoniso manasi karoti ayaṁ dukkhasamudayo ti yoniso manasi karoti ayaṁ dukkhanirodho ti yoniso manasi karoti ayaṁ dukkhanirodhagāminī paṭipadā ti yoniso manasi karoti",
+    "zh": "他如理作意「此〔苦〕」（t2 缺失，資料不足）；如理作意「此是苦的集起」；如理作意「此是苦的滅」；如理作意「此是導向苦滅的道跡」。"
+  },
+  "mn2:11.2": {
+    "pi": "Tassa evaṁ yoniso manasikaroto tīṇi saṁyojanāni pahīyanti",
+    "zh": "對於如此如理作意的他，三種結被捨斷。"
+  },
+  "mn2:11.3": {
+    "pi": "sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso",
+    "zh": "〔即〕有身見、疑、戒禁取。"
+  },
+  "mn2:11.4": {
+    "pi": "Ime vuccanti bhikkhave āsavā dassanā pahātabbā",
+    "zh": "諸比丘，這些被稱為應由見而捨斷的諸漏。"
+  },
+  "mn2:12.0": {
+    "pi": "2 Saṁvarāpahātabbaāsava"
+  },
+  "mn2:12.1": {
+    "pi": "Katame ca bhikkhave āsavā saṁvarā pahātabbā",
+    "zh": "諸比丘，又哪些是應由律儀而捨斷的諸漏？"
+  },
+  "mn2:12.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso cakkhundriyasaṁvarasaṁvuto viharati",
+    "zh": "諸比丘，此處比丘審慮如理，以眼根律儀守護而住。"
+  },
+  "mn2:12.3": {
+    "pi": "Yañhissa bhikkhave cakkhundriyasaṁvaraṁ asaṁvutassa viharato uppajjeyyuṁ āsavā vighātapariḷāhā cakkhundriyasaṁvaraṁ saṁvutassa viharato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對未守護眼根律儀而住者，惱熱的諸漏可能生起；對守護眼根律儀而住者，那些惱熱的諸漏便不存在。"
+  },
+  "mn2:12.4": {
+    "pi": "Paṭisaṅkhā yoniso sotindriyasaṁvarasaṁvuto viharati pe",
+    "zh": "審慮如理，以耳根律儀守護而住……（以下省略）。"
+  },
+  "mn2:12.5": {
+    "pi": "ghānindriyasaṁvarasaṁvuto viharati pe",
+    "zh": "以防護鼻根（律儀）而安住；……（下略）"
+  },
+  "mn2:12.6": {
+    "pi": "jivhindriyasaṁvarasaṁvuto viharati pe",
+    "zh": "以防護舌根（律儀）而安住；……（下略）"
+  },
+  "mn2:12.7": {
+    "pi": "kāyindriyasaṁvarasaṁvuto viharati pe",
+    "zh": "以防護身根（律儀）而安住；……（下略）"
+  },
+  "mn2:12.8": {
+    "pi": "manindriyasaṁvarasaṁvuto viharati",
+    "zh": "以防護意根（律儀）而安住。"
+  },
+  "mn2:12.9": {
+    "pi": "Yañhissa bhikkhave manindriyasaṁvaraṁ asaṁvutassa viharato uppajjeyyuṁ āsavā vighātapariḷāhā manindriyasaṁvaraṁ saṁvutassa viharato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不防護意根律儀而安住者，可能生起惱熱諸漏；對於防護意根律儀而安住者，如是那些惱熱諸漏則不生起。"
+  },
+  "mn2:12.10": {
+    "pi": "Yañhissa bhikkhave saṁvaraṁ asaṁvutassa viharato uppajjeyyuṁ āsavā vighātapariḷāhā saṁvaraṁ saṁvutassa viharato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不防護律儀而安住者，可能生起惱熱諸漏；對於防護律儀而安住者，如是那些惱熱諸漏則不生起。"
+  },
+  "mn2:12.11": {
+    "pi": "Ime vuccanti bhikkhave āsavā saṁvarā pahātabbā",
+    "zh": "諸比丘，此等被稱為應由防護（律儀）而捨棄的諸漏。"
+  },
+  "mn2:13.0": {
+    "pi": "3 Paṭisevanāpahātabbaāsava"
+  },
+  "mn2:13.1": {
+    "pi": "Katame ca bhikkhave āsavā paṭisevanā pahātabbā",
+    "zh": "諸比丘，何等諸漏是應由受用而捨棄的？"
+  },
+  "mn2:13.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso cīvaraṁ paṭisevati",
+    "zh": "諸比丘，此處比丘如理省察而受用袈裟。"
+  },
+  "mn2:13.3": {
+    "pi": "yāvadeva sītassa paṭighātāya uṇhassa paṭighātāya ḍaṁsamakasavātātapasarīsapasamphassānaṁ paṭighātāya yāvadeva hirikopīnappaṭicchādanatthaṁ",
+    "zh": "僅為抵禦寒冷、抵禦炎熱、抵禦虻蚊風熱爬蟲之觸，以及僅為遮覆私處。"
+  },
+  "mn2:14.1": {
+    "pi": "Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevati",
+    "zh": "如理省察，受用缽食。"
+  },
+  "mn2:14.2": {
+    "pi": "neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṁsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṁ paṭihaṅkhāmi navañca vedanaṁ na uppādessāmi yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca",
+    "zh": "不為享樂、不為驕逸、不為裝飾自身、不為莊嚴，僅為此身之維持、存活、止息傷害、助益梵行，如是思維：「將消除舊有感受，不令新感受生起；我將有維持之道、無過失而舒適安住。」"
+  },
+  "mn2:15.1": {
+    "pi": "Paṭisaṅkhā yoniso senāsanaṁ paṭisevati",
+    "zh": "如理省察，受用臥具。"
+  },
+  "mn2:15.2": {
+    "pi": "yāvadeva sītassa paṭighātāya uṇhassa paṭighātāya ḍaṁsamakasavātātapasarīsapasamphassānaṁ paṭighātāya yāvadeva utuparissayavinodanapaṭisallānārāmatthaṁ",
+    "zh": "僅為抵禦寒冷、炎熱，以及牛虻、蚊蟲、風、烈日、爬蟲之觸，乃至為了驅除季節性危難之目的並享受獨處。"
+  },
+  "mn2:16.1": {
+    "pi": "Paṭisaṅkhā yoniso gilānappaccayabhesajjaparikkhāraṁ paṭisevati",
+    "zh": "如理省察，受用病緣醫藥資具。"
+  },
+  "mn2:16.2": {
+    "pi": "yāvadeva uppannānaṁ veyyābādhikānaṁ vedanānaṁ paṭighātāya abyābajjhaparamatāya",
+    "zh": "僅為抵禦已生起的苦惱感受，最多達到解除痛苦。"
+  },
+  "mn2:17.1": {
+    "pi": "Yañhissa bhikkhave appaṭisevato uppajjeyyuṁ āsavā vighātapariḷāhā paṭisevato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "比丘們，若不受用，惱熱之漏將會生起；若受用，如是彼等漏與惱熱則不存在。"
+  },
+  "mn2:17.2": {
+    "pi": "Ime vuccanti bhikkhave āsavā paṭisevanā pahātabbā",
+    "zh": "比丘們，這些被稱為應藉由受用而斷除的漏。"
+  },
+  "mn2:18.0": {
+    "pi": "4 Adhivāsanāpahātabbaāsava"
+  },
+  "mn2:18.1": {
+    "pi": "Katame ca bhikkhave āsavā adhivāsanā pahātabbā",
+    "zh": "比丘們，又哪些是應藉由忍受而斷除的漏？"
+  },
+  "mn2:18.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso khamo hoti sītassa uṇhassa jighacchāya pipāsāya Ḍaṁsamakasavātātapasarīsapasamphassānaṁ duruttānaṁ durāgatānaṁ vacanapathānaṁ uppannānaṁ sārīrikānaṁ vedanānaṁ dukkhānaṁ tibbānaṁ kharānaṁ kaṭukānaṁ asātānaṁ amanāpānaṁ pāṇaharānaṁ adhivāsakajātiko hoti",
+    "zh": "在此，比丘們，比丘如理省察，〔資料不足〕，對寒冷、炎熱、飢餓、口渴、牛虻蚊蟲風烈日爬蟲之觸，以及粗魯、不悅意的言辭，對於已生起的身體上苦、劇烈、粗硬、嚴酷、不愉快、不可意、威脅生命之感受，成為能忍受者。"
+  },
+  "mn2:18.3": {
+    "pi": "Yañhissa bhikkhave anadhivāsayato uppajjeyyuṁ āsavā vighātapariḷāhā adhivāsayato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不忍受者，可能生起令苦惱且熱惱的諸漏；而對於忍受者，如此，那些令苦惱且熱惱的諸漏則不存在。"
+  },
+  "mn2:18.4": {
+    "pi": "Ime vuccanti bhikkhave āsavā adhivāsanā pahātabbā",
+    "zh": "諸比丘，這些被稱為應以忍受斷除的諸漏。"
+  },
+  "mn2:19.0": {
+    "pi": "5 Parivajjanāpahātabbaāsava"
+  },
+  "mn2:19.1": {
+    "pi": "Katame ca bhikkhave āsavā parivajjanā pahātabbā",
+    "zh": "諸比丘，哪些漏應以迴避斷除？"
+  },
+  "mn2:19.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso caṇḍaṁ hatthiṁ parivajjeti caṇḍaṁ assaṁ parivajjeti caṇḍaṁ goṇaṁ parivajjeti caṇḍaṁ kukkuraṁ parivajjeti ahiṁ khāṇuṁ kaṇṭakaṭṭhānaṁ sobbhaṁ papātaṁ candanikaṁ oḷigallaṁ",
+    "zh": "諸比丘，於此，比丘如理省察，迴避兇猛的象、迴避兇猛的「此」（依資料；見注）、迴避兇猛的公牛、迴避兇猛的狗、蛇、樹樁、荊棘叢、坑穴、懸崖、污水溝、糞坑。"
+  },
+  "mn2:19.3": {
+    "pi": "Yathārūpe anāsane nisinnaṁ yathārūpe agocare carantaṁ yathārūpe pāpake mitte bhajantaṁ viññū sabrahmacārī pāpakesu ṭhānesu okappeyyuṁ so tañca anāsanaṁ tañca agocaraṁ te ca pāpake mitte paṭisaṅkhā yoniso parivajjeti",
+    "zh": "如此之不適當座位所坐、如此之不適當行境所行、如此之惡友所近——智慧的同梵行者可能在惡劣場所中懷疑（他）——他如理省察，完全迴避那不適當的座位、那不適當的行境，以及那些惡劣的友人。"
+  },
+  "mn2:19.4": {
+    "pi": "Yañhissa bhikkhave aparivajjayato uppajjeyyuṁ āsavā vighātapariḷāhā parivajjayato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不完全迴避者，可能生起令苦惱且熱惱的諸漏；而對於完全迴避者，如此，那些令苦惱且熱惱的諸漏則不存在。"
+  },
+  "mn2:19.5": {
+    "pi": "Ime vuccanti bhikkhave āsavā parivajjanā pahātabbā",
+    "zh": "諸比丘，這些被稱為應以迴避斷除的諸漏。"
+  },
+  "mn2:20.0": {
+    "pi": "6 Vinodanāpahātabbaāsava"
+  },
+  "mn2:20.1": {
+    "pi": "Katame ca bhikkhave āsavā vinodanā pahātabbā",
+    "zh": "諸比丘，哪些漏應以驅除斷除？"
+  },
+  "mn2:20.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso uppannaṁ kāmavitakkaṁ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti uppannaṁ byāpādavitakkaṁ pe uppannaṁ vihiṁsāvitakkaṁ pe uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṁ gameti",
+    "zh": "諸比丘，於此，比丘如理省察，對已生起的欲尋不忍受、捨棄、驅除、去除，使其達到滅盡；對已生起的瞋恚尋（略）；對已生起的惱害尋（略）；對凡生起的諸惡不善法，不忍受、捨棄、驅除、去除，使其達到滅盡。"
+  },
+  "mn2:20.3": {
+    "pi": "Yañhissa bhikkhave avinodayato uppajjeyyuṁ āsavā vighātapariḷāhā vinodayato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不驅除者，可能生起令苦惱且熱惱的諸漏；而對於驅除者，如此，那些令苦惱且熱惱的諸漏則不存在。"
+  },
+  "mn2:20.4": {
+    "pi": "Ime vuccanti bhikkhave āsavā vinodanā pahātabbā",
+    "zh": "諸比丘，這些被稱為應以驅除（方式）捨斷的諸漏。"
+  },
+  "mn2:21.0": {
+    "pi": "7 Bhāvanāpahātabbaāsava"
+  },
+  "mn2:21.1": {
+    "pi": "Katame ca bhikkhave āsavā bhāvanā pahātabbā",
+    "zh": "諸比丘，哪些漏是應以修習捨斷的？"
+  },
+  "mn2:21.2": {
+    "pi": "Idha bhikkhave bhikkhu paṭisaṅkhā yoniso satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+    "zh": "諸比丘，於此，比丘如理審察，修習依止遠離、依止離貪、依止滅、趣向完全放捨的念覺支。"
+  },
+  "mn2:21.3": {
+    "pi": "paṭisaṅkhā yoniso dhammavicayasambojjhaṅgaṁ bhāveti pe",
+    "zh": "如理審察，修習擇法覺支……（略）。"
+  },
+  "mn2:21.4": {
+    "pi": "vīriyasambojjhaṅgaṁ bhāveti",
+    "zh": "修習精進覺支。"
+  },
+  "mn2:21.5": {
+    "pi": "pītisambojjhaṅgaṁ bhāveti",
+    "zh": "修習喜覺支。"
+  },
+  "mn2:21.6": {
+    "pi": "passaddhisambojjhaṅgaṁ bhāveti",
+    "zh": "修習輕安覺支。"
+  },
+  "mn2:21.7": {
+    "pi": "samādhisambojjhaṅgaṁ bhāveti",
+    "zh": "修習定覺支。"
+  },
+  "mn2:21.8": {
+    "pi": "upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ",
+    "zh": "修習依止遠離、依止離貪、依止滅、趣向完全放捨的捨覺支。"
+  },
+  "mn2:21.9": {
+    "pi": "Yañhissa bhikkhave abhāvayato uppajjeyyuṁ āsavā vighātapariḷāhā bhāvayato evaṁsa te āsavā vighātapariḷāhā na honti",
+    "zh": "諸比丘，對於不修習者，此等惱苦且熱惱的諸漏可能生起；而對於修習者，如此，彼等惱苦且熱惱的諸漏則不生起。"
+  },
+  "mn2:21.10": {
+    "pi": "Ime vuccanti bhikkhave āsavā bhāvanā pahātabbā",
+    "zh": "諸比丘，這些被稱為應由修習捨斷的諸漏。"
+  },
+  "mn2:22.1": {
+    "pi": "Yato kho bhikkhave bhikkhuno ye āsavā dassanā pahātabbā te dassanā pahīnā honti ye āsavā saṁvarā pahātabbā te saṁvarā pahīnā honti ye āsavā paṭisevanā pahātabbā te paṭisevanā pahīnā honti ye āsavā adhivāsanā pahātabbā te adhivāsanā pahīnā honti ye āsavā parivajjanā pahātabbā te parivajjanā pahīnā honti ye āsavā vinodanā pahātabbā te vinodanā pahīnā honti ye āsavā bhāvanā pahātabbā te bhāvanā pahīnā honti",
+    "zh": "諸比丘，確實，當比丘的那些應由見捨斷的漏已由見斷除，應由防護捨斷的漏已由防護斷除，應由受用捨斷的漏已由受用斷除，應由忍耐捨斷的漏已由忍耐斷除，應由迴避捨斷的漏已由迴避斷除，應由驅除捨斷的漏已由驅除斷除，應由修習捨斷的漏已由修習斷除——"
+  },
+  "mn2:22.2": {
+    "pi": "ayaṁ vuccati bhikkhave bhikkhu sabbāsavasaṁvarasaṁvuto viharati acchecchi taṇhaṁ vivattayi saṁyojanaṁ sammā mānābhisamayā antamakāsi dukkhassā ti",
+    "zh": "諸比丘，此人被稱為比丘——對一切漏防護自制而住，完全斷絕了渴愛，揭解了結縛，藉由徹底了知我慢而作了終結。"
+  },
+  "mn2:22.3": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊說了此（話）。"
+  },
+  "mn2:22.4": {
+    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "那些比丘們歡喜讚許世尊所說之語。"
+  },
+  "mn2:22.5": {
+    "pi": "Sabbāsavasuttaṁ niṭṭhitaṁ dutiyaṁ",
+    "zh": "《一切漏經》第二篇圓滿結束。"
+  },
+  "mn9:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn9:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme",
+    "zh": "一時，世尊住在舍衛城祇陀林，給孤獨園中。"
+  },
+  "mn9:1.3": {
+    "pi": "Tatra kho āyasmā sāriputto bhikkhū āmantesi",
+    "zh": "在那裡，尊者舍利弗確實呼喚了諸比丘。"
+  },
+  "mn9:1.4": {
+    "pi": "āvuso bhikkhave ti",
+    "zh": "「賢友們，諸比丘！」"
+  },
+  "mn9:1.5": {
+    "pi": "Āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ",
+    "zh": "「賢友！」那些比丘確實回應了尊者舍利弗。"
+  },
+  "mn9:1.6": {
+    "pi": "Āyasmā sāriputto etadavoca",
+    "zh": "尊者舍利弗說了這話："
+  },
+  "mn9:2.1": {
+    "pi": "Sammādiṭṭhi sammādiṭṭhī ti āvuso vuccati",
+    "zh": "「賢友們，『正見』、『具正見者』，〔如此〕被稱呼。」"
+  },
+  "mn9:2.2": {
+    "pi": "Kittāvatā nu kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「賢友，聖弟子以何種方式成為具正見者，具備對諸法的確立淨信，來至於此〔……〕？」（本段 t7、t14 未見於所提供資料。）"
+  },
+  "mn9:2.3": {
+    "pi": "Dūratopi kho mayaṁ āvuso āgaccheyyāma āyasmato sāriputtassa santike etassa bhāsitassa atthamaññātuṁ",
+    "zh": "賢友，我們確實願意從遠處前來尊者舍利弗處，為了了解此所說之義。"
+  },
+  "mn9:2.4": {
+    "pi": "Sādhu vatāyasmantaṁyeva sāriputtaṁ paṭibhātu etassa bhāsitassa attho",
+    "zh": "「善哉！就請尊者舍利弗對此所說之義，自行浮現於心（加以解說）。」"
+  },
+  "mn9:2.5": {
+    "pi": "Āyasmato sāriputtassa sutvā bhikkhū dhāressantī ti",
+    "zh": "諸比丘聽聞了尊者舍利弗（所說之話）……"
+  },
+  "mn9:2.6": {
+    "pi": "Tena hi āvuso suṇātha sādhukaṁ manasi karotha bhāsissāmī ti",
+    "zh": "「那麼，諸友，你們聽，放在心上。」"
+  },
+  "mn9:2.7": {
+    "pi": "Evamāvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṁ",
+    "zh": "那些比丘確實對尊者舍利弗回應道：「是的，諸友。」"
+  },
+  "mn9:2.8": {
+    "pi": "Āyasmā sāriputto etadavoca",
+    "zh": "尊者舍利弗說了這些話。"
+  },
+  "mn9:3.1": {
+    "pi": "Yato kho āvuso ariyasāvako akusalañca pajānāti akusalamūlañca pajānāti kusalañca pajānāti kusalamūlañca pajānāti",
+    "zh": "諸友，凡聖弟子清楚了知不善、清楚了知不善根、清楚了知善、清楚了知善根……"
+  },
+  "mn9:3.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "諸友，就此程度，聖弟子確實是具正見者，具有對法之見，以確然淨信具足，來到此正法。"
+  },
+  "mn9:4.1": {
+    "pi": "Katamaṁ panāvuso akusalaṁ katamaṁ akusalamūlaṁ katamaṁ kusalaṁ katamaṁ kusalamūlaṁ",
+    "zh": "然而，諸友，何謂不善？何謂不善根？何謂善？何謂善根？"
+  },
+  "mn9:4.2": {
+    "pi": "Pāṇātipāto kho āvuso akusalaṁ adinnādānaṁ akusalaṁ kāmesumicchācāro akusalaṁ musāvādo akusalaṁ pisuṇā vācā akusalaṁ pharusā vācā akusalaṁ samphappalāpo akusalaṁ abhijjhā akusalaṁ byāpādo akusalaṁ micchādiṭṭhi akusalaṁ",
+    "zh": "諸友，殺生是不善；偷盜是不善；邪淫是不善；妄語是不善；兩舌語是不善；惡口語是不善；綺語（雜穢語）是不善；貪欲是不善；瞋恚是不善；邪見是不善。"
+  },
+  "mn9:4.3": {
+    "pi": "idaṁ vuccatāvuso akusalaṁ",
+    "zh": "諸友，此即稱為不善。"
+  },
+  "mn9:5.1": {
+    "pi": "Katamañcāvuso akusalamūlaṁ",
+    "zh": "然而，諸友，何謂不善根？"
+  },
+  "mn9:5.2": {
+    "pi": "Lobho akusalamūlaṁ doso akusalamūlaṁ moho akusalamūlaṁ",
+    "zh": "貪是不善根，瞋是不善根，癡是不善根。"
+  },
+  "mn9:5.3": {
+    "pi": "idaṁ vuccatāvuso akusalamūlaṁ",
+    "zh": "諸賢，這就稱為不善根。"
+  },
+  "mn9:6.1": {
+    "pi": "Katamañcāvuso kusalaṁ",
+    "zh": "諸賢，什麼是善呢？"
+  },
+  "mn9:6.2": {
+    "pi": "Pāṇātipātā veramaṇī kusalaṁ adinnādānā veramaṇī kusalaṁ kāmesumicchācārā veramaṇī kusalaṁ musāvādā veramaṇī kusalaṁ pisuṇāya vācāya veramaṇī kusalaṁ pharusāya vācāya veramaṇī kusalaṁ samphappalāpā veramaṇī kusalaṁ anabhijjhā kusalaṁ abyāpādo kusalaṁ sammādiṭṭhi kusalaṁ",
+    "zh": "離殺生是善，離不與取是善，離欲邪行是善，離妄語是善，離離間語是善，離粗惡語是善，離綺語是善，無貪求是善，無瞋恚是善，正見是善。"
+  },
+  "mn9:6.3": {
+    "pi": "idaṁ vuccatāvuso kusalaṁ",
+    "zh": "諸賢，這就稱為善。"
+  },
+  "mn9:7.1": {
+    "pi": "Katamañcāvuso kusalamūlaṁ",
+    "zh": "諸賢，什麼是善根呢？"
+  },
+  "mn9:7.2": {
+    "pi": "Alobho kusalamūlaṁ adoso kusalamūlaṁ amoho kusalamūlaṁ",
+    "zh": "無貪是善根，無瞋是善根，無癡是善根。"
+  },
+  "mn9:7.3": {
+    "pi": "idaṁ vuccatāvuso kusalamūlaṁ",
+    "zh": "諸賢，這就稱為善根。"
+  },
+  "mn9:8.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ akusalaṁ pajānāti evaṁ akusalamūlaṁ pajānāti evaṁ kusalaṁ pajānāti evaṁ kusalamūlaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti",
+    "zh": "諸賢，當聖弟子如此了知不善、了知不善根、了知善、了知善根，他便完全地捨斷貪的隨眠，驅除瞋恚的隨眠，根除見與慢的隨眠，捨斷無明，生起明，在諸法中成為滅苦者。"
+  },
+  "mn9:8.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "諸賢，就此而言，聖弟子確實是具正見者，在諸法中以如實淨信具備（此見地），已到達此（正法）。"
+  },
+  "mn9:9.1": {
+    "pi": "Sādhāvuso ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ",
+    "zh": "「善哉，朋友。」那些比丘們確實對尊者舍利弗所說的話隨喜讚歎後，又進一步向尊者舍利弗提問。"
+  },
+  "mn9:9.2": {
+    "pi": "siyā panāvuso aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「那麼，朋友，是否還有另一種方式，由此聖弟子成為具正見者——對諸法具足確信的淨信，已到來此（正法）？」"
+  },
+  "mn9:10.1": {
+    "pi": "Siyā āvuso",
+    "zh": "「朋友，可以有。」"
+  },
+  "mn9:10.2": {
+    "pi": "Yato kho āvuso ariyasāvako āhārañca pajānāti āhārasamudayañca pajānāti āhāranirodhañca pajānāti āhāranirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "朋友，當聖弟子確實如實了知食、如實了知食的生起、如實了知食的滅盡、如實了知導向食滅之道——"
+  },
+  "mn9:10.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "朋友，僅此程度，聖弟子確實是具正見者——對諸法具足確信的淨信，已到來此正法（之中）。"
+  },
+  "mn9:11.1": {
+    "pi": "Katamo panāvuso āhāro katamo āhārasamudayo katamo āhāranirodho katamā āhāranirodhagāminī paṭipadā",
+    "zh": "「那麼，朋友，什麼是食？什麼是食的生起？什麼是食的滅盡？哪一個是導向食滅之道？」"
+  },
+  "mn9:11.2": {
+    "pi": "Cattārome āvuso āhārā bhūtānaṁ vā sattānaṁ ṭhitiyā sambhavesīnaṁ vā anuggahāya",
+    "zh": "「朋友，這四種食，是為了諸現存有情或眾生的維持，或為了尋求再生者的（資助）。」（anuggahāya 依所提供資料作「不執取」，此處傳統上有不同理解）"
+  },
+  "mn9:11.3": {
+    "pi": "Katame cattāro",
+    "zh": "「哪四種？」"
+  },
+  "mn9:11.4": {
+    "pi": "Kabaḷīkāro āhāro oḷāriko vā sukhumo vā phasso dutiyo manosañcetanā tatiyā viññāṇaṁ catutthaṁ",
+    "zh": "「段食——粗的或細的，觸食第二，意思食第三，識食第四。」"
+  },
+  "mn9:11.5": {
+    "pi": "Taṇhāsamudayā āhārasamudayo taṇhānirodhā āhāranirodho ayameva ariyo aṭṭhaṅgiko maggo āhāranirodhagāminī paṭipadā seyyathidaṁ"
+  },
+  "mn9:11.6": {
+    "pi": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi",
+    "zh": "正見、正思惟、正語、正業、正命、正精進、正念、正定。"
+  },
+  "mn9:12.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ āhāraṁ pajānāti evaṁ āhārasamudayaṁ pajānāti evaṁ āhāranirodhaṁ pajānāti evaṁ āhāranirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti",
+    "zh": "賢友，凡聖弟子如此了知食、如此了知食之集起、如此了知食之息滅、如此了知導向食滅之道，彼完全捨斷貪隨眠、驅除瞋隨眠、根除見慢隨眠、捨斷無明、令〔明〕生起，在具有此性質的諸法中，成為作苦之終者。"
+  },
+  "mn9:12.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，就到此程度，聖弟子確實是具正見者，具有見解，在具有此性質的諸法中，以不壞淨信具足，到達此〔正法〕。"
+  },
+  "mn9:13.1": {
+    "pi": "Sādhāvuso ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ",
+    "zh": "「善哉，賢友！」那些比丘確實歡喜、隨喜尊者舍利弗所說，並向尊者舍利弗提出進一步的問題。"
+  },
+  "mn9:13.2": {
+    "pi": "siyā panāvuso aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「然而，賢友，是否可能有另一種方式，使聖弟子成為具正見者，具有見解，在具有此性質的諸法中以不壞淨信具足，到達此〔正法〕？」"
+  },
+  "mn9:14.1": {
+    "pi": "Siyā āvuso",
+    "zh": "「賢友，可能有。」"
+  },
+  "mn9:14.2": {
+    "pi": "Yato kho āvuso ariyasāvako dukkhañca pajānāti dukkhasamudayañca pajānāti dukkhanirodhañca pajānāti dukkhanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，凡聖弟子了知苦、了知苦之集起、了知苦之息滅、了知導向苦滅之道……"
+  },
+  "mn9:14.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，就到此程度，聖弟子確實是具正見者，具有見解，在具有此性質的諸法中，以對正法的不壞淨信具足，到達此正法。"
+  },
+  "mn9:15.1": {
+    "pi": "Katamaṁ panāvuso dukkhaṁ katamo dukkhasamudayo katamo dukkhanirodho katamā dukkhanirodhagāminī paṭipadā",
+    "zh": "「然而，賢友，什麼是苦？什麼是苦之集起？什麼是苦之息滅？什麼是導向苦滅的行道？」"
+  },
+  "mn9:15.2": {
+    "pi": "Jātipi dukkhā jarāpi dukkhā maraṇampi dukkhaṁ sokaparidevadukkhadomanassupāyāsāpi dukkhā appiyehi sampayogopi dukkho piyehi vippayogopi dukkho yampicchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandhā dukkhā",
+    "zh": "生是苦，老是苦，死是苦，憂、悲、苦、惱、絕望是苦；與不愛者結合是苦，與愛者分離是苦，求而不得也是苦；簡言之，五取蘊是苦。"
+  },
+  "mn9:15.3": {
+    "pi": "idaṁ vuccatāvuso dukkhaṁ",
+    "zh": "道友，這被稱為苦。"
+  },
+  "mn9:16.1": {
+    "pi": "Katamo cāvuso dukkhasamudayo",
+    "zh": "而道友，什麼是苦之集起？"
+  },
+  "mn9:16.2": {
+    "pi": "Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī seyyathidaṁ",
+    "zh": "凡此渴愛，導向再生，伴隨喜與貪，到處尋歡，即是："
+  },
+  "mn9:16.3": {
+    "pi": "kāmataṇhā bhavataṇhā vibhavataṇhā",
+    "zh": "欲愛、有愛、無有愛。"
+  },
+  "mn9:16.4": {
+    "pi": "ayaṁ vuccatāvuso dukkhasamudayo",
+    "zh": "道友，此被稱為苦之集起。"
+  },
+  "mn9:17.1": {
+    "pi": "Katamo cāvuso dukkhanirodho",
+    "zh": "而道友，什麼是苦之滅？"
+  },
+  "mn9:17.2": {
+    "pi": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+    "zh": "凡正是對於那渴愛的無餘離欲滅盡、捨棄、放捨、解脫、不執取，"
+  },
+  "mn9:17.3": {
+    "pi": "ayaṁ vuccatāvuso dukkhanirodho",
+    "zh": "道友，此被稱為苦之滅。"
+  },
+  "mn9:18.1": {
+    "pi": "Katamā cāvuso dukkhanirodhagāminī paṭipadā",
+    "zh": "而道友，什麼是導向苦之滅的道跡？"
+  },
+  "mn9:18.2": {
+    "pi": "Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ",
+    "zh": "正是此聖八支道，即是："
+  },
+  "mn9:18.3": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……乃至……正定（省略格式，中間各正道項目依序略去）"
+  },
+  "mn9:18.4": {
+    "pi": "ayaṁ vuccatāvuso dukkhanirodhagāminī paṭipadā",
+    "zh": "諸友，這就稱為導向苦滅之道。"
+  },
+  "mn9:19.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ dukkhaṁ pajānāti evaṁ dukkhasamudayaṁ pajānāti evaṁ dukkhanirodhaṁ pajānāti evaṁ dukkhanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti",
+    "zh": "諸友，凡聖弟子如此了知苦、如此了知苦集、如此了知苦滅、如此了知導向苦滅之道，他便徹底捨棄貪隨眠，驅除瞋隨眠，根除見慢隨眠，捨棄無明、令存在者生起，就在此諸法中，成為令苦終盡者。"
+  },
+  "mn9:19.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "諸友，就此而言，聖弟子具有正見，具有見解，於諸法具足不壞淨信，已到達此（正法）。"
+  },
+  "mn9:20.1": {
+    "pi": "Sādhāvuso ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ",
+    "zh": "「善哉，諸友！」那些比丘隨喜讚嘆尊者舍利弗所說，並向尊者舍利弗進一步提問。"
+  },
+  "mn9:20.2": {
+    "pi": "siyā panāvuso aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「諸友，還有另一種說法，使聖弟子具有正見、具有見解、於諸法具足不壞淨信、已到達此（正法）嗎？」"
+  },
+  "mn9:21.1": {
+    "pi": "Siyā āvuso",
+    "zh": "「諸友，或許有。」"
+  },
+  "mn9:21.2": {
+    "pi": "Yato kho āvuso ariyasāvako jarāmaraṇañca pajānāti jarāmaraṇasamudayañca pajānāti jarāmaraṇanirodhañca pajānāti jarāmaraṇanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "諸友，凡聖弟子了知老死、了知老死集、了知老死滅、了知導向老死滅之道……"
+  },
+  "mn9:21.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "諸友，就此而言，聖弟子具有正見，具有見解，於諸法具足不壞淨信，已到達此正法。"
+  },
+  "mn9:22.1": {
+    "pi": "Katamaṁ panāvuso jarāmaraṇaṁ katamo jarāmaraṇasamudayo katamo jarāmaraṇanirodho katamā jarāmaraṇanirodhagāminī paṭipadā",
+    "zh": "「諸友，什麼是老死？什麼是老死集？什麼是老死滅？什麼是導向老死滅之道？」"
+  },
+  "mn9:22.2": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṁ pāliccaṁ valittacatā āyuno saṁhāni indriyānaṁ paripāko",
+    "zh": "凡是在那些種種眾生、那那眾生類別中，有衰老、老朽性、破損（牙齒脫落）、白髮、皮膚皺紋、壽命的衰減、諸根的成熟衰敗。"
+  },
+  "mn9:22.3": {
+    "pi": "ayaṁ vuccatāvuso jarā",
+    "zh": "朋友，此即稱為「老」。"
+  },
+  "mn9:22.4": {
+    "pi": "Katamañcāvuso maraṇaṁ",
+    "zh": "那麼，朋友們，什麼是「死」？"
+  },
+  "mn9:22.5": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṁ maccu maraṇaṁ kālaṅkiriyā khandhānaṁ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo",
+    "zh": "凡是從那些種種眾生、那那眾生類別中的殞落、消逝性、破滅、消失、死（死神）、死亡、命終、諸蘊的破滅、身體的捨棄、命根的斷絕。"
+  },
+  "mn9:22.6": {
+    "pi": "idaṁ vuccatāvuso maraṇaṁ",
+    "zh": "朋友，此即稱為「死」。"
+  },
+  "mn9:22.7": {
+    "pi": "Iti ayañca jarā idañca maraṇaṁ",
+    "zh": "如是，此老與此死。"
+  },
+  "mn9:22.8": {
+    "pi": "idaṁ vuccatāvuso jarāmaraṇaṁ",
+    "zh": "朋友，此即稱為「老死」。"
+  },
+  "mn9:22.9": {
+    "pi": "Jātisamudayā jarāmaraṇasamudayo jātinirodhā jarāmaraṇanirodho ayameva ariyo aṭṭhaṅgiko maggo jarāmaraṇanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從生的集起，有老死的集起；從生的滅盡，有老死的滅盡；正是此聖八支道——導向老死滅盡的修行道，即是："
+  },
+  "mn9:22.10": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（省略中間支）……乃至正定。"
+  },
+  "mn9:23.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ jarāmaraṇaṁ pajānāti evaṁ jarāmaraṇasamudayaṁ pajānāti evaṁ jarāmaraṇanirodhaṁ pajānāti evaṁ jarāmaraṇanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "朋友，確實，當聖弟子如此了知老死、如此了知老死的集起、如此了知老死的滅盡、如此了知導向老死滅盡的行道，他完全地捨棄貪欲的潛伏傾向……（省略）……成為作苦之終結者。"
+  },
+  "mn9:23.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "就此而言，確實，賢友，聖弟子是具正見者，持有見解，對諸法以親證淨信具足，已來到此。（引語終）"
+  },
+  "mn9:24.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」確實……（中略）……（他們）問了。"
+  },
+  "mn9:24.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "或許，賢友……（中略）……"
+  },
+  "mn9:25.1": {
+    "pi": "siyā āvuso",
+    "zh": "或許，賢友……"
+  },
+  "mn9:25.2": {
+    "pi": "Yato kho āvuso ariyasāvako jātiñca pajānāti jātisamudayañca pajānāti jātinirodhañca pajānāti jātinirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，從（當）聖弟子確實清楚了知生，清楚了知生之集起，清楚了知生之滅，清楚了知導向生之滅的修行——"
+  },
+  "mn9:25.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "就此而言，確實，賢友，聖弟子是具正見者，持有見解，對諸法以親證淨信具足，已來到此正法。"
+  },
+  "mn9:26.1": {
+    "pi": "Katamā panāvuso jāti katamo jātisamudayo katamo jātinirodho katamā jātinirodhagāminī paṭipadā",
+    "zh": "那麼，賢友，何謂生？何謂生之集起？何謂生之滅？何謂導向生之滅的修行？"
+  },
+  "mn9:26.2": {
+    "pi": "Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho",
+    "zh": "凡在那些那些眾生的各各群類之中：生、誕生、入胎、出生、諸蘊的顯現、諸入處的獲得——"
+  },
+  "mn9:26.3": {
+    "pi": "ayaṁ vuccatāvuso jāti",
+    "zh": "賢友，此即稱為「生」。"
+  },
+  "mn9:26.4": {
+    "pi": "Bhavasamudayā jātisamudayo bhavanirodhā jātinirodho ayameva ariyo aṭṭhaṅgiko maggo jātinirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "由有之集起，〔有〕生之集起；由有之滅，〔有〕生之滅；此正是聖八支道——導向生之滅的修行，即：……"
+  },
+  "mn9:26.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "具正見的……正定。"
+  },
+  "mn9:27.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ jātiṁ pajānāti evaṁ jātisamudayaṁ pajānāti evaṁ jātinirodhaṁ pajānāti evaṁ jātinirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢友，凡聖弟子如此了知生、如此了知生之集起、如此了知生之滅盡、如此了知導向生之滅盡的道跡，他完全捨棄貪的隨眠……成為作苦之終結者。"
+  },
+  "mn9:27.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，就此而言，聖弟子確實成為具正見的……具有正見、對諸法以如實信成就、已到達此……（引述）"
+  },
+  "mn9:28.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」……確實詢問了。"
+  },
+  "mn9:28.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "然而，賢友，或許……（縮略）"
+  },
+  "mn9:29.1": {
+    "pi": "siyā āvuso",
+    "zh": "賢友，或許是（的）。"
+  },
+  "mn9:29.2": {
+    "pi": "Yato kho āvuso ariyasāvako bhavañca pajānāti bhavasamudayañca pajānāti bhavanirodhañca pajānāti bhavanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，凡聖弟子清楚了知有、清楚了知有之集起、清楚了知有之滅盡、清楚了知導向有之滅盡的道跡……"
+  },
+  "mn9:29.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，就此而言，聖弟子確實成為具正見的……具有正見、對諸法以如實信成就、已到達此正法。"
+  },
+  "mn9:30.1": {
+    "pi": "Katamo panāvuso bhavo katamo bhavasamudayo katamo bhavanirodho katamā bhavanirodhagāminī paṭipadā",
+    "zh": "然而，賢友，何謂有？何謂有之集起？何謂有之滅盡？何謂導向有之滅盡的道跡？"
+  },
+  "mn9:30.2": {
+    "pi": "Tayome āvuso bhavā",
+    "zh": "賢友，此三者……"
+  },
+  "mn9:30.3": {
+    "pi": "kāmabhavo rūpabhavo arūpabhavo",
+    "zh": "欲界存有、色界存有、無色界存有。"
+  },
+  "mn9:30.4": {
+    "pi": "Upādānasamudayā bhavasamudayo upādānanirodhā bhavanirodho ayameva ariyo aṭṭhaṅgiko maggo bhavanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "由取之生起而生有之生起；由取之滅而生有之滅。導向有滅的道跡，正是此聖八支道，即："
+  },
+  "mn9:30.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（從略）……正定。"
+  },
+  "mn9:31.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ bhavaṁ pajānāti evaṁ bhavasamudayaṁ pajānāti evaṁ bhavanirodhaṁ pajānāti evaṁ bhavanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢友，當聖弟子如此清楚了知「有」、如此清楚了知「有之生起」、如此清楚了知「有之滅」、如此清楚了知「導向有滅之道跡」，他便完全捨棄貪欲的潛在傾向……成為苦之終結者。"
+  },
+  "mn9:31.2": {
+    "pi": "Ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，到此程度，聖弟子便是正見者，具足對諸法以透徹信心的見解，到達此……（t6、t13 未見於所提供資料，從略）"
+  },
+  "mn9:32.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」確實……詢問了。"
+  },
+  "mn9:32.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "那麼，賢友，或許有……（從略）"
+  },
+  "mn9:33.1": {
+    "pi": "siyā āvuso",
+    "zh": "賢友，或許有……"
+  },
+  "mn9:33.2": {
+    "pi": "Yato kho āvuso ariyasāvako upādānañca pajānāti upādānasamudayañca pajānāti upādānanirodhañca pajānāti upādānanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，聖弟子清楚了知執取，清楚了知執取之生起，清楚了知執取之滅，清楚了知導向執取之滅的道跡。"
+  },
+  "mn9:33.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，到此程度，聖弟子便是正見者，具足對諸法以透徹信心的見解，到達此正法。"
+  },
+  "mn9:34.1": {
+    "pi": "Katamaṁ panāvuso upādānaṁ katamo upādānasamudayo katamo upādānanirodho katamā upādānanirodhagāminī paṭipadā",
+    "zh": "「那麼，諸賢，何為取？何為取之集起？何為取之滅？何為導向取滅之道？」"
+  },
+  "mn9:34.2": {
+    "pi": "Cattārimāni āvuso upādānāni",
+    "zh": "「諸賢，此有四種取：」"
+  },
+  "mn9:34.3": {
+    "pi": "kāmupādānaṁ diṭṭhupādānaṁ sīlabbatupādānaṁ attavādupādānaṁ",
+    "zh": "「欲取、見取、戒禁取、我語取。」"
+  },
+  "mn9:34.4": {
+    "pi": "Taṇhāsamudayā upādānasamudayo taṇhānirodhā upādānanirodho ayameva ariyo aṭṭhaṅgiko maggo upādānanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "「渴愛集起故取集起，渴愛滅故取滅；此即聖八支道──導向取滅之道，即：」"
+  },
+  "mn9:34.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "「正見……（略）……正定。」"
+  },
+  "mn9:35.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ upādānaṁ pajānāti evaṁ upādānasamudayaṁ pajānāti evaṁ upādānanirodhaṁ pajānāti evaṁ upādānanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "「諸賢，凡聖弟子如此了知取、如此了知取之集起、如此了知取之滅、如此了知導向取滅之道，彼完全捨棄貪之潛在傾向……（略）……成為作苦之終盡者。」"
+  },
+  "mn9:35.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「諸賢，僅此而已，聖弟子即成為具正見者，持見，以於法之不壞淨信成就，來到此。」"
+  },
+  "mn9:36.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「『善哉，諸賢。』……（略）……問道：」"
+  },
+  "mn9:36.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "「那麼，諸賢，或有……（略）……」"
+  },
+  "mn9:37.1": {
+    "pi": "siyā āvuso",
+    "zh": "「或有，諸賢。」"
+  },
+  "mn9:37.2": {
+    "pi": "Yato kho āvuso ariyasāvako taṇhañca pajānāti taṇhāsamudayañca pajānāti taṇhānirodhañca pajānāti taṇhānirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，當聖弟子了知渴愛、了知渴愛的生起、了知渴愛的滅盡、了知導向渴愛滅盡的道跡時……"
+  },
+  "mn9:37.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，聖弟子僅憑如此，便成為具足正見者，對諸法具備透徹的淨信，已來到此正法。"
+  },
+  "mn9:38.1": {
+    "pi": "Katamā panāvuso taṇhā katamo taṇhāsamudayo katamo taṇhānirodho katamā taṇhānirodhagāminī paṭipadā",
+    "zh": "賢友，何為渴愛？何為渴愛的生起？何為渴愛的滅盡？何為導向渴愛滅盡的道跡？"
+  },
+  "mn9:38.2": {
+    "pi": "Chayime āvuso taṇhākāyā",
+    "zh": "賢友，此六類渴愛——"
+  },
+  "mn9:38.3": {
+    "pi": "rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā",
+    "zh": "對色的渴愛、對聲的渴愛、對香的渴愛、對味的渴愛、對觸的渴愛、對法的渴愛。"
+  },
+  "mn9:38.4": {
+    "pi": "Vedanāsamudayā taṇhāsamudayo vedanānirodhā taṇhānirodho ayameva ariyo aṭṭhaṅgiko maggo taṇhānirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從受的生起，渴愛生起；從受的滅盡，渴愛滅盡。正是此聖八支道，乃導向渴愛滅盡的道跡，即："
+  },
+  "mn9:38.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（略）……正定。"
+  },
+  "mn9:39.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ taṇhaṁ pajānāti evaṁ taṇhāsamudayaṁ pajānāti evaṁ taṇhānirodhaṁ pajānāti evaṁ taṇhānirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢友，當聖弟子如此了知渴愛、如此了知渴愛的生起、如此了知渴愛的滅盡、如此了知導向渴愛滅盡的道跡，彼徹底捨斷貪欲的潛在傾向……（略）……成為使苦終盡者。"
+  },
+  "mn9:39.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，聖弟子僅憑如此，便成為具足正見者，對諸法具備透徹的淨信，已來到此。」"
+  },
+  "mn9:40.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」……（略）……他們問道。"
+  },
+  "mn9:40.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "可能是，道友……（省略）。"
+  },
+  "mn9:41.1": {
+    "pi": "siyā āvuso",
+    "zh": "可能是，道友。"
+  },
+  "mn9:41.2": {
+    "pi": "Yato kho āvuso ariyasāvako vedanañca pajānāti vedanāsamudayañca pajānāti vedanānirodhañca pajānāti vedanānirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "道友，確實，當聖弟子了知受，了知受的集起，了知受的滅盡，了知導向受滅之道行……"
+  },
+  "mn9:41.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "道友，確實就此程度，聖弟子已是具正見者，於諸法中以不壞淨信具足，已來至此正法。"
+  },
+  "mn9:42.1": {
+    "pi": "Katamā panāvuso vedanā katamo vedanāsamudayo katamo vedanānirodho katamā vedanānirodhagāminī paṭipadā",
+    "zh": "再者，道友，何為受？何為受的集起？何為受的滅盡？何為導向受滅之道行？"
+  },
+  "mn9:42.2": {
+    "pi": "Chayime āvuso vedanākāyā",
+    "zh": "道友，此有六種感受種類。"
+  },
+  "mn9:42.3": {
+    "pi": "cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā",
+    "zh": "眼觸所生受、耳觸所生受、鼻觸所生受、舌觸所生受、身觸所生受、意觸所生受。"
+  },
+  "mn9:42.4": {
+    "pi": "Phassasamudayā vedanāsamudayo phassanirodhā vedanānirodho ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "觸的集起即受的集起，觸的滅盡即受的滅盡；此聖八支道即導向受滅之道行，即是："
+  },
+  "mn9:42.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（省略）……正定。"
+  },
+  "mn9:43.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ vedanaṁ pajānāti evaṁ vedanāsamudayaṁ pajānāti evaṁ vedanānirodhaṁ pajānāti evaṁ vedanānirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "道友，確實，當聖弟子如此了知受、如此了知受的集起、如此了知受的滅盡、如此了知導向受滅之道行，他便應完全捨棄貪的潛在傾向……（省略）……成為作苦之終結者。"
+  },
+  "mn9:43.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "諸賢，就到這個程度，聖弟子確實具有正見——以見解傾向於諸法，具足如實確信，已來到此（法）。"
+  },
+  "mn9:44.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，諸賢。」確實……（省略）……（他們）問了。"
+  },
+  "mn9:44.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "「然而，諸賢，可能……」……（省略）"
+  },
+  "mn9:45.1": {
+    "pi": "siyā āvuso",
+    "zh": "「可能，諸賢。」"
+  },
+  "mn9:45.2": {
+    "pi": "Yato kho āvuso ariyasāvako phassañca pajānāti phassasamudayañca pajānāti phassanirodhañca pajānāti phassanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "諸賢，當聖弟子確實如實了知觸、了知觸的生起、了知觸的滅盡、了知導向觸滅盡的道時，"
+  },
+  "mn9:45.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "諸賢，就到這個程度，聖弟子確實具有正見——以見解傾向於諸法，具足如實確信，已來到此正法。"
+  },
+  "mn9:46.1": {
+    "pi": "Katamo panāvuso phasso katamo phassasamudayo katamo phassanirodho katamā phassanirodhagāminī paṭipadā",
+    "zh": "那麼，諸賢，什麼是觸？什麼是觸的生起？什麼是觸的滅盡？什麼是導向觸滅盡的道？"
+  },
+  "mn9:46.2": {
+    "pi": "Chayime āvuso phassakāyā",
+    "zh": "諸賢，有這六種觸身（觸的類別）："
+  },
+  "mn9:46.3": {
+    "pi": "cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso",
+    "zh": "眼觸、耳觸、鼻觸、舌觸、身觸、意觸。"
+  },
+  "mn9:46.4": {
+    "pi": "Saḷāyatanasamudayā phassasamudayo saḷāyatananirodhā phassanirodho ayameva ariyo aṭṭhaṅgiko maggo phassanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "六處生起故，觸生起；六處滅除故，觸滅除；此趣向觸之滅除的道路，即是聖八支道，亦即："
+  },
+  "mn9:46.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（乃至）正定。"
+  },
+  "mn9:47.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ phassaṁ pajānāti evaṁ phassasamudayaṁ pajānāti evaṁ phassanirodhaṁ pajānāti evaṁ phassanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢友，當聖弟子如此了知觸、如此了知觸的生起、如此了知觸的滅盡、如此了知導向觸滅之道，彼完全捨斷貪的潛在傾向……成為作苦的終結者。"
+  },
+  "mn9:47.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，聖弟子乃至如此成為具正見者，具見，以如理信具足於（諸法），已到達此……」"
+  },
+  "mn9:48.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」……問道。"
+  },
+  "mn9:48.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "然而，賢友，或許……（縮略）"
+  },
+  "mn9:49.1": {
+    "pi": "siyā āvuso",
+    "zh": "賢友，或許。"
+  },
+  "mn9:49.2": {
+    "pi": "Yato kho āvuso ariyasāvako saḷāyatanañca pajānāti saḷāyatanasamudayañca pajānāti saḷāyatananirodhañca pajānāti saḷāyatananirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，當聖弟子如此了知六處、了知六處的生起、了知六處的滅盡、了知導向六處滅之道。"
+  },
+  "mn9:49.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，聖弟子乃至如此成為具正見者，具見，以如理信具足於（諸法），已到達此正法。"
+  },
+  "mn9:50.1": {
+    "pi": "Katamaṁ panāvuso saḷāyatanaṁ katamo saḷāyatanasamudayo katamo saḷāyatananirodho katamā saḷāyatananirodhagāminī paṭipadā",
+    "zh": "然而，賢友，何為六處？何為六處的生起？何為六處的滅盡？何為導向六處滅之道？"
+  },
+  "mn9:50.2": {
+    "pi": "Chayimāni āvuso āyatanāni",
+    "zh": "賢友，此六種感官基……"
+  },
+  "mn9:50.3": {
+    "pi": "cakkhāyatanaṁ sotāyatanaṁ ghānāyatanaṁ jivhāyatanaṁ kāyāyatanaṁ manāyatanaṁ",
+    "zh": "眼處、耳處、鼻處、舌處、身處、意處。"
+  },
+  "mn9:50.4": {
+    "pi": "Nāmarūpasamudayā saḷāyatanasamudayo nāmarūpanirodhā saḷāyatananirodho ayameva ariyo aṭṭhaṅgiko maggo saḷāyatananirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從名色之集起，生起六處之集起；從名色之滅盡，滅盡六處。趣向六處滅盡之修行道，正是此聖八支道，即："
+  },
+  "mn9:50.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……〔資料不足〕……正定。"
+  },
+  "mn9:51.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ saḷāyatanaṁ pajānāti evaṁ saḷāyatanasamudayaṁ pajānāti evaṁ saḷāyatananirodhaṁ pajānāti evaṁ saḷāyatananirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢友，當聖弟子如此了知六處，如此了知六處之集起，如此了知六處之滅盡，如此了知趣向六處滅盡之道，彼完全應當捨棄貪的隨眠……〔資料不足〕……成為令苦終結者。"
+  },
+  "mn9:51.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，就此而言，聖弟子確實成為具正見者，具見，以基於理解的信心具足於諸法，已到達此……"
+  },
+  "mn9:52.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」確實……〔資料不足〕……（他們）問道。"
+  },
+  "mn9:52.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "而賢友，或許……〔資料不足〕……"
+  },
+  "mn9:53.1": {
+    "pi": "siyā āvuso",
+    "zh": "賢友，或許……"
+  },
+  "mn9:53.2": {
+    "pi": "Yato kho āvuso ariyasāvako nāmarūpañca pajānāti nāmarūpasamudayañca pajānāti nāmarūpanirodhañca pajānāti nāmarūpanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，當聖弟子確實了知名色，了知名色之集起，了知名色之滅盡，了知趣向名色滅盡之道……"
+  },
+  "mn9:53.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，就此而言，聖弟子確實成為具正見者，具見，以基於理解的信心具足於諸法，已到達此正法。"
+  },
+  "mn9:54.1": {
+    "pi": "Katamaṁ panāvuso nāmarūpaṁ katamo nāmarūpasamudayo katamo nāmarūpanirodho katamā nāmarūpanirodhagāminī paṭipadā",
+    "zh": "那麼，道友，什麼是名與色？什麼是名與色的集起？什麼是名與色的滅？什麼是趣向名與色之滅的修行道？"
+  },
+  "mn9:54.2": {
+    "pi": "Vedanā saññā cetanā phasso manasikāro",
+    "zh": "感受、想、思、觸、作意"
+  },
+  "mn9:54.3": {
+    "pi": "idaṁ vuccatāvuso nāmaṁ",
+    "zh": "道友，這被稱為「名」。"
+  },
+  "mn9:54.4": {
+    "pi": "cattāri ca mahābhūtāni catunnañca mahābhūtānaṁ upādāyarūpaṁ",
+    "zh": "四大種，以及依四大種所造之色"
+  },
+  "mn9:54.5": {
+    "pi": "idaṁ vuccatāvuso rūpaṁ",
+    "zh": "道友，這被稱為「色」。"
+  },
+  "mn9:54.6": {
+    "pi": "Iti idañca nāmaṁ idañca rūpaṁ",
+    "zh": "如是，這是名，這是色"
+  },
+  "mn9:54.7": {
+    "pi": "idaṁ vuccatāvuso nāmarūpaṁ",
+    "zh": "道友，這被稱為「名與色」。"
+  },
+  "mn9:54.8": {
+    "pi": "Viññāṇasamudayā nāmarūpasamudayo viññāṇanirodhā nāmarūpanirodho ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā seyyathidaṁ"
+  },
+  "mn9:54.9": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……乃至……正定。"
+  },
+  "mn9:55.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ nāmarūpaṁ pajānāti evaṁ nāmarūpasamudayaṁ pajānāti evaṁ nāmarūpanirodhaṁ pajānāti evaṁ nāmarūpanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "道友，當聖弟子如是了知名與色、如是了知名與色的集起、如是了知名與色的滅、如是了知趣向名與色之滅的修行道，他徹底捨棄貪的潛在傾向……乃至……成為令苦終盡者。"
+  },
+  "mn9:55.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「朋友們，確實就到這程度，聖弟子成為具正見者，持有見地，就諸法而言以通達信心具備，已到達此。」"
+  },
+  "mn9:56.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，朋友們。」確實……（中略）……他們詢問。"
+  },
+  "mn9:56.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "「而朋友們，可能……（中略）」"
+  },
+  "mn9:57.1": {
+    "pi": "siyā āvuso",
+    "zh": "「朋友們，可能是。」"
+  },
+  "mn9:57.2": {
+    "pi": "Yato kho āvuso ariyasāvako viññāṇañca pajānāti viññāṇasamudayañca pajānāti viññāṇanirodhañca pajānāti viññāṇanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "「朋友們，確實從彼時起，聖弟子如實了知識，如實了知識的生起，如實了知識的滅盡，如實了知趣向識滅之道。」"
+  },
+  "mn9:57.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "「朋友們，確實就到這程度，聖弟子成為具正見者，持有見地，就諸法而言以通達信心具備，已到達此正法。」"
+  },
+  "mn9:58.1": {
+    "pi": "Katamaṁ panāvuso viññāṇaṁ katamo viññāṇasamudayo katamo viññāṇanirodho katamā viññāṇanirodhagāminī paṭipadā",
+    "zh": "「而朋友們，什麼是識？什麼是識的生起？什麼是識的滅盡？什麼是趣向識滅之道？」"
+  },
+  "mn9:58.2": {
+    "pi": "Chayime āvuso viññāṇakāyā",
+    "zh": "「朋友們，這六種識聚——」"
+  },
+  "mn9:58.3": {
+    "pi": "cakkhuviññāṇaṁ sotaviññāṇaṁ ghānaviññāṇaṁ jivhāviññāṇaṁ kāyaviññāṇaṁ manoviññāṇaṁ",
+    "zh": "眼識、耳識、鼻識、舌識、身識、意識。"
+  },
+  "mn9:58.4": {
+    "pi": "Saṅkhārasamudayā viññāṇasamudayo saṅkhāranirodhā viññāṇanirodho ayameva ariyo aṭṭhaṅgiko maggo viññāṇanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從行的生起，識的生起；從行的滅盡，識的滅盡；正是此聖八支道，乃趣向識滅之道，亦即……"
+  },
+  "mn9:58.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（乃至）正定"
+  },
+  "mn9:59.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ viññāṇaṁ pajānāti evaṁ viññāṇasamudayaṁ pajānāti evaṁ viññāṇanirodhaṁ pajānāti evaṁ viññāṇanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya pe dukkhassantakaro hoti",
+    "zh": "賢者，當聖弟子如此了知識、如此了知識的生起、如此了知識的息滅、如此了知導向識息滅的道，彼便完全地應捨斷貪欲的潛在傾向……成為令苦滅盡者。"
+  },
+  "mn9:59.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢者，就此而言，聖弟子確實是具正見者，持有見地，以對諸法的親證淨信而具足，已來到此〔法〕。"
+  },
+  "mn9:60.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢者！」……（他們）問道。"
+  },
+  "mn9:60.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "然而，賢者，或許……"
+  },
+  "mn9:61.1": {
+    "pi": "siyā āvuso",
+    "zh": "或許，賢者。"
+  },
+  "mn9:61.2": {
+    "pi": "Yato kho āvuso ariyasāvako saṅkhāre ca pajānāti saṅkhārasamudayañca pajānāti saṅkhāranirodhañca pajānāti saṅkhāranirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢者，當聖弟子了知諸行，了知諸行的生起，了知諸行的息滅，並了知導向諸行息滅的道……"
+  },
+  "mn9:61.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢者，就此而言，聖弟子確實是具正見者，持有見地，以對諸法的親證淨信而具足，已來到此正法。"
+  },
+  "mn9:62.1": {
+    "pi": "Katame panāvuso saṅkhārā katamo saṅkhārasamudayo katamo saṅkhāranirodho katamā saṅkhāranirodhagāminī paṭipadā",
+    "zh": "然而，賢者，哪些是諸行？何者是諸行的生起？何者是諸行的息滅？何者是導向諸行息滅之道？"
+  },
+  "mn9:62.2": {
+    "pi": "Tayome āvuso saṅkhārā",
+    "zh": "賢者，此三者是諸行……"
+  },
+  "mn9:62.3": {
+    "pi": "kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro",
+    "zh": "身行、語行、心行。"
+  },
+  "mn9:62.4": {
+    "pi": "Avijjāsamudayā saṅkhārasamudayo avijjānirodhā saṅkhāranirodho ayameva ariyo aṭṭhaṅgiko maggo saṅkhāranirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從無明的生起，諸行生起；從無明的息滅，諸行息滅。正是這條聖八支道——導向諸行息滅的修行道，亦即："
+  },
+  "mn9:62.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（略）……正定。"
+  },
+  "mn9:63.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ saṅkhāre pajānāti evaṁ saṅkhārasamudayaṁ pajānāti evaṁ saṅkhāranirodhaṁ pajānāti evaṁ saṅkhāranirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti",
+    "zh": "賢友，只要聖弟子如此了知諸行、了知諸行的生起、了知諸行的息滅、了知導向諸行息滅的修行道，他便完全捨棄貪的潛在傾向，驅除瞋的潛在傾向，根除「我是」見慢的潛在傾向，捨棄無明，生起現行明智，於此諸法中成為令苦終盡者。"
+  },
+  "mn9:63.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "賢友，就到此程度，聖弟子便是具正見者，於諸法中，具足體證的淨信，到達此……"
+  },
+  "mn9:64.1": {
+    "pi": "Sādhāvuso ti kho pe apucchuṁ",
+    "zh": "「善哉，賢友！」確實……（他們）問了。"
+  },
+  "mn9:64.2": {
+    "pi": "siyā panāvuso pe",
+    "zh": "然而，賢友，或許……"
+  },
+  "mn9:64.3": {
+    "pi": "siyā āvuso",
+    "zh": "或許，賢友。"
+  },
+  "mn9:65.1": {
+    "pi": "Yato kho āvuso ariyasāvako avijjañca pajānāti avijjāsamudayañca pajānāti avijjānirodhañca pajānāti avijjānirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "賢友，只要聖弟子了知無明、了知無明的生起、了知無明的息滅、了知導向無明息滅的修行道……"
+  },
+  "mn9:65.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "賢友，就到此程度，聖弟子便是具正見者，於諸法中，具足體證的淨信，到達此正法。"
+  },
+  "mn9:65.3": {
+    "pi": "Katamā panāvuso avijjā katamo avijjāsamudayo katamo avijjānirodho katamā avijjānirodhagāminī paṭipadā",
+    "zh": "「那麼，朋友們，何為無明？何為無明的集起？何為無明的滅？何為導向無明滅的實踐之道？」"
+  },
+  "mn9:65.4": {
+    "pi": "Yaṁ kho āvuso dukkhe aññāṇaṁ dukkhasamudaye aññāṇaṁ dukkhanirodhe aññāṇaṁ dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ",
+    "zh": "「朋友，凡對苦不了知、對苦集不了知、對苦滅不了知、對導向苦滅之道不了知——」"
+  },
+  "mn9:65.5": {
+    "pi": "ayaṁ vuccatāvuso avijjā",
+    "zh": "「朋友，此稱為無明。」"
+  },
+  "mn9:66.1": {
+    "pi": "Āsavasamudayā avijjāsamudayo āsavanirodhā avijjānirodho ayameva ariyo aṭṭhaṅgiko maggo avijjānirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "「從漏的集起，無明集起；從漏的滅，無明滅；正是此八支聖道，乃導向無明滅的實踐之道，即：」"
+  },
+  "mn9:66.2": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "「正見……（乃至）……正定。」"
+  },
+  "mn9:67.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ avijjaṁ pajānāti evaṁ avijjāsamudayaṁ pajānāti evaṁ avijjānirodhaṁ pajānāti evaṁ avijjānirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti",
+    "zh": "「友啊，當聖弟子如此明知無明、如此明知無明之集、如此明知無明之滅、如此明知導向無明之滅之道，彼便以一切方式捨棄貪的隨眠，消除瞋的隨眠，連根拔除見與慢的隨眠，捨棄無明、令（明）生起，從而（依提供資料詞義）於現見諸法中成為使苦終結者。」"
+  },
+  "mn9:67.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「朋友，僅此，聖弟子即是具正見者，具足於法中不壞的淨信，已來到此——」"
+  },
+  "mn9:68.1": {
+    "pi": "Sādhāvuso ti kho te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttari pañhaṁ apucchuṁ",
+    "zh": "「『善哉，朋友！』那些比丘確實歡喜讚嘆具壽舍利弗所說之語，隨喜後，向具壽舍利弗問了進一步的問題。」"
+  },
+  "mn9:68.2": {
+    "pi": "siyā panāvuso aññopi pariyāyo yathā ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "「『然而，朋友，是否還有另一種方式，使聖弟子成為具正見者，具足於法中不壞的淨信，已來到此？』」"
+  },
+  "mn9:69.1": {
+    "pi": "Siyā āvuso",
+    "zh": "「『朋友，確實有。』」"
+  },
+  "mn9:69.2": {
+    "pi": "Yato kho āvuso ariyasāvako āsavañca pajānāti āsavasamudayañca pajānāti āsavanirodhañca pajānāti āsavanirodhagāminiṁ paṭipadañca pajānāti",
+    "zh": "道友，凡聖弟子如實了知漏、如實了知漏之生起、如實了知漏之滅盡，並如實了知導向漏滅之道，"
+  },
+  "mn9:69.3": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhammaṁ",
+    "zh": "道友，僅此便已，聖弟子成為具正見者，對諸法具足親證信，已到達此正法。"
+  },
+  "mn9:70.1": {
+    "pi": "Katamo panāvuso āsavo katamo āsavasamudayo katamo āsavanirodho katamā āsavanirodhagāminī paṭipadāti",
+    "zh": "然而道友，何為漏？何為漏之生起？何為漏之滅盡？何為導向漏滅之道？"
+  },
+  "mn9:70.2": {
+    "pi": "Tayome āvuso āsavā",
+    "zh": "道友，此有三漏。"
+  },
+  "mn9:70.3": {
+    "pi": "kāmāsavo bhavāsavo avijjāsavo",
+    "zh": "欲漏、有漏、無明漏。"
+  },
+  "mn9:70.4": {
+    "pi": "Avijjāsamudayā āsavasamudayo avijjānirodhā āsavanirodho ayameva ariyo aṭṭhaṅgiko maggo āsavanirodhagāminī paṭipadā seyyathidaṁ",
+    "zh": "從無明集起，漏集；從無明滅盡，漏滅；正是此聖八支道，乃導向漏滅之道，即："
+  },
+  "mn9:70.5": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……（略）……正定。"
+  },
+  "mn9:71.1": {
+    "pi": "Yato kho āvuso ariyasāvako evaṁ āsavaṁ pajānāti evaṁ āsavasamudayaṁ pajānāti evaṁ āsavanirodhaṁ pajānāti evaṁ āsavanirodhagāminiṁ paṭipadaṁ pajānāti so sabbaso rāgānusayaṁ pahāya paṭighānusayaṁ paṭivinodetvā asmī ti diṭṭhimānānusayaṁ samūhanitvā avijjaṁ pahāya vijjaṁ uppādetvā diṭṭheva dhamme dukkhassantakaro hoti"
+  },
+  "mn9:71.2": {
+    "pi": "ettāvatāpi kho āvuso ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme aveccappasādena samannāgato āgato imaṁ saddhamman ti",
+    "zh": "道友，僅此便已，聖弟子成為具正見者，對諸法具足親證信，已到達此（正法）。"
+  },
+  "mn9:71.3": {
+    "pi": "Idamavocāyasmā sāriputto",
+    "zh": "尊者舍利弗說了此語。"
+  },
+  "mn9:71.4": {
+    "pi": "Attamanā te bhikkhū āyasmato sāriputtassa bhāsitaṁ abhinandunti",
+    "zh": "那些比丘們心生歡喜，對具壽舍利弗尊者所說之語，欣然讚嘆。"
+  },
+  "mn9:71.5": {
+    "pi": "Sammādiṭṭhisuttaṁ niṭṭhitaṁ navamaṁ",
+    "zh": "《正見經》，第九篇，圓滿完畢。"
+  },
+  "mn22:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn22:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme",
+    "zh": "一時，世尊住在舍衛城祇陀林給孤獨（長者）的園林中。"
+  },
+  "mn22:2.1": {
+    "pi": "Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti",
+    "zh": "那時，有一位名叫阿利吒、前世曾是捕鷹人的比丘，生起了如此這般邪惡的邪見："
+  },
+  "mn22:2.2": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「我如此了知世尊所說的法——凡世尊說為障道的那些法，對修習者而言，並不能（真正造成障礙）。」"
+  },
+  "mn22:2.3": {
+    "pi": "Assosuṁ kho sambahulā bhikkhū",
+    "zh": "許多比丘確實聽說了（這件事）。"
+  },
+  "mn22:2.4": {
+    "pi": "ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "（聽說）名叫阿利吒、前世曾是捕鷹人的比丘，生起了如此這般邪惡的邪見——"
+  },
+  "mn22:2.5": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「我如此了知世尊所說的法——凡世尊說為障道的那些法，對修習者而言，並不能（真正造成障礙）。」"
+  },
+  "mn22:3.1": {
+    "pi": "Atha kho te bhikkhū yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamiṁsu upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavocuṁ",
+    "zh": "於是，那些比丘前往阿利吒比丘（前世曾是捕鷹人）所在之處，走近後，對阿利吒比丘說了這話："
+  },
+  "mn22:3.2": {
+    "pi": "saccaṁ kira te āvuso ariṭṭha evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "「賢友阿利吒，聽說你確實生起了如此這般邪惡的邪見，這是真的嗎？」"
+  },
+  "mn22:3.3": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「是的，我如此了知世尊所說的法——凡世尊說為障道的那些法，對修習者而言，並不能（真正造成障礙）。」"
+  },
+  "mn22:3.4": {
+    "pi": "Evaṁ byā kho ahaṁ āvuso bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "如此，確實，朋友們，我了解世尊所宣說之具有如此性質的法——那些被世尊說為有障礙性質的諸法（t18 資料缺漏），修習那些法者並不足以（為障礙）。"
+  },
+  "mn22:3.5": {
+    "pi": "Atha kho tepi bhikkhū ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjanti samanugāhanti samanubhāsanti",
+    "zh": "於是，那些比丘們想要使曾為捕鷹者的阿利吒比丘從這惡見中離開，便詰問他、追問他、規勸他。"
+  },
+  "mn22:3.6": {
+    "pi": "mā hevaṁ āvuso ariṭṭha avaca mā bhagavantaṁ abbhācikkhi na hi sādhu bhagavato abbhakkhānaṁ na hi bhagavā evaṁ vadeyya",
+    "zh": "「莫如此說，賢友阿利吒！莫毀謗世尊——毀謗世尊並不善；世尊不會如此說。」"
+  },
+  "mn22:3.7": {
+    "pi": "Anekapariyāyenāvuso ariṭṭha antarāyikā dhammā antarāyikā vuttā bhagavatā alañca pana te paṭisevato antarāyāya",
+    "zh": "朋友阿利吒，世尊以多種方式說那些具有如此性質的諸法是有障礙性的，而且修習那些法者確實會成為障礙。"
+  },
+  "mn22:3.8": {
+    "pi": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "世尊說諸欲少有樂味、多苦、多憂惱，其中過患尤甚。"
+  },
+  "mn22:3.9": {
+    "pi": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā",
+    "zh": "世尊說諸欲如骸骨。"
+  },
+  "mn22:3.10": {
+    "pi": "maṁsapesūpamā kāmā vuttā bhagavatā",
+    "zh": "世尊說諸欲如一塊肉。"
+  },
+  "mn22:3.11": {
+    "pi": "tiṇukkūpamā kāmā vuttā bhagavatā",
+    "zh": "世尊說諸欲如草炬。"
+  },
+  "mn22:3.12": {
+    "pi": "aṅgārakāsūpamā kāmā vuttā bhagavatā",
+    "zh": "世尊說諸欲如炭坑。"
+  },
+  "mn22:3.13": {
+    "pi": "supinakūpamā kāmā vuttā bhagavatā",
+    "zh": "世尊說諸欲如夢。"
+  },
+  "mn22:3.14": {
+    "pi": "yācitakūpamā kāmā vuttā bhagavatā",
+    "zh": "諸欲如借來之物，由世尊所說。"
+  },
+  "mn22:3.15": {
+    "pi": "rukkhaphalūpamā kāmā vuttā bhagavatā",
+    "zh": "諸欲如果樹（之果），由世尊所說。"
+  },
+  "mn22:3.16": {
+    "pi": "asisūnūpamā kāmā vuttā bhagavatā",
+    "zh": "諸欲如屠宰場，由世尊所說。"
+  },
+  "mn22:3.17": {
+    "pi": "sattisūlūpamā kāmā vuttā bhagavatā",
+    "zh": "諸欲如刀劍與矛槍，由世尊所說。"
+  },
+  "mn22:3.18": {
+    "pi": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo ti",
+    "zh": "諸欲如蛇頭，由世尊所說——充滿苦、充滿惱，於此危患更甚。"
+  },
+  "mn22:3.19": {
+    "pi": "Evampi kho ariṭṭho bhikkhu gaddhabādhipubbo tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṁ diṭṭhigataṁ thāmasā parāmāsā abhinivissa voharati",
+    "zh": "如此，曾為捕鷲者的阿利咤比丘，被那些比丘一再詰問、追問、勸誡，仍憑堅毅之力緊抓那同樣的惡見，執著其上而言說。"
+  },
+  "mn22:3.20": {
+    "pi": "evaṁ byā kho ahaṁ āvuso bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「賢友們，我確實如此理解世尊所教導的法：那些被世尊說為有障礙的諸法，對於修習（沉溺）它們者，並不值得（障礙）。」"
+  },
+  "mn22:3.21": {
+    "pi": "Yato kho te bhikkhū nāsakkhiṁsu ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetuṁ atha kho te bhikkhū yena bhagavā tenupasaṅkamiṁsu upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ"
+  },
+  "mn22:3.22": {
+    "pi": "ariṭṭhassa nāma bhante bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "「大德，名為阿利咤、曾為捕鷲者的比丘，生起了如此這般的惡見……」"
+  },
+  "mn22:3.23": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「……『像我這樣理解世尊所教導的法：那些被世尊說為有障礙的諸法，對於修習（沉溺）它們者，並不值得（障礙）。』」"
+  },
+  "mn22:3.24": {
+    "pi": "Assumha kho mayaṁ bhante",
+    "zh": "尊者，我們確實聽聞了——"
+  },
+  "mn22:3.25": {
+    "pi": "ariṭṭhassa kira nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "前捕鷹者阿利吒比丘生起了如此惡劣的邪見——"
+  },
+  "mn22:3.26": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「我如此了解世尊所宣說之法：那些被世尊稱為障礙的諸法，對從事它們者而言不足以構成障礙。」"
+  },
+  "mn22:3.27": {
+    "pi": "Atha kho mayaṁ bhante yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamimha upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavocumha",
+    "zh": "尊者，於是我們前往比丘阿利吒（前捕鷹者）所在之處，前往後對他說了這些話——"
+  },
+  "mn22:3.28": {
+    "pi": "saccaṁ kira te āvuso ariṭṭha evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "「友阿利吒，你真的生起了如此惡劣的邪見嗎？」"
+  },
+  "mn22:3.29": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「我如此了解世尊所宣說之法：那些被世尊稱為障礙的諸法，對從事它們者而言不足以構成障礙。」"
+  },
+  "mn22:3.30": {
+    "pi": "Evaṁ vutte bhante ariṭṭho bhikkhu gaddhabādhipubbo amhe etadavoca",
+    "zh": "尊者，當這樣說了之後，比丘阿利吒（前捕鷹者）對我們說了這些話——"
+  },
+  "mn22:3.31": {
+    "pi": "evaṁ byā kho ahaṁ āvuso bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「友，正是如此——我了解世尊所宣說之法：那些被世尊稱為障礙的諸法，對從事它們者而言確實不足以構成障礙。」"
+  },
+  "mn22:3.32": {
+    "pi": "Atha kho mayaṁ bhante ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetukāmā samanuyuñjimha samanugāhimha samanubhāsimha",
+    "zh": "尊者，於是我們欲令比丘阿利吒（前捕鷹者）從此惡劣邪見中遠離，便反覆詢問、深入追問、勸諫他——"
+  },
+  "mn22:3.33": {
+    "pi": "mā hevaṁ āvuso ariṭṭha avaca mā bhagavantaṁ abbhācikkhi na hi sādhu bhagavato abbhakkhānaṁ na hi bhagavā evaṁ vadeyya",
+    "zh": "「友阿利吒，勿如此說，莫誣蔑世尊——對世尊的誣蔑實非善事，世尊不會如此說的。」"
+  },
+  "mn22:3.34": {
+    "pi": "Anekapariyāyenāvuso ariṭṭha antarāyikā dhammā antarāyikā vuttā bhagavatā alañca pana te paṭisevato antarāyāya",
+    "zh": "「阿利吒道友，世尊以多種方式宣說了那些障礙之法（為有礙的）；而那些（法），修習者從事之，確足以成障。」"
+  },
+  "mn22:3.35": {
+    "pi": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "「世尊宣說諸欲少有樂趣，多苦多惱，其中過患更甚。」"
+  },
+  "mn22:3.36": {
+    "pi": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā pe",
+    "zh": "「世尊宣說諸欲猶如骷髏……（以下省略）」"
+  },
+  "mn22:3.37": {
+    "pi": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo ti",
+    "zh": "「世尊宣說諸欲猶如毒蛇之頭，多苦多惱，其中過患更甚。」"
+  },
+  "mn22:3.38": {
+    "pi": "Evampi kho bhante ariṭṭho bhikkhu gaddhabādhipubbo amhehi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno tadeva pāpakaṁ diṭṭhigataṁ thāmasā parāmāsā abhinivissa voharati",
+    "zh": "「尊者，就這樣，那位前捕鷹者阿利吒比丘被我們反覆追問、詳細詰問、嚴厲勸誡，仍以頑固固著於那惡見，堅持言說不改。」"
+  },
+  "mn22:3.39": {
+    "pi": "evaṁ byā kho ahaṁ āvuso bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「道友，我確實如此了知世尊所宣說之法：凡世尊所說的那些障礙之法，對修習者而言不適合……（資料缺 t18，句意不完整）。」"
+  },
+  "mn22:4.1": {
+    "pi": "Yato kho mayaṁ bhante nāsakkhimha ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetuṁ atha mayaṁ etamatthaṁ bhagavato ārocemā ti",
+    "zh": "「尊者，既然我們無法使那位前捕鷹者阿利吒比丘從此邪見中分離，我們便將此事（稟告）世尊。」（資料缺 t16，句意不完整）"
+  },
+  "mn22:5.1": {
+    "pi": "Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi",
+    "zh": "「於是，世尊召喚某位比丘。」"
+  },
+  "mn22:5.2": {
+    "pi": "ehi tvaṁ bhikkhu mama vacanena ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ āmantehi",
+    "zh": "「『比丘，以我的名義去召喚那位前捕鷹者阿利吒比丘。』」"
+  },
+  "mn22:5.3": {
+    "pi": "satthā taṁ āvuso ariṭṭha āmantetī ti",
+    "zh": "「『道友阿利吒，導師（召喚）你。』（資料缺 t4，動詞不見於提供資料）」"
+  },
+  "mn22:5.4": {
+    "pi": "Evaṁ bhante ti kho so bhikkhu bhagavato paṭissutvā yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkami upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavoca",
+    "zh": "「如此，尊者。」那位比丘應諾世尊後，前往曾為捕鷲者的阿梨吒比丘所在之處，趨近後，對曾為捕鷲者的阿梨吒比丘說了此語："
+  },
+  "mn22:5.5": {
+    "pi": "satthā taṁ āvuso ariṭṭha āmantetī ti",
+    "zh": "「賢友阿梨吒，導師召喚你。」"
+  },
+  "mn22:5.6": {
+    "pi": "Evamāvuso ti kho ariṭṭho bhikkhu gaddhabādhipubbo tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi Ekamantaṁ nisinnaṁ kho ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ bhagavā etadavoca",
+    "zh": "「是的，賢友。」曾為捕鷲者的阿梨吒比丘應諾那位比丘後，前往世尊所在之處，趨近後頂禮世尊，坐於一旁。坐於一旁的曾為捕鷲者的阿梨吒比丘，世尊對他說了此語："
+  },
+  "mn22:5.7": {
+    "pi": "saccaṁ kira te ariṭṭha evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ",
+    "zh": "「阿梨吒，聽說你真的生起了如此惡劣的邪見？」"
+  },
+  "mn22:5.8": {
+    "pi": "tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「我如此了解世尊所宣說之法——那些被世尊說為障礙的諸法，對修習者而言不足以（構成障礙）。」"
+  },
+  "mn22:5.9": {
+    "pi": "Evaṁ byā kho ahaṁ bhante bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā ti",
+    "zh": "「尊者，確實，我如此了解世尊所宣說之法——那些被世尊說為障礙的諸法，對修習者而言不足以（構成障礙）。」"
+  },
+  "mn22:6.1": {
+    "pi": "Kassa kho nāma tvaṁ moghapurisa mayā evaṁ dhammaṁ desitaṁ ājānāsi",
+    "zh": "「愚人！你究竟是依誰（的說法）而如此了解我所宣說之法的呢？」"
+  },
+  "mn22:6.2": {
+    "pi": "Nanu mayā moghapurisa anekapariyāyena antarāyikā dhammā antarāyikā vuttā Alañca pana te paṭisevato antarāyāya",
+    "zh": "「愚人！難道不是我以種種方式說那些法為障礙嗎？而那些對修習者確實是障礙。」"
+  },
+  "mn22:6.3": {
+    "pi": "Appassādā kāmā vuttā mayā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "「諸欲被我說為少樂、多苦、多惱，於此過患尤甚。」"
+  },
+  "mn22:6.4": {
+    "pi": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā",
+    "zh": "「諸欲被我說如骸骨。」"
+  },
+  "mn22:6.5": {
+    "pi": "maṁsapesūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同一塊肉。"
+  },
+  "mn22:6.6": {
+    "pi": "tiṇukkūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同草炬。"
+  },
+  "mn22:6.7": {
+    "pi": "aṅgārakāsūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同炭坑。"
+  },
+  "mn22:6.8": {
+    "pi": "supinakūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同夢境。"
+  },
+  "mn22:6.9": {
+    "pi": "yācitakūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同借來之物。"
+  },
+  "mn22:6.10": {
+    "pi": "rukkhaphalūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同樹上果實。"
+  },
+  "mn22:6.11": {
+    "pi": "asisūnūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同屠宰場。"
+  },
+  "mn22:6.12": {
+    "pi": "sattisūlūpamā kāmā vuttā mayā",
+    "zh": "諸欲已被我說為如同刀劍槍矛。"
+  },
+  "mn22:6.13": {
+    "pi": "sappasirūpamā kāmā vuttā mayā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "諸欲已被我說為如同蛇頭——多苦、多惱，於此過患尤甚。"
+  },
+  "mn22:6.14": {
+    "pi": "Atha ca pana tvaṁ moghapurisa attanā duggahitena amhe ceva abbhācikkhasi attānañca khanasi bahuñca apuññaṁ pasavasi",
+    "zh": "然而，愚人啊，你以自身錯誤的把握，誹謗了我們，又傷害了自己，並積累了大量非福。"
+  },
+  "mn22:6.15": {
+    "pi": "Tañhi te moghapurisa bhavissati dīgharattaṁ ahitāya dukkhāyā ti",
+    "zh": "「那，愚人啊，長久以來將對（你）有害。」"
+  },
+  "mn22:7.1": {
+    "pi": "Atha kho bhagavā bhikkhū āmantesi",
+    "zh": "於是，世尊確實向比丘們說道。"
+  },
+  "mn22:7.2": {
+    "pi": "Taṁ kiṁ maññatha bhikkhave",
+    "zh": "比丘們啊，你們對此怎麼看？"
+  },
+  "mn22:7.3": {
+    "pi": "api nāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo usmīkatopi imasmiṁ dhammavinaye ti",
+    "zh": "曾為捕鷲者的阿利吒比丘，難道在此法與律中連稍許悟境都沒有嗎？"
+  },
+  "mn22:7.4": {
+    "pi": "Kiñhi siyā bhante",
+    "zh": "大德，那能有什麼呢？"
+  },
+  "mn22:7.5": {
+    "pi": "no hetaṁ bhante ti",
+    "zh": "大德，確實不是。"
+  },
+  "mn22:7.6": {
+    "pi": "Evaṁ vutte ariṭṭho bhikkhu gaddhabādhipubbo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi",
+    "zh": "如此說後，曾為捕鷲者的阿利吒比丘，沉默、羞愧、垂肩、低頭、沉鬱、無以作答地坐下了。"
+  },
+  "mn22:7.7": {
+    "pi": "Atha kho bhagavā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavoca",
+    "zh": "於是，世尊了知曾為捕鷲者的阿利吒比丘沉默、羞愧、垂肩、低頭、沉鬱、無以作答，便對曾為捕鷲者的阿利吒比丘說道。"
+  },
+  "mn22:7.8": {
+    "pi": "paññāyissasi kho tvaṁ moghapurisa etena sakena pāpakena diṭṭhigatena",
+    "zh": "愚人啊，你將因自己這惡劣的邪見而原形畢露。"
+  },
+  "mn22:7.9": {
+    "pi": "Idhāhaṁ bhikkhū paṭipucchissāmī ti",
+    "zh": "「在此，我，比丘們……」（引文片段，資料僅提供三個 token）"
+  },
+  "mn22:8.1": {
+    "pi": "Atha kho bhagavā bhikkhū āmantesi",
+    "zh": "於是，世尊確實召喚了諸比丘。"
+  },
+  "mn22:8.2": {
+    "pi": "tumhepi me bhikkhave evaṁ dhammaṁ desitaṁ ājānātha yathāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati attānañca khanati bahuñca apuññaṁ pasavatī ti",
+    "zh": "「諸比丘，你們也是這樣理解我所宣說之法嗎？就如那位曾是捕鷲者的阿利吒比丘，以自己的錯誤執取，既誹謗了我們，又傷害了自己，並積累了大量不善業。」"
+  },
+  "mn22:8.3": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，尊者，確實不是這樣。」"
+  },
+  "mn22:8.4": {
+    "pi": "Anekapariyāyena hi no bhante antarāyikā dhammā antarāyikā vuttā bhagavatā",
+    "zh": "「尊者，確實，障礙性的諸法以種種方式被世尊〔宣說〕為障礙性的。」"
+  },
+  "mn22:8.5": {
+    "pi": "alañca pana te paṭisevato antarāyāya",
+    "zh": "而且〔alañca 字義資料不足〕，那些對修習者而言，乃是障礙之因。"
+  },
+  "mn22:8.6": {
+    "pi": "Appassādā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "欲被世尊〔宣說為〕少樂、多苦、多惱，於此危患更甚。"
+  },
+  "mn22:8.7": {
+    "pi": "Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā pe",
+    "zh": "欲如骸骨，被世尊〔宣說〕……〔pe 字義資料不足〕"
+  },
+  "mn22:8.8": {
+    "pi": "sappasirūpamā kāmā vuttā bhagavatā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo ti",
+    "zh": "欲如蛇頭，被世尊〔宣說為〕多苦、多惱，於此危患更甚。"
+  },
+  "mn22:8.9": {
+    "pi": "Sādhu sādhu bhikkhave sādhu kho me tumhe bhikkhave evaṁ dhammaṁ desitaṁ ājānātha",
+    "zh": "「善哉，善哉，諸比丘！你們確實如此理解我所宣說之法，甚善。」"
+  },
+  "mn22:8.10": {
+    "pi": "Anekapariyāyena hi kho bhikkhave antarāyikā dhammā vuttā mayā alañca pana te paṭisevato antarāyāya",
+    "zh": "「諸比丘，確實，以種種方式，障礙性的諸法已由我〔宣說為〕障礙性的，而且〔alañca 字義資料不足〕對修習者而言，乃是障礙之因。」"
+  },
+  "mn22:8.11": {
+    "pi": "Appassādā kāmā vuttā mayā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "諸欲少樂——為我所說——多苦、多惱，此中禍患更多。"
+  },
+  "mn22:8.12": {
+    "pi": "Aṭṭhikaṅkalūpamā kāmā vuttā mayā pe",
+    "zh": "諸欲如骸骨——為我所說……（省略）"
+  },
+  "mn22:8.13": {
+    "pi": "sappasirūpamā kāmā vuttā mayā bahudukkhā bahupāyāsā ādīnavo ettha bhiyyo",
+    "zh": "諸欲如蛇頭——為我所說——多苦、多惱，此中禍患更多。"
+  },
+  "mn22:8.14": {
+    "pi": "Atha ca panāyaṁ ariṭṭho bhikkhu gaddhabādhipubbo attanā duggahitena amhe ceva abbhācikkhati attānañca khanati bahuñca apuññaṁ pasavati",
+    "zh": "然而，此前身為捕鷲者的阿利吒比丘，以其自身錯誤的見解，誣謗了我們，也傷害了自己，且積累了大量非福。"
+  },
+  "mn22:8.15": {
+    "pi": "Tañhi tassa moghapurisassa bhavissati dīgharattaṁ ahitāya dukkhāya",
+    "zh": "此將對那愚人長時帶來不利益與苦。"
+  },
+  "mn22:9.1": {
+    "pi": "So vata bhikkhave aññatreva kāmehi aññatra kāmasaññāya aññatra kāmavitakkehi kāme paṭisevissatīti netaṁ ṭhānaṁ vijjati",
+    "zh": "諸比丘，確實，離欲、離欲想、離欲尋，而受用諸欲——此情況不存在。"
+  },
+  "mn22:10.1": {
+    "pi": "Idha bhikkhave ekacce moghapurisā dhammaṁ pariyāpuṇanti",
+    "zh": "諸比丘，於此，某些愚人研習法——"
+  },
+  "mn22:10.2": {
+    "pi": "suttaṁ geyyaṁ veyyākaraṇaṁ gāthaṁ udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ",
+    "zh": "修多羅、應頌、授記、偈頌、感興語、如是語、本生、未曾有法、毘陀羅。"
+  },
+  "mn22:10.3": {
+    "pi": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti",
+    "zh": "彼等學習了那法之後，對那些法，不以慧審察其義。"
+  },
+  "mn22:10.4": {
+    "pi": "Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti",
+    "zh": "對彼等而言，那些不以慧審察義的法，不堪耐觀。"
+  },
+  "mn22:10.5": {
+    "pi": "Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca",
+    "zh": "他們學習法，既是為了爭辯之利益，也是為了在言論中取勝之利益。"
+  },
+  "mn22:10.6": {
+    "pi": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti",
+    "zh": "他們為了某個目的而學習法，卻無法實現那個目的與利益。"
+  },
+  "mn22:10.7": {
+    "pi": "Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti",
+    "zh": "對他們而言，那些被錯誤執取的法，長時間導向不利益與苦。"
+  },
+  "mn22:10.8": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是什麼原因呢？"
+  },
+  "mn22:10.9": {
+    "pi": "Duggahitattā bhikkhave dhammānaṁ",
+    "zh": "比丘們，（這是）因為諸法被錯誤地執取。"
+  },
+  "mn22:10.10": {
+    "pi": "Seyyathāpi bhikkhave puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṁ caramāno",
+    "zh": "比丘們，就好比有一個人，想要毒蛇、尋求毒蛇，四處行走搜尋毒蛇。"
+  },
+  "mn22:10.11": {
+    "pi": "So passeyya mahantaṁ alagaddaṁ",
+    "zh": "他看見了一條大毒蛇。"
+  },
+  "mn22:10.12": {
+    "pi": "Tamenaṁ bhoge vā naṅguṭṭhe vā gaṇheyya",
+    "zh": "他抓住牠的身體（某處）或尾巴。"
+  },
+  "mn22:10.13": {
+    "pi": "Tassa so alagaddo paṭiparivattitvā hatthe vā bāhāya vā aññatarasmiṁ vā aṅgapaccaṅge ḍaṁseyya",
+    "zh": "那條毒蛇轉身，咬他的手、手臂，或身體某個大小肢體。"
+  },
+  "mn22:10.14": {
+    "pi": "So tatonidānaṁ maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ",
+    "zh": "他因此便遭受死亡，或瀕死之苦。"
+  },
+  "mn22:10.15": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是為了什麼原因呢？"
+  },
+  "mn22:10.16": {
+    "pi": "Duggahitattā bhikkhave alagaddassa",
+    "zh": "諸比丘，是因為對毒蛇（的把握方式）錯誤執取之故。"
+  },
+  "mn22:10.17": {
+    "pi": "Evameva kho bhikkhave idhekacce moghapurisā dhammaṁ pariyāpuṇanti",
+    "zh": "諸比丘，正是如此，此處某些愚人學習（具如此性質的）法。"
+  },
+  "mn22:10.18": {
+    "pi": "suttaṁ geyyaṁ veyyākaraṇaṁ gāthaṁ udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ",
+    "zh": "（所學內容為）：suttam（依資料：睡眠）、geyyam（混合韻文）、veyyakaranam（解答）、gatham（偈頌）、udanam（依資料：水）、itivuttakam（如是語）、jatakam（依資料：新生者）、abbhutadhammam（未曾有法）、vedallam（問答）。"
+  },
+  "mn22:10.19": {
+    "pi": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ na upaparikkhanti",
+    "zh": "他們學習精通（具如此性質的）法之後，不去審察那些（法）的義是否顯現。"
+  },
+  "mn22:10.20": {
+    "pi": "Tesaṁ te dhammā paññāya atthaṁ anupaparikkhataṁ na nijjhānaṁ khamanti",
+    "zh": "對不加審察的彼等而言，那些（法）之義不被了知，不能承受深思省察。"
+  },
+  "mn22:10.21": {
+    "pi": "Te upārambhānisaṁsā ceva dhammaṁ pariyāpuṇanti itivādappamokkhānisaṁsā ca",
+    "zh": "彼等以論難辯駁為目的，以及以駁倒他人言論為目的，學習（具如此性質的）法。"
+  },
+  "mn22:10.22": {
+    "pi": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ nānubhonti",
+    "zh": "他們為了什麼目的學習（法），那個目的的利益，他們無法實現。"
+  },
+  "mn22:10.23": {
+    "pi": "Tesaṁ te dhammā duggahitā dīgharattaṁ ahitāya dukkhāya saṁvattanti",
+    "zh": "對彼等而言，那些（法）以錯誤方式被執取，長久地導向無益與痛苦。"
+  },
+  "mn22:10.24": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是為了什麼原因呢？"
+  },
+  "mn22:10.25": {
+    "pi": "Duggahitattā bhikkhave dhammānaṁ",
+    "zh": "諸比丘，（此乃）錯誤執取（如此性質之）法之故。"
+  },
+  "mn22:11.1": {
+    "pi": "Idha pana bhikkhave ekacce kulaputtā dhammaṁ pariyāpuṇanti",
+    "zh": "然而，諸比丘，在此，某些良家子弟學習法——"
+  },
+  "mn22:11.2": {
+    "pi": "suttaṁ geyyaṁ veyyākaraṇaṁ gāthaṁ udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ",
+    "zh": "（學習）契經、應頌、記說、偈頌、感興語、如是語、本生、未曾有法、問答。"
+  },
+  "mn22:11.3": {
+    "pi": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ upaparikkhanti",
+    "zh": "彼等已徹底學習那法之後，以顯知審察彼等諸法之義。"
+  },
+  "mn22:11.4": {
+    "pi": "Tesaṁ te dhammā paññāya atthaṁ upaparikkhataṁ nijjhānaṁ khamanti",
+    "zh": "當他們以智慧考察那些法的義時，那些法在省思中得到認可。"
+  },
+  "mn22:11.5": {
+    "pi": "Te na ceva upārambhānisaṁsā dhammaṁ pariyāpuṇanti na itivādappamokkhānisaṁsā ca",
+    "zh": "他們學習法，既非以辯論為目的，也非以駁倒異說為目的。"
+  },
+  "mn22:11.6": {
+    "pi": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ anubhonti",
+    "zh": "為了某目的而學習法，他們就體驗到那個目的。"
+  },
+  "mn22:11.7": {
+    "pi": "Tesaṁ te dhammā suggahitā dīgharattaṁ hitāya sukhāya saṁvattanti",
+    "zh": "對他們而言，那些法被善加掌握，長久導向利益與安樂。"
+  },
+  "mn22:11.8": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "這是什麼原因呢？"
+  },
+  "mn22:11.9": {
+    "pi": "Suggahitattā bhikkhave dhammānaṁ",
+    "zh": "諸比丘，（此乃）善加執取（如此性質之）法之故。"
+  },
+  "mn22:11.10": {
+    "pi": "Seyyathāpi bhikkhave puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṁ caramāno",
+    "zh": "比丘們，譬如有一個人需要毒蛇、尋覓毒蛇，為搜尋毒蛇而四處遊行，"
+  },
+  "mn22:11.11": {
+    "pi": "So passeyya mahantaṁ alagaddaṁ",
+    "zh": "他看見了一條大毒蛇，"
+  },
+  "mn22:11.12": {
+    "pi": "Tamenaṁ ajapadena daṇḍena suniggahitaṁ niggaṇheyya",
+    "zh": "便用叉形棍棒牢牢地制住那（蛇），"
+  },
+  "mn22:11.13": {
+    "pi": "Ajapadena daṇḍena suniggahitaṁ niggahitvā gīvāya suggahitaṁ gaṇheyya",
+    "zh": "用叉形棍棒牢牢地制住之後，從頸部妥善地握住，"
+  },
+  "mn22:11.14": {
+    "pi": "Kiñcāpi so bhikkhave alagaddo tassa purisassa hatthaṁ vā bāhaṁ vā aññataraṁ vā aṅgapaccaṅgaṁ bhogehi paliveṭheyya atha kho so neva tatonidānaṁ maraṇaṁ vā nigaccheyya maraṇamattaṁ vā dukkhaṁ",
+    "zh": "比丘們，即使那毒蛇用（其身）纏繞那人的手、或手臂、或身體某部位，那人也確實不會因此而遭受死亡或瀕死之苦。"
+  },
+  "mn22:11.15": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是什麼原因？"
+  },
+  "mn22:11.16": {
+    "pi": "Suggahitattā bhikkhave alagaddassa",
+    "zh": "比丘們，因為那毒蛇被妥善地握住之故。"
+  },
+  "mn22:11.17": {
+    "pi": "Evameva kho bhikkhave idhekacce kulaputtā dhammaṁ pariyāpuṇanti",
+    "zh": "比丘們，同樣地，在此某些善家之子學習法——"
+  },
+  "mn22:11.18": {
+    "pi": "suttaṁ geyyaṁ veyyākaraṇaṁ gāthaṁ udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ",
+    "zh": "——契經、應頌、記說、偈頌、自說、如是語、本生、未曾有法、問答——"
+  },
+  "mn22:11.19": {
+    "pi": "Te taṁ dhammaṁ pariyāpuṇitvā tesaṁ dhammānaṁ paññāya atthaṁ upaparikkhanti",
+    "zh": "他們學習精通那些法之後，以智慧審察那些法的義理。"
+  },
+  "mn22:11.20": {
+    "pi": "Tesaṁ te dhammā paññāya atthaṁ upaparikkhataṁ nijjhānaṁ khamanti",
+    "zh": "對他們而言，那些（具如是性質的）諸法，以智慧清楚知見，審察義理，默觀能為他們所忍可。"
+  },
+  "mn22:11.21": {
+    "pi": "Te na ceva upārambhānisaṁsā dhammaṁ pariyāpuṇanti na itivādappamokkhānisaṁsā ca",
+    "zh": "他們既不為論諍之利益而精熟學法，也不為勝論擺脫之利益。"
+  },
+  "mn22:11.22": {
+    "pi": "Yassa catthāya dhammaṁ pariyāpuṇanti tañcassa atthaṁ anubhonti",
+    "zh": "他們為了那目的而精熟學法，且彼能體驗其義利。"
+  },
+  "mn22:11.23": {
+    "pi": "Tesaṁ te dhammā suggahitā dīgharattaṁ atthāya hitāya sukhāya saṁvattanti",
+    "zh": "對他們而言，那些諸法被善受持，長久以來，導向義利、利益與安樂。"
+  },
+  "mn22:11.24": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是什麼緣故呢？"
+  },
+  "mn22:11.25": {
+    "pi": "Suggahitattā bhikkhave dhammānaṁ",
+    "zh": "諸比丘，由於諸法被善受持之故。"
+  },
+  "mn22:12.1": {
+    "pi": "Tasmātiha bhikkhave yassa me bhāsitassa atthaṁ ājāneyyātha tathā naṁ dhāreyyātha",
+    "zh": "因此，諸比丘，對我所說之義，你們能了知的，願如實憶持它。"
+  },
+  "mn22:12.2": {
+    "pi": "Yassa ca pana me bhāsitassa atthaṁ na ājāneyyātha ahaṁ vo tattha paṭipucchitabbo ye vā panāssu viyattā bhikkhū",
+    "zh": "然而，對我所說之義，你們若不能了知，我應在那裡被你們反問，或者那些精通的比丘們（也可被問）。"
+  },
+  "mn22:13.1": {
+    "pi": "Kullūpamaṁ vo bhikkhave dhammaṁ desessāmi nittharaṇatthāya no gahaṇatthāya",
+    "zh": "諸比丘，我將為你們宣說如筏之喻，是為了渡越之目的，而非為了把持執取。"
+  },
+  "mn22:13.2": {
+    "pi": "Taṁ suṇātha sādhukaṁ manasikarotha bhāsissāmī ti",
+    "zh": "你們聆聽，善加作意於心。"
+  },
+  "mn22:13.3": {
+    "pi": "Evaṁ bhante ti kho te bhikkhū bhagavato paccassosuṁ",
+    "zh": "「如是，尊者。」那些比丘們應諾了世尊。"
+  },
+  "mn22:13.4": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這話："
+  },
+  "mn22:13.5": {
+    "pi": "Seyyathāpi bhikkhave puriso addhānamaggappaṭipanno",
+    "zh": "「比丘們，譬如有一個人正行走於長途道路上，"
+  },
+  "mn22:13.6": {
+    "pi": "So passeyya mahantaṁ udakaṇṇavaṁ orimaṁ tīraṁ sāsaṅkaṁ sappaṭibhayaṁ pārimaṁ tīraṁ khemaṁ appaṭibhayaṁ",
+    "zh": "他看見一片廣大的水域，此岸危疑不安、有諸危難，彼岸安全、無有危難，"
+  },
+  "mn22:13.7": {
+    "pi": "na cassa nāvā santāraṇī uttarasetu vā apārā pāraṁ gamanāya",
+    "zh": "而他沒有可渡的船、也沒有可越的橋，以供從此岸前往彼岸。"
+  },
+  "mn22:13.8": {
+    "pi": "Tassa evamassa",
+    "zh": "他心中生起如此念頭："
+  },
+  "mn22:13.9": {
+    "pi": "ayaṁ kho mahāudakaṇṇavo orimaṁ tīraṁ sāsaṅkaṁ sappaṭibhayaṁ pārimaṁ tīraṁ khemaṁ appaṭibhayaṁ",
+    "zh": "「此大水域，此岸確實危疑不安、有諸危難，彼岸安全、無有危難，"
+  },
+  "mn22:13.10": {
+    "pi": "natthi ca nāvā santāraṇī uttarasetu vā apārā pāraṁ gamanāya",
+    "zh": "然而沒有可渡的船、也沒有可越的橋，以供從此岸前往彼岸。"
+  },
+  "mn22:13.11": {
+    "pi": "Yannūnāhaṁ tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā kullaṁ bandhitvā taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttareyyan ti",
+    "zh": "『不如我收集草木枝葉，紮成一筏，依靠那筏，以手與腳奮力划行，安然渡往彼岸。』"
+  },
+  "mn22:13.12": {
+    "pi": "Atha kho so bhikkhave puriso tiṇakaṭṭhasākhāpalāsaṁ saṅkaḍḍhitvā kullaṁ bandhitvā taṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttareyya",
+    "zh": "比丘們，於是那人確實收集草木枝葉，紮成一筏，依靠那筏，以手與腳奮力划行，安然渡過彼岸。"
+  },
+  "mn22:13.13": {
+    "pi": "Tassa purisassa uttiṇṇassa pāraṅgatassa evamassa",
+    "zh": "對那個已渡過（水）、已抵彼岸的人，他會如此想道："
+  },
+  "mn22:13.14": {
+    "pi": "bahukāro kho me ayaṁ kullo",
+    "zh": "「這筏對我確實極為有用，"
+  },
+  "mn22:13.15": {
+    "pi": "imāhaṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttiṇṇo",
+    "zh": "我依靠這筏，以手和腳努力划行，已安全渡至彼岸。"
+  },
+  "mn22:13.16": {
+    "pi": "Yannūnāhaṁ imaṁ kullaṁ sīse vā āropetvā khandhe vā uccāretvā yena kāmaṁ pakkameyyan ti",
+    "zh": "我何不將這筏頂在頭上，或扛在（肩上），隨意而去？」"
+  },
+  "mn22:13.17": {
+    "pi": "Taṁ kiṁ maññatha bhikkhave",
+    "zh": "比丘們，你們對此怎麼看？"
+  },
+  "mn22:13.18": {
+    "pi": "api nu so puriso evaṅkārī tasmiṁ kulle kiccakārī assā ti",
+    "zh": "那個如此行事的人，對那筏是否做了應做之事？"
+  },
+  "mn22:13.19": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，尊者，確實不是。」"
+  },
+  "mn22:13.20": {
+    "pi": "Kathaṅkārī ca so bhikkhave puriso tasmiṁ kulle kiccakārī assa",
+    "zh": "比丘們，那個人如何行事，才算是對那筏做了應做之事？"
+  },
+  "mn22:13.21": {
+    "pi": "Idha bhikkhave tassa purisassa uttiṇṇassa pāraṅgatassa evamassa",
+    "zh": "在此，比丘們，對那個已渡過、已抵彼岸的人，他會如此想道："
+  },
+  "mn22:13.22": {
+    "pi": "bahukāro kho me ayaṁ kullo",
+    "zh": "「這筏對我確實極為有用，"
+  },
+  "mn22:13.23": {
+    "pi": "imāhaṁ kullaṁ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṁ uttiṇṇo",
+    "zh": "我依此筏，以雙手和雙足精進努力，已安全渡至彼岸。"
+  },
+  "mn22:13.24": {
+    "pi": "Yannūnāhaṁ imaṁ kullaṁ thale vā ussādetvā udake vā opilāpetvā yena kāmaṁ pakkameyyan ti",
+    "zh": "倘若我將此筏擱置於陸地，或沉入水中，然後隨意而去。"
+  },
+  "mn22:13.25": {
+    "pi": "Evaṅkārī kho so bhikkhave puriso tasmiṁ kulle kiccakārī assa",
+    "zh": "諸比丘，如此行事者，那人確實對那筏做了應做之事。"
+  },
+  "mn22:13.26": {
+    "pi": "Evameva kho bhikkhave kullūpamo mayā dhammo desito nittharaṇatthāya no gahaṇatthāya",
+    "zh": "諸比丘，同樣地，我以如筏之喻宣說法，是為了渡越的目的，而非為了執取的目的。"
+  },
+  "mn22:14.1": {
+    "pi": "Kullūpamaṁ vo bhikkhave dhammaṁ desitaṁ ājānantehi dhammāpi vo pahātabbā pageva adhammā",
+    "zh": "諸比丘，對了知如筏喻之法者，法也應當捨棄，何況非法。"
+  },
+  "mn22:15.1": {
+    "pi": "Chayimāni bhikkhave diṭṭhiṭṭhānāni",
+    "zh": "諸比丘，有此六種見之所依處。"
+  },
+  "mn22:15.2": {
+    "pi": "Katamāni cha",
+    "zh": "哪六種？"
+  },
+  "mn22:15.3": {
+    "pi": "Idha bhikkhave assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto",
+    "zh": "諸比丘，此處未多聞的凡夫，不親近聖者、對聖法不善巧、於聖法中未受調教，不親近善士、對善士法不善巧、於善士法中未受調教。"
+  },
+  "mn22:15.4": {
+    "pi": "rūpaṁ etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "〔他〕觀色為：『此是我的，這就是我，這是我的自我。』"
+  },
+  "mn22:15.5": {
+    "pi": "vedanaṁ etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "〔他〕觀受為：『此是我的，這就是我，這是我的自我。』"
+  },
+  "mn22:15.6": {
+    "pi": "saññaṁ etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "對於想，他觀見為：「此是我的，此即是我，此是我的自我。」"
+  },
+  "mn22:15.7": {
+    "pi": "saṅkhāre etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "對於諸行，他觀見為：「此是我的，此即是我，此是我的自我。」"
+  },
+  "mn22:15.8": {
+    "pi": "yampi taṁ diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā tampi etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "凡那所見的、所聞的、所覺的、所識的、所至的（存疑）、所求的、以心所尋思的——那也觀見為：「此是我的，此即是我，此是我的自我。」"
+  },
+  "mn22:15.9": {
+    "pi": "yampi taṁ diṭṭhiṭṭhānaṁ",
+    "zh": "凡那見地的根基——"
+  },
+  "mn22:15.10": {
+    "pi": "so loko so attā so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassāmīti",
+    "zh": "「那世界即那自我；那死後我將是常住的、恆久的、永恆的、不變易本性的，永遠確實如此住立。」"
+  },
+  "mn22:15.11": {
+    "pi": "tampi etaṁ mama esohamasmi eso me attā ti samanupassati",
+    "zh": "那也觀見為：「此是我的，此即是我，此是我的自我。」"
+  },
+  "mn22:16.1": {
+    "pi": "Sutavā ca kho bhikkhave ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto",
+    "zh": "諸比丘，而多聞的聖弟子，確實是能見諸聖者的、精通聖法的、善受聖法訓練的，是能見善人的、精通善人法的、善受善人法訓練的——"
+  },
+  "mn22:16.2": {
+    "pi": "rūpaṁ netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "色，他觀見為：「此非我的，此非我，此非我的自我。」"
+  },
+  "mn22:16.3": {
+    "pi": "vedanaṁ netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "受，他觀見為：「此非我的，此非我，此非我的自我。」"
+  },
+  "mn22:16.4": {
+    "pi": "saññaṁ netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "想，他觀見為：「此非我的，此非我，此非我的自我。」"
+  },
+  "mn22:16.5": {
+    "pi": "saṅkhāre netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "對於諸行，他如實觀察：「這不是我的，這不是我，這不是我的自我。」"
+  },
+  "mn22:16.6": {
+    "pi": "yampi taṁ diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā tampi netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "凡是所見、所聞、所覺知、所識知、有葉的（資料所給）、所尋求、以意所思維的，他也如實觀察：「這不是我的，這不是我，這不是我的自我。」"
+  },
+  "mn22:16.7": {
+    "pi": "yampi taṁ diṭṭhiṭṭhānaṁ",
+    "zh": "凡是那見地的根基……（段落僅三詞，不完整）"
+  },
+  "mn22:16.8": {
+    "pi": "so loko so attā so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassāmīti",
+    "zh": "「那世界即是那自我；我死後將成為常住的、不動搖的、永恆的、具不變之性的，永遠如此持續存在。」"
+  },
+  "mn22:16.9": {
+    "pi": "tampi netaṁ mama nesohamasmi na meso attā ti samanupassati",
+    "zh": "對那（見解）也如實觀察：「這不是我的，這不是我，這不是我的自我。」"
+  },
+  "mn22:17.1": {
+    "pi": "So evaṁ samanupassanto asati na paritassatī ti",
+    "zh": "他如此如實觀察，於不實（不存在）之中……不……（t5 缺失，段落不完整）"
+  },
+  "mn22:18.1": {
+    "pi": "Evaṁ vutte aññataro bhikkhu bhagavantaṁ etadavoca",
+    "zh": "如此（說）後，某一比丘對世尊說了這話："
+  },
+  "mn22:18.2": {
+    "pi": "siyā nu kho bhante bahiddhā asati paritassanā ti",
+    "zh": "「尊者，對於外在的不存在（不實），可能確實有焦慮嗎？」"
+  },
+  "mn22:18.3": {
+    "pi": "Siyā bhikkhū ti bhagavā avoca",
+    "zh": "「可能有，比丘們。」世尊說道。"
+  },
+  "mn22:18.4": {
+    "pi": "Idha bhikkhu ekaccassa evaṁ hoti",
+    "zh": "「在這裡，比丘，對某人如此生起（想法）：」"
+  },
+  "mn22:18.5": {
+    "pi": "ahu vata me taṁ vata me natthi",
+    "zh": "「曾有啊，我的那個；啊，我的（現在）沒有了。」"
+  },
+  "mn22:18.6": {
+    "pi": "siyā vata me taṁ vatāhaṁ na labhāmī ti",
+    "zh": "「願我得到那個！唉，我（卻）得不到！」"
+  },
+  "mn22:18.7": {
+    "pi": "So socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati",
+    "zh": "他悲傷、疲憊、哀號、捶胸哭泣，陷入迷惑。"
+  },
+  "mn22:18.8": {
+    "pi": "Evaṁ kho bhikkhu bahiddhā asati paritassanā hotī ti",
+    "zh": "「如此，比丘，外在（事物）不存在時，便有焦慮。」"
+  },
+  "mn22:19.1": {
+    "pi": "Siyā pana bhante bahiddhā asati aparitassanā ti",
+    "zh": "「尊者，那麼，外在（事物）不存在時，是否可能沒有焦慮？」"
+  },
+  "mn22:19.2": {
+    "pi": "Siyā bhikkhū ti bhagavā avoca",
+    "zh": "「可以，諸比丘，」具福德者說道。"
+  },
+  "mn22:19.3": {
+    "pi": "Idha bhikkhu ekaccassa na evaṁ hoti",
+    "zh": "「比丘，此處（有）某（比丘）不這樣想：」"
+  },
+  "mn22:19.4": {
+    "pi": "ahu vata me taṁ vata me natthi",
+    "zh": "「曾有啊，我的那個；啊，我的（現在）沒有了。」"
+  },
+  "mn22:19.5": {
+    "pi": "siyā vata me taṁ vatāhaṁ na labhāmī ti",
+    "zh": "「願我得到那個！唉，我（卻）得不到！」"
+  },
+  "mn22:19.6": {
+    "pi": "So na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati",
+    "zh": "他不悲傷、不疲憊、不哀號、不捶胸哭泣，不陷入迷惑。"
+  },
+  "mn22:19.7": {
+    "pi": "Evaṁ kho bhikkhu bahiddhā asati aparitassanā hotī ti",
+    "zh": "「如是，確實，比丘，外在不存在之時，不動搖。」"
+  },
+  "mn22:20.1": {
+    "pi": "Siyā nu kho bhante ajjhattaṁ asati paritassanā ti",
+    "zh": "「尊者，難道確實內在不存在之時，有動搖嗎？」"
+  },
+  "mn22:20.2": {
+    "pi": "Siyā bhikkhū ti bhagavā avoca",
+    "zh": "世尊說：「比丘們，可能。」"
+  },
+  "mn22:20.3": {
+    "pi": "Idha bhikkhu ekaccassa evaṁ diṭṭhi hoti",
+    "zh": "此處，比丘，某人持有如是見解："
+  },
+  "mn22:20.4": {
+    "pi": "so loko so attā so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassāmī ti",
+    "zh": "「那世界即那自我；那（自我）死後，我將是常、穩固、永恆、本性不變的，永永遠遠確實如此。」"
+  },
+  "mn22:20.5": {
+    "pi": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa",
+    "zh": "他聽聞如來或如來弟子宣說趣向根除一切見的根基、見的立足點、見的執取、見的依附與隨眠，趣向平息一切行、捨棄一切執著、渴愛的耗盡、離染、滅、涅槃之法。"
+  },
+  "mn22:20.6": {
+    "pi": "Tassa evaṁ hoti",
+    "zh": "彼如是生起（念頭）："
+  },
+  "mn22:20.7": {
+    "pi": "ucchijjissāmi nāmassu vinassissāmi nāmassu nassu nāma bhavissāmī ti",
+    "zh": "「我將被滅除！我將滅亡！我將不存在！」"
+  },
+  "mn22:20.8": {
+    "pi": "So socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati",
+    "zh": "他悲傷、憔悴、哀嘆、捶胸、號哭，陷入迷妄。"
+  },
+  "mn22:20.9": {
+    "pi": "Evaṁ kho bhikkhu ajjhattaṁ asati paritassanā hotī ti",
+    "zh": "「如是，確實，比丘，內在不存在之時，有動搖。」"
+  },
+  "mn22:21.1": {
+    "pi": "Siyā pana bhante ajjhattaṁ asati aparitassanā ti",
+    "zh": "然而，尊者，（若）內在無（實我），可能有不焦躁嗎？"
+  },
+  "mn22:21.2": {
+    "pi": "Siyā bhikkhū ti bhagavā avoca",
+    "zh": "「可能，諸比丘。」世尊如是說。"
+  },
+  "mn22:21.3": {
+    "pi": "Idha bhikkhu ekaccassa na evaṁ diṭṭhi hoti",
+    "zh": "於此，比丘，某人並無如此之見："
+  },
+  "mn22:21.4": {
+    "pi": "so loko so attā so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassāmī ti",
+    "zh": "「那個世界即是那個自我；我死後將成為那個（自我），常住、堅固、永恆、性質不變，永永遠遠地確實如此。」"
+  },
+  "mn22:21.5": {
+    "pi": "So suṇāti tathāgatassa vā tathāgatasāvakassa vā sabbesaṁ diṭṭhiṭṭhānādhiṭṭhānapariyuṭṭhānābhinivesānusayānaṁ samugghātāya sabbasaṅkhārasamathāya sabbūpadhipaṭinissaggāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammaṁ desentassa",
+    "zh": "那人從如來或如來弟子聽聞此法之宣說——此法是為了根除一切見之根基、立場、纏縛、執取與潛在傾向，為了止息一切行，為了捨離一切依附，為了渴愛的熄滅，為了離欲，為了滅盡，為了涅槃。"
+  },
+  "mn22:21.6": {
+    "pi": "Tassa na evaṁ hoti",
+    "zh": "對那人而言，不會如此生起（之念）："
+  },
+  "mn22:21.7": {
+    "pi": "ucchijjissāmi nāmassu vinassissāmi nāmassu nassu nāma bhavissāmī ti",
+    "zh": "（不會生起：）「我將被斷滅！我將毀滅！我將不復存在！」"
+  },
+  "mn22:21.8": {
+    "pi": "So na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati",
+    "zh": "那人不悲傷、不勞苦、不哀號、不捶胸號泣、不陷入迷惑。"
+  },
+  "mn22:21.9": {
+    "pi": "Evaṁ kho bhikkhu ajjhattaṁ asati aparitassanā hoti",
+    "zh": "如此確實，比丘，內在無（實我）時，便有不焦躁。"
+  },
+  "mn22:22.1": {
+    "pi": "Taṁ bhikkhave pariggahaṁ pariggaṇheyyātha yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva tiṭṭheyya"
+  },
+  "mn22:22.2": {
+    "pi": "Passatha no tumhe bhikkhave taṁ pariggahaṁ yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva tiṭṭheyyā ti",
+    "zh": "「比丘們，你們不見那執取——那執取將是常住的、堅固的、永恆的、不變異之法，永永遠遠如是地（存在）——嗎？」"
+  },
+  "mn22:22.3": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，尊者，確實不是。」"
+  },
+  "mn22:22.4": {
+    "pi": "Sādhu bhikkhave",
+    "zh": "「善哉，比丘們！」"
+  },
+  "mn22:22.5": {
+    "pi": "Ahampi kho taṁ bhikkhave pariggahaṁ na samanupassāmi yvāssa pariggaho nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva tiṭṭheyya",
+    "zh": "「比丘們，我也確實觀見不到那執取——那執取將是常住的、堅固的、永恆的、不變異之法，永永遠遠如是地持續存在。」"
+  },
+  "mn22:23.1": {
+    "pi": "Taṁ bhikkhave attavādupādānaṁ upādiyetha yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā",
+    "zh": "「比丘們，有沒有那樣的我論取，一旦執取它，對於執取者而言，愁、悲、苦、憂、惱就不會生起？」"
+  },
+  "mn22:23.2": {
+    "pi": "Passatha no tumhe bhikkhave taṁ attavādupādānaṁ yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā ti",
+    "zh": "「比丘們，你們看見了嗎——有那樣的我論取，執取者不會生起愁、悲、苦、憂、惱？」"
+  },
+  "mn22:23.3": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，尊者，確實不是。」"
+  },
+  "mn22:23.4": {
+    "pi": "Sādhu bhikkhave",
+    "zh": "「善哉，比丘們！」"
+  },
+  "mn22:23.5": {
+    "pi": "Ahampi kho taṁ bhikkhave attavādupādānaṁ na samanupassāmi yaṁsa attavādupādānaṁ upādiyato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā",
+    "zh": "「比丘們，我也確實觀見不到那樣的我論取——執取者不會生起愁、悲、苦、憂、惱。」"
+  },
+  "mn22:24.1": {
+    "pi": "Taṁ bhikkhave diṭṭhinissayaṁ nissayetha yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā",
+    "zh": "「比丘們，有沒有那樣的見依，一旦依止它，對於依止者而言，愁、悲、苦、憂、惱就不會生起？」"
+  },
+  "mn22:24.2": {
+    "pi": "Passatha no tumhe bhikkhave taṁ diṭṭhinissayaṁ yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā ti",
+    "zh": "諸比丘，你們是否看見那種見取——凡依憑任何見取，不會生起愁悲苦憂惱？"
+  },
+  "mn22:24.3": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，尊者，確實沒有。」"
+  },
+  "mn22:24.4": {
+    "pi": "Sādhu bhikkhave",
+    "zh": "「善哉，諸比丘。」"
+  },
+  "mn22:24.5": {
+    "pi": "Ahampi kho taṁ bhikkhave diṭṭhinissayaṁ na samanupassāmi yaṁsa diṭṭhinissayaṁ nissayato na uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā",
+    "zh": "「諸比丘，我確實也未觀見那種見取——凡依憑任何見取，不會生起愁悲苦憂惱。」"
+  },
+  "mn22:25.1": {
+    "pi": "Attani vā bhikkhave sati attaniyaṁ me ti assā ti",
+    "zh": "諸比丘，若有自我存在，「此為我所」——於此（對那）會有嗎？"
+  },
+  "mn22:25.2": {
+    "pi": "Evaṁ bhante",
+    "zh": "「是的，尊者。」"
+  },
+  "mn22:25.3": {
+    "pi": "Attaniye vā bhikkhave sati attā me ti assā ti",
+    "zh": "諸比丘，若有我所存在，「此是我的自我」——於此（對那）會有嗎？"
+  },
+  "mn22:25.4": {
+    "pi": "Evaṁ bhante",
+    "zh": "「是的，尊者。」"
+  },
+  "mn22:25.5": {
+    "pi": "Attani ca bhikkhave attaniye ca saccato thetato anupalabbhamāne yampi taṁ diṭṭhiṭṭhānaṁ",
+    "zh": "諸比丘，若自我與我所，就真實而言、就確實而言均不可得，那凡是那見地的立足點——"
+  },
+  "mn22:25.6": {
+    "pi": "so loko so attā so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṁ tatheva ṭhassāmī ti",
+    "zh": "「世間即是自我；我死後將成為那個（自我），常住、固定、恆久、本質不變易，永永遠遠確實如此。」"
+  },
+  "mn22:25.7": {
+    "pi": "nanāyaṁ bhikkhave kevalo paripūro bāladhammo ti",
+    "zh": "比丘們，這難道不正是完全充滿的愚人之法嗎？"
+  },
+  "mn22:25.8": {
+    "pi": "Kiñhi no siyā bhante kevalo hi bhante paripūro bāladhammo ti",
+    "zh": "尊者，怎麼可能不是呢？確實，尊者，這就是完全充滿的愚人之法。"
+  },
+  "mn22:26.1": {
+    "pi": "Taṁ kiṁ maññatha bhikkhave",
+    "zh": "比丘們，你們對此作何看法？"
+  },
+  "mn22:26.2": {
+    "pi": "rūpaṁ niccaṁ vā aniccaṁ vā ti",
+    "zh": "色是常的，還是無常的？"
+  },
+  "mn22:26.3": {
+    "pi": "Aniccaṁ bhante",
+    "zh": "無常的，尊者。"
+  },
+  "mn22:26.4": {
+    "pi": "Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā ti",
+    "zh": "那麼，凡是無常的，是苦的，還是樂的？"
+  },
+  "mn22:26.5": {
+    "pi": "Dukkhaṁ bhante",
+    "zh": "苦的，尊者。"
+  },
+  "mn22:26.6": {
+    "pi": "Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ kallaṁ nu taṁ samanupassituṁ",
+    "zh": "凡是無常的、苦的、具變易本質者，難道適合將彼如此看待嗎？"
+  },
+  "mn22:26.7": {
+    "pi": "etaṁ mama esohamasmi eso me attā ti",
+    "zh": "「這是我的、我即是這個、這是我的自我」嗎？"
+  },
+  "mn22:26.8": {
+    "pi": "No hetaṁ bhante",
+    "zh": "不，尊者，確實不是的。"
+  },
+  "mn22:26.9": {
+    "pi": "Taṁ kiṁ maññatha bhikkhave",
+    "zh": "諸比丘，你們對此怎麼想？"
+  },
+  "mn22:26.10": {
+    "pi": "vedanā pe",
+    "zh": "感受……（以下略同）"
+  },
+  "mn22:26.11": {
+    "pi": "saññā",
+    "zh": "想（感知）"
+  },
+  "mn22:26.12": {
+    "pi": "saṅkhārā",
+    "zh": "行（諸意志造作）"
+  },
+  "mn22:26.13": {
+    "pi": "viññāṇaṁ niccaṁ vā aniccaṁ vā ti",
+    "zh": "識是常的，還是無常的？"
+  },
+  "mn22:26.14": {
+    "pi": "Aniccaṁ bhante",
+    "zh": "無常，大德。"
+  },
+  "mn22:26.15": {
+    "pi": "Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā ti",
+    "zh": "那凡是無常的，是苦的，還是樂的？"
+  },
+  "mn22:26.16": {
+    "pi": "Dukkhaṁ bhante",
+    "zh": "是苦的，大德。"
+  },
+  "mn22:26.17": {
+    "pi": "Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ kallaṁ nu taṁ samanupassituṁ",
+    "zh": "凡是無常的、苦的、本質上會變異的，去觀視它為……這是聰明（適切）的嗎？（下接 mn22:26.18）"
+  },
+  "mn22:26.18": {
+    "pi": "etaṁ mama esohamasmi eso me attā ti",
+    "zh": "（觀視它為：）『這是我的，此即是我，這是我的自我』？"
+  },
+  "mn22:26.19": {
+    "pi": "No hetaṁ bhante",
+    "zh": "尊者，確實不是（如此）。"
+  },
+  "mn22:27.1": {
+    "pi": "Tasmātiha bhikkhave yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ netaṁ mama nesohamasmi na meso attā ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ",
+    "zh": "因此，比丘們，任何色，無論過去、未來或現在，內在或外在，粗重或微細，低劣或優良，遠或近，一切色，應以正確的智慧如實地看見：「這不是我的，這不是我，這不是我的自我。」"
+  },
+  "mn22:27.2": {
+    "pi": "Yā kāci vedanā pe",
+    "zh": "凡任何受……（以下省略，結構同前段）"
+  },
+  "mn22:27.3": {
+    "pi": "yā kāci saññā",
+    "zh": "凡任何想……（以下省略，結構同前段）"
+  },
+  "mn22:27.4": {
+    "pi": "ye keci saṅkhārā",
+    "zh": "凡任何行……（以下省略，結構同前段）"
+  },
+  "mn22:27.5": {
+    "pi": "yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ viññāṇaṁ netaṁ mama nesohamasmi na meso attā ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ",
+    "zh": "任何識，無論過去、未來或現在，內在或外在，粗重或微細，低劣或優良，遠或近，一切識，應以正確的智慧如實地看見：「這不是我的，這不是我，這不是我的自我。」"
+  },
+  "mn22:28.1": {
+    "pi": "Evaṁ passaṁ bhikkhave sutavā ariyasāvako rūpasmiṁ nibbindati vedanāya nibbindati saññāya nibbindati saṅkhāresu nibbindati viññāṇasmiṁ nibbindati",
+    "zh": "諸比丘，如此觀察，博學的聖弟子對色厭離，對受厭離，對想厭離，對行厭離，對識厭離。"
+  },
+  "mn22:29.1": {
+    "pi": "nibbidā virajjati virāgā vimuccati vimuttasmiṁ vimuttamiti ñāṇaṁ hoti",
+    "zh": "厭離則離染，由離染而解脫；於解脫時，生起『已解脫』之智。"
+  },
+  "mn22:29.2": {
+    "pi": "Khīṇā jāti vusitaṁ brahmacariyaṁ kataṁ karaṇīyaṁ nāparaṁ itthattāyā ti pajānāti",
+    "zh": "他清楚地了知：『生已盡，梵行已立，應作已作，此後不再（有輪迴）。』"
+  },
+  "mn22:30.1": {
+    "pi": "Ayaṁ vuccati bhikkhave bhikkhu ukkhittapaligho itipi saṅkiṇṇaparikkho itipi abbūḷhesiko itipi niraggaḷo itipi ariyo pannaddhajo pannabhāro visaṁyutto itipi",
+    "zh": "諸比丘，這樣的比丘被稱為：已拆除門閂者、已填平壕溝者、已拔除門柱者、無閂礙者，是聖者、已放下旗幟者、已卸下重擔者、已解脫纏縛者。"
+  },
+  "mn22:31.1": {
+    "pi": "Kathañca bhikkhave bhikkhu ukkhittapaligho hoti",
+    "zh": "比丘們，比丘如何是「已舉起橫閂者」？"
+  },
+  "mn22:31.2": {
+    "pi": "Idha bhikkhave bhikkhuno avijjā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā",
+    "zh": "比丘們，於此，對比丘而言，無明已被捨斷——已斷根、如棕櫚樹般連根拔除、徹底滅盡——於未來不再生起。"
+  },
+  "mn22:31.3": {
+    "pi": "Evaṁ kho bhikkhave bhikkhu ukkhittapaligho hoti",
+    "zh": "比丘們，如是，比丘確實是「已舉起橫閂者」。"
+  },
+  "mn22:32.1": {
+    "pi": "Kathañca bhikkhave bhikkhu saṅkiṇṇaparikkho hoti",
+    "zh": "比丘們，比丘如何是「已填平壕溝者」？"
+  },
+  "mn22:32.2": {
+    "pi": "Idha bhikkhave bhikkhuno ponobbhaviko jātisaṁsāro pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo",
+    "zh": "比丘們，於此，對比丘而言，導致再有的生死輪迴已被捨斷——已斷根、如棕櫚樹般連根拔除、徹底滅盡——於未來不再生起。"
+  },
+  "mn22:32.3": {
+    "pi": "Evaṁ kho bhikkhave bhikkhu saṅkiṇṇaparikkho hoti",
+    "zh": "比丘們，如是，比丘確實是「已填平壕溝者」。"
+  },
+  "mn22:33.1": {
+    "pi": "Kathañca bhikkhave bhikkhu abbūḷhesiko hoti",
+    "zh": "比丘們，比丘如何是「已拔除門柱者」？"
+  },
+  "mn22:33.2": {
+    "pi": "Idha bhikkhave bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā",
+    "zh": "比丘們，於此，對比丘而言，渴愛已被捨斷——已斷根、如棕櫚樹般連根拔除、徹底滅盡——於未來不再生起。"
+  },
+  "mn22:33.3": {
+    "pi": "Evaṁ kho bhikkhave bhikkhu abbūḷhesiko hoti",
+    "zh": "比丘們，如是，比丘確實是「已拔除門柱者」。"
+  },
+  "mn22:34.1": {
+    "pi": "Kathañca bhikkhave bhikkhu niraggaḷo hoti",
+    "zh": "比丘們，比丘如何是「無閂者」？"
+  },
+  "mn22:34.2": {
+    "pi": "Idha bhikkhave bhikkhuno pañca orambhāgiyāni saṁyojanāni pahīnāni honti ucchinnamūlāni tālāvatthukatāni anabhāvaṅkatāni āyatiṁ anuppādadhammāni",
+    "zh": "此處，諸比丘，比丘的五下分結已被捨斷，根已截斷，如棕櫚樹被連根拔起，完全滅盡，於未來不再生起。"
+  },
+  "mn22:34.3": {
+    "pi": "Evaṁ kho bhikkhave bhikkhu niraggaḷo hoti",
+    "zh": "諸比丘，如此，比丘確實成為無障礙者。"
+  },
+  "mn22:35.1": {
+    "pi": "Kathañca bhikkhave bhikkhu ariyo pannaddhajo pannabhāro visaṁyutto hoti",
+    "zh": "諸比丘，比丘又如何成為聖者、已放下旗幟、已放下重擔、已解脫束縛者？"
+  },
+  "mn22:35.2": {
+    "pi": "Idha bhikkhave bhikkhuno asmimāno pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo",
+    "zh": "此處，諸比丘，比丘的我慢已被捨斷，根已截斷，如棕櫚樹被連根拔起，完全滅盡，於未來不再生起。"
+  },
+  "mn22:35.3": {
+    "pi": "Evaṁ kho bhikkhave bhikkhu ariyo pannaddhajo pannabhāro visaṁyutto hoti",
+    "zh": "諸比丘，如此，比丘確實成為聖者、已放下旗幟、已放下重擔、已解脫束縛者。"
+  },
+  "mn22:36.1": {
+    "pi": "Evaṁ vimuttacittaṁ kho bhikkhave bhikkhuṁ saindā devā sabrahmakā sapajāpatikā anvesaṁ nādhigacchanti",
+    "zh": "諸比丘，如此心已解脫的比丘，連同帝釋天的諸天、梵天界、生主（波闍波提），在尋求之中也找不到（他所依止之處）。"
+  },
+  "mn22:36.2": {
+    "pi": "idaṁ nissitaṁ tathāgatassa viññāṇan ti",
+    "zh": "「此為如來之所依」——（諸天尋求此點而不得）。"
+  },
+  "mn22:36.3": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是什麼原因？"
+  },
+  "mn22:36.4": {
+    "pi": "Diṭṭhevāhaṁ bhikkhave dhamme tathāgataṁ ananuvijjoti vadāmi",
+    "zh": "諸比丘，我說如來於諸法中是不可追尋的。"
+  },
+  "mn22:37.1": {
+    "pi": "Evaṁvādiṁ kho maṁ bhikkhave evamakkhāyiṁ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti",
+    "zh": "諸比丘，某些沙門婆羅門以不實、空洞、謊言、未曾發生之事誣謗如此持見、如此宣說的我。"
+  },
+  "mn22:37.2": {
+    "pi": "venayiko samaṇo gotamo sato sattassa ucchedaṁ vināsaṁ vibhavaṁ paññāpetī ti",
+    "zh": "「沙門瞿曇是斷滅論者——（宣說）執著眾生之截斷、消滅、衰滅。」"
+  },
+  "mn22:37.3": {
+    "pi": "Yathā cāhaṁ na bhikkhave yathā cāhaṁ na vadāmi tathā maṁ te bhonto samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti",
+    "zh": "諸比丘，我並非如（他們所說那樣）宣說；那些尊貴的沙門婆羅門們以不真實的、空洞的、謊言的、未曾有的言論誣謗我。"
+  },
+  "mn22:37.4": {
+    "pi": "venayiko samaṇo gotamo sato sattassa ucchedaṁ vināsaṁ vibhavaṁ paññāpetī ti",
+    "zh": "「沙門瞿曇是斷滅論者——（宣說）執著眾生之截斷、消滅、衰滅。」"
+  },
+  "mn22:37.5": {
+    "pi": "Pubbe cāhaṁ bhikkhave etarahi ca dukkhañceva paññāpemi dukkhassa ca nirodhaṁ",
+    "zh": "諸比丘，先前以及現在，我所宣說的只是苦與苦的止息。"
+  },
+  "mn22:37.6": {
+    "pi": "Tatra ce bhikkhave pare tathāgataṁ akkosanti paribhāsanti rosenti vihesenti tatra bhikkhave tathāgatassa na hoti āghāto na appaccayo na cetaso anabhiraddhi",
+    "zh": "諸比丘，若在那種情況下，他人辱罵、詈毀、激怒、惱害如來，對如來而言，不會生起惱恨、不滿，也不會有心的不悅。"
+  },
+  "mn22:38.1": {
+    "pi": "Tatra ce bhikkhave pare tathāgataṁ sakkaronti garuṁ karonti mānenti pūjenti tatra bhikkhave tathāgatassa na hoti ānando na somanassaṁ na cetaso uppilāvitattaṁ",
+    "zh": "諸比丘，若在那種情況下，他人尊重、敬重、崇敬、供養如來，對如來而言，也不會生起喜悅、心悅，也不會有心的踊躍激昂。"
+  },
+  "mn22:38.2": {
+    "pi": "Tatra ce bhikkhave pare vā tathāgataṁ sakkaronti garuṁ karonti mānenti pūjenti tatra bhikkhave tathāgatassa evaṁ hoti",
+    "zh": "諸比丘，若在那種情況下，他人（或）尊重、敬重、崇敬、供養如來，對如來而言，情況便是如此（平靜不動）。"
+  },
+  "mn22:38.3": {
+    "pi": "yaṁ kho idaṁ pubbe pariññātaṁ tattha me evarūpā kārā karīyantī ti",
+    "zh": "「凡此在先前已完全了知之事，就此，我有如此這般的行為（反應）。」"
+  },
+  "mn22:39.1": {
+    "pi": "Tasmātiha bhikkhave tumhe cepi pare akkoseyyuṁ paribhāseyyuṁ roseyyuṁ viheseyyuṁ tatra tumhe hi na āghāto na appaccayo na cetaso anabhiraddhi karaṇīyā",
+    "zh": "諸比丘，是故在此，你們即使被他人辱罵、詈毀、激怒、惱害，在那種情況下，你們確實不應生起惱恨、不滿，也不應有心的不悅。"
+  },
+  "mn22:39.2": {
+    "pi": "Tasmātiha bhikkhave tumhe cepi pare sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ tatra tumhehi na ānando na somanassaṁ na cetaso uppilāvitattaṁ karaṇīyaṁ",
+    "zh": "諸比丘，是故在此，你們即使被他人尊重、敬重、崇敬、供養，在那種情況下，你們也不應令喜悅、心悅與心的踊躍激昂生起。"
+  },
+  "mn22:39.3": {
+    "pi": "Tasmātiha bhikkhave tumhe cepi pare sakkareyyuṁ garuṁ kareyyuṁ māneyyuṁ pūjeyyuṁ tatra tumhākaṁ evamassa",
+    "zh": "因此，比丘們，你們——[cepi 資料不足]——[pare 資料不足]——（他們）願供養、願敬重、願尊重、願禮敬（你們），在那裡對你們應如此（想）："
+  },
+  "mn22:39.4": {
+    "pi": "yaṁ kho idaṁ pubbe pariññātaṁ tattha me evarūpā kārā karīyantī ti",
+    "zh": "「凡此我先前已完全了知者，在那裡對我有如此種種行為（敬事）。」"
+  },
+  "mn22:40.1": {
+    "pi": "Tasmātiha bhikkhave yaṁ na tumhākaṁ taṁ pajahatha",
+    "zh": "因此，比丘們，凡不屬於你們的，你們捨棄它。"
+  },
+  "mn22:40.2": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那——[vo 資料不足]——已捨棄者，將會長久地帶來利益與安樂。"
+  },
+  "mn22:41.1": {
+    "pi": "Kiñca bhikkhave na tumhākaṁ",
+    "zh": "〔kiñca：依提供資料為「壓碎；踩踏」〕，比丘們，不屬於你們的——"
+  },
+  "mn22:41.2": {
+    "pi": "Rūpaṁ bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "色（rūpa）——具有（某）性質者，比丘們，不屬於你們——你們捨棄它。"
+  },
+  "mn22:41.3": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那——[vo 資料不足]——已捨棄者，將會長久地帶來利益與安樂。"
+  },
+  "mn22:41.4": {
+    "pi": "Vedanā bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "受（vedanā）——具有感受者，比丘們，不屬於你們——你們捨棄它。"
+  },
+  "mn22:41.5": {
+    "pi": "sā vo pahīnā dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那（受）——[vo 資料不足]——已捨棄者，將會長久地帶來利益與安樂。"
+  },
+  "mn22:41.6": {
+    "pi": "Saññā bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "想（saññā）——有感知者，比丘們，不屬於你們——你們捨棄它。"
+  },
+  "mn22:41.7": {
+    "pi": "sā vo pahīnā dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那（陰性所指之物）已被你們捨棄，將長久地成為利益與安樂。"
+  },
+  "mn22:41.8": {
+    "pi": "Saṅkhārā bhikkhave na tumhākaṁ te pajahatha",
+    "zh": "諸比丘，諸行非屬你們，你們應捨棄那些（諸行）。"
+  },
+  "mn22:41.9": {
+    "pi": "te vo pahīnā dīgharattaṁ hitāya sukhāya bhavissanti",
+    "zh": "那些（諸行）已被你們捨棄，將長久地成為利益與安樂。"
+  },
+  "mn22:41.10": {
+    "pi": "Viññāṇaṁ bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "諸比丘，識非屬你們，你們應捨棄那（識）。"
+  },
+  "mn22:41.11": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那（識）已被你們捨棄，將長久地成為利益與安樂。"
+  },
+  "mn22:41.12": {
+    "pi": "Taṁ kiṁ maññatha bhikkhave",
+    "zh": "諸比丘，你們對此認為如何？"
+  },
+  "mn22:41.13": {
+    "pi": "yaṁ imasmiṁ jetavane tiṇakaṭṭhasākhāpalāsaṁ taṁ jano hareyya vā daheyya vā yathāpaccayaṁ vā kareyya",
+    "zh": "在這祇樹林中，任何草木枝葉，若有人取走、視為（某物）、或隨意處置，"
+  },
+  "mn22:41.14": {
+    "pi": "Api nu tumhākaṁ evamassa",
+    "zh": "難道你們會如此想嗎？"
+  },
+  "mn22:41.15": {
+    "pi": "amhe jano harati vā dahati vā yathāpaccayaṁ vā karotī ti",
+    "zh": "「那人正在帶走我們、視為（某物）、或隨意處置。」"
+  },
+  "mn22:41.16": {
+    "pi": "No hetaṁ bhante",
+    "zh": "「不，世尊，確實不是這樣。」"
+  },
+  "mn22:41.17": {
+    "pi": "Taṁ kissa hetu",
+    "zh": "那是為何原因？"
+  },
+  "mn22:41.18": {
+    "pi": "Na hi no etaṁ bhante attā vā attaniyaṁ vā ti",
+    "zh": "「尊者，那非自我、亦非屬己。」"
+  },
+  "mn22:41.19": {
+    "pi": "Evameva kho bhikkhave yaṁ na tumhākaṁ taṁ pajahatha",
+    "zh": "諸比丘，正是如此——凡不屬於你們的，就捨棄它。"
+  },
+  "mn22:41.20": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那被捨棄，將長久帶來利益與安樂。"
+  },
+  "mn22:41.21": {
+    "pi": "Kiñca bhikkhave na tumhākaṁ",
+    "zh": "諸比丘，什麼不是你們的？"
+  },
+  "mn22:41.22": {
+    "pi": "Rūpaṁ bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "色，諸比丘，非你們的——捨棄它。"
+  },
+  "mn22:41.23": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "那被捨棄，將長久帶來利益與安樂。"
+  },
+  "mn22:41.24": {
+    "pi": "Vedanā bhikkhave pe",
+    "zh": "受，諸比丘……（以下省略）"
+  },
+  "mn22:41.25": {
+    "pi": "saññā bhikkhave",
+    "zh": "想，諸比丘……"
+  },
+  "mn22:41.26": {
+    "pi": "saṅkhārā bhikkhave pe",
+    "zh": "行，諸比丘……（以下省略）"
+  },
+  "mn22:41.27": {
+    "pi": "viññāṇaṁ bhikkhave na tumhākaṁ taṁ pajahatha",
+    "zh": "識，諸比丘，非你們所有——捨棄彼。"
+  },
+  "mn22:41.28": {
+    "pi": "taṁ vo pahīnaṁ dīgharattaṁ hitāya sukhāya bhavissati",
+    "zh": "彼已被捨棄，長時間將是（你們的）利益與安樂。"
+  },
+  "mn22:42.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "如此，諸比丘，法由我善說——顯明、已揭開、已闡明、無補丁。"
+  },
+  "mn22:42.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā vaṭṭaṁ tesaṁ natthi paññāpanāya",
+    "zh": "如此，諸比丘，在由我善說的——顯明、已揭開、已闡明、無補丁之法中——凡那些諸漏已盡、梵行圓滿、所應作已作、已放下重擔、已達最高目標、有的結縛已耗盡、以完全智慧解脫的阿羅漢比丘，對他們而言，不存在可指稱的輪迴。"
+  },
+  "mn22:43.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "如此，諸比丘，法由我善說——顯明、已揭開、已闡明、無補丁。"
+  },
+  "mn22:43.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ pañcorambhāgiyāni saṁyojanāni pahīnāni sabbe te opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā",
+    "zh": "如此，諸比丘，在由我善說的——顯明、已揭開、已闡明、無補丁之法中——那些比丘已捨棄五下分結縛，所有他們皆是化生的，將在彼處般涅槃，不再從彼世間回返。"
+  },
+  "mn22:44.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "如此，諸比丘，法由我善說——顯明、已揭開、已闡明、無補丁。"
+  },
+  "mn22:44.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ tīṇi saṁyojanāni pahīnāni rāgadosamohā tanubhūtā sabbe te sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti",
+    "zh": "如此，諸比丘，在由我善說的——顯明、已揭開、已闡明、無補丁之法中——那些比丘已捨棄三結縛、貪瞋癡已消減，所有他們皆是一來者，僅返此世間一次後，將作苦的終結。"
+  },
+  "mn22:45.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "如此，諸比丘，法由我善說——顯明、已揭開、已闡明、無補丁。"
+  },
+  "mn22:45.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ bhikkhūnaṁ tīṇi saṁyojanāni pahīnāni sabbe te sotāpannā avinipātadhammā niyatā sambodhiparāyanā",
+    "zh": "如此，諸比丘，在由我善說的——顯明、已揭開、已闡明、無補丁之法中——那些比丘已捨棄三結縛，所有他們皆是入流者，不墮惡趣，確定趣向正覺。"
+  },
+  "mn22:46.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "諸比丘，法如此由我善說——公開的、被揭開的、被宣說的、無拼湊的。"
+  },
+  "mn22:46.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike ye te bhikkhū dhammānusārino saddhānusārino sabbe te sambodhiparāyanā",
+    "zh": "諸比丘，在我如此善說——公開的、被揭開的、被宣說的、無拼湊的——法中，那些比丘，凡是隨法行者、隨信行者，他們一切皆趣向正等覺。"
+  },
+  "mn22:47.1": {
+    "pi": "Evaṁ svākkhāto bhikkhave mayā dhammo uttāno vivaṭo pakāsito chinnapilotiko",
+    "zh": "諸比丘，法如此由我善說——公開的、被揭開的、被宣說的、無拼湊的。"
+  },
+  "mn22:47.2": {
+    "pi": "Evaṁ svākkhāte bhikkhave mayā dhamme uttāne vivaṭe pakāsite chinnapilotike yesaṁ mayi saddhāmattaṁ pemamattaṁ sabbe te saggaparāyanā ti",
+    "zh": "諸比丘，在我如此善說——公開的、被揭開的、被宣說的、無拼湊的——法中，凡是對我有一分信心、一分愛念的，他們一切皆趣向天界。"
+  },
+  "mn22:47.3": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊說了這番話。"
+  },
+  "mn22:47.4": {
+    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "那些比丘歡喜，對世尊所說的話隨喜了。"
+  },
+  "mn22:47.5": {
+    "pi": "Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ",
+    "zh": "蛇喻經，第二，已竟。"
   }
 }
