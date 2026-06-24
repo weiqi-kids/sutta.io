@@ -15,7 +15,9 @@ export interface ClaudeResult<T> {
   retriable?: boolean; // 是否值得退避重試（限流/逾時/5xx/暫態）
 }
 
-const TIMEOUT_MS = 600_000;
+// 正常生成單批 <90s；設 240s 充足。卡窗時快速放棄、交由退避/稍後重試，
+// 避免一次空等 10 分鐘（實測 server 偶發 stall：請求收下卻不完成、不耗 token）。
+const TIMEOUT_MS = 240_000;
 
 // 判斷錯誤是否為「暫態、值得退避重試」：限流(429)、過載、5xx、逾時。
 function isRetriable(...parts: unknown[]): boolean {
