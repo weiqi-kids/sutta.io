@@ -48,9 +48,73 @@
     "hasParallel": true
   },
   {
+    "id": "mn14",
+    "title_pali": "MN14",
+    "title_zh": "mn14",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn15",
+    "title_pali": "MN15",
+    "title_zh": "mn15",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn16",
+    "title_pali": "MN16",
+    "title_zh": "mn16",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn17",
+    "title_pali": "MN17",
+    "title_zh": "mn17",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn18",
+    "title_pali": "MN18",
+    "title_zh": "mn18",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn19",
+    "title_pali": "MN19",
+    "title_zh": "mn19",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
     "id": "mn1",
     "title_pali": "Mūlapariyāyasutta",
     "title_zh": "根本法門經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn20",
+    "title_pali": "MN20",
+    "title_zh": "mn20",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn21",
+    "title_pali": "MN21",
+    "title_zh": "mn21",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
