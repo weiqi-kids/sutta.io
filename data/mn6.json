@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.1.t0",
+          "mn6:1.1.t1",
+          "mn6:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn6:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.2.t0",
+          "mn6:1.2.t1",
+          "mn6:1.2.t2",
+          "mn6:1.2.t3",
+          "mn6:1.2.t4",
+          "mn6:1.2.t5",
+          "mn6:1.2.t6",
+          "mn6:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在舍衛城祇陀林給孤獨長者的園林中。"
+      }
     },
     {
       "segment_id": "mn6:1.3",
@@ -680,7 +703,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.3.t0",
+          "mn6:1.3.t1",
+          "mn6:1.3.t2",
+          "mn6:1.3.t3",
+          "mn6:1.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "於彼處，世尊確實呼喚了比丘們。"
+      }
     },
     {
       "segment_id": "mn6:1.4",
@@ -745,7 +779,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.4.t0",
+          "mn6:1.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "（說：）「比丘們！」"
+      }
     },
     {
       "segment_id": "mn6:1.5",
@@ -1035,7 +1077,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.5.t0",
+          "mn6:1.5.t1",
+          "mn6:1.5.t2",
+          "mn6:1.5.t3",
+          "mn6:1.5.t4",
+          "mn6:1.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「尊者！」那些比丘們回應了世尊。"
+      }
     },
     {
       "segment_id": "mn6:1.6",
@@ -1117,7 +1171,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:1.6.t0",
+          "mn6:1.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這些話："
+      }
     },
     {
       "segment_id": "mn6:2.1",
@@ -1661,7 +1723,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:2.1.t0",
+          "mn6:2.1.t1",
+          "mn6:2.1.t2",
+          "mn6:2.1.t3",
+          "mn6:2.1.t4",
+          "mn6:2.1.t5",
+          "mn6:2.1.t6",
+          "mn6:2.1.t7",
+          "mn6:2.1.t8",
+          "mn6:2.1.t9",
+          "mn6:2.1.t10",
+          "mn6:2.1.t11",
+          "mn6:2.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們，你們要具足戒行而住，具足波羅提木叉而住，以波羅提木叉律儀守護而住，具足行儀與行境，對最微細的（過失）亦見其危險，受持並學習學處。」"
+      }
     },
     {
       "segment_id": "mn6:3.1",
@@ -2443,7 +2524,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:3.1.t0",
+          "mn6:3.1.t1",
+          "mn6:3.1.t2",
+          "mn6:3.1.t3",
+          "mn6:3.1.t4",
+          "mn6:3.1.t5",
+          "mn6:3.1.t6",
+          "mn6:3.1.t7",
+          "mn6:3.1.t8",
+          "mn6:3.1.t9",
+          "mn6:3.1.t10",
+          "mn6:3.1.t11",
+          "mn6:3.1.t12",
+          "mn6:3.1.t13",
+          "mn6:3.1.t14",
+          "mn6:3.1.t15",
+          "mn6:3.1.t16",
+          "mn6:3.1.t17",
+          "mn6:3.1.t18",
+          "mn6:3.1.t19",
+          "mn6:3.1.t20",
+          "mn6:3.1.t21",
+          "mn6:3.1.t22",
+          "mn6:3.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們，若比丘希望（成為）諸梵行同伴所愛、所喜、所尊重、所崇敬者，彼應於戒中圓滿實踐，致力於內心的止，不廢棄禪修，具足觀，修習空閑處。」"
+      }
     },
     {
       "segment_id": "mn6:4.1",
@@ -3045,7 +3156,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:4.1.t0",
+          "mn6:4.1.t1",
+          "mn6:4.1.t2",
+          "mn6:4.1.t3",
+          "mn6:4.1.t4",
+          "mn6:4.1.t5",
+          "mn6:4.1.t7",
+          "mn6:4.1.t8",
+          "mn6:4.1.t9",
+          "mn6:4.1.t10",
+          "mn6:4.1.t11",
+          "mn6:4.1.t12",
+          "mn6:4.1.t13",
+          "mn6:4.1.t14",
+          "mn6:4.1.t15",
+          "mn6:4.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們，若比丘希望能（有所）獲得……彼應於戒中圓滿實踐，致力於內心的止，不廢棄禪修，具足觀，修習空閑處。」"
+      }
     },
     {
       "segment_id": "mn6:5.1",
@@ -3940,7 +4073,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:5.1.t0",
+          "mn6:5.1.t1",
+          "mn6:5.1.t2",
+          "mn6:5.1.t3",
+          "mn6:5.1.t5",
+          "mn6:5.1.t6",
+          "mn6:5.1.t7",
+          "mn6:5.1.t8",
+          "mn6:5.1.t9",
+          "mn6:5.1.t10",
+          "mn6:5.1.t11",
+          "mn6:5.1.t12",
+          "mn6:5.1.t13",
+          "mn6:5.1.t14",
+          "mn6:5.1.t15",
+          "mn6:5.1.t16",
+          "mn6:5.1.t17",
+          "mn6:5.1.t18",
+          "mn6:5.1.t19",
+          "mn6:5.1.t20",
+          "mn6:5.1.t21",
+          "mn6:5.1.t22"
+        ],
+        "review_status": "approved",
+        "content": "「比丘們，若比丘希望：『願我所受用的衣、缽食、住所、病緣醫藥資具，對那些（施者而言）大果、大利益』，彼應於戒中圓滿實踐，致力於內心的止，不廢棄禪修，具足觀，修習空閑處。」"
+      }
     },
     {
       "segment_id": "mn6:6.1",
@@ -13974,7 +14135,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.1.t0",
+          "mn6:16.1.t1",
+          "mn6:16.1.t2",
+          "mn6:16.1.t3",
+          "mn6:16.1.t4",
+          "mn6:16.1.t5",
+          "mn6:16.1.t6",
+          "mn6:16.1.t7",
+          "mn6:16.1.t8",
+          "mn6:16.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，若比丘願以心遍覆他有情、他個人之心而了知："
+      }
     },
     {
       "segment_id": "mn6:16.2",
@@ -14251,7 +14428,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.2.t0",
+          "mn6:16.2.t1",
+          "mn6:16.2.t2",
+          "mn6:16.2.t3",
+          "mn6:16.2.t4",
+          "mn6:16.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有貪之心，願了知為『有貪之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.3",
@@ -14546,7 +14735,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.3.t0",
+          "mn6:16.3.t1",
+          "mn6:16.3.t2",
+          "mn6:16.3.t3",
+          "mn6:16.3.t4",
+          "mn6:16.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "離貪之心，願了知為『離貪之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.4",
@@ -14823,7 +15024,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.4.t0",
+          "mn6:16.4.t1",
+          "mn6:16.4.t2",
+          "mn6:16.4.t3",
+          "mn6:16.4.t4",
+          "mn6:16.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "有瞋之心，願了知為『有瞋之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.5",
@@ -15100,7 +15313,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.5.t0",
+          "mn6:16.5.t1",
+          "mn6:16.5.t2",
+          "mn6:16.5.t3",
+          "mn6:16.5.t4",
+          "mn6:16.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "離瞋之心，願了知為『離瞋之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.6",
@@ -15377,7 +15602,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.6.t0",
+          "mn6:16.6.t1",
+          "mn6:16.6.t2",
+          "mn6:16.6.t3",
+          "mn6:16.6.t4",
+          "mn6:16.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "有癡之心，願了知為『有癡之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.7",
@@ -15654,7 +15891,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.7.t0",
+          "mn6:16.7.t1",
+          "mn6:16.7.t2",
+          "mn6:16.7.t3",
+          "mn6:16.7.t4",
+          "mn6:16.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "離癡之心，願了知為『離癡之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.8",
@@ -15931,7 +16180,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.8.t0",
+          "mn6:16.8.t1",
+          "mn6:16.8.t2",
+          "mn6:16.8.t3",
+          "mn6:16.8.t4",
+          "mn6:16.8.t5"
+        ],
+        "review_status": "approved",
+        "content": "收攝之心，願了知為『收攝之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.9",
@@ -16208,7 +16469,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.9.t0",
+          "mn6:16.9.t1",
+          "mn6:16.9.t2",
+          "mn6:16.9.t3",
+          "mn6:16.9.t4",
+          "mn6:16.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "散亂之心，願了知為『散亂之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.10",
@@ -16485,7 +16758,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.10.t0",
+          "mn6:16.10.t1",
+          "mn6:16.10.t2",
+          "mn6:16.10.t3",
+          "mn6:16.10.t4",
+          "mn6:16.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "廣大之心，願了知為『廣大之心』；"
+      }
     },
     {
       "segment_id": "mn6:16.11",
@@ -16762,7 +17047,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.11.t0",
+          "mn6:16.11.t1",
+          "mn6:16.11.t2",
+          "mn6:16.11.t3",
+          "mn6:16.11.t4",
+          "mn6:16.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）未廣大的心，願我了知（其為）未廣大的心。"
+      }
     },
     {
       "segment_id": "mn6:16.12",
@@ -17039,7 +17336,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.12.t0",
+          "mn6:16.12.t1",
+          "mn6:16.12.t2",
+          "mn6:16.12.t3",
+          "mn6:16.12.t4",
+          "mn6:16.12.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）有上（可被超越）的心，願我了知（其為）有上的心。"
+      }
     },
     {
       "segment_id": "mn6:16.13",
@@ -17316,7 +17625,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.13.t0",
+          "mn6:16.13.t1",
+          "mn6:16.13.t2",
+          "mn6:16.13.t3",
+          "mn6:16.13.t4",
+          "mn6:16.13.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）無上的心，願我了知（其為）無上的心。"
+      }
     },
     {
       "segment_id": "mn6:16.14",
@@ -17593,7 +17914,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.14.t0",
+          "mn6:16.14.t1",
+          "mn6:16.14.t2",
+          "mn6:16.14.t3",
+          "mn6:16.14.t4",
+          "mn6:16.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）已入定的心，願我了知（其為）已入定的心。"
+      }
     },
     {
       "segment_id": "mn6:16.15",
@@ -17870,7 +18203,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.15.t0",
+          "mn6:16.15.t1",
+          "mn6:16.15.t2",
+          "mn6:16.15.t3",
+          "mn6:16.15.t4",
+          "mn6:16.15.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）未入定的心，願我了知（其為）未入定的心。"
+      }
     },
     {
       "segment_id": "mn6:16.16",
@@ -18201,7 +18546,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.16.t0",
+          "mn6:16.16.t1",
+          "mn6:16.16.t2",
+          "mn6:16.16.t3",
+          "mn6:16.16.t4",
+          "mn6:16.16.t5"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）已解脫的心，願我了知（其為）已解脫的心。"
+      }
     },
     {
       "segment_id": "mn6:16.17",
@@ -18503,7 +18860,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.17.t0",
+          "mn6:16.17.t1",
+          "mn6:16.17.t2",
+          "mn6:16.17.t3",
+          "mn6:16.17.t4",
+          "mn6:16.17.t6"
+        ],
+        "review_status": "approved",
+        "content": "或（對於）未解脫的心，了知（其為）未解脫的心——如是。"
+      }
     },
     {
       "segment_id": "mn6:16.18",
@@ -18756,7 +19125,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:16.18.t0",
+          "mn6:16.18.t1",
+          "mn6:16.18.t2",
+          "mn6:16.18.t3",
+          "mn6:16.18.t4"
+        ],
+        "review_status": "approved",
+        "content": "（他）應在戒律中圓滿修習……（應為）空曠住所的修習者。"
+      }
     },
     {
       "segment_id": "mn6:17.1",
@@ -20749,7 +21129,80 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:17.1.t0",
+          "mn6:17.1.t1",
+          "mn6:17.1.t2",
+          "mn6:17.1.t3",
+          "mn6:17.1.t4",
+          "mn6:17.1.t5",
+          "mn6:17.1.t6",
+          "mn6:17.1.t7",
+          "mn6:17.1.t8",
+          "mn6:17.1.t9",
+          "mn6:17.1.t10",
+          "mn6:17.1.t11",
+          "mn6:17.1.t12",
+          "mn6:17.1.t13",
+          "mn6:17.1.t14",
+          "mn6:17.1.t15",
+          "mn6:17.1.t16",
+          "mn6:17.1.t17",
+          "mn6:17.1.t18",
+          "mn6:17.1.t19",
+          "mn6:17.1.t20",
+          "mn6:17.1.t21",
+          "mn6:17.1.t22",
+          "mn6:17.1.t23",
+          "mn6:17.1.t24",
+          "mn6:17.1.t25",
+          "mn6:17.1.t26",
+          "mn6:17.1.t27",
+          "mn6:17.1.t28",
+          "mn6:17.1.t29",
+          "mn6:17.1.t30",
+          "mn6:17.1.t31",
+          "mn6:17.1.t32",
+          "mn6:17.1.t33",
+          "mn6:17.1.t34",
+          "mn6:17.1.t35",
+          "mn6:17.1.t36",
+          "mn6:17.1.t37",
+          "mn6:17.1.t38",
+          "mn6:17.1.t39",
+          "mn6:17.1.t40",
+          "mn6:17.1.t41",
+          "mn6:17.1.t42",
+          "mn6:17.1.t43",
+          "mn6:17.1.t44",
+          "mn6:17.1.t45",
+          "mn6:17.1.t46",
+          "mn6:17.1.t47",
+          "mn6:17.1.t48",
+          "mn6:17.1.t49",
+          "mn6:17.1.t50",
+          "mn6:17.1.t51",
+          "mn6:17.1.t52",
+          "mn6:17.1.t53",
+          "mn6:17.1.t54",
+          "mn6:17.1.t55",
+          "mn6:17.1.t56",
+          "mn6:17.1.t57",
+          "mn6:17.1.t58",
+          "mn6:17.1.t59",
+          "mn6:17.1.t60",
+          "mn6:17.1.t61",
+          "mn6:17.1.t62",
+          "mn6:17.1.t63",
+          "mn6:17.1.t64",
+          "mn6:17.1.t65",
+          "mn6:17.1.t67"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，若比丘欲憶念種種前世——亦即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生，乃至無數成劫、無數壞劫、無數成壞劫——（得如是憶念：）『我曾在彼處，名如此、族姓如此、相貌如此、飲食如此、感受如此苦樂、壽命期限如此；他從彼處死去，生於另一處；在那裡亦名如此、族姓如此、相貌如此、飲食如此、感受如此苦樂、壽命期限如此；他從彼處死去，生於此世。』如是連同相貌、詳盡地憶念種種前世——"
+      }
     },
     {
       "segment_id": "mn6:17.2",
@@ -21002,7 +21455,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:17.2.t0",
+          "mn6:17.2.t1",
+          "mn6:17.2.t2",
+          "mn6:17.2.t3",
+          "mn6:17.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "（他）應在戒律中圓滿修習……（應為）空曠住所的修習者。"
+      }
     },
     {
       "segment_id": "mn6:18.1",
@@ -25550,7 +26014,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:18.2.t0",
+          "mn6:18.2.t1",
+          "mn6:18.2.t2",
+          "mn6:18.2.t3",
+          "mn6:18.2.t4",
+          "mn6:18.2.t5",
+          "mn6:18.2.t6",
+          "mn6:18.2.t7",
+          "mn6:18.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "（則）應於戒中圓滿修習，於內致力於心之止（寂靜），不捨棄禪定，具足觀法，並修習（住於）空閒處。"
+      }
     },
     {
       "segment_id": "mn6:19.1",
@@ -26628,7 +27107,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:19.2.t0",
+          "mn6:19.2.t1",
+          "mn6:19.2.t2",
+          "mn6:19.2.t3",
+          "mn6:19.2.t4",
+          "mn6:19.2.t5",
+          "mn6:19.2.t6",
+          "mn6:19.2.t7",
+          "mn6:19.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "（則）應於戒中圓滿修習，於內致力於心之止（寂靜），不捨棄禪定，具足觀法，並修習（住於）空閒處。"
+      }
     },
     {
       "segment_id": "mn6:20.1",
@@ -27197,7 +27691,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:20.1.t0",
+          "mn6:20.1.t1",
+          "mn6:20.1.t2",
+          "mn6:20.1.t3",
+          "mn6:20.1.t4",
+          "mn6:20.1.t5",
+          "mn6:20.1.t6",
+          "mn6:20.1.t7",
+          "mn6:20.1.t8",
+          "mn6:20.1.t9",
+          "mn6:20.1.t10",
+          "mn6:20.1.t11",
+          "mn6:20.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，汝等應具足戒而住，具足波羅提木叉而住，以波羅提木叉律儀自制而住，具足行儀與所行處，見微細過失之危，受持（學處）而學。"
+      }
     },
     {
       "segment_id": "mn6:20.2",
@@ -27504,7 +28017,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:20.2.t0",
+          "mn6:20.2.t1",
+          "mn6:20.2.t2",
+          "mn6:20.2.t3",
+          "mn6:20.2.t4",
+          "mn6:20.2.t5",
+          "mn6:20.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "如是，凡所說之事，乃緣此而說。"
+      }
     },
     {
       "segment_id": "mn6:20.3",
@@ -27591,7 +28117,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:20.3.t0",
+          "mn6:20.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了此（法）。"
+      }
     },
     {
       "segment_id": "mn6:20.4",
@@ -27940,7 +28474,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:20.4.t0",
+          "mn6:20.4.t1",
+          "mn6:20.4.t2",
+          "mn6:20.4.t3",
+          "mn6:20.4.t4",
+          "mn6:20.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "彼等比丘對世尊所說（法）心生歡喜。"
+      }
     },
     {
       "segment_id": "mn6:20.5",
@@ -28057,7 +28603,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn6:20.5.t0",
+          "mn6:20.5.t1",
+          "mn6:20.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "《願望經》第六畢。"
+      }
     }
   ],
   "passages": [
@@ -28121,8 +28676,79 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-4-6",
+    "grounded_on": [
+      "mn6:1.1",
+      "mn6:1.2",
+      "mn6:2.1",
+      "mn6:3.1",
+      "mn6:4.1",
+      "mn6:5.1",
+      "mn6:6.1",
+      "mn6:7.1",
+      "mn6:8.1",
+      "mn6:9.1",
+      "mn6:10.1",
+      "mn6:11.1",
+      "mn6:12.1",
+      "mn6:13.1",
+      "mn6:14.1",
+      "mn6:15.1",
+      "mn6:16.1",
+      "mn6:16.18",
+      "mn6:17.1",
+      "mn6:18.1",
+      "mn6:18.2",
+      "mn6:19.1",
+      "mn6:19.2",
+      "mn6:20.1",
+      "mn6:20.5"
+    ],
+    "review_status": "approved",
+    "content": "本經為世尊在舍衛城祇陀林向比丘眾說法。全文以「具足戒行而住」為首尾框架，中段以「若比丘願望……」為結構公式，依次列舉十六類情境：從受同伴敬愛、獲取四資具、回向施主功德、超克不樂與恐懼，到獲得四禪、無色界解脫、證入流果、一來、不還，乃至神足、天耳、他心、宿命、天眼諸通，直至漏盡解脫。每一願望之後皆接同一處方：於戒中圓滿修習、致力於內心之止、不廢棄禪、具足觀、修習空閑處。全章揭示比丘所欲達成的目標無論世俗或出世間，皆須依循同一修行路徑方能成辦。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "sa-/vīta- 前綴：心狀態的八對對立術語",
+      "sources": [
+        "mn6:16.2",
+        "mn6:16.3",
+        "mn6:16.4",
+        "mn6:16.5",
+        "mn6:16.6",
+        "mn6:16.7"
+      ],
+      "content": "mn6:16 以 sa-（有）、vīta-（離）為前綴，系統列舉貪／瞋／癡、收攝／散亂、廣大／未廣大、有上／無上、已定／未定、已解脫／未解脫八對心（citta）狀態，每對皆以 pajānāti（了知）收尾。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "ākaṅkhati 條件句式：願望→五支修道公式",
+      "sources": [
+        "mn6:2.1",
+        "mn6:3.1",
+        "mn6:18.2",
+        "mn6:19.2"
+      ],
+      "content": "全經反覆以 ākaṅkhati ca bhikkhu（若比丘希望……）開頭，固定以「戒圓滿、內心止（samatha）、不捨禪（jhāna）、具觀（vipassanā）、修空閑處」五支收尾，構成「若有所願，此道為基」的說法格式。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "三重持戒表述：sampannasīla／sampannapātimokkha／pātimokkhasaṃvarasaṃvuta",
+      "sources": [
+        "mn6:2.1",
+        "mn6:20.1"
+      ],
+      "content": "mn6:2.1 以三個同義複合詞層疊描述持戒（sīla）：具足戒（sampannasīla）→具足波羅提木叉（sampannapātimokkha）→以律儀守護（pātimokkhasaṃvarasaṃvuta），從泛稱到具體律儀逐步收攝，mn6:20.1 原文重現。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

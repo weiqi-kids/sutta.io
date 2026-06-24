@@ -1,4 +1,42 @@
 {
+  "ukkattha": {
+    "entity_id": "ukkattha",
+    "kind": "place",
+    "name_pali": "Ukkaṭṭhā",
+    "name_zh": "鬱迦羅（城）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN1）。",
+        "source_ref": "mn1:1.2"
+      }
+    ],
+    "occurrences": [
+      "mn1:1.2"
+    ]
+  },
+  "subhagavana": {
+    "entity_id": "subhagavana",
+    "kind": "place",
+    "name_pali": "Subhagavana",
+    "name_zh": "善賢林",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN1）。",
+        "source_ref": "mn1:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "subhagavana Subhagavana A wood in Ukkaṭṭha. Once, when the Buddha was there, he visited the Avihā gods DN.ii.50 and, again, from there he visited Baka Brahmā, to whom he preached the Brahmanimantanika Sutta MN.i.326 SN.i.142 It was under a sāla tree in Subhagavana that the Mūlapariyāya Sutta was preached. MN.i.1 Location: 27.6081, 82.82524 (Precision: 3, Type: park)",
+        "note": "DPPN 引用：DN.ii.50、MN.i.326、SN.i.142、MN.i.1（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn1:1.2"
+    ]
+  },
   "kuru": {
     "entity_id": "kuru",
     "kind": "place",
@@ -52,8 +90,8 @@
     "summary": [
       {
         "provenance": "canonical",
-        "content": "出現於本經（MN118）。",
-        "source_ref": "mn118:1.2"
+        "content": "出現於本經（MN11）。",
+        "source_ref": "mn11:1.2"
       },
       {
         "provenance": "commentarial",
@@ -62,7 +100,51 @@
       }
     ],
     "occurrences": [
-      "mn118:1.2"
+      "mn11:1.2"
+    ]
+  },
+  "jetavana": {
+    "entity_id": "jetavana",
+    "kind": "place",
+    "name_pali": "Jetavana",
+    "name_zh": "祇樹林（祇陀林）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN11）。",
+        "source_ref": "mn11:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "jetavana Jetavana Jeta’s Grove Anāthapiṇḍaka’s Park Anāthapiṇḍikassa ārāma Anāthapiṇḍada’s Park A park in Sāvatthī, in which was built the Anāthapiṇḍikārāma. When the Buddha accepted Anāthapiṇḍika’s invitation to visit Sāvatthī the latter, seeking a suitable place for the Buddha’s residence, discovered this park belonging to Jeta. Anāthapiṇḍika built in the grounds dwelling rooms, retiring rooms, store rooms and service halls, halls with fireplaces, closets, cloisters, halls for exercise, wells, bathrooms, ponds, open and roofed sheds, etc. Vin.ii.158f. The monastery became the Buddha’s favorite residence, and the bulk of all discourses were delivered there, so much so that the Jetavana beca",
+        "note": "DPPN 引用：Vin.ii.158f.（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn11:1.2"
+    ]
+  },
+  "anathapindika": {
+    "entity_id": "anathapindika",
+    "kind": "person",
+    "name_pali": "Anāthapiṇḍika",
+    "name_zh": "給孤獨（長者）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN11）。",
+        "source_ref": "mn11:1.2"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "anāthapiṇḍika Anāthapiṇḍika A banker (seṭṭhi) of Sāvatthī who became famous because of his unparalleled generosity to the Buddha. His first meeting with the Buddha was during the first year after the Enlightenment, in Rājagaha., Vin.ii.154ff. whither Anāthapiṇḍika had come on business. His wife was the sister of the seṭṭhi of Rājagaha, and when he arrived he found the seṭṭhi preparing a meal for the Buddha and his monks on so splendid a scale that he thought that a wedding was in progress or that the king had been invited. On learning the truth he became eager to visit the Buddha, and did so very early the next morning. Vin.ii.155–156 He was so excited by the thought of the visit that he got",
+        "note": "DPPN 引用：Vin.ii.154ff.、Vin.ii.155–156、Vin.ii.158、AN.i.25、Vin.ii.156（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn11:1.2"
     ]
   },
   "pubbarama": {
@@ -304,6 +386,60 @@
       "mn118:1.3"
     ]
   },
+  "vesali": {
+    "entity_id": "vesali",
+    "kind": "place",
+    "name_pali": "Vesālī",
+    "name_zh": "毗舍離",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN12）。",
+        "source_ref": "mn12:1.2"
+      }
+    ],
+    "occurrences": [
+      "mn12:1.2"
+    ]
+  },
+  "sunakkhatta": {
+    "entity_id": "sunakkhatta",
+    "kind": "person",
+    "name_pali": "Sunakkhatta",
+    "name_zh": "善星（離車子，捨戒還俗者）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN12）。",
+        "source_ref": "mn12:2.1"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "sunakkhatta Sunakkhatta A Licchavi prince of Vesāli. He was, at one time, a member of the Order and the personal attendant of the Buddha, but was later converted to the views of Korakkhattiya and went about defaming the Buddha, saying that he had nothing superhuman and was not distinguished from other men by preaching a saving faith: that the doctrine preached by him did not lead to the destruction of sorrow, etc. Sāriputta, on his alms rounds in Vesāli, heard all this and reported it to the Buddha, who thereupon preached the Mahāsīhanāda Sutta. MN.i.68ff. The Sunakkhatta Sutta MN.ii.252ff. was evidently preached to Sunakkhatta before he joined the Order, while the Pātika Sutta DN.iii.1ff. g",
+        "note": "DPPN 引用：MN.i.68ff.、MN.ii.252ff.、DN.iii.1ff.、DN.i.152、DN.i.153（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn12:2.1"
+    ]
+  },
+  "licchavi": {
+    "entity_id": "licchavi",
+    "kind": "place",
+    "name_pali": "Licchavi",
+    "name_zh": "離車（族）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN12）。",
+        "source_ref": "mn12:2.1"
+      }
+    ],
+    "occurrences": [
+      "mn12:2.1"
+    ]
+  },
   "baranasi": {
     "entity_id": "baranasi",
     "kind": "place",
@@ -358,50 +494,6 @@
       "mn141:1.2"
     ]
   },
-  "jetavana": {
-    "entity_id": "jetavana",
-    "kind": "place",
-    "name_pali": "Jetavana",
-    "name_zh": "祇樹林（祇陀林）",
-    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
-    "summary": [
-      {
-        "provenance": "canonical",
-        "content": "出現於本經（MN2）。",
-        "source_ref": "mn2:1.2"
-      },
-      {
-        "provenance": "commentarial",
-        "content": "jetavana Jetavana Jeta’s Grove Anāthapiṇḍaka’s Park Anāthapiṇḍikassa ārāma Anāthapiṇḍada’s Park A park in Sāvatthī, in which was built the Anāthapiṇḍikārāma. When the Buddha accepted Anāthapiṇḍika’s invitation to visit Sāvatthī the latter, seeking a suitable place for the Buddha’s residence, discovered this park belonging to Jeta. Anāthapiṇḍika built in the grounds dwelling rooms, retiring rooms, store rooms and service halls, halls with fireplaces, closets, cloisters, halls for exercise, wells, bathrooms, ponds, open and roofed sheds, etc. Vin.ii.158f. The monastery became the Buddha’s favorite residence, and the bulk of all discourses were delivered there, so much so that the Jetavana beca",
-        "note": "DPPN 引用：Vin.ii.158f.（PTS 標注）"
-      }
-    ],
-    "occurrences": [
-      "mn2:1.2"
-    ]
-  },
-  "anathapindika": {
-    "entity_id": "anathapindika",
-    "kind": "person",
-    "name_pali": "Anāthapiṇḍika",
-    "name_zh": "給孤獨（長者）",
-    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
-    "summary": [
-      {
-        "provenance": "canonical",
-        "content": "出現於本經（MN2）。",
-        "source_ref": "mn2:1.2"
-      },
-      {
-        "provenance": "commentarial",
-        "content": "anāthapiṇḍika Anāthapiṇḍika A banker (seṭṭhi) of Sāvatthī who became famous because of his unparalleled generosity to the Buddha. His first meeting with the Buddha was during the first year after the Enlightenment, in Rājagaha., Vin.ii.154ff. whither Anāthapiṇḍika had come on business. His wife was the sister of the seṭṭhi of Rājagaha, and when he arrived he found the seṭṭhi preparing a meal for the Buddha and his monks on so splendid a scale that he thought that a wedding was in progress or that the king had been invited. On learning the truth he became eager to visit the Buddha, and did so very early the next morning. Vin.ii.155–156 He was so excited by the thought of the visit that he got",
-        "note": "DPPN 引用：Vin.ii.154ff.、Vin.ii.155–156、Vin.ii.158、AN.i.25、Vin.ii.156（PTS 標注）"
-      }
-    ],
-    "occurrences": [
-      "mn2:1.2"
-    ]
-  },
   "arittha": {
     "entity_id": "arittha",
     "kind": "person",
@@ -422,6 +514,44 @@
     ],
     "occurrences": [
       "mn22:2.1"
+    ]
+  },
+  "janussoni": {
+    "entity_id": "janussoni",
+    "kind": "person",
+    "name_pali": "Jāṇussoṇi",
+    "name_zh": "生聞（婆羅門）",
+    "dppn_ref": "Malalasekera, Dictionary of Pāli Proper Names（DPPN，公共領域）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN4）。",
+        "source_ref": "mn4:2.1"
+      },
+      {
+        "provenance": "commentarial",
+        "content": "jāṇussoṇi Jāṇussoṇi A great brahmin, ranking with eminent brahmins such as Caṅkī, Tārukkha, Pokkharasāti and Todeyya. Snp.p.115 He is mentioned as staying in Icchānaṅgala, MN.ii.196 where he evidently took part in the periodical gatherings of brahmin leaders—and also at Manasākaṭa. DN.i.235 He was a follower of the Buddha, of whom he was a great admirer. He appears to have been in the habit of talking to well known teachers of other schools and hearing their opinion of the Buddha, either for the purpose of comparing his own faith in him or of discovering their views. Two such conversations are recorded—one with Subha Todeyyaputta, MN.ii.209 the other with Pilotika. MN.i.175ff. His discussion",
+        "note": "DPPN 引用：Snp.p.115、MN.ii.196、DN.i.235、MN.ii.209、MN.i.175ff.、MN.i.16ff.、AN.i.56、AN.i.157（PTS 標注）"
+      }
+    ],
+    "occurrences": [
+      "mn4:2.1"
+    ]
+  },
+  "sundarikabharadvaja": {
+    "entity_id": "sundarikabharadvaja",
+    "kind": "place",
+    "name_pali": "Sundarika Bhāradvāja",
+    "name_zh": "孫陀利迦‧婆羅墮闍（婆羅門）",
+    "summary": [
+      {
+        "provenance": "canonical",
+        "content": "出現於本經（MN7）。",
+        "source_ref": "mn7:19.1"
+      }
+    ],
+    "occurrences": [
+      "mn7:19.1"
     ]
   }
 }

@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.1.t0",
+          "mn5:1.1.t1",
+          "mn5:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn5:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.2.t0",
+          "mn5:1.2.t1",
+          "mn5:1.2.t2",
+          "mn5:1.2.t3",
+          "mn5:1.2.t4",
+          "mn5:1.2.t5",
+          "mn5:1.2.t6",
+          "mn5:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在舍衛城，給孤獨長者的祇陀林園。"
+      }
     },
     {
       "segment_id": "mn5:1.3",
@@ -704,7 +727,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.3.t0",
+          "mn5:1.3.t1",
+          "mn5:1.3.t2",
+          "mn5:1.3.t3",
+          "mn5:1.3.t4",
+          "mn5:1.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "在那裡，尊者舍利弗確實告諸比丘："
+      }
     },
     {
       "segment_id": "mn5:1.4",
@@ -765,7 +800,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.4.t0",
+          "mn5:1.4.t1",
+          "mn5:1.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "「諸友，諸比丘！」"
+      }
     },
     {
       "segment_id": "mn5:1.5",
@@ -1049,7 +1093,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.5.t0",
+          "mn5:1.5.t1",
+          "mn5:1.5.t2",
+          "mn5:1.5.t3",
+          "mn5:1.5.t4",
+          "mn5:1.5.t5",
+          "mn5:1.5.t6",
+          "mn5:1.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「諸友！」彼等諸比丘確實應諾了尊者舍利弗。"
+      }
     },
     {
       "segment_id": "mn5:1.6",
@@ -1155,7 +1213,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:1.6.t0",
+          "mn5:1.6.t1",
+          "mn5:1.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "尊者舍利弗說此語："
+      }
     },
     {
       "segment_id": "mn5:2.1",
@@ -1403,7 +1470,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.1.t0",
+          "mn5:2.1.t1",
+          "mn5:2.1.t2",
+          "mn5:2.1.t3",
+          "mn5:2.1.t4",
+          "mn5:2.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸友，此四種人存在、可見於世間。"
+      }
     },
     {
       "segment_id": "mn5:2.2",
@@ -1477,7 +1556,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.2.t0",
+          "mn5:2.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "是哪四種？"
+      }
     },
     {
       "segment_id": "mn5:2.3",
@@ -1873,7 +1960,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.3.t0",
+          "mn5:2.3.t1",
+          "mn5:2.3.t2",
+          "mn5:2.3.t3",
+          "mn5:2.3.t4",
+          "mn5:2.3.t5",
+          "mn5:2.3.t6",
+          "mn5:2.3.t7",
+          "mn5:2.3.t9",
+          "mn5:2.3.t10",
+          "mn5:2.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸友，此中某人雖有垢染，卻如實不了知『我有內在垢染』。"
+      }
     },
     {
       "segment_id": "mn5:2.4",
@@ -2284,7 +2388,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.4.t0",
+          "mn5:2.4.t1",
+          "mn5:2.4.t2",
+          "mn5:2.4.t3",
+          "mn5:2.4.t4",
+          "mn5:2.4.t5",
+          "mn5:2.4.t6",
+          "mn5:2.4.t7",
+          "mn5:2.4.t8",
+          "mn5:2.4.t10",
+          "mn5:2.4.t11",
+          "mn5:2.4.t12"
+        ],
+        "review_status": "approved",
+        "content": "又，諸友，此中某人雖有垢染，如實了知『我有內在垢染』。"
+      }
     },
     {
       "segment_id": "mn5:2.5",
@@ -2635,7 +2757,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.5.t0",
+          "mn5:2.5.t1",
+          "mn5:2.5.t2",
+          "mn5:2.5.t3",
+          "mn5:2.5.t4",
+          "mn5:2.5.t5",
+          "mn5:2.5.t6",
+          "mn5:2.5.t7",
+          "mn5:2.5.t9",
+          "mn5:2.5.t10",
+          "mn5:2.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "此處，諸師兄弟，某一人雖身為無垢者，卻不如實了知「我內在（無污穢）」。"
+      }
     },
     {
       "segment_id": "mn5:2.6",
@@ -3001,7 +3140,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.6.t0",
+          "mn5:2.6.t1",
+          "mn5:2.6.t2",
+          "mn5:2.6.t3",
+          "mn5:2.6.t4",
+          "mn5:2.6.t5",
+          "mn5:2.6.t6",
+          "mn5:2.6.t7",
+          "mn5:2.6.t8",
+          "mn5:2.6.t10",
+          "mn5:2.6.t11",
+          "mn5:2.6.t12"
+        ],
+        "review_status": "approved",
+        "content": "然而此處，諸師兄弟，某一人身為無垢者，如實了知「我內在（無污穢）」。"
+      }
     },
     {
       "segment_id": "mn5:2.7",
@@ -3675,7 +3832,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.7.t0",
+          "mn5:2.7.t1",
+          "mn5:2.7.t2",
+          "mn5:2.7.t3",
+          "mn5:2.7.t4",
+          "mn5:2.7.t5",
+          "mn5:2.7.t6",
+          "mn5:2.7.t7",
+          "mn5:2.7.t9",
+          "mn5:2.7.t10",
+          "mn5:2.7.t11",
+          "mn5:2.7.t12",
+          "mn5:2.7.t13",
+          "mn5:2.7.t14",
+          "mn5:2.7.t15",
+          "mn5:2.7.t16",
+          "mn5:2.7.t17",
+          "mn5:2.7.t18",
+          "mn5:2.7.t19"
+        ],
+        "review_status": "approved",
+        "content": "其中，諸師兄弟，那一位身為有垢者，卻不如實了知「我內在有（污穢）」——此人在這兩位有垢者之中，被稱為劣者。"
+      }
     },
     {
       "segment_id": "mn5:2.8",
@@ -4349,7 +4531,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.8.t0",
+          "mn5:2.8.t1",
+          "mn5:2.8.t2",
+          "mn5:2.8.t3",
+          "mn5:2.8.t4",
+          "mn5:2.8.t5",
+          "mn5:2.8.t6",
+          "mn5:2.8.t7",
+          "mn5:2.8.t9",
+          "mn5:2.8.t10",
+          "mn5:2.8.t11",
+          "mn5:2.8.t12",
+          "mn5:2.8.t13",
+          "mn5:2.8.t14",
+          "mn5:2.8.t15",
+          "mn5:2.8.t16",
+          "mn5:2.8.t17",
+          "mn5:2.8.t18",
+          "mn5:2.8.t19"
+        ],
+        "review_status": "approved",
+        "content": "其中，諸師兄弟，那一位身為有垢者，如實了知「我內在有（污穢）」——此人在這兩位有垢者之中，被稱為勝者。"
+      }
     },
     {
       "segment_id": "mn5:2.9",
@@ -4978,7 +5185,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.9.t0",
+          "mn5:2.9.t1",
+          "mn5:2.9.t2",
+          "mn5:2.9.t3",
+          "mn5:2.9.t4",
+          "mn5:2.9.t5",
+          "mn5:2.9.t6",
+          "mn5:2.9.t7",
+          "mn5:2.9.t9",
+          "mn5:2.9.t10",
+          "mn5:2.9.t11",
+          "mn5:2.9.t12",
+          "mn5:2.9.t13",
+          "mn5:2.9.t14",
+          "mn5:2.9.t15",
+          "mn5:2.9.t16",
+          "mn5:2.9.t17",
+          "mn5:2.9.t18",
+          "mn5:2.9.t19"
+        ],
+        "review_status": "approved",
+        "content": "其中，諸師兄弟，那一位身為無垢者，卻不如實了知「我內在無（污穢）」——此人在這兩位無垢者之中，被稱為劣者。"
+      }
     },
     {
       "segment_id": "mn5:2.10",
@@ -5632,7 +5864,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:2.10.t0",
+          "mn5:2.10.t1",
+          "mn5:2.10.t2",
+          "mn5:2.10.t3",
+          "mn5:2.10.t4",
+          "mn5:2.10.t5",
+          "mn5:2.10.t6",
+          "mn5:2.10.t7",
+          "mn5:2.10.t9",
+          "mn5:2.10.t10",
+          "mn5:2.10.t11",
+          "mn5:2.10.t12",
+          "mn5:2.10.t13",
+          "mn5:2.10.t14",
+          "mn5:2.10.t15",
+          "mn5:2.10.t16",
+          "mn5:2.10.t17",
+          "mn5:2.10.t18",
+          "mn5:2.10.t20"
+        ],
+        "review_status": "approved",
+        "content": "其中，諸師兄弟，那一位身為無垢者，如實了知「我內在無（污穢）」——此人在這兩位無垢者之中，被稱為勝者。"
+      }
     },
     {
       "segment_id": "mn5:3.1",
@@ -5881,7 +6138,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:3.1.t0",
+          "mn5:3.1.t1",
+          "mn5:3.1.t2",
+          "mn5:3.1.t3",
+          "mn5:3.1.t4",
+          "mn5:3.1.t5",
+          "mn5:3.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說了之後，尊者大目揵連對尊者舍利弗說了這話："
+      }
     },
     {
       "segment_id": "mn5:3.2",
@@ -6380,7 +6650,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:3.2.t0",
+          "mn5:3.2.t1",
+          "mn5:3.2.t2",
+          "mn5:3.2.t3",
+          "mn5:3.2.t4",
+          "mn5:3.2.t5",
+          "mn5:3.2.t6",
+          "mn5:3.2.t7",
+          "mn5:3.2.t9",
+          "mn5:3.2.t10",
+          "mn5:3.2.t11",
+          "mn5:3.2.t12",
+          "mn5:3.2.t13",
+          "mn5:3.2.t14",
+          "mn5:3.2.t15",
+          "mn5:3.2.t16",
+          "mn5:3.2.t17",
+          "mn5:3.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "「師兄弟舍利弗，究竟是什麼因、什麼緣，使得同為兩位有垢者，一位被稱為劣者，另一位被稱為勝者？"
+      }
     },
     {
       "segment_id": "mn5:3.3",
@@ -6879,7 +7173,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:3.3.t0",
+          "mn5:3.3.t1",
+          "mn5:3.3.t2",
+          "mn5:3.3.t3",
+          "mn5:3.3.t4",
+          "mn5:3.3.t5",
+          "mn5:3.3.t7",
+          "mn5:3.3.t8",
+          "mn5:3.3.t9",
+          "mn5:3.3.t10",
+          "mn5:3.3.t11",
+          "mn5:3.3.t12",
+          "mn5:3.3.t13",
+          "mn5:3.3.t14",
+          "mn5:3.3.t15",
+          "mn5:3.3.t17"
+        ],
+        "review_status": "approved",
+        "content": "然而，師兄弟舍利弗，又是什麼因、什麼緣，使得同為兩位無垢者，一位被稱為劣者，另一位被稱為勝者？」"
+      }
     },
     {
       "segment_id": "mn5:4.1",
@@ -7561,7 +7877,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.1.t0",
+          "mn5:4.1.t1",
+          "mn5:4.1.t2",
+          "mn5:4.1.t3",
+          "mn5:4.1.t4",
+          "mn5:4.1.t5",
+          "mn5:4.1.t6",
+          "mn5:4.1.t7",
+          "mn5:4.1.t9",
+          "mn5:4.1.t10",
+          "mn5:4.1.t11",
+          "mn5:4.1.t12",
+          "mn5:4.1.t13",
+          "mn5:4.1.t14",
+          "mn5:4.1.t15",
+          "mn5:4.1.t16",
+          "mn5:4.1.t17",
+          "mn5:4.1.t18",
+          "mn5:4.1.t19",
+          "mn5:4.1.t20",
+          "mn5:4.1.t21",
+          "mn5:4.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "其中，諸師兄弟，那一位身為有垢者，卻不如實了知「我內在有（污穢）」——對他而言，可以預期的是：他將不生起意欲，將不精進努力，將不振起精力以為捨斷之用。"
+      }
     },
     {
       "segment_id": "mn5:4.2",
@@ -7725,7 +8069,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.2.t0",
+          "mn5:4.2.t1",
+          "mn5:4.2.t2",
+          "mn5:4.2.t3",
+          "mn5:4.2.t4",
+          "mn5:4.2.t5",
+          "mn5:4.2.t6",
+          "mn5:4.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "他帶有貪、帶有瞋、帶有癡、有垢染、心染污，將會命終。"
+      }
     },
     {
       "segment_id": "mn5:4.3",
@@ -8219,7 +8577,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.3.t0",
+          "mn5:4.3.t1",
+          "mn5:4.3.t2",
+          "mn5:4.3.t3",
+          "mn5:4.3.t4",
+          "mn5:4.3.t5",
+          "mn5:4.3.t6",
+          "mn5:4.3.t7",
+          "mn5:4.3.t8",
+          "mn5:4.3.t9",
+          "mn5:4.3.t10",
+          "mn5:4.3.t11",
+          "mn5:4.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "道友，猶如一只銅缽，從店鋪或鐵匠鋪取來，被塵垢與污漬所覆蓋——"
+      }
     },
     {
       "segment_id": "mn5:4.4",
@@ -8576,7 +8953,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.4.t0",
+          "mn5:4.4.t1",
+          "mn5:4.4.t2",
+          "mn5:4.4.t3",
+          "mn5:4.4.t4",
+          "mn5:4.4.t5",
+          "mn5:4.4.t6",
+          "mn5:4.4.t7",
+          "mn5:4.4.t8",
+          "mn5:4.4.t9",
+          "mn5:4.4.t10",
+          "mn5:4.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "其主人不使用它，也不清潔它，竟將它丟棄於塵路上——"
+      }
     },
     {
       "segment_id": "mn5:4.5",
@@ -9015,7 +9410,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.5.t0",
+          "mn5:4.5.t1",
+          "mn5:4.5.t2",
+          "mn5:4.5.t3",
+          "mn5:4.5.t4",
+          "mn5:4.5.t5",
+          "mn5:4.5.t6",
+          "mn5:4.5.t7",
+          "mn5:4.5.t8",
+          "mn5:4.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "道友，如此，那只銅缽到了後來，將更加污穢、為污漬所染。"
+      }
     },
     {
       "segment_id": "mn5:4.6",
@@ -9066,7 +9477,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.6.t0",
+          "mn5:4.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "「是的，道友。」"
+      }
     },
     {
       "segment_id": "mn5:4.7",
@@ -9788,7 +10207,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.7.t0",
+          "mn5:4.7.t1",
+          "mn5:4.7.t2",
+          "mn5:4.7.t3",
+          "mn5:4.7.t4",
+          "mn5:4.7.t5",
+          "mn5:4.7.t6",
+          "mn5:4.7.t7",
+          "mn5:4.7.t8",
+          "mn5:4.7.t9",
+          "mn5:4.7.t11",
+          "mn5:4.7.t12",
+          "mn5:4.7.t13",
+          "mn5:4.7.t14",
+          "mn5:4.7.t15",
+          "mn5:4.7.t16",
+          "mn5:4.7.t17",
+          "mn5:4.7.t18",
+          "mn5:4.7.t19",
+          "mn5:4.7.t20",
+          "mn5:4.7.t21",
+          "mn5:4.7.t22",
+          "mn5:4.7.t23",
+          "mn5:4.7.t25"
+        ],
+        "review_status": "approved",
+        "content": "道友，正如此，凡帶有垢染之人，卻不如實了知「我內在有垢染」——對他而言，可以預期：他不會生起意欲，不會努力，不會奮發精進以斷除之。"
+      }
     },
     {
       "segment_id": "mn5:4.8",
@@ -9952,7 +10401,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:4.8.t0",
+          "mn5:4.8.t1",
+          "mn5:4.8.t2",
+          "mn5:4.8.t3",
+          "mn5:4.8.t4",
+          "mn5:4.8.t5",
+          "mn5:4.8.t6",
+          "mn5:4.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "他帶有貪、帶有瞋、帶有癡、有垢染、心染污，將會命終。"
+      }
     },
     {
       "segment_id": "mn5:5.1",
@@ -10589,7 +11052,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.1.t0",
+          "mn5:5.1.t1",
+          "mn5:5.1.t2",
+          "mn5:5.1.t3",
+          "mn5:5.1.t4",
+          "mn5:5.1.t5",
+          "mn5:5.1.t6",
+          "mn5:5.1.t7",
+          "mn5:5.1.t9",
+          "mn5:5.1.t10",
+          "mn5:5.1.t11",
+          "mn5:5.1.t12",
+          "mn5:5.1.t13",
+          "mn5:5.1.t14",
+          "mn5:5.1.t15",
+          "mn5:5.1.t16",
+          "mn5:5.1.t17",
+          "mn5:5.1.t18",
+          "mn5:5.1.t20"
+        ],
+        "review_status": "approved",
+        "content": "於此，道友，凡帶有垢染之人，如實了知「我內在有垢染」——對他而言，可以預期：他將生起意欲、將努力、將奮發精進以斷除之。"
+      }
     },
     {
       "segment_id": "mn5:5.2",
@@ -10773,7 +11261,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.2.t0",
+          "mn5:5.2.t1",
+          "mn5:5.2.t2",
+          "mn5:5.2.t3",
+          "mn5:5.2.t4",
+          "mn5:5.2.t5",
+          "mn5:5.2.t6",
+          "mn5:5.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "他無貪、無瞋、無癡、無垢染、心清淨，將會命終。"
+      }
     },
     {
       "segment_id": "mn5:5.3",
@@ -11267,7 +11769,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.3.t0",
+          "mn5:5.3.t1",
+          "mn5:5.3.t2",
+          "mn5:5.3.t3",
+          "mn5:5.3.t4",
+          "mn5:5.3.t5",
+          "mn5:5.3.t6",
+          "mn5:5.3.t7",
+          "mn5:5.3.t8",
+          "mn5:5.3.t9",
+          "mn5:5.3.t10",
+          "mn5:5.3.t11",
+          "mn5:5.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "道友，猶如一只銅缽，從店鋪或鐵匠鋪取來，被塵垢與污漬所覆蓋——"
+      }
     },
     {
       "segment_id": "mn5:5.4",
@@ -11558,7 +12079,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.4.t0",
+          "mn5:5.4.t1",
+          "mn5:5.4.t3",
+          "mn5:5.4.t4",
+          "mn5:5.4.t5",
+          "mn5:5.4.t6",
+          "mn5:5.4.t7",
+          "mn5:5.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "主人們會淨化那個（銅缽），而不會將它棄置於塵路上。"
+      }
     },
     {
       "segment_id": "mn5:5.5",
@@ -11997,7 +12532,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.5.t0",
+          "mn5:5.5.t1",
+          "mn5:5.5.t2",
+          "mn5:5.5.t3",
+          "mn5:5.5.t4",
+          "mn5:5.5.t5",
+          "mn5:5.5.t6",
+          "mn5:5.5.t7",
+          "mn5:5.5.t8",
+          "mn5:5.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "因此，朋友，那個銅缽在另一個時節便更加清淨、光潔。"
+      }
     },
     {
       "segment_id": "mn5:5.6",
@@ -12048,7 +12599,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.6.t0",
+          "mn5:5.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "「是的，朋友。」"
+      }
     },
     {
       "segment_id": "mn5:5.7",
@@ -12725,7 +13284,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.7.t0",
+          "mn5:5.7.t1",
+          "mn5:5.7.t2",
+          "mn5:5.7.t3",
+          "mn5:5.7.t4",
+          "mn5:5.7.t5",
+          "mn5:5.7.t6",
+          "mn5:5.7.t7",
+          "mn5:5.7.t8",
+          "mn5:5.7.t9",
+          "mn5:5.7.t11",
+          "mn5:5.7.t12",
+          "mn5:5.7.t13",
+          "mn5:5.7.t14",
+          "mn5:5.7.t15",
+          "mn5:5.7.t16",
+          "mn5:5.7.t17",
+          "mn5:5.7.t18",
+          "mn5:5.7.t19",
+          "mn5:5.7.t20",
+          "mn5:5.7.t22"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，朋友，那個確實有污點的人，如實了知「我有內在（污點）」——對他而言，可以預期：他將生起欲求、將努力、將策勵精進，以求捨斷（污點）。"
+      }
     },
     {
       "segment_id": "mn5:5.8",
@@ -12909,7 +13495,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:5.8.t0",
+          "mn5:5.8.t1",
+          "mn5:5.8.t2",
+          "mn5:5.8.t3",
+          "mn5:5.8.t4",
+          "mn5:5.8.t5",
+          "mn5:5.8.t6",
+          "mn5:5.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "他無貪、無瞋、無癡、無污點、心無染垢，屆時將有所作為。"
+      }
     },
     {
       "segment_id": "mn5:6.1",
@@ -13630,7 +14230,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.1.t0",
+          "mn5:6.1.t1",
+          "mn5:6.1.t2",
+          "mn5:6.1.t3",
+          "mn5:6.1.t4",
+          "mn5:6.1.t5",
+          "mn5:6.1.t6",
+          "mn5:6.1.t7",
+          "mn5:6.1.t9",
+          "mn5:6.1.t10",
+          "mn5:6.1.t11",
+          "mn5:6.1.t12",
+          "mn5:6.1.t13",
+          "mn5:6.1.t14",
+          "mn5:6.1.t15",
+          "mn5:6.1.t16",
+          "mn5:6.1.t17",
+          "mn5:6.1.t18",
+          "mn5:6.1.t19",
+          "mn5:6.1.t20",
+          "mn5:6.1.t21",
+          "mn5:6.1.t22"
+        ],
+        "review_status": "approved",
+        "content": "於此，朋友，那個確實無污點的人，卻不如實了知「我沒有內在（污點）」——對他而言，可以預期：他將對美妙之相作意；由於對那美妙之相的作意，貪將侵入（其心）。"
+      }
     },
     {
       "segment_id": "mn5:6.2",
@@ -13794,7 +14422,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.2.t0",
+          "mn5:6.2.t1",
+          "mn5:6.2.t2",
+          "mn5:6.2.t3",
+          "mn5:6.2.t4",
+          "mn5:6.2.t5",
+          "mn5:6.2.t6",
+          "mn5:6.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "他有貪、有瞋、有癡、有污點、心有染垢，屆時將有所作為。"
+      }
     },
     {
       "segment_id": "mn5:6.3",
@@ -14279,7 +14921,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.3.t0",
+          "mn5:6.3.t1",
+          "mn5:6.3.t2",
+          "mn5:6.3.t3",
+          "mn5:6.3.t4",
+          "mn5:6.3.t5",
+          "mn5:6.3.t6",
+          "mn5:6.3.t7",
+          "mn5:6.3.t8",
+          "mn5:6.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "朋友，正如一個銅缽從市集或從鐵匠鋪被帶來，清淨、光潔。"
+      }
     },
     {
       "segment_id": "mn5:6.4",
@@ -14636,7 +15294,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.4.t0",
+          "mn5:6.4.t1",
+          "mn5:6.4.t2",
+          "mn5:6.4.t3",
+          "mn5:6.4.t4",
+          "mn5:6.4.t5",
+          "mn5:6.4.t6",
+          "mn5:6.4.t7",
+          "mn5:6.4.t8",
+          "mn5:6.4.t9",
+          "mn5:6.4.t10",
+          "mn5:6.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "主人們不但不使用那個（銅缽），也不淨化它，反而將它棄置於塵路上。"
+      }
     },
     {
       "segment_id": "mn5:6.5",
@@ -15075,7 +15751,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.5.t0",
+          "mn5:6.5.t1",
+          "mn5:6.5.t2",
+          "mn5:6.5.t3",
+          "mn5:6.5.t4",
+          "mn5:6.5.t5",
+          "mn5:6.5.t6",
+          "mn5:6.5.t7",
+          "mn5:6.5.t8",
+          "mn5:6.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "因此，朋友，那個銅缽在另一個時節便更加污穢、沾滿垢染。"
+      }
     },
     {
       "segment_id": "mn5:6.6",
@@ -15126,7 +15818,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.6.t0",
+          "mn5:6.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "「是的，道友們。」"
+      }
     },
     {
       "segment_id": "mn5:6.7",
@@ -15887,7 +16587,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.7.t0",
+          "mn5:6.7.t1",
+          "mn5:6.7.t2",
+          "mn5:6.7.t3",
+          "mn5:6.7.t4",
+          "mn5:6.7.t5",
+          "mn5:6.7.t6",
+          "mn5:6.7.t7",
+          "mn5:6.7.t8",
+          "mn5:6.7.t9",
+          "mn5:6.7.t11",
+          "mn5:6.7.t12",
+          "mn5:6.7.t13",
+          "mn5:6.7.t14",
+          "mn5:6.7.t15",
+          "mn5:6.7.t16",
+          "mn5:6.7.t17",
+          "mn5:6.7.t18",
+          "mn5:6.7.t19",
+          "mn5:6.7.t20",
+          "mn5:6.7.t21",
+          "mn5:6.7.t22",
+          "mn5:6.7.t23",
+          "mn5:6.7.t24"
+        ],
+        "review_status": "approved",
+        "content": "正是如此，道友們——那位雖是無垢染的人，卻不如實了知「我（內在）沒有（垢染）」，對他而言，可預期他將作意淨妙相；由於對那淨妙相的作意，貪將侵染其心。"
+      }
     },
     {
       "segment_id": "mn5:6.8",
@@ -16051,7 +16781,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:6.8.t0",
+          "mn5:6.8.t1",
+          "mn5:6.8.t2",
+          "mn5:6.8.t3",
+          "mn5:6.8.t4",
+          "mn5:6.8.t5",
+          "mn5:6.8.t6",
+          "mn5:6.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "他帶著貪、帶著瞋、帶著癡、有垢染、心被污染，將如此命終。"
+      }
     },
     {
       "segment_id": "mn5:7.1",
@@ -16787,7 +17531,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.1.t0",
+          "mn5:7.1.t1",
+          "mn5:7.1.t2",
+          "mn5:7.1.t3",
+          "mn5:7.1.t4",
+          "mn5:7.1.t5",
+          "mn5:7.1.t6",
+          "mn5:7.1.t7",
+          "mn5:7.1.t9",
+          "mn5:7.1.t10",
+          "mn5:7.1.t11",
+          "mn5:7.1.t12",
+          "mn5:7.1.t13",
+          "mn5:7.1.t14",
+          "mn5:7.1.t15",
+          "mn5:7.1.t16",
+          "mn5:7.1.t17",
+          "mn5:7.1.t18",
+          "mn5:7.1.t19",
+          "mn5:7.1.t20",
+          "mn5:7.1.t21",
+          "mn5:7.1.t22",
+          "mn5:7.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "道友們，在此——那位無垢染的人，如實了知「我（內在）沒有（垢染）」，對他而言，可預期他將不作意淨妙相；由於對那淨妙相的不作意，貪將不侵染其心。"
+      }
     },
     {
       "segment_id": "mn5:7.2",
@@ -16971,7 +17744,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.2.t0",
+          "mn5:7.2.t1",
+          "mn5:7.2.t2",
+          "mn5:7.2.t3",
+          "mn5:7.2.t4",
+          "mn5:7.2.t5",
+          "mn5:7.2.t6",
+          "mn5:7.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "他無貪、無瞋、無癡、無垢染、心無污染，將如此命終。"
+      }
     },
     {
       "segment_id": "mn5:7.3",
@@ -17456,7 +18243,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.3.t0",
+          "mn5:7.3.t1",
+          "mn5:7.3.t2",
+          "mn5:7.3.t3",
+          "mn5:7.3.t4",
+          "mn5:7.3.t5",
+          "mn5:7.3.t6",
+          "mn5:7.3.t7",
+          "mn5:7.3.t8",
+          "mn5:7.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "道友們，譬如一個銅缽，從商店或鍛造工坊帶來，清淨光潔。"
+      }
     },
     {
       "segment_id": "mn5:7.4",
@@ -17747,7 +18550,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.4.t0",
+          "mn5:7.4.t1",
+          "mn5:7.4.t3",
+          "mn5:7.4.t4",
+          "mn5:7.4.t5",
+          "mn5:7.4.t6",
+          "mn5:7.4.t7",
+          "mn5:7.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "主人們清洗那缽，而不將它丟棄在塵埃之處。"
+      }
     },
     {
       "segment_id": "mn5:7.5",
@@ -18186,7 +19003,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.5.t0",
+          "mn5:7.5.t1",
+          "mn5:7.5.t2",
+          "mn5:7.5.t3",
+          "mn5:7.5.t4",
+          "mn5:7.5.t5",
+          "mn5:7.5.t6",
+          "mn5:7.5.t7",
+          "mn5:7.5.t8",
+          "mn5:7.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "道友們，如此一來，那銅缽在其後的時候將會更加清淨光潔。"
+      }
     },
     {
       "segment_id": "mn5:7.6",
@@ -18237,7 +19070,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.6.t0",
+          "mn5:7.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "「是的，道友們。」"
+      }
     },
     {
       "segment_id": "mn5:7.7",
@@ -19013,7 +19854,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.7.t0",
+          "mn5:7.7.t1",
+          "mn5:7.7.t2",
+          "mn5:7.7.t3",
+          "mn5:7.7.t4",
+          "mn5:7.7.t5",
+          "mn5:7.7.t6",
+          "mn5:7.7.t7",
+          "mn5:7.7.t8",
+          "mn5:7.7.t9",
+          "mn5:7.7.t11",
+          "mn5:7.7.t12",
+          "mn5:7.7.t13",
+          "mn5:7.7.t14",
+          "mn5:7.7.t15",
+          "mn5:7.7.t16",
+          "mn5:7.7.t17",
+          "mn5:7.7.t18",
+          "mn5:7.7.t19",
+          "mn5:7.7.t20",
+          "mn5:7.7.t21",
+          "mn5:7.7.t22",
+          "mn5:7.7.t23",
+          "mn5:7.7.t24",
+          "mn5:7.7.t25"
+        ],
+        "review_status": "approved",
+        "content": "正是如此，道友們——那位無垢染的人，如實了知「我（內在）沒有（垢染）」，對他而言，可預期他將不作意淨妙相；由於對那淨妙相的不作意，貪將不侵染其心。"
+      }
     },
     {
       "segment_id": "mn5:7.8",
@@ -19197,7 +20069,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:7.8.t0",
+          "mn5:7.8.t1",
+          "mn5:7.8.t2",
+          "mn5:7.8.t3",
+          "mn5:7.8.t4",
+          "mn5:7.8.t5",
+          "mn5:7.8.t6",
+          "mn5:7.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "他無貪、無瞋、無癡、無垢、心無染污，將會辭世。"
+      }
     },
     {
       "segment_id": "mn5:8.1",
@@ -19772,7 +20658,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:8.1.t0",
+          "mn5:8.1.t1",
+          "mn5:8.1.t2",
+          "mn5:8.1.t3",
+          "mn5:8.1.t4",
+          "mn5:8.1.t5",
+          "mn5:8.1.t6",
+          "mn5:8.1.t8",
+          "mn5:8.1.t9",
+          "mn5:8.1.t10",
+          "mn5:8.1.t11",
+          "mn5:8.1.t12",
+          "mn5:8.1.t13",
+          "mn5:8.1.t14",
+          "mn5:8.1.t15",
+          "mn5:8.1.t16",
+          "mn5:8.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "賢友目揵連，確實是此因、此緣，使得同樣有垢的兩人當中，一人被稱為下劣者，一人被稱為殊勝者。"
+      }
     },
     {
       "segment_id": "mn5:8.2",
@@ -20362,7 +21271,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:8.2.t0",
+          "mn5:8.2.t1",
+          "mn5:8.2.t2",
+          "mn5:8.2.t3",
+          "mn5:8.2.t4",
+          "mn5:8.2.t5",
+          "mn5:8.2.t7",
+          "mn5:8.2.t8",
+          "mn5:8.2.t9",
+          "mn5:8.2.t10",
+          "mn5:8.2.t11",
+          "mn5:8.2.t12",
+          "mn5:8.2.t13",
+          "mn5:8.2.t14",
+          "mn5:8.2.t15",
+          "mn5:8.2.t17"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友目揵連，亦是此因、此緣，使得同樣無垢的兩人當中，一人被稱為下劣者，一人被稱為殊勝者。」"
+      }
     },
     {
       "segment_id": "mn5:9.1",
@@ -20452,7 +21383,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:9.1.t0",
+          "mn5:9.1.t1",
+          "mn5:9.1.t2",
+          "mn5:9.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "賢友，（某事物）被稱為「垢」。"
+      }
     },
     {
       "segment_id": "mn5:9.2",
@@ -20737,7 +21678,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:9.2.t0",
+          "mn5:9.2.t1",
+          "mn5:9.2.t2",
+          "mn5:9.2.t3",
+          "mn5:9.2.t4",
+          "mn5:9.2.t5",
+          "mn5:9.2.t6",
+          "mn5:9.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "賢友，「即是……」這究竟是何者的名稱？"
+      }
     },
     {
       "segment_id": "mn5:9.3",
@@ -21147,7 +22102,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:9.3.t0",
+          "mn5:9.3.t1",
+          "mn5:9.3.t2",
+          "mn5:9.3.t3",
+          "mn5:9.3.t4",
+          "mn5:9.3.t5",
+          "mn5:9.3.t6",
+          "mn5:9.3.t7",
+          "mn5:9.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實，「即是……」這個名稱，是針對惡的、不善的、屬欲界範疇的（事物）的稱謂。"
+      }
     },
     {
       "segment_id": "mn5:10.1",
@@ -21517,7 +22487,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.1.t0",
+          "mn5:10.1.t1",
+          "mn5:10.1.t2",
+          "mn5:10.1.t3",
+          "mn5:10.1.t4",
+          "mn5:10.1.t5",
+          "mn5:10.1.t6",
+          "mn5:10.1.t7",
+          "mn5:10.1.t8",
+          "mn5:10.1.t9",
+          "mn5:10.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某位比丘可能生起如此的欲求——"
+      }
     },
     {
       "segment_id": "mn5:10.2",
@@ -21839,7 +22826,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.2.t0",
+          "mn5:10.2.t1",
+          "mn5:10.2.t2",
+          "mn5:10.2.t3",
+          "mn5:10.2.t4",
+          "mn5:10.2.t5",
+          "mn5:10.2.t6",
+          "mn5:10.2.t7",
+          "mn5:10.2.t8",
+          "mn5:10.2.t9",
+          "mn5:10.2.t10",
+          "mn5:10.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "「（願我）確實犯了此罪，而諸比丘不知道我已犯罪。」"
+      }
     },
     {
       "segment_id": "mn5:10.3",
@@ -22194,7 +23199,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.3.t0",
+          "mn5:10.3.t1",
+          "mn5:10.3.t2",
+          "mn5:10.3.t3",
+          "mn5:10.3.t4",
+          "mn5:10.3.t5",
+          "mn5:10.3.t6",
+          "mn5:10.3.t7",
+          "mn5:10.3.t8",
+          "mn5:10.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實也存在這樣的情況：諸比丘會知道那位比丘——"
+      }
     },
     {
       "segment_id": "mn5:10.4",
@@ -22255,7 +23276,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.4.t0",
+          "mn5:10.4.t1",
+          "mn5:10.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "「（他）已犯罪。」"
+      }
     },
     {
       "segment_id": "mn5:10.5",
@@ -22426,7 +23456,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.5.t0",
+          "mn5:10.5.t1",
+          "mn5:10.5.t2",
+          "mn5:10.5.t3",
+          "mn5:10.5.t4",
+          "mn5:10.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘知道我犯了過罪。」（引述語）"
+      }
     },
     {
       "segment_id": "mn5:10.6",
@@ -22535,7 +23577,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.6.t0",
+          "mn5:10.6.t1",
+          "mn5:10.6.t2",
+          "mn5:10.6.t3",
+          "mn5:10.6.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他便成為憤怒、不滿足的。"
+      }
     },
     {
       "segment_id": "mn5:10.7",
@@ -22755,7 +23808,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.7.t0",
+          "mn5:10.7.t1",
+          "mn5:10.7.t2",
+          "mn5:10.7.t3",
+          "mn5:10.7.t4",
+          "mn5:10.7.t5",
+          "mn5:10.7.t6",
+          "mn5:10.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡有憤怒，以及凡有不滿——"
+      }
     },
     {
       "segment_id": "mn5:10.8",
@@ -22815,7 +23882,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:10.8.t0",
+          "mn5:10.8.t1"
+        ],
+        "review_status": "approved",
+        "content": "這兩者都是污點。"
+      }
     },
     {
       "segment_id": "mn5:11.1",
@@ -23185,7 +24260,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:11.1.t0",
+          "mn5:11.1.t1",
+          "mn5:11.1.t2",
+          "mn5:11.1.t3",
+          "mn5:11.1.t4",
+          "mn5:11.1.t5",
+          "mn5:11.1.t6",
+          "mn5:11.1.t7",
+          "mn5:11.1.t8",
+          "mn5:11.1.t9",
+          "mn5:11.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實存在這樣的情況——在這裡某位比丘可能生起如此的希求："
+      }
     },
     {
       "segment_id": "mn5:11.2",
@@ -24328,7 +25420,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:11.5.t0",
+          "mn5:11.5.t1",
+          "mn5:11.5.t2",
+          "mn5:11.5.t3",
+          "mn5:11.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他便成為憤怒、不滿足的。"
+      }
     },
     {
       "segment_id": "mn5:11.6",
@@ -24548,7 +25651,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:11.6.t0",
+          "mn5:11.6.t1",
+          "mn5:11.6.t2",
+          "mn5:11.6.t3",
+          "mn5:11.6.t4",
+          "mn5:11.6.t5",
+          "mn5:11.6.t6",
+          "mn5:11.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡有憤怒，以及凡有不滿——"
+      }
     },
     {
       "segment_id": "mn5:11.7",
@@ -24608,7 +25725,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:11.7.t0",
+          "mn5:11.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆（是）污點。"
+      }
     },
     {
       "segment_id": "mn5:12.1",
@@ -24978,7 +26103,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.1.t0",
+          "mn5:12.1.t1",
+          "mn5:12.1.t2",
+          "mn5:12.1.t3",
+          "mn5:12.1.t4",
+          "mn5:12.1.t5",
+          "mn5:12.1.t6",
+          "mn5:12.1.t7",
+          "mn5:12.1.t8",
+          "mn5:12.1.t9",
+          "mn5:12.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某位比丘生起如此的欲望——"
+      }
     },
     {
       "segment_id": "mn5:12.2",
@@ -25289,7 +26431,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.2.t0",
+          "mn5:12.2.t1",
+          "mn5:12.2.t2",
+          "mn5:12.2.t3",
+          "mn5:12.2.t4",
+          "mn5:12.2.t5",
+          "mn5:12.2.t6",
+          "mn5:12.2.t7",
+          "mn5:12.2.t8",
+          "mn5:12.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "「願我犯此戒後，是同等之人責難我，而非非同等之人。」"
+      }
     },
     {
       "segment_id": "mn5:12.3",
@@ -25693,7 +26851,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.3.t0",
+          "mn5:12.3.t1",
+          "mn5:12.3.t2",
+          "mn5:12.3.t3",
+          "mn5:12.3.t4",
+          "mn5:12.3.t5",
+          "mn5:12.3.t6",
+          "mn5:12.3.t7",
+          "mn5:12.3.t8",
+          "mn5:12.3.t9",
+          "mn5:12.3.t10",
+          "mn5:12.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：彼比丘（受）非同等之人責難，而非同等之人（責難）。"
+      }
     },
     {
       "segment_id": "mn5:12.4",
@@ -25883,7 +27059,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.4.t0",
+          "mn5:12.4.t1",
+          "mn5:12.4.t2",
+          "mn5:12.4.t3",
+          "mn5:12.4.t4",
+          "mn5:12.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "「責難我的是非同等之人，而非同等之人。」"
+      }
     },
     {
       "segment_id": "mn5:12.5",
@@ -25992,7 +27180,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.5.t0",
+          "mn5:12.5.t1",
+          "mn5:12.5.t2",
+          "mn5:12.5.t3",
+          "mn5:12.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如是，彼（人）成為憤怒且不滿的。"
+      }
     },
     {
       "segment_id": "mn5:12.6",
@@ -26212,7 +27411,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.6.t0",
+          "mn5:12.6.t1",
+          "mn5:12.6.t2",
+          "mn5:12.6.t3",
+          "mn5:12.6.t4",
+          "mn5:12.6.t5",
+          "mn5:12.6.t6",
+          "mn5:12.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "凡此憤怒，賢友，以及凡此無因之不滿——"
+      }
     },
     {
       "segment_id": "mn5:12.7",
@@ -26272,7 +27485,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:12.7.t0",
+          "mn5:12.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆（是）污點。"
+      }
     },
     {
       "segment_id": "mn5:13.1",
@@ -26642,7 +27863,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.1.t0",
+          "mn5:13.1.t1",
+          "mn5:13.1.t2",
+          "mn5:13.1.t3",
+          "mn5:13.1.t4",
+          "mn5:13.1.t5",
+          "mn5:13.1.t6",
+          "mn5:13.1.t7",
+          "mn5:13.1.t8",
+          "mn5:13.1.t9",
+          "mn5:13.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某位比丘生起如此的欲望——"
+      }
     },
     {
       "segment_id": "mn5:13.2",
@@ -27291,7 +28529,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.2.t0",
+          "mn5:13.2.t1",
+          "mn5:13.2.t2",
+          "mn5:13.2.t3",
+          "mn5:13.2.t4",
+          "mn5:13.2.t5",
+          "mn5:13.2.t6",
+          "mn5:13.2.t7",
+          "mn5:13.2.t8",
+          "mn5:13.2.t9",
+          "mn5:13.2.t10",
+          "mn5:13.2.t11",
+          "mn5:13.2.t12",
+          "mn5:13.2.t13",
+          "mn5:13.2.t14",
+          "mn5:13.2.t15",
+          "mn5:13.2.t16",
+          "mn5:13.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "「但願師長反覆詢問過我，為諸比丘說法，而非（詢問）其他比丘（後為諸比丘說法）。」"
+      }
     },
     {
       "segment_id": "mn5:13.3",
@@ -28118,7 +29380,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.3.t0",
+          "mn5:13.3.t1",
+          "mn5:13.3.t2",
+          "mn5:13.3.t3",
+          "mn5:13.3.t4",
+          "mn5:13.3.t5",
+          "mn5:13.3.t6",
+          "mn5:13.3.t7",
+          "mn5:13.3.t8",
+          "mn5:13.3.t9",
+          "mn5:13.3.t10",
+          "mn5:13.3.t11",
+          "mn5:13.3.t12",
+          "mn5:13.3.t13",
+          "mn5:13.3.t14",
+          "mn5:13.3.t15",
+          "mn5:13.3.t16",
+          "mn5:13.3.t17",
+          "mn5:13.3.t18",
+          "mn5:13.3.t19",
+          "mn5:13.3.t20",
+          "mn5:13.3.t21",
+          "mn5:13.3.t22"
+        ],
+        "review_status": "approved",
+        "content": "賢友們，確實也存在這樣的場合：導師反問另一位比丘後，為眾比丘宣說法；而不是反問那位比丘後，為眾比丘宣說法。"
+      }
     },
     {
       "segment_id": "mn5:13.4",
@@ -28731,7 +30022,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.4.t0",
+          "mn5:13.4.t1",
+          "mn5:13.4.t2",
+          "mn5:13.4.t3",
+          "mn5:13.4.t4",
+          "mn5:13.4.t5",
+          "mn5:13.4.t6",
+          "mn5:13.4.t7",
+          "mn5:13.4.t8",
+          "mn5:13.4.t9",
+          "mn5:13.4.t10",
+          "mn5:13.4.t11",
+          "mn5:13.4.t12",
+          "mn5:13.4.t13",
+          "mn5:13.4.t14",
+          "mn5:13.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "「導師反問另一位比丘後，為眾比丘宣說法；而不反問我後，為眾比丘宣說法。」"
+      }
     },
     {
       "segment_id": "mn5:13.5",
@@ -28840,7 +30153,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.5.t0",
+          "mn5:13.5.t1",
+          "mn5:13.5.t2",
+          "mn5:13.5.t3",
+          "mn5:13.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他便生起憤怒與不滿。"
+      }
     },
     {
       "segment_id": "mn5:13.6",
@@ -29060,7 +30384,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.6.t0",
+          "mn5:13.6.t1",
+          "mn5:13.6.t2",
+          "mn5:13.6.t3",
+          "mn5:13.6.t4",
+          "mn5:13.6.t5",
+          "mn5:13.6.t6",
+          "mn5:13.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友們，凡是那樣的憤怒，以及凡是那樣的無由不滿——"
+      }
     },
     {
       "segment_id": "mn5:13.7",
@@ -29120,7 +30458,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:13.7.t0",
+          "mn5:13.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆是污點。"
+      }
     },
     {
       "segment_id": "mn5:14.1",
@@ -29490,7 +30836,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.1.t0",
+          "mn5:14.1.t1",
+          "mn5:14.1.t2",
+          "mn5:14.1.t3",
+          "mn5:14.1.t4",
+          "mn5:14.1.t5",
+          "mn5:14.1.t6",
+          "mn5:14.1.t7",
+          "mn5:14.1.t8",
+          "mn5:14.1.t9",
+          "mn5:14.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友們，確實也存在這樣的場合：此處某位比丘生起如此的欲求——"
+      }
     },
     {
       "segment_id": "mn5:14.2",
@@ -30139,7 +31502,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.2.t0",
+          "mn5:14.2.t1",
+          "mn5:14.2.t2",
+          "mn5:14.2.t3",
+          "mn5:14.2.t4",
+          "mn5:14.2.t5",
+          "mn5:14.2.t6",
+          "mn5:14.2.t7",
+          "mn5:14.2.t8",
+          "mn5:14.2.t9",
+          "mn5:14.2.t10",
+          "mn5:14.2.t11",
+          "mn5:14.2.t12",
+          "mn5:14.2.t13",
+          "mn5:14.2.t14",
+          "mn5:14.2.t15",
+          "mn5:14.2.t16",
+          "mn5:14.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "「但願諸比丘奉我一人為先，而非奉另一位比丘為先，入村托缽！」"
+      }
     },
     {
       "segment_id": "mn5:14.3",
@@ -30966,7 +32353,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.3.t0",
+          "mn5:14.3.t1",
+          "mn5:14.3.t2",
+          "mn5:14.3.t3",
+          "mn5:14.3.t4",
+          "mn5:14.3.t5",
+          "mn5:14.3.t6",
+          "mn5:14.3.t7",
+          "mn5:14.3.t8",
+          "mn5:14.3.t9",
+          "mn5:14.3.t10",
+          "mn5:14.3.t11",
+          "mn5:14.3.t12",
+          "mn5:14.3.t13",
+          "mn5:14.3.t14",
+          "mn5:14.3.t15",
+          "mn5:14.3.t16",
+          "mn5:14.3.t17",
+          "mn5:14.3.t18",
+          "mn5:14.3.t19",
+          "mn5:14.3.t20",
+          "mn5:14.3.t21",
+          "mn5:14.3.t22"
+        ],
+        "review_status": "approved",
+        "content": "賢友們，確實也存在這樣的場合：諸比丘奉另一位比丘為先入村托缽，而不奉那位（有此欲求的）比丘為先入村托缽。"
+      }
     },
     {
       "segment_id": "mn5:14.4",
@@ -31616,7 +33032,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.4.t0",
+          "mn5:14.4.t1",
+          "mn5:14.4.t2",
+          "mn5:14.4.t3",
+          "mn5:14.4.t4",
+          "mn5:14.4.t5",
+          "mn5:14.4.t6",
+          "mn5:14.4.t7",
+          "mn5:14.4.t8",
+          "mn5:14.4.t9",
+          "mn5:14.4.t10",
+          "mn5:14.4.t11",
+          "mn5:14.4.t12",
+          "mn5:14.4.t13",
+          "mn5:14.4.t14",
+          "mn5:14.4.t15",
+          "mn5:14.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘奉另一位比丘為先入村托缽，而不奉我為先入村托缽。」"
+      }
     },
     {
       "segment_id": "mn5:14.5",
@@ -31725,7 +33164,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.5.t0",
+          "mn5:14.5.t1",
+          "mn5:14.5.t2",
+          "mn5:14.5.t3",
+          "mn5:14.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他便生起憤怒與不滿。"
+      }
     },
     {
       "segment_id": "mn5:14.6",
@@ -31945,7 +33395,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.6.t0",
+          "mn5:14.6.t1",
+          "mn5:14.6.t2",
+          "mn5:14.6.t3",
+          "mn5:14.6.t4",
+          "mn5:14.6.t5",
+          "mn5:14.6.t6",
+          "mn5:14.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡是憤怒、凡是無緣無故的嫌隙，"
+      }
     },
     {
       "segment_id": "mn5:14.7",
@@ -32005,7 +33469,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:14.7.t0",
+          "mn5:14.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "這兩者都是污點。"
+      }
     },
     {
       "segment_id": "mn5:15.1",
@@ -32375,7 +33847,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.1.t0",
+          "mn5:15.1.t1",
+          "mn5:15.1.t2",
+          "mn5:15.1.t3",
+          "mn5:15.1.t4",
+          "mn5:15.1.t5",
+          "mn5:15.1.t6",
+          "mn5:15.1.t7",
+          "mn5:15.1.t8",
+          "mn5:15.1.t9",
+          "mn5:15.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確有此情況存在：此間某比丘會生起如此欲望——"
+      }
     },
     {
       "segment_id": "mn5:15.2",
@@ -32833,7 +34322,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.2.t0",
+          "mn5:15.2.t1",
+          "mn5:15.2.t2",
+          "mn5:15.2.t3",
+          "mn5:15.2.t4",
+          "mn5:15.2.t5",
+          "mn5:15.2.t6",
+          "mn5:15.2.t7",
+          "mn5:15.2.t8",
+          "mn5:15.2.t9",
+          "mn5:15.2.t10",
+          "mn5:15.2.t11",
+          "mn5:15.2.t12",
+          "mn5:15.2.t13",
+          "mn5:15.2.t14",
+          "mn5:15.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "「啊！但願唯有我得到齋堂的上座、上等水、上等食物，而其他比丘不得齋堂的上座、上等水。」"
+      }
     },
     {
       "segment_id": "mn5:15.3",
@@ -33452,7 +34963,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.3.t0",
+          "mn5:15.3.t1",
+          "mn5:15.3.t2",
+          "mn5:15.3.t3",
+          "mn5:15.3.t4",
+          "mn5:15.3.t5",
+          "mn5:15.3.t6",
+          "mn5:15.3.t7",
+          "mn5:15.3.t8",
+          "mn5:15.3.t9",
+          "mn5:15.3.t10",
+          "mn5:15.3.t11",
+          "mn5:15.3.t12",
+          "mn5:15.3.t13",
+          "mn5:15.3.t14",
+          "mn5:15.3.t15",
+          "mn5:15.3.t16",
+          "mn5:15.3.t17",
+          "mn5:15.3.t18",
+          "mn5:15.3.t19",
+          "mn5:15.3.t20"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確有此情況存在：另一位比丘得到齋堂的上座、上等水、上等食物，而那位比丘未得齋堂的上座、上等水、上等食物。"
+      }
     },
     {
       "segment_id": "mn5:15.4",
@@ -33828,7 +35366,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.4.t0",
+          "mn5:15.4.t1",
+          "mn5:15.4.t2",
+          "mn5:15.4.t3",
+          "mn5:15.4.t4",
+          "mn5:15.4.t5",
+          "mn5:15.4.t6",
+          "mn5:15.4.t7",
+          "mn5:15.4.t8",
+          "mn5:15.4.t9",
+          "mn5:15.4.t10",
+          "mn5:15.4.t11",
+          "mn5:15.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "「另一位比丘得到齋堂的上座、上等水、上等食物，而我未得齋堂的上座、上等水。」"
+      }
     },
     {
       "segment_id": "mn5:15.5",
@@ -33937,7 +35494,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.5.t0",
+          "mn5:15.5.t1",
+          "mn5:15.5.t2",
+          "mn5:15.5.t3",
+          "mn5:15.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如是，彼（比丘）便憤怒、不滿。"
+      }
     },
     {
       "segment_id": "mn5:15.6",
@@ -34157,7 +35725,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.6.t0",
+          "mn5:15.6.t1",
+          "mn5:15.6.t2",
+          "mn5:15.6.t3",
+          "mn5:15.6.t4",
+          "mn5:15.6.t5",
+          "mn5:15.6.t6",
+          "mn5:15.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡是憤怒、凡是無緣無故的嫌隙，"
+      }
     },
     {
       "segment_id": "mn5:15.7",
@@ -34217,7 +35799,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:15.7.t0",
+          "mn5:15.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "這兩者都是污點。"
+      }
     },
     {
       "segment_id": "mn5:16.1",
@@ -34587,7 +36177,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.1.t0",
+          "mn5:16.1.t1",
+          "mn5:16.1.t2",
+          "mn5:16.1.t3",
+          "mn5:16.1.t4",
+          "mn5:16.1.t5",
+          "mn5:16.1.t6",
+          "mn5:16.1.t7",
+          "mn5:16.1.t8",
+          "mn5:16.1.t9",
+          "mn5:16.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確有此情況存在：此間某比丘會生起如此欲望——"
+      }
     },
     {
       "segment_id": "mn5:16.2",
@@ -35010,7 +36617,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.2.t0",
+          "mn5:16.2.t1",
+          "mn5:16.2.t2",
+          "mn5:16.2.t3",
+          "mn5:16.2.t4",
+          "mn5:16.2.t5",
+          "mn5:16.2.t6",
+          "mn5:16.2.t7",
+          "mn5:16.2.t8",
+          "mn5:16.2.t9",
+          "mn5:16.2.t10",
+          "mn5:16.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "「願唯有我在齋堂用齋後隨喜，其他比丘不在齋堂用齋後（隨喜）。」"
+      }
     },
     {
       "segment_id": "mn5:16.3",
@@ -35585,7 +37210,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.3.t0",
+          "mn5:16.3.t1",
+          "mn5:16.3.t2",
+          "mn5:16.3.t3",
+          "mn5:16.3.t4",
+          "mn5:16.3.t5",
+          "mn5:16.3.t6",
+          "mn5:16.3.t7",
+          "mn5:16.3.t8",
+          "mn5:16.3.t9",
+          "mn5:16.3.t10",
+          "mn5:16.3.t11",
+          "mn5:16.3.t12",
+          "mn5:16.3.t13",
+          "mn5:16.3.t14",
+          "mn5:16.3.t15",
+          "mn5:16.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "然而，友啊，確實有這樣的情況：另一位比丘在齋堂用齋後隨喜，而那位比丘卻不在齋堂用齋後隨喜。"
+      }
     },
     {
       "segment_id": "mn5:16.4",
@@ -35906,7 +37554,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.4.t0",
+          "mn5:16.4.t1",
+          "mn5:16.4.t2",
+          "mn5:16.4.t3",
+          "mn5:16.4.t4",
+          "mn5:16.4.t5",
+          "mn5:16.4.t6",
+          "mn5:16.4.t7",
+          "mn5:16.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "「另一位比丘在齋堂用齋後隨喜，而我不（在齋堂用齋後隨喜）。」"
+      }
     },
     {
       "segment_id": "mn5:16.5",
@@ -36015,7 +37678,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.5.t0",
+          "mn5:16.5.t1",
+          "mn5:16.5.t2",
+          "mn5:16.5.t3",
+          "mn5:16.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，那人便憤怒、不滿。"
+      }
     },
     {
       "segment_id": "mn5:16.6",
@@ -36235,7 +37909,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.6.t0",
+          "mn5:16.6.t1",
+          "mn5:16.6.t2",
+          "mn5:16.6.t3",
+          "mn5:16.6.t4",
+          "mn5:16.6.t5",
+          "mn5:16.6.t6",
+          "mn5:16.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "友啊，凡是那憤怒、凡是那無因之（不滿）——"
+      }
     },
     {
       "segment_id": "mn5:16.7",
@@ -36295,7 +37983,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:16.7.t0",
+          "mn5:16.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆是污點。"
+      }
     },
     {
       "segment_id": "mn5:17.1",
@@ -36665,7 +38361,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.1.t0",
+          "mn5:17.1.t1",
+          "mn5:17.1.t2",
+          "mn5:17.1.t3",
+          "mn5:17.1.t4",
+          "mn5:17.1.t5",
+          "mn5:17.1.t6",
+          "mn5:17.1.t7",
+          "mn5:17.1.t8",
+          "mn5:17.1.t9",
+          "mn5:17.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，友啊，確實有這樣的情況：此處某位比丘，如此的希求可能生起——"
+      }
     },
     {
       "segment_id": "mn5:17.2",
@@ -37200,7 +38913,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.2.t0",
+          "mn5:17.2.t1",
+          "mn5:17.2.t2",
+          "mn5:17.2.t3",
+          "mn5:17.2.t4",
+          "mn5:17.2.t5",
+          "mn5:17.2.t6",
+          "mn5:17.2.t7",
+          "mn5:17.2.t8",
+          "mn5:17.2.t9",
+          "mn5:17.2.t10",
+          "mn5:17.2.t11",
+          "mn5:17.2.t12",
+          "mn5:17.2.t14"
+        ],
+        "review_status": "approved",
+        "content": "「願唯有我為前來精舍的比丘眾說法，其他比丘不為前來精舍的比丘眾（說法）。」"
+      }
     },
     {
       "segment_id": "mn5:17.3",
@@ -37877,7 +39610,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.3.t0",
+          "mn5:17.3.t1",
+          "mn5:17.3.t2",
+          "mn5:17.3.t3",
+          "mn5:17.3.t4",
+          "mn5:17.3.t5",
+          "mn5:17.3.t6",
+          "mn5:17.3.t7",
+          "mn5:17.3.t8",
+          "mn5:17.3.t9",
+          "mn5:17.3.t10",
+          "mn5:17.3.t11",
+          "mn5:17.3.t12",
+          "mn5:17.3.t13",
+          "mn5:17.3.t14",
+          "mn5:17.3.t15",
+          "mn5:17.3.t16",
+          "mn5:17.3.t17",
+          "mn5:17.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "然而，友啊，確實有這樣的情況：另一位比丘為前來精舍的比丘眾說法，而那位比丘卻不為前來精舍的比丘眾說法。"
+      }
     },
     {
       "segment_id": "mn5:17.4",
@@ -38320,7 +40078,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.4.t0",
+          "mn5:17.4.t1",
+          "mn5:17.4.t2",
+          "mn5:17.4.t3",
+          "mn5:17.4.t4",
+          "mn5:17.4.t5",
+          "mn5:17.4.t6",
+          "mn5:17.4.t7",
+          "mn5:17.4.t8",
+          "mn5:17.4.t9",
+          "mn5:17.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "「另一位比丘為前來精舍的比丘眾說法，而我不（為前來精舍的比丘眾說法）。」"
+      }
     },
     {
       "segment_id": "mn5:17.5",
@@ -38429,7 +40204,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.5.t0",
+          "mn5:17.5.t1",
+          "mn5:17.5.t2",
+          "mn5:17.5.t3",
+          "mn5:17.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如是，他便惱怒、不悅。"
+      }
     },
     {
       "segment_id": "mn5:17.6",
@@ -38649,7 +40435,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.6.t0",
+          "mn5:17.6.t1",
+          "mn5:17.6.t2",
+          "mn5:17.6.t3",
+          "mn5:17.6.t4",
+          "mn5:17.6.t5",
+          "mn5:17.6.t6",
+          "mn5:17.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡是忿怒、凡是無因的（不滿）——"
+      }
     },
     {
       "segment_id": "mn5:17.7",
@@ -38709,7 +40509,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:17.7.t0",
+          "mn5:17.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此兩者都是污垢。"
+      }
     },
     {
       "segment_id": "mn5:18-20.1",
@@ -39079,7 +40887,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.1.t0",
+          "mn5:18-20.1.t1",
+          "mn5:18-20.1.t2",
+          "mn5:18-20.1.t3",
+          "mn5:18-20.1.t4",
+          "mn5:18-20.1.t5",
+          "mn5:18-20.1.t6",
+          "mn5:18-20.1.t7",
+          "mn5:18-20.1.t8",
+          "mn5:18-20.1.t9",
+          "mn5:18-20.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某位比丘可能生起如此的希求——"
+      }
     },
     {
       "segment_id": "mn5:18-20.2",
@@ -39423,7 +41248,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.2.t0",
+          "mn5:18-20.2.t1",
+          "mn5:18-20.2.t2",
+          "mn5:18-20.2.t3",
+          "mn5:18-20.2.t4",
+          "mn5:18-20.2.t5",
+          "mn5:18-20.2.t6",
+          "mn5:18-20.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "「但願唯有我為前往園林的比丘尼們說示法！……」"
+      }
     },
     {
       "segment_id": "mn5:18-20.3",
@@ -39609,7 +41448,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.3.t0",
+          "mn5:18-20.3.t1",
+          "mn5:18-20.3.t2",
+          "mn5:18-20.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "「……願我為在家男眾弟子說示法！……」"
+      }
     },
     {
       "segment_id": "mn5:18-20.4",
@@ -39986,7 +41835,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.4.t0",
+          "mn5:18-20.4.t1",
+          "mn5:18-20.4.t2",
+          "mn5:18-20.4.t3",
+          "mn5:18-20.4.t4",
+          "mn5:18-20.4.t5",
+          "mn5:18-20.4.t6",
+          "mn5:18-20.4.t7",
+          "mn5:18-20.4.t8",
+          "mn5:18-20.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "「……願我為在家女眾弟子說示法！而非另一比丘為前往園林的在家女眾弟子說法。」"
+      }
     },
     {
       "segment_id": "mn5:18-20.5",
@@ -40663,7 +42528,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.5.t0",
+          "mn5:18-20.5.t1",
+          "mn5:18-20.5.t2",
+          "mn5:18-20.5.t3",
+          "mn5:18-20.5.t4",
+          "mn5:18-20.5.t5",
+          "mn5:18-20.5.t6",
+          "mn5:18-20.5.t7",
+          "mn5:18-20.5.t8",
+          "mn5:18-20.5.t9",
+          "mn5:18-20.5.t10",
+          "mn5:18-20.5.t11",
+          "mn5:18-20.5.t12",
+          "mn5:18-20.5.t13",
+          "mn5:18-20.5.t14",
+          "mn5:18-20.5.t15",
+          "mn5:18-20.5.t16",
+          "mn5:18-20.5.t17",
+          "mn5:18-20.5.t18"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：另一位比丘為前往園林的在家女眾弟子說法，而那位比丘卻不為前往園林的在家女眾弟子說法——"
+      }
     },
     {
       "segment_id": "mn5:18-20.6",
@@ -41106,7 +42996,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.6.t0",
+          "mn5:18-20.6.t1",
+          "mn5:18-20.6.t2",
+          "mn5:18-20.6.t3",
+          "mn5:18-20.6.t4",
+          "mn5:18-20.6.t5",
+          "mn5:18-20.6.t6",
+          "mn5:18-20.6.t7",
+          "mn5:18-20.6.t8",
+          "mn5:18-20.6.t9",
+          "mn5:18-20.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "「另一比丘為前往園林的在家女眾弟子說法，而我不為前往園林的在家女眾弟子說法。」"
+      }
     },
     {
       "segment_id": "mn5:18-20.7",
@@ -41215,7 +43122,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.7.t0",
+          "mn5:18-20.7.t1",
+          "mn5:18-20.7.t2",
+          "mn5:18-20.7.t3",
+          "mn5:18-20.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "如是，他便惱怒、不悅。"
+      }
     },
     {
       "segment_id": "mn5:18-20.8",
@@ -41435,7 +43353,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.8.t0",
+          "mn5:18-20.8.t1",
+          "mn5:18-20.8.t2",
+          "mn5:18-20.8.t3",
+          "mn5:18-20.8.t4",
+          "mn5:18-20.8.t5",
+          "mn5:18-20.8.t6",
+          "mn5:18-20.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡是忿怒，以及凡是無故之（怨恨）——"
+      }
     },
     {
       "segment_id": "mn5:18-20.9",
@@ -41495,7 +43427,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:18-20.9.t0",
+          "mn5:18-20.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆是污垢。"
+      }
     },
     {
       "segment_id": "mn5:21.1",
@@ -41865,7 +43805,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.1.t0",
+          "mn5:21.1.t1",
+          "mn5:21.1.t2",
+          "mn5:21.1.t3",
+          "mn5:21.1.t4",
+          "mn5:21.1.t5",
+          "mn5:21.1.t6",
+          "mn5:21.1.t7",
+          "mn5:21.1.t8",
+          "mn5:21.1.t9",
+          "mn5:21.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某比丘可能生起如此的欲求——"
+      }
     },
     {
       "segment_id": "mn5:21.2",
@@ -42386,7 +44343,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.2.t0",
+          "mn5:21.2.t1",
+          "mn5:21.2.t2",
+          "mn5:21.2.t3",
+          "mn5:21.2.t4",
+          "mn5:21.2.t5",
+          "mn5:21.2.t6",
+          "mn5:21.2.t7",
+          "mn5:21.2.t8",
+          "mn5:21.2.t9",
+          "mn5:21.2.t10",
+          "mn5:21.2.t11",
+          "mn5:21.2.t12",
+          "mn5:21.2.t13",
+          "mn5:21.2.t14",
+          "mn5:21.2.t15",
+          "mn5:21.2.t16",
+          "mn5:21.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "「願比丘們唯恭敬我、以我為重、禮敬我、供養我，而不（如此）恭敬其他比丘、以（其）為重、禮敬（之）。」"
+      }
     },
     {
       "segment_id": "mn5:21.3",
@@ -43085,7 +45066,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.3.t0",
+          "mn5:21.3.t1",
+          "mn5:21.3.t2",
+          "mn5:21.3.t3",
+          "mn5:21.3.t4",
+          "mn5:21.3.t5",
+          "mn5:21.3.t6",
+          "mn5:21.3.t7",
+          "mn5:21.3.t8",
+          "mn5:21.3.t9",
+          "mn5:21.3.t10",
+          "mn5:21.3.t11",
+          "mn5:21.3.t12",
+          "mn5:21.3.t13",
+          "mn5:21.3.t14",
+          "mn5:21.3.t15",
+          "mn5:21.3.t16",
+          "mn5:21.3.t17",
+          "mn5:21.3.t18",
+          "mn5:21.3.t19",
+          "mn5:21.3.t20",
+          "mn5:21.3.t21",
+          "mn5:21.3.t22"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：比丘們可能恭敬、尊重、禮敬、供養另一位比丘，而不（如此）恭敬、尊重、禮敬、供養彼（比丘）。"
+      }
     },
     {
       "segment_id": "mn5:21.4",
@@ -43647,7 +45657,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.4.t0",
+          "mn5:21.4.t1",
+          "mn5:21.4.t2",
+          "mn5:21.4.t3",
+          "mn5:21.4.t4",
+          "mn5:21.4.t5",
+          "mn5:21.4.t6",
+          "mn5:21.4.t7",
+          "mn5:21.4.t8",
+          "mn5:21.4.t9",
+          "mn5:21.4.t10",
+          "mn5:21.4.t11",
+          "mn5:21.4.t12",
+          "mn5:21.4.t13",
+          "mn5:21.4.t14",
+          "mn5:21.4.t15",
+          "mn5:21.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "比丘們恭敬另一位比丘、以（其）為重、禮敬、供養，而不（如此）恭敬我、以我為重、禮敬、供養（我）。"
+      }
     },
     {
       "segment_id": "mn5:21.5",
@@ -43756,7 +45789,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.5.t0",
+          "mn5:21.5.t1",
+          "mn5:21.5.t2",
+          "mn5:21.5.t3",
+          "mn5:21.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，彼（比丘）便成為忿怒、不悅之人。"
+      }
     },
     {
       "segment_id": "mn5:21.6",
@@ -43976,7 +46020,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.6.t0",
+          "mn5:21.6.t1",
+          "mn5:21.6.t2",
+          "mn5:21.6.t3",
+          "mn5:21.6.t4",
+          "mn5:21.6.t5",
+          "mn5:21.6.t6",
+          "mn5:21.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，凡是忿怒，以及凡是無故之（怨恨）——"
+      }
     },
     {
       "segment_id": "mn5:21.7",
@@ -44036,7 +46094,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:21.7.t0",
+          "mn5:21.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆是污垢。"
+      }
     },
     {
       "segment_id": "mn5:22-24.1",
@@ -44406,7 +46472,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.1.t0",
+          "mn5:22-24.1.t1",
+          "mn5:22-24.1.t2",
+          "mn5:22-24.1.t3",
+          "mn5:22-24.1.t4",
+          "mn5:22-24.1.t5",
+          "mn5:22-24.1.t6",
+          "mn5:22-24.1.t7",
+          "mn5:22-24.1.t8",
+          "mn5:22-24.1.t9",
+          "mn5:22-24.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "然而，賢友，確實存在這樣的情況：此處某比丘可能生起如此的欲求——"
+      }
     },
     {
       "segment_id": "mn5:22-24.2",
@@ -44604,7 +46687,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.2.t0",
+          "mn5:22-24.2.t1",
+          "mn5:22-24.2.t2",
+          "mn5:22-24.2.t3",
+          "mn5:22-24.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "「日！修持行儀者！唯我……比丘尼眾……（下略）」"
+      }
     },
     {
       "segment_id": "mn5:22-24.3",
@@ -44732,7 +46826,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.3.t0",
+          "mn5:22-24.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "「……優婆塞……（下略）」"
+      }
     },
     {
       "segment_id": "mn5:22-24.4",
@@ -45183,7 +47285,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.4.t0",
+          "mn5:22-24.4.t1",
+          "mn5:22-24.4.t2",
+          "mn5:22-24.4.t3",
+          "mn5:22-24.4.t4",
+          "mn5:22-24.4.t5",
+          "mn5:22-24.4.t6",
+          "mn5:22-24.4.t7",
+          "mn5:22-24.4.t8",
+          "mn5:22-24.4.t9",
+          "mn5:22-24.4.t10",
+          "mn5:22-24.4.t11",
+          "mn5:22-24.4.t12",
+          "mn5:22-24.4.t13",
+          "mn5:22-24.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "「（願）優婆夷們尊敬（我）、視（我）為重、尊重（我）、供養（我），（而）不（願）優婆夷們尊敬另一位比丘、視他為重、尊重他。」"
+      }
     },
     {
       "segment_id": "mn5:22-24.5",
@@ -45900,7 +48023,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.5.t0",
+          "mn5:22-24.5.t1",
+          "mn5:22-24.5.t2",
+          "mn5:22-24.5.t3",
+          "mn5:22-24.5.t4",
+          "mn5:22-24.5.t5",
+          "mn5:22-24.5.t6",
+          "mn5:22-24.5.t7",
+          "mn5:22-24.5.t8",
+          "mn5:22-24.5.t9",
+          "mn5:22-24.5.t10",
+          "mn5:22-24.5.t11",
+          "mn5:22-24.5.t12",
+          "mn5:22-24.5.t13",
+          "mn5:22-24.5.t14",
+          "mn5:22-24.5.t15",
+          "mn5:22-24.5.t16",
+          "mn5:22-24.5.t17",
+          "mn5:22-24.5.t18",
+          "mn5:22-24.5.t19",
+          "mn5:22-24.5.t20",
+          "mn5:22-24.5.t21",
+          "mn5:22-24.5.t22"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實存在這樣的情況：優婆夷們（可能）尊敬、視為重要、尊重、供養另一位比丘，卻不尊敬、不視為重要、不尊重、不供養那位（起此念的）比丘。"
+      }
     },
     {
       "segment_id": "mn5:22-24.6",
@@ -46480,7 +48632,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.6.t0",
+          "mn5:22-24.6.t1",
+          "mn5:22-24.6.t2",
+          "mn5:22-24.6.t3",
+          "mn5:22-24.6.t4",
+          "mn5:22-24.6.t5",
+          "mn5:22-24.6.t6",
+          "mn5:22-24.6.t7",
+          "mn5:22-24.6.t8",
+          "mn5:22-24.6.t9",
+          "mn5:22-24.6.t10",
+          "mn5:22-24.6.t11",
+          "mn5:22-24.6.t12",
+          "mn5:22-24.6.t13",
+          "mn5:22-24.6.t14",
+          "mn5:22-24.6.t15",
+          "mn5:22-24.6.t16"
+        ],
+        "review_status": "approved",
+        "content": "「優婆夷們尊敬另一位比丘、視他為重、尊重他、供養他，卻不尊敬我、不視我為重、不尊重我，（優婆夷們）正供養著（他）。」"
+      }
     },
     {
       "segment_id": "mn5:22-24.7",
@@ -46589,7 +48764,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.7.t0",
+          "mn5:22-24.7.t1",
+          "mn5:22-24.7.t2",
+          "mn5:22-24.7.t3",
+          "mn5:22-24.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他便成為憤怒且不悅的。"
+      }
     },
     {
       "segment_id": "mn5:22-24.8",
@@ -46809,7 +48995,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.8.t0",
+          "mn5:22-24.8.t1",
+          "mn5:22-24.8.t2",
+          "mn5:22-24.8.t3",
+          "mn5:22-24.8.t4",
+          "mn5:22-24.8.t5",
+          "mn5:22-24.8.t6",
+          "mn5:22-24.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，那忿，以及那無緣由的（不滿）……"
+      }
     },
     {
       "segment_id": "mn5:22-24.9",
@@ -46869,7 +49069,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:22-24.9.t0",
+          "mn5:22-24.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "此兩者皆是污點。"
+      }
     },
     {
       "segment_id": "mn5:25.1",
@@ -47239,7 +49447,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.1.t0",
+          "mn5:25.1.t1",
+          "mn5:25.1.t2",
+          "mn5:25.1.t3",
+          "mn5:25.1.t4",
+          "mn5:25.1.t5",
+          "mn5:25.1.t6",
+          "mn5:25.1.t7",
+          "mn5:25.1.t8",
+          "mn5:25.1.t9",
+          "mn5:25.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實存在這樣的情況：此處某位比丘生起如此的欲望……"
+      }
     },
     {
       "segment_id": "mn5:25.2",
@@ -47901,7 +50126,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.2.t0",
+          "mn5:25.2.t1",
+          "mn5:25.2.t2",
+          "mn5:25.2.t3",
+          "mn5:25.2.t4",
+          "mn5:25.2.t5",
+          "mn5:25.2.t6",
+          "mn5:25.2.t7",
+          "mn5:25.2.t8",
+          "mn5:25.2.t9",
+          "mn5:25.2.t10",
+          "mn5:25.2.t11",
+          "mn5:25.2.t12",
+          "mn5:25.2.t14"
+        ],
+        "review_status": "approved",
+        "content": "「日！修持行儀者！唯我才是這些勝妙袈裟的獲得者，其他比丘不（是）這些勝妙（袈裟）的獲得者。」"
+      }
     },
     {
       "segment_id": "mn5:25.3",
@@ -48778,7 +51023,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.3.t0",
+          "mn5:25.3.t1",
+          "mn5:25.3.t2",
+          "mn5:25.3.t3",
+          "mn5:25.3.t4",
+          "mn5:25.3.t5",
+          "mn5:25.3.t6",
+          "mn5:25.3.t7",
+          "mn5:25.3.t8",
+          "mn5:25.3.t9",
+          "mn5:25.3.t10",
+          "mn5:25.3.t11",
+          "mn5:25.3.t12",
+          "mn5:25.3.t13",
+          "mn5:25.3.t14",
+          "mn5:25.3.t15",
+          "mn5:25.3.t16",
+          "mn5:25.3.t17",
+          "mn5:25.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實然而存在這種情況：另一位比丘得到了精美的袈裟，而那位比丘（自己）並非這精美袈裟的得者。"
+      }
     },
     {
       "segment_id": "mn5:25.4",
@@ -49226,7 +51496,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.4.t0",
+          "mn5:25.4.t1",
+          "mn5:25.4.t2",
+          "mn5:25.4.t3",
+          "mn5:25.4.t4",
+          "mn5:25.4.t5",
+          "mn5:25.4.t6",
+          "mn5:25.4.t7",
+          "mn5:25.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "『另一位比丘是精美袈裟的得者，而我並非精美〔袈裟〕的得者。』"
+      }
     },
     {
       "segment_id": "mn5:25.5",
@@ -49335,7 +51620,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.5.t0",
+          "mn5:25.5.t1",
+          "mn5:25.5.t2",
+          "mn5:25.5.t3",
+          "mn5:25.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，那位（比丘）便生起忿怒，充滿不滿。"
+      }
     },
     {
       "segment_id": "mn5:25.6",
@@ -49555,7 +51851,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.6.t0",
+          "mn5:25.6.t1",
+          "mn5:25.6.t2",
+          "mn5:25.6.t3",
+          "mn5:25.6.t4",
+          "mn5:25.6.t5",
+          "mn5:25.6.t6",
+          "mn5:25.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實，凡此憤怒與凡此無因由（之不滿）——"
+      }
     },
     {
       "segment_id": "mn5:25.7",
@@ -49615,7 +51925,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:25.7.t0",
+          "mn5:25.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "此二者皆是污點。"
+      }
     },
     {
       "segment_id": "mn5:26-27.1",
@@ -49985,7 +52303,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.1.t0",
+          "mn5:26-27.1.t1",
+          "mn5:26-27.1.t2",
+          "mn5:26-27.1.t3",
+          "mn5:26-27.1.t4",
+          "mn5:26-27.1.t5",
+          "mn5:26-27.1.t6",
+          "mn5:26-27.1.t7",
+          "mn5:26-27.1.t8",
+          "mn5:26-27.1.t9",
+          "mn5:26-27.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實然而存在這種情況：此處某位比丘生起如此的欲求——"
+      }
     },
     {
       "segment_id": "mn5:26-27.2",
@@ -50366,7 +52701,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.2.t0",
+          "mn5:26-27.2.t1",
+          "mn5:26-27.2.t2",
+          "mn5:26-27.2.t3",
+          "mn5:26-27.2.t4",
+          "mn5:26-27.2.t5",
+          "mn5:26-27.2.t6",
+          "mn5:26-27.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "『（啊，）願唯有我是精美缽食的得者……（略）』"
+      }
     },
     {
       "segment_id": "mn5:26-27.3",
@@ -50528,7 +52877,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.3.t0",
+          "mn5:26-27.3.t1",
+          "mn5:26-27.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "精美的住所……（略）"
+      }
     },
     {
       "segment_id": "mn5:26-27.4",
@@ -50926,7 +53284,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.4.t0",
+          "mn5:26-27.4.t1",
+          "mn5:26-27.4.t2",
+          "mn5:26-27.4.t3",
+          "mn5:26-27.4.t4",
+          "mn5:26-27.4.t5",
+          "mn5:26-27.4.t6",
+          "mn5:26-27.4.t7",
+          "mn5:26-27.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "精美的病緣藥品資具——無其他比丘是此精美〔藥品資具〕的得者。』（欲求如此）"
+      }
     },
     {
       "segment_id": "mn5:26-27.5",
@@ -51713,7 +54086,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.5.t0",
+          "mn5:26-27.5.t1",
+          "mn5:26-27.5.t2",
+          "mn5:26-27.5.t3",
+          "mn5:26-27.5.t4",
+          "mn5:26-27.5.t5",
+          "mn5:26-27.5.t6",
+          "mn5:26-27.5.t7",
+          "mn5:26-27.5.t8",
+          "mn5:26-27.5.t9",
+          "mn5:26-27.5.t10",
+          "mn5:26-27.5.t11",
+          "mn5:26-27.5.t12",
+          "mn5:26-27.5.t13",
+          "mn5:26-27.5.t14",
+          "mn5:26-27.5.t15",
+          "mn5:26-27.5.t16",
+          "mn5:26-27.5.t17",
+          "mn5:26-27.5.t18"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實然而存在這種情況：另一位比丘得到了精美的病緣藥品資具，而那位比丘（自己）並非此精美病緣藥品資具的得者。"
+      }
     },
     {
       "segment_id": "mn5:26-27.6",
@@ -52116,7 +54514,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.6.t0",
+          "mn5:26-27.6.t1",
+          "mn5:26-27.6.t2",
+          "mn5:26-27.6.t3",
+          "mn5:26-27.6.t4",
+          "mn5:26-27.6.t5",
+          "mn5:26-27.6.t6",
+          "mn5:26-27.6.t7",
+          "mn5:26-27.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "「另一位比丘是上等病緣醫藥資具的獲得者，而我不是上等（醫藥資具）的獲得者。」"
+      }
     },
     {
       "segment_id": "mn5:26-27.7",
@@ -52225,7 +54638,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.7.t0",
+          "mn5:26-27.7.t1",
+          "mn5:26-27.7.t2",
+          "mn5:26-27.7.t3",
+          "mn5:26-27.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "如此，他成為憤怒、不滿足的。"
+      }
     },
     {
       "segment_id": "mn5:26-27.8",
@@ -52445,7 +54869,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.8.t0",
+          "mn5:26-27.8.t1",
+          "mn5:26-27.8.t2",
+          "mn5:26-27.8.t3",
+          "mn5:26-27.8.t4",
+          "mn5:26-27.8.t5",
+          "mn5:26-27.8.t6",
+          "mn5:26-27.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實，那憤怒以及那不滿足——"
+      }
     },
     {
       "segment_id": "mn5:26-27.9",
@@ -52505,7 +54943,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:26-27.9.t0",
+          "mn5:26-27.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "這兩者都是污點。"
+      }
     },
     {
       "segment_id": "mn5:28.1",
@@ -52938,7 +55384,23 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:28.1.t0",
+          "mn5:28.1.t1",
+          "mn5:28.1.t2",
+          "mn5:28.1.t3",
+          "mn5:28.1.t4",
+          "mn5:28.1.t5",
+          "mn5:28.1.t6",
+          "mn5:28.1.t7",
+          "mn5:28.1.t8",
+          "mn5:28.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "賢友，這確實是那些惡的、不善的、欲求範圍內者的名稱——即「污點」。"
+      }
     },
     {
       "segment_id": "mn5:29.1",
@@ -54183,7 +56645,49 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.1.t0",
+          "mn5:29.1.t1",
+          "mn5:29.1.t2",
+          "mn5:29.1.t3",
+          "mn5:29.1.t4",
+          "mn5:29.1.t5",
+          "mn5:29.1.t6",
+          "mn5:29.1.t7",
+          "mn5:29.1.t8",
+          "mn5:29.1.t9",
+          "mn5:29.1.t10",
+          "mn5:29.1.t11",
+          "mn5:29.1.t12",
+          "mn5:29.1.t13",
+          "mn5:29.1.t14",
+          "mn5:29.1.t15",
+          "mn5:29.1.t16",
+          "mn5:29.1.t17",
+          "mn5:29.1.t18",
+          "mn5:29.1.t19",
+          "mn5:29.1.t20",
+          "mn5:29.1.t21",
+          "mn5:29.1.t22",
+          "mn5:29.1.t23",
+          "mn5:29.1.t24",
+          "mn5:29.1.t25",
+          "mn5:29.1.t26",
+          "mn5:29.1.t27",
+          "mn5:29.1.t28",
+          "mn5:29.1.t29",
+          "mn5:29.1.t30",
+          "mn5:29.1.t31",
+          "mn5:29.1.t32",
+          "mn5:29.1.t33",
+          "mn5:29.1.t34",
+          "mn5:29.1.t35"
+        ],
+        "review_status": "approved",
+        "content": "賢友，對任何比丘而言，若這些惡的、不善的、欲求範圍內的（欲行）未被捨棄，被給予且被聽到——縱使他是林野住者、住偏遠住所者、乞食行者、逐家乞食者、糞掃衣者、著粗衣者——那麼同梵行者確實不恭敬他、不重視他、不尊重他、不禮敬他。"
+      }
     },
     {
       "segment_id": "mn5:29.2",
@@ -54399,7 +56903,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.2.t0",
+          "mn5:29.2.t1",
+          "mn5:29.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "那是為什麼呢？"
+      }
     },
     {
       "segment_id": "mn5:29.3",
@@ -55018,7 +57531,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.3.t0",
+          "mn5:29.3.t1",
+          "mn5:29.3.t2",
+          "mn5:29.3.t3",
+          "mn5:29.3.t4",
+          "mn5:29.3.t5",
+          "mn5:29.3.t6",
+          "mn5:29.3.t7",
+          "mn5:29.3.t8",
+          "mn5:29.3.t9",
+          "mn5:29.3.t10",
+          "mn5:29.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "因為那位尊者的那些惡的、不善的、欲求範圍內的（欲行）未被捨棄，被給予且被聽到。"
+      }
     },
     {
       "segment_id": "mn5:29.4",
@@ -55503,7 +58034,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.4.t0",
+          "mn5:29.4.t1",
+          "mn5:29.4.t2",
+          "mn5:29.4.t3",
+          "mn5:29.4.t4",
+          "mn5:29.4.t5",
+          "mn5:29.4.t6",
+          "mn5:29.4.t7",
+          "mn5:29.4.t8",
+          "mn5:29.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "賢友，就好比一個從商店或鐵匠家帶來的銅缽，清潔而光亮——"
+      }
     },
     {
       "segment_id": "mn5:29.5",
@@ -55919,7 +58466,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.5.t0",
+          "mn5:29.5.t1",
+          "mn5:29.5.t2",
+          "mn5:29.5.t3",
+          "mn5:29.5.t4",
+          "mn5:29.5.t5",
+          "mn5:29.5.t6",
+          "mn5:29.5.t7",
+          "mn5:29.5.t8",
+          "mn5:29.5.t9",
+          "mn5:29.5.t10",
+          "mn5:29.5.t11",
+          "mn5:29.5.t12",
+          "mn5:29.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "若主人們將蛇屍、或狗屍、或人屍裝入其中，用另一個銅缽蓋上，前往集市——"
+      }
     },
     {
       "segment_id": "mn5:29.6",
@@ -56015,7 +58582,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.6.t0",
+          "mn5:29.6.t1",
+          "mn5:29.6.t2",
+          "mn5:29.6.t3",
+          "mn5:29.6.t4"
+        ],
+        "review_status": "approved",
+        "content": "那人見到他之後，或許會這樣說："
+      }
     },
     {
       "segment_id": "mn5:29.7",
@@ -56146,7 +58724,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.7.t0",
+          "mn5:29.7.t1",
+          "mn5:29.7.t2",
+          "mn5:29.7.t3",
+          "mn5:29.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "「喂！這珍貴之物被帶來帶去的，究竟是什麼啊？」"
+      }
     },
     {
       "segment_id": "mn5:29.8",
@@ -56217,7 +58806,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.8.t0",
+          "mn5:29.8.t1",
+          "mn5:29.8.t2",
+          "mn5:29.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "那人站起來，打開之後，或許會仔細查看。"
+      }
     },
     {
       "segment_id": "mn5:29.9",
@@ -56545,7 +59144,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.9.t0",
+          "mn5:29.9.t1",
+          "mn5:29.9.t2",
+          "mn5:29.9.t3",
+          "mn5:29.9.t4",
+          "mn5:29.9.t5",
+          "mn5:29.9.t6",
+          "mn5:29.9.t7",
+          "mn5:29.9.t8",
+          "mn5:29.9.t9",
+          "mn5:29.9.t10"
+        ],
+        "review_status": "approved",
+        "content": "他一見到，不悅、嫌惡、厭惡，或許都會在他心中生起。"
+      }
     },
     {
       "segment_id": "mn5:29.10",
@@ -56813,7 +59429,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.10.t0",
+          "mn5:29.10.t1",
+          "mn5:29.10.t2",
+          "mn5:29.10.t3",
+          "mn5:29.10.t4",
+          "mn5:29.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "即使是飢餓者，也不會有食欲，更何況是飽足者。"
+      }
     },
     {
       "segment_id": "mn5:29.11",
@@ -58103,7 +60731,51 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.11.t0",
+          "mn5:29.11.t1",
+          "mn5:29.11.t2",
+          "mn5:29.11.t3",
+          "mn5:29.11.t4",
+          "mn5:29.11.t5",
+          "mn5:29.11.t6",
+          "mn5:29.11.t7",
+          "mn5:29.11.t8",
+          "mn5:29.11.t9",
+          "mn5:29.11.t10",
+          "mn5:29.11.t11",
+          "mn5:29.11.t12",
+          "mn5:29.11.t13",
+          "mn5:29.11.t14",
+          "mn5:29.11.t15",
+          "mn5:29.11.t16",
+          "mn5:29.11.t17",
+          "mn5:29.11.t18",
+          "mn5:29.11.t19",
+          "mn5:29.11.t20",
+          "mn5:29.11.t21",
+          "mn5:29.11.t22",
+          "mn5:29.11.t23",
+          "mn5:29.11.t24",
+          "mn5:29.11.t25",
+          "mn5:29.11.t26",
+          "mn5:29.11.t27",
+          "mn5:29.11.t28",
+          "mn5:29.11.t29",
+          "mn5:29.11.t30",
+          "mn5:29.11.t31",
+          "mn5:29.11.t32",
+          "mn5:29.11.t33",
+          "mn5:29.11.t34",
+          "mn5:29.11.t35",
+          "mn5:29.11.t36",
+          "mn5:29.11.t37"
+        ],
+        "review_status": "approved",
+        "content": "就這樣，諸賢，對任何比丘，若這些惡劣的、不善的欲行尚未斷除，（在他身上）顯現且被聽聞——縱使他是林野比丘、住偏遠處者、乞食者、次第乞食者、著糞掃衣者、著粗糙衣者——同梵行者確實也不恭敬、不重視、不尊重、不禮敬他。"
+      }
     },
     {
       "segment_id": "mn5:29.12",
@@ -58319,7 +60991,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.12.t0",
+          "mn5:29.12.t1",
+          "mn5:29.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "那是什麼緣故呢？"
+      }
     },
     {
       "segment_id": "mn5:29.13",
@@ -58938,7 +61619,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:29.13.t0",
+          "mn5:29.13.t1",
+          "mn5:29.13.t2",
+          "mn5:29.13.t3",
+          "mn5:29.13.t4",
+          "mn5:29.13.t5",
+          "mn5:29.13.t6",
+          "mn5:29.13.t7",
+          "mn5:29.13.t8",
+          "mn5:29.13.t9",
+          "mn5:29.13.t10",
+          "mn5:29.13.t11"
+        ],
+        "review_status": "approved",
+        "content": "因為那尊者的這些惡劣的、不善的欲行尚未斷除，（在他身上）顯現且被聽聞。"
+      }
     },
     {
       "segment_id": "mn5:30.1",
@@ -59986,7 +62685,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.1.t0",
+          "mn5:30.1.t1",
+          "mn5:30.1.t2",
+          "mn5:30.1.t3",
+          "mn5:30.1.t4",
+          "mn5:30.1.t5",
+          "mn5:30.1.t6",
+          "mn5:30.1.t7",
+          "mn5:30.1.t8",
+          "mn5:30.1.t9",
+          "mn5:30.1.t10",
+          "mn5:30.1.t11",
+          "mn5:30.1.t12",
+          "mn5:30.1.t13",
+          "mn5:30.1.t14",
+          "mn5:30.1.t15",
+          "mn5:30.1.t16",
+          "mn5:30.1.t17",
+          "mn5:30.1.t18",
+          "mn5:30.1.t19",
+          "mn5:30.1.t20",
+          "mn5:30.1.t21",
+          "mn5:30.1.t22",
+          "mn5:30.1.t23",
+          "mn5:30.1.t24",
+          "mn5:30.1.t25",
+          "mn5:30.1.t26",
+          "mn5:30.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "諸賢，對任何比丘，若這些惡劣的、不善的欲行已被斷除，（在他身上）顯現且被聽聞——縱使他是近村住者、接受請邀者、著居士所贈衣者——同梵行者確實也恭敬、重視、尊重、禮敬他。"
+      }
     },
     {
       "segment_id": "mn5:30.2",
@@ -60202,7 +62935,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.2.t0",
+          "mn5:30.2.t1",
+          "mn5:30.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "那是什麼緣故呢？"
+      }
     },
     {
       "segment_id": "mn5:30.3",
@@ -60821,7 +63563,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.3.t0",
+          "mn5:30.3.t1",
+          "mn5:30.3.t2",
+          "mn5:30.3.t3",
+          "mn5:30.3.t4",
+          "mn5:30.3.t5",
+          "mn5:30.3.t6",
+          "mn5:30.3.t7",
+          "mn5:30.3.t8",
+          "mn5:30.3.t9",
+          "mn5:30.3.t10",
+          "mn5:30.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "確實，那位尊者那些惡的、不善的欲行之法，（已被）捨棄，（亦）被見，（亦）被聽聞。"
+      }
     },
     {
       "segment_id": "mn5:30.4",
@@ -61306,7 +64066,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.4.t0",
+          "mn5:30.4.t1",
+          "mn5:30.4.t2",
+          "mn5:30.4.t3",
+          "mn5:30.4.t4",
+          "mn5:30.4.t5",
+          "mn5:30.4.t6",
+          "mn5:30.4.t7",
+          "mn5:30.4.t8",
+          "mn5:30.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "道友，就如有一個銅缽，從商店或鍛造坊帶來，清淨、光亮；"
+      }
     },
     {
       "segment_id": "mn5:30.5",
@@ -61781,7 +64557,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.5.t0",
+          "mn5:30.5.t1",
+          "mn5:30.5.t2",
+          "mn5:30.5.t3",
+          "mn5:30.5.t4",
+          "mn5:30.5.t5",
+          "mn5:30.5.t6",
+          "mn5:30.5.t7",
+          "mn5:30.5.t8",
+          "mn5:30.5.t9",
+          "mn5:30.5.t10",
+          "mn5:30.5.t11",
+          "mn5:30.5.t12"
+        ],
+        "review_status": "approved",
+        "content": "主人們將那個（銅缽）裝盛揀去黑粒的精米飯，附以多種湯羹與菜餚，用另一個銅缽覆蓋，帶往市場。"
+      }
     },
     {
       "segment_id": "mn5:30.6",
@@ -61877,7 +64672,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.6.t0",
+          "mn5:30.6.t1",
+          "mn5:30.6.t2",
+          "mn5:30.6.t3",
+          "mn5:30.6.t4"
+        ],
+        "review_status": "approved",
+        "content": "某人見到那個，可能如此說道："
+      }
     },
     {
       "segment_id": "mn5:30.7",
@@ -62008,7 +64814,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.7.t0",
+          "mn5:30.7.t1",
+          "mn5:30.7.t2",
+          "mn5:30.7.t3",
+          "mn5:30.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "「喂！這是什麼珍貴的東西在被帶著走？」"
+      }
     },
     {
       "segment_id": "mn5:30.8",
@@ -62079,7 +64896,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.8.t0",
+          "mn5:30.8.t1",
+          "mn5:30.8.t2",
+          "mn5:30.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "（那人）起身後，打開（蓋子），查看那個（銅缽）。"
+      }
     },
     {
       "segment_id": "mn5:30.9",
@@ -62496,7 +65323,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.9.t0",
+          "mn5:30.9.t1",
+          "mn5:30.9.t2",
+          "mn5:30.9.t3",
+          "mn5:30.9.t4",
+          "mn5:30.9.t5",
+          "mn5:30.9.t6",
+          "mn5:30.9.t7",
+          "mn5:30.9.t8",
+          "mn5:30.9.t9",
+          "mn5:30.9.t10",
+          "mn5:30.9.t11"
+        ],
+        "review_status": "approved",
+        "content": "那人一見到（那些食物），悅意、吸引力、令人嚮往性，（皆）會生起。"
+      }
     },
     {
       "segment_id": "mn5:30.10",
@@ -62748,7 +65593,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.10.t0",
+          "mn5:30.10.t1",
+          "mn5:30.10.t2",
+          "mn5:30.10.t3",
+          "mn5:30.10.t4"
+        ],
+        "review_status": "approved",
+        "content": "即使已飽足者也會有想吃的欲望，更何況是饑餓者。"
+      }
     },
     {
       "segment_id": "mn5:30.11",
@@ -63841,7 +66697,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.11.t0",
+          "mn5:30.11.t1",
+          "mn5:30.11.t2",
+          "mn5:30.11.t3",
+          "mn5:30.11.t4",
+          "mn5:30.11.t5",
+          "mn5:30.11.t6",
+          "mn5:30.11.t7",
+          "mn5:30.11.t8",
+          "mn5:30.11.t9",
+          "mn5:30.11.t10",
+          "mn5:30.11.t11",
+          "mn5:30.11.t12",
+          "mn5:30.11.t13",
+          "mn5:30.11.t14",
+          "mn5:30.11.t15",
+          "mn5:30.11.t16",
+          "mn5:30.11.t17",
+          "mn5:30.11.t18",
+          "mn5:30.11.t19",
+          "mn5:30.11.t20",
+          "mn5:30.11.t21",
+          "mn5:30.11.t22",
+          "mn5:30.11.t23",
+          "mn5:30.11.t24",
+          "mn5:30.11.t25",
+          "mn5:30.11.t26",
+          "mn5:30.11.t27",
+          "mn5:30.11.t28",
+          "mn5:30.11.t29"
+        ],
+        "review_status": "approved",
+        "content": "道友，確實，同樣地，任何比丘，若其惡的、不善的欲行之法（已被）捨棄，（亦）被見，（亦）被聽聞——即使那人住於村落附近、接受邀請、穿著居士所供衣——同梵行者們也（仍）尊敬他、以他為重、敬重他、禮敬他。"
+      }
     },
     {
       "segment_id": "mn5:30.12",
@@ -64057,7 +66949,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.12.t0",
+          "mn5:30.12.t1",
+          "mn5:30.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "那是什麼緣故？"
+      }
     },
     {
       "segment_id": "mn5:30.13",
@@ -64738,7 +67639,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:30.13.t0",
+          "mn5:30.13.t1",
+          "mn5:30.13.t2",
+          "mn5:30.13.t3",
+          "mn5:30.13.t4",
+          "mn5:30.13.t5",
+          "mn5:30.13.t6",
+          "mn5:30.13.t7",
+          "mn5:30.13.t8",
+          "mn5:30.13.t9",
+          "mn5:30.13.t10",
+          "mn5:30.13.t11",
+          "mn5:30.13.t12"
+        ],
+        "review_status": "approved",
+        "content": "那些惡劣的、不善的、欲求範圍內的（諸法），在他尊者身上已被捨斷，（可）見（亦可）聞。"
+      }
     },
     {
       "segment_id": "mn5:31.1",
@@ -64987,7 +67907,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.1.t0",
+          "mn5:31.1.t1",
+          "mn5:31.1.t2",
+          "mn5:31.1.t3",
+          "mn5:31.1.t4",
+          "mn5:31.1.t5",
+          "mn5:31.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說完後，尊者大目犍連對尊者舍利弗說了這話："
+      }
     },
     {
       "segment_id": "mn5:31.2",
@@ -65185,7 +68118,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.2.t0",
+          "mn5:31.2.t1",
+          "mn5:31.2.t2",
+          "mn5:31.2.t3",
+          "mn5:31.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "「友舍利弗，請為我舉個比喻！」"
+      }
     },
     {
       "segment_id": "mn5:31.3",
@@ -65386,7 +68330,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.3.t0",
+          "mn5:31.3.t1",
+          "mn5:31.3.t2",
+          "mn5:31.3.t3",
+          "mn5:31.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "「友目犍連，請讓（比喻）浮現於你心中！」"
+      }
     },
     {
       "segment_id": "mn5:31.4",
@@ -65555,7 +68510,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.4.t0",
+          "mn5:31.4.t1",
+          "mn5:31.4.t2",
+          "mn5:31.4.t3",
+          "mn5:31.4.t4",
+          "mn5:31.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "「友！有一次，我住在王舍城的山岩（Giribbaja）。」"
+      }
     },
     {
       "segment_id": "mn5:31.5",
@@ -65726,7 +68693,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.5.t0",
+          "mn5:31.5.t1",
+          "mn5:31.5.t2",
+          "mn5:31.5.t3",
+          "mn5:31.5.t4",
+          "mn5:31.5.t5",
+          "mn5:31.5.t6",
+          "mn5:31.5.t7",
+          "mn5:31.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "於是，友，我在清晨時分著衣，取缽持衣，進入王舍城乞食。"
+      }
     },
     {
       "segment_id": "mn5:31.6",
@@ -65961,7 +68943,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.6.t0",
+          "mn5:31.6.t1",
+          "mn5:31.6.t2",
+          "mn5:31.6.t3",
+          "mn5:31.6.t4",
+          "mn5:31.6.t5",
+          "mn5:31.6.t6",
+          "mn5:31.6.t7",
+          "mn5:31.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "就在那時，薩彌提車匠之子正在削製車輪的輪緣。"
+      }
     },
     {
       "segment_id": "mn5:31.7",
@@ -66062,7 +69059,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.7.t0",
+          "mn5:31.7.t1",
+          "mn5:31.7.t2",
+          "mn5:31.7.t3",
+          "mn5:31.7.t4",
+          "mn5:31.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "班杜之子——阿耆毘伽行者、前任車匠之子——正守候在那位（薩彌提之子）旁邊。"
+      }
     },
     {
       "segment_id": "mn5:31.8",
@@ -66277,7 +69286,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.8.t0",
+          "mn5:31.8.t1",
+          "mn5:31.8.t2",
+          "mn5:31.8.t3",
+          "mn5:31.8.t4",
+          "mn5:31.8.t5",
+          "mn5:31.8.t6",
+          "mn5:31.8.t7",
+          "mn5:31.8.t8",
+          "mn5:31.8.t9"
+        ],
+        "review_status": "approved",
+        "content": "友！於是，班杜之子——阿耆毘伽行者、前任車匠之子——心中生起了如此的思惟："
+      }
     },
     {
       "segment_id": "mn5:31.9",
@@ -67396,7 +70421,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:31.9.t0",
+          "mn5:31.9.t1",
+          "mn5:31.9.t2",
+          "mn5:31.9.t3",
+          "mn5:31.9.t4",
+          "mn5:31.9.t5",
+          "mn5:31.9.t6",
+          "mn5:31.9.t7",
+          "mn5:31.9.t8",
+          "mn5:31.9.t9",
+          "mn5:31.9.t10",
+          "mn5:31.9.t11",
+          "mn5:31.9.t12",
+          "mn5:31.9.t13",
+          "mn5:31.9.t14",
+          "mn5:31.9.t15",
+          "mn5:31.9.t16",
+          "mn5:31.9.t17",
+          "mn5:31.9.t18",
+          "mn5:31.9.t19",
+          "mn5:31.9.t20",
+          "mn5:31.9.t21",
+          "mn5:31.9.t22"
+        ],
+        "review_status": "approved",
+        "content": "啊！若薩彌提車匠之子能從這輪緣上削去彎曲之處、歪斜之處以及缺陷，那麼這輪緣便無彎曲、無歪斜、無瑕疵、清淨，穩固地建立在核心木料之上！"
+      }
     },
     {
       "segment_id": "mn5:31.10",
@@ -80187,7 +83241,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn5:33.5.t0",
+          "mn5:33.5.t1",
+          "mn5:33.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "《無垢經》第五竟。"
+      }
     }
   ],
   "passages": [
@@ -80403,8 +83466,156 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-4-6",
+    "grounded_on": [
+      "mn5:1.2",
+      "mn5:1.3",
+      "mn5:2.1",
+      "mn5:2.2",
+      "mn5:2.3",
+      "mn5:2.4",
+      "mn5:2.5",
+      "mn5:2.6",
+      "mn5:2.7",
+      "mn5:2.8",
+      "mn5:2.9",
+      "mn5:2.10",
+      "mn5:3.2",
+      "mn5:4.1",
+      "mn5:4.3",
+      "mn5:4.4",
+      "mn5:4.5",
+      "mn5:4.7",
+      "mn5:4.8",
+      "mn5:5.1",
+      "mn5:5.2",
+      "mn5:5.3",
+      "mn5:5.4",
+      "mn5:5.5",
+      "mn5:5.7",
+      "mn5:5.8",
+      "mn5:6.1",
+      "mn5:6.2",
+      "mn5:6.3",
+      "mn5:6.4",
+      "mn5:6.5",
+      "mn5:6.7",
+      "mn5:6.8",
+      "mn5:7.1",
+      "mn5:7.2",
+      "mn5:7.3",
+      "mn5:7.4",
+      "mn5:7.5",
+      "mn5:7.7",
+      "mn5:7.8",
+      "mn5:8.1",
+      "mn5:8.2",
+      "mn5:9.3",
+      "mn5:10.1",
+      "mn5:10.7",
+      "mn5:10.8",
+      "mn5:11.1",
+      "mn5:11.6",
+      "mn5:11.7",
+      "mn5:12.1",
+      "mn5:12.6",
+      "mn5:12.7",
+      "mn5:13.1",
+      "mn5:13.6",
+      "mn5:13.7",
+      "mn5:14.1",
+      "mn5:14.6",
+      "mn5:14.7",
+      "mn5:15.1",
+      "mn5:15.6",
+      "mn5:15.7",
+      "mn5:16.1",
+      "mn5:16.6",
+      "mn5:16.7",
+      "mn5:17.1",
+      "mn5:17.6",
+      "mn5:17.7",
+      "mn5:18-20.1",
+      "mn5:18-20.8",
+      "mn5:18-20.9",
+      "mn5:21.1",
+      "mn5:21.6",
+      "mn5:21.7",
+      "mn5:22-24.1",
+      "mn5:22-24.8",
+      "mn5:22-24.9",
+      "mn5:25.1",
+      "mn5:25.6",
+      "mn5:25.7",
+      "mn5:26-27.1",
+      "mn5:26-27.8",
+      "mn5:26-27.9",
+      "mn5:28.1",
+      "mn5:29.1",
+      "mn5:29.11",
+      "mn5:30.1",
+      "mn5:30.11",
+      "mn5:31.1",
+      "mn5:31.4",
+      "mn5:31.6",
+      "mn5:31.8",
+      "mn5:31.9",
+      "mn5:32.1",
+      "mn5:32.2",
+      "mn5:32.3",
+      "mn5:33.4"
+    ],
+    "review_status": "approved",
+    "content": "本經由尊者舍利弗在祇陀林向諸比丘宣說「垢」（惡不善欲行）的義理。全文分三層：首以四類人立綱——有垢與無垢者各分「如實了知」與「不了知」兩種——揭示自知其垢是能否生起欲求、精勤斷除的關鍵，並以銅缽四喻闡明。次列比丘在犯戒受責、乞食說法、受禮敬供養等場合所生的自私欲求皆屬垢染，忿怒與不滿亦然；有垢未斷者縱行苦行亦不受梵行者敬重，已斷者雖住村近亦受禮敬。末由大目揵連以王舍城車匠削輪之喻，讚嘆舍利弗此法能應機去惡立善，二大德互相隨喜。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "結構 — 四人分類框架：有垢/無垢 × 如實自知/不知",
+      "sources": [
+        "mn5:2.3",
+        "mn5:2.4",
+        "mn5:2.5",
+        "mn5:2.6",
+        "mn5:2.7",
+        "mn5:2.8",
+        "mn5:2.9",
+        "mn5:2.10"
+      ],
+      "content": "以「有垢/無垢」與「如實自知/不知」交叉，分出四類人：有垢自知者勝於有垢不知者；無垢自知者亦勝於無垢不知者。如實自知內在狀態，乃修行優劣的關鍵。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "字詞 — aṅgaṇa（垢）的定義與「忿怒本身即是垢」的反覆句式",
+      "sources": [
+        "mn5:9.1",
+        "mn5:9.3",
+        "mn5:10.7",
+        "mn5:10.8"
+      ],
+      "content": "「垢」（aṅgaṇa）被定義為惡的、不善的欲求範疇之事。本經反覆以「此二者皆是污點」收尾：比丘因欲求不遂而生忿怒（kopa）、不滿，忿怒本身即成垢染。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "比喻 — 銅缽喻：自知有垢方能激發淨化",
+      "sources": [
+        "mn5:4.3",
+        "mn5:4.4",
+        "mn5:4.5",
+        "mn5:5.3",
+        "mn5:5.4",
+        "mn5:5.5"
+      ],
+      "content": "以銅缽為喻：有垢不知者如缽棄於塵土愈染愈深；有垢自知者如缽受主擦拭終得清淨。自知垢染能激發捨斷意欲，不知則帶著貪瞋癡命終。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

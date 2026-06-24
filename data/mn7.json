@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.1.t0",
+          "mn7:1.1.t1",
+          "mn7:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn7:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.2.t0",
+          "mn7:1.2.t1",
+          "mn7:1.2.t2",
+          "mn7:1.2.t3",
+          "mn7:1.2.t4",
+          "mn7:1.2.t5",
+          "mn7:1.2.t6",
+          "mn7:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住於舍衛城祇陀林給孤獨園中。"
+      }
     },
     {
       "segment_id": "mn7:1.3",
@@ -680,7 +703,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.3.t0",
+          "mn7:1.3.t1",
+          "mn7:1.3.t2",
+          "mn7:1.3.t3",
+          "mn7:1.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "彼時，世尊確實呼喚了諸比丘。"
+      }
     },
     {
       "segment_id": "mn7:1.4",
@@ -745,7 +779,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.4.t0",
+          "mn7:1.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘！」"
+      }
     },
     {
       "segment_id": "mn7:1.5",
@@ -1035,7 +1077,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.5.t0",
+          "mn7:1.5.t1",
+          "mn7:1.5.t2",
+          "mn7:1.5.t3",
+          "mn7:1.5.t4",
+          "mn7:1.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「尊者！」那些比丘們向世尊回應道。"
+      }
     },
     {
       "segment_id": "mn7:1.6",
@@ -1117,7 +1171,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:1.6.t0",
+          "mn7:1.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這些話。"
+      }
     },
     {
       "segment_id": "mn7:2.1",
@@ -1315,7 +1377,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.1.t0",
+          "mn7:2.1.t1",
+          "mn7:2.1.t2",
+          "mn7:2.1.t3",
+          "mn7:2.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，譬如一塊布，污穢、被污垢所染——"
+      }
     },
     {
       "segment_id": "mn7:2.2",
@@ -1829,7 +1902,27 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.2.t0",
+          "mn7:2.2.t1",
+          "mn7:2.2.t2",
+          "mn7:2.2.t3",
+          "mn7:2.2.t4",
+          "mn7:2.2.t5",
+          "mn7:2.2.t6",
+          "mn7:2.2.t7",
+          "mn7:2.2.t8",
+          "mn7:2.2.t9",
+          "mn7:2.2.t10",
+          "mn7:2.2.t11",
+          "mn7:2.2.t12",
+          "mn7:2.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "染師將那布施於任何染料中——無論藍色、黃色、紅色，還是茜紅色——"
+      }
     },
     {
       "segment_id": "mn7:2.3",
@@ -2045,7 +2138,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.3.t0",
+          "mn7:2.3.t1",
+          "mn7:2.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "此為何故？"
+      }
     },
     {
       "segment_id": "mn7:2.4",
@@ -2179,7 +2281,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.4.t0",
+          "mn7:2.4.t1",
+          "mn7:2.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，因為布不淨之故。"
+      }
     },
     {
       "segment_id": "mn7:2.5",
@@ -2462,7 +2573,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.5.t0",
+          "mn7:2.5.t1",
+          "mn7:2.5.t2",
+          "mn7:2.5.t3",
+          "mn7:2.5.t4",
+          "mn7:2.5.t5",
+          "mn7:2.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，確實，諸比丘，心被污染時，應當預期惡趣。"
+      }
     },
     {
       "segment_id": "mn7:2.6",
@@ -2660,7 +2784,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.6.t0",
+          "mn7:2.6.t1",
+          "mn7:2.6.t2",
+          "mn7:2.6.t3",
+          "mn7:2.6.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就如同一塊清淨光潔的布，"
+      }
     },
     {
       "segment_id": "mn7:2.7",
@@ -3174,7 +3309,27 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.7.t0",
+          "mn7:2.7.t1",
+          "mn7:2.7.t2",
+          "mn7:2.7.t3",
+          "mn7:2.7.t4",
+          "mn7:2.7.t5",
+          "mn7:2.7.t6",
+          "mn7:2.7.t7",
+          "mn7:2.7.t8",
+          "mn7:2.7.t9",
+          "mn7:2.7.t10",
+          "mn7:2.7.t11",
+          "mn7:2.7.t12",
+          "mn7:2.7.t13"
+        ],
+        "review_status": "approved",
+        "content": "畫師若將那塊布施以各色染料——藍色、黃色、紅色或絳紅色——"
+      }
     },
     {
       "segment_id": "mn7:2.8",
@@ -3390,7 +3545,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.8.t0",
+          "mn7:2.8.t1",
+          "mn7:2.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "這是為什麼？"
+      }
     },
     {
       "segment_id": "mn7:2.9",
@@ -3524,7 +3688,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.9.t0",
+          "mn7:2.9.t1",
+          "mn7:2.9.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，因為那布是清淨的。"
+      }
     },
     {
       "segment_id": "mn7:2.10",
@@ -3834,7 +4007,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:2.10.t0",
+          "mn7:2.10.t1",
+          "mn7:2.10.t2",
+          "mn7:2.10.t3",
+          "mn7:2.10.t4",
+          "mn7:2.10.t5",
+          "mn7:2.10.t6"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，確實，諸比丘，心未被污染時，應當預期善趣。"
+      }
     },
     {
       "segment_id": "mn7:3.1",
@@ -4053,7 +4239,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:3.1.t0",
+          "mn7:3.1.t1",
+          "mn7:3.1.t2",
+          "mn7:3.1.t3",
+          "mn7:3.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "而哪些，諸比丘，是心的雜染？"
+      }
     },
     {
       "segment_id": "mn7:3.2",
@@ -5837,7 +6034,61 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:3.2.t0",
+          "mn7:3.2.t1",
+          "mn7:3.2.t2",
+          "mn7:3.2.t3",
+          "mn7:3.2.t4",
+          "mn7:3.2.t5",
+          "mn7:3.2.t6",
+          "mn7:3.2.t7",
+          "mn7:3.2.t8",
+          "mn7:3.2.t9",
+          "mn7:3.2.t10",
+          "mn7:3.2.t11",
+          "mn7:3.2.t12",
+          "mn7:3.2.t13",
+          "mn7:3.2.t14",
+          "mn7:3.2.t15",
+          "mn7:3.2.t16",
+          "mn7:3.2.t17",
+          "mn7:3.2.t18",
+          "mn7:3.2.t19",
+          "mn7:3.2.t20",
+          "mn7:3.2.t21",
+          "mn7:3.2.t22",
+          "mn7:3.2.t23",
+          "mn7:3.2.t24",
+          "mn7:3.2.t25",
+          "mn7:3.2.t26",
+          "mn7:3.2.t27",
+          "mn7:3.2.t28",
+          "mn7:3.2.t29",
+          "mn7:3.2.t30",
+          "mn7:3.2.t31",
+          "mn7:3.2.t32",
+          "mn7:3.2.t33",
+          "mn7:3.2.t34",
+          "mn7:3.2.t35",
+          "mn7:3.2.t36",
+          "mn7:3.2.t37",
+          "mn7:3.2.t38",
+          "mn7:3.2.t39",
+          "mn7:3.2.t40",
+          "mn7:3.2.t41",
+          "mn7:3.2.t42",
+          "mn7:3.2.t43",
+          "mn7:3.2.t44",
+          "mn7:3.2.t45",
+          "mn7:3.2.t46",
+          "mn7:3.2.t47"
+        ],
+        "review_status": "approved",
+        "content": "貪欲及不當的貪婪是心的雜染；瞋恚是心的雜染；忿怒是心的雜染；記恨是心的雜染；覆藏是心的雜染；競爭是心的雜染；嫉妒是心的雜染；慳吝是心的雜染；虛誑是心的雜染；詐欺是心的雜染；固執是心的雜染；忿激是心的雜染；慢是心的雜染；過慢是心的雜染；耽溺放逸是心的雜染；放逸懈怠是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:4.1",
@@ -6291,7 +6542,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.1.t0",
+          "mn7:4.1.t1",
+          "mn7:4.1.t2",
+          "mn7:4.1.t3",
+          "mn7:4.1.t4",
+          "mn7:4.1.t5",
+          "mn7:4.1.t6",
+          "mn7:4.1.t7",
+          "mn7:4.1.t8",
+          "mn7:4.1.t9",
+          "mn7:4.1.t10",
+          "mn7:4.1.t11",
+          "mn7:4.1.t12",
+          "mn7:4.1.t13",
+          "mn7:4.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，確實，那位比丘了知「貪欲及不當的貪婪是心的雜染」，從而捨棄那心的雜染——貪欲及不當的貪婪。"
+      }
     },
     {
       "segment_id": "mn7:4.2",
@@ -6422,7 +6694,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.2.t0",
+          "mn7:4.2.t1",
+          "mn7:4.2.t2",
+          "mn7:4.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "（如是了知）瞋恚是心的雜染，"
+      }
     },
     {
       "segment_id": "mn7:4.3",
@@ -10008,7 +10290,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.23.t0",
+          "mn7:4.23.t1",
+          "mn7:4.23.t2",
+          "mn7:4.23.t3",
+          "mn7:4.23.t4",
+          "mn7:4.23.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知憤激是心的隨煩惱，便捨斷它。"
+      }
     },
     {
       "segment_id": "mn7:4.24",
@@ -10149,7 +10443,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.24.t0",
+          "mn7:4.24.t1",
+          "mn7:4.24.t2",
+          "mn7:4.24.t3"
+        ],
+        "review_status": "approved",
+        "content": "「慢是心的隨煩惱」。"
+      }
     },
     {
       "segment_id": "mn7:4.25",
@@ -10383,7 +10687,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.25.t0",
+          "mn7:4.25.t1",
+          "mn7:4.25.t2",
+          "mn7:4.25.t3",
+          "mn7:4.25.t4",
+          "mn7:4.25.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知（mānaṁ，t2 資料不足）是心的隨煩惱，便捨斷它。"
+      }
     },
     {
       "segment_id": "mn7:4.26",
@@ -10514,7 +10830,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.26.t0",
+          "mn7:4.26.t1",
+          "mn7:4.26.t2",
+          "mn7:4.26.t3"
+        ],
+        "review_status": "approved",
+        "content": "「過慢是心的隨煩惱」。"
+      }
     },
     {
       "segment_id": "mn7:4.27",
@@ -10693,7 +11019,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.27.t0",
+          "mn7:4.27.t1",
+          "mn7:4.27.t2",
+          "mn7:4.27.t3",
+          "mn7:4.27.t4",
+          "mn7:4.27.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知過慢是心的隨煩惱，便捨斷它。"
+      }
     },
     {
       "segment_id": "mn7:4.28",
@@ -10824,7 +11162,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.28.t0",
+          "mn7:4.28.t1",
+          "mn7:4.28.t2",
+          "mn7:4.28.t3"
+        ],
+        "review_status": "approved",
+        "content": "「縱情逸樂是心的隨煩惱」。"
+      }
     },
     {
       "segment_id": "mn7:4.29",
@@ -11003,7 +11351,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.29.t0",
+          "mn7:4.29.t1",
+          "mn7:4.29.t2",
+          "mn7:4.29.t3",
+          "mn7:4.29.t4",
+          "mn7:4.29.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知縱情逸樂是心的隨煩惱，便捨斷它。"
+      }
     },
     {
       "segment_id": "mn7:4.30",
@@ -11144,7 +11504,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.30.t0",
+          "mn7:4.30.t1",
+          "mn7:4.30.t2",
+          "mn7:4.30.t3"
+        ],
+        "review_status": "approved",
+        "content": "「放逸是心的隨煩惱」。"
+      }
     },
     {
       "segment_id": "mn7:4.31",
@@ -11333,7 +11703,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.31.t0",
+          "mn7:4.31.t1",
+          "mn7:4.31.t2",
+          "mn7:4.31.t3",
+          "mn7:4.31.t4",
+          "mn7:4.31.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知放逸是心的隨煩惱，便捨斷它。"
+      }
     },
     {
       "segment_id": "mn7:5.1",
@@ -11880,7 +12262,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.2.t0",
+          "mn7:5.2.t1",
+          "mn7:5.2.t2",
+          "mn7:5.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "「瞋恚是心的垢染。」"
+      }
     },
     {
       "segment_id": "mn7:5.3",
@@ -12046,7 +12438,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.3.t0",
+          "mn7:5.3.t1",
+          "mn7:5.3.t2",
+          "mn7:5.3.t3",
+          "mn7:5.3.t4",
+          "mn7:5.3.t5",
+          "mn7:5.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知「瞋恚是心的垢染」，此垢染即被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.4",
@@ -12177,7 +12582,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.4.t0",
+          "mn7:5.4.t1",
+          "mn7:5.4.t2",
+          "mn7:5.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "「忿怒是心的垢染。」"
+      }
     },
     {
       "segment_id": "mn7:5.5",
@@ -12343,7 +12758,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.5.t0",
+          "mn7:5.5.t1",
+          "mn7:5.5.t2",
+          "mn7:5.5.t3",
+          "mn7:5.5.t4",
+          "mn7:5.5.t5",
+          "mn7:5.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知「忿怒是心的垢染」，此垢染即被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.6",
@@ -12474,7 +12902,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.6.t0",
+          "mn7:5.6.t1",
+          "mn7:5.6.t2",
+          "mn7:5.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "「懷恨是心的垢染。」"
+      }
     },
     {
       "segment_id": "mn7:5.7",
@@ -12640,7 +13078,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.7.t0",
+          "mn7:5.7.t1",
+          "mn7:5.7.t2",
+          "mn7:5.7.t3",
+          "mn7:5.7.t4",
+          "mn7:5.7.t5",
+          "mn7:5.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知「懷恨是心的垢染」，此垢染即被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.8",
@@ -12771,7 +13222,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.8.t0",
+          "mn7:5.8.t1",
+          "mn7:5.8.t2",
+          "mn7:5.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "「詆毀是心的垢染。」"
+      }
     },
     {
       "segment_id": "mn7:5.9",
@@ -12937,7 +13398,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.9.t0",
+          "mn7:5.9.t1",
+          "mn7:5.9.t2",
+          "mn7:5.9.t3",
+          "mn7:5.9.t4",
+          "mn7:5.9.t5",
+          "mn7:5.9.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知「詆毀是心的垢染」，此垢染即被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.10",
@@ -13068,7 +13542,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.10.t0",
+          "mn7:5.10.t1",
+          "mn7:5.10.t2",
+          "mn7:5.10.t3"
+        ],
+        "review_status": "approved",
+        "content": "「競爭（爭強）是心的垢染。」"
+      }
     },
     {
       "segment_id": "mn7:5.11",
@@ -13234,7 +13718,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.11.t0",
+          "mn7:5.11.t1",
+          "mn7:5.11.t2",
+          "mn7:5.11.t3",
+          "mn7:5.11.t4",
+          "mn7:5.11.t5",
+          "mn7:5.11.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知「競爭是心的垢染」，此垢染即被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.12",
@@ -13420,7 +13917,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.12.t0",
+          "mn7:5.12.t1",
+          "mn7:5.12.t2",
+          "mn7:5.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "「〔issā（資料不足：lemma issa，詞義欄未提供）〕是心的染污。」"
+      }
     },
     {
       "segment_id": "mn7:5.13",
@@ -13641,7 +14148,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.13.t0",
+          "mn7:5.13.t1",
+          "mn7:5.13.t2",
+          "mn7:5.13.t3",
+          "mn7:5.13.t4",
+          "mn7:5.13.t5",
+          "mn7:5.13.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知，〔issā（資料不足）〕這一心的染污即得捨棄。"
+      }
     },
     {
       "segment_id": "mn7:5.14",
@@ -13791,7 +14311,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.14.t0",
+          "mn7:5.14.t1",
+          "mn7:5.14.t2",
+          "mn7:5.14.t3"
+        ],
+        "review_status": "approved",
+        "content": "「慳貪是心的染污。」"
+      }
     },
     {
       "segment_id": "mn7:5.15",
@@ -13976,7 +14506,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.15.t0",
+          "mn7:5.15.t1",
+          "mn7:5.15.t2",
+          "mn7:5.15.t3",
+          "mn7:5.15.t4",
+          "mn7:5.15.t5",
+          "mn7:5.15.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知，慳貪這一心的染污即得捨棄。"
+      }
     },
     {
       "segment_id": "mn7:5.16",
@@ -14162,7 +14705,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.16.t0",
+          "mn7:5.16.t1",
+          "mn7:5.16.t2",
+          "mn7:5.16.t3"
+        ],
+        "review_status": "approved",
+        "content": "「詭詐是心的染污。」"
+      }
     },
     {
       "segment_id": "mn7:5.17",
@@ -14383,7 +14936,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.17.t0",
+          "mn7:5.17.t1",
+          "mn7:5.17.t2",
+          "mn7:5.17.t3",
+          "mn7:5.17.t4",
+          "mn7:5.17.t5",
+          "mn7:5.17.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知，詭詐這一心的染污即得捨棄。"
+      }
     },
     {
       "segment_id": "mn7:5.18",
@@ -14533,7 +15099,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.18.t0",
+          "mn7:5.18.t1",
+          "mn7:5.18.t2",
+          "mn7:5.18.t3"
+        ],
+        "review_status": "approved",
+        "content": "「欺詐是心的染污。」"
+      }
     },
     {
       "segment_id": "mn7:5.19",
@@ -14718,7 +15294,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.19.t0",
+          "mn7:5.19.t1",
+          "mn7:5.19.t2",
+          "mn7:5.19.t3",
+          "mn7:5.19.t4",
+          "mn7:5.19.t5",
+          "mn7:5.19.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知，欺詐這一心的染污即得捨棄。"
+      }
     },
     {
       "segment_id": "mn7:5.20",
@@ -14849,7 +15438,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.20.t0",
+          "mn7:5.20.t1",
+          "mn7:5.20.t2",
+          "mn7:5.20.t3"
+        ],
+        "review_status": "approved",
+        "content": "「〔thambho（依提供詞義：柱；於此心理染污語境之引申義資料未提供）〕是心的染污。」"
+      }
     },
     {
       "segment_id": "mn7:5.21",
@@ -15015,7 +15614,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.21.t0",
+          "mn7:5.21.t1",
+          "mn7:5.21.t2",
+          "mn7:5.21.t3",
+          "mn7:5.21.t4",
+          "mn7:5.21.t5",
+          "mn7:5.21.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知，〔thambho（柱；心理染污義資料未提供）〕這一心的染污即得捨棄。"
+      }
     },
     {
       "segment_id": "mn7:5.22",
@@ -15156,7 +15768,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.22.t0",
+          "mn7:5.22.t1",
+          "mn7:5.22.t2",
+          "mn7:5.22.t3"
+        ],
+        "review_status": "approved",
+        "content": "怒氣，是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:5.23",
@@ -15332,7 +15954,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.23.t0",
+          "mn7:5.23.t1",
+          "mn7:5.23.t2",
+          "mn7:5.23.t3",
+          "mn7:5.23.t4",
+          "mn7:5.23.t5",
+          "mn7:5.23.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知之後，怒氣這一心的雜染便已捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.24",
@@ -15473,7 +16108,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.24.t0",
+          "mn7:5.24.t1",
+          "mn7:5.24.t2",
+          "mn7:5.24.t3"
+        ],
+        "review_status": "approved",
+        "content": "慢，是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:5.25",
@@ -15649,7 +16294,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.25.t0",
+          "mn7:5.25.t1",
+          "mn7:5.25.t2",
+          "mn7:5.25.t3",
+          "mn7:5.25.t4",
+          "mn7:5.25.t5",
+          "mn7:5.25.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知之後，慢這一心的雜染便已捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.26",
@@ -15780,7 +16438,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.26.t0",
+          "mn7:5.26.t1",
+          "mn7:5.26.t2",
+          "mn7:5.26.t3"
+        ],
+        "review_status": "approved",
+        "content": "過慢，是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:5.27",
@@ -15946,7 +16614,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.27.t0",
+          "mn7:5.27.t1",
+          "mn7:5.27.t2",
+          "mn7:5.27.t3",
+          "mn7:5.27.t4",
+          "mn7:5.27.t5",
+          "mn7:5.27.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知之後，過慢這一心的雜染便已捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.28",
@@ -16077,7 +16758,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.28.t0",
+          "mn7:5.28.t1",
+          "mn7:5.28.t2",
+          "mn7:5.28.t3"
+        ],
+        "review_status": "approved",
+        "content": "耽溺，是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:5.29",
@@ -16243,7 +16934,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.29.t0",
+          "mn7:5.29.t1",
+          "mn7:5.29.t2",
+          "mn7:5.29.t3",
+          "mn7:5.29.t4",
+          "mn7:5.29.t5",
+          "mn7:5.29.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知之後，耽溺這一心的雜染便已捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.30",
@@ -16384,7 +17088,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.30.t0",
+          "mn7:5.30.t1",
+          "mn7:5.30.t2",
+          "mn7:5.30.t3"
+        ],
+        "review_status": "approved",
+        "content": "放逸，是心的雜染。"
+      }
     },
     {
       "segment_id": "mn7:5.31",
@@ -16560,7 +17274,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.31.t0",
+          "mn7:5.31.t1",
+          "mn7:5.31.t2",
+          "mn7:5.31.t3",
+          "mn7:5.31.t4",
+          "mn7:5.31.t5",
+          "mn7:5.31.t6"
+        ],
+        "review_status": "approved",
+        "content": "如是了知之後，放逸這一心的雜染便已捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.32",
@@ -16724,7 +17451,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.32.t0",
+          "mn7:5.32.t1",
+          "mn7:5.32.t2",
+          "mn7:5.32.t3",
+          "mn7:5.32.t4"
+        ],
+        "review_status": "approved",
+        "content": "他對佛具足如實正信。"
+      }
     },
     {
       "segment_id": "mn7:5.33",
@@ -17278,7 +18016,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.33.t0",
+          "mn7:5.33.t1",
+          "mn7:5.33.t2",
+          "mn7:5.33.t3",
+          "mn7:5.33.t4",
+          "mn7:5.33.t5",
+          "mn7:5.33.t6",
+          "mn7:5.33.t7",
+          "mn7:5.33.t8",
+          "mn7:5.33.t9",
+          "mn7:5.33.t10",
+          "mn7:5.33.t11",
+          "mn7:5.33.t12",
+          "mn7:5.33.t13",
+          "mn7:5.33.t14"
+        ],
+        "review_status": "approved",
+        "content": "「如是，彼世尊是阿羅漢、正等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。」"
+      }
     },
     {
       "segment_id": "mn7:6.1",
@@ -17399,7 +18158,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:6.1.t0",
+          "mn7:6.1.t1",
+          "mn7:6.1.t2",
+          "mn7:6.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "他對法具足如實正信。"
+      }
     },
     {
       "segment_id": "mn7:6.2",
@@ -17691,7 +18460,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:6.2.t0",
+          "mn7:6.2.t1",
+          "mn7:6.2.t2",
+          "mn7:6.2.t3",
+          "mn7:6.2.t4",
+          "mn7:6.2.t5",
+          "mn7:6.2.t6",
+          "mn7:6.2.t7",
+          "mn7:6.2.t8",
+          "mn7:6.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "「世尊所善說之法，是當下可見的、即時的、可來見的、導向的，各自應親知的。」"
+      }
     },
     {
       "segment_id": "mn7:7.1",
@@ -17776,7 +18561,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:7.1.t0",
+          "mn7:7.1.t1",
+          "mn7:7.1.t2",
+          "mn7:7.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "他對僧伽具足如實正信。"
+      }
     },
     {
       "segment_id": "mn7:7.2",
@@ -18698,7 +19493,40 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:7.2.t0",
+          "mn7:7.2.t1",
+          "mn7:7.2.t2",
+          "mn7:7.2.t3",
+          "mn7:7.2.t4",
+          "mn7:7.2.t5",
+          "mn7:7.2.t6",
+          "mn7:7.2.t7",
+          "mn7:7.2.t8",
+          "mn7:7.2.t9",
+          "mn7:7.2.t10",
+          "mn7:7.2.t11",
+          "mn7:7.2.t12",
+          "mn7:7.2.t13",
+          "mn7:7.2.t14",
+          "mn7:7.2.t15",
+          "mn7:7.2.t16",
+          "mn7:7.2.t17",
+          "mn7:7.2.t18",
+          "mn7:7.2.t19",
+          "mn7:7.2.t20",
+          "mn7:7.2.t21",
+          "mn7:7.2.t22",
+          "mn7:7.2.t23",
+          "mn7:7.2.t24",
+          "mn7:7.2.t25",
+          "mn7:7.2.t27"
+        ],
+        "review_status": "approved",
+        "content": "「世尊聲聞弟子僧伽是善行道者；世尊聲聞弟子僧伽是直行道者；世尊聲聞弟子僧伽是如理行道者；世尊聲聞弟子僧伽是如法行道者——亦即四雙八士。此世尊聲聞弟子僧伽應受供獻、應受款待、應受施食、應受合掌禮敬，是世間無上福田。」"
+      }
     },
     {
       "segment_id": "mn7:8.1",
@@ -19368,7 +20196,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:8.1.t0",
+          "mn7:8.1.t1",
+          "mn7:8.1.t2",
+          "mn7:8.1.t3",
+          "mn7:8.1.t4",
+          "mn7:8.1.t5",
+          "mn7:8.1.t6",
+          "mn7:8.1.t7",
+          "mn7:8.1.t8",
+          "mn7:8.1.t9",
+          "mn7:8.1.t10",
+          "mn7:8.1.t11",
+          "mn7:8.1.t13",
+          "mn7:8.1.t14",
+          "mn7:8.1.t15",
+          "mn7:8.1.t16",
+          "mn7:8.1.t17",
+          "mn7:8.1.t18",
+          "mn7:8.1.t19",
+          "mn7:8.1.t20"
+        ],
+        "review_status": "approved",
+        "content": "就其所達程度，確實……被捨棄、飄散、被釋放、被遠離、被放棄——他對佛以如實正信……他獲得義的喜悅，獲得法的喜悅，獲得與法相應的喜悅。"
+      }
     },
     {
       "segment_id": "mn7:8.2",
@@ -19890,7 +20744,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:8.2.t0",
+          "mn7:8.2.t1",
+          "mn7:8.2.t2",
+          "mn7:8.2.t3",
+          "mn7:8.2.t4",
+          "mn7:8.2.t5",
+          "mn7:8.2.t6",
+          "mn7:8.2.t7",
+          "mn7:8.2.t8",
+          "mn7:8.2.t9",
+          "mn7:8.2.t10",
+          "mn7:8.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "已喜悅者生起喜；心喜者……平息；身已平息者感受樂；得樂者心得定。"
+      }
     },
     {
       "segment_id": "mn7:9.1",
@@ -20036,7 +20908,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:9.1.t0",
+          "mn7:9.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "法……（略）"
+      }
     },
     {
       "segment_id": "mn7:10.1",
@@ -20283,7 +21163,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:10.1.t0",
+          "mn7:10.1.t1",
+          "mn7:10.1.t3",
+          "mn7:10.1.t4",
+          "mn7:10.1.t5",
+          "mn7:10.1.t6",
+          "mn7:10.1.t7",
+          "mn7:10.1.t8",
+          "mn7:10.1.t9",
+          "mn7:10.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "對僧伽以如實正信……獲得義的喜悅，獲得法的喜悅，獲得與法相應的喜悅。"
+      }
     },
     {
       "segment_id": "mn7:10.2",
@@ -20805,7 +21701,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:10.2.t0",
+          "mn7:10.2.t1",
+          "mn7:10.2.t2",
+          "mn7:10.2.t3",
+          "mn7:10.2.t4",
+          "mn7:10.2.t5",
+          "mn7:10.2.t6",
+          "mn7:10.2.t7",
+          "mn7:10.2.t8",
+          "mn7:10.2.t9",
+          "mn7:10.2.t10",
+          "mn7:10.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "對已歡喜者，喜生起；對心生喜悅者，身平靜下來；身已輕安者感受樂；安樂者心得定。"
+      }
     },
     {
       "segment_id": "mn7:11.1",
@@ -21344,7 +22258,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:11.1.t0",
+          "mn7:11.1.t1",
+          "mn7:11.1.t2",
+          "mn7:11.1.t3",
+          "mn7:11.1.t4",
+          "mn7:11.1.t5",
+          "mn7:11.1.t6",
+          "mn7:11.1.t7",
+          "mn7:11.1.t9",
+          "mn7:11.1.t10",
+          "mn7:11.1.t11",
+          "mn7:11.1.t12",
+          "mn7:11.1.t13",
+          "mn7:11.1.t14",
+          "mn7:11.1.t15",
+          "mn7:11.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "就此而言，「凡我已捨棄的、〔vantaṁ資料不足〕的、已釋放的、已捨離的」——他獲得對義理的喜悅，獲得對法的喜悅，獲得與法相應的欣喜。"
+      }
     },
     {
       "segment_id": "mn7:11.2",
@@ -21866,7 +22802,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:11.2.t0",
+          "mn7:11.2.t1",
+          "mn7:11.2.t2",
+          "mn7:11.2.t3",
+          "mn7:11.2.t4",
+          "mn7:11.2.t5",
+          "mn7:11.2.t6",
+          "mn7:11.2.t7",
+          "mn7:11.2.t8",
+          "mn7:11.2.t9",
+          "mn7:11.2.t10",
+          "mn7:11.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "對已歡喜者，喜生起；對心生喜悅者，身平靜下來；身已輕安者感受樂；安樂者心得定。"
+      }
     },
     {
       "segment_id": "mn7:12.1",
@@ -22378,7 +23332,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:12.1.t0",
+          "mn7:12.1.t1",
+          "mn7:12.1.t2",
+          "mn7:12.1.t3",
+          "mn7:12.1.t4",
+          "mn7:12.1.t5",
+          "mn7:12.1.t6",
+          "mn7:12.1.t7",
+          "mn7:12.1.t9",
+          "mn7:12.1.t10",
+          "mn7:12.1.t11",
+          "mn7:12.1.t12",
+          "mn7:12.1.t13",
+          "mn7:12.1.t14",
+          "mn7:12.1.t15",
+          "mn7:12.1.t16",
+          "mn7:12.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，那位如此具戒、如此之法、如此具慧的比丘，食用已揀去黑粒、備有多種羹湯與多種菜餚的缽食，對他而言，那也不成障礙。"
+      }
     },
     {
       "segment_id": "mn7:12.2",
@@ -23017,7 +23994,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:12.2.t0",
+          "mn7:12.2.t1",
+          "mn7:12.2.t2",
+          "mn7:12.2.t3",
+          "mn7:12.2.t4",
+          "mn7:12.2.t5",
+          "mn7:12.2.t6",
+          "mn7:12.2.t7",
+          "mn7:12.2.t8",
+          "mn7:12.2.t9",
+          "mn7:12.2.t10",
+          "mn7:12.2.t11",
+          "mn7:12.2.t13",
+          "mn7:12.2.t14",
+          "mn7:12.2.t15",
+          "mn7:12.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如一塊污穢、沾滿污垢的布，藉清淨水而變得清淨潔白；或如熔爐中的黃金也變得清淨潔白。"
+      }
     },
     {
       "segment_id": "mn7:12.3",
@@ -23464,7 +24463,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:12.3.t0",
+          "mn7:12.3.t1",
+          "mn7:12.3.t2",
+          "mn7:12.3.t3",
+          "mn7:12.3.t4",
+          "mn7:12.3.t5",
+          "mn7:12.3.t6",
+          "mn7:12.3.t8",
+          "mn7:12.3.t9",
+          "mn7:12.3.t10",
+          "mn7:12.3.t11",
+          "mn7:12.3.t12",
+          "mn7:12.3.t13",
+          "mn7:12.3.t14",
+          "mn7:12.3.t15",
+          "mn7:12.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，如此具戒、如此之法、如此具慧的比丘，食用已揀去黑粒、備有多種羹湯與多種菜餚的缽食，對他而言，那也不成障礙。"
+      }
     },
     {
       "segment_id": "mn7:13.1",
@@ -24572,7 +25593,42 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:13.1.t0",
+          "mn7:13.1.t1",
+          "mn7:13.1.t2",
+          "mn7:13.1.t3",
+          "mn7:13.1.t4",
+          "mn7:13.1.t5",
+          "mn7:13.1.t6",
+          "mn7:13.1.t7",
+          "mn7:13.1.t8",
+          "mn7:13.1.t9",
+          "mn7:13.1.t10",
+          "mn7:13.1.t11",
+          "mn7:13.1.t12",
+          "mn7:13.1.t13",
+          "mn7:13.1.t14",
+          "mn7:13.1.t15",
+          "mn7:13.1.t16",
+          "mn7:13.1.t17",
+          "mn7:13.1.t18",
+          "mn7:13.1.t19",
+          "mn7:13.1.t20",
+          "mn7:13.1.t21",
+          "mn7:13.1.t22",
+          "mn7:13.1.t23",
+          "mn7:13.1.t24",
+          "mn7:13.1.t25",
+          "mn7:13.1.t26",
+          "mn7:13.1.t27",
+          "mn7:13.1.t28"
+        ],
+        "review_status": "approved",
+        "content": "他以伴隨慈的心，遍滿一個方向而安住；同樣地第二，同樣地第三，同樣地第四。如此，上下、橫向、到處，向一切眾生，以伴隨慈的廣大、崇高、無量、無怨、無瞋之心，遍滿整個世界而安住。"
+      }
     },
     {
       "segment_id": "mn7:14.1",
@@ -24743,7 +25799,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:14.1.t0",
+          "mn7:14.1.t1",
+          "mn7:14.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "以伴隨悲的心……（以下省略，同前遍滿段）"
+      }
     },
     {
       "segment_id": "mn7:15.1",
@@ -24914,7 +25979,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:15.1.t0",
+          "mn7:15.1.t1",
+          "mn7:15.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "以伴隨喜的心……（以下省略，同前遍滿段）"
+      }
     },
     {
       "segment_id": "mn7:16.1",
@@ -25979,7 +27053,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:16.1.t0",
+          "mn7:16.1.t1",
+          "mn7:16.1.t2",
+          "mn7:16.1.t3",
+          "mn7:16.1.t4",
+          "mn7:16.1.t5",
+          "mn7:16.1.t6",
+          "mn7:16.1.t7",
+          "mn7:16.1.t8",
+          "mn7:16.1.t9",
+          "mn7:16.1.t10",
+          "mn7:16.1.t11",
+          "mn7:16.1.t12",
+          "mn7:16.1.t13",
+          "mn7:16.1.t14",
+          "mn7:16.1.t15",
+          "mn7:16.1.t16",
+          "mn7:16.1.t17",
+          "mn7:16.1.t18",
+          "mn7:16.1.t19",
+          "mn7:16.1.t20",
+          "mn7:16.1.t21",
+          "mn7:16.1.t22",
+          "mn7:16.1.t23",
+          "mn7:16.1.t24",
+          "mn7:16.1.t25",
+          "mn7:16.1.t26",
+          "mn7:16.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "他以伴隨捨的心，遍滿一個方向而安住；同樣地第二，同樣地第三，同樣地第四。如此，上下、橫向、到處，向一切眾生，以伴隨捨的廣大、崇高、無量、無怨、無瞋之心，遍滿整個世界而安住。"
+      }
     },
     {
       "segment_id": "mn7:17.1",
@@ -26675,7 +27783,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:17.1.t0",
+          "mn7:17.1.t1",
+          "mn7:17.1.t2",
+          "mn7:17.1.t3",
+          "mn7:17.1.t4",
+          "mn7:17.1.t5",
+          "mn7:17.1.t6",
+          "mn7:17.1.t7",
+          "mn7:17.1.t8",
+          "mn7:17.1.t9",
+          "mn7:17.1.t10",
+          "mn7:17.1.t12",
+          "mn7:17.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "他了知：『有此，有（低劣），有殊勝，此想所及之領域更上尚有（超越之境）。』"
+      }
     },
     {
       "segment_id": "mn7:18.1",
@@ -27224,7 +28351,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:18.1.t0",
+          "mn7:18.1.t1",
+          "mn7:18.1.t2",
+          "mn7:18.1.t3",
+          "mn7:18.1.t4",
+          "mn7:18.1.t5",
+          "mn7:18.1.t6",
+          "mn7:18.1.t7",
+          "mn7:18.1.t8",
+          "mn7:18.1.t9",
+          "mn7:18.1.t10",
+          "mn7:18.1.t11",
+          "mn7:18.1.t12",
+          "mn7:18.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "對他如此了知、如此見的（人），心從欲漏解脫，心從有漏解脫，心從無明漏解脫。"
+      }
     },
     {
       "segment_id": "mn7:18.2",
@@ -27383,7 +28530,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:18.2.t0",
+          "mn7:18.2.t1",
+          "mn7:18.2.t2",
+          "mn7:18.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "於（心）解脫時，生起「已解脫」之（智）。"
+      }
     },
     {
       "segment_id": "mn7:18.3",
@@ -27894,7 +29051,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:18.3.t0",
+          "mn7:18.3.t1",
+          "mn7:18.3.t2",
+          "mn7:18.3.t3",
+          "mn7:18.3.t4",
+          "mn7:18.3.t5",
+          "mn7:18.3.t6",
+          "mn7:18.3.t8",
+          "mn7:18.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "他了知：『生已盡，梵行已成就，應作已作，不再另有（須作之事）。』"
+      }
     },
     {
       "segment_id": "mn7:18.4",
@@ -28000,7 +29172,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:18.4.t0",
+          "mn7:18.4.t1",
+          "mn7:18.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，此（人）被稱為……"
+      }
     },
     {
       "segment_id": "mn7:18.5",
@@ -28130,7 +29311,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:18.5.t0",
+          "mn7:18.5.t1",
+          "mn7:18.5.t2",
+          "mn7:18.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "……於內（心）洗浴之比丘。"
+      }
     },
     {
       "segment_id": "mn7:19.1",
@@ -28415,7 +29606,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.1.t0",
+          "mn7:19.1.t1",
+          "mn7:19.1.t2",
+          "mn7:19.1.t3",
+          "mn7:19.1.t4",
+          "mn7:19.1.t5",
+          "mn7:19.1.t6",
+          "mn7:19.1.t7",
+          "mn7:19.1.t8",
+          "mn7:19.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "那時，善達利迦婆羅豆婆闍婆羅門正坐在世尊不遠處。"
+      }
     },
     {
       "segment_id": "mn7:19.2",
@@ -28740,7 +29947,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.3.t0",
+          "mn7:19.3.t1",
+          "mn7:19.3.t2",
+          "mn7:19.3.t3",
+          "mn7:19.3.t4",
+          "mn7:19.3.t5",
+          "mn7:19.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "「那麼，尊者瞿曇是否前往婆呼迦河？」"
+      }
     },
     {
       "segment_id": "mn7:19.4",
@@ -28935,7 +30155,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.4.t0",
+          "mn7:19.4.t1",
+          "mn7:19.4.t2",
+          "mn7:19.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "「婆羅門，（去）婆呼迦河（做什麼）？」"
+      }
     },
     {
       "segment_id": "mn7:19.5",
@@ -29164,7 +30394,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.5.t0",
+          "mn7:19.5.t1",
+          "mn7:19.5.t2",
+          "mn7:19.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "「什麼是芭呼迦河？」〔引語訖〕"
+      }
     },
     {
       "segment_id": "mn7:19.6",
@@ -30003,7 +31243,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.6.t0",
+          "mn7:19.6.t1",
+          "mn7:19.6.t2",
+          "mn7:19.6.t3",
+          "mn7:19.6.t4",
+          "mn7:19.6.t5",
+          "mn7:19.6.t6",
+          "mn7:19.6.t7",
+          "mn7:19.6.t8",
+          "mn7:19.6.t9",
+          "mn7:19.6.t10",
+          "mn7:19.6.t11",
+          "mn7:19.6.t12",
+          "mn7:19.6.t13",
+          "mn7:19.6.t14",
+          "mn7:19.6.t15",
+          "mn7:19.6.t16",
+          "mn7:19.6.t17",
+          "mn7:19.6.t18",
+          "mn7:19.6.t19",
+          "mn7:19.6.t21"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，芭呼迦河確實被世人認為能給予清淨，確實被眾多人認為有功德；然而，喬達摩尊者，眾多人藉由芭呼迦河所造作的惡業……」〔引語訖〕"
+      }
     },
     {
       "segment_id": "mn7:20.1",
@@ -30180,7 +31447,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.1.t0",
+          "mn7:20.1.t1",
+          "mn7:20.1.t2",
+          "mn7:20.1.t3",
+          "mn7:20.1.t4",
+          "mn7:20.1.t5",
+          "mn7:20.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "於是，世尊以偈頌對孫達利迦婆羅豆婆闍婆羅門說道："
+      }
     },
     {
       "segment_id": "mn7:20.2",
@@ -30225,7 +31505,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.2.t0",
+          "mn7:20.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "「（去到）芭呼迦，以及阿地迦迦……」"
+      }
     },
     {
       "segment_id": "mn7:20.3",
@@ -30318,7 +31606,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.3.t0",
+          "mn7:20.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "「伽耶，孫達利迦……」"
+      }
     },
     {
       "segment_id": "mn7:20.4",
@@ -30369,7 +31665,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.4.t0",
+          "mn7:20.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "「薩羅娑瓦底河，以及帕耶伽……」"
+      }
     },
     {
       "segment_id": "mn7:20.5",
@@ -30430,7 +31734,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.5.t0",
+          "mn7:20.5.t1",
+          "mn7:20.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "「還有芭呼瑪底河……」"
+      }
     },
     {
       "segment_id": "mn7:20.6",
@@ -30529,7 +31842,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.6.t0",
+          "mn7:20.6.t1",
+          "mn7:20.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "「愚人始終奔赴（入水）……」"
+      }
     },
     {
       "segment_id": "mn7:20.7",
@@ -30580,7 +31902,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.7.t0",
+          "mn7:20.7.t1",
+          "mn7:20.7.t2"
+        ],
+        "review_status": "approved",
+        "content": "「造作黑業者不得清淨。」"
+      }
     },
     {
       "segment_id": "mn7:20.8",
@@ -30751,7 +32082,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.8.t0",
+          "mn7:20.8.t1",
+          "mn7:20.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "「孫達利迦（河）又能做什麼呢？」"
+      }
     },
     {
       "segment_id": "mn7:20.9",
@@ -31080,7 +32420,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.9.t0",
+          "mn7:20.9.t1",
+          "mn7:20.9.t2",
+          "mn7:20.9.t3",
+          "mn7:20.9.t4"
+        ],
+        "review_status": "approved",
+        "content": "波耶伽（聖地）有何意義？巴胡卡又是什麼河？"
+      }
     },
     {
       "segment_id": "mn7:20.10",
@@ -31196,7 +32547,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.10.t0",
+          "mn7:20.10.t1",
+          "mn7:20.10.t2"
+        ],
+        "review_status": "approved",
+        "content": "對懷有敵意、已造惡業的人"
+      }
     },
     {
       "segment_id": "mn7:20.11",
@@ -31380,7 +32740,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.11.t0",
+          "mn7:20.11.t1",
+          "mn7:20.11.t2",
+          "mn7:20.11.t3",
+          "mn7:20.11.t4"
+        ],
+        "review_status": "approved",
+        "content": "確實，那不能清淨造惡業者。"
+      }
     },
     {
       "segment_id": "mn7:20.12",
@@ -31557,7 +32928,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.12.t0",
+          "mn7:20.12.t1",
+          "mn7:20.12.t2",
+          "mn7:20.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "對清淨者而言，頗谷節（春祭）常常（臨在）。"
+      }
     },
     {
       "segment_id": "mn7:20.13",
@@ -31598,7 +32979,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.13.t1"
+        ],
+        "review_status": "approved",
+        "content": "常常"
+      }
     },
     {
       "segment_id": "mn7:20.14",
@@ -31690,7 +33078,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.14.t0",
+          "mn7:20.14.t1"
+        ],
+        "review_status": "approved",
+        "content": "對清淨者、對行為清淨者"
+      }
     },
     {
       "segment_id": "mn7:20.15",
@@ -31796,7 +33192,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.15.t0",
+          "mn7:20.15.t1",
+          "mn7:20.15.t2"
+        ],
+        "review_status": "approved",
+        "content": "（吉祥）常常吹拂而來、成就實現。"
+      }
     },
     {
       "segment_id": "mn7:20.16",
@@ -31881,7 +33286,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.16.t0",
+          "mn7:20.16.t1",
+          "mn7:20.16.t2"
+        ],
+        "review_status": "approved",
+        "content": "就在此處沐浴吧，婆羅門！"
+      }
     },
     {
       "segment_id": "mn7:20.17",
@@ -31932,7 +33346,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.17.t0",
+          "mn7:20.17.t1",
+          "mn7:20.17.t2"
+        ],
+        "review_status": "approved",
+        "content": "對一切眾生，施予安全！"
+      }
     },
     {
       "segment_id": "mn7:20.18",
@@ -31998,7 +33421,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.18.t0",
+          "mn7:20.18.t1",
+          "mn7:20.18.t2",
+          "mn7:20.18.t3"
+        ],
+        "review_status": "approved",
+        "content": "如果你不說謊話"
+      }
     },
     {
       "segment_id": "mn7:20.19",
@@ -32064,7 +33497,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.19.t0",
+          "mn7:20.19.t1",
+          "mn7:20.19.t2",
+          "mn7:20.19.t3"
+        ],
+        "review_status": "approved",
+        "content": "若你不傷害生命"
+      }
     },
     {
       "segment_id": "mn7:20.20",
@@ -32170,7 +33613,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.20.t0",
+          "mn7:20.20.t1",
+          "mn7:20.20.t2"
+        ],
+        "review_status": "approved",
+        "content": "若你不取用未被給予之物"
+      }
     },
     {
       "segment_id": "mn7:20.21",
@@ -32261,7 +33713,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.21.t0",
+          "mn7:20.21.t1"
+        ],
+        "review_status": "approved",
+        "content": "具有信念且無慳吝（的人）"
+      }
     },
     {
       "segment_id": "mn7:20.22",
@@ -32382,7 +33842,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.22.t0",
+          "mn7:20.22.t1",
+          "mn7:20.22.t2",
+          "mn7:20.22.t3"
+        ],
+        "review_status": "approved",
+        "content": "前往伽耶後，你將做什麼？"
+      }
     },
     {
       "segment_id": "mn7:20.23",
@@ -32555,7 +34025,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:20.23.t0",
+          "mn7:20.23.t1",
+          "mn7:20.23.t2",
+          "mn7:20.23.t3"
+        ],
+        "review_status": "approved",
+        "content": "水井亦是你的伽耶。"
+      }
     },
     {
       "segment_id": "mn7:21.1",
@@ -32960,7 +34440,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:21.2.t0",
+          "mn7:21.2.t1",
+          "mn7:21.2.t2",
+          "mn7:21.2.t3",
+          "mn7:21.2.t4",
+          "mn7:21.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "殊勝！尊者喬答摩！殊勝！尊者喬答摩！"
+      }
     },
     {
       "segment_id": "mn7:21.3",
@@ -33839,7 +35331,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:21.3.t0",
+          "mn7:21.3.t1",
+          "mn7:21.3.t2",
+          "mn7:21.3.t3",
+          "mn7:21.3.t4",
+          "mn7:21.3.t5",
+          "mn7:21.3.t6",
+          "mn7:21.3.t7",
+          "mn7:21.3.t8",
+          "mn7:21.3.t9",
+          "mn7:21.3.t10",
+          "mn7:21.3.t11",
+          "mn7:21.3.t12",
+          "mn7:21.3.t13",
+          "mn7:21.3.t14",
+          "mn7:21.3.t15",
+          "mn7:21.3.t16",
+          "mn7:21.3.t17",
+          "mn7:21.3.t18",
+          "mn7:21.3.t19",
+          "mn7:21.3.t20",
+          "mn7:21.3.t21",
+          "mn7:21.3.t22",
+          "mn7:21.3.t23",
+          "mn7:21.3.t24",
+          "mn7:21.3.t25"
+        ],
+        "review_status": "approved",
+        "content": "尊者喬答摩，猶如有人將翻倒之物扶正，或揭開遮蔽之物，或為迷失者指示道路，或在黑暗中舉起油燈令有眼者得見諸色；正是如此，尊者喬答摩以種種方式將法闡明。"
+      }
     },
     {
       "segment_id": "mn7:21.4",
@@ -34086,7 +35610,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:21.4.t0",
+          "mn7:21.4.t1",
+          "mn7:21.4.t2",
+          "mn7:21.4.t3",
+          "mn7:21.4.t4",
+          "mn7:21.4.t5",
+          "mn7:21.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "我今皈依尊者喬答摩、法及比丘僧伽。"
+      }
     },
     {
       "segment_id": "mn7:21.5",
@@ -34306,7 +35843,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:21.5.t0",
+          "mn7:21.5.t1",
+          "mn7:21.5.t2",
+          "mn7:21.5.t3",
+          "mn7:21.5.t4",
+          "mn7:21.5.t5",
+          "mn7:21.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "願我得於尊者喬答摩座下出家。"
+      }
     },
     {
       "segment_id": "mn7:22.1",
@@ -34577,7 +36127,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:22.1.t0",
+          "mn7:22.1.t1",
+          "mn7:22.1.t2",
+          "mn7:22.1.t3",
+          "mn7:22.1.t4",
+          "mn7:22.1.t5",
+          "mn7:22.1.t6",
+          "mn7:22.1.t7",
+          "mn7:22.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "善日婆羅豆瓦闍婆羅門確實在世尊跟前得到了出家（沙彌戒），也得到了具足戒。"
+      }
     },
     {
       "segment_id": "mn7:22.2",
@@ -35497,7 +37062,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:22.2.t0",
+          "mn7:22.2.t1",
+          "mn7:22.2.t2",
+          "mn7:22.2.t3",
+          "mn7:22.2.t4",
+          "mn7:22.2.t5",
+          "mn7:22.2.t6",
+          "mn7:22.2.t7",
+          "mn7:22.2.t8",
+          "mn7:22.2.t9",
+          "mn7:22.2.t10",
+          "mn7:22.2.t11",
+          "mn7:22.2.t12",
+          "mn7:22.2.t13",
+          "mn7:22.2.t14",
+          "mn7:22.2.t15",
+          "mn7:22.2.t16",
+          "mn7:22.2.t17",
+          "mn7:22.2.t18",
+          "mn7:22.2.t19",
+          "mn7:22.2.t20",
+          "mn7:22.2.t21",
+          "mn7:22.2.t22",
+          "mn7:22.2.t23",
+          "mn7:22.2.t24",
+          "mn7:22.2.t25"
+        ],
+        "review_status": "approved",
+        "content": "那位尊者婆羅豆瓦闍受具足戒不久，確實獨自遠離、不放逸、精勤、堅決安住；不久之後，以直接智親自證知、受具足戒，安住於那無上梵行的圓滿——正是善家子弟安住後從家出家入無家所為的目的——持見於有此性質的諸法之中而存在。"
+      }
     },
     {
       "segment_id": "mn7:22.3",
@@ -36018,7 +37615,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:22.3.t0",
+          "mn7:22.3.t1",
+          "mn7:22.3.t2",
+          "mn7:22.3.t3",
+          "mn7:22.3.t4",
+          "mn7:22.3.t5",
+          "mn7:22.3.t6",
+          "mn7:22.3.t8",
+          "mn7:22.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "「生已盡，梵行已圓滿，應作已作，不再有別的了。」他如此直接了知。"
+      }
     },
     {
       "segment_id": "mn7:22.4",
@@ -36143,7 +37755,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:22.4.t0",
+          "mn7:22.4.t1",
+          "mn7:22.4.t2",
+          "mn7:22.4.t3",
+          "mn7:22.4.t4",
+          "mn7:22.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "而那位尊者婆羅豆瓦闍確實成為了阿羅漢之一。"
+      }
     },
     {
       "segment_id": "mn7:22.5",
@@ -36296,7 +37920,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:22.5.t0",
+          "mn7:22.5.t1",
+          "mn7:22.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "第七《衣服經》已終。"
+      }
     }
   ],
   "passages": [
@@ -36456,8 +38089,85 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-4-6",
+    "grounded_on": [
+      "mn7:1.2",
+      "mn7:2.1",
+      "mn7:2.4",
+      "mn7:2.5",
+      "mn7:2.9",
+      "mn7:2.10",
+      "mn7:3.1",
+      "mn7:3.2",
+      "mn7:4.1",
+      "mn7:5.32",
+      "mn7:6.1",
+      "mn7:7.1",
+      "mn7:8.2",
+      "mn7:13.1",
+      "mn7:14.1",
+      "mn7:15.1",
+      "mn7:16.1",
+      "mn7:17.1",
+      "mn7:18.1",
+      "mn7:18.3",
+      "mn7:18.5",
+      "mn7:19.1",
+      "mn7:19.3",
+      "mn7:19.6",
+      "mn7:20.6",
+      "mn7:20.7",
+      "mn7:20.16",
+      "mn7:20.17",
+      "mn7:20.22",
+      "mn7:20.23",
+      "mn7:21.4",
+      "mn7:22.1",
+      "mn7:22.4"
+    ],
+    "review_status": "approved",
+    "content": "《衣服經》（MN7）於舍衛城祇陀林，世尊以「染布」設喻：污穢之布難以顯色，心有雜染則導向惡趣；清淨之布色澤鮮明，心清淨則導向善趣。\n\n接著世尊列舉十六種心的雜染，涵蓋貪欲、瞋恚、忿、慳吝、慢、放逸等，比丘逐一了知並捨斷後，對佛、法、僧三寶生起如實正信，繼而由喜悅、身心輕安而得定，進而以慈、悲、喜、捨四無量心遍滿十方，最終從欲漏、有漏、無明漏解脫——此即「於內洗浴之比丘」。\n\n後半段轉入對話：在場婆羅門詢問世尊是否前往婆呼迦河沐浴，世尊以偈頌答：聖河不能洗淨惡業，不妄語、不傷生、具信無慳方為真正清淨，「就在此處沐浴吧，婆羅門！」婆羅門深信皈依並出家，不久即證阿羅漢。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "布喻句式：「心染→惡趣、心淨→善趣」對稱結構",
+      "sources": [
+        "mn7:2.1",
+        "mn7:2.5",
+        "mn7:2.6",
+        "mn7:2.10"
+      ],
+      "content": "以臟布／淨布染色為喻：心染（saṅkiliṭṭha）應預期惡趣，心淨（asaṅkiliṭṭha）應預期善趣，構成本經開篇核心對稱教學。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "字詞：心的雜染（upakkilesa）16項列舉",
+      "sources": [
+        "mn7:3.1",
+        "mn7:3.2"
+      ],
+      "content": "本經列出16種心垢：貪欲、瞋恚、忿、怨恨、貶蔑、競諍、issā、慳吝、詭詐、欺詐、固執、憤激、慢、過慢、耽溺、放逸，為修行捨斷的對象清單。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "修行句式：「了知→捨斷（iti viditvā … pajahati/pahīna）」反覆結構",
+      "sources": [
+        "mn7:4.1",
+        "mn7:4.3",
+        "mn7:5.1",
+        "mn7:5.3"
+      ],
+      "content": "每項雜染依「了知 X 為心的隨煩惱，便捨斷之（pajahati）」展開；第5章轉用 pahīna（已捨斷），呈現進行→完成的修行層次推進。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

@@ -1,0 +1,9 @@
+{
+  "_note": "此經出現的專名（研經頁「相關」區 + DPPN 擷取輸入）。occ_segment 為經中出現段。",
+  "entities": [
+    { "key": "savatthi", "name_pali": "Sāvatthī", "name_zh": "舍衛城", "occ_segment": "mn7:1.2" },
+    { "key": "jetavana", "name_pali": "Jetavana", "name_zh": "祇樹林（祇陀林）", "occ_segment": "mn7:1.2" },
+    { "key": "anathapindika", "name_pali": "Anāthapiṇḍika", "name_zh": "給孤獨（長者）", "occ_segment": "mn7:1.2" },
+    { "key": "sundarikabharadvaja", "name_pali": "Sundarika Bhāradvāja", "name_zh": "孫陀利迦‧婆羅墮闍（婆羅門）", "occ_segment": "mn7:19.1" }
+  ]
+}

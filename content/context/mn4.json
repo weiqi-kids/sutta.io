@@ -1,0 +1,8 @@
+{
+  "_note": "CONTEXT A 此經緣起（L1，從經文開頭 nidāna 結構化；provenance 恆 canonical）。derived_from 可追溯回經文段。",
+  "sutta_id": "mn4",
+  "setting_place": "舍衛城（Sāvatthī）祇樹給孤獨園（Jetavana，Anāthapiṇḍika 之園）",
+  "audience": "婆羅門生聞（Jāṇussoṇi）",
+  "occasion": "婆羅門生聞來問獨住林野之事；佛陀宣說獨處遠離所生的怖畏，並自述未成正覺前如何在林野克服恐懼、淨化己心，終成三明",
+  "derived_from": ["mn4:1.2", "mn4:2.1"]
+}

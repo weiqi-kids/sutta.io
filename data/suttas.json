@@ -1,32 +1,8 @@
 [
   {
-    "id": "mn2",
-    "title_pali": "Sabbāsavasutta",
-    "title_zh": "一切漏經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn9",
-    "title_pali": "Sammādiṭṭhisutta",
-    "title_zh": "正見經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
     "id": "mn10",
     "title_pali": "Satipaṭṭhānasutta",
     "title_zh": "念處經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn22",
-    "title_pali": "Alagaddūpamasutta",
-    "title_zh": "蛇喻經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -38,38 +14,6 @@
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": false
-  },
-  {
-    "id": "mn141",
-    "title_pali": "Saccavibhaṅgasutta",
-    "title_zh": "諦分別經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn1",
-    "title_pali": "Mūlapariyāyasutta",
-    "title_zh": "根本法門經",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn3",
-    "title_pali": "MN3",
-    "title_zh": "mn3",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "mn4",
-    "title_pali": "MN4",
-    "title_zh": "mn4",
-    "collection": "Majjhima Nikāya",
-    "collection_zh": "中部",
-    "hasParallel": true
   },
   {
     "id": "mn11",
@@ -91,6 +35,94 @@
     "id": "mn13",
     "title_pali": "MN13",
     "title_zh": "mn13",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn141",
+    "title_pali": "Saccavibhaṅgasutta",
+    "title_zh": "諦分別經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn1",
+    "title_pali": "Mūlapariyāyasutta",
+    "title_zh": "根本法門經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn22",
+    "title_pali": "Alagaddūpamasutta",
+    "title_zh": "蛇喻經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn2",
+    "title_pali": "Sabbāsavasutta",
+    "title_zh": "一切漏經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn3",
+    "title_pali": "MN3",
+    "title_zh": "mn3",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn4",
+    "title_pali": "MN4",
+    "title_zh": "mn4",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn5",
+    "title_pali": "MN5",
+    "title_zh": "mn5",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn6",
+    "title_pali": "MN6",
+    "title_zh": "mn6",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn7",
+    "title_pali": "MN7",
+    "title_zh": "mn7",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn8",
+    "title_pali": "MN8",
+    "title_zh": "mn8",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn9",
+    "title_pali": "Sammādiṭṭhisutta",
+    "title_zh": "正見經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
