@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:1.1.t0",
+          "mn8:1.1.t1",
+          "mn8:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn8:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:1.2.t0",
+          "mn8:1.2.t1",
+          "mn8:1.2.t2",
+          "mn8:1.2.t3",
+          "mn8:1.2.t4",
+          "mn8:1.2.t5",
+          "mn8:1.2.t6",
+          "mn8:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在舍衛城，於給孤獨長者的祇陀林園中。"
+      }
     },
     {
       "segment_id": "mn8:2.1",
@@ -1167,7 +1190,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:2.1.t0",
+          "mn8:2.1.t1",
+          "mn8:2.1.t2",
+          "mn8:2.1.t3",
+          "mn8:2.1.t4",
+          "mn8:2.1.t5",
+          "mn8:2.1.t6",
+          "mn8:2.1.t7",
+          "mn8:2.1.t8",
+          "mn8:2.1.t9",
+          "mn8:2.1.t10",
+          "mn8:2.1.t11",
+          "mn8:2.1.t12",
+          "mn8:2.1.t13",
+          "mn8:2.1.t14",
+          "mn8:2.1.t15",
+          "mn8:2.1.t16",
+          "mn8:2.1.t17",
+          "mn8:2.1.t18",
+          "mn8:2.1.t19",
+          "mn8:2.1.t20",
+          "mn8:2.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "爾時，尊者摩訶純陀於傍晚從獨處靜修中出來，前往世尊所在之處；到達後頂禮世尊，坐於一旁。坐於一旁的尊者摩訶純陀對世尊如此說道："
+      }
     },
     {
       "segment_id": "mn8:3.1",
@@ -1518,7 +1569,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.1.t0",
+          "mn8:3.1.t1",
+          "mn8:3.1.t2",
+          "mn8:3.1.t3",
+          "mn8:3.1.t4",
+          "mn8:3.1.t5",
+          "mn8:3.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "「尊師，那些在世間生起的種種見——"
+      }
     },
     {
       "segment_id": "mn8:3.2",
@@ -1768,7 +1832,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.2.t0",
+          "mn8:3.2.t1",
+          "mn8:3.2.t2",
+          "mn8:3.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "不論是有關我論的，或是有關世界論的，"
+      }
     },
     {
       "segment_id": "mn8:3.3",
@@ -2283,7 +2357,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.3.t0",
+          "mn8:3.3.t1",
+          "mn8:3.3.t2",
+          "mn8:3.3.t3",
+          "mn8:3.3.t4",
+          "mn8:3.3.t5",
+          "mn8:3.3.t6",
+          "mn8:3.3.t7",
+          "mn8:3.3.t8",
+          "mn8:3.3.t9",
+          "mn8:3.3.t10",
+          "mn8:3.3.t11",
+          "mn8:3.3.t12",
+          "mn8:3.3.t14"
+        ],
+        "review_status": "approved",
+        "content": "尊師，一位比丘從最初就如此作意，確實是否便能實現對這些見的捨棄與捨離？」"
+      }
     },
     {
       "segment_id": "mn8:3.4",
@@ -2579,7 +2673,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.4.t0",
+          "mn8:3.4.t1",
+          "mn8:3.4.t2",
+          "mn8:3.4.t3",
+          "mn8:3.4.t4",
+          "mn8:3.4.t5",
+          "mn8:3.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "「純陀，那些在世間生起的種種見——"
+      }
     },
     {
       "segment_id": "mn8:3.5",
@@ -2829,7 +2936,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.5.t0",
+          "mn8:3.5.t1",
+          "mn8:3.5.t2",
+          "mn8:3.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "不論是有關我論的，或是有關世界論的，"
+      }
     },
     {
       "segment_id": "mn8:3.6",
@@ -3954,7 +4071,44 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:3.6.t0",
+          "mn8:3.6.t1",
+          "mn8:3.6.t2",
+          "mn8:3.6.t3",
+          "mn8:3.6.t4",
+          "mn8:3.6.t5",
+          "mn8:3.6.t6",
+          "mn8:3.6.t7",
+          "mn8:3.6.t8",
+          "mn8:3.6.t9",
+          "mn8:3.6.t10",
+          "mn8:3.6.t11",
+          "mn8:3.6.t12",
+          "mn8:3.6.t13",
+          "mn8:3.6.t14",
+          "mn8:3.6.t15",
+          "mn8:3.6.t16",
+          "mn8:3.6.t17",
+          "mn8:3.6.t18",
+          "mn8:3.6.t19",
+          "mn8:3.6.t20",
+          "mn8:3.6.t21",
+          "mn8:3.6.t22",
+          "mn8:3.6.t23",
+          "mn8:3.6.t24",
+          "mn8:3.6.t25",
+          "mn8:3.6.t26",
+          "mn8:3.6.t27",
+          "mn8:3.6.t28",
+          "mn8:3.6.t29",
+          "mn8:3.6.t30"
+        ],
+        "review_status": "approved",
+        "content": "凡是這些見生起之處、潛伏之處，且現行之處，以正慧如實觀見『此非我所，此非我，彼非我之自我』——如此，這些見的捨棄方得成就，這些見的捨離方得成就。"
+      }
     },
     {
       "segment_id": "mn8:4.1",
@@ -4830,7 +4984,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:4.1.t0",
+          "mn8:4.1.t1",
+          "mn8:4.1.t2",
+          "mn8:4.1.t3",
+          "mn8:4.1.t4",
+          "mn8:4.1.t5",
+          "mn8:4.1.t6",
+          "mn8:4.1.t7",
+          "mn8:4.1.t8",
+          "mn8:4.1.t9",
+          "mn8:4.1.t10",
+          "mn8:4.1.t11",
+          "mn8:4.1.t12",
+          "mn8:4.1.t13",
+          "mn8:4.1.t14",
+          "mn8:4.1.t15",
+          "mn8:4.1.t16",
+          "mn8:4.1.t17",
+          "mn8:4.1.t18",
+          "mn8:4.1.t19",
+          "mn8:4.1.t20"
+        ],
+        "review_status": "approved",
+        "content": "純陀，確實有此情況：此處某比丘，遠離諸欲、遠離諸不善法，具有尋、有伺，由離而生喜樂，成就初禪而住。"
+      }
     },
     {
       "segment_id": "mn8:4.2",
@@ -4917,7 +5098,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:4.2.t0",
+          "mn8:4.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他而言，便會如此思量："
+      }
     },
     {
       "segment_id": "mn8:4.3",
@@ -4978,7 +5167,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:4.3.t0",
+          "mn8:4.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「這是磨除。」"
+      }
     },
     {
       "segment_id": "mn8:4.4",
@@ -5247,7 +5444,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:4.4.t0",
+          "mn8:4.4.t1",
+          "mn8:4.4.t2",
+          "mn8:4.4.t3",
+          "mn8:4.4.t4",
+          "mn8:4.4.t5",
+          "mn8:4.4.t6",
+          "mn8:4.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "然而，純陀，這些在聖者的律中，確實並不被稱為磨除；"
+      }
     },
     {
       "segment_id": "mn8:4.5",
@@ -5503,7 +5714,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:4.5.t0",
+          "mn8:4.5.t1",
+          "mn8:4.5.t2",
+          "mn8:4.5.t3",
+          "mn8:4.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中，被稱為現法樂住。"
+      }
     },
     {
       "segment_id": "mn8:5.1",
@@ -6423,7 +6645,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:5.2.t0",
+          "mn8:5.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他而言，便會如此思量："
+      }
     },
     {
       "segment_id": "mn8:5.3",
@@ -6484,7 +6714,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:5.3.t0",
+          "mn8:5.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「這是磨除。」"
+      }
     },
     {
       "segment_id": "mn8:5.4",
@@ -6753,7 +6991,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:5.4.t0",
+          "mn8:5.4.t1",
+          "mn8:5.4.t2",
+          "mn8:5.4.t3",
+          "mn8:5.4.t4",
+          "mn8:5.4.t5",
+          "mn8:5.4.t6",
+          "mn8:5.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "然而，純陀，這些在聖者的律中，確實並不被稱為磨除；"
+      }
     },
     {
       "segment_id": "mn8:5.5",
@@ -7009,7 +7261,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:5.5.t0",
+          "mn8:5.5.t1",
+          "mn8:5.5.t2",
+          "mn8:5.5.t3",
+          "mn8:5.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中，被稱為現法樂住。"
+      }
     },
     {
       "segment_id": "mn8:6.1",
@@ -8217,7 +8480,45 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:6.1.t0",
+          "mn8:6.1.t1",
+          "mn8:6.1.t2",
+          "mn8:6.1.t3",
+          "mn8:6.1.t4",
+          "mn8:6.1.t5",
+          "mn8:6.1.t6",
+          "mn8:6.1.t7",
+          "mn8:6.1.t8",
+          "mn8:6.1.t9",
+          "mn8:6.1.t10",
+          "mn8:6.1.t11",
+          "mn8:6.1.t12",
+          "mn8:6.1.t13",
+          "mn8:6.1.t14",
+          "mn8:6.1.t15",
+          "mn8:6.1.t16",
+          "mn8:6.1.t17",
+          "mn8:6.1.t18",
+          "mn8:6.1.t19",
+          "mn8:6.1.t20",
+          "mn8:6.1.t21",
+          "mn8:6.1.t22",
+          "mn8:6.1.t23",
+          "mn8:6.1.t24",
+          "mn8:6.1.t25",
+          "mn8:6.1.t26",
+          "mn8:6.1.t27",
+          "mn8:6.1.t28",
+          "mn8:6.1.t29",
+          "mn8:6.1.t30",
+          "mn8:6.1.t31"
+        ],
+        "review_status": "approved",
+        "content": "純陀，確實存在這樣的情況：此處某位比丘，由於喜的褪去，具捨而住，自己正知，並以身親身感受那種樂——聖者們宣說此人為「具捨、具念、樂住者」——，具足第三禪而住。"
+      }
     },
     {
       "segment_id": "mn8:6.2",
@@ -8304,7 +8605,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:6.2.t0",
+          "mn8:6.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "他會如此（想）："
+      }
     },
     {
       "segment_id": "mn8:6.3",
@@ -8365,7 +8674,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:6.3.t0",
+          "mn8:6.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「（這是）以消除（而修行）。」"
+      }
     },
     {
       "segment_id": "mn8:6.4",
@@ -8634,7 +8951,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:6.4.t0",
+          "mn8:6.4.t1",
+          "mn8:6.4.t2",
+          "mn8:6.4.t3",
+          "mn8:6.4.t4",
+          "mn8:6.4.t5",
+          "mn8:6.4.t6",
+          "mn8:6.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "準陀，確實，這些在聖者的律中並不被稱為消除（法）。"
+      }
     },
     {
       "segment_id": "mn8:6.5",
@@ -8890,7 +9221,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:6.5.t0",
+          "mn8:6.5.t1",
+          "mn8:6.5.t2",
+          "mn8:6.5.t3",
+          "mn8:6.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中被稱為現法樂住。"
+      }
     },
     {
       "segment_id": "mn8:7.1",
@@ -9797,7 +10139,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:7.1.t0",
+          "mn8:7.1.t1",
+          "mn8:7.1.t2",
+          "mn8:7.1.t3",
+          "mn8:7.1.t4",
+          "mn8:7.1.t5",
+          "mn8:7.1.t6",
+          "mn8:7.1.t7",
+          "mn8:7.1.t8",
+          "mn8:7.1.t9",
+          "mn8:7.1.t10",
+          "mn8:7.1.t11",
+          "mn8:7.1.t12",
+          "mn8:7.1.t13",
+          "mn8:7.1.t14",
+          "mn8:7.1.t15",
+          "mn8:7.1.t16",
+          "mn8:7.1.t17",
+          "mn8:7.1.t18",
+          "mn8:7.1.t19",
+          "mn8:7.1.t20",
+          "mn8:7.1.t21",
+          "mn8:7.1.t22"
+        ],
+        "review_status": "approved",
+        "content": "準陀，確實此處存在（這種情況）：此中某位比丘，捨斷樂、捨斷苦，且先前喜悅與憂惱已滅沒，進入不苦不樂、捨念清淨的第四禪而住。"
+      }
     },
     {
       "segment_id": "mn8:7.2",
@@ -9884,7 +10255,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:7.2.t0",
+          "mn8:7.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "他會如此（想）："
+      }
     },
     {
       "segment_id": "mn8:7.3",
@@ -9945,7 +10324,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:7.3.t0",
+          "mn8:7.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「（這是）以消除（而修行）。」"
+      }
     },
     {
       "segment_id": "mn8:7.4",
@@ -10214,7 +10601,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:7.4.t0",
+          "mn8:7.4.t1",
+          "mn8:7.4.t2",
+          "mn8:7.4.t3",
+          "mn8:7.4.t4",
+          "mn8:7.4.t5",
+          "mn8:7.4.t6",
+          "mn8:7.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "準陀，確實，這些在聖者的律中並不被稱為消除（法）。"
+      }
     },
     {
       "segment_id": "mn8:7.5",
@@ -10470,7 +10871,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:7.5.t0",
+          "mn8:7.5.t1",
+          "mn8:7.5.t2",
+          "mn8:7.5.t3",
+          "mn8:7.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中被稱為現法樂住。"
+      }
     },
     {
       "segment_id": "mn8:8.1",
@@ -11096,7 +11508,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:8.1.t0",
+          "mn8:8.1.t1",
+          "mn8:8.1.t2",
+          "mn8:8.1.t3",
+          "mn8:8.1.t4",
+          "mn8:8.1.t5",
+          "mn8:8.1.t6",
+          "mn8:8.1.t7",
+          "mn8:8.1.t8",
+          "mn8:8.1.t9",
+          "mn8:8.1.t10",
+          "mn8:8.1.t11",
+          "mn8:8.1.t12",
+          "mn8:8.1.t13",
+          "mn8:8.1.t14",
+          "mn8:8.1.t15",
+          "mn8:8.1.t16",
+          "mn8:8.1.t17",
+          "mn8:8.1.t18",
+          "mn8:8.1.t19",
+          "mn8:8.1.t20"
+        ],
+        "review_status": "approved",
+        "content": "準陀，確實此處存在（這種情況）：此中某位比丘，完全地超越一切色想、滅沒抵觸想、不作意種種想，（以）「虛空無邊」（之念），進入空無邊處而住。"
+      }
     },
     {
       "segment_id": "mn8:8.2",
@@ -11183,7 +11622,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:8.2.t0",
+          "mn8:8.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他而言，心中這樣想道："
+      }
     },
     {
       "segment_id": "mn8:8.3",
@@ -11244,7 +11691,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:8.3.t0",
+          "mn8:8.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「（此乃）以磨滅（之道）。」"
+      }
     },
     {
       "segment_id": "mn8:8.4",
@@ -11513,7 +11968,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:8.4.t0",
+          "mn8:8.4.t1",
+          "mn8:8.4.t2",
+          "mn8:8.4.t3",
+          "mn8:8.4.t4",
+          "mn8:8.4.t5",
+          "mn8:8.4.t6",
+          "mn8:8.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "然而純陀，這些在聖者的律中，的確並不被稱為「磨滅」。"
+      }
     },
     {
       "segment_id": "mn8:8.5",
@@ -11839,7 +12308,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:8.5.t0",
+          "mn8:8.5.t1",
+          "mn8:8.5.t2",
+          "mn8:8.5.t3",
+          "mn8:8.5.t4",
+          "mn8:8.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中被稱為住處。"
+      }
     },
     {
       "segment_id": "mn8:9.1",
@@ -12311,7 +12792,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:9.1.t0",
+          "mn8:9.1.t1",
+          "mn8:9.1.t2",
+          "mn8:9.1.t3",
+          "mn8:9.1.t4",
+          "mn8:9.1.t5",
+          "mn8:9.1.t6",
+          "mn8:9.1.t7",
+          "mn8:9.1.t8",
+          "mn8:9.1.t9",
+          "mn8:9.1.t10",
+          "mn8:9.1.t11",
+          "mn8:9.1.t13",
+          "mn8:9.1.t14",
+          "mn8:9.1.t15",
+          "mn8:9.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "然而純陀，的確存在這樣的情況：此處某一位比丘，完全超越空無邊處，（念）「識是無邊的」，進入識無邊處而安住。"
+      }
     },
     {
       "segment_id": "mn8:9.2",
@@ -12398,7 +12901,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:9.2.t0",
+          "mn8:9.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他而言，心中這樣想道："
+      }
     },
     {
       "segment_id": "mn8:9.3",
@@ -12459,7 +12970,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:9.3.t0",
+          "mn8:9.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「（此乃）以磨滅（之道）。」"
+      }
     },
     {
       "segment_id": "mn8:9.4",
@@ -12728,7 +13247,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:9.4.t0",
+          "mn8:9.4.t1",
+          "mn8:9.4.t2",
+          "mn8:9.4.t3",
+          "mn8:9.4.t4",
+          "mn8:9.4.t5",
+          "mn8:9.4.t6",
+          "mn8:9.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "然而純陀，這些在聖者的律中，的確並不被稱為「磨滅」。"
+      }
     },
     {
       "segment_id": "mn8:9.5",
@@ -13054,7 +13587,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:9.5.t0",
+          "mn8:9.5.t1",
+          "mn8:9.5.t2",
+          "mn8:9.5.t3",
+          "mn8:9.5.t4",
+          "mn8:9.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的律中被稱為住處。"
+      }
     },
     {
       "segment_id": "mn8:10.1",
@@ -13499,7 +14044,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:10.1.t0",
+          "mn8:10.1.t1",
+          "mn8:10.1.t2",
+          "mn8:10.1.t3",
+          "mn8:10.1.t4",
+          "mn8:10.1.t5",
+          "mn8:10.1.t6",
+          "mn8:10.1.t7",
+          "mn8:10.1.t8",
+          "mn8:10.1.t9",
+          "mn8:10.1.t10",
+          "mn8:10.1.t11",
+          "mn8:10.1.t13",
+          "mn8:10.1.t14",
+          "mn8:10.1.t15",
+          "mn8:10.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "然而純陀，的確存在這樣的情況：此處某一位比丘，完全超越識無邊處，（念）「無所有」，進入無所有處而安住。"
+      }
     },
     {
       "segment_id": "mn8:10.2",
@@ -13586,7 +14153,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:10.2.t0",
+          "mn8:10.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他如此想到（心中如此升起）"
+      }
     },
     {
       "segment_id": "mn8:10.3",
@@ -13647,7 +14222,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:10.3.t0",
+          "mn8:10.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「……以磨除之法。」"
+      }
     },
     {
       "segment_id": "mn8:10.4",
@@ -13916,7 +14499,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:10.4.t0",
+          "mn8:10.4.t1",
+          "mn8:10.4.t2",
+          "mn8:10.4.t3",
+          "mn8:10.4.t4",
+          "mn8:10.4.t5",
+          "mn8:10.4.t6",
+          "mn8:10.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "純陀，然而這些在聖者的戒律中確實不被稱為磨除法。"
+      }
     },
     {
       "segment_id": "mn8:10.5",
@@ -14242,7 +14839,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:10.5.t0",
+          "mn8:10.5.t1",
+          "mn8:10.5.t2",
+          "mn8:10.5.t3",
+          "mn8:10.5.t4",
+          "mn8:10.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的戒律中被稱為住處（安住之法）。"
+      }
     },
     {
       "segment_id": "mn8:11.1",
@@ -14622,7 +15231,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:11.1.t0",
+          "mn8:11.1.t1",
+          "mn8:11.1.t2",
+          "mn8:11.1.t3",
+          "mn8:11.1.t4",
+          "mn8:11.1.t5",
+          "mn8:11.1.t6",
+          "mn8:11.1.t7",
+          "mn8:11.1.t8",
+          "mn8:11.1.t9",
+          "mn8:11.1.t10",
+          "mn8:11.1.t11",
+          "mn8:11.1.t12",
+          "mn8:11.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，然而確實存在這種情況：此處有某位比丘完全超越無所有處，具足非想非非想處而安住。"
+      }
     },
     {
       "segment_id": "mn8:11.2",
@@ -14709,7 +15338,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:11.2.t0",
+          "mn8:11.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "對他如此想到（心中如此升起）"
+      }
     },
     {
       "segment_id": "mn8:11.3",
@@ -14770,7 +15407,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:11.3.t0",
+          "mn8:11.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「……以磨除之法。」"
+      }
     },
     {
       "segment_id": "mn8:11.4",
@@ -15039,7 +15684,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:11.4.t0",
+          "mn8:11.4.t1",
+          "mn8:11.4.t2",
+          "mn8:11.4.t3",
+          "mn8:11.4.t4",
+          "mn8:11.4.t5",
+          "mn8:11.4.t6",
+          "mn8:11.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "純陀，然而這些在聖者的戒律中確實不被稱為磨除法。"
+      }
     },
     {
       "segment_id": "mn8:11.5",
@@ -15365,7 +16024,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:11.5.t0",
+          "mn8:11.5.t1",
+          "mn8:11.5.t2",
+          "mn8:11.5.t3",
+          "mn8:11.5.t4",
+          "mn8:11.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "這些在聖者的戒律中被稱為住處（安住之法）。"
+      }
     },
     {
       "segment_id": "mn8:12.0",
@@ -15401,7 +16072,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "磨除法門"
+      }
     },
     {
       "segment_id": "mn8:12.1",
@@ -15567,7 +16245,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.1.t0",
+          "mn8:12.1.t1",
+          "mn8:12.1.t2",
+          "mn8:12.1.t3",
+          "mn8:12.1.t4",
+          "mn8:12.1.t5",
+          "mn8:12.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "准陀，然而於此確實應當修習磨滅（之道）。"
+      }
     },
     {
       "segment_id": "mn8:12.2",
@@ -15912,7 +16603,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.2.t0",
+          "mn8:12.2.t1",
+          "mn8:12.2.t2",
+          "mn8:12.2.t3",
+          "mn8:12.2.t4",
+          "mn8:12.2.t6",
+          "mn8:12.2.t7",
+          "mn8:12.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是殘忍的，而我們在此將是不加害的」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.3",
@@ -16309,7 +17014,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.3.t0",
+          "mn8:12.3.t1",
+          "mn8:12.3.t2",
+          "mn8:12.3.t3",
+          "mn8:12.3.t4",
+          "mn8:12.3.t5",
+          "mn8:12.3.t7",
+          "mn8:12.3.t8",
+          "mn8:12.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是殺生者，而我們在此將離棄殺生」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.4",
@@ -16706,7 +17426,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.4.t0",
+          "mn8:12.4.t1",
+          "mn8:12.4.t2",
+          "mn8:12.4.t3",
+          "mn8:12.4.t4",
+          "mn8:12.4.t5",
+          "mn8:12.4.t7",
+          "mn8:12.4.t8",
+          "mn8:12.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是偷盜者，而我們在此將離棄偷盜」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.5",
@@ -17051,7 +17786,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.5.t0",
+          "mn8:12.5.t1",
+          "mn8:12.5.t2",
+          "mn8:12.5.t3",
+          "mn8:12.5.t4",
+          "mn8:12.5.t6",
+          "mn8:12.5.t7",
+          "mn8:12.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是非梵行者，而我們在此將是梵行者」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.6",
@@ -17448,7 +18197,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.6.t0",
+          "mn8:12.6.t1",
+          "mn8:12.6.t2",
+          "mn8:12.6.t3",
+          "mn8:12.6.t4",
+          "mn8:12.6.t5",
+          "mn8:12.6.t7",
+          "mn8:12.6.t8",
+          "mn8:12.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是妄語者，而我們在此將離棄妄語」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.7",
@@ -17933,7 +18697,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.7.t0",
+          "mn8:12.7.t1",
+          "mn8:12.7.t2",
+          "mn8:12.7.t3",
+          "mn8:12.7.t4",
+          "mn8:12.7.t5",
+          "mn8:12.7.t6",
+          "mn8:12.7.t8",
+          "mn8:12.7.t9",
+          "mn8:12.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是說離間語者，而我們在此將離棄離間語」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.8",
@@ -18418,7 +19198,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.8.t0",
+          "mn8:12.8.t1",
+          "mn8:12.8.t2",
+          "mn8:12.8.t3",
+          "mn8:12.8.t4",
+          "mn8:12.8.t5",
+          "mn8:12.8.t6",
+          "mn8:12.8.t8",
+          "mn8:12.8.t9",
+          "mn8:12.8.t10"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是粗惡語者，而我們在此將離棄粗惡語」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.9",
@@ -18815,7 +19611,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.9.t0",
+          "mn8:12.9.t1",
+          "mn8:12.9.t2",
+          "mn8:12.9.t3",
+          "mn8:12.9.t4",
+          "mn8:12.9.t5",
+          "mn8:12.9.t7",
+          "mn8:12.9.t8",
+          "mn8:12.9.t9"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是綺語者，而我們在此將離棄綺語」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.10",
@@ -19160,7 +19971,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.10.t0",
+          "mn8:12.10.t1",
+          "mn8:12.10.t2",
+          "mn8:12.10.t3",
+          "mn8:12.10.t4",
+          "mn8:12.10.t6",
+          "mn8:12.10.t7",
+          "mn8:12.10.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將是貪求者，而我們在此將是不貪求者」——應當修習磨滅。"
+      }
     },
     {
       "segment_id": "mn8:12.11",
@@ -19505,7 +20330,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.11.t0",
+          "mn8:12.11.t1",
+          "mn8:12.11.t2",
+          "mn8:12.11.t3",
+          "mn8:12.11.t4",
+          "mn8:12.11.t6",
+          "mn8:12.11.t7",
+          "mn8:12.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將心懷瞋惱，在此我們應心無瞋惱」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.12",
@@ -19850,7 +20689,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.12.t0",
+          "mn8:12.12.t1",
+          "mn8:12.12.t2",
+          "mn8:12.12.t3",
+          "mn8:12.12.t4",
+          "mn8:12.12.t6",
+          "mn8:12.12.t7",
+          "mn8:12.12.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將持邪見，在此我們應持正見」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.13",
@@ -20195,7 +21048,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.13.t0",
+          "mn8:12.13.t1",
+          "mn8:12.13.t2",
+          "mn8:12.13.t3",
+          "mn8:12.13.t4",
+          "mn8:12.13.t6",
+          "mn8:12.13.t7",
+          "mn8:12.13.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將懷邪思惟，在此我們應懷正思惟」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.14",
@@ -20540,7 +21407,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.14.t0",
+          "mn8:12.14.t1",
+          "mn8:12.14.t2",
+          "mn8:12.14.t3",
+          "mn8:12.14.t4",
+          "mn8:12.14.t6",
+          "mn8:12.14.t7",
+          "mn8:12.14.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將行邪語，在此我們應行正語」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.15",
@@ -20885,7 +21766,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.15.t0",
+          "mn8:12.15.t1",
+          "mn8:12.15.t2",
+          "mn8:12.15.t3",
+          "mn8:12.15.t4",
+          "mn8:12.15.t6",
+          "mn8:12.15.t7",
+          "mn8:12.15.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將行邪業，在此我們應行正業」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.16",
@@ -21230,7 +22125,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.16.t0",
+          "mn8:12.16.t1",
+          "mn8:12.16.t2",
+          "mn8:12.16.t3",
+          "mn8:12.16.t4",
+          "mn8:12.16.t6",
+          "mn8:12.16.t7",
+          "mn8:12.16.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將以邪命為生，在此我們應以正命為生」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.17",
@@ -21575,7 +22484,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.17.t0",
+          "mn8:12.17.t1",
+          "mn8:12.17.t2",
+          "mn8:12.17.t3",
+          "mn8:12.17.t4",
+          "mn8:12.17.t6",
+          "mn8:12.17.t7",
+          "mn8:12.17.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將懷邪精進，在此我們應懷正精進」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.18",
@@ -21920,7 +22843,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.18.t0",
+          "mn8:12.18.t1",
+          "mn8:12.18.t2",
+          "mn8:12.18.t3",
+          "mn8:12.18.t4",
+          "mn8:12.18.t6",
+          "mn8:12.18.t7",
+          "mn8:12.18.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將行邪念，在此我們應修正念」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.19",
@@ -22265,7 +23202,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.19.t0",
+          "mn8:12.19.t1",
+          "mn8:12.19.t2",
+          "mn8:12.19.t3",
+          "mn8:12.19.t4",
+          "mn8:12.19.t6",
+          "mn8:12.19.t7",
+          "mn8:12.19.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將行邪定，在此我們應修正定」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.20",
@@ -22610,7 +23561,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.20.t0",
+          "mn8:12.20.t1",
+          "mn8:12.20.t2",
+          "mn8:12.20.t3",
+          "mn8:12.20.t4",
+          "mn8:12.20.t6",
+          "mn8:12.20.t7",
+          "mn8:12.20.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將懷邪智，在此我們應懷正智」——此磨滅之道應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.21",
@@ -22955,7 +23920,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.21.t0",
+          "mn8:12.21.t1",
+          "mn8:12.21.t2",
+          "mn8:12.21.t3",
+          "mn8:12.21.t4",
+          "mn8:12.21.t6",
+          "mn8:12.21.t7",
+          "mn8:12.21.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會是邪解脫者，而我們在此將會是正解脫者」——如是，磨除（自勉）應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.22",
@@ -23300,7 +24279,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.22.t0",
+          "mn8:12.22.t1",
+          "mn8:12.22.t2",
+          "mn8:12.22.t3",
+          "mn8:12.22.t4",
+          "mn8:12.22.t6",
+          "mn8:12.22.t7",
+          "mn8:12.22.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會被惛沉睡眠所纏縛，而我們在此將會離惛沉睡眠」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.23",
@@ -23645,7 +24638,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.23.t0",
+          "mn8:12.23.t1",
+          "mn8:12.23.t2",
+          "mn8:12.23.t3",
+          "mn8:12.23.t4",
+          "mn8:12.23.t6",
+          "mn8:12.23.t7",
+          "mn8:12.23.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會傲慢自大，而我們在此將會不傲慢」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.24",
@@ -23990,7 +24997,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.24.t0",
+          "mn8:12.24.t1",
+          "mn8:12.24.t2",
+          "mn8:12.24.t3",
+          "mn8:12.24.t4",
+          "mn8:12.24.t6",
+          "mn8:12.24.t7",
+          "mn8:12.24.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會是〔資料不足：vicikicchī〕，而我們在此將會是已越度疑者」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.25",
@@ -24335,7 +25356,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.25.t0",
+          "mn8:12.25.t1",
+          "mn8:12.25.t2",
+          "mn8:12.25.t3",
+          "mn8:12.25.t4",
+          "mn8:12.25.t6",
+          "mn8:12.25.t7",
+          "mn8:12.25.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會易怒，而我們在此將會無瞋」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.26",
@@ -24680,7 +25715,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.26.t0",
+          "mn8:12.26.t1",
+          "mn8:12.26.t2",
+          "mn8:12.26.t3",
+          "mn8:12.26.t4",
+          "mn8:12.26.t6",
+          "mn8:12.26.t7",
+          "mn8:12.26.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會懷恨抱怨，而我們在此將會不懷恨」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.27",
@@ -25025,7 +26074,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.27.t0",
+          "mn8:12.27.t1",
+          "mn8:12.27.t2",
+          "mn8:12.27.t3",
+          "mn8:12.27.t4",
+          "mn8:12.27.t6",
+          "mn8:12.27.t7",
+          "mn8:12.27.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會誹謗覆蓋他人善德，而我們在此將會不誹謗」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.28",
@@ -25370,7 +26433,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.28.t0",
+          "mn8:12.28.t1",
+          "mn8:12.28.t2",
+          "mn8:12.28.t3",
+          "mn8:12.28.t4",
+          "mn8:12.28.t6",
+          "mn8:12.28.t7",
+          "mn8:12.28.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會爭競好勝，而我們在此將會不爭競」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.29",
@@ -25715,7 +26792,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.29.t0",
+          "mn8:12.29.t1",
+          "mn8:12.29.t2",
+          "mn8:12.29.t3",
+          "mn8:12.29.t4",
+          "mn8:12.29.t6",
+          "mn8:12.29.t7",
+          "mn8:12.29.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會嫉妒，而我們在此將會無嫉妒」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.30",
@@ -26060,7 +27151,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.30.t0",
+          "mn8:12.30.t1",
+          "mn8:12.30.t2",
+          "mn8:12.30.t3",
+          "mn8:12.30.t4",
+          "mn8:12.30.t6",
+          "mn8:12.30.t7",
+          "mn8:12.30.t8"
+        ],
+        "review_status": "approved",
+        "content": "「〔資料不足〕將會慳吝，而我們在此將會無慳吝」——如是，磨除應當修習。"
+      }
     },
     {
       "segment_id": "mn8:12.31",
@@ -26405,7 +27510,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.31.t0",
+          "mn8:12.31.t1",
+          "mn8:12.31.t2",
+          "mn8:12.31.t3",
+          "mn8:12.31.t4",
+          "mn8:12.31.t6",
+          "mn8:12.31.t7",
+          "mn8:12.31.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是狡詐欺騙的；在此，我們應不狡詐、誠實」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.32",
@@ -26750,7 +27869,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.32.t0",
+          "mn8:12.32.t1",
+          "mn8:12.32.t2",
+          "mn8:12.32.t3",
+          "mn8:12.32.t4",
+          "mn8:12.32.t6",
+          "mn8:12.32.t7",
+          "mn8:12.32.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是虛偽欺詐的；在此，我們應不虛偽、不欺詐」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.33",
@@ -27095,7 +28228,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.33.t0",
+          "mn8:12.33.t1",
+          "mn8:12.33.t2",
+          "mn8:12.33.t3",
+          "mn8:12.33.t4",
+          "mn8:12.33.t6",
+          "mn8:12.33.t7",
+          "mn8:12.33.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是固執頑硬的；在此，我們應不固執、不頑硬」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.34",
@@ -27440,7 +28587,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.34.t0",
+          "mn8:12.34.t1",
+          "mn8:12.34.t2",
+          "mn8:12.34.t3",
+          "mn8:12.34.t4",
+          "mn8:12.34.t6",
+          "mn8:12.34.t7",
+          "mn8:12.34.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是傲慢自負的；在此，我們應不傲慢、謙遜」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.35",
@@ -27785,7 +28946,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.35.t0",
+          "mn8:12.35.t1",
+          "mn8:12.35.t2",
+          "mn8:12.35.t3",
+          "mn8:12.35.t4",
+          "mn8:12.35.t6",
+          "mn8:12.35.t7",
+          "mn8:12.35.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是難以教誨的；在此，我們應易於教誨、順從」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.36",
@@ -28130,7 +29305,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.36.t0",
+          "mn8:12.36.t1",
+          "mn8:12.36.t2",
+          "mn8:12.36.t3",
+          "mn8:12.36.t4",
+          "mn8:12.36.t6",
+          "mn8:12.36.t7",
+          "mn8:12.36.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會有惡友相伴；在此，我們應與善友（善知識）為伴」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.37",
@@ -28475,7 +29664,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.37.t0",
+          "mn8:12.37.t1",
+          "mn8:12.37.t2",
+          "mn8:12.37.t3",
+          "mn8:12.37.t4",
+          "mn8:12.37.t6",
+          "mn8:12.37.t7",
+          "mn8:12.37.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是放逸疏忽的；在此，我們應不放逸、精勤謹慎」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.38",
@@ -28820,7 +30023,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.38.t0",
+          "mn8:12.38.t1",
+          "mn8:12.38.t2",
+          "mn8:12.38.t3",
+          "mn8:12.38.t4",
+          "mn8:12.38.t6",
+          "mn8:12.38.t7",
+          "mn8:12.38.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是無信的；在此，我們應有信、虔信」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.39",
@@ -29165,7 +30382,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.39.t0",
+          "mn8:12.39.t1",
+          "mn8:12.39.t2",
+          "mn8:12.39.t3",
+          "mn8:12.39.t4",
+          "mn8:12.39.t6",
+          "mn8:12.39.t7",
+          "mn8:12.39.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是無慚的；在此，我們應有慚、有良知」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.40",
@@ -29510,7 +30741,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.40.t0",
+          "mn8:12.40.t1",
+          "mn8:12.40.t2",
+          "mn8:12.40.t3",
+          "mn8:12.40.t4",
+          "mn8:12.40.t6",
+          "mn8:12.40.t7",
+          "mn8:12.40.t8"
+        ],
+        "review_status": "approved",
+        "content": "「（Pare，字義資料不足）將會是無愧的；在此，我們應有愧、畏懼過惡」——此磨除應當奉行。"
+      }
     },
     {
       "segment_id": "mn8:12.41",
@@ -29855,7 +31100,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.41.t0",
+          "mn8:12.41.t1",
+          "mn8:12.41.t2",
+          "mn8:12.41.t3",
+          "mn8:12.41.t4",
+          "mn8:12.41.t6",
+          "mn8:12.41.t7",
+          "mn8:12.41.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是寡聞無學的，我們在此（應）是多聞博學的」——如此，磨滅應當修行。"
+      }
     },
     {
       "segment_id": "mn8:12.42",
@@ -30200,7 +31459,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.42.t0",
+          "mn8:12.42.t1",
+          "mn8:12.42.t2",
+          "mn8:12.42.t3",
+          "mn8:12.42.t4",
+          "mn8:12.42.t6",
+          "mn8:12.42.t7",
+          "mn8:12.42.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是懈怠的，我們在此（應）是精進奮發的」——如此，磨滅應當修行。"
+      }
     },
     {
       "segment_id": "mn8:12.43",
@@ -30545,7 +31818,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.43.t0",
+          "mn8:12.43.t1",
+          "mn8:12.43.t2",
+          "mn8:12.43.t3",
+          "mn8:12.43.t4",
+          "mn8:12.43.t6",
+          "mn8:12.43.t7",
+          "mn8:12.43.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是失念散亂的，我們在此（應）是念力現前的」——如此，磨滅應當修行。"
+      }
     },
     {
       "segment_id": "mn8:12.44",
@@ -30890,7 +32177,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.44.t0",
+          "mn8:12.44.t1",
+          "mn8:12.44.t2",
+          "mn8:12.44.t3",
+          "mn8:12.44.t4",
+          "mn8:12.44.t6",
+          "mn8:12.44.t7",
+          "mn8:12.44.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是愚癡無慧的，我們在此（應）是具足慧的」——如此，磨滅應當修行。"
+      }
     },
     {
       "segment_id": "mn8:12.45",
@@ -31515,7 +32816,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:12.45.t0",
+          "mn8:12.45.t1",
+          "mn8:12.45.t2",
+          "mn8:12.45.t3",
+          "mn8:12.45.t4",
+          "mn8:12.45.t5",
+          "mn8:12.45.t6",
+          "mn8:12.45.t7",
+          "mn8:12.45.t8",
+          "mn8:12.45.t10",
+          "mn8:12.45.t11",
+          "mn8:12.45.t12"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是執取自見、緊握見解、難以捨離的，我們在此（應）是不執取自見、不緊握見解、易於捨離的」——如此，磨滅應當修行。"
+      }
     },
     {
       "segment_id": "mn8:13.0",
@@ -31551,7 +32870,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:13.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "引發心意之法門（段落標題）"
+      }
     },
     {
       "segment_id": "mn8:13.1",
@@ -32019,7 +33345,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:13.1.t0",
+          "mn8:13.1.t1",
+          "mn8:13.1.t2",
+          "mn8:13.1.t3",
+          "mn8:13.1.t4",
+          "mn8:13.1.t5",
+          "mn8:13.1.t6",
+          "mn8:13.1.t7",
+          "mn8:13.1.t8",
+          "mn8:13.1.t9",
+          "mn8:13.1.t10",
+          "mn8:13.1.t11",
+          "mn8:13.1.t12",
+          "mn8:13.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，我確實說，即便只是心意的生起，在諸善法之中也大有裨益——更何況是以身、以語付諸實踐的。"
+      }
     },
     {
       "segment_id": "mn8:13.2",
@@ -32482,7 +33828,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:13.2.t0",
+          "mn8:13.2.t1",
+          "mn8:13.2.t2",
+          "mn8:13.2.t3",
+          "mn8:13.2.t4",
+          "mn8:13.2.t5",
+          "mn8:13.2.t6",
+          "mn8:13.2.t8",
+          "mn8:13.2.t9",
+          "mn8:13.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "是故，純陀，「他人將會是殘酷傷害的，我們在此（應）是不殘酷、不傷害的」——如此，心應當生起。"
+      }
     },
     {
       "segment_id": "mn8:13.3",
@@ -33032,7 +34394,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:13.3.t0",
+          "mn8:13.3.t1",
+          "mn8:13.3.t2",
+          "mn8:13.3.t3",
+          "mn8:13.3.t4",
+          "mn8:13.3.t5",
+          "mn8:13.3.t7",
+          "mn8:13.3.t8",
+          "mn8:13.3.t9",
+          "mn8:13.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是殺生者，我們在此（應）是已遠離殺生的」——如此，心應當生起……（以下依此類推）"
+      }
     },
     {
       "segment_id": "mn8:13.4",
@@ -33740,7 +35118,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:13.4.t0",
+          "mn8:13.4.t1",
+          "mn8:13.4.t2",
+          "mn8:13.4.t3",
+          "mn8:13.4.t4",
+          "mn8:13.4.t5",
+          "mn8:13.4.t6",
+          "mn8:13.4.t7",
+          "mn8:13.4.t8",
+          "mn8:13.4.t10",
+          "mn8:13.4.t11",
+          "mn8:13.4.t12"
+        ],
+        "review_status": "approved",
+        "content": "「他人將會是執取自見、緊握見解、難以捨離的，我們在此（應）是不執取自見、不緊握見解、易於捨離的」——如此，心應當生起。"
+      }
     },
     {
       "segment_id": "mn8:14.0",
@@ -42651,7 +44047,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.0.t1"
+        ],
+        "review_status": "approved",
+        "content": "般涅槃的途徑"
+      }
     },
     {
       "segment_id": "mn8:16.1",
@@ -43082,7 +44485,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.1.t0",
+          "mn8:16.1.t1",
+          "mn8:16.1.t2",
+          "mn8:16.1.t3",
+          "mn8:16.1.t4",
+          "mn8:16.1.t5",
+          "mn8:16.1.t6",
+          "mn8:16.1.t7",
+          "mn8:16.1.t8",
+          "mn8:16.1.t9",
+          "mn8:16.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "純陀，奉行修行的彼人，自身陷於泥沼之中，卻（言稱）將把另一個陷於泥沼中的人拔出——此情況不成立。"
+      }
     },
     {
       "segment_id": "mn8:16.2",
@@ -43388,7 +44808,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.2.t0",
+          "mn8:16.2.t1",
+          "mn8:16.2.t2",
+          "mn8:16.2.t3",
+          "mn8:16.2.t4",
+          "mn8:16.2.t5",
+          "mn8:16.2.t6",
+          "mn8:16.2.t7",
+          "mn8:16.2.t8",
+          "mn8:16.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "純陀，奉行修行的彼人，自身不陷於泥沼之中，（言稱）將把另一個陷於泥沼中的人拔出——此情況成立。"
+      }
     },
     {
       "segment_id": "mn8:16.3",
@@ -43846,7 +45282,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.3.t0",
+          "mn8:16.3.t1",
+          "mn8:16.3.t2",
+          "mn8:16.3.t3",
+          "mn8:16.3.t4",
+          "mn8:16.3.t5",
+          "mn8:16.3.t6",
+          "mn8:16.3.t7",
+          "mn8:16.3.t8",
+          "mn8:16.3.t9",
+          "mn8:16.3.t10",
+          "mn8:16.3.t11",
+          "mn8:16.3.t12",
+          "mn8:16.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，奉行修行的彼人，自身未調伏、未受訓練、未完全寂滅，（言稱）將調伏他人、訓練他人、令他人完全寂滅——此情況不成立。"
+      }
     },
     {
       "segment_id": "mn8:16.4",
@@ -44188,7 +45644,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.4.t0",
+          "mn8:16.4.t1",
+          "mn8:16.4.t2",
+          "mn8:16.4.t3",
+          "mn8:16.4.t4",
+          "mn8:16.4.t5",
+          "mn8:16.4.t6",
+          "mn8:16.4.t7",
+          "mn8:16.4.t8",
+          "mn8:16.4.t9",
+          "mn8:16.4.t10",
+          "mn8:16.4.t11",
+          "mn8:16.4.t12"
+        ],
+        "review_status": "approved",
+        "content": "純陀，奉行修行的彼人，自身已（調伏）、已受訓練、已完全寂滅，（言稱）將調伏他人、訓練他人、令他人完全寂滅——此情況成立。"
+      }
     },
     {
       "segment_id": "mn8:16.5",
@@ -44578,7 +46053,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.5.t0",
+          "mn8:16.5.t1",
+          "mn8:16.5.t2",
+          "mn8:16.5.t3",
+          "mn8:16.5.t4",
+          "mn8:16.5.t5",
+          "mn8:16.5.t6",
+          "mn8:16.5.t7",
+          "mn8:16.5.t8",
+          "mn8:16.5.t9",
+          "mn8:16.5.t10",
+          "mn8:16.5.t11",
+          "mn8:16.5.t12",
+          "mn8:16.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，同樣地：對殘忍傷害人的人而言，不傷害是趨向般涅槃的；對殺生的人而言，離殺生是趨向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.6",
@@ -44777,7 +46272,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.6.t0",
+          "mn8:16.6.t1",
+          "mn8:16.6.t2",
+          "mn8:16.6.t3",
+          "mn8:16.6.t4",
+          "mn8:16.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "對取不與物（偷盜）的人而言，離取不與物是趨向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.7",
@@ -44957,7 +46464,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.7.t0",
+          "mn8:16.7.t1",
+          "mn8:16.7.t2",
+          "mn8:16.7.t3",
+          "mn8:16.7.t4",
+          "mn8:16.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "對不行梵行（不獨身）的人而言，離不梵行是趨向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.8",
@@ -45137,7 +46656,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.8.t0",
+          "mn8:16.8.t1",
+          "mn8:16.8.t2",
+          "mn8:16.8.t3",
+          "mn8:16.8.t4",
+          "mn8:16.8.t5"
+        ],
+        "review_status": "approved",
+        "content": "對說妄語的人而言，離妄語是趨向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.9",
@@ -45433,7 +46964,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.9.t0",
+          "mn8:16.9.t1",
+          "mn8:16.9.t2",
+          "mn8:16.9.t3",
+          "mn8:16.9.t4",
+          "mn8:16.9.t5",
+          "mn8:16.9.t6"
+        ],
+        "review_status": "approved",
+        "content": "對說離間語的人而言，離離間語是趨向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.10",
@@ -45729,7 +47273,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.10.t0",
+          "mn8:16.10.t1",
+          "mn8:16.10.t2",
+          "mn8:16.10.t3",
+          "mn8:16.10.t4",
+          "mn8:16.10.t5",
+          "mn8:16.10.t6"
+        ],
+        "review_status": "approved",
+        "content": "對於說粗惡語的補特伽羅，離粗惡語，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.11",
@@ -45909,7 +47466,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.11.t0",
+          "mn8:16.11.t1",
+          "mn8:16.11.t2",
+          "mn8:16.11.t3",
+          "mn8:16.11.t4",
+          "mn8:16.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "對於說雜穢語的補特伽羅，離雜穢語，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.12",
@@ -46083,7 +47652,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.12.t0",
+          "mn8:16.12.t1",
+          "mn8:16.12.t2",
+          "mn8:16.12.t3",
+          "mn8:16.12.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於貪婪的補特伽羅，無貪，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.13",
@@ -46202,7 +47782,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.13.t0",
+          "mn8:16.13.t1",
+          "mn8:16.13.t2",
+          "mn8:16.13.t3",
+          "mn8:16.13.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於懷有瞋恚心的補特伽羅，無瞋，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.14",
@@ -46358,7 +47949,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.14.t0",
+          "mn8:16.14.t1",
+          "mn8:16.14.t2",
+          "mn8:16.14.t3",
+          "mn8:16.14.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具邪見的補特伽羅，正見，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.15",
@@ -46505,7 +48107,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.15.t0",
+          "mn8:16.15.t1",
+          "mn8:16.15.t2",
+          "mn8:16.15.t3",
+          "mn8:16.15.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具邪思惟的補特伽羅，正思惟，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.16",
@@ -46679,7 +48292,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.16.t0",
+          "mn8:16.16.t1",
+          "mn8:16.16.t2",
+          "mn8:16.16.t3",
+          "mn8:16.16.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於說邪語的補特伽羅，正語，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.17",
@@ -46826,7 +48450,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.17.t0",
+          "mn8:16.17.t1",
+          "mn8:16.17.t2",
+          "mn8:16.17.t3",
+          "mn8:16.17.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具邪業的補特伽羅，正業，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.18",
@@ -46973,7 +48608,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.18.t0",
+          "mn8:16.18.t1",
+          "mn8:16.18.t2",
+          "mn8:16.18.t3",
+          "mn8:16.18.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具邪命的補特伽羅，正命，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.19",
@@ -47120,7 +48766,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.19.t0",
+          "mn8:16.19.t1",
+          "mn8:16.19.t2",
+          "mn8:16.19.t3",
+          "mn8:16.19.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具邪精進的補特伽羅，正精進，是為了般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.20",
@@ -47285,7 +48942,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.20.t0",
+          "mn8:16.20.t1",
+          "mn8:16.20.t2",
+          "mn8:16.20.t3",
+          "mn8:16.20.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具有邪念的人，正念得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.21",
@@ -47441,7 +49109,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.21.t0",
+          "mn8:16.21.t1",
+          "mn8:16.21.t2",
+          "mn8:16.21.t3",
+          "mn8:16.21.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具有邪定的人，正定得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.22",
@@ -47551,7 +49230,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.22.t0",
+          "mn8:16.22.t1",
+          "mn8:16.22.t2",
+          "mn8:16.22.t3",
+          "mn8:16.22.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具有邪智的人，正智得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.23",
@@ -47707,7 +49397,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.23.t0",
+          "mn8:16.23.t1",
+          "mn8:16.23.t2",
+          "mn8:16.23.t3",
+          "mn8:16.23.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具有邪解脫的人，正解脫得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.24",
@@ -47835,7 +49536,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.24.t1",
+          "mn8:16.24.t2",
+          "mn8:16.24.t3",
+          "mn8:16.24.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於那個人，遠離惛沉睡眠的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.25",
@@ -47973,7 +49684,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.25.t0",
+          "mn8:16.25.t1",
+          "mn8:16.25.t2",
+          "mn8:16.25.t3",
+          "mn8:16.25.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於掉舉浮躁的人，不掉舉、心不散亂的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.26",
@@ -48101,7 +49823,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.26.t0",
+          "mn8:16.26.t1",
+          "mn8:16.26.t2",
+          "mn8:16.26.t3",
+          "mn8:16.26.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具有疑的人，度越疑惑的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.27",
@@ -48220,7 +49953,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.27.t0",
+          "mn8:16.27.t1",
+          "mn8:16.27.t2",
+          "mn8:16.27.t3",
+          "mn8:16.27.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於易怒的人，無瞋怒的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.28",
@@ -48311,7 +50055,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.28.t0",
+          "mn8:16.28.t1",
+          "mn8:16.28.t2",
+          "mn8:16.28.t3",
+          "mn8:16.28.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於懷有怨恨的人，無怨恨的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.29",
@@ -48402,7 +50157,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.29.t0",
+          "mn8:16.29.t1",
+          "mn8:16.29.t2",
+          "mn8:16.29.t3",
+          "mn8:16.29.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於具詆毀他人習性的人，不詆毀的狀態得以生起，趨向般涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.30",
@@ -48503,7 +50269,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.30.t0",
+          "mn8:16.30.t1",
+          "mn8:16.30.t2",
+          "mn8:16.30.t3",
+          "mn8:16.30.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於好與人角力的那個人，無競爭心，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.31",
@@ -48631,7 +50408,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.31.t0",
+          "mn8:16.31.t1",
+          "mn8:16.31.t2",
+          "mn8:16.31.t3",
+          "mn8:16.31.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於嫉妒的那個人，不嫉妒之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.32",
@@ -48760,7 +50548,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.32.t0",
+          "mn8:16.32.t1",
+          "mn8:16.32.t2",
+          "mn8:16.32.t3",
+          "mn8:16.32.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於吝嗇自私的那個人，不自私慷慨之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.33",
@@ -48925,7 +50724,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.33.t0",
+          "mn8:16.33.t1",
+          "mn8:16.33.t2",
+          "mn8:16.33.t3",
+          "mn8:16.33.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於狡詐欺騙的那個人，誠實無詐之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.34",
@@ -49090,7 +50900,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.34.t0",
+          "mn8:16.34.t1",
+          "mn8:16.34.t2",
+          "mn8:16.34.t3",
+          "mn8:16.34.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於虛偽欺騙的那個人，坦誠不偽之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.35",
@@ -49228,7 +51049,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.35.t0",
+          "mn8:16.35.t1",
+          "mn8:16.35.t2",
+          "mn8:16.35.t3",
+          "mn8:16.35.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於頑固剛硬的那個人，柔軟易處之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.36",
@@ -49319,7 +51151,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.36.t0",
+          "mn8:16.36.t1",
+          "mn8:16.36.t2",
+          "mn8:16.36.t3",
+          "mn8:16.36.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於傲慢自大的那個人，謙遜不慢之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.37",
@@ -49475,7 +51318,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.37.t0",
+          "mn8:16.37.t1",
+          "mn8:16.37.t2",
+          "mn8:16.37.t3",
+          "mn8:16.37.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於難以勸諫的那個人，易於受教溫順之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.38",
@@ -49649,7 +51503,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.38.t0",
+          "mn8:16.38.t1",
+          "mn8:16.38.t2",
+          "mn8:16.38.t3",
+          "mn8:16.38.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於結交惡友的那個人，親近善知識之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.39",
@@ -49768,7 +51633,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.39.t0",
+          "mn8:16.39.t1",
+          "mn8:16.39.t2",
+          "mn8:16.39.t3",
+          "mn8:16.39.t4"
+        ],
+        "review_status": "approved",
+        "content": "對於放逸懈怠的那個人，不放逸謹慎之德，趣向完全涅槃。"
+      }
     },
     {
       "segment_id": "mn8:16.40",
@@ -49942,7 +51818,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.40.t0",
+          "mn8:16.40.t1",
+          "mn8:16.40.t2",
+          "mn8:16.40.t3",
+          "mn8:16.40.t4"
+        ],
+        "review_status": "approved",
+        "content": "對無信的個人而言，信心是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.41",
@@ -50134,7 +52021,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.41.t0",
+          "mn8:16.41.t1",
+          "mn8:16.41.t2",
+          "mn8:16.41.t3",
+          "mn8:16.41.t4"
+        ],
+        "review_status": "approved",
+        "content": "對無慚的個人而言，慚是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.42",
@@ -50253,7 +52151,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.42.t0",
+          "mn8:16.42.t1",
+          "mn8:16.42.t2",
+          "mn8:16.42.t3",
+          "mn8:16.42.t4"
+        ],
+        "review_status": "approved",
+        "content": "對無愧的個人而言，〔ottappaṁ 字義資料不足〕是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.43",
@@ -50391,7 +52300,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.43.t0",
+          "mn8:16.43.t1",
+          "mn8:16.43.t2",
+          "mn8:16.43.t3",
+          "mn8:16.43.t4"
+        ],
+        "review_status": "approved",
+        "content": "對少聞的個人而言，多聞是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.44",
@@ -50528,7 +52448,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.44.t0",
+          "mn8:16.44.t1",
+          "mn8:16.44.t2",
+          "mn8:16.44.t3",
+          "mn8:16.44.t4"
+        ],
+        "review_status": "approved",
+        "content": "對懈怠的個人而言，策勵精進是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.45",
@@ -50656,7 +52587,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.45.t0",
+          "mn8:16.45.t1",
+          "mn8:16.45.t2",
+          "mn8:16.45.t3",
+          "mn8:16.45.t4"
+        ],
+        "review_status": "approved",
+        "content": "對失念的個人而言，正念現前是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.46",
@@ -50830,7 +52772,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.46.t0",
+          "mn8:16.46.t1",
+          "mn8:16.46.t2",
+          "mn8:16.46.t3",
+          "mn8:16.46.t4"
+        ],
+        "review_status": "approved",
+        "content": "對無慧的個人而言，成就慧是朝向般涅槃的。"
+      }
     },
     {
       "segment_id": "mn8:16.47",
@@ -50933,7 +52886,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:16.47.t1",
+          "mn8:16.47.t3",
+          "mn8:16.47.t4"
+        ],
+        "review_status": "approved",
+        "content": "（資料不足：本段僅提供 t1、t3、t4，缺開頭形容詞 t0 與主詞 t2，無法還原完整句義；依現有詞：〔某〕個人……是朝向般涅槃的。）"
+      }
     },
     {
       "segment_id": "mn8:17.1",
@@ -51254,7 +53216,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.1.t0",
+          "mn8:17.1.t1",
+          "mn8:17.1.t2",
+          "mn8:17.1.t3",
+          "mn8:17.1.t4",
+          "mn8:17.1.t5",
+          "mn8:17.1.t6",
+          "mn8:17.1.t7",
+          "mn8:17.1.t8",
+          "mn8:17.1.t9",
+          "mn8:17.1.t10",
+          "mn8:17.1.t11",
+          "mn8:17.1.t12",
+          "mn8:17.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，就這樣，我已教說了捨棄法門，教說了發心法門，教說了迴避法門，教說了向上法門，教說了般涅槃法門。"
+      }
     },
     {
       "segment_id": "mn8:17.2",
@@ -51923,7 +53905,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.2.t0",
+          "mn8:17.2.t1",
+          "mn8:17.2.t2",
+          "mn8:17.2.t3",
+          "mn8:17.2.t4",
+          "mn8:17.2.t5",
+          "mn8:17.2.t6",
+          "mn8:17.2.t7",
+          "mn8:17.2.t8",
+          "mn8:17.2.t9",
+          "mn8:17.2.t10",
+          "mn8:17.2.t11",
+          "mn8:17.2.t12",
+          "mn8:17.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "純陀，凡是師父出於慈悲、為弟子們的利益而應當做的事，我已為你們做了。"
+      }
     },
     {
       "segment_id": "mn8:17.3",
@@ -52571,7 +54573,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.3.t0",
+          "mn8:17.3.t1",
+          "mn8:17.3.t2",
+          "mn8:17.3.t3",
+          "mn8:17.3.t4",
+          "mn8:17.3.t5",
+          "mn8:17.3.t6",
+          "mn8:17.3.t7",
+          "mn8:17.3.t8",
+          "mn8:17.3.t9",
+          "mn8:17.3.t10",
+          "mn8:17.3.t11",
+          "mn8:17.3.t12",
+          "mn8:17.3.t13",
+          "mn8:17.3.t14",
+          "mn8:17.3.t15",
+          "mn8:17.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "「純陀，這些是樹根之處，這些是空曠住所——純陀，〔當〕禪修，莫放逸，莫使自己成為日後追悔之人。這確實是我們的教誡。」"
+      }
     },
     {
       "segment_id": "mn8:17.4",
@@ -52658,7 +54683,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.4.t0",
+          "mn8:17.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這些話。"
+      }
     },
     {
       "segment_id": "mn8:17.5",
@@ -53075,7 +55108,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.6.t0",
+          "mn8:17.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "已宣說四十四項。"
+      }
     },
     {
       "segment_id": "mn8:17.7",
@@ -53210,7 +55251,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.7.t0",
+          "mn8:17.7.t1",
+          "mn8:17.7.t2"
+        ],
+        "review_status": "approved",
+        "content": "五個連聲（連音）已宣說。"
+      }
     },
     {
       "segment_id": "mn8:17.8",
@@ -53280,7 +55330,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.8.t0",
+          "mn8:17.8.t1",
+          "mn8:17.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "名為〈削減〉的經。"
+      }
     },
     {
       "segment_id": "mn8:17.9",
@@ -53321,7 +55380,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.9.t0",
+          "mn8:17.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "（此經）深邃，如大海一般。"
+      }
     },
     {
       "segment_id": "mn8:17.10",
@@ -53447,7 +55514,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.10.t0",
+          "mn8:17.10.t1",
+          "mn8:17.10.t2"
+        ],
+        "review_status": "approved",
+        "content": "〈削減經〉，第八，圓滿。"
+      }
     }
   ],
   "passages": [
@@ -53630,8 +55706,110 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-4-6",
+    "grounded_on": [
+      "mn8:1.1",
+      "mn8:1.2",
+      "mn8:2.1",
+      "mn8:3.1",
+      "mn8:3.2",
+      "mn8:3.3",
+      "mn8:3.4",
+      "mn8:3.5",
+      "mn8:3.6",
+      "mn8:4.1",
+      "mn8:4.3",
+      "mn8:4.4",
+      "mn8:4.5",
+      "mn8:5.1",
+      "mn8:5.3",
+      "mn8:5.4",
+      "mn8:5.5",
+      "mn8:6.1",
+      "mn8:6.3",
+      "mn8:6.4",
+      "mn8:6.5",
+      "mn8:7.1",
+      "mn8:7.3",
+      "mn8:7.4",
+      "mn8:7.5",
+      "mn8:8.1",
+      "mn8:8.4",
+      "mn8:8.5",
+      "mn8:9.1",
+      "mn8:9.4",
+      "mn8:9.5",
+      "mn8:10.1",
+      "mn8:10.4",
+      "mn8:10.5",
+      "mn8:11.1",
+      "mn8:11.4",
+      "mn8:11.5",
+      "mn8:12.0",
+      "mn8:12.1",
+      "mn8:12.2",
+      "mn8:12.3",
+      "mn8:12.12",
+      "mn8:12.45",
+      "mn8:13.0",
+      "mn8:13.1",
+      "mn8:13.2",
+      "mn8:14.0",
+      "mn8:14.3",
+      "mn8:14.4",
+      "mn8:15.0",
+      "mn8:15.1",
+      "mn8:16.0",
+      "mn8:16.1",
+      "mn8:16.2",
+      "mn8:16.3",
+      "mn8:16.4",
+      "mn8:16.5",
+      "mn8:17.1",
+      "mn8:17.2",
+      "mn8:17.3",
+      "mn8:17.6"
+    ],
+    "review_status": "approved",
+    "content": "本經由摩訶純陀問及如何捨棄世間種種我論、世界論之見展開。世尊先教：以正慧如實觀「此非我所、此非我、彼非我之自我」，方能徹底捨離諸見。次辨明一重要區分：修習四禪者若認為自己在修「磨除」，此乃誤解——四禪屬「現法樂住」；修習四無色定者亦然，四無色定屬「寂靜住」，皆非磨除。真正的磨除法門列舉四十四對善惡德目，涵蓋戒行、八正道各支、無貪瞋疑及性格諸德，皆以「他人如此，我等應反其道」的對比句式呈現。世尊再依同一條目宣說「發心」、「迴避」、「向上」、「般涅槃」四法門，以陷泥之喻揭示自身先須調伏方能利他，並勸弟子於樹根、空屋中禪修，勿放逸。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "四禪屬「現法樂住」，非磨除法",
+      "sources": [
+        "mn8:4.3",
+        "mn8:4.4",
+        "mn8:4.5"
+      ],
+      "content": "比丘成就初至第四禪，若自認「此是磨除」，世尊明辨：在聖者的律中，此等稱為「現法樂住」（diṭṭhadhammasukhavihāra），而非磨除法。禪定是善法，不等同於磨除煩惱。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "磨除法門句式：「他人X，我們則非X」",
+      "sources": [
+        "mn8:12.1",
+        "mn8:12.2",
+        "mn8:12.12"
+      ],
+      "content": "磨除法門以固定對比句式展開：「他人將是X，我們在此將是非X（或Y）」，共列44項，涵蓋戒、心、慧三面向。以自我對照取代外評，是本經磨除修行的核心結構。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-4-6",
+      "review_status": "approved",
+      "title": "五法門架構：從磨除到般涅槃",
+      "sources": [
+        "mn8:17.1"
+      ],
+      "content": "世尊於結語總結五法門：磨除、發心（cittupāda）、迴避（parikkamana）、向上（uparibhāga）、般涅槃，同一組德目在五門中各承擔不同角色，顯示修道的層次推進。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",
