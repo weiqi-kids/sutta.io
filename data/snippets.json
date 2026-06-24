@@ -11669,6 +11669,1691 @@
     "pi": "Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ",
     "zh": "蛇喻經，第二，已竟。"
   },
+  "mn23:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn23:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme",
+    "zh": "一時，世尊住於舍衛城祇陀林給孤獨園。"
+  },
+  "mn23:1.3": {
+    "pi": "Tena kho pana samayena āyasmā kumārakassapo andhavane viharati",
+    "zh": "就在那時，具壽鳩摩羅迦葉住於安陀林。"
+  },
+  "mn23:1.4": {
+    "pi": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ andhavanaṁ obhāsetvā yenāyasmā kumārakassapo tenupasaṅkami upasaṅkamitvā ekamantaṁ aṭṭhāsi Ekamantaṁ ṭhitā kho sā devatā āyasmantaṁ kumārakassapaṁ etadavoca",
+    "zh": "然後，某一天神於深夜——容光燦爛——照亮整片安陀林，走向具壽鳩摩羅迦葉處；走近之後站在一旁。那位天神站在一旁，對具壽鳩摩羅迦葉說了這話："
+  },
+  "mn23:2.1": {
+    "pi": "Bhikkhu bhikkhu ayaṁ vammiko rattiṁ dhūmāyati divā pajjalati",
+    "zh": "「比丘！比丘！這座蟻丘，夜間冒煙，白晝燃燒。」"
+  },
+  "mn23:2.2": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如是說："
+  },
+  "mn23:2.3": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「不斷挖吧，聰慧者！取上鐵鍬！」"
+  },
+  "mn23:2.4": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa laṅgiṁ",
+    "zh": "聰慧者不斷挖，取了鐵鍬，看見了一根門閂。"
+  },
+  "mn23:2.5": {
+    "pi": "laṅgī bhadante ti",
+    "zh": "「門閂，尊者！」"
+  },
+  "mn23:2.6": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如是說："
+  },
+  "mn23:2.7": {
+    "pi": "ukkhipa laṅgiṁ",
+    "zh": "移開那門閂。"
+  },
+  "mn23:2.8": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「繼續挖掘吧，賢智者，帶著商隊前行。」"
+  },
+  "mn23:2.9": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa uddhumāyikaṁ",
+    "zh": "正在挖掘的賢智者帶著商隊，看見了一隻印度虎紋蛙（脹起的大青蛙）。"
+  },
+  "mn23:2.10": {
+    "pi": "Uddhumāyikā bhadante ti",
+    "zh": "「（這是）大青蛙，尊者。」"
+  },
+  "mn23:2.11": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說道。"
+  },
+  "mn23:2.12": {
+    "pi": "ukkhipa uddhumāyikaṁ",
+    "zh": "移開那大青蛙。"
+  },
+  "mn23:2.13": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「繼續挖掘吧，賢智者，帶著商隊前行。」"
+  },
+  "mn23:2.14": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa dvidhāpathaṁ",
+    "zh": "正在挖掘的賢智者帶著商隊，看見了一個岔路。"
+  },
+  "mn23:2.15": {
+    "pi": "Dvidhāpatho bhadante ti",
+    "zh": "「（這是）岔路，尊者。」"
+  },
+  "mn23:2.16": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說道。"
+  },
+  "mn23:2.17": {
+    "pi": "ukkhipa dvidhāpathaṁ",
+    "zh": "「移開那岔路！」"
+  },
+  "mn23:2.18": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「繼續掘吧，智慧者啊，帶著商隊！」（引語）"
+  },
+  "mn23:2.19": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa caṅgavāraṁ",
+    "zh": "智慧的掘土者帶著商隊繼續，看見了一個篩子。"
+  },
+  "mn23:2.20": {
+    "pi": "Caṅgavāro bhadante ti",
+    "zh": "「是篩子，尊者！」"
+  },
+  "mn23:2.21": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說道："
+  },
+  "mn23:2.22": {
+    "pi": "ukkhipa caṅgavāraṁ",
+    "zh": "「移開那篩子！」"
+  },
+  "mn23:2.23": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「繼續掘吧，智慧者啊，帶著商隊！」（引語）"
+  },
+  "mn23:2.24": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa kummaṁ",
+    "zh": "智慧的掘土者帶著商隊繼續，看見了一隻龜。"
+  },
+  "mn23:2.25": {
+    "pi": "Kummo bhadante ti",
+    "zh": "「是龜，尊者！」"
+  },
+  "mn23:2.26": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說道："
+  },
+  "mn23:2.27": {
+    "pi": "ukkhipa kummaṁ",
+    "zh": "「移開那隻烏龜。」"
+  },
+  "mn23:2.28": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「正在挖掘的智者，（去找）商隊！」（引言止）"
+  },
+  "mn23:2.29": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa asisūnaṁ",
+    "zh": "「正在挖掘的智者取了商隊，看見了屠宰場。」"
+  },
+  "mn23:2.30": {
+    "pi": "Asisūnā bhadante ti"
+  },
+  "mn23:2.31": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "「婆羅門如是說：」"
+  },
+  "mn23:2.32": {
+    "pi": "ukkhipa asisūnaṁ",
+    "zh": "「移開那屠宰場。」"
+  },
+  "mn23:2.33": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「正在挖掘的智者，（去找）商隊！」（引言止）"
+  },
+  "mn23:2.34": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa maṁsapesiṁ",
+    "zh": "「正在挖掘的智者取了商隊，看見了一塊肉。」"
+  },
+  "mn23:2.35": {
+    "pi": "Maṁsapesi bhadante ti"
+  },
+  "mn23:2.36": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "「婆羅門如是說：」"
+  },
+  "mn23:2.37": {
+    "pi": "ukkhipa maṁsapesiṁ",
+    "zh": "「驅離那塊肉！」"
+  },
+  "mn23:2.38": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "「正在挖掘的智者啊，（找到那）商旅隊！」"
+  },
+  "mn23:2.39": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya addasa nāgaṁ",
+    "zh": "那位正在挖掘的智者帶著商旅隊，看見了那位大人（那伽）。"
+  },
+  "mn23:2.40": {
+    "pi": "Nāgo bhadante ti",
+    "zh": "（那位大人說：）「尊者（們）！」"
+  },
+  "mn23:2.41": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說道："
+  },
+  "mn23:2.42": {
+    "pi": "tiṭṭhatu nāgo mā nāgaṁ ghaṭṭesi namo karohi nāgassā ti",
+    "zh": "「讓那位大人（那伽）止步；勿打擾那位大人（那伽），應向（他）頂禮！」"
+  },
+  "mn23:2.43": {
+    "pi": "Ime kho tvaṁ bhikkhu pañhe bhagavantaṁ upasaṅkamitvā puccheyyāsi yathā ca te bhagavā byākaroti tathā naṁ dhāreyyāsi",
+    "zh": "比丘，你確實應當前往世尊處，詢問這些問題；世尊如何回答，你便如實持守（牢記）。"
+  },
+  "mn23:2.44": {
+    "pi": "Nāhaṁ taṁ bhikkhu passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo imesaṁ pañhānaṁ veyyākaraṇena cittaṁ ārādheyya aññatra tathāgatena vā tathāgatasāvakena vā ito vā pana sutvā ti",
+    "zh": "比丘，我不見在這含天神、魔羅、梵天，含沙門婆羅門及天神與人的世界眾生中，有誰能以回答這些問題而令心意滿意——除了如來、或如來的聲聞弟子，或從（此）聽聞之後（的人）。"
+  },
+  "mn23:2.45": {
+    "pi": "Idamavoca sā devatā",
+    "zh": "那位天神說了這些話。"
+  },
+  "mn23:2.46": {
+    "pi": "Idaṁ vatvā tatthevantaradhāyi",
+    "zh": "說了這些之後，（那位天神）當場消失不見。"
+  },
+  "mn23:3.1": {
+    "pi": "Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi Ekamantaṁ nisinno kho āyasmā kumārakassapo bhagavantaṁ etadavoca"
+  },
+  "mn23:3.2": {
+    "pi": "imaṁ bhante rattiṁ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ andhavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami upasaṅkamitvā ekamantaṁ aṭṭhāsi Ekamantaṁ ṭhitā kho bhante sā devatā maṁ etadavoca"
+  },
+  "mn23:3.3": {
+    "pi": "bhikkhu bhikkhu ayaṁ vammiko rattiṁ dhūmāyati divā pajjalati"
+  },
+  "mn23:3.4": {
+    "pi": "Brāhmaṇo evamāha",
+    "zh": "婆羅門如此說："
+  },
+  "mn23:3.5": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyā ti",
+    "zh": "『智者啊，請持續挖掘，（帶著）器具。』"
+  },
+  "mn23:3.6": {
+    "pi": "Abhikkhaṇanto sumedho satthaṁ ādāya pe",
+    "zh": "智者持續挖掘，取了（器具）……（以下省略）"
+  },
+  "mn23:3.7": {
+    "pi": "ito vā pana sutvā ti",
+    "zh": "或者，聽了這些之後……（以下省略）"
+  },
+  "mn23:3.8": {
+    "pi": "Idamavoca bhante sā devatā",
+    "zh": "大德，那位天神說了這些。"
+  },
+  "mn23:3.9": {
+    "pi": "Idaṁ vatvā tatthevantaradhāyi",
+    "zh": "說了這些之後，（天神）就在那裡消失了。"
+  },
+  "mn23:3.10": {
+    "pi": "Ko nu kho bhante vammiko kā rattiṁ dhūmāyanā kā divā pajjalanā ko brāhmaṇo ko sumedho kiṁ satthaṁ kiṁ abhikkhaṇaṁ kā laṅgī kā uddhumāyikā ko dvidhāpatho kiṁ caṅgavāraṁ ko kummo kā asisūnā kā maṁsapesi ko nāgo ti",
+    "zh": "大德，（請問）蟻塚究竟是什麼？夜間冒煙是什麼？白天燃燒是什麼？婆羅門是誰？智者是誰？器具是什麼？挖掘是什麼？門閂是什麼？（印度虎）蛙是什麼？岔路是什麼？篩子是什麼？龜是誰？屠宰場是什麼？肉塊是什麼？那伽又是誰？"
+  },
+  "mn23:4.1": {
+    "pi": "Vammiko ti kho bhikkhu imassetaṁ cātumahābhūtikassa kāyassa adhivacanaṁ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṁsanadhammassa",
+    "zh": "「『蟻塚』，比丘，確實是對此四大所成之身的名稱——此身由父母所生，以飯食粥食積聚而成，本質上無常，須被擦拭、揉按，終將破裂毀散。」"
+  },
+  "mn23:4.2": {
+    "pi": "Yaṁ kho bhikkhu divā kammante ārabbha rattiṁ anuvitakketi anuvicāreti",
+    "zh": "「比丘，凡白天著手工作，夜晚反覆思量、反覆審察的，」"
+  },
+  "mn23:4.3": {
+    "pi": "ayaṁ rattiṁ dhūmāyanā",
+    "zh": "「此即夜間的悶燃（冒煙）。」"
+  },
+  "mn23:4.4": {
+    "pi": "Yaṁ kho bhikkhu rattiṁ anuvitakketvā anuvicāretvā divā kammante payojeti kāyena vācāya manasā",
+    "zh": "「比丘，凡夜晚反覆思量、反覆審察之後，白天以身、語、意投入工作的，」"
+  },
+  "mn23:4.5": {
+    "pi": "ayaṁ divā pajjalanā",
+    "zh": "「此即白晝的燃燒。」"
+  },
+  "mn23:4.6": {
+    "pi": "Brāhmaṇo ti kho bhikkhu tathāgatassetaṁ adhivacanaṁ arahato sammāsambuddhassa",
+    "zh": "「『婆羅門』，比丘，確實是阿羅漢正自覺者的名稱。」"
+  },
+  "mn23:4.7": {
+    "pi": "Sumedho ti kho bhikkhu sekkhassetaṁ bhikkhuno adhivacanaṁ",
+    "zh": "「『善慧者』，比丘，確實是比丘的名稱。」"
+  },
+  "mn23:4.8": {
+    "pi": "Satthan ti kho bhikkhu ariyāyetaṁ paññāya adhivacanaṁ",
+    "zh": "「〔引語詞 t0 未提供〕，比丘，確實是〔對象詞 t4 未提供〕的名稱。（paññāya：資料標為動詞 paññāyati 之形式，語境疑為 paññā「慧」之格形，資料不足以確認。）」"
+  },
+  "mn23:4.9": {
+    "pi": "Abhikkhaṇan ti kho bhikkhu vīriyārambhassetaṁ adhivacanaṁ",
+    "zh": "「〔引語詞 t0 及對象詞 t4 均未提供〕，比丘，確實是……的名稱。（現有 token 不足以重建完整句義。）」"
+  },
+  "mn23:4.10": {
+    "pi": "Laṅgī ti kho bhikkhu avijjāyetaṁ adhivacanaṁ",
+    "zh": "「『門閂（橫桿）』，比丘，確實是〔對象詞 t4 未提供〕的名稱。」"
+  },
+  "mn23:4.11": {
+    "pi": "Ukkhipa laṅgiṁ pajaha avijjaṁ",
+    "zh": "拔起門閂，捨棄無明。"
+  },
+  "mn23:4.12": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "繼續挖掘吧，智者，攜商旅前行，目的即在其中。"
+  },
+  "mn23:4.13": {
+    "pi": "Uddhumāyikā ti kho bhikkhu kodhūpāyāsassetaṁ adhivacanaṁ",
+    "zh": "「蟾蜍」，比丘，確實是（某物的）代稱。"
+  },
+  "mn23:4.14": {
+    "pi": "Ukkhipa uddhumāyikaṁ pajaha kodhūpāyāsaṁ",
+    "zh": "拔去蟾蜍，捨棄憤怒與煩惱。"
+  },
+  "mn23:4.15": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "繼續挖掘吧，智者，攜商旅前行，目的即在其中。"
+  },
+  "mn23:4.16": {
+    "pi": "Dvidhāpatho ti kho bhikkhu vicikicchāyetaṁ adhivacanaṁ",
+    "zh": "「叉路」，比丘，確實是（某物的）代稱。"
+  },
+  "mn23:4.17": {
+    "pi": "Ukkhipa dvidhāpathaṁ pajaha vicikicchaṁ",
+    "zh": "拔去叉路，捨棄疑。"
+  },
+  "mn23:4.18": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "繼續挖掘吧，智者，攜商旅前行，目的即在其中。"
+  },
+  "mn23:4.19": {
+    "pi": "Caṅgavāran ti kho bhikkhu pañcannetaṁ nīvaraṇānaṁ adhivacanaṁ seyyathidaṁ"
+  },
+  "mn23:4.20": {
+    "pi": "kāmacchandanīvaraṇassa byāpādanīvaraṇassa thinamiddhanīvaraṇassa uddhaccakukkuccanīvaraṇassa vicikicchānīvaraṇassa",
+    "zh": "貪欲蓋、瞋恚蓋、惛沉睡眠蓋、掉舉惡作蓋、疑蓋。"
+  },
+  "mn23:4.21": {
+    "pi": "Ukkhipa caṅgavāraṁ pajaha pañca nīvaraṇe",
+    "zh": "舉起篩子，捨棄五蓋。"
+  },
+  "mn23:4.22": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "繼續挖掘吧，智慧者；帶上商隊，此乃有益之事。"
+  },
+  "mn23:4.23": {
+    "pi": "Kummo ti kho bhikkhu pañcannetaṁ upādānakkhandhānaṁ adhivacanaṁ seyyathidaṁ",
+    "zh": "「龜」，比丘啊，確實是取蘊的稱謂，即："
+  },
+  "mn23:4.24": {
+    "pi": "rūpupādānakkhandhassa vedanupādānakkhandhassa saññupādānakkhandhassa saṅkhārupādānakkhandhassa viññāṇupādānakkhandhassa",
+    "zh": "色取蘊、受取蘊、想取蘊、行取蘊、識取蘊。"
+  },
+  "mn23:4.25": {
+    "pi": "Ukkhipa kummaṁ pajaha pañcupādānakkhandhe",
+    "zh": "舉起龜，捨棄五取蘊。"
+  },
+  "mn23:4.26": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "繼續挖掘吧，智慧者；帶上商隊，此乃有益之事。"
+  },
+  "mn23:4.27": {
+    "pi": "Asisūnā ti kho bhikkhu pañcannetaṁ kāmaguṇānaṁ adhivacanaṁ",
+    "zh": "「屠宰場」，比丘啊，確實是（五）欲功德的稱謂。"
+  },
+  "mn23:4.28": {
+    "pi": "cakkhuviññeyyānaṁ rūpānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ",
+    "zh": "眼所識的、可愛的、迷人的、可意的、親愛的、與欲相應的、令人染著的諸色；"
+  },
+  "mn23:4.29": {
+    "pi": "sotaviññeyyānaṁ saddānaṁ pe",
+    "zh": "耳所識的聲……（以下略同）"
+  },
+  "mn23:4.30": {
+    "pi": "ghānaviññeyyānaṁ gandhānaṁ pe",
+    "zh": "鼻所識的香……（以下略同）"
+  },
+  "mn23:4.31": {
+    "pi": "jivhāviññeyyānaṁ rasānaṁ pe",
+    "zh": "舌所識知的諸味……（pe 省略後續同列）"
+  },
+  "mn23:4.32": {
+    "pi": "kāyaviññeyyānaṁ phoṭṭhabbānaṁ iṭṭhānaṁ kantānaṁ manāpānaṁ piyarūpānaṁ kāmūpasaṁhitānaṁ rajanīyānaṁ",
+    "zh": "身所識知的諸觸對象——可愛的、迷人的、合意的、親愛的、與欲相結的、令人染著的"
+  },
+  "mn23:4.33": {
+    "pi": "Ukkhipa asisūnaṁ pajaha pañca kāmaguṇe",
+    "zh": "驅離屠宰場，捨棄五欲功德。"
+  },
+  "mn23:4.34": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "不斷掘地的智者啊，攜帶商隊前行！此乃要義。"
+  },
+  "mn23:4.35": {
+    "pi": "Maṁsapesī ti kho bhikkhu nandīrāgassetaṁ adhivacanaṁ",
+    "zh": "「肉塊」，確實是比丘（某人）的名稱。"
+  },
+  "mn23:4.36": {
+    "pi": "Ukkhipa maṁsapesiṁ pajaha nandīrāgaṁ",
+    "zh": "移開肉塊，捨棄喜與貪。"
+  },
+  "mn23:4.37": {
+    "pi": "abhikkhaṇa sumedha satthaṁ ādāyāti ayametassa attho",
+    "zh": "不斷掘地的智者啊，攜帶商隊前行！此乃要義。"
+  },
+  "mn23:4.38": {
+    "pi": "Nāgo ti kho bhikkhu khīṇāsavassetaṁ bhikkhuno adhivacanaṁ",
+    "zh": "「那迦（大人）」，確實是比丘的名稱。"
+  },
+  "mn23:4.39": {
+    "pi": "Tiṭṭhatu nāgo mā nāgaṁ ghaṭṭesi namo karohi nāgassāti ayametassa attho ti",
+    "zh": "讓那迦立著，資料不足（勿…）那迦，向那迦禮敬——此乃要義。"
+  },
+  "mn23:4.40": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊如此說道。"
+  },
+  "mn23:4.41": {
+    "pi": "Attamano āyasmā kumārakassapo bhagavato bhāsitaṁ abhinandīti",
+    "zh": "具壽鳩摩羅迦葉心生歡喜，對世尊所說之語隨喜讚歎。"
+  },
+  "mn23:4.42": {
+    "pi": "Vammikasuttaṁ niṭṭhitaṁ tatiyaṁ",
+    "zh": "《蟻塚經》，第三，完畢。"
+  },
+  "mn24:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn24:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe",
+    "zh": "一時，世尊住於王舍城竹林迦蘭陀竹園。"
+  },
+  "mn24:2.1": {
+    "pi": "Atha kho sambahulā jātibhūmakā bhikkhū jātibhūmiyaṁ vassaṁvuṭṭhā yena bhagavā tenupasaṅkamiṁsu upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu Ekamantaṁ nisinne kho te bhikkhū bhagavā etadavoca",
+    "zh": "爾時，諸多同鄉比丘在故鄉度過雨安居後，前往世尊所在之處；抵達後頂禮世尊，坐於一旁。坐於一旁後，世尊對那些比丘說道。"
+  },
+  "mn24:2.2": {
+    "pi": "Ko nu kho bhikkhave jātibhūmiyaṁ jātibhūmakānaṁ bhikkhūnaṁ sabrahmacārīnaṁ evaṁ sambhāvito",
+    "zh": "「諸比丘，故鄉的同鄉比丘與同梵行者之間，誰如此受到推崇——"
+  },
+  "mn24:2.3": {
+    "pi": "attanā ca appiccho appicchakathañca bhikkhūnaṁ kattā attanā ca santuṭṭho santuṭṭhikathañca bhikkhūnaṁ kattā attanā ca pavivitto pavivekakathañca bhikkhūnaṁ kattā attanā ca asaṁsaṭṭho asaṁsaggakathañca bhikkhūnaṁ kattā attanā ca āraddhavīriyo vīriyārambhakathañca bhikkhūnaṁ kattā attanā ca sīlasampanno sīlasampadākathañca bhikkhūnaṁ kattā attanā ca samādhisampanno samādhisampadākathañca bhikkhūnaṁ kattā attanā ca paññāsampanno paññāsampadākathañca bhikkhūnaṁ kattā attanā ca vimuttisampanno vimuttisampadākathañca bhikkhūnaṁ kattā attanā ca vimuttiñāṇadassanasampanno vimuttiñāṇadassanasampadākathañca bhikkhūnaṁ kattā ovādako viññāpako sandassako samādapako samuttejako sampahaṁsako sabrahmacārīnan ti",
+    "zh": "（他）自身少欲，且為比丘們作少欲之講說；自身知足，且為比丘們作知足之講說；自身遠離，且為比丘們作遠離之講說；自身不雜居，且為比丘們作不雜居之講說；自身精勤，且為比丘們作精進之講說；自身具足戒，且為比丘們作成就戒之講說；自身具足定，且為比丘們作成就定之講說；自身具足慧，且為比丘們作成就慧之講說；自身具足解脫，且為比丘們作成就解脫之講說；自身具足解脫知見，且為比丘們作成就解脫知見之講說——（他是）訓誡者、教示者、解說者、勸勵者、激勵者、令人歡喜者？」"
+  },
+  "mn24:2.4": {
+    "pi": "Puṇṇo nāma bhante āyasmā mantāṇiputto jātibhūmiyaṁ jātibhūmakānaṁ bhikkhūnaṁ sabrahmacārīnaṁ evaṁ sambhāvito",
+    "zh": "「大德，具壽富樓那滿慈子，在故鄉的同鄉比丘與同梵行者之間，如此受到推崇。」"
+  },
+  "mn24:2.5": {
+    "pi": "attanā ca appiccho appicchakathañca bhikkhūnaṁ kattā attanā ca santuṭṭho pe ovādako viññāpako sandassako samādapako samuttejako sampahaṁsako sabrahmacārīnan ti",
+    "zh": "（他）自身少欲，且為比丘們作少欲之講說；自身知足……（省略中間重複段落）……訓誡者、教示者、解說者、勸勵者、激勵者、令人歡喜者。」如此（比丘們回答）。"
+  },
+  "mn24:3.1": {
+    "pi": "Tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti",
+    "zh": "那時，具壽舍利弗正坐在世尊不遠處。"
+  },
+  "mn24:3.2": {
+    "pi": "Atha kho āyasmato sāriputtassa etadahosi",
+    "zh": "爾時，具壽舍利弗心中生起如此念頭。"
+  },
+  "mn24:3.3": {
+    "pi": "lābhā āyasmato puṇṇassa mantāṇiputtassa suladdhalābhā āyasmato puṇṇassa mantāṇiputtassa",
+    "zh": "「這是具壽富樓那滿慈子之利益！這是具壽富樓那滿慈子真正難得的利益！」"
+  },
+  "mn24:3.4": {
+    "pi": "yassa viññū sabrahmacārī satthu sammukhā anumassa anumassa vaṇṇaṁ bhāsanti tañca satthā abbhanumodati"
+  },
+  "mn24:3.5": {
+    "pi": "Appeva nāma mayampi kadāci karahaci āyasmatā puṇṇena mantāṇiputtena saddhiṁ samāgaccheyyāma appeva nāma siyā kocideva kathāsallāpo ti"
+  },
+  "mn24:4.1": {
+    "pi": "Atha kho bhagavā rājagahe yathābhirantaṁ viharitvā yena sāvatthi tena cārikaṁ pakkāmi"
+  },
+  "mn24:4.2": {
+    "pi": "Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari"
+  },
+  "mn24:4.3": {
+    "pi": "Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme"
+  },
+  "mn24:4.4": {
+    "pi": "Assosi kho āyasmā puṇṇo mantāṇiputto bhagavā kira sāvatthiṁ anuppatto sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme ti"
+  },
+  "mn24:5.1": {
+    "pi": "Atha kho āyasmā puṇṇo mantāṇiputto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena cārikaṁ pakkāmi"
+  },
+  "mn24:5.2": {
+    "pi": "Anupubbena cārikaṁ caramāno yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi"
+  },
+  "mn24:5.3": {
+    "pi": "Ekamantaṁ nisinnaṁ kho āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi"
+  },
+  "mn24:5.4": {
+    "pi": "Atha kho āyasmā puṇṇo mantāṇiputto bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena andhavanaṁ tenupasaṅkami divāvihārāya"
+  },
+  "mn24:6.1": {
+    "pi": "Atha kho aññataro bhikkhu yenāyasmā sāriputto tenupasaṅkami upasaṅkamitvā āyasmantaṁ sāriputtaṁ etadavoca",
+    "zh": "於是，某位比丘前往尊者舍利弗所在之處，走近後，對尊者舍利弗如此說道。"
+  },
+  "mn24:6.2": {
+    "pi": "yassa kho tvaṁ āvuso sāriputta puṇṇassa nāma bhikkhuno mantāṇiputtassa abhiṇhaṁ kittayamāno ahosi so bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena andhavanaṁ tena pakkanto divāvihārāyā ti"
+  },
+  "mn24:7.1": {
+    "pi": "Atha kho āyasmā sāriputto taramānarūpo nisīdanaṁ ādāya āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ piṭṭhito piṭṭhito anubandhi sīsānulokī"
+  },
+  "mn24:7.2": {
+    "pi": "Atha kho āyasmā puṇṇo mantāṇiputto andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi",
+    "zh": "於是，尊者富樓那滿慈子深入安陀林，在某棵樹下坐下，作為日間的禪修之所。"
+  },
+  "mn24:7.3": {
+    "pi": "Āyasmāpi kho sāriputto andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi",
+    "zh": "尊者舍利弗也同樣深入安陀林，在某棵樹下坐下，作為日間的禪修之所。"
+  },
+  "mn24:8.1": {
+    "pi": "Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā puṇṇo mantāṇiputto tenupasaṅkami upasaṅkamitvā āyasmatā puṇṇena mantāṇiputtena saddhiṁ sammodi"
+  },
+  "mn24:8.2": {
+    "pi": "Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ etadavoca"
+  },
+  "mn24:9.1": {
+    "pi": "Bhagavati no āvuso brahmacariyaṁ vussatī ti",
+    "zh": "「道友，梵行是在世尊座下修習的嗎？」"
+  },
+  "mn24:9.2": {
+    "pi": "Evamāvuso ti",
+    "zh": "「是的，道友。」"
+  },
+  "mn24:9.3": {
+    "pi": "Kiṁ nu kho āvuso sīlavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "「道友，那麼難道是為了戒清淨的目的在世尊座下修習梵行嗎？」"
+  },
+  "mn24:9.4": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "確實不是，道友。"
+  },
+  "mn24:9.5": {
+    "pi": "Kiṁ panāvuso cittavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "那麼，道友，〔難道〕是為了心清淨之目的，在世尊處修梵行嗎？"
+  },
+  "mn24:9.6": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "確實不是，道友。"
+  },
+  "mn24:9.7": {
+    "pi": "Kiṁ nu kho āvuso diṭṭhivisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "那麼，道友，究竟是為了見清淨之目的，在世尊處修梵行嗎？"
+  },
+  "mn24:9.8": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "確實不是，道友。"
+  },
+  "mn24:9.9": {
+    "pi": "Kiṁ panāvuso kaṅkhāvitaraṇavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "那麼，道友，〔難道〕是為了超越疑惑之清淨目的，在世尊處修梵行嗎？"
+  },
+  "mn24:9.10": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "確實不是，道友。"
+  },
+  "mn24:9.11": {
+    "pi": "Kiṁ nu kho āvuso maggāmaggañāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "那麼，道友，究竟是為了道與非道之智見清淨的目的，在世尊處修梵行嗎？"
+  },
+  "mn24:9.12": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "確實不是，道友。"
+  },
+  "mn24:9.13": {
+    "pi": "Kiṁ panāvuso paṭipadāñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "那麼，道友，〔難道〕是為了道跡之智見清淨的目的，在世尊處修梵行嗎？"
+  },
+  "mn24:9.14": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「不是的，道友。」"
+  },
+  "mn24:9.15": {
+    "pi": "Kiṁ nu kho āvuso ñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "「那麼，道友，是為了智見清淨而在世尊處修梵行嗎？」"
+  },
+  "mn24:9.16": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「不是的，道友。」"
+  },
+  "mn24:10.1": {
+    "pi": "Kiṁ nu kho āvuso sīlavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "「道友，是為了戒清淨而在世尊處修梵行嗎？」——如此被問，你卻說：「不是的，道友。」"
+  },
+  "mn24:10.2": {
+    "pi": "Kiṁ panāvuso cittavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "「那麼，道友，是為了心清淨而在世尊處修梵行嗎？」——如此被問，你卻說：「不是的，道友。」"
+  },
+  "mn24:10.3": {
+    "pi": "Kiṁ nu kho āvuso diṭṭhivisuddhatthaṁ pe",
+    "zh": "「道友，是為了見清淨……」（以下省略，結構同前）"
+  },
+  "mn24:10.4": {
+    "pi": "kaṅkhāvitaraṇavisuddhatthaṁ pe",
+    "zh": "「為了度疑清淨……」（以下省略，結構同前）"
+  },
+  "mn24:10.5": {
+    "pi": "maggāmaggañāṇadassanavisuddhatthaṁ pe",
+    "zh": "「為了道非道智見清淨……」（以下省略，結構同前）"
+  },
+  "mn24:10.6": {
+    "pi": "paṭipadāñāṇadassanavisuddhatthaṁ pe",
+    "zh": "「為了行道智見清淨……」（以下省略，結構同前）"
+  },
+  "mn24:10.7": {
+    "pi": "kiṁ nu kho āvuso ñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "「道友，是為了智見清淨而在世尊處修梵行嗎？」——如此被問，你卻說：「不是的，道友。」"
+  },
+  "mn24:10.8": {
+    "pi": "Kimatthaṁ carahāvuso bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "「那麼，道友，在世尊（座下）修梵行，是為了什麼目的呢？」"
+  },
+  "mn24:10.9": {
+    "pi": "Anupādāparinibbānatthaṁ kho āvuso bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "「道友，在世尊（座下）修梵行，確實是為了無取般涅槃。」"
+  },
+  "mn24:11.1": {
+    "pi": "Kiṁ nu kho āvuso sīlavisuddhi anupādāparinibbānan ti",
+    "zh": "「道友，難道（目的）就是戒清淨嗎？」"
+  },
+  "mn24:11.2": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「道友，不是的。」"
+  },
+  "mn24:11.3": {
+    "pi": "Kiṁ panāvuso cittavisuddhi anupādāparinibbānan ti",
+    "zh": "「那麼，道友，（目的）是心清淨嗎？」"
+  },
+  "mn24:11.4": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「道友，不是的。」"
+  },
+  "mn24:11.5": {
+    "pi": "Kiṁ nu kho āvuso diṭṭhivisuddhi anupādāparinibbānan ti",
+    "zh": "「道友，難道（目的）是見清淨嗎？」"
+  },
+  "mn24:11.6": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「道友，不是的。」"
+  },
+  "mn24:11.7": {
+    "pi": "Kiṁ panāvuso kaṅkhāvitaraṇavisuddhi anupādāparinibbānan ti",
+    "zh": "「那麼，道友，（目的）是度疑清淨嗎？」"
+  },
+  "mn24:11.8": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「道友，不是的。」"
+  },
+  "mn24:11.9": {
+    "pi": "Kiṁ nu kho āvuso maggāmaggañāṇadassanavisuddhi anupādāparinibbānan ti",
+    "zh": "「賢友，那麼確實，道與非道之智見清淨又是什麼呢？」"
+  },
+  "mn24:11.10": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「賢友，並非如此。」"
+  },
+  "mn24:11.11": {
+    "pi": "Kiṁ panāvuso paṭipadāñāṇadassanavisuddhi anupādāparinibbānan ti",
+    "zh": "「那麼，賢友，行道之智見清淨又是什麼呢？」"
+  },
+  "mn24:11.12": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「賢友，並非如此。」"
+  },
+  "mn24:11.13": {
+    "pi": "Kiṁ nu kho āvuso ñāṇadassanavisuddhi anupādāparinibbānan ti",
+    "zh": "「賢友，那麼確實，智見清淨又是什麼呢？」"
+  },
+  "mn24:11.14": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「賢友，並非如此。」"
+  },
+  "mn24:11.15": {
+    "pi": "Kiṁ panāvuso aññatra imehi dhammehi anupādāparinibbānan ti",
+    "zh": "「那麼，賢友，（梵行的目的）是在這些法之外的某處嗎？」"
+  },
+  "mn24:11.16": {
+    "pi": "No hidaṁ āvuso",
+    "zh": "「賢友，並非如此。」"
+  },
+  "mn24:12.1": {
+    "pi": "Kiṁ nu kho āvuso sīlavisuddhi anupādāparinibbānan ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "「賢友，如此被問及『那麼確實，賢友，什麼是戒清淨？』時，你說『賢友，並非如此。』—你確實這樣說了。」"
+  },
+  "mn24:12.2": {
+    "pi": "Kiṁ panāvuso cittavisuddhi anupādāparinibbānan ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "「那麼，賢友，被問及『心清淨』時，你同樣也說『賢友，並非如此。』—你確實這樣說了。」"
+  },
+  "mn24:12.3": {
+    "pi": "Kiṁ nu kho āvuso diṭṭhivisuddhi anupādāparinibbānan ti pe",
+    "zh": "「賢友，什麼確實是見清淨呢？」……（以下略）"
+  },
+  "mn24:12.4": {
+    "pi": "kaṅkhāvitaraṇavisuddhi",
+    "zh": "度疑清淨"
+  },
+  "mn24:12.5": {
+    "pi": "maggāmaggañāṇadassanavisuddhi",
+    "zh": "道非道知見清淨"
+  },
+  "mn24:12.6": {
+    "pi": "paṭipadāñāṇadassanavisuddhi",
+    "zh": "行道知見清淨"
+  },
+  "mn24:12.7": {
+    "pi": "kiṁ nu kho āvuso ñāṇadassanavisuddhi anupādāparinibbānan ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "當被問及「賢友，究竟什麼是知見清淨？」時，你卻說：「賢友，確實不是這樣。」"
+  },
+  "mn24:12.8": {
+    "pi": "Kiṁ panāvuso aññatra imehi dhammehi anupādāparinibbānan ti iti puṭṭho samāno no hidaṁ āvuso ti vadesi",
+    "zh": "當被問及「那麼，賢友，除了這些法之外還有什麼？」時，你卻說：「賢友，確實不是這樣。」"
+  },
+  "mn24:12.9": {
+    "pi": "Yathākathaṁ panāvuso imassa bhāsitassa attho daṭṭhabbo ti",
+    "zh": "「那麼，賢友，此話的義理應當如何理解？」"
+  },
+  "mn24:13.1": {
+    "pi": "Sīlavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "「賢友，世尊宣說無取般涅槃——然而，正仍有取著之時，[又能]宣說無取般涅槃[嗎]？」"
+  },
+  "mn24:13.2": {
+    "pi": "Cittavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "「賢友，世尊宣說無取般涅槃——然而，正仍有取著之時，[又能]宣說無取般涅槃[嗎]？」"
+  },
+  "mn24:13.3": {
+    "pi": "Diṭṭhivisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "「賢友，世尊宣說無取般涅槃——然而，正仍有取著之時，[又能]宣說無取般涅槃[嗎]？」"
+  },
+  "mn24:13.4": {
+    "pi": "Kaṅkhāvitaraṇavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "道友，世尊宣說無取般涅槃，〔而此人〕仍是有取的，〔竟〕宣說無取般涅槃。"
+  },
+  "mn24:13.5": {
+    "pi": "Maggāmaggañāṇadassanavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "道友，世尊宣說無取般涅槃，〔而此人〕仍是有取的，〔竟〕宣說無取般涅槃。"
+  },
+  "mn24:13.6": {
+    "pi": "Paṭipadāñāṇadassanavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "道友，世尊宣說無取般涅槃，〔而此人〕仍是有取的，〔竟〕宣說無取般涅槃。"
+  },
+  "mn24:13.7": {
+    "pi": "Ñāṇadassanavisuddhiñce āvuso bhagavā anupādāparinibbānaṁ paññapeyya saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya",
+    "zh": "道友，世尊宣說無取般涅槃，〔而此人〕仍是有取的，〔竟〕宣說無取般涅槃。"
+  },
+  "mn24:13.8": {
+    "pi": "Aññatra ce āvuso imehi dhammehi anupādāparinibbānaṁ abhavissa puthujjano parinibbāyeyya",
+    "zh": "道友，若除這些法之外，無取般涅槃不存在，那麼凡夫便能般涅槃了。"
+  },
+  "mn24:13.9": {
+    "pi": "Puthujjano hi āvuso aññatra imehi dhammehi",
+    "zh": "道友，凡夫確實〔無法〕離這些法〔而般涅槃〕。"
+  },
+  "mn24:14.1": {
+    "pi": "Tena hāvuso upamaṁ te karissāmi",
+    "zh": "那麼，道友，我將為你作個比喻。"
+  },
+  "mn24:14.2": {
+    "pi": "upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti",
+    "zh": "憑一個比喻，這裡有些智者便能了解所說的意義。"
+  },
+  "mn24:14.3": {
+    "pi": "Seyyathāpi āvuso rañño pasenadissa kosalassa sāvatthiyaṁ paṭivasantassa sākete kiñcideva accāyikaṁ karaṇīyaṁ uppajjeyya",
+    "zh": "道友，譬如憍薩羅的波斯匿王住在舍衛城，而沙祇城那邊生起了某件緊急之事。"
+  },
+  "mn24:14.4": {
+    "pi": "Tassa antarā ca sāvatthiṁ antarā ca sāketaṁ satta rathavinītāni upaṭṭhapeyyuṁ",
+    "zh": "在舍衛城與沙祇城之間，為他備置了驛車。"
+  },
+  "mn24:14.5": {
+    "pi": "Atha kho āvuso rājā pasenadi kosalo sāvatthiyā nikkhamitvā antepuradvārā paṭhamaṁ rathavinītaṁ abhiruheyya paṭhamena rathavinītena dutiyaṁ rathavinītaṁ pāpuṇeyya paṭhamaṁ rathavinītaṁ vissajjeyya dutiyaṁ rathavinītaṁ abhiruheyya",
+    "zh": "於是，賢友，波斯匿憍薩羅王從舍衛城出發，從內宮門口登上第一輛驛車；以第一輛驛車抵達第二輛驛車〔停靠處〕，遣回第一輛驛車，登上第二輛驛車。"
+  },
+  "mn24:14.6": {
+    "pi": "Dutiyena rathavinītena tatiyaṁ rathavinītaṁ pāpuṇeyya dutiyaṁ rathavinītaṁ vissajjeyya tatiyaṁ rathavinītaṁ abhiruheyya",
+    "zh": "以第二輛驛車抵達第三輛驛車〔停靠處〕，遣回第二輛驛車，登上第三輛驛車。"
+  },
+  "mn24:14.7": {
+    "pi": "Tatiyena rathavinītena catutthaṁ rathavinītaṁ pāpuṇeyya tatiyaṁ rathavinītaṁ vissajjeyya catutthaṁ rathavinītaṁ abhiruheyya",
+    "zh": "以第三輛驛車抵達第四輛驛車〔停靠處〕，遣回第三輛驛車，登上第四輛驛車。"
+  },
+  "mn24:14.8": {
+    "pi": "Catutthena rathavinītena pañcamaṁ rathavinītaṁ pāpuṇeyya catutthaṁ rathavinītaṁ vissajjeyya pañcamaṁ rathavinītaṁ abhiruheyya",
+    "zh": "以第四輛驛車抵達第五輛驛車〔停靠處〕，遣回第四輛驛車，登上第五輛驛車。"
+  },
+  "mn24:14.9": {
+    "pi": "Pañcamena rathavinītena chaṭṭhaṁ rathavinītaṁ pāpuṇeyya pañcamaṁ rathavinītaṁ vissajjeyya chaṭṭhaṁ rathavinītaṁ abhiruheyya",
+    "zh": "以第五輛驛車抵達第六輛驛車〔停靠處〕，遣回第五輛驛車，登上第六輛驛車。"
+  },
+  "mn24:14.10": {
+    "pi": "Chaṭṭhena rathavinītena sattamaṁ rathavinītaṁ pāpuṇeyya chaṭṭhaṁ rathavinītaṁ vissajjeyya sattamaṁ rathavinītaṁ abhiruheyya",
+    "zh": "以第六輛驛車抵達第七輛驛車〔停靠處〕，遣回第六輛驛車，登上第七輛驛車。"
+  },
+  "mn24:14.11": {
+    "pi": "Sattamena rathavinītena sāketaṁ anupāpuṇeyya antepuradvāraṁ",
+    "zh": "以第七輛驛車抵達沙祇城的內宮門口。"
+  },
+  "mn24:14.12": {
+    "pi": "Tamenaṁ antepuradvāragataṁ samānaṁ mittāmaccā ñātisālohitā evaṁ puccheyyuṁ",
+    "zh": "彼〔王〕抵達內宮門口之際，友伴同僚、親族血親便會如此問道："
+  },
+  "mn24:14.13": {
+    "pi": "iminā tvaṁ mahārāja rathavinītena sāvatthiyā sāketaṁ anuppatto antepuradvāran ti",
+    "zh": "『大王，您是乘坐這輛驛車從舍衛城抵達沙祇城的嗎？』"
+  },
+  "mn24:14.14": {
+    "pi": "Kathaṁ byākaramāno nu kho āvuso rājā pasenadi kosalo sammā byākaramāno byākareyyā ti",
+    "zh": "賢友，波斯匿憍薩羅王如何回答，才算是正確回答呢？"
+  },
+  "mn24:14.15": {
+    "pi": "Evaṁ byākaramāno kho āvuso rājā pasenadi kosalo sammā byākaramāno byākareyya",
+    "zh": "如此確實，賢友，憍薩羅王波斯匿（居住於此者）如是回答，應當如此回答。"
+  },
+  "mn24:14.16": {
+    "pi": "idha me sāvatthiyaṁ paṭivasantassa sākete kiñcideva accāyikaṁ karaṇīyaṁ uppajji",
+    "zh": "此時，對我這住在舍衛城的人來說，往薩卡達有某件緊急的應辦事務生起了。"
+  },
+  "mn24:14.17": {
+    "pi": "Tassa me antarā ca sāvatthiṁ antarā ca sāketaṁ satta rathavinītāni upaṭṭhapesuṁ",
+    "zh": "為此，在舍衛城與薩卡達之間，（依附著的）驛車們被備置好了。"
+  },
+  "mn24:14.18": {
+    "pi": "Atha khvāhaṁ sāvatthiyā nikkhamitvā antepuradvārā paṭhamaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "那時，我確實從舍衛城出發，（從）內宮諸門登上了第一輛驛車。"
+  },
+  "mn24:14.19": {
+    "pi": "Paṭhamena rathavinītena dutiyaṁ rathavinītaṁ pāpuṇiṁ paṭhamaṁ rathavinītaṁ vissajjiṁ dutiyaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第一輛驛車，我到達第二輛驛車所在；換下第一輛，登上了第二輛。"
+  },
+  "mn24:14.20": {
+    "pi": "Dutiyena rathavinītena tatiyaṁ rathavinītaṁ pāpuṇiṁ dutiyaṁ rathavinītaṁ vissajjiṁ tatiyaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第二輛驛車，我到達第三輛驛車所在；換下第二輛，登上了第三輛。"
+  },
+  "mn24:14.21": {
+    "pi": "Tatiyena rathavinītena catutthaṁ rathavinītaṁ pāpuṇiṁ tatiyaṁ rathavinītaṁ vissajjiṁ catutthaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第三輛驛車，我到達第四輛驛車所在；換下第三輛，登上了第四輛。"
+  },
+  "mn24:14.22": {
+    "pi": "Catutthena rathavinītena pañcamaṁ rathavinītaṁ pāpuṇiṁ catutthaṁ rathavinītaṁ vissajjiṁ pañcamaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第四輛驛車，我到達第五輛驛車所在；換下第四輛，登上了第五輛。"
+  },
+  "mn24:14.23": {
+    "pi": "Pañcamena rathavinītena chaṭṭhaṁ rathavinītaṁ pāpuṇiṁ pañcamaṁ rathavinītaṁ vissajjiṁ chaṭṭhaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第五輛驛車，我到達第六輛驛車所在；換下第五輛，登上了第六輛。"
+  },
+  "mn24:14.24": {
+    "pi": "Chaṭṭhena rathavinītena sattamaṁ rathavinītaṁ pāpuṇiṁ chaṭṭhaṁ rathavinītaṁ vissajjiṁ sattamaṁ rathavinītaṁ abhiruhiṁ",
+    "zh": "乘著第六輛驛車，我到達第七輛驛車所在；換下第六輛，登上了第七輛。"
+  },
+  "mn24:14.25": {
+    "pi": "Sattamena rathavinītena sāketaṁ anuppatto antepuradvāran ti",
+    "zh": "乘第七輛驛車，抵達了沙祇多城。"
+  },
+  "mn24:14.26": {
+    "pi": "Evaṁ byākaramāno kho āvuso rājā pasenadi kosalo sammā byākaramāno byākareyyā ti",
+    "zh": "如此，友，憍薩羅王波斯匿，居住著，（如此）回答著。"
+  },
+  "mn24:15.1": {
+    "pi": "Evameva kho āvuso sīlavisuddhi yāvadeva cittavisuddhatthā cittavisuddhi yāvadeva diṭṭhivisuddhatthā diṭṭhivisuddhi yāvadeva kaṅkhāvitaraṇavisuddhatthā kaṅkhāvitaraṇavisuddhi yāvadeva maggāmaggañāṇadassanavisuddhatthā maggāmaggañāṇadassanavisuddhi yāvadeva paṭipadāñāṇadassanavisuddhatthā paṭipadāñāṇadassanavisuddhi yāvadeva ñāṇadassanavisuddhatthā ñāṇadassanavisuddhi yāvadeva anupādāparinibbānatthā",
+    "zh": "同樣地，友，戒清淨僅是為了心清淨之目的；心清淨僅是為了見清淨之目的；見清淨僅是為了度疑清淨之目的；度疑清淨僅是為了道非道智見清淨之目的；道非道智見清淨僅是為了行道智見清淨之目的；行道智見清淨僅是為了智見清淨之目的；智見清淨僅是為了無取般涅槃之目的。"
+  },
+  "mn24:15.2": {
+    "pi": "Anupādāparinibbānatthaṁ kho āvuso bhagavati brahmacariyaṁ vussatī ti",
+    "zh": "友，確實，在世尊（之處）的梵行是為了無取般涅槃之目的。"
+  },
+  "mn24:16.1": {
+    "pi": "Evaṁ vutte āyasmā sāriputto āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ etadavoca"
+  },
+  "mn24:16.2": {
+    "pi": "konāmo āyasmā kathañca panāyasmantaṁ sabrahmacārī jānantī ti",
+    "zh": "尊者名叫什麼？而同梵行者們是如何知道那位尊者的？"
+  },
+  "mn24:16.3": {
+    "pi": "Puṇṇoti kho me āvuso nāmaṁ",
+    "zh": "友，確實，我名叫「富樓那」。"
+  },
+  "mn24:16.4": {
+    "pi": "mantāṇiputtoti ca pana maṁ sabrahmacārī jānantī ti",
+    "zh": "而同梵行者們知道我是「曼陀尼子」。"
+  },
+  "mn24:16.5": {
+    "pi": "Acchariyaṁ āvuso abbhutaṁ āvuso",
+    "zh": "友，奇妙！友，稀有！"
+  },
+  "mn24:16.6": {
+    "pi": "Yathā taṁ sutavatā sāvakena sammadeva satthusāsanaṁ ājānantena evameva āyasmatā puṇṇena mantāṇiputtena gambhīrā gambhīrapañhā anumassa anumassa byākatā",
+    "zh": "正如一位博學的聲聞弟子，居住著，知道師教；就如此，尊者富樓那·曼陀尼子，審察又審察深奧的問題，（將之）解答了。"
+  },
+  "mn24:16.7": {
+    "pi": "Lābhā sabrahmacārīnaṁ suladdhalābhā sabrahmacārīnaṁ",
+    "zh": "同梵行者們有所得，同梵行者們得益甚大。"
+  },
+  "mn24:16.8": {
+    "pi": "ye āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ labhanti dassanāya labhanti payirūpāsanāya",
+    "zh": "那些能得見具壽富樓那滿慈子、能親近侍奉他的（同梵行者們）。"
+  },
+  "mn24:16.9": {
+    "pi": "Celaṇḍukena cepi sabrahmacārī āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ muddhanā pariharantā labheyyuṁ dassanāya labheyyuṁ payirūpāsanāya tesampi lābhā tesampi suladdhaṁ amhākampi lābhā amhākampi suladdhaṁ ye mayaṁ āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ labhāma dassanāya labhāma payirūpāsanāyā ti",
+    "zh": "即使同梵行者們以布墊頂戴具壽富樓那滿慈子，（只要）能得見他、能親近侍奉他，對他們而言也是得益、也是大幸；對我們而言也是得益、也是大幸——能得見具壽富樓那滿慈子、能親近侍奉他的我們。」"
+  },
+  "mn24:17.1": {
+    "pi": "Evaṁ vutte āyasmā puṇṇo mantāṇiputto āyasmantaṁ sāriputtaṁ etadavoca",
+    "zh": "如此說了之後，具壽富樓那滿慈子對具壽舍利弗說了這話："
+  },
+  "mn24:17.2": {
+    "pi": "ko nāmo āyasmā kathañca panāyasmantaṁ sabrahmacārī jānantī ti",
+    "zh": "「具壽您叫何名？同梵行者們又是如何認識您的呢？」"
+  },
+  "mn24:17.3": {
+    "pi": "Upatissoti kho me āvuso nāmaṁ",
+    "zh": "「道友，我的名字確實是優波底沙，"
+  },
+  "mn24:17.4": {
+    "pi": "sāriputtoti ca pana maṁ sabrahmacārī jānantī ti",
+    "zh": "而同梵行者們認識我是舍利弗。」"
+  },
+  "mn24:17.5": {
+    "pi": "Satthukappena vata kira bho sāvakena saddhiṁ mantayamānā na jānimha",
+    "zh": "「先生，我們與如師者般的聲聞弟子共同討論，竟不知道（是您）！"
+  },
+  "mn24:17.6": {
+    "pi": "āyasmā sāriputto ti",
+    "zh": "（原來是）具壽舍利弗！」"
+  },
+  "mn24:17.7": {
+    "pi": "Sace hi mayaṁ jāneyyāma āyasmā sāriputto ti ettakampi no nappaṭibhāseyya",
+    "zh": "「若我們確實知道（這位）是具壽舍利弗，就連這麼多的話也不會回應（您）了。」"
+  },
+  "mn24:17.8": {
+    "pi": "Acchariyaṁ āvuso abbhutaṁ āvuso",
+    "zh": "「奇妙啊，道友！不可思議啊，道友！」"
+  },
+  "mn24:17.9": {
+    "pi": "Yathā taṁ sutavatā sāvakena sammadeva satthusāsanaṁ ājānantena evameva āyasmatā sāriputtena gambhīrā gambhīrapañhā anumassa anumassa pucchitā",
+    "zh": "正如一位多聞的聲聞弟子，正住（其中）、善解導師教法，尊者舍利弗正是如此，一再深入考察後，提出了深邃的問題。"
+  },
+  "mn24:17.10": {
+    "pi": "Lābhā sabrahmacārīnaṁ suladdhalābhā sabrahmacārīnaṁ",
+    "zh": "同梵行者們有所獲益！同梵行者們確實善得！"
+  },
+  "mn24:17.11": {
+    "pi": "ye āyasmantaṁ sāriputtaṁ labhanti dassanāya labhanti payirūpāsanāya",
+    "zh": "凡得以見到尊者舍利弗、得以親近侍奉（他）者。"
+  },
+  "mn24:17.12": {
+    "pi": "Celaṇḍukena cepi sabrahmacārī āyasmantaṁ sāriputtaṁ muddhanā pariharantā labheyyuṁ dassanāya labheyyuṁ payirūpāsanāya tesampi lābhā tesampi suladdhaṁ amhākampi lābhā amhākampi suladdhaṁ ye mayaṁ āyasmantaṁ sāriputtaṁ labhāma dassanāya labhāma payirūpāsanāyā ti",
+    "zh": "即使同梵行者們以布墊頂著尊者舍利弗（如奉寶物般）護持，能得以見他、得以親近侍奉他，對他們也是獲益、對他們也是善得；我們也獲益、我們也善得——我們這些得以見到尊者舍利弗、得以（親近侍奉他）者。」"
+  },
+  "mn24:17.13": {
+    "pi": "Itiha te ubhopi mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti",
+    "zh": "就這樣，那兩位大龍彼此對對方的善說共同隨喜。"
+  },
+  "mn24:17.14": {
+    "pi": "Rathavinītasuttaṁ niṭṭhitaṁ catutthaṁ",
+    "zh": "《傳車經》第四，完結。"
+  },
+  "mn25:1.1": {
+    "pi": "Evaṁ me sutaṁ",
+    "zh": "如是我聞。"
+  },
+  "mn25:1.2": {
+    "pi": "ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme"
+  },
+  "mn25:1.3": {
+    "pi": "Tatra kho bhagavā bhikkhū āmantesi",
+    "zh": "於是，世尊確實呼喚了諸比丘。"
+  },
+  "mn25:1.4": {
+    "pi": "bhikkhavo ti"
+  },
+  "mn25:1.5": {
+    "pi": "Bhadante ti te bhikkhū bhagavato paccassosuṁ"
+  },
+  "mn25:1.6": {
+    "pi": "Bhagavā etadavoca",
+    "zh": "世尊說了這話："
+  },
+  "mn25:2.1": {
+    "pi": "Na bhikkhave nevāpiko nivāpaṁ nivapati migajātānaṁ",
+    "zh": "「諸比丘，獵人撒下餌食給鹿群，並非是出於〔以下這種念頭〕——"
+  },
+  "mn25:2.2": {
+    "pi": "imaṁ me nivāpaṁ nivuttaṁ migajātā paribhuñjantā dīghāyukā vaṇṇavanto ciraṁ dīghamaddhānaṁ yāpentū ti",
+    "zh": "『願鹿群食用我所撒之餌食，（從而）長壽、容光煥發，得以長久存活。』"
+  },
+  "mn25:2.3": {
+    "pi": "Evañca kho bhikkhave nevāpiko nivāpaṁ nivapati migajātānaṁ",
+    "zh": "諸比丘，獵人確實是如此（為以下目的而）撒下餌食給鹿群——"
+  },
+  "mn25:2.4": {
+    "pi": "imaṁ me nivāpaṁ nivuttaṁ migajātā anupakhajja mucchitā bhojanāni bhuñjissanti anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjissanti mattā samānā pamādaṁ āpajjissanti pamattā samānā yathākāmakaraṇīyā bhavissanti imasmiṁ nivāpe ti",
+    "zh": "〔心想：〕『鹿群將鑽入我所撒之餌食，貪著食物而食用；如此鑽入、貪著地食用，將陷入沈迷放縱；陶醉之中，將陷入放逸；一旦放逸，牠們便將成為可在此餌食中任意處置之物。』」"
+  },
+  "mn25:3.1": {
+    "pi": "Tatra bhikkhave paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṁsu te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "在那裡，比丘們，第一種鹿群潛入誘捕者撒下的那份誘餌，貪戀地吃了食物。牠們在那裡貪戀地潛入、吃著食物，陷入沉迷；如此沉迷，陷入放逸；如此放逸，便在那誘餌之處成了誘捕者任意宰割的對象。"
+  },
+  "mn25:3.2": {
+    "pi": "Evañhi te bhikkhave paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "比丘們，就這樣，那第一種鹿群未能從誘捕者的神通力中脫身。"
+  },
+  "mn25:4.1": {
+    "pi": "Tatra bhikkhave dutiyā migajātā evaṁ samacintesuṁ",
+    "zh": "在那裡，比丘們，第二種鹿群如此共同商議了。"
+  },
+  "mn25:4.2": {
+    "pi": "ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "（第二種鹿群商議道：）那些第一種鹿群確實潛入誘捕者撒下的那份誘餌，貪戀地吃了食物，"
+  },
+  "mn25:4.3": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "牠們在那裡貪戀地潛入、吃著食物，陷入沉迷；如此沉迷，陷入放逸；如此放逸，在那誘餌之處，成了誘捕者任意宰割的對象。"
+  },
+  "mn25:4.4": {
+    "pi": "Evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第一種鹿群未能從誘捕者的神通力中脫身。"
+  },
+  "mn25:4.5": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「讓我們完全戒絕誘餌食物，戒絕危險的享樂，深入進入森林地帶吧。」"
+  },
+  "mn25:4.6": {
+    "pi": "Te sabbaso nivāpabhojanā paṭiviramiṁsu bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu",
+    "zh": "牠們完全戒絕了誘餌食物，戒絕了危險的享樂，深入進入森林地帶，在那裡居住。"
+  },
+  "mn25:4.7": {
+    "pi": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti",
+    "zh": "在夏末，草水耗盡之時，牠們的身體陷入極度消瘦的狀態。"
+  },
+  "mn25:4.8": {
+    "pi": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi",
+    "zh": "身體達到極度消瘦狀態的牠們，氣力與精進就此衰退了。"
+  },
+  "mn25:4.9": {
+    "pi": "Balavīriye parihīne tameva nivāpaṁ nivuttaṁ nevāpikassa paccāgamiṁsu",
+    "zh": "（牠們）力量與意志力已耗盡，回到了那個捕獵者正是那撒下的飼料處。"
+  },
+  "mn25:4.10": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "牠們在那裡悄悄闖入，迷醉著吃起了食物。"
+  },
+  "mn25:4.11": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "牠們在那裡悄悄闖入，迷著食物吃個不停，陷入了沉溺得意；既已如此沉溺，又陷入了放逸；既已放逸，便在那個捕獵者的那個飼料處成了任其隨意擺布之物。"
+  },
+  "mn25:4.12": {
+    "pi": "Evañhi te bhikkhave dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "諸比丘，就這樣，第二群鹿也未能脫離那捕獵者的神通威力。"
+  },
+  "mn25:5.1": {
+    "pi": "Tatra bhikkhave tatiyā migajātā evaṁ samacintesuṁ",
+    "zh": "諸比丘，在此，第三群鹿這樣謀劃了。"
+  },
+  "mn25:5.2": {
+    "pi": "ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa pe",
+    "zh": "那些確實是第一群鹿，（牠們因吃）那個捕獵者撒下的飼料……（以下省略）"
+  },
+  "mn25:5.3": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第一群鹿未能脫離那捕獵者的神通威力。"
+  },
+  "mn25:5.4": {
+    "pi": "Yepi te dutiyā migajātā evaṁ samacintesuṁ",
+    "zh": "那第二群鹿也這樣謀劃了。"
+  },
+  "mn25:5.5": {
+    "pi": "ye kho te paṭhamā migajātā amuṁ nivāpaṁ nivuttaṁ nevāpikassa pe",
+    "zh": "那些確實是第一群鹿，（牠們因吃）那個捕獵者撒下的飼料……（以下省略）"
+  },
+  "mn25:5.6": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第一群鹿也未能脫離那捕獵者的神通威力。"
+  },
+  "mn25:5.7": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「我們應當完全遠離誘餌食物，遠離危險的享樂，深入森林地帶而住。」"
+  },
+  "mn25:5.8": {
+    "pi": "Te sabbaso nivāpabhojanā paṭiviramiṁsu bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu",
+    "zh": "那些鹿完全遠離了誘餌食物，遠離危險的享樂，深入森林地帶而居。"
+  },
+  "mn25:5.9": {
+    "pi": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti",
+    "zh": "對那些鹿而言，在熱季最後的月份，草與水耗盡之時，身體便達到了極度消瘦的狀態。"
+  },
+  "mn25:5.10": {
+    "pi": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi",
+    "zh": "那些身體已達到極度消瘦的鹿，力氣與精力衰退了。"
+  },
+  "mn25:5.11": {
+    "pi": "Balavīriye parihīne tameva nivāpaṁ nivuttaṁ nevāpikassa paccāgamiṁsu",
+    "zh": "力氣與精力一旦衰退，牠們便回到了捕獸者散下的那份誘餌。"
+  },
+  "mn25:5.12": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "那些鹿在那裡偷偷進入，痴迷地吃了食物。"
+  },
+  "mn25:5.13": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "那些鹿在那裡偷偷進入，痴迷地吃著食物，陷入了沉醉；沉醉之後，又陷入放逸；放逸之後，便成了捕獸者在那誘餌之所任意擺佈的獵物。"
+  },
+  "mn25:5.14": {
+    "pi": "Evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "如此，第二種鹿群也未能從捕獸者的神通力量中逃脫。"
+  },
+  "mn25:5.15": {
+    "pi": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappeyyāma",
+    "zh": "「我們應當依靠那個捕獸者散下的誘餌，設置棲身之所。」"
+  },
+  "mn25:5.16": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe ti",
+    "zh": "「設置之後，在那捕獸者散下的誘餌旁，不偷偷進入、不痴迷地吃食物；不偷偷進入、不痴迷地吃著食物，就不會陷入沉醉；不沉醉之時，就不會陷入放逸；不放逸之時，就不會成為捕獸者在那誘餌之所任意擺佈的獵物。」"
+  },
+  "mn25:5.17": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappayiṁsu",
+    "zh": "他們依靠那個獵人撒下的誘餌，安置了（自己的）習性。"
+  },
+  "mn25:5.18": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu amattā samānā na pamādaṁ āpajjiṁsu appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "設定之後，他們不進入（獵人領域）、不執著地吃了那個獵人撒下的誘餌；他們在那裡不進入其中、不執著地吃著食物，未陷入沉迷；身為未沉醉者，未陷入放逸；身為不放逸者，未成為獵人在那誘餌中可隨意支配之物。"
+  },
+  "mn25:5.19": {
+    "pi": "Tatra bhikkhave nevāpikassa ca nevāpikaparisāya ca etadahosi",
+    "zh": "比丘們，於此，獵人及其隨從生起了這個念頭："
+  },
+  "mn25:5.20": {
+    "pi": "saṭhāssunāmime tatiyā migajātā ketabino iddhimantāssunāmime tatiyā migajātā parajanā",
+    "zh": "「這第三種鹿群真是狡猾、詭詐！這第三種鹿群真是神奇有神通！（它們是）靈體（parajanā）！」"
+  },
+  "mn25:5.21": {
+    "pi": "imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā",
+    "zh": "（它們）享用這撒下的誘餌，然而我們不知道它們的來路或去向。"
+  },
+  "mn25:5.22": {
+    "pi": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma appeva nāma tatiyānaṁ migajātānaṁ āsayaṁ passeyyāma yattha te gāhaṁ gaccheyyun ti",
+    "zh": "「我們應當用大型木柵欄將這撒下的誘餌四周都圍起來，或許能見到第三種鹿群的棲所——在那裡是它們被捕獲之處。」"
+  },
+  "mn25:5.23": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ",
+    "zh": "他們用大型木柵欄將那撒下的誘餌四周都圍住了。"
+  },
+  "mn25:5.24": {
+    "pi": "Addasaṁsu kho bhikkhave nevāpiko ca nevāpikaparisā ca tatiyānaṁ migajātānaṁ āsayaṁ yattha te gāhaṁ agamaṁsu",
+    "zh": "比丘們，確實，獵人及其隨從看見了第三種鹿群的棲所——在那裡是它們被捕獲之處。"
+  },
+  "mn25:5.25": {
+    "pi": "Evañhi te bhikkhave tatiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "比丘們，就這樣，那第三種鹿群也未能從獵人的神通力中逃脫。"
+  },
+  "mn25:6.1": {
+    "pi": "Tatra bhikkhave catutthā migajātā evaṁ samacintesuṁ",
+    "zh": "比丘們，於此，第四種鹿群如此謀策了。"
+  },
+  "mn25:6.2": {
+    "pi": "ye kho te paṭhamā migajātā pe",
+    "zh": "那些確實是第一種鹿群……（以下省略）"
+  },
+  "mn25:6.3": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那些第一種鹿群未能從獵人的神通力中逃脫。"
+  },
+  "mn25:6.4": {
+    "pi": "Yepi te dutiyā migajātā evaṁ samacintesuṁ",
+    "zh": "那些第二種鹿群也如此思量："
+  },
+  "mn25:6.5": {
+    "pi": "ye kho te paṭhamā migajātā pe",
+    "zh": "那些確實是第一種鹿群……（以下省略）"
+  },
+  "mn25:6.6": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那些第一種鹿群未能從獵人的神通力中逃脫。"
+  },
+  "mn25:6.7": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「我們應當完全戒離誘餌食物；遠離危險之樂，深入進入森林地帶。」"
+  },
+  "mn25:6.8": {
+    "pi": "Te sabbaso nivāpabhojanā paṭiviramiṁsu pe",
+    "zh": "那些（鹿群）完全戒離了誘餌食物……（以下省略）"
+  },
+  "mn25:6.9": {
+    "pi": "evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那些第二種鹿群也未能從獵人的神通力中逃脫。"
+  },
+  "mn25:6.10": {
+    "pi": "Yepi te tatiyā migajātā evaṁ samacintesuṁ",
+    "zh": "那些第三種鹿群也如此思量："
+  },
+  "mn25:6.11": {
+    "pi": "ye kho te paṭhamā migajātā pe",
+    "zh": "那些確實是第一種鹿群……（以下省略）"
+  },
+  "mn25:6.12": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第一批鹿群未能從捕獵者的神通之力中逃脫。"
+  },
+  "mn25:6.13": {
+    "pi": "Yepi te dutiyā migajātā evaṁ samacintesuṁ",
+    "zh": "那第二批鹿群如此謀議道……"
+  },
+  "mn25:6.14": {
+    "pi": "ye kho te paṭhamā migajātā pe",
+    "zh": "那些確實是第一批鹿群……（以下略，同前段所述）"
+  },
+  "mn25:6.15": {
+    "pi": "evañhi te paṭhamā migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第一批鹿群未能從捕獵者的神通之力中逃脫。"
+  },
+  "mn25:6.16": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「我們應當完全戒除食餌——那危險的享樂——戒除之後，深入進入森林地帶……」"
+  },
+  "mn25:6.17": {
+    "pi": "Te sabbaso nivāpabhojanā paṭiviramiṁsu pe",
+    "zh": "那些鹿完全戒除了食餌……（以下略）"
+  },
+  "mn25:6.18": {
+    "pi": "evañhi te dutiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "就這樣，那第二批鹿群也未能從捕獵者的神通之力中逃脫。"
+  },
+  "mn25:6.19": {
+    "pi": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappeyyāma tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe ti",
+    "zh": "「我們應當依憑捕獵者撒下的那些飼料建立習性，建立之後，在捕獵者撒下的飼料旁，不深陷其中、不執著地食用食物；在不深陷其中、不執著地食用食物之時，不會陷入沉迷，不沉醉而住，不會陷入放逸，不放逸而住，如此便不會在捕獵者的那飼料場中任由其擺佈了。」"
+  },
+  "mn25:6.20": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ nevāpikassa upanissāya āsayaṁ kappayiṁsu tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu amattā samānā na pamādaṁ āpajjiṁsu appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe",
+    "zh": "那些鹿依憑捕獵者撒下的那些飼料建立了習性，建立之後，在捕獵者撒下的飼料旁，不深陷其中、不執著地食用了食物；那些鹿在那裡不深陷其中、不執著地食用食物之時，未曾陷入沉迷，不沉醉而住，未曾陷入放逸，不放逸而住，在捕獵者的那飼料場中未曾任由其擺佈。"
+  },
+  "mn25:6.21": {
+    "pi": "Tatra nevāpikassa ca nevāpikaparisāya ca etadahosi",
+    "zh": "於是，對那捕獵者及其同夥，生起了這樣的念頭……"
+  },
+  "mn25:6.22": {
+    "pi": "saṭhāssunāmime tatiyā migajātā ketabino iddhimantāssunāmime tatiyā migajātā parajanā imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti"
+  },
+  "mn25:6.23": {
+    "pi": "Na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā"
+  },
+  "mn25:6.24": {
+    "pi": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma appeva nāma tatiyānaṁ migajātānaṁ āsayaṁ passeyyāma yattha te gāhaṁ gaccheyyun ti"
+  },
+  "mn25:6.25": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ"
+  },
+  "mn25:6.26": {
+    "pi": "Addasaṁsu kho nevāpiko ca nevāpikaparisā ca tatiyānaṁ migajātānaṁ āsayaṁ yattha te gāhaṁ agamaṁsu"
+  },
+  "mn25:6.27": {
+    "pi": "Evañhi te tatiyāpi migajātā na parimucciṁsu nevāpikassa iddhānubhāvā"
+  },
+  "mn25:6.28": {
+    "pi": "Yannūna mayaṁ yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṁ kappeyyāma tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṁ nivāpe ti"
+  },
+  "mn25:6.29": {
+    "pi": "Te yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṁ kappayiṁsu"
+  },
+  "mn25:6.30": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ nevāpikassa ananupakhajja amucchitā bhojanāni bhuñjiṁsu te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu amattā samānā na pamādaṁ āpajjiṁsu appamattā samānā na yathākāmakaraṇīyā ahesuṁ nevāpikassa amusmiṁ nivāpe"
+  },
+  "mn25:6.31": {
+    "pi": "Tatra bhikkhave nevāpikassa ca nevāpikaparisāya ca etadahosi"
+  },
+  "mn25:6.32": {
+    "pi": "saṭhāssunāmime catutthā migajātā ketabino iddhimantāssunāmime catutthā migajātā parajanā",
+    "zh": "「他們確實狡猾啊！」——這第四種鹿族真是詭詐。「他們確實具有神通！」——這第四種鹿族名為帕拉迦那（靈）。"
+  },
+  "mn25:6.33": {
+    "pi": "Imañca nāma nivāpaṁ nivuttaṁ paribhuñjanti na ca nesaṁ jānāma āgatiṁ vā gatiṁ vā",
+    "zh": "他們享用這所謂散布的餌食，然而我們既不知其來處，也不知其去處。"
+  },
+  "mn25:6.34": {
+    "pi": "Yannūna mayaṁ imaṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāreyyāma appeva nāma catutthānaṁ migajātānaṁ āsayaṁ passeyyāma yattha te gāhaṁ gaccheyyun ti",
+    "zh": "讓我們用大型木柵圍欄將這散布的餌食四周（含其所在地域）全部圍起來，或許就能見到第四種鹿族的棲所——在那裡他們可被捕捉。"
+  },
+  "mn25:6.35": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ mahatīhi daṇḍavākarāhi samantā sappadesaṁ anuparivāresuṁ",
+    "zh": "他們便用大型木柵圍欄將那散布的餌食四周全部圍了起來。"
+  },
+  "mn25:6.36": {
+    "pi": "Neva kho bhikkhave addasaṁsu nevāpiko ca nevāpikaparisā ca catutthānaṁ migajātānaṁ āsayaṁ yattha te gāhaṁ gaccheyyuṁ",
+    "zh": "然而，諸比丘，獵人及其同伴確實未能見到第四種鹿族的棲所——在那裡他們可能被捕捉。"
+  },
+  "mn25:6.37": {
+    "pi": "Tatra bhikkhave nevāpikassa ca nevāpikaparisāya ca etadahosi",
+    "zh": "諸比丘，於是獵人及其同伴心中生起了這樣的念頭："
+  },
+  "mn25:6.38": {
+    "pi": "sace kho mayaṁ catutthe migajāte ghaṭṭessāma te ghaṭṭitā aññe ghaṭṭissanti te ghaṭṭitā aññe ghaṭṭissanti",
+    "zh": "若我們確實去驅趕第四種鹿族，受驚的牠們將驅趕其他的，受驚的又將驅趕另一些——"
+  },
+  "mn25:6.39": {
+    "pi": "Evaṁ imaṁ nivāpaṁ nivuttaṁ sabbaso migajātā parimuñcissanti",
+    "zh": "如此一來，鹿族將完全逃離這散布的餌食。"
+  },
+  "mn25:6.40": {
+    "pi": "Yannūna mayaṁ catutthe migajāte ajjhupekkheyyāmā ti",
+    "zh": "（我們就放過）第四種鹿族吧。（引語結束；本段語彙殘缺，動詞未見於所提供語料）"
+  },
+  "mn25:6.41": {
+    "pi": "Ajjhupekkhiṁsu kho bhikkhave nevāpiko ca nevāpikaparisā ca catutthe migajāte",
+    "zh": "諸比丘，獵人及其同伴確實對第四種鹿族袖手旁觀、漠然置之。"
+  },
+  "mn25:6.42": {
+    "pi": "Evañhi te bhikkhave catutthā migajātā parimucciṁsu nevāpikassa iddhānubhāvā",
+    "zh": "諸比丘，如此，那第四種鹿群，憑其神通威力，從誘捕者（的掌控中）逃脫了。"
+  },
+  "mn25:7.1": {
+    "pi": "Upamā kho me ayaṁ bhikkhave katā atthassa viññāpanāya",
+    "zh": "諸比丘，這比喻確實是我所作，為了說明其義理。"
+  },
+  "mn25:7.2": {
+    "pi": "Ayaṁ cevettha attho",
+    "zh": "而這裡的意義是："
+  },
+  "mn25:7.3": {
+    "pi": "nivāpoti kho bhikkhave pañcannetaṁ kāmaguṇānaṁ adhivacanaṁ",
+    "zh": "諸比丘，「誘餌」確實是諸欲樂的代稱。（t3 資料未提供，所指承接對象依 t4 kāmaguṇānaṁ推知。）"
+  },
+  "mn25:7.4": {
+    "pi": "Nevāpikoti kho bhikkhave mārassetaṁ pāpimato adhivacanaṁ",
+    "zh": "諸比丘，「誘捕者」確實是惡者（魔）的代稱。（t3 資料未提供。）"
+  },
+  "mn25:7.5": {
+    "pi": "Nevāpikaparisāti kho bhikkhave māraparisāyetaṁ adhivacanaṁ",
+    "zh": "諸比丘，「誘捕者的眷屬」確實是（某眾）的代稱。（t3 資料未提供，所指對象不明，無法補全。）"
+  },
+  "mn25:7.6": {
+    "pi": "Migajātāti kho bhikkhave samaṇabrāhmaṇānametaṁ adhivacanaṁ",
+    "zh": "諸比丘，「鹿群」確實是（某眾）的代稱。（t3 資料未提供，所指對象不明，無法補全。）"
+  },
+  "mn25:8.1": {
+    "pi": "Tatra bhikkhave paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "諸比丘，其中，第一種沙門婆羅門眾，鑽入魔所撒放的那誘餌以及那些世間諸欲之中，迷醉地食用食物。"
+  },
+  "mn25:8.2": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "他們在那裡鑽入其中，迷醉地食用食物，陷入了放逸歡愉；達到那程度，又陷入了放逸；如此放逸，在那誘餌與那世間諸欲之中，成為了魔任意擺佈的對象。"
+  },
+  "mn25:8.3": {
+    "pi": "Evañhi te bhikkhave paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "諸比丘，如此，那第一種沙門婆羅門眾，未能從魔的神通威力（的掌控）中逃脫。"
+  },
+  "mn25:8.4": {
+    "pi": "Seyyathāpi te bhikkhave paṭhamā migajātā tathūpame ahaṁ ime paṭhame samaṇabrāhmaṇe vadāmi",
+    "zh": "諸比丘，就如同那第一群鹿，我說這些第一類的沙門婆羅門是同樣可比的。"
+  },
+  "mn25:9.1": {
+    "pi": "Tatra bhikkhave dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ",
+    "zh": "諸比丘，在那裡，第二類沙門婆羅門如此共同思量："
+  },
+  "mn25:9.2": {
+    "pi": "ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "那些第一類沙門婆羅門，確實侵入了魔羅所撒下的那誘餌——那些世間利養，迷醉地吃了食物。"
+  },
+  "mn25:9.3": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "他們在那裡侵入其中，迷醉地吃著食物，陷入了沉醉；在那狀態下又陷入了放逸；在放逸的狀態下，在那誘餌中、在那世間利養中，成為了魔羅可以任意擺布的對象。"
+  },
+  "mn25:9.4": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第一類沙門婆羅門確實沒能從魔羅的神通力中脫身。"
+  },
+  "mn25:9.5": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「我們應當完全遠離餌食與世間利養，遠離危險的享樂，深入林野之所而住。」"
+  },
+  "mn25:9.6": {
+    "pi": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmāti",
+    "zh": "他們完全遠離了餌食與世間利養，遠離了危險的享樂，深入林野之所，「願我們住於此。」"
+  },
+  "mn25:9.7": {
+    "pi": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu",
+    "zh": "他們完全遠離了餌食與世間利養，遠離了危險的享樂，深入林野之所而住。"
+  },
+  "mn25:9.8": {
+    "pi": "Te tattha sākabhakkhāpi ahesuṁ sāmākabhakkhāpi ahesuṁ nīvārabhakkhāpi ahesuṁ daddulabhakkhāpi ahesuṁ haṭabhakkhāpi ahesuṁ kaṇabhakkhāpi ahesuṁ ācāmabhakkhāpi ahesuṁ piññākabhakkhāpi ahesuṁ tiṇabhakkhāpi ahesuṁ gomayabhakkhāpi ahesuṁ vanamūlaphalāhārā yāpesuṁ pavattaphalabhojī",
+    "zh": "他們在那裡，有的食蔬葉，有的食野稗米，有的食野生紅米，有的食獸皮刮屑，有的食水草，有的食米糠粉，有的食米汁，有的食芝麻粉，有的食草，有的食牛糞，靠食林野根果維生，並食自然落果。"
+  },
+  "mn25:9.9": {
+    "pi": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti"
+  },
+  "mn25:9.10": {
+    "pi": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi",
+    "zh": "對於那些身體已達極度消瘦狀態的人，力量與精進衰退了。"
+  },
+  "mn25:9.11": {
+    "pi": "Balavīriye parihīne cetovimutti parihāyi",
+    "zh": "力量與精進衰退之後，心解脫也衰退了。"
+  },
+  "mn25:9.12": {
+    "pi": "Cetovimuttiyā parihīnāya tameva nivāpaṁ nivuttaṁ mārassa paccāgamiṁsu tāni ca lokāmisāni",
+    "zh": "心解脫衰退之後，他們回到了魔所撒下的那餌食，以及那些世間的誘惑。"
+  },
+  "mn25:9.13": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "他們潛入其中，迷醉貪著，進食了那些食物。"
+  },
+  "mn25:9.14": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "他們潛入其中，迷醉貪著，在進食那些食物時陷入了沉醉；達到沉醉之量後又陷入了放逸；成為放逸者後，對於魔在那裡撒下的餌食以及那世間的誘惑，便成了可被任意處置的。"
+  },
+  "mn25:9.15": {
+    "pi": "Evañhi te bhikkhave dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，諸比丘，第二種沙門婆羅門也未能從魔的神通威力中解脫出來。"
+  },
+  "mn25:9.16": {
+    "pi": "Seyyathāpi te bhikkhave dutiyā migajātā tathūpame ahaṁ ime dutiye samaṇabrāhmaṇe vadāmi",
+    "zh": "諸比丘，就好比那第二類的鹿——我就以這個比喻來稱說這些第二種沙門婆羅門。"
+  },
+  "mn25:10.1": {
+    "pi": "Tatra bhikkhave tatiyā samaṇabrāhmaṇā evaṁ samacintesuṁ",
+    "zh": "諸比丘，其中第三種沙門婆羅門如此思考謀劃了。"
+  },
+  "mn25:10.2": {
+    "pi": "ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni pe",
+    "zh": "「那些確實是第一種沙門婆羅門——（曾面對）魔所撒下的那餌食以及那些世間的誘惑……」（以下省略）"
+  },
+  "mn25:10.3": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第一種諸沙門婆羅門也未能從魔的神通威力中解脫出來。"
+  },
+  "mn25:10.4": {
+    "pi": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ",
+    "zh": "那些第二類沙門婆羅門也這樣謀思計劃。"
+  },
+  "mn25:10.5": {
+    "pi": "ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni pe",
+    "zh": "那些第一類沙門婆羅門確實察覺那被魔羅撒下的誘餌，以及那些世間誘惑……（以下略）"
+  },
+  "mn25:10.6": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "正因如此，那些第一類沙門婆羅門並未從魔羅的神通力中解脫出來。"
+  },
+  "mn25:10.7": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「我等應完全遠離誘餌食物與世間誘惑，遠離危險的享樂，深入林野之地而住。」"
+  },
+  "mn25:10.8": {
+    "pi": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu",
+    "zh": "他們確實完全遠離了誘餌食物與世間誘惑。"
+  },
+  "mn25:10.9": {
+    "pi": "Bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṁsu",
+    "zh": "遠離了危險的享樂後，他們深入林野之地而住。"
+  },
+  "mn25:10.10": {
+    "pi": "Te tattha sākabhakkhāpi ahesuṁ pe pavattaphalabhojī",
+    "zh": "他們在那裡，有以蔬草為食者……乃至有以自然落果為食者。"
+  },
+  "mn25:10.11": {
+    "pi": "Tesaṁ gimhānaṁ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṁ patto kāyo hoti",
+    "zh": "對他們而言，在夏季末後幾個月，草盡水枯之際，身體陷入極度消瘦之境。"
+  },
+  "mn25:10.12": {
+    "pi": "Tesaṁ adhimattakasimānaṁ pattakāyānaṁ balavīriyaṁ parihāyi balavīriye parihīne cetovimutti parihāyi cetovimuttiyā parihīnāya tameva nivāpaṁ nivuttaṁ mārassa paccāgamiṁsu tāni ca lokāmisāni",
+    "zh": "對那些身體達到極度消瘦的人，體力與精力衰退了；體力精力衰退後，心解脫亦退失了；心解脫退失後，他們回到了魔羅所撒下的那誘餌，以及那些世間誘惑。"
+  },
+  "mn25:10.13": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṁsu",
+    "zh": "他們在那裡趁機混入，貪著地吃起食物來。"
+  },
+  "mn25:10.14": {
+    "pi": "Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṁ āpajjiṁsu mattā samānā pamādaṁ āpajjiṁsu pamattā samānā yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "他們在那裡潛入其中，迷執著食物進食，陷入了放縱；達到那般程度之後，又陷入了放逸；處於放逸之中，遂成為魔羅在那飼料場及那些世間欲樂中任意擺布的對象。"
+  },
+  "mn25:10.15": {
+    "pi": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第二類沙門婆羅門——具神通威力者——也未能從魔羅那裡脫離。"
+  },
+  "mn25:10.16": {
+    "pi": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappeyyāma tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmise ti",
+    "zh": "「我們應依靠那魔羅所撒下的飼料及那些世間欲樂，構建一種習性傾向；構建之後，不潛入那魔羅所撒下的飼料及那些世間欲樂，不迷執地食用食物；不潛入、不迷執地進食時，將不陷入放縱；不沉醉之際，便不陷入放逸；不放逸之際，便不成為魔羅在那飼料場及那些世間欲樂中任意擺布的對象。」"
+  },
+  "mn25:10.17": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappayiṁsu",
+    "zh": "他們依靠那魔羅所撒下的飼料及那些世間欲樂，構建了一種習性傾向。"
+  },
+  "mn25:10.18": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu",
+    "zh": "構建之後，他們不潛入那魔羅所撒下的飼料及那些世間欲樂之中，不迷執地食用了食物。"
+  },
+  "mn25:10.19": {
+    "pi": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu amattā samānā na pamādaṁ āpajjiṁsu appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "他們在那裡不潛入其中、不迷執地進食，未陷入放縱；不沉醉之際，未陷入放逸；不放逸之際，未成為魔羅在那飼料場及那些世間欲樂中任意擺布的對象。"
+  },
+  "mn25:10.20": {
+    "pi": "Api ca kho evaṁdiṭṭhikā ahesuṁ",
+    "zh": "然而，他們確實持有如此的見解。"
+  },
+  "mn25:10.21": {
+    "pi": "sassato loko itipi asassato loko itipi",
+    "zh": "「世界是永恆的」，或「世界是非永恆的」。"
+  },
+  "mn25:10.22": {
+    "pi": "antavā loko itipi anantavā loko itipi",
+    "zh": "「世界是有邊際的」，或「世界是無邊際的」。"
+  },
+  "mn25:10.23": {
+    "pi": "taṁ jīvaṁ taṁ sarīraṁ itipi aññaṁ jīvaṁ aññaṁ sarīraṁ itipi",
+    "zh": "「生命本體與身體是同一的」，或「生命本體與身體是不同的」。"
+  },
+  "mn25:10.24": {
+    "pi": "hoti tathāgato paraṁ maraṇā itipi na hoti tathāgato paraṁ maraṇā itipi hoti ca na ca hoti tathāgato paraṁ maraṇā itipi neva hoti na na hoti tathāgato paraṁ maraṇā itipi",
+    "zh": "（謂）如來死後存在；（謂）如來死後不存在；（謂）如來死後亦存在亦不存在；（謂）如來死後既非存在亦非不存在。"
+  },
+  "mn25:10.25": {
+    "pi": "Evañhi te bhikkhave tatiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā"
+  },
+  "mn25:10.26": {
+    "pi": "Seyyathāpi te bhikkhave tatiyā migajātā tathūpame ahaṁ ime tatiye samaṇabrāhmaṇe vadāmi",
+    "zh": "比丘們，就如同那第三類鹿群，我稱這些第三類沙門婆羅門們與此相似。"
+  },
+  "mn25:11.1": {
+    "pi": "Tatra bhikkhave catutthā samaṇabrāhmaṇā evaṁ samacintesuṁ",
+    "zh": "比丘們，其中，那些第四類沙門婆羅門們如此思量。"
+  },
+  "mn25:11.2": {
+    "pi": "ye kho te paṭhamā samaṇabrāhmaṇā amuṁ nivāpaṁ nivuttaṁ mārassa pe"
+  },
+  "mn25:11.3": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā"
+  },
+  "mn25:11.4": {
+    "pi": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ",
+    "zh": "那些第二類沙門婆羅門們也如此思量。"
+  },
+  "mn25:11.5": {
+    "pi": "ye kho te paṭhamā samaṇabrāhmaṇā pe",
+    "zh": "那些確實是第一類沙門婆羅門們……（以下省略）"
+  },
+  "mn25:11.6": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā"
+  },
+  "mn25:11.7": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "（我們應當思量：）我們應當完全遠離誘餌食物（即）世間俗樂，已遠離危險的享樂，深入森林地帶（而住）。"
+  },
+  "mn25:11.8": {
+    "pi": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu pe",
+    "zh": "他們完全遠離了誘餌食物與世俗欲樂……（後略）"
+  },
+  "mn25:11.9": {
+    "pi": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第二批沙門婆羅門們也未能從魔羅的神通威力中解脫。"
+  },
+  "mn25:11.10": {
+    "pi": "Yepi te tatiyā samaṇabrāhmaṇā evaṁ samacintesuṁ ye kho te paṭhamā samaṇabrāhmaṇā pe",
+    "zh": "凡那些第三批沙門婆羅門們如此謀思：「凡那些第一批沙門婆羅門們……」（後略）"
+  },
+  "mn25:11.11": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第一批沙門婆羅門們也未能從魔羅的神通威力中解脫。"
+  },
+  "mn25:11.12": {
+    "pi": "Yepi te dutiyā samaṇabrāhmaṇā evaṁ samacintesuṁ ye kho te paṭhamā samaṇabrāhmaṇā pe",
+    "zh": "凡那些第二批沙門婆羅門們也如此謀思：「凡那些第一批沙門婆羅門們……」（後略）"
+  },
+  "mn25:11.13": {
+    "pi": "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第一批沙門婆羅門們也未能從魔羅的神通威力中解脫。"
+  },
+  "mn25:11.14": {
+    "pi": "Yannūna mayaṁ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā ti",
+    "zh": "「願我們完全遠離誘餌食物與世俗欲樂，（成為）已遠離危險欲樂者，深入進入森林之所……」"
+  },
+  "mn25:11.15": {
+    "pi": "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṁsu pe",
+    "zh": "他們完全遠離了誘餌食物與世俗欲樂……（後略）"
+  },
+  "mn25:11.16": {
+    "pi": "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "就這樣，那第二批沙門婆羅門們也未能從魔羅的神通威力中解脫。"
+  },
+  "mn25:11.17": {
+    "pi": "Yannūna mayaṁ amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappeyyāma",
+    "zh": "「願我們依靠魔羅所撒下的那個誘餌以及那些世俗欲樂，建立（各自的）傾向習氣。」"
+  },
+  "mn25:11.18": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmiseti",
+    "zh": "「籌謀道：『我們將不混入其中、不迷戀地受用那份魔羅所撒下的誘餌及那些世間誘惑——不混入、不迷戀地受用飲食，我們將不遭受放縱；既不沉醉，便不遭受放逸；既不放逸，便不在那誘餌及那世間誘惑中成為魔羅任意為所欲為的對象。』」"
+  },
+  "mn25:11.19": {
+    "pi": "Te amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni upanissāya āsayaṁ kappayiṁsu",
+    "zh": "他們憑藉那份魔羅撒下的誘餌及那些世間誘惑，籌謀了意向。"
+  },
+  "mn25:11.20": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu",
+    "zh": "籌謀之後，他們不混入其中、不迷戀地受用了那份魔羅撒下的誘餌及那些世間誘惑中的飲食。"
+  },
+  "mn25:11.21": {
+    "pi": "Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu",
+    "zh": "他們在那裡不混入其中、不迷戀地受用飲食，未遭受放縱。"
+  },
+  "mn25:11.22": {
+    "pi": "Amattā samānā na pamādaṁ āpajjiṁsu",
+    "zh": "既不沉醉，便未遭受放逸。"
+  },
+  "mn25:11.23": {
+    "pi": "Appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise",
+    "zh": "既不放逸，便未在那份誘餌及那些世間誘惑中成為魔羅任意為所欲為的對象。"
+  },
+  "mn25:11.24": {
+    "pi": "Api ca kho evaṁdiṭṭhikā ahesuṁ sassato loko itipi pe",
+    "zh": "然而，他們確實持有如此見解：「世界是常恆的……」〔略〕"
+  },
+  "mn25:11.25": {
+    "pi": "neva hoti na na hoti tathāgato paraṁ maraṇā itipi",
+    "zh": "「如來死後，亦非存在，亦非不存在。」如此〔見〕。"
+  },
+  "mn25:11.26": {
+    "pi": "Evañhi te tatiyāpi samaṇabrāhmaṇā na parimucciṁsu mārassa iddhānubhāvā",
+    "zh": "如此，那第三批沙門婆羅門們亦未能從魔羅的神力中脫離。"
+  },
+  "mn25:11.27": {
+    "pi": "Yannūna mayaṁ yattha agati mārassa ca māraparisāya ca tatrāsayaṁ kappeyyāma",
+    "zh": "「我們應當籌謀（前往）魔羅及其眷屬無能至之境。」"
+  },
+  "mn25:11.28": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjissāma amattā samānā na pamādaṁ āpajjissāma appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa amusmiṁ nivāpe amusmiñca lokāmiseti"
+  },
+  "mn25:11.29": {
+    "pi": "Te yattha agati mārassa ca māraparisāya ca tatrāsayaṁ kappayiṁsu"
+  },
+  "mn25:11.30": {
+    "pi": "Tatrāsayaṁ kappetvā amuṁ nivāpaṁ nivuttaṁ mārassa amūni ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjiṁsu te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṁ āpajjiṁsu amattā samānā na pamādaṁ āpajjiṁsu appamattā samānā na yathākāmakaraṇīyā ahesuṁ mārassa amusmiṁ nivāpe amusmiñca lokāmise"
+  },
+  "mn25:11.31": {
+    "pi": "Evañhi te bhikkhave catutthā samaṇabrāhmaṇā parimucciṁsu mārassa iddhānubhāvā"
+  },
+  "mn25:11.32": {
+    "pi": "Seyyathāpi te bhikkhave catutthā migajātā tathūpame ahaṁ ime catutthe samaṇabrāhmaṇe vadāmi"
+  },
+  "mn25:12.1": {
+    "pi": "Kathañca bhikkhave agati mārassa ca māraparisāya ca"
+  },
+  "mn25:12.2": {
+    "pi": "Idha bhikkhave bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati"
+  },
+  "mn25:12.3": {
+    "pi": "Ayaṁ vuccati bhikkhave bhikkhu andhamakāsi māraṁ apadaṁ vadhitvā māracakkhuṁ adassanaṁ gato pāpimato"
+  },
+  "mn25:13.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati"
+  },
+  "mn25:13.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:14.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti yaṁ taṁ ariyā ācikkhanti upekkhako satimā sukhavihārī ti tatiyaṁ jhānaṁ upasampajja viharati"
+  },
+  "mn25:14.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:15.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati"
+  },
+  "mn25:15.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:16.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ananto ākāso ti ākāsānañcāyatanaṁ upasampajja viharati"
+  },
+  "mn25:16.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:17.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma anantaṁ viññāṇan ti viññāṇañcāyatanaṁ upasampajja viharati"
+  },
+  "mn25:17.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:18.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma natthi kiñcī ti ākiñcaññāyatanaṁ upasampajja viharati"
+  },
+  "mn25:18.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato"
+  },
+  "mn25:19.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati",
+    "zh": "諸比丘，再者，比丘完全超越無所有處，進入並安住於非想非非想處。"
+  },
+  "mn25:19.2": {
+    "pi": "Ayaṁ vuccati bhikkhave pe pāpimato",
+    "zh": "諸比丘，此（比丘）被稱為……（略文）……邪惡者……"
+  },
+  "mn25:20.1": {
+    "pi": "Puna caparaṁ bhikkhave bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati Paññāya cassa disvā āsavā parikkhīṇā honti",
+    "zh": "諸比丘，再者，比丘完全超越非想非非想處，進入並安住於想受滅。且（以慧）見之，其諸漏悉皆滅盡。"
+  },
+  "mn25:20.2": {
+    "pi": "Ayaṁ vuccati bhikkhave bhikkhu andhamakāsi māraṁ apadaṁ vadhitvā māracakkhuṁ adassanaṁ gato pāpimato tiṇṇo loke visattikan ti",
+    "zh": "諸比丘，此比丘被稱為：令魔羅盲目，無跡地殺滅（魔），已去至魔之眼目所不能見之處，對惡者而言，已渡越世間。"
+  },
+  "mn25:20.3": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊如是說。"
+  },
+  "mn25:20.4": {
+    "pi": "Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "彼等諸比丘對世尊所說之語，心生歡喜、隨喜讚歎。"
+  },
+  "mn25:20.5": {
+    "pi": "Nivāpasuttaṁ niṭṭhitaṁ pañcamaṁ",
+    "zh": "《撒餌經》第五，圓滿完畢。"
+  },
   "mn2:1.1": {
     "pi": "Evaṁ me sutaṁ",
     "zh": "如是我所聞。"

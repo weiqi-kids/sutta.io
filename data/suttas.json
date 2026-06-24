@@ -128,6 +128,30 @@
     "hasParallel": true
   },
   {
+    "id": "mn23",
+    "title_pali": "MN23",
+    "title_zh": "mn23",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn24",
+    "title_pali": "MN24",
+    "title_zh": "mn24",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn25",
+    "title_pali": "MN25",
+    "title_zh": "mn25",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
     "id": "mn2",
     "title_pali": "Sabbāsavasutta",
     "title_zh": "一切漏經",
