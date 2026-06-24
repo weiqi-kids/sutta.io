@@ -52,6 +52,13 @@ function callOnce<T>(system: string, userText: string, schema: object): ClaudeRe
       'claude',
       [
         '-p',
+        // 不載入任何 MCP server：build harness 不需 MCP，且使用者設定的遠端 MCP
+        // （claude.ai Gmail/Drive/Calendar 等「需驗證」）會在 claude -p 啟動時嘗試連線，
+        // 偶發卡死 → 整個呼叫 hang 到 600s 被 SIGKILL（不耗 token、不到 API）。隔離掉。
+        '--strict-mcp-config',
+        // 同理不需任何工具，關閉以縮小啟動面。
+        '--tools',
+        '',
         '--append-system-prompt',
         system,
         '--model',
