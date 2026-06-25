@@ -16,13 +16,14 @@
 
 ## 剩餘工作（依優先序）
 
-### 1. 內容規模化 ★最大缺口（146/152 部未產）
-- **現況**：只有 6 部；其餘 146 部尚無資料。`scripts/next-sutta.mjs` 下一部 = **mn1**。
-- **路徑 A（自動）**：每日 cron `0 4 * * *` 跑 `scripts/daily-sutta.sh`，每日 1 部。
-- **路徑 B（批次加速）**：`NEW="mn3,mn4,..." scripts/batch-suttas.sh`（**須 standalone 終端跑，勿與互動 session 同跑** → `claude -p` 併發逾時，見記憶 `[[claude-cli-build-harness-concurrency]]`）。
-- **成本**：全 152 部約 $2000+ 量級（mn10≈$14、mn22≈$17）。
-- **注意**：`next-sutta` 以「檔案存在」判完成 → 不會回補已存在但不完整的經；補特定經要用 `NEW=` 強制。
-- **每部產出後**需：publish-clean 核准零旗標 → 旗標段落人工審（見 §3）。
+### 1. 內容規模化 ★最大缺口（2026-06-25：27 部真完整、mn26 進行中、124 部未產）
+- **正式方法＝sonnet sub-agent**（見 `docs/04-engineering/L2_SUBAGENT_WORKFLOW.md` 與記憶 `[[sutta-io-l2-via-sonnet-subagent]]`）。
+  - **不要再用 `claude -p` / `generation` harness 或 `batch-suttas.sh`／`run-all-mn.sh` 產 L2** —— 實證慢 20 倍、反覆逾時、缺段、浪費輸入 token（真凶：`--json-schema` 強制結構化拖慢 + timeout 砍正常請求）。
+  - 流程：`--only=fetch` 建 L1 → `l2-batch-dump.mjs` 匯出批 → 派 **Agent(model:sonnet)** 翻譯回 JSON → `l2-batch-merge.mjs` 併入 → 重複到覆蓋 ≥98% → index/embed/build/push。可一訊息派多個 Agent 併發。
+- **完整定義**：白話覆蓋 ≥98%（非只看 summary；舊 bug 已修，自查 `node scripts/run-all-progress.mjs`）。
+- **現況**：真完整 27 部（mn1–25 多數 + 原 6 部，扣 mn26）；**mn26 進行中 253/363**（混 sonnet 草稿+Opus+sonnet-agent，未 push 待補滿）；mn27–mn152 等 124 部未產。
+- **成本**：sonnet sub-agent 比舊法省很多；全量仍是數百美元量級，會逐步累積。
+- **每部需**：覆蓋 ≥98% → 旗標段落核定（多為 DPD 格位歧義誤旗標，見 §3 與本 session 作法）。
 
 ### 2. 自動引擎可信度（P0；規模化前提）
 - **P0-2 審核政策定案** ⬜：旗標段落由誰、多久、用 `generation/src/review.ts`(port 4567) 批核。需決策＋落為常態。

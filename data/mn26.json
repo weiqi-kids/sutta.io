@@ -515,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:1.2.t0",
+          "mn26:1.2.t1",
+          "mn26:1.2.t2",
+          "mn26:1.2.t3",
+          "mn26:1.2.t4",
+          "mn26:1.2.t5",
+          "mn26:1.2.t6",
+          "mn26:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在舍衛城祇陀林給孤獨園。"
+      }
     },
     {
       "segment_id": "mn26:2.1",
@@ -1485,7 +1499,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:2.3.t0",
+          "mn26:2.3.t1",
+          "mn26:2.3.t2",
+          "mn26:2.3.t3",
+          "mn26:2.3.t4",
+          "mn26:2.3.t5",
+          "mn26:2.3.t6",
+          "mn26:2.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "「尊者阿難，我們已許久不曾親聆世尊面前的法談了。」"
+      }
     },
     {
       "segment_id": "mn26:2.4",
@@ -1952,7 +1980,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:2.4.t0",
+          "mn26:2.4.t1",
+          "mn26:2.4.t2",
+          "mn26:2.4.t3",
+          "mn26:2.4.t4",
+          "mn26:2.4.t5",
+          "mn26:2.4.t6",
+          "mn26:2.4.t7",
+          "mn26:2.4.t8",
+          "mn26:2.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "「尊者阿難，若能讓我們於世尊面前親聆法談，那就太好了。」"
+      }
     },
     {
       "segment_id": "mn26:2.5",
@@ -2154,7 +2198,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:2.5.t0",
+          "mn26:2.5.t2",
+          "mn26:2.5.t3",
+          "mn26:2.5.t4",
+          "mn26:2.5.t5",
+          "mn26:2.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "「那麼，諸位賢友，請前往蘭摩伽婆羅門的隱修處吧。」"
+      }
     },
     {
       "segment_id": "mn26:2.6",
@@ -2532,7 +2588,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:2.6.t0",
+          "mn26:2.6.t1",
+          "mn26:2.6.t2",
+          "mn26:2.6.t3",
+          "mn26:2.6.t4",
+          "mn26:2.6.t5",
+          "mn26:2.6.t6",
+          "mn26:2.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "「或許諸位便能於世尊面前親聆法談。」"
+      }
     },
     {
       "segment_id": "mn26:2.7",
@@ -2821,7 +2891,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:2.7.t0",
+          "mn26:2.7.t1",
+          "mn26:2.7.t2",
+          "mn26:2.7.t3",
+          "mn26:2.7.t4",
+          "mn26:2.7.t5",
+          "mn26:2.7.t6",
+          "mn26:2.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "「好的，賢友。」那些比丘便如此回應了尊者阿難。"
+      }
     },
     {
       "segment_id": "mn26:3.1",
@@ -31349,7 +31433,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.17.t0",
+          "mn26:15.17.t1",
+          "mn26:15.17.t2",
+          "mn26:15.17.t3",
+          "mn26:15.17.t4",
+          "mn26:15.17.t5",
+          "mn26:15.17.t7"
+        ],
+        "review_status": "approved",
+        "content": "不只阿羅邏迦羅摩有念，我也有念。"
+      }
     },
     {
       "segment_id": "mn26:15.18",
@@ -31585,7 +31682,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.18.t0",
+          "mn26:15.18.t1",
+          "mn26:15.18.t2",
+          "mn26:15.18.t3",
+          "mn26:15.18.t4",
+          "mn26:15.18.t5",
+          "mn26:15.18.t7"
+        ],
+        "review_status": "approved",
+        "content": "不只阿羅邏迦羅摩有定，我也有定。"
+      }
     },
     {
       "segment_id": "mn26:15.19",
@@ -31911,7 +32021,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.19.t0",
+          "mn26:15.19.t1",
+          "mn26:15.19.t2",
+          "mn26:15.19.t3",
+          "mn26:15.19.t4",
+          "mn26:15.19.t5",
+          "mn26:15.19.t7"
+        ],
+        "review_status": "approved",
+        "content": "不只阿羅邏迦羅摩有慧，我也有慧。"
+      }
     },
     {
       "segment_id": "mn26:15.20",
@@ -32537,7 +32660,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.20.t0",
+          "mn26:15.20.t1",
+          "mn26:15.20.t2",
+          "mn26:15.20.t3",
+          "mn26:15.20.t4",
+          "mn26:15.20.t5",
+          "mn26:15.20.t6",
+          "mn26:15.20.t7",
+          "mn26:15.20.t8",
+          "mn26:15.20.t9",
+          "mn26:15.20.t10",
+          "mn26:15.20.t11",
+          "mn26:15.20.t12",
+          "mn26:15.20.t13",
+          "mn26:15.20.t15"
+        ],
+        "review_status": "approved",
+        "content": "「我何不為了親證阿羅邏迦羅摩所宣說——以直接之智親自現證、具足而住——的那個法，而努力精進呢？」"
+      }
     },
     {
       "segment_id": "mn26:15.21",
@@ -33072,7 +33216,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.21.t0",
+          "mn26:15.21.t1",
+          "mn26:15.21.t2",
+          "mn26:15.21.t3",
+          "mn26:15.21.t4",
+          "mn26:15.21.t5",
+          "mn26:15.21.t6",
+          "mn26:15.21.t7",
+          "mn26:15.21.t8",
+          "mn26:15.21.t9",
+          "mn26:15.21.t10",
+          "mn26:15.21.t11",
+          "mn26:15.21.t12"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就這樣，我在很短的時間內便迅速地以直接之智親自現證了那個法，具足而住。"
+      }
     },
     {
       "segment_id": "mn26:15.22",
@@ -33276,7 +33439,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.22.t0",
+          "mn26:15.22.t1",
+          "mn26:15.22.t2",
+          "mn26:15.22.t3",
+          "mn26:15.22.t4",
+          "mn26:15.22.t5",
+          "mn26:15.22.t6",
+          "mn26:15.22.t7",
+          "mn26:15.22.t8",
+          "mn26:15.22.t9",
+          "mn26:15.22.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於是我前往阿羅邏迦羅摩所在之處；前去之後，便向阿羅邏迦羅摩如此說道："
+      }
     },
     {
       "segment_id": "mn26:15.23",
@@ -33740,7 +33920,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.23.t0",
+          "mn26:15.23.t1",
+          "mn26:15.23.t2",
+          "mn26:15.23.t3",
+          "mn26:15.23.t4",
+          "mn26:15.23.t5",
+          "mn26:15.23.t6",
+          "mn26:15.23.t7",
+          "mn26:15.23.t8",
+          "mn26:15.23.t9",
+          "mn26:15.23.t11"
+        ],
+        "review_status": "approved",
+        "content": "「賢友迦羅摩，您是憑藉多少功夫，以直接之智親自現證這個法，具足而宣說的呢？」"
+      }
     },
     {
       "segment_id": "mn26:15.24",
@@ -34204,7 +34401,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.24.t0",
+          "mn26:15.24.t1",
+          "mn26:15.24.t2",
+          "mn26:15.24.t3",
+          "mn26:15.24.t4",
+          "mn26:15.24.t5",
+          "mn26:15.24.t6",
+          "mn26:15.24.t7",
+          "mn26:15.24.t8",
+          "mn26:15.24.t9",
+          "mn26:15.24.t11"
+        ],
+        "review_status": "approved",
+        "content": "「賢友，我就是憑藉這樣的功夫，以直接之智親自現證這個法，具足而宣說的。」"
+      }
     },
     {
       "segment_id": "mn26:15.25",
@@ -34664,7 +34878,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn26:15.25.t0",
+          "mn26:15.25.t1",
+          "mn26:15.25.t2",
+          "mn26:15.25.t3",
+          "mn26:15.25.t4",
+          "mn26:15.25.t5",
+          "mn26:15.25.t6",
+          "mn26:15.25.t7",
+          "mn26:15.25.t8",
+          "mn26:15.25.t9",
+          "mn26:15.25.t11"
+        ],
+        "review_status": "approved",
+        "content": "「賢友，我也同樣憑藉這樣的功夫，以直接之智親自現證這個法，具足而住。」"
+      }
     },
     {
       "segment_id": "mn26:15.26",
