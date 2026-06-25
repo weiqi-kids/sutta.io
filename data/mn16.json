@@ -6488,7 +6488,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn16:7.3.t0",
+          "mn16:7.3.t1",
+          "mn16:7.3.t2",
+          "mn16:7.3.t3",
+          "mn16:7.3.t4",
+          "mn16:7.3.t5",
+          "mn16:7.3.t6",
+          "mn16:7.3.t7",
+          "mn16:7.3.t9",
+          "mn16:7.3.t10",
+          "mn16:7.3.t11",
+          "mn16:7.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "其心不傾向於精勤、修習、持續、精進者——第五心荒蕪未被捨棄。"
+      }
     },
     {
       "segment_id": "mn16:7.4",
@@ -8182,7 +8200,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn16:8.4.t0",
+          "mn16:8.4.t1",
+          "mn16:8.4.t2",
+          "mn16:8.4.t3",
+          "mn16:8.4.t4",
+          "mn16:8.4.t5",
+          "mn16:8.4.t6",
+          "mn16:8.4.t7",
+          "mn16:8.4.t9",
+          "mn16:8.4.t10",
+          "mn16:8.4.t11",
+          "mn16:8.4.t12"
+        ],
+        "review_status": "approved",
+        "content": "其心不傾向於精勤、修習、持續、精進者，第一心縛未被根除。"
+      }
     },
     {
       "segment_id": "mn16:9.1",
@@ -13824,7 +13860,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn16:13.1.t0",
+          "mn16:13.1.t1",
+          "mn16:13.1.t2",
+          "mn16:13.1.t3",
+          "mn16:13.1.t4",
+          "mn16:13.1.t5",
+          "mn16:13.1.t6",
+          "mn16:13.1.t7",
+          "mn16:13.1.t8",
+          "mn16:13.1.t9",
+          "mn16:13.1.t10",
+          "mn16:13.1.t11",
+          "mn16:13.1.t12",
+          "mn16:13.1.t14",
+          "mn16:13.1.t15",
+          "mn16:13.1.t16",
+          "mn16:13.1.t17",
+          "mn16:13.1.t18",
+          "mn16:13.1.t19",
+          "mn16:13.1.t20",
+          "mn16:13.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，對任何比丘，若此五種心之荒漠未被捨棄、此五種心之束縛未被斷除，彼在法與律中將達到增長、茁壯、圓滿——此種情況不存在。"
+      }
     },
     {
       "segment_id": "mn16:14.1",
@@ -14506,7 +14569,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn16:14.1.t0",
+          "mn16:14.1.t1",
+          "mn16:14.1.t2",
+          "mn16:14.1.t3",
+          "mn16:14.1.t4",
+          "mn16:14.1.t5",
+          "mn16:14.1.t6",
+          "mn16:14.1.t7",
+          "mn16:14.1.t8",
+          "mn16:14.1.t9",
+          "mn16:14.1.t10",
+          "mn16:14.1.t12",
+          "mn16:14.1.t13",
+          "mn16:14.1.t14",
+          "mn16:14.1.t15",
+          "mn16:14.1.t16",
+          "mn16:14.1.t17",
+          "mn16:14.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，對任何比丘，若此五種心之荒漠已被捨棄、此五種心之束縛已完全被斷除，彼在法與律中將達到增長、茁壯、圓滿——此種情況存在（即此可能）。"
+      }
     },
     {
       "segment_id": "mn16:15.1",

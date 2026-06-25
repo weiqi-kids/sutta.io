@@ -1749,7 +1749,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn3:2.2.t0",
+          "mn3:2.2.t1",
+          "mn3:2.2.t2",
+          "mn3:2.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "「我對你們有悲憫之心，」"
+      }
     },
     {
       "segment_id": "mn3:2.3",
@@ -26979,7 +26989,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn3:7.8.t0",
+          "mn3:7.8.t1",
+          "mn3:7.8.t2",
+          "mn3:7.8.t4",
+          "mn3:7.8.t5",
+          "mn3:7.8.t6",
+          "mn3:7.8.t7",
+          "mn3:7.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡是那些導師所[指示的]諸法，他們亦捨斷那些法。"
+      }
     },
     {
       "segment_id": "mn3:7.9",
@@ -29174,7 +29198,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn3:7.15.t0",
+          "mn3:7.15.t1",
+          "mn3:7.15.t2",
+          "mn3:7.15.t3",
+          "mn3:7.15.t5"
+        ],
+        "review_status": "approved",
+        "content": "導師安住於遠離時，聲聞弟子們……"
+      }
     },
     {
       "segment_id": "mn3:7.16",
@@ -29924,7 +29959,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn3:7.17.t0",
+          "mn3:7.17.t1",
+          "mn3:7.17.t2",
+          "mn3:7.17.t4",
+          "mn3:7.17.t5",
+          "mn3:7.17.t6",
+          "mn3:7.17.t7",
+          "mn3:7.17.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡是那些導師所[指示的]諸法，他們亦捨斷那些法。"
+      }
     },
     {
       "segment_id": "mn3:7.18",

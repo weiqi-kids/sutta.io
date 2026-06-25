@@ -5747,7 +5747,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:4-5.4.t0",
+          "mn19:4-5.4.t1",
+          "mn19:4-5.4.t2",
+          "mn19:4-5.4.t3",
+          "mn19:4-5.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "「此傷害尋確實已在我身上生起。」"
+      }
     },
     {
       "segment_id": "mn19:4-5.5",
@@ -6239,7 +6250,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:4-5.6.t0",
+          "mn19:4-5.6.t2",
+          "mn19:4-5.6.t3",
+          "mn19:4-5.6.t4",
+          "mn19:4-5.6.t5",
+          "mn19:4-5.6.t6",
+          "mn19:4-5.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，當我省思「傷害自己」時，它消逝了。"
+      }
     },
     {
       "segment_id": "mn19:4-5.7",
@@ -6472,7 +6496,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:4-5.7.t0",
+          "mn19:4-5.7.t2",
+          "mn19:4-5.7.t3",
+          "mn19:4-5.7.t4",
+          "mn19:4-5.7.t5",
+          "mn19:4-5.7.t6",
+          "mn19:4-5.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，當我省思「傷害他人」時，它消逝了。"
+      }
     },
     {
       "segment_id": "mn19:4-5.8",
@@ -6705,7 +6742,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:4-5.8.t0",
+          "mn19:4-5.8.t2",
+          "mn19:4-5.8.t3",
+          "mn19:4-5.8.t4",
+          "mn19:4-5.8.t5",
+          "mn19:4-5.8.t6",
+          "mn19:4-5.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，當我省思「傷害兩者」時，它消逝了。"
+      }
     },
     {
       "segment_id": "mn19:4-5.9",
@@ -6953,7 +7003,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:4-5.9.t0",
+          "mn19:4-5.9.t1",
+          "mn19:4-5.9.t2",
+          "mn19:4-5.9.t3",
+          "mn19:4-5.9.t4",
+          "mn19:4-5.9.t5",
+          "mn19:4-5.9.t6",
+          "mn19:4-5.9.t7",
+          "mn19:4-5.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，當我省思「它是障礙慧的、屬於惱害一方的、不導向涅槃的」時，它消逝了。"
+      }
     },
     {
       "segment_id": "mn19:4-5.10",
@@ -7648,7 +7713,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:6.1.t0",
+          "mn19:6.1.t1",
+          "mn19:6.1.t2",
+          "mn19:6.1.t3",
+          "mn19:6.1.t4",
+          "mn19:6.1.t5",
+          "mn19:6.1.t6",
+          "mn19:6.1.t7",
+          "mn19:6.1.t8",
+          "mn19:6.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，無論比丘頻繁思惟、反覆審察什麼，心便相應地傾向於那個方向。"
+      }
     },
     {
       "segment_id": "mn19:6.2",
@@ -9004,7 +9085,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:7.1.t0",
+          "mn19:7.1.t1",
+          "mn19:7.1.t2",
+          "mn19:7.1.t3",
+          "mn19:7.1.t4",
+          "mn19:7.1.t5",
+          "mn19:7.1.t6",
+          "mn19:7.1.t7",
+          "mn19:7.1.t8",
+          "mn19:7.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就如同在雨季最後幾個月的秋季時節、莊稼茂密之際，牧牛童應守護牛群。"
+      }
     },
     {
       "segment_id": "mn19:7.2",
@@ -16730,7 +16827,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:9-10.9.t0",
+          "mn19:9-10.9.t1",
+          "mn19:9-10.9.t2",
+          "mn19:9-10.9.t3",
+          "mn19:9-10.9.t4",
+          "mn19:9-10.9.t5",
+          "mn19:9-10.9.t6",
+          "mn19:9-10.9.t7",
+          "mn19:9-10.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "然而確實，對我而言，若長時間反覆思惟、反覆審察，〔身〕會感到疲倦。（kāyo 資料不足：lemma 登錄為「ki」，疑為資料錯誤，語境指身體）"
+      }
     },
     {
       "segment_id": "mn19:9-10.10",
@@ -16943,7 +17055,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:9-10.10.t0",
+          "mn19:9-10.10.t1",
+          "mn19:9-10.10.t2",
+          "mn19:9-10.10.t3"
+        ],
+        "review_status": "approved",
+        "content": "身體疲倦時，心便會受到擾動。"
+      }
     },
     {
       "segment_id": "mn19:9-10.11",
@@ -17245,7 +17367,18 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:9-10.11.t0",
+          "mn19:9-10.11.t1",
+          "mn19:9-10.11.t2",
+          "mn19:9-10.11.t3",
+          "mn19:9-10.11.t4"
+        ],
+        "review_status": "approved",
+        "content": "心受到擾動時，心便遠離定。（ārā 與 samādhimhāti 資料不足，整句依上下文理解）"
+      }
     },
     {
       "segment_id": "mn19:9-10.12",
@@ -18130,7 +18263,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:9-10.14.t0",
+          "mn19:9-10.14.t1",
+          "mn19:9-10.14.t2",
+          "mn19:9-10.14.t3",
+          "mn19:9-10.14.t4"
+        ],
+        "review_status": "approved",
+        "content": "「願我的心不受擾動。」"
+      }
     },
     {
       "segment_id": "mn19:11.1",
@@ -36336,7 +36480,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:25.4.t0",
+          "mn19:25.4.t1",
+          "mn19:25.4.t2",
+          "mn19:25.4.t3",
+          "mn19:25.4.t4",
+          "mn19:25.4.t5",
+          "mn19:25.4.t6",
+          "mn19:25.4.t7",
+          "mn19:25.4.t8",
+          "mn19:25.4.t9",
+          "mn19:25.4.t10",
+          "mn19:25.4.t11",
+          "mn19:25.4.t12",
+          "mn19:25.4.t13",
+          "mn19:25.4.t14"
+        ],
+        "review_status": "approved",
+        "content": "那個人會封閉那條原本安全、吉祥、令人喜悅而行的道路，開放邪路，並在那裡置放雄誘獸與雌誘獸。"
+      }
     },
     {
       "segment_id": "mn19:25.5",
@@ -37333,7 +37498,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:25.7.t0",
+          "mn19:25.7.t1",
+          "mn19:25.7.t2",
+          "mn19:25.7.t3",
+          "mn19:25.7.t4",
+          "mn19:25.7.t5",
+          "mn19:25.7.t6",
+          "mn19:25.7.t7",
+          "mn19:25.7.t8",
+          "mn19:25.7.t9",
+          "mn19:25.7.t10",
+          "mn19:25.7.t11",
+          "mn19:25.7.t12",
+          "mn19:25.7.t13",
+          "mn19:25.7.t14"
+        ],
+        "review_status": "approved",
+        "content": "他可能會開啟那條安全、平安、通往喜悅的道路，封閉惡路，驅打那馴養的動物，驅走那馴養的雌性動物。"
+      }
     },
     {
       "segment_id": "mn19:25.8",

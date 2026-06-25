@@ -779,7 +779,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:1.4.t0",
+          "mn20:1.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘！」"
+      }
     },
     {
       "segment_id": "mn20:1.5",
@@ -2518,7 +2526,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:3.1.t0",
+          "mn20:3.1.t1",
+          "mn20:3.1.t2",
+          "mn20:3.1.t3",
+          "mn20:3.1.t4",
+          "mn20:3.1.t5",
+          "mn20:3.1.t6",
+          "mn20:3.1.t7",
+          "mn20:3.1.t8",
+          "mn20:3.1.t9",
+          "mn20:3.1.t10",
+          "mn20:3.1.t11",
+          "mn20:3.1.t12",
+          "mn20:3.1.t13",
+          "mn20:3.1.t14",
+          "mn20:3.1.t15",
+          "mn20:3.1.t16",
+          "mn20:3.1.t17",
+          "mn20:3.1.t18",
+          "mn20:3.1.t19",
+          "mn20:3.1.t20",
+          "mn20:3.1.t21",
+          "mn20:3.1.t22",
+          "mn20:3.1.t23",
+          "mn20:3.1.t24",
+          "mn20:3.1.t25"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘！若比丘依緣某一相、對某一相作意時，生起惡的不善尋——與欲相應的、與瞋相應的、與癡相應的——那麼，諸比丘！彼比丘應捨那個相，轉而在心中作意另一個與善相應的相。"
+      }
     },
     {
       "segment_id": "mn20:3.2",
@@ -36644,7 +36684,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:9.1.t0"
+        ],
+        "review_status": "approved",
+        "content": "小獅子吼與令身毛豎立之殊勝（涵蓋 MN11 小獅子吼經、MN12 大獅子吼經）"
+      }
     },
     {
       "segment_id": "mn20:9.2",
@@ -36684,7 +36731,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:9.2.t0"
+        ],
+        "review_status": "approved",
+        "content": "大苦蘊、小苦蘊與比量經（涵蓋 MN13–MN15）"
+      }
     },
     {
       "segment_id": "mn20:9.3",
@@ -36705,7 +36759,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:9.3.t0"
+        ],
+        "review_status": "approved",
+        "content": "心荒蕪、住林野、蜜丸與二種尋（涵蓋 MN16–MN19）"
+      }
     },
     {
       "segment_id": "mn20:9.4",

@@ -6883,7 +6883,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.3.t0",
+          "mn7:4.3.t1",
+          "mn7:4.3.t2",
+          "mn7:4.3.t3",
+          "mn7:4.3.t4",
+          "mn7:4.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知瞋恚為心的隨煩惱，〔彼〕捨斷之。"
+      }
     },
     {
       "segment_id": "mn7:4.4",
@@ -7014,7 +7026,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.4.t0",
+          "mn7:4.4.t1",
+          "mn7:4.4.t2",
+          "mn7:4.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "「忿，是心的隨煩惱。」"
+      }
     },
     {
       "segment_id": "mn7:4.5",
@@ -7193,7 +7215,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.5.t0",
+          "mn7:4.5.t1",
+          "mn7:4.5.t2",
+          "mn7:4.5.t3",
+          "mn7:4.5.t4",
+          "mn7:4.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知忿為心的隨煩惱，〔彼〕捨斷之。"
+      }
     },
     {
       "segment_id": "mn7:4.6",
@@ -7324,7 +7358,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.6.t0",
+          "mn7:4.6.t1",
+          "mn7:4.6.t2",
+          "mn7:4.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "「怨恨，是心的隨煩惱。」"
+      }
     },
     {
       "segment_id": "mn7:4.7",
@@ -7503,7 +7547,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.7.t0",
+          "mn7:4.7.t1",
+          "mn7:4.7.t2",
+          "mn7:4.7.t3",
+          "mn7:4.7.t4",
+          "mn7:4.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知怨恨為心的隨煩惱，〔彼〕捨斷之。"
+      }
     },
     {
       "segment_id": "mn7:4.8",
@@ -7634,7 +7690,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.8.t0",
+          "mn7:4.8.t1",
+          "mn7:4.8.t2",
+          "mn7:4.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "「貶蔑，是心的隨煩惱。」"
+      }
     },
     {
       "segment_id": "mn7:4.9",
@@ -7813,7 +7879,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.9.t0",
+          "mn7:4.9.t1",
+          "mn7:4.9.t2",
+          "mn7:4.9.t3",
+          "mn7:4.9.t4",
+          "mn7:4.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知貶蔑為心的隨煩惱，〔彼〕捨斷之。"
+      }
     },
     {
       "segment_id": "mn7:4.10",
@@ -7944,7 +8022,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.10.t0",
+          "mn7:4.10.t1",
+          "mn7:4.10.t2",
+          "mn7:4.10.t3"
+        ],
+        "review_status": "approved",
+        "content": "「競諍，是心的隨煩惱。」"
+      }
     },
     {
       "segment_id": "mn7:4.11",
@@ -8123,7 +8211,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.11.t0",
+          "mn7:4.11.t1",
+          "mn7:4.11.t2",
+          "mn7:4.11.t3",
+          "mn7:4.11.t4",
+          "mn7:4.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是了知競諍為心的隨煩惱，〔彼〕捨斷之。"
+      }
     },
     {
       "segment_id": "mn7:4.12",
@@ -8309,7 +8409,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.12.t0",
+          "mn7:4.12.t1",
+          "mn7:4.12.t2",
+          "mn7:4.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "「〔issā，資料不足〕，是心的隨煩惱。」"
+      }
     },
     {
       "segment_id": "mn7:4.13",
@@ -8507,7 +8617,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.13.t0",
+          "mn7:4.13.t1",
+          "mn7:4.13.t2",
+          "mn7:4.13.t3",
+          "mn7:4.13.t4",
+          "mn7:4.13.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此了知，（他）捨斷〔issa，字義資料不足〕——心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.14",
@@ -8657,7 +8779,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.14.t0",
+          "mn7:4.14.t1",
+          "mn7:4.14.t2",
+          "mn7:4.14.t3"
+        ],
+        "review_status": "approved",
+        "content": "吝嗇（慳貪）是心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.15",
@@ -8855,7 +8987,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.15.t0",
+          "mn7:4.15.t1",
+          "mn7:4.15.t2",
+          "mn7:4.15.t3",
+          "mn7:4.15.t4",
+          "mn7:4.15.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此了知，（他）捨斷吝嗇（慳貪）——心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.16",
@@ -9041,7 +9185,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.16.t0",
+          "mn7:4.16.t1",
+          "mn7:4.16.t2",
+          "mn7:4.16.t3"
+        ],
+        "review_status": "approved",
+        "content": "詭詐（虛偽）是心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.17",
@@ -9275,7 +9429,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.17.t0",
+          "mn7:4.17.t1",
+          "mn7:4.17.t2",
+          "mn7:4.17.t3",
+          "mn7:4.17.t4",
+          "mn7:4.17.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此了知，（他）捨斷詭詐（虛偽）——心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.18",
@@ -9425,7 +9591,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.18.t0",
+          "mn7:4.18.t1",
+          "mn7:4.18.t2",
+          "mn7:4.18.t3"
+        ],
+        "review_status": "approved",
+        "content": "欺詐（奸詐）是心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.19",
@@ -9623,7 +9799,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.19.t0",
+          "mn7:4.19.t1",
+          "mn7:4.19.t2",
+          "mn7:4.19.t3",
+          "mn7:4.19.t4",
+          "mn7:4.19.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此了知，（他）捨斷欺詐（奸詐）——心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.20",
@@ -9754,7 +9942,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.20.t0",
+          "mn7:4.20.t1",
+          "mn7:4.20.t2",
+          "mn7:4.20.t3"
+        ],
+        "review_status": "approved",
+        "content": "固執（字面：柱）是心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.21",
@@ -9933,7 +10131,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.21.t0",
+          "mn7:4.21.t1",
+          "mn7:4.21.t2",
+          "mn7:4.21.t3",
+          "mn7:4.21.t4",
+          "mn7:4.21.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此了知，（他）捨斷固執（字面：柱）——心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.22",
@@ -10074,7 +10284,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:4.22.t0",
+          "mn7:4.22.t1",
+          "mn7:4.22.t2",
+          "mn7:4.22.t3"
+        ],
+        "review_status": "approved",
+        "content": "憤激（憤怒、激越）是心的隨煩惱。"
+      }
     },
     {
       "segment_id": "mn7:4.23",
@@ -12131,7 +12351,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:5.1.t0",
+          "mn7:5.1.t1",
+          "mn7:5.1.t2",
+          "mn7:5.1.t3",
+          "mn7:5.1.t4",
+          "mn7:5.1.t5",
+          "mn7:5.1.t6",
+          "mn7:5.1.t7",
+          "mn7:5.1.t8",
+          "mn7:5.1.t9",
+          "mn7:5.1.t10",
+          "mn7:5.1.t11",
+          "mn7:5.1.t12",
+          "mn7:5.1.t13",
+          "mn7:5.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，一旦比丘如是了知「貪欲與不當貪婪是心的隨煩惱」，貪欲與不當貪婪這一心的隨煩惱便已被捨斷。"
+      }
     },
     {
       "segment_id": "mn7:5.2",
@@ -29746,7 +29987,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:19.2.t0",
+          "mn7:19.2.t1",
+          "mn7:19.2.t2",
+          "mn7:19.2.t3",
+          "mn7:19.2.t4",
+          "mn7:19.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "那時，善達利迦婆羅豆婆闍婆羅門對世尊說了這話。"
+      }
     },
     {
       "segment_id": "mn7:19.3",
@@ -34214,7 +34467,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn7:21.1.t0",
+          "mn7:21.1.t1",
+          "mn7:21.1.t2",
+          "mn7:21.1.t3",
+          "mn7:21.1.t4",
+          "mn7:21.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說後，松陀利迦婆羅豆阇婆羅門對世尊說了這（些話）："
+      }
     },
     {
       "segment_id": "mn7:21.2",

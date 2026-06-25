@@ -6037,7 +6037,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:2.30.t0",
+          "mn23:2.30.t1",
+          "mn23:2.30.t2"
+        ],
+        "review_status": "approved",
+        "content": "「『屠宰場，尊者。』」（引言止）"
+      }
     },
     {
       "segment_id": "mn23:2.31",
@@ -6726,7 +6735,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:2.35.t0",
+          "mn23:2.35.t1",
+          "mn23:2.35.t2"
+        ],
+        "review_status": "approved",
+        "content": "「『肉塊，尊者。』」（引言止）"
+      }
     },
     {
       "segment_id": "mn23:2.36",
@@ -10312,7 +10330,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:3.1.t0",
+          "mn23:3.1.t1",
+          "mn23:3.1.t2",
+          "mn23:3.1.t3",
+          "mn23:3.1.t4",
+          "mn23:3.1.t5",
+          "mn23:3.1.t6",
+          "mn23:3.1.t7",
+          "mn23:3.1.t8",
+          "mn23:3.1.t9",
+          "mn23:3.1.t10",
+          "mn23:3.1.t11",
+          "mn23:3.1.t12",
+          "mn23:3.1.t13",
+          "mn23:3.1.t14",
+          "mn23:3.1.t15",
+          "mn23:3.1.t16",
+          "mn23:3.1.t17",
+          "mn23:3.1.t18",
+          "mn23:3.1.t19",
+          "mn23:3.1.t20",
+          "mn23:3.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "於是，那一夜過後，尊者鳩摩羅迦葉前往世尊所在之處，趨近後禮敬世尊，坐於一旁。坐定一旁後，尊者鳩摩羅迦葉對世尊說了這些。"
+      }
     },
     {
       "segment_id": "mn23:3.2",
@@ -11293,7 +11339,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:3.2.t0",
+          "mn23:3.2.t1",
+          "mn23:3.2.t2",
+          "mn23:3.2.t3",
+          "mn23:3.2.t4",
+          "mn23:3.2.t5",
+          "mn23:3.2.t6",
+          "mn23:3.2.t7",
+          "mn23:3.2.t8",
+          "mn23:3.2.t9",
+          "mn23:3.2.t10",
+          "mn23:3.2.t11",
+          "mn23:3.2.t12",
+          "mn23:3.2.t13",
+          "mn23:3.2.t14",
+          "mn23:3.2.t15",
+          "mn23:3.2.t16",
+          "mn23:3.2.t17",
+          "mn23:3.2.t18",
+          "mn23:3.2.t19",
+          "mn23:3.2.t20",
+          "mn23:3.2.t21",
+          "mn23:3.2.t22",
+          "mn23:3.2.t23"
+        ],
+        "review_status": "approved",
+        "content": "大德，就在今夜深後，某位光彩絕美的天神照亮了整座安陀林，來到我所在之處，趨近後立於一旁。大德，那位天神立於一旁，對我說了這些："
+      }
     },
     {
       "segment_id": "mn23:3.3",
@@ -11541,7 +11617,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:3.3.t0",
+          "mn23:3.3.t1",
+          "mn23:3.3.t2",
+          "mn23:3.3.t3",
+          "mn23:3.3.t4",
+          "mn23:3.3.t5",
+          "mn23:3.3.t6",
+          "mn23:3.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "「比丘，比丘，這座蟻塚夜間冒煙，白天熊熊燃起。"
+      }
     },
     {
       "segment_id": "mn23:3.4",
@@ -18387,7 +18477,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn23:4.19.t1",
+          "mn23:4.19.t2",
+          "mn23:4.19.t3",
+          "mn23:4.19.t5",
+          "mn23:4.19.t6",
+          "mn23:4.19.t7"
+        ],
+        "review_status": "approved",
+        "content": "比丘，這確實是諸蓋的代稱，即："
+      }
     },
     {
       "segment_id": "mn23:4.20",

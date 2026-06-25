@@ -937,7 +937,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:2.1.t0",
+          "mn14:2.1.t1",
+          "mn14:2.1.t2",
+          "mn14:2.1.t3",
+          "mn14:2.1.t4",
+          "mn14:2.1.t5",
+          "mn14:2.1.t6",
+          "mn14:2.1.t7",
+          "mn14:2.1.t8",
+          "mn14:2.1.t9",
+          "mn14:2.1.t10",
+          "mn14:2.1.t11",
+          "mn14:2.1.t12",
+          "mn14:2.1.t13",
+          "mn14:2.1.t14",
+          "mn14:2.1.t15",
+          "mn14:2.1.t16",
+          "mn14:2.1.t17",
+          "mn14:2.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "時，釋迦族摩訶男前往世尊所在；靠近後，頂禮世尊，坐於一旁。坐於一旁後，釋迦族摩訶男對世尊如是說："
+      }
     },
     {
       "segment_id": "mn14:2.2",
@@ -12011,7 +12036,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:6.1.t0",
+          "mn14:6.1.t1",
+          "mn14:6.1.t2",
+          "mn14:6.1.t3",
+          "mn14:6.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，諸欲的樂味又是什麼？"
+      }
     },
     {
       "segment_id": "mn14:6.2",
@@ -23066,7 +23102,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:10.4.t0",
+          "mn14:10.4.t1",
+          "mn14:10.4.t2",
+          "mn14:10.4.t3",
+          "mn14:10.4.t4",
+          "mn14:10.4.t5",
+          "mn14:10.4.t6",
+          "mn14:10.4.t7",
+          "mn14:10.4.t8",
+          "mn14:10.4.t9",
+          "mn14:10.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，這也是欲的當下可見的過患——苦蘊，以欲為因、以欲為緣、以欲為事，正是由於欲之故。"
+      }
     },
     {
       "segment_id": "mn14:11.1",
@@ -24474,7 +24527,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:11.4.t0",
+          "mn14:11.4.t1",
+          "mn14:11.4.t2",
+          "mn14:11.4.t3",
+          "mn14:11.4.t4",
+          "mn14:11.4.t5",
+          "mn14:11.4.t6",
+          "mn14:11.4.t7",
+          "mn14:11.4.t8",
+          "mn14:11.4.t9",
+          "mn14:11.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，這也是欲的當下可見的過患——苦蘊，以欲為因、以欲為緣、以欲為事，正是由於欲之故。"
+      }
     },
     {
       "segment_id": "mn14:12.1",
@@ -34149,7 +34219,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:17.3.t0",
+          "mn14:17.3.t1",
+          "mn14:17.3.t2",
+          "mn14:17.3.t3",
+          "mn14:17.3.t4",
+          "mn14:17.3.t5",
+          "mn14:17.3.t6",
+          "mn14:17.3.t7",
+          "mn14:17.3.t8",
+          "mn14:17.3.t9",
+          "mn14:17.3.t10",
+          "mn14:17.3.t11",
+          "mn14:17.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "「無論我行走、站立、睡眠或清醒，知見恆常持續不斷。」"
+      }
     },
     {
       "segment_id": "mn14:17.4",
@@ -34882,7 +34971,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:17.5.t0",
+          "mn14:17.5.t1",
+          "mn14:17.5.t2",
+          "mn14:17.5.t3",
+          "mn14:17.5.t4",
+          "mn14:17.5.t5",
+          "mn14:17.5.t6",
+          "mn14:17.5.t7",
+          "mn14:17.5.t8",
+          "mn14:17.5.t9",
+          "mn14:17.5.t10",
+          "mn14:17.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "「諸位耆那教苦行者，你們過去所造的惡業確實存在，應藉由這嚴峻的苦行修持將其消耗殆盡；」"
+      }
     },
     {
       "segment_id": "mn14:17.6",
@@ -36082,7 +36189,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:17.7.t0",
+          "mn14:17.7.t1",
+          "mn14:17.7.t2",
+          "mn14:17.7.t3",
+          "mn14:17.7.t4",
+          "mn14:17.7.t5",
+          "mn14:17.7.t6",
+          "mn14:17.7.t7",
+          "mn14:17.7.t8",
+          "mn14:17.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "「如是，藉由苦行使舊業滅盡、不造新業，則將來無（業）流入——」"
+      }
     },
     {
       "segment_id": "mn14:17.8",
@@ -49918,7 +50041,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:21.1.t0",
+          "mn14:21.1.t1",
+          "mn14:21.1.t2",
+          "mn14:21.1.t3",
+          "mn14:21.1.t4",
+          "mn14:21.1.t5",
+          "mn14:21.1.t6",
+          "mn14:21.1.t7",
+          "mn14:21.1.t8",
+          "mn14:21.1.t9",
+          "mn14:21.1.t10",
+          "mn14:21.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "「那麼，朋友們，諸尼乾陀，我就此反問你們；如你們認為合適，便如此回答。」"
+      }
     },
     {
       "segment_id": "mn14:21.2",
@@ -50294,7 +50435,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:21.2.t0",
+          "mn14:21.2.t1",
+          "mn14:21.2.t3",
+          "mn14:21.2.t4",
+          "mn14:21.2.t5",
+          "mn14:21.2.t6",
+          "mn14:21.2.t7",
+          "mn14:21.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "「諸尼乾陀，此事如何？摩揭陀王勝軍頻婆娑羅能夠……」（句意於後續延續）"
+      }
     },
     {
       "segment_id": "mn14:21.3",

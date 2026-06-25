@@ -35460,7 +35460,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:75.4.t0",
+          "mn1:75.4.t1",
+          "mn1:75.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "（因為）貪之耗盡、離貪之狀態（之故）。"
+      }
     },
     {
       "segment_id": "mn1:76.1",
@@ -38053,7 +38062,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:98.4.t0",
+          "mn1:98.4.t1",
+          "mn1:98.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "由於貪的消盡，由具備離貪之故。"
+      }
     },
     {
       "segment_id": "mn1:98.5",
@@ -50768,7 +50786,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:171.4.t0",
+          "mn1:171.4.t1",
+          "mn1:171.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "「喜悅〔是〕苦之〔根〕。」（t2 資料未提供，段意依已提供詞項推定）"
+      }
     },
     {
       "segment_id": "mn1:171.5",
@@ -51009,7 +51036,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:171.5.t0",
+          "mn1:171.5.t1",
+          "mn1:171.5.t2",
+          "mn1:171.5.t3",
+          "mn1:171.5.t4",
+          "mn1:171.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此了知——〔bhavā 字義資料不足〕、生——已生者的。（t5 資料未提供）"
+      }
     },
     {
       "segment_id": "mn1:171.6",
@@ -51552,7 +51591,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:171.6.t0",
+          "mn1:171.6.t1",
+          "mn1:171.6.t2",
+          "mn1:171.6.t3",
+          "mn1:171.6.t4",
+          "mn1:171.6.t5",
+          "mn1:171.6.t6",
+          "mn1:171.6.t7",
+          "mn1:171.6.t8",
+          "mn1:171.6.t9",
+          "mn1:171.6.t10",
+          "mn1:171.6.t11",
+          "mn1:171.6.t12",
+          "mn1:171.6.t13",
+          "mn1:171.6.t14"
+        ],
+        "review_status": "approved",
+        "content": "因此，諸比丘，如來藉由對一切渴愛完全地耗盡、離貪、滅、捨棄、放下，現觀無上正等正覺——我如此說。"
+      }
     },
     {
       "segment_id": "mn1:172.1",
@@ -55477,7 +55537,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn1:194.9.t0",
+          "mn1:194.9.t1",
+          "mn1:194.9.t2",
+          "mn1:194.9.t3",
+          "mn1:194.9.t4",
+          "mn1:194.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘們不隨喜世尊所說之語。"
+      }
     },
     {
       "segment_id": "mn1:194.10",

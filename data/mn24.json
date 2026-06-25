@@ -11324,7 +11324,47 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:6.2.t0",
+          "mn24:6.2.t1",
+          "mn24:6.2.t2",
+          "mn24:6.2.t3",
+          "mn24:6.2.t4",
+          "mn24:6.2.t5",
+          "mn24:6.2.t6",
+          "mn24:6.2.t7",
+          "mn24:6.2.t8",
+          "mn24:6.2.t9",
+          "mn24:6.2.t10",
+          "mn24:6.2.t11",
+          "mn24:6.2.t12",
+          "mn24:6.2.t13",
+          "mn24:6.2.t14",
+          "mn24:6.2.t15",
+          "mn24:6.2.t16",
+          "mn24:6.2.t17",
+          "mn24:6.2.t18",
+          "mn24:6.2.t19",
+          "mn24:6.2.t20",
+          "mn24:6.2.t21",
+          "mn24:6.2.t22",
+          "mn24:6.2.t23",
+          "mn24:6.2.t24",
+          "mn24:6.2.t25",
+          "mn24:6.2.t26",
+          "mn24:6.2.t27",
+          "mn24:6.2.t28",
+          "mn24:6.2.t29",
+          "mn24:6.2.t30",
+          "mn24:6.2.t31",
+          "mn24:6.2.t32",
+          "mn24:6.2.t34"
+        ],
+        "review_status": "approved",
+        "content": "道友舍利弗，那位您時常讚揚、名叫富樓那的滿慈子比丘，他受世尊以與法相關的言說開示、勸勵、激勵、令喜悅後，歡喜隨喜世尊所說，從座位起身，頂禮世尊，右繞世尊後，便朝安陀林方向離去了。"
+      }
     },
     {
       "segment_id": "mn24:7.1",
@@ -11808,7 +11848,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:7.1.t0",
+          "mn24:7.1.t1",
+          "mn24:7.1.t2",
+          "mn24:7.1.t3",
+          "mn24:7.1.t4",
+          "mn24:7.1.t5",
+          "mn24:7.1.t6",
+          "mn24:7.1.t7",
+          "mn24:7.1.t8",
+          "mn24:7.1.t9",
+          "mn24:7.1.t10",
+          "mn24:7.1.t11",
+          "mn24:7.1.t12",
+          "mn24:7.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "於是，尊者舍利弗急忙拿起坐墊，從後面緊緊跟隨著尊者富樓那滿慈子，目不轉睛地注視著他的頭部。"
+      }
     },
     {
       "segment_id": "mn24:7.2",
@@ -12847,7 +12907,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:8.1.t0",
+          "mn24:8.1.t1",
+          "mn24:8.1.t2",
+          "mn24:8.1.t3",
+          "mn24:8.1.t4",
+          "mn24:8.1.t5",
+          "mn24:8.1.t6",
+          "mn24:8.1.t7",
+          "mn24:8.1.t8",
+          "mn24:8.1.t9",
+          "mn24:8.1.t10",
+          "mn24:8.1.t11",
+          "mn24:8.1.t12",
+          "mn24:8.1.t13",
+          "mn24:8.1.t14",
+          "mn24:8.1.t15",
+          "mn24:8.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "於是，尊者舍利弗在傍晚時分從獨處靜默出定，前往尊者富樓那滿慈子所在之處，走近後，與尊者富樓那滿慈子互相問候。"
+      }
     },
     {
       "segment_id": "mn24:8.2",
@@ -13310,7 +13393,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:8.2.t0",
+          "mn24:8.2.t1",
+          "mn24:8.2.t2",
+          "mn24:8.2.t3",
+          "mn24:8.2.t4",
+          "mn24:8.2.t5",
+          "mn24:8.2.t6",
+          "mn24:8.2.t7",
+          "mn24:8.2.t8",
+          "mn24:8.2.t9",
+          "mn24:8.2.t10",
+          "mn24:8.2.t11",
+          "mn24:8.2.t12",
+          "mn24:8.2.t13",
+          "mn24:8.2.t14"
+        ],
+        "review_status": "approved",
+        "content": "進行了令人愉快、令人難忘的寒暄交談後，坐到一旁。坐在一旁的尊者舍利弗對尊者富樓那滿慈子如此說道。"
+      }
     },
     {
       "segment_id": "mn24:9.1",
@@ -37164,7 +37268,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:16.1.t0",
+          "mn24:16.1.t1",
+          "mn24:16.1.t2",
+          "mn24:16.1.t3",
+          "mn24:16.1.t4",
+          "mn24:16.1.t5",
+          "mn24:16.1.t6",
+          "mn24:16.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "如此（被說）後，尊者舍利弗對尊者富樓那·曼陀尼子說道："
+      }
     },
     {
       "segment_id": "mn24:16.2",

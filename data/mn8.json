@@ -6558,7 +6558,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:5.1.t0",
+          "mn8:5.1.t1",
+          "mn8:5.1.t2",
+          "mn8:5.1.t3",
+          "mn8:5.1.t4",
+          "mn8:5.1.t5",
+          "mn8:5.1.t6",
+          "mn8:5.1.t7",
+          "mn8:5.1.t8",
+          "mn8:5.1.t9",
+          "mn8:5.1.t10",
+          "mn8:5.1.t11",
+          "mn8:5.1.t12",
+          "mn8:5.1.t13",
+          "mn8:5.1.t14",
+          "mn8:5.1.t15",
+          "mn8:5.1.t16",
+          "mn8:5.1.t17",
+          "mn8:5.1.t18",
+          "mn8:5.1.t19",
+          "mn8:5.1.t20",
+          "mn8:5.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "純陀，確實存在這樣的情況：此處某位比丘，由於尋與伺的止息，（獲得）內在澄淨、心的一境性，無尋、無伺，由定所生喜與樂，具足第二禪而住。"
+      }
     },
     {
       "segment_id": "mn8:5.2",
@@ -54980,7 +55008,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn8:17.5.t0",
+          "mn8:17.5.t1",
+          "mn8:17.5.t2",
+          "mn8:17.5.t3",
+          "mn8:17.5.t4",
+          "mn8:17.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "尊者摩訶純陀歡喜讚嘆世尊所說。"
+      }
     },
     {
       "segment_id": "mn8:17.6",

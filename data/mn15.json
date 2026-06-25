@@ -2424,7 +2424,46 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn15:2.2.t0",
+          "mn15:2.2.t1",
+          "mn15:2.2.t2",
+          "mn15:2.2.t5",
+          "mn15:2.2.t6",
+          "mn15:2.2.t7",
+          "mn15:2.2.t8",
+          "mn15:2.2.t9",
+          "mn15:2.2.t10",
+          "mn15:2.2.t11",
+          "mn15:2.2.t12",
+          "mn15:2.2.t13",
+          "mn15:2.2.t14",
+          "mn15:2.2.t15",
+          "mn15:2.2.t16",
+          "mn15:2.2.t17",
+          "mn15:2.2.t18",
+          "mn15:2.2.t19",
+          "mn15:2.2.t20",
+          "mn15:2.2.t21",
+          "mn15:2.2.t22",
+          "mn15:2.2.t23",
+          "mn15:2.2.t24",
+          "mn15:2.2.t25",
+          "mn15:2.2.t26",
+          "mn15:2.2.t27",
+          "mn15:2.2.t28",
+          "mn15:2.2.t29",
+          "mn15:2.2.t30",
+          "mn15:2.2.t31",
+          "mn15:2.2.t32",
+          "mn15:2.2.t33",
+          "mn15:2.2.t34"
+        ],
+        "review_status": "approved",
+        "content": "說「讓諸尊者對我說（過失）吧」，但他卻是難以教誡的，具備使人難以教誡的諸法，不耐煩，不善接受教誡；那麼同梵行者們便認為不應對他說（過失），認為不應教誡他，認為不應對那人建立信任。"
+      }
     },
     {
       "segment_id": "mn15:3.1",
@@ -12852,7 +12891,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn15:4.2.t0",
+          "mn15:4.2.t1",
+          "mn15:4.2.t2",
+          "mn15:4.2.t5",
+          "mn15:4.2.t6",
+          "mn15:4.2.t7",
+          "mn15:4.2.t8",
+          "mn15:4.2.t9",
+          "mn15:4.2.t10",
+          "mn15:4.2.t11",
+          "mn15:4.2.t12",
+          "mn15:4.2.t13",
+          "mn15:4.2.t14",
+          "mn15:4.2.t15",
+          "mn15:4.2.t16",
+          "mn15:4.2.t17",
+          "mn15:4.2.t18",
+          "mn15:4.2.t19",
+          "mn15:4.2.t21",
+          "mn15:4.2.t22",
+          "mn15:4.2.t23",
+          "mn15:4.2.t24",
+          "mn15:4.2.t25",
+          "mn15:4.2.t26",
+          "mn15:4.2.t27",
+          "mn15:4.2.t28"
+        ],
+        "review_status": "approved",
+        "content": "「願諸尊者向我說吧！」——他且成為易於教誨者，具足令人易於交談的諸法，〔資料不足〕，正確領受教誡。於是，同梵行者確實認為他值得受教誡，亦認為應對此人生起信任。"
+      }
     },
     {
       "segment_id": "mn15:5.1",
@@ -67523,7 +67594,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn15:7.84.t0",
+          "mn15:7.84.t1",
+          "mn15:7.84.t2",
+          "mn15:7.84.t3",
+          "mn15:7.84.t5",
+          "mn15:7.84.t6",
+          "mn15:7.84.t7",
+          "mn15:7.84.t8",
+          "mn15:7.84.t9",
+          "mn15:7.84.t10",
+          "mn15:7.84.t11"
+        ],
+        "review_status": "approved",
+        "content": "「『我確實是頑固而傲慢的』——此比丘應當精勤努力，以捨斷那些惡的、不善的諸法。」"
+      }
     },
     {
       "segment_id": "mn15:7.85",
@@ -69454,7 +69542,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn15:7.90.t0",
+          "mn15:7.90.t1",
+          "mn15:7.90.t2",
+          "mn15:7.90.t3",
+          "mn15:7.90.t4",
+          "mn15:7.90.t6",
+          "mn15:7.90.t7",
+          "mn15:7.90.t8",
+          "mn15:7.90.t9",
+          "mn15:7.90.t10",
+          "mn15:7.90.t11",
+          "mn15:7.90.t12"
+        ],
+        "review_status": "approved",
+        "content": "「『我確實是執取己見、緊抓不放、難以放捨的』——此比丘應當精勤努力，以捨斷那些惡的、不善的諸法。」"
+      }
     },
     {
       "segment_id": "mn15:7.91",

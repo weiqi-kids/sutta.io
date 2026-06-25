@@ -12485,7 +12485,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:10.2.t0",
+          "mn18:10.2.t1",
+          "mn18:10.2.t2",
+          "mn18:10.2.t3",
+          "mn18:10.2.t4",
+          "mn18:10.2.t5",
+          "mn18:10.2.t6",
+          "mn18:10.2.t7",
+          "mn18:10.2.t8",
+          "mn18:10.2.t9",
+          "mn18:10.2.t10",
+          "mn18:10.2.t11",
+          "mn18:10.2.t12",
+          "mn18:10.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "賢友們，世尊只是簡略地宣說了概要，未詳細分析義理，便從座位起身進入了精舍。"
+      }
     },
     {
       "segment_id": "mn18:10.3",
@@ -36502,7 +36522,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:17.14.t0",
+          "mn18:17.14.t1",
+          "mn18:17.14.t2",
+          "mn18:17.14.t3",
+          "mn18:17.14.t4",
+          "mn18:17.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "有思惟概念存在時，（則）宣說戲論想計現行之概念——此乃確有之事。"
+      }
     },
     {
       "segment_id": "mn18:18.1",
@@ -37094,7 +37126,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.1.t0",
+          "mn18:18.1.t2",
+          "mn18:18.1.t3",
+          "mn18:18.1.t4",
+          "mn18:18.1.t5",
+          "mn18:18.1.t6",
+          "mn18:18.1.t7",
+          "mn18:18.1.t8",
+          "mn18:18.1.t9",
+          "mn18:18.1.t10",
+          "mn18:18.1.t11",
+          "mn18:18.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "彼（人），若眼不存在、具色相（之法）不存在、眼識不存在，（則）宣說觸之概念——此事不存在（此乃不可能之事）。"
+      }
     },
     {
       "segment_id": "mn18:18.2",
@@ -45085,7 +45135,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:20.1.t0",
+          "mn18:20.1.t1",
+          "mn18:20.1.t2",
+          "mn18:20.1.t3",
+          "mn18:20.1.t4",
+          "mn18:20.1.t5",
+          "mn18:20.1.t6",
+          "mn18:20.1.t7",
+          "mn18:20.1.t8",
+          "mn18:20.1.t9",
+          "mn18:20.1.t10",
+          "mn18:20.1.t11",
+          "mn18:20.1.t12",
+          "mn18:20.1.t13",
+          "mn18:20.1.t14",
+          "mn18:20.1.t15",
+          "mn18:20.1.t16",
+          "mn18:20.1.t17",
+          "mn18:20.1.t18",
+          "mn18:20.1.t19",
+          "mn18:20.1.t20",
+          "mn18:20.1.t21",
+          "mn18:20.1.t22",
+          "mn18:20.1.t23",
+          "mn18:20.1.t24"
+        ],
+        "review_status": "approved",
+        "content": "那時，那些比丘們對尊者摩訶迦旃延所說之語歡喜讚同，從座位起身，前往世尊所在之處；走近之後，頂禮世尊，坐於一旁。那些比丘們坐於一旁，如此對世尊說道。"
+      }
     },
     {
       "segment_id": "mn18:20.2",
@@ -52729,7 +52810,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:22.1.t0",
+          "mn18:22.1.t1",
+          "mn18:22.1.t2",
+          "mn18:22.1.t3",
+          "mn18:22.1.t4",
+          "mn18:22.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如是說後，尊者阿難對世尊說道。"
+      }
     },
     {
       "segment_id": "mn18:22.2",
