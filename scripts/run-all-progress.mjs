@@ -11,8 +11,12 @@ for (let i = 1; i <= TOTAL; i++) {
   if (!fs.existsSync(p)) { missing.push(`mn${i}`); continue; }
   try {
     const d = JSON.parse(fs.readFileSync(p, 'utf-8'));
-    if (d.summary) complete++;
-    else { l1only++; missing.push(`mn${i}`); }
+    // 真完整 = 有 summary 且白話覆蓋 ≥98%（非只看 summary，防缺段假完整）
+    const m = d.segments.filter((s) => (s.pali_tokens || []).some((t) => t.dpd_id != null || t.lemma));
+    const have = m.filter((s) => s.vernacular_gloss).length;
+    const cov = m.length ? have / m.length : 0;
+    if (d.summary && cov >= 0.98) complete++;
+    else { l1only++; missing.push(`mn${i}${d.summary ? `(缺${m.length - have})` : ''}`); }
   } catch { missing.push(`mn${i}`); }
 }
 
