@@ -20,7 +20,17 @@ missing() {
     for(let i=1;i<=T;i++){const p="data/mn"+i+".json";let ok=false;try{ok=!!JSON.parse(fs.readFileSync(p)).summary}catch{}if(!ok)o.push("mn"+i);}
     process.stdout.write(o.join(" "));'
 }
-complete() { node -e "try{process.exit(require('./data/$1.json').summary?0:1)}catch(e){process.exit(1)}"; }
+# 「完整」⟺ 有 summary 且白話覆蓋率 ≥98%（防缺段假完整：昨晚 mn17 只 21/81 卻被當完整上線）。
+complete() {
+  node -e "
+    try{
+      const d=require('./data/$1.json');
+      if(!d.summary)process.exit(1);
+      const m=d.segments.filter(s=>(s.pali_tokens||[]).some(t=>t.dpd_id!=null||t.lemma));
+      const have=m.filter(s=>s.vernacular_gloss).length;
+      process.exit(m.length>0 && have/m.length>=0.98 ? 0 : 1);
+    }catch(e){process.exit(1)}"
+}
 
 echo ""; echo "########## RUN-ALL 開始 $(date '+%F %T') ##########"
 waves=0

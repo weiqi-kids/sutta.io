@@ -9,7 +9,17 @@ REPO=/root/sutta.io; cd "$REPO" || exit 1
 SUTTA="${SUTTA:?需 SUTTA=mnX}"; MAX="${MAX:-12}"; GAP="${GAP:-1200}"
 LOG="$REPO/pipeline/.cache/finish-$SUTTA.log"; exec >>"$LOG" 2>&1
 
-complete() { node -e "try{process.exit(require('./data/$SUTTA.json').summary?0:1)}catch(e){process.exit(1)}"; }
+# 「完整」⟺ 有 summary 且白話覆蓋率 ≥98%（防缺段假完整）。
+complete() {
+  node -e "
+    try{
+      const d=require('./data/$SUTTA.json');
+      if(!d.summary)process.exit(1);
+      const m=d.segments.filter(s=>(s.pali_tokens||[]).some(t=>t.dpd_id!=null||t.lemma));
+      const have=m.filter(s=>s.vernacular_gloss).length;
+      process.exit(m.length>0 && have/m.length>=0.98 ? 0 : 1);
+    }catch(e){process.exit(1)}"
+}
 
 echo "===== finish-retry $SUTTA 開始 $(date '+%F %T')（最多 $MAX 次，間隔 ${GAP}s）====="
 for i in $(seq 1 "$MAX"); do
