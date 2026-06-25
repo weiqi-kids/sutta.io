@@ -15,11 +15,11 @@ export interface ClaudeResult<T> {
   retriable?: boolean; // 是否值得退避重試（限流/逾時/5xx/暫態）
 }
 
-// 實測：每批 10 段輸出 16KB 需 ~342s。設 900s = ~2.6 倍餘裕。
-// 真因覆盤：先前把 timeout 砍到 240s，把「正在生成的正常請求」砍掉 209 次
-// → 輸入 token 送了卻拿不到結果（純浪費）+ 缺段。非 server 壞窗。
-// 正解＝timeout 給足（讓請求跑完），批次維持 10（輸入重送最少、最省 token）。
-const TIMEOUT_MS = 900_000;
+// timeout 不是用來控速、也不該砍「慢但正常」的請求——請求一旦送出，輸入 token
+// 就已計費；砍掉只是讓輸入白付。它只是「程序真的卡死」時的安全網。
+// 故設超寬 30 分鐘（實測最慢批 ~900s，遠在其下）：正常請求永不被砍，
+// 只在連線真死/process 卡住時才回收，避免整批永久停住。
+const TIMEOUT_MS = 1_800_000;
 
 // 判斷錯誤是否為「暫態、值得退避重試」：限流(429)、過載、5xx、逾時。
 function isRetriable(...parts: unknown[]): boolean {
