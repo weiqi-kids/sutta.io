@@ -20710,7 +20710,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:6.20.t0",
+          "mn20:6.20.t1"
+        ],
+        "review_status": "approved",
+        "content": "他（可以）躺下休息。"
+      }
     },
     {
       "segment_id": "mn20:6.21",
@@ -21071,7 +21079,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:6.21.t0",
+          "mn20:6.21.t1",
+          "mn20:6.21.t2",
+          "mn20:6.21.t3",
+          "mn20:6.21.t4",
+          "mn20:6.21.t5",
+          "mn20:6.21.t6",
+          "mn20:6.21.t7",
+          "mn20:6.21.t8",
+          "mn20:6.21.t9",
+          "mn20:6.21.t10",
+          "mn20:6.21.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，如此地，那人完全迴避了粗重的粗重的行動姿態，採取微細的微細的行動姿態。"
+      }
     },
     {
       "segment_id": "mn20:6.22",
@@ -21944,7 +21970,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:6.22.t0",
+          "mn20:6.22.t1",
+          "mn20:6.22.t2",
+          "mn20:6.22.t3",
+          "mn20:6.22.t4",
+          "mn20:6.22.t5",
+          "mn20:6.22.t6",
+          "mn20:6.22.t7",
+          "mn20:6.22.t8",
+          "mn20:6.22.t9",
+          "mn20:6.22.t10",
+          "mn20:6.22.t11",
+          "mn20:6.22.t12",
+          "mn20:6.22.t13",
+          "mn20:6.22.t14",
+          "mn20:6.22.t15",
+          "mn20:6.22.t16",
+          "mn20:6.22.t17",
+          "mn20:6.22.t18",
+          "mn20:6.22.t19",
+          "mn20:6.22.t20",
+          "mn20:6.22.t21"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，確實如此，若那比丘對那些尋進行不念、不作意，即使仍然生起與欲相應、與瞋相應、與癡相應的惡不善尋，那些便被捨斷，那些走向消逝。"
+      }
     },
     {
       "segment_id": "mn20:6.23",
@@ -22279,7 +22333,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:6.23.t0",
+          "mn20:6.23.t1",
+          "mn20:6.23.t2",
+          "mn20:6.23.t3",
+          "mn20:6.23.t4",
+          "mn20:6.23.t5",
+          "mn20:6.23.t6",
+          "mn20:6.23.t7",
+          "mn20:6.23.t8"
+        ],
+        "review_status": "approved",
+        "content": "由於那些（惡尋）的捨斷，心就在內心安住、平靜，成為一境，得定。"
+      }
     },
     {
       "segment_id": "mn20:7.1",
@@ -22922,7 +22991,28 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.1.t0",
+          "mn20:7.1.t1",
+          "mn20:7.1.t2",
+          "mn20:7.1.t3",
+          "mn20:7.1.t4",
+          "mn20:7.1.t5",
+          "mn20:7.1.t6",
+          "mn20:7.1.t7",
+          "mn20:7.1.t8",
+          "mn20:7.1.t9",
+          "mn20:7.1.t10",
+          "mn20:7.1.t11",
+          "mn20:7.1.t12",
+          "mn20:7.1.t13",
+          "mn20:7.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，若那比丘對那些尋作意「諸尋之行的平息」，即使仍然生起與欲相應、與瞋相應、與癡相應的惡不善尋，"
+      }
     },
     {
       "segment_id": "mn20:7.2",
@@ -23412,7 +23502,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.2.t0",
+          "mn20:7.2.t1",
+          "mn20:7.2.t2",
+          "mn20:7.2.t3",
+          "mn20:7.2.t4",
+          "mn20:7.2.t5",
+          "mn20:7.2.t6",
+          "mn20:7.2.t7",
+          "mn20:7.2.t8",
+          "mn20:7.2.t9",
+          "mn20:7.2.t10",
+          "mn20:7.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，因此那比丘應咬牙切齒，以舌抵住上顎，以心制伏心、強力壓制、徹底折磨。"
+      }
     },
     {
       "segment_id": "mn20:7.3",
@@ -24469,7 +24577,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.3.t0",
+          "mn20:7.3.t1",
+          "mn20:7.3.t2",
+          "mn20:7.3.t3",
+          "mn20:7.3.t4",
+          "mn20:7.3.t5",
+          "mn20:7.3.t6",
+          "mn20:7.3.t7",
+          "mn20:7.3.t8",
+          "mn20:7.3.t9",
+          "mn20:7.3.t10",
+          "mn20:7.3.t11",
+          "mn20:7.3.t12",
+          "mn20:7.3.t13",
+          "mn20:7.3.t14",
+          "mn20:7.3.t15",
+          "mn20:7.3.t16",
+          "mn20:7.3.t17",
+          "mn20:7.3.t18",
+          "mn20:7.3.t19",
+          "mn20:7.3.t20",
+          "mn20:7.3.t21"
+        ],
+        "review_status": "approved",
+        "content": "對於他咬牙切齒，以舌抵住上顎，以心強加制伏、完全壓制、加以折磨，凡那些與欲相應、與瞋相應、與癡相應的惡不善尋，那些便被捨斷，那些走向消逝。"
+      }
     },
     {
       "segment_id": "mn20:7.4",
@@ -24804,7 +24940,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.4.t0",
+          "mn20:7.4.t1",
+          "mn20:7.4.t2",
+          "mn20:7.4.t3",
+          "mn20:7.4.t4",
+          "mn20:7.4.t5",
+          "mn20:7.4.t6",
+          "mn20:7.4.t7",
+          "mn20:7.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "由於那些（惡尋）的捨斷，心就在內心安住、平靜，成為一境，得定。"
+      }
     },
     {
       "segment_id": "mn20:7.5",
@@ -25426,7 +25577,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.5.t0",
+          "mn20:7.5.t1",
+          "mn20:7.5.t2",
+          "mn20:7.5.t3",
+          "mn20:7.5.t4",
+          "mn20:7.5.t5",
+          "mn20:7.5.t6",
+          "mn20:7.5.t7",
+          "mn20:7.5.t8",
+          "mn20:7.5.t9",
+          "mn20:7.5.t10",
+          "mn20:7.5.t11",
+          "mn20:7.5.t12",
+          "mn20:7.5.t13",
+          "mn20:7.5.t14",
+          "mn20:7.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就好比一個強壯的人，抓住較為羸弱的人的頭、或頸、或肩，強加制伏、完全壓制、加以折磨。"
+      }
     },
     {
       "segment_id": "mn20:7.6",
@@ -26114,7 +26287,30 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn20:7.6.t0",
+          "mn20:7.6.t1",
+          "mn20:7.6.t2",
+          "mn20:7.6.t3",
+          "mn20:7.6.t4",
+          "mn20:7.6.t5",
+          "mn20:7.6.t6",
+          "mn20:7.6.t7",
+          "mn20:7.6.t8",
+          "mn20:7.6.t9",
+          "mn20:7.6.t10",
+          "mn20:7.6.t11",
+          "mn20:7.6.t12",
+          "mn20:7.6.t13",
+          "mn20:7.6.t14",
+          "mn20:7.6.t15",
+          "mn20:7.6.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，確實如此，若那比丘對那些尋作意「諸尋之行的平息」，即使仍然生起與欲相應、與瞋相應、與癡相應的惡不善尋，"
+      }
     },
     {
       "segment_id": "mn20:7.7",

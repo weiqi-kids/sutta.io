@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:1.1.t0",
+          "mn18:1.1.t1",
+          "mn18:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞"
+      }
     },
     {
       "segment_id": "mn18:1.2",
@@ -454,7 +463,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:1.2.t0",
+          "mn18:1.2.t1",
+          "mn18:1.2.t2",
+          "mn18:1.2.t3",
+          "mn18:1.2.t4",
+          "mn18:1.2.t5",
+          "mn18:1.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在釋迦族迦毘羅衛城的尼拘陀園。"
+      }
     },
     {
       "segment_id": "mn18:2.1",
@@ -667,7 +689,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:2.1.t0",
+          "mn18:2.1.t1",
+          "mn18:2.1.t2",
+          "mn18:2.1.t3",
+          "mn18:2.1.t4",
+          "mn18:2.1.t5",
+          "mn18:2.1.t6",
+          "mn18:2.1.t7",
+          "mn18:2.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "於是，世尊在上午時分，著衣、持缽與袈裟，進入迦毘羅衛城托缽乞食。"
+      }
     },
     {
       "segment_id": "mn18:2.2",
@@ -884,7 +921,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:2.2.t0",
+          "mn18:2.2.t1",
+          "mn18:2.2.t2",
+          "mn18:2.2.t3",
+          "mn18:2.2.t4",
+          "mn18:2.2.t5",
+          "mn18:2.2.t6",
+          "mn18:2.2.t7",
+          "mn18:2.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "在迦毘羅衛城托缽行乞後，飯後自乞食歸來，（世尊）前往大林，以作晝住。"
+      }
     },
     {
       "segment_id": "mn18:2.3",
@@ -1361,7 +1413,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:3.1.t0",
+          "mn18:3.1.t1",
+          "mn18:3.1.t2",
+          "mn18:3.1.t3",
+          "mn18:3.1.t4",
+          "mn18:3.1.t5",
+          "mn18:3.1.t6",
+          "mn18:3.1.t7",
+          "mn18:3.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "釋迦族的持杖者（Daṇḍapāṇī）也正散步漫遊，前往大林。"
+      }
     },
     {
       "segment_id": "mn18:3.2",
@@ -1756,7 +1823,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:3.2.t0",
+          "mn18:3.2.t1",
+          "mn18:3.2.t2",
+          "mn18:3.2.t3",
+          "mn18:3.2.t4",
+          "mn18:3.2.t5",
+          "mn18:3.2.t6",
+          "mn18:3.2.t7",
+          "mn18:3.2.t8",
+          "mn18:3.2.t9",
+          "mn18:3.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "深入大林後，（持杖者）前往木蘋果樹苗處，前往世尊所在處，趨近後與世尊相互問候。"
+      }
     },
     {
       "segment_id": "mn18:3.3",
@@ -2327,7 +2411,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:3.4.t0",
+          "mn18:3.4.t1",
+          "mn18:3.4.t2",
+          "mn18:3.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "「沙門宣說什麼教義？宣講什麼？」"
+      }
     },
     {
       "segment_id": "mn18:4.1",
@@ -3417,7 +3511,42 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:4.1.t0",
+          "mn18:4.1.t1",
+          "mn18:4.1.t2",
+          "mn18:4.1.t3",
+          "mn18:4.1.t4",
+          "mn18:4.1.t5",
+          "mn18:4.1.t6",
+          "mn18:4.1.t7",
+          "mn18:4.1.t8",
+          "mn18:4.1.t9",
+          "mn18:4.1.t10",
+          "mn18:4.1.t11",
+          "mn18:4.1.t12",
+          "mn18:4.1.t13",
+          "mn18:4.1.t14",
+          "mn18:4.1.t15",
+          "mn18:4.1.t16",
+          "mn18:4.1.t17",
+          "mn18:4.1.t18",
+          "mn18:4.1.t19",
+          "mn18:4.1.t20",
+          "mn18:4.1.t21",
+          "mn18:4.1.t22",
+          "mn18:4.1.t23",
+          "mn18:4.1.t24",
+          "mn18:4.1.t25",
+          "mn18:4.1.t26",
+          "mn18:4.1.t27",
+          "mn18:4.1.t28"
+        ],
+        "review_status": "approved",
+        "content": "「友，如此宣說者，在含天神、魔羅、梵天的世界，在含沙門婆羅門、天神與人的眾生中，不與世間任何人爭論而安住。且如此：對於離欲而住的婆羅門，無疑惑、斷除悔惡、於諸有離渴愛——諸想不隨眠。」"
+      }
     },
     {
       "segment_id": "mn18:4.2",
@@ -6607,7 +6736,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.9.t0",
+          "mn18:6.9.t1",
+          "mn18:6.9.t2",
+          "mn18:6.9.t3"
+        ],
+        "review_status": "approved",
+        "content": "「這沙門持何教義？宣說什麼？」"
+      }
     },
     {
       "segment_id": "mn18:6.10",
@@ -6902,7 +7041,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.10.t0",
+          "mn18:6.10.t1",
+          "mn18:6.10.t2",
+          "mn18:6.10.t3",
+          "mn18:6.10.t4",
+          "mn18:6.10.t5",
+          "mn18:6.10.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說了之後，比丘們，我對持杖者說了這話："
+      }
     },
     {
       "segment_id": "mn18:6.11",
@@ -7992,7 +8144,42 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.11.t0",
+          "mn18:6.11.t1",
+          "mn18:6.11.t2",
+          "mn18:6.11.t3",
+          "mn18:6.11.t4",
+          "mn18:6.11.t5",
+          "mn18:6.11.t6",
+          "mn18:6.11.t7",
+          "mn18:6.11.t8",
+          "mn18:6.11.t9",
+          "mn18:6.11.t10",
+          "mn18:6.11.t11",
+          "mn18:6.11.t12",
+          "mn18:6.11.t13",
+          "mn18:6.11.t14",
+          "mn18:6.11.t15",
+          "mn18:6.11.t16",
+          "mn18:6.11.t17",
+          "mn18:6.11.t18",
+          "mn18:6.11.t19",
+          "mn18:6.11.t20",
+          "mn18:6.11.t21",
+          "mn18:6.11.t22",
+          "mn18:6.11.t23",
+          "mn18:6.11.t24",
+          "mn18:6.11.t25",
+          "mn18:6.11.t26",
+          "mn18:6.11.t27",
+          "mn18:6.11.t28"
+        ],
+        "review_status": "approved",
+        "content": "「朋友，確實，持如此教義者，在含天神、魔羅、梵天，連同沙門婆羅門、天人的世間中，不與任何人爭論而住立。又，對於那位離諸欲而住、無疑惑、斷除疑慮、於諸有中離渴愛的婆羅門，諸想不隨眠。」"
+      }
     },
     {
       "segment_id": "mn18:6.12",
@@ -8245,7 +8432,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.12.t0",
+          "mn18:6.12.t1",
+          "mn18:6.12.t2",
+          "mn18:6.12.t3",
+          "mn18:6.12.t4",
+          "mn18:6.12.t5"
+        ],
+        "review_status": "approved",
+        "content": "「朋友，我確實是持如此見解者、如此宣說者。」"
+      }
     },
     {
       "segment_id": "mn18:6.13",
@@ -8724,7 +8923,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.13.t0",
+          "mn18:6.13.t1",
+          "mn18:6.13.t2",
+          "mn18:6.13.t3",
+          "mn18:6.13.t4",
+          "mn18:6.13.t5",
+          "mn18:6.13.t6",
+          "mn18:6.13.t7",
+          "mn18:6.13.t8",
+          "mn18:6.13.t9",
+          "mn18:6.13.t10",
+          "mn18:6.13.t11",
+          "mn18:6.13.t12",
+          "mn18:6.13.t13",
+          "mn18:6.13.t14",
+          "mn18:6.13.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此說了之後，比丘們，持杖者搖著頭，伸出舌頭，在額頭上揚起三叉怪臉，倚著拐杖離去了。"
+      }
     },
     {
       "segment_id": "mn18:6.14",
@@ -8913,7 +9134,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:6.14.t0",
+          "mn18:6.14.t1",
+          "mn18:6.14.t2",
+          "mn18:6.14.t3",
+          "mn18:6.14.t4",
+          "mn18:6.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說了之後，某位比丘對世尊說了這話："
+      }
     },
     {
       "segment_id": "mn18:7.1",
@@ -9603,7 +9836,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:7.1.t0",
+          "mn18:7.1.t1",
+          "mn18:7.1.t2",
+          "mn18:7.1.t3",
+          "mn18:7.1.t4",
+          "mn18:7.1.t5",
+          "mn18:7.1.t6",
+          "mn18:7.1.t7",
+          "mn18:7.1.t8",
+          "mn18:7.1.t9",
+          "mn18:7.1.t10",
+          "mn18:7.1.t11",
+          "mn18:7.1.t12",
+          "mn18:7.1.t13",
+          "mn18:7.1.t14",
+          "mn18:7.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "「大德，那世尊持何教義，能在含天神、魔羅、梵天，連同沙門婆羅門、天人的世間中，不與任何人爭論而住立？」"
+      }
     },
     {
       "segment_id": "mn18:7.2",
@@ -10307,7 +10562,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:7.2.t0",
+          "mn18:7.2.t1",
+          "mn18:7.2.t2",
+          "mn18:7.2.t3",
+          "mn18:7.2.t4",
+          "mn18:7.2.t5",
+          "mn18:7.2.t6",
+          "mn18:7.2.t7",
+          "mn18:7.2.t8",
+          "mn18:7.2.t9",
+          "mn18:7.2.t10",
+          "mn18:7.2.t11",
+          "mn18:7.2.t12",
+          "mn18:7.2.t13",
+          "mn18:7.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "「大德，又如何——世尊被稱為那位：離欲而住、無疑惑、斷除疑慮、於諸有中離渴愛、諸想〔……〕的婆羅門？」（t14 未在提供資料中，段義不完整）"
+      }
     },
     {
       "segment_id": "mn18:8.1",
@@ -10500,7 +10776,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:8.1.t0",
+          "mn18:8.1.t1",
+          "mn18:8.1.t2",
+          "mn18:8.1.t3",
+          "mn18:8.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "「比丘，從何因緣，戲論想分別便侵擾人？」"
+      }
     },
     {
       "segment_id": "mn18:8.2",
@@ -10700,7 +10987,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:8.2.t0",
+          "mn18:8.2.t1",
+          "mn18:8.2.t2",
+          "mn18:8.2.t3",
+          "mn18:8.2.t4",
+          "mn18:8.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "「若此處無應欣喜者、應迎接者、應執取者——」"
+      }
     },
     {
       "segment_id": "mn18:8.3",
@@ -21233,7 +21532,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:11.16.t0",
+          "mn18:11.16.t1",
+          "mn18:11.16.t2",
+          "mn18:11.16.t3",
+          "mn18:11.16.t4",
+          "mn18:11.16.t5",
+          "mn18:11.16.t6",
+          "mn18:11.16.t7",
+          "mn18:11.16.t8",
+          "mn18:11.16.t9",
+          "mn18:11.16.t10",
+          "mn18:11.16.t11",
+          "mn18:11.16.t12",
+          "mn18:11.16.t13",
+          "mn18:11.16.t14",
+          "mn18:11.16.t15",
+          "mn18:11.16.t16",
+          "mn18:11.16.t17",
+          "mn18:11.16.t18",
+          "mn18:11.16.t19",
+          "mn18:11.16.t20",
+          "mn18:11.16.t21",
+          "mn18:11.16.t22",
+          "mn18:11.16.t23",
+          "mn18:11.16.t24"
+        ],
+        "review_status": "approved",
+        "content": "此尊者摩訶迦旃延確實受到師的讚許，且為智者同梵行者們所推崇；而尊者摩訶迦旃延亦能對世尊以簡略宣說、未曾詳析之教示，詳細地析解其義。"
+      }
     },
     {
       "segment_id": "mn18:11.17",
@@ -21494,7 +21824,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:11.17.t1",
+          "mn18:11.17.t2",
+          "mn18:11.17.t3",
+          "mn18:11.17.t4",
+          "mn18:11.17.t5",
+          "mn18:11.17.t6",
+          "mn18:11.17.t7",
+          "mn18:11.17.t8",
+          "mn18:11.17.t10"
+        ],
+        "review_status": "approved",
+        "content": "我們應前往尊者摩訶迦旃延之處，前往後向尊者摩訶迦旃延請問此義。"
+      }
     },
     {
       "segment_id": "mn18:11.18",
@@ -21560,7 +21905,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:11.18.t1",
+          "mn18:11.18.t2"
+        ],
+        "review_status": "approved",
+        "content": "〔眾比丘如是議決，遂前往〕摩訶迦旃延〔尊者處〕。"
+      }
     },
     {
       "segment_id": "mn18:12.1",
@@ -22237,7 +22590,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:12.1.t0",
+          "mn18:12.1.t1",
+          "mn18:12.1.t2",
+          "mn18:12.1.t3",
+          "mn18:12.1.t4",
+          "mn18:12.1.t5",
+          "mn18:12.1.t6",
+          "mn18:12.1.t7",
+          "mn18:12.1.t8",
+          "mn18:12.1.t9",
+          "mn18:12.1.t10",
+          "mn18:12.1.t11",
+          "mn18:12.1.t12",
+          "mn18:12.1.t13",
+          "mn18:12.1.t14",
+          "mn18:12.1.t15",
+          "mn18:12.1.t16",
+          "mn18:12.1.t17",
+          "mn18:12.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "諸友，猶如一人欲求心材、搜求心材而行走尋覓，走到一棵立著的大樹、有心材之樹，越過了根部，越過了樹幹，卻以為應在枝葉中尋求心材。"
+      }
     },
     {
       "segment_id": "mn18:12.2",
@@ -22665,7 +23043,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:12.2.t1",
+          "mn18:12.2.t2",
+          "mn18:12.2.t3",
+          "mn18:12.2.t4",
+          "mn18:12.2.t5",
+          "mn18:12.2.t6",
+          "mn18:12.2.t7",
+          "mn18:12.2.t8",
+          "mn18:12.2.t9",
+          "mn18:12.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸尊者，師現前在此，你們以為越過彼世尊而向我們詢問此義，這樣妥當嗎？"
+      }
     },
     {
       "segment_id": "mn18:12.3",
@@ -23418,7 +23812,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:12.3.t0",
+          "mn18:12.3.t1",
+          "mn18:12.3.t2",
+          "mn18:12.3.t3",
+          "mn18:12.3.t4",
+          "mn18:12.3.t5",
+          "mn18:12.3.t6",
+          "mn18:12.3.t7",
+          "mn18:12.3.t8",
+          "mn18:12.3.t9",
+          "mn18:12.3.t10",
+          "mn18:12.3.t11",
+          "mn18:12.3.t12",
+          "mn18:12.3.t13",
+          "mn18:12.3.t14",
+          "mn18:12.3.t15",
+          "mn18:12.3.t16",
+          "mn18:12.3.t17",
+          "mn18:12.3.t18"
+        ],
+        "review_status": "approved",
+        "content": "諸友，彼世尊確實知者而知、見者而見，成為眼、成為智、成為法、成為梵，是義的宣說者與演說者，引向不死的引導者與施予者，法主——如來。"
+      }
     },
     {
       "segment_id": "mn18:12.4",
@@ -23709,7 +24128,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:12.4.t0",
+          "mn18:12.4.t1",
+          "mn18:12.4.t3",
+          "mn18:12.4.t4",
+          "mn18:12.4.t5",
+          "mn18:12.4.t6",
+          "mn18:12.4.t7",
+          "mn18:12.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "彼確實正是時機——你們應直接向世尊請問此義。"
+      }
     },
     {
       "segment_id": "mn18:12.5",
@@ -24038,7 +24471,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:12.5.t0",
+          "mn18:12.5.t1",
+          "mn18:12.5.t2",
+          "mn18:12.5.t3",
+          "mn18:12.5.t4",
+          "mn18:12.5.t5",
+          "mn18:12.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "如同世尊當如何解答你們，如是（解答）此義。"
+      }
     },
     {
       "segment_id": "mn18:13.1",
@@ -24763,7 +25209,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:13.1.t1",
+          "mn18:13.1.t2",
+          "mn18:13.1.t3",
+          "mn18:13.1.t4",
+          "mn18:13.1.t5",
+          "mn18:13.1.t6",
+          "mn18:13.1.t7",
+          "mn18:13.1.t8",
+          "mn18:13.1.t9",
+          "mn18:13.1.t10",
+          "mn18:13.1.t11",
+          "mn18:13.1.t12",
+          "mn18:13.1.t13",
+          "mn18:13.1.t14",
+          "mn18:13.1.t15",
+          "mn18:13.1.t16",
+          "mn18:13.1.t17",
+          "mn18:13.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "迦旃延，彼世尊知者而知、見者而見，成為眼、成為智、成為法、成為梵，是義的宣說者與演說者，引向不死的引導者與施予者，法主——如來。"
+      }
     },
     {
       "segment_id": "mn18:13.2",
@@ -25054,7 +25524,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:13.2.t0",
+          "mn18:13.2.t1",
+          "mn18:13.2.t3",
+          "mn18:13.2.t4",
+          "mn18:13.2.t5",
+          "mn18:13.2.t6",
+          "mn18:13.2.t7",
+          "mn18:13.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "彼確實正是時機——我們應直接向世尊請問此義。"
+      }
     },
     {
       "segment_id": "mn18:13.3",
@@ -40378,7 +40862,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.10.t0",
+          "mn18:18.10.t1",
+          "mn18:18.10.t2",
+          "mn18:18.10.t3",
+          "mn18:18.10.t4",
+          "mn18:18.10.t5",
+          "mn18:18.10.t6",
+          "mn18:18.10.t7",
+          "mn18:18.10.t8",
+          "mn18:18.10.t9",
+          "mn18:18.10.t10"
+        ],
+        "review_status": "approved",
+        "content": "若意根不存在、諸法不存在、意識不存在，（有人）將施設「觸的施設」，此種情況並不存在。"
+      }
     },
     {
       "segment_id": "mn18:18.11",
@@ -40701,7 +41202,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.11.t0",
+          "mn18:18.11.t1",
+          "mn18:18.11.t2",
+          "mn18:18.11.t3",
+          "mn18:18.11.t4",
+          "mn18:18.11.t5",
+          "mn18:18.11.t6"
+        ],
+        "review_status": "approved",
+        "content": "若觸的施設不存在，（有人）將施設「受的施設」，此種情況並不存在。"
+      }
     },
     {
       "segment_id": "mn18:18.12",
@@ -41024,7 +41538,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.12.t0",
+          "mn18:18.12.t1",
+          "mn18:18.12.t2",
+          "mn18:18.12.t3",
+          "mn18:18.12.t4",
+          "mn18:18.12.t5",
+          "mn18:18.12.t6"
+        ],
+        "review_status": "approved",
+        "content": "若受的施設不存在，（有人）將施設「想的施設」，此種情況並不存在。"
+      }
     },
     {
       "segment_id": "mn18:18.13",
@@ -41347,7 +41874,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.13.t0",
+          "mn18:18.13.t1",
+          "mn18:18.13.t2",
+          "mn18:18.13.t3",
+          "mn18:18.13.t4",
+          "mn18:18.13.t5",
+          "mn18:18.13.t6"
+        ],
+        "review_status": "approved",
+        "content": "若想的施設不存在，（有人）將施設「尋的施設」，此種情況並不存在。"
+      }
     },
     {
       "segment_id": "mn18:18.14",
@@ -41670,7 +42210,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:18.14.t0",
+          "mn18:18.14.t1",
+          "mn18:18.14.t2",
+          "mn18:18.14.t3",
+          "mn18:18.14.t4",
+          "mn18:18.14.t5",
+          "mn18:18.14.t6"
+        ],
+        "review_status": "approved",
+        "content": "若尋的施設不存在，（有人）將施設「戲論想行充斥的施設」，此種情況並不存在。"
+      }
     },
     {
       "segment_id": "mn18:19.1",
@@ -42164,7 +42717,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:19.1.t0",
+          "mn18:19.1.t1",
+          "mn18:19.1.t2",
+          "mn18:19.1.t3",
+          "mn18:19.1.t4",
+          "mn18:19.1.t5",
+          "mn18:19.1.t6",
+          "mn18:19.1.t7",
+          "mn18:19.1.t8",
+          "mn18:19.1.t9",
+          "mn18:19.1.t10",
+          "mn18:19.1.t11",
+          "mn18:19.1.t12",
+          "mn18:19.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "賢友們！（我們的）世尊確實簡略宣說了綱要，未詳細解析義理，便從座起身，進入精舍。"
+      }
     },
     {
       "segment_id": "mn18:19.2",
@@ -42712,7 +43285,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:19.2.t0",
+          "mn18:19.2.t1",
+          "mn18:19.2.t2",
+          "mn18:19.2.t3",
+          "mn18:19.2.t4",
+          "mn18:19.2.t5",
+          "mn18:19.2.t6",
+          "mn18:19.2.t7",
+          "mn18:19.2.t8",
+          "mn18:19.2.t9",
+          "mn18:19.2.t10",
+          "mn18:19.2.t11",
+          "mn18:19.2.t12",
+          "mn18:19.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "比丘！由何因緣，戲論想行縈繞一人——若於此沒有應被歡喜、應被歡迎、應被執取的，這就是貪隨眠（等）的終結……（以下省略）"
+      }
     },
     {
       "segment_id": "mn18:19.3",
@@ -43664,7 +44257,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:19.3.t0",
+          "mn18:19.3.t1",
+          "mn18:19.3.t2",
+          "mn18:19.3.t3",
+          "mn18:19.3.t4",
+          "mn18:19.3.t6",
+          "mn18:19.3.t7",
+          "mn18:19.3.t8",
+          "mn18:19.3.t9",
+          "mn18:19.3.t10",
+          "mn18:19.3.t11",
+          "mn18:19.3.t12",
+          "mn18:19.3.t13",
+          "mn18:19.3.t14",
+          "mn18:19.3.t15",
+          "mn18:19.3.t16",
+          "mn18:19.3.t17",
+          "mn18:19.3.t18",
+          "mn18:19.3.t19",
+          "mn18:19.3.t20",
+          "mn18:19.3.t21"
+        ],
+        "review_status": "approved",
+        "content": "「……於此，這些惡的、不善的法，無餘地（止息）。」賢友們！對於世尊所簡略宣說、未詳細解析義理的綱要，我如此詳細地了知其義理。"
+      }
     },
     {
       "segment_id": "mn18:19.4",
@@ -43954,7 +44574,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:19.4.t0",
+          "mn18:19.4.t1",
+          "mn18:19.4.t2",
+          "mn18:19.4.t3",
+          "mn18:19.4.t4",
+          "mn18:19.4.t5",
+          "mn18:19.4.t6",
+          "mn18:19.4.t7",
+          "mn18:19.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "若諸尊者有意，應當親自前往世尊那裡，請教此義理。"
+      }
     },
     {
       "segment_id": "mn18:19.5",
@@ -44283,7 +44918,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn18:19.5.t0",
+          "mn18:19.5.t1",
+          "mn18:19.5.t2",
+          "mn18:19.5.t3",
+          "mn18:19.5.t4",
+          "mn18:19.5.t5",
+          "mn18:19.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「依照世尊如何回答，如實（銘記）之。」"
+      }
     },
     {
       "segment_id": "mn18:20.1",

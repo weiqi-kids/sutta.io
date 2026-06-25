@@ -5959,7 +5959,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:3.4.t0",
+          "mn24:3.4.t1",
+          "mn24:3.4.t2",
+          "mn24:3.4.t3",
+          "mn24:3.4.t4",
+          "mn24:3.4.t5",
+          "mn24:3.4.t6",
+          "mn24:3.4.t7",
+          "mn24:3.4.t8",
+          "mn24:3.4.t9",
+          "mn24:3.4.t10",
+          "mn24:3.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "那位（比丘）——其明智的同梵行者們在師（尊）面前，再三審察後，稱讚（其）德；而師（尊）也欣然隨喜那（讚許）。"
+      }
     },
     {
       "segment_id": "mn24:3.5",
@@ -6432,7 +6450,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:3.5.t0",
+          "mn24:3.5.t1",
+          "mn24:3.5.t2",
+          "mn24:3.5.t3",
+          "mn24:3.5.t4",
+          "mn24:3.5.t5",
+          "mn24:3.5.t6",
+          "mn24:3.5.t7",
+          "mn24:3.5.t8",
+          "mn24:3.5.t9",
+          "mn24:3.5.t10",
+          "mn24:3.5.t11",
+          "mn24:3.5.t12",
+          "mn24:3.5.t13",
+          "mn24:3.5.t14",
+          "mn24:3.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "「若能有朝一日，我們也得以與尊者富樓那滿慈子相會，若能有機會進行一番談話，那就好了！」"
+      }
     },
     {
       "segment_id": "mn24:4.1",
@@ -6753,7 +6793,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:4.1.t0",
+          "mn24:4.1.t1",
+          "mn24:4.1.t2",
+          "mn24:4.1.t3",
+          "mn24:4.1.t4",
+          "mn24:4.1.t5",
+          "mn24:4.1.t6",
+          "mn24:4.1.t7",
+          "mn24:4.1.t8",
+          "mn24:4.1.t9",
+          "mn24:4.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "那時，世尊在王舍城隨喜住留之後，便朝舍衛城方向出發遊行。"
+      }
     },
     {
       "segment_id": "mn24:4.2",
@@ -6934,7 +6991,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:4.2.t0",
+          "mn24:4.2.t1",
+          "mn24:4.2.t2",
+          "mn24:4.2.t3",
+          "mn24:4.2.t4",
+          "mn24:4.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "漸次遊行，終於抵達舍衛城。"
+      }
     },
     {
       "segment_id": "mn24:4.3",
@@ -7196,7 +7265,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:4.3.t0",
+          "mn24:4.3.t1",
+          "mn24:4.3.t2",
+          "mn24:4.3.t3",
+          "mn24:4.3.t4",
+          "mn24:4.3.t5",
+          "mn24:4.3.t6",
+          "mn24:4.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "世尊確實就住在舍衛城——祇陀林給孤獨長者的園林中。"
+      }
     },
     {
       "segment_id": "mn24:4.4",
@@ -7643,7 +7726,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:4.4.t0",
+          "mn24:4.4.t1",
+          "mn24:4.4.t2",
+          "mn24:4.4.t3",
+          "mn24:4.4.t4",
+          "mn24:4.4.t5",
+          "mn24:4.4.t6",
+          "mn24:4.4.t7",
+          "mn24:4.4.t8",
+          "mn24:4.4.t9",
+          "mn24:4.4.t10",
+          "mn24:4.4.t11",
+          "mn24:4.4.t12",
+          "mn24:4.4.t13",
+          "mn24:4.4.t14"
+        ],
+        "review_status": "approved",
+        "content": "尊者富樓那滿慈子聽說世尊已抵達舍衛城，現住在祇陀林給孤獨長者的園林中。"
+      }
     },
     {
       "segment_id": "mn24:5.1",
@@ -8028,7 +8132,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:5.1.t0",
+          "mn24:5.1.t1",
+          "mn24:5.1.t2",
+          "mn24:5.1.t3",
+          "mn24:5.1.t4",
+          "mn24:5.1.t5",
+          "mn24:5.1.t6",
+          "mn24:5.1.t7",
+          "mn24:5.1.t8",
+          "mn24:5.1.t9",
+          "mn24:5.1.t10",
+          "mn24:5.1.t11",
+          "mn24:5.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "那時，尊者富樓那滿慈子整理好住處，持缽衣，便朝舍衛城方向出發遊行。"
+      }
     },
     {
       "segment_id": "mn24:5.2",
@@ -8510,7 +8633,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:5.2.t0",
+          "mn24:5.2.t1",
+          "mn24:5.2.t2",
+          "mn24:5.2.t3",
+          "mn24:5.2.t4",
+          "mn24:5.2.t5",
+          "mn24:5.2.t6",
+          "mn24:5.2.t7",
+          "mn24:5.2.t8",
+          "mn24:5.2.t9",
+          "mn24:5.2.t10",
+          "mn24:5.2.t11",
+          "mn24:5.2.t12",
+          "mn24:5.2.t13",
+          "mn24:5.2.t14",
+          "mn24:5.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "漸次遊行，前往舍衛城的祇陀林給孤獨長者的園林，走向世尊所在之處；近前後，頂禮世尊，在一旁坐下。"
+      }
     },
     {
       "segment_id": "mn24:5.3",
@@ -9072,7 +9217,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:5.3.t0",
+          "mn24:5.3.t1",
+          "mn24:5.3.t2",
+          "mn24:5.3.t3",
+          "mn24:5.3.t4",
+          "mn24:5.3.t5",
+          "mn24:5.3.t6",
+          "mn24:5.3.t7",
+          "mn24:5.3.t8",
+          "mn24:5.3.t9",
+          "mn24:5.3.t10",
+          "mn24:5.3.t11",
+          "mn24:5.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "（富樓那滿慈子）坐於一旁後，世尊以法談對尊者富樓那滿慈子開示、勸勉、激勵、令其歡喜。"
+      }
     },
     {
       "segment_id": "mn24:5.4",
@@ -9906,7 +10070,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn24:5.4.t0",
+          "mn24:5.4.t1",
+          "mn24:5.4.t2",
+          "mn24:5.4.t3",
+          "mn24:5.4.t4",
+          "mn24:5.4.t5",
+          "mn24:5.4.t6",
+          "mn24:5.4.t7",
+          "mn24:5.4.t8",
+          "mn24:5.4.t9",
+          "mn24:5.4.t10",
+          "mn24:5.4.t11",
+          "mn24:5.4.t12",
+          "mn24:5.4.t13",
+          "mn24:5.4.t14",
+          "mn24:5.4.t15",
+          "mn24:5.4.t16",
+          "mn24:5.4.t17",
+          "mn24:5.4.t18",
+          "mn24:5.4.t19",
+          "mn24:5.4.t20",
+          "mn24:5.4.t21",
+          "mn24:5.4.t22",
+          "mn24:5.4.t23",
+          "mn24:5.4.t24"
+        ],
+        "review_status": "approved",
+        "content": "那時，尊者富樓那滿慈子在受世尊法談開示、勸勉、激勵、令歡喜後，對世尊所說歡喜讚歎、隨喜認可，起座頂禮世尊，右繞而去，前往安陀林以作日間禪坐。"
+      }
     },
     {
       "segment_id": "mn24:6.1",

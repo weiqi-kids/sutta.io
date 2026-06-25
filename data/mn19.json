@@ -19507,7 +19507,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:11.4.t1",
+          "mn19:11.4.t2",
+          "mn19:11.4.t3",
+          "mn19:11.4.t4",
+          "mn19:11.4.t5",
+          "mn19:11.4.t6",
+          "mn19:11.4.t7",
+          "mn19:11.4.t8",
+          "mn19:11.4.t9",
+          "mn19:11.4.t10",
+          "mn19:11.4.t11",
+          "mn19:11.4.t12",
+          "mn19:11.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘頻繁思量、反覆審察，捨棄了傷害的念頭，多多修習無傷害的念頭，於是他的心便傾向於無傷害的念頭。"
+      }
     },
     {
       "segment_id": "mn19:12.1",
@@ -20200,7 +20219,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:12.1.t0",
+          "mn19:12.1.t1",
+          "mn19:12.1.t2",
+          "mn19:12.1.t3",
+          "mn19:12.1.t4",
+          "mn19:12.1.t5",
+          "mn19:12.1.t6",
+          "mn19:12.1.t7",
+          "mn19:12.1.t8",
+          "mn19:12.1.t9",
+          "mn19:12.1.t10",
+          "mn19:12.1.t11",
+          "mn19:12.1.t12",
+          "mn19:12.1.t13",
+          "mn19:12.1.t14",
+          "mn19:12.1.t15",
+          "mn19:12.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如在熱季最後幾個月，所有穀物都已聚集在村落附近，牧牛者需要守護牛群，他坐在樹根處或露天處時，只需保持正念便已足夠。"
+      }
     },
     {
       "segment_id": "mn19:12.2",
@@ -20353,7 +20395,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:12.2.t0",
+          "mn19:12.2.t1",
+          "mn19:12.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "「這些是牛。」"
+      }
     },
     {
       "segment_id": "mn19:12.3",
@@ -20458,7 +20509,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:12.3.t0",
+          "mn19:12.3.t1",
+          "mn19:12.3.t2",
+          "mn19:12.3.t3",
+          "mn19:12.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，確實，只需保持正念便已足夠。"
+      }
     },
     {
       "segment_id": "mn19:12.4",
@@ -20611,7 +20673,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:12.4.t0",
+          "mn19:12.4.t1",
+          "mn19:12.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "「這些是法。」"
+      }
     },
     {
       "segment_id": "mn19:13.1",
@@ -21406,7 +21477,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:13.1.t0",
+          "mn19:13.1.t1",
+          "mn19:13.1.t2",
+          "mn19:13.1.t3",
+          "mn19:13.1.t4",
+          "mn19:13.1.t5",
+          "mn19:13.1.t6",
+          "mn19:13.1.t7",
+          "mn19:13.1.t8",
+          "mn19:13.1.t9",
+          "mn19:13.1.t10",
+          "mn19:13.1.t11",
+          "mn19:13.1.t12",
+          "mn19:13.1.t13",
+          "mn19:13.1.t14",
+          "mn19:13.1.t15",
+          "mn19:13.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，而我的精進已被激發，不懈怠；念已現前，不忘失；身已輕安，不躁動；心已入定，一境。"
+      }
     },
     {
       "segment_id": "mn19:14.1",
@@ -22171,7 +22265,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:14.1.t0",
+          "mn19:14.1.t1",
+          "mn19:14.1.t2",
+          "mn19:14.1.t3",
+          "mn19:14.1.t4",
+          "mn19:14.1.t5",
+          "mn19:14.1.t6",
+          "mn19:14.1.t7",
+          "mn19:14.1.t8",
+          "mn19:14.1.t9",
+          "mn19:14.1.t10",
+          "mn19:14.1.t11",
+          "mn19:14.1.t12",
+          "mn19:14.1.t13",
+          "mn19:14.1.t14",
+          "mn19:14.1.t15",
+          "mn19:14.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，於是我遠離諸欲，遠離不善法，進入並安住於初禪——有尋、有伺，由遠離生起的喜與樂。"
+      }
     },
     {
       "segment_id": "mn19:15.1",
@@ -22768,7 +22885,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:15.1.t0",
+          "mn19:15.1.t1",
+          "mn19:15.1.t2",
+          "mn19:15.1.t3",
+          "mn19:15.1.t4",
+          "mn19:15.1.t5",
+          "mn19:15.1.t6",
+          "mn19:15.1.t7",
+          "mn19:15.1.t8",
+          "mn19:15.1.t9",
+          "mn19:15.1.t10",
+          "mn19:15.1.t11",
+          "mn19:15.1.t12",
+          "mn19:15.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "尋與伺平息之後，內心澄清，心一境性，進入並安住於二禪——無尋、無伺，由定生起的喜與樂。"
+      }
     },
     {
       "segment_id": "mn19:16.1",
@@ -23740,7 +23877,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:16.1.t0",
+          "mn19:16.1.t1",
+          "mn19:16.1.t2",
+          "mn19:16.1.t3",
+          "mn19:16.1.t4",
+          "mn19:16.1.t5",
+          "mn19:16.1.t6",
+          "mn19:16.1.t7",
+          "mn19:16.1.t8",
+          "mn19:16.1.t9",
+          "mn19:16.1.t10",
+          "mn19:16.1.t11",
+          "mn19:16.1.t12",
+          "mn19:16.1.t13",
+          "mn19:16.1.t14",
+          "mn19:16.1.t15",
+          "mn19:16.1.t16",
+          "mn19:16.1.t17",
+          "mn19:16.1.t18",
+          "mn19:16.1.t19",
+          "mn19:16.1.t20",
+          "mn19:16.1.t21",
+          "mn19:16.1.t22",
+          "mn19:16.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "因對喜離貪，我安住於捨，具念、正知，以身親身體驗那種樂——諸聖者宣說：「具足捨、具念、安樂而住者」——進入並安住於三禪。"
+      }
     },
     {
       "segment_id": "mn19:17.1",
@@ -24411,7 +24578,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:17.1.t0",
+          "mn19:17.1.t1",
+          "mn19:17.1.t2",
+          "mn19:17.1.t3",
+          "mn19:17.1.t4",
+          "mn19:17.1.t5",
+          "mn19:17.1.t6",
+          "mn19:17.1.t7",
+          "mn19:17.1.t8",
+          "mn19:17.1.t9",
+          "mn19:17.1.t10",
+          "mn19:17.1.t11",
+          "mn19:17.1.t12",
+          "mn19:17.1.t13",
+          "mn19:17.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "捨棄樂、捨棄苦，先前悅意與憂意已消滅，進入並安住於四禪——不苦不樂、捨念清淨。"
+      }
     },
     {
       "segment_id": "mn19:18.1",
@@ -25131,7 +25319,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:18.1.t0",
+          "mn19:18.1.t1",
+          "mn19:18.1.t2",
+          "mn19:18.1.t3",
+          "mn19:18.1.t4",
+          "mn19:18.1.t5",
+          "mn19:18.1.t6",
+          "mn19:18.1.t7",
+          "mn19:18.1.t8",
+          "mn19:18.1.t9",
+          "mn19:18.1.t10",
+          "mn19:18.1.t11",
+          "mn19:18.1.t12",
+          "mn19:18.1.t13",
+          "mn19:18.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "如此，當心已入定、完全清淨、完全光淨、無垢、已離諸隨雜染、柔軟、堪任、穩固、抵達不動，他將心導向宿命憶念智。"
+      }
     },
     {
       "segment_id": "mn19:18.2",
@@ -25573,7 +25782,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:18.2.t0",
+          "mn19:18.2.t1",
+          "mn19:18.2.t2",
+          "mn19:18.2.t3",
+          "mn19:18.2.t4",
+          "mn19:18.2.t5",
+          "mn19:18.2.t6",
+          "mn19:18.2.t7",
+          "mn19:18.2.t8",
+          "mn19:18.2.t9",
+          "mn19:18.2.t10",
+          "mn19:18.2.t11",
+          "mn19:18.2.t12",
+          "mn19:18.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "他憶念種種前世，即如：乃至一生……如此，連同其相狀、詳細地憶念種種前世。"
+      }
     },
     {
       "segment_id": "mn19:19.1",
@@ -26169,7 +26398,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:19.1.t0",
+          "mn19:19.1.t1",
+          "mn19:19.1.t2",
+          "mn19:19.1.t3",
+          "mn19:19.1.t4",
+          "mn19:19.1.t5",
+          "mn19:19.1.t6",
+          "mn19:19.1.t7",
+          "mn19:19.1.t8",
+          "mn19:19.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，這確實是在我的初夜分，第一明已獲得。"
+      }
     },
     {
       "segment_id": "mn19:19.2",
@@ -26837,7 +27082,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:19.2.t0",
+          "mn19:19.2.t1",
+          "mn19:19.2.t2",
+          "mn19:19.2.t3",
+          "mn19:19.2.t4",
+          "mn19:19.2.t5",
+          "mn19:19.2.t6",
+          "mn19:19.2.t7",
+          "mn19:19.2.t8",
+          "mn19:19.2.t9",
+          "mn19:19.2.t10",
+          "mn19:19.2.t11",
+          "mn19:19.2.t12",
+          "mn19:19.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "無明已被摧滅，明已生起；黑暗已被摧滅，光明已生起——如同那不放逸、精勤、決意精進而住者所當有的。"
+      }
     },
     {
       "segment_id": "mn19:20.1",
@@ -27627,7 +27892,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:20.1.t0",
+          "mn19:20.1.t1",
+          "mn19:20.1.t2",
+          "mn19:20.1.t3",
+          "mn19:20.1.t4",
+          "mn19:20.1.t5",
+          "mn19:20.1.t6",
+          "mn19:20.1.t7",
+          "mn19:20.1.t8",
+          "mn19:20.1.t9",
+          "mn19:20.1.t10",
+          "mn19:20.1.t11",
+          "mn19:20.1.t12",
+          "mn19:20.1.t13",
+          "mn19:20.1.t14",
+          "mn19:20.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，當心已入定、完全清淨、完全光淨、無垢、已離諸隨雜染、柔軟、堪任、穩固、抵達不動，他將心導向有情死生智。"
+      }
     },
     {
       "segment_id": "mn19:20.2",
@@ -29199,7 +29486,48 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:20.2.t0",
+          "mn19:20.2.t1",
+          "mn19:20.2.t2",
+          "mn19:20.2.t3",
+          "mn19:20.2.t4",
+          "mn19:20.2.t5",
+          "mn19:20.2.t6",
+          "mn19:20.2.t7",
+          "mn19:20.2.t8",
+          "mn19:20.2.t9",
+          "mn19:20.2.t10",
+          "mn19:20.2.t11",
+          "mn19:20.2.t12",
+          "mn19:20.2.t13",
+          "mn19:20.2.t14",
+          "mn19:20.2.t15",
+          "mn19:20.2.t16",
+          "mn19:20.2.t17",
+          "mn19:20.2.t18",
+          "mn19:20.2.t19",
+          "mn19:20.2.t20",
+          "mn19:20.2.t21",
+          "mn19:20.2.t22",
+          "mn19:20.2.t23",
+          "mn19:20.2.t24",
+          "mn19:20.2.t25",
+          "mn19:20.2.t26",
+          "mn19:20.2.t27",
+          "mn19:20.2.t28",
+          "mn19:20.2.t29",
+          "mn19:20.2.t30",
+          "mn19:20.2.t31",
+          "mn19:20.2.t32",
+          "mn19:20.2.t33",
+          "mn19:20.2.t34"
+        ],
+        "review_status": "approved",
+        "content": "他以清淨的、超越人的天眼，見到有情們正在死去、正在受生……這些諸位有情具足身惡行……如此，以清淨的、超越人的天眼，見到有情們正在死去、正在受生——低下的、殊勝的、容色好的、容色差的、往善趣的、往惡趣的——他了知有情們各依其業而趨向。"
+      }
     },
     {
       "segment_id": "mn19:21.1",
@@ -29795,7 +30123,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:21.1.t0",
+          "mn19:21.1.t1",
+          "mn19:21.1.t2",
+          "mn19:21.1.t3",
+          "mn19:21.1.t4",
+          "mn19:21.1.t5",
+          "mn19:21.1.t6",
+          "mn19:21.1.t7",
+          "mn19:21.1.t8",
+          "mn19:21.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，這確實是在我的中夜分，第二明已獲得。"
+      }
     },
     {
       "segment_id": "mn19:21.2",
@@ -30463,7 +30807,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:21.2.t0",
+          "mn19:21.2.t1",
+          "mn19:21.2.t2",
+          "mn19:21.2.t3",
+          "mn19:21.2.t4",
+          "mn19:21.2.t5",
+          "mn19:21.2.t6",
+          "mn19:21.2.t7",
+          "mn19:21.2.t8",
+          "mn19:21.2.t9",
+          "mn19:21.2.t10",
+          "mn19:21.2.t11",
+          "mn19:21.2.t12",
+          "mn19:21.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "無明已被摧滅，明已生起；黑暗已被摧滅，光明已生起——如同那不放逸、精勤、決意精進而住者所當有的。"
+      }
     },
     {
       "segment_id": "mn19:22.1",
@@ -31226,7 +31590,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:22.1.t0",
+          "mn19:22.1.t1",
+          "mn19:22.1.t2",
+          "mn19:22.1.t3",
+          "mn19:22.1.t4",
+          "mn19:22.1.t5",
+          "mn19:22.1.t6",
+          "mn19:22.1.t7",
+          "mn19:22.1.t8",
+          "mn19:22.1.t9",
+          "mn19:22.1.t10",
+          "mn19:22.1.t11",
+          "mn19:22.1.t12",
+          "mn19:22.1.t13",
+          "mn19:22.1.t14",
+          "mn19:22.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "如此，當心已入定、完全清淨、完全光淨、無垢、已離諸隨雜染、柔軟、堪任、穩固、抵達不動，他將心導向漏盡智。"
+      }
     },
     {
       "segment_id": "mn19:22.2",
@@ -32000,7 +32386,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn19:22.2.t0",
+          "mn19:22.2.t1",
+          "mn19:22.2.t3",
+          "mn19:22.2.t4",
+          "mn19:22.2.t5",
+          "mn19:22.2.t6",
+          "mn19:22.2.t7",
+          "mn19:22.2.t8",
+          "mn19:22.2.t9",
+          "mn19:22.2.t10",
+          "mn19:22.2.t11",
+          "mn19:22.2.t12",
+          "mn19:22.2.t13",
+          "mn19:22.2.t14",
+          "mn19:22.2.t15",
+          "mn19:22.2.t16",
+          "mn19:22.2.t17",
+          "mn19:22.2.t18",
+          "mn19:22.2.t19",
+          "mn19:22.2.t20",
+          "mn19:22.2.t21"
+        ],
+        "review_status": "approved",
+        "content": "他如實直接證知「此是苦」，如實直接證知「此是苦集」，如實直接證知「此是苦滅」，如實直接證知「此是導向苦滅之道」。"
+      }
     },
     {
       "segment_id": "mn19:23.1",

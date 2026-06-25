@@ -31322,7 +31322,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.22.t0",
+          "mn25:6.22.t1",
+          "mn25:6.22.t2",
+          "mn25:6.22.t3",
+          "mn25:6.22.t4",
+          "mn25:6.22.t5",
+          "mn25:6.22.t6",
+          "mn25:6.22.t7",
+          "mn25:6.22.t8",
+          "mn25:6.22.t9",
+          "mn25:6.22.t10",
+          "mn25:6.22.t11",
+          "mn25:6.22.t12"
+        ],
+        "review_status": "approved",
+        "content": "「真是奸詐！這第三種鹿確實狡猾！真是神奇！這第三種鹿宛如精靈（parajanā）！牠們竟然取食這所謂散放的誘餌。」"
+      }
     },
     {
       "segment_id": "mn25:6.23",
@@ -31606,7 +31625,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.23.t0",
+          "mn25:6.23.t1",
+          "mn25:6.23.t2",
+          "mn25:6.23.t3",
+          "mn25:6.23.t4",
+          "mn25:6.23.t5",
+          "mn25:6.23.t6",
+          "mn25:6.23.t7"
+        ],
+        "review_status": "approved",
+        "content": "「然而我們既不知道牠們的來處，也不知道牠們的去處。」"
+      }
     },
     {
       "segment_id": "mn25:6.24",
@@ -32366,7 +32399,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.24.t1",
+          "mn25:6.24.t2",
+          "mn25:6.24.t3",
+          "mn25:6.24.t4",
+          "mn25:6.24.t5",
+          "mn25:6.24.t6",
+          "mn25:6.24.t7",
+          "mn25:6.24.t8",
+          "mn25:6.24.t9",
+          "mn25:6.24.t10",
+          "mn25:6.24.t11",
+          "mn25:6.24.t12",
+          "mn25:6.24.t13",
+          "mn25:6.24.t14",
+          "mn25:6.24.t15",
+          "mn25:6.24.t16",
+          "mn25:6.24.t17",
+          "mn25:6.24.t18",
+          "mn25:6.24.t20"
+        ],
+        "review_status": "approved",
+        "content": "「我們應以巨大的木柵欄將這散放的誘餌四面圍住，或許就能找出這第三種鹿的棲所，看在哪裡能捕獲牠們。」"
+      }
     },
     {
       "segment_id": "mn25:6.25",
@@ -32740,7 +32798,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.25.t0",
+          "mn25:6.25.t1",
+          "mn25:6.25.t2",
+          "mn25:6.25.t3",
+          "mn25:6.25.t4",
+          "mn25:6.25.t5",
+          "mn25:6.25.t6",
+          "mn25:6.25.t7",
+          "mn25:6.25.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他們便以巨大的木柵欄將那散放的誘餌四面圍住。」"
+      }
     },
     {
       "segment_id": "mn25:6.26",
@@ -33135,7 +33208,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.26.t0",
+          "mn25:6.26.t1",
+          "mn25:6.26.t2",
+          "mn25:6.26.t3",
+          "mn25:6.26.t4",
+          "mn25:6.26.t5",
+          "mn25:6.26.t6",
+          "mn25:6.26.t7",
+          "mn25:6.26.t8",
+          "mn25:6.26.t9",
+          "mn25:6.26.t10",
+          "mn25:6.26.t11",
+          "mn25:6.26.t12"
+        ],
+        "review_status": "approved",
+        "content": "「確實，獵人及其同夥看到了第三種鹿的棲所，以及牠們被捕獲的地方。」"
+      }
     },
     {
       "segment_id": "mn25:6.27",
@@ -33474,7 +33566,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.27.t0",
+          "mn25:6.27.t1",
+          "mn25:6.27.t2",
+          "mn25:6.27.t3",
+          "mn25:6.27.t4",
+          "mn25:6.27.t5",
+          "mn25:6.27.t6",
+          "mn25:6.27.t7"
+        ],
+        "review_status": "approved",
+        "content": "「就這樣，這第三種鹿，即使擁有神通之力，也未能從獵人手中逃脫。」"
+      }
     },
     {
       "segment_id": "mn25:6.28",
@@ -34917,7 +35023,51 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.28.t1",
+          "mn25:6.28.t2",
+          "mn25:6.28.t3",
+          "mn25:6.28.t4",
+          "mn25:6.28.t5",
+          "mn25:6.28.t6",
+          "mn25:6.28.t7",
+          "mn25:6.28.t9",
+          "mn25:6.28.t11",
+          "mn25:6.28.t12",
+          "mn25:6.28.t13",
+          "mn25:6.28.t14",
+          "mn25:6.28.t15",
+          "mn25:6.28.t16",
+          "mn25:6.28.t17",
+          "mn25:6.28.t18",
+          "mn25:6.28.t19",
+          "mn25:6.28.t20",
+          "mn25:6.28.t21",
+          "mn25:6.28.t22",
+          "mn25:6.28.t23",
+          "mn25:6.28.t24",
+          "mn25:6.28.t25",
+          "mn25:6.28.t26",
+          "mn25:6.28.t27",
+          "mn25:6.28.t28",
+          "mn25:6.28.t29",
+          "mn25:6.28.t30",
+          "mn25:6.28.t31",
+          "mn25:6.28.t32",
+          "mn25:6.28.t33",
+          "mn25:6.28.t34",
+          "mn25:6.28.t35",
+          "mn25:6.28.t36",
+          "mn25:6.28.t37",
+          "mn25:6.28.t38",
+          "mn25:6.28.t39",
+          "mn25:6.28.t40"
+        ],
+        "review_status": "approved",
+        "content": "「我們應在獵人及其同夥無法到達之處安頓下來。安頓好之後，取食那獵人散放的誘餌——不貼近他、不執取食物；如此取食時，不沉溺放縱，不陷入迷醉；保持警醒，不放逸；這樣就不會在那誘餌之處任由獵人擺佈。」"
+      }
     },
     {
       "segment_id": "mn25:6.29",
@@ -35179,7 +35329,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.29.t0",
+          "mn25:6.29.t1",
+          "mn25:6.29.t2",
+          "mn25:6.29.t3",
+          "mn25:6.29.t4",
+          "mn25:6.29.t5",
+          "mn25:6.29.t6",
+          "mn25:6.29.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他們便在獵人及其同夥無法到達之處安頓下來。」"
+      }
     },
     {
       "segment_id": "mn25:6.30",
@@ -36404,7 +36568,44 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.30.t1",
+          "mn25:6.30.t2",
+          "mn25:6.30.t3",
+          "mn25:6.30.t4",
+          "mn25:6.30.t5",
+          "mn25:6.30.t6",
+          "mn25:6.30.t7",
+          "mn25:6.30.t8",
+          "mn25:6.30.t9",
+          "mn25:6.30.t10",
+          "mn25:6.30.t11",
+          "mn25:6.30.t12",
+          "mn25:6.30.t13",
+          "mn25:6.30.t14",
+          "mn25:6.30.t15",
+          "mn25:6.30.t16",
+          "mn25:6.30.t17",
+          "mn25:6.30.t18",
+          "mn25:6.30.t19",
+          "mn25:6.30.t20",
+          "mn25:6.30.t21",
+          "mn25:6.30.t22",
+          "mn25:6.30.t23",
+          "mn25:6.30.t24",
+          "mn25:6.30.t25",
+          "mn25:6.30.t26",
+          "mn25:6.30.t27",
+          "mn25:6.30.t28",
+          "mn25:6.30.t29",
+          "mn25:6.30.t30",
+          "mn25:6.30.t31"
+        ],
+        "review_status": "approved",
+        "content": "「安頓好之後，他們取食了那獵人散放的誘餌——不貼近他、不執取食物；在那裡取食時，不沉溺放縱，不陷入迷醉；保持警醒，不放逸；終究沒有在那誘餌之處任由獵人擺佈。」"
+      }
     },
     {
       "segment_id": "mn25:6.31",
@@ -36567,7 +36768,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:6.31.t0",
+          "mn25:6.31.t1",
+          "mn25:6.31.t2",
+          "mn25:6.31.t3",
+          "mn25:6.31.t4",
+          "mn25:6.31.t5",
+          "mn25:6.31.t6"
+        ],
+        "review_status": "approved",
+        "content": "「那時，比丘們，獵人及其同夥心中生起了這樣的想法：」"
+      }
     },
     {
       "segment_id": "mn25:6.32",
@@ -78322,7 +78536,47 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:11.28.t1",
+          "mn25:11.28.t2",
+          "mn25:11.28.t3",
+          "mn25:11.28.t4",
+          "mn25:11.28.t5",
+          "mn25:11.28.t6",
+          "mn25:11.28.t7",
+          "mn25:11.28.t8",
+          "mn25:11.28.t9",
+          "mn25:11.28.t10",
+          "mn25:11.28.t11",
+          "mn25:11.28.t12",
+          "mn25:11.28.t13",
+          "mn25:11.28.t14",
+          "mn25:11.28.t15",
+          "mn25:11.28.t16",
+          "mn25:11.28.t17",
+          "mn25:11.28.t18",
+          "mn25:11.28.t19",
+          "mn25:11.28.t20",
+          "mn25:11.28.t21",
+          "mn25:11.28.t22",
+          "mn25:11.28.t23",
+          "mn25:11.28.t24",
+          "mn25:11.28.t25",
+          "mn25:11.28.t26",
+          "mn25:11.28.t27",
+          "mn25:11.28.t28",
+          "mn25:11.28.t29",
+          "mn25:11.28.t30",
+          "mn25:11.28.t31",
+          "mn25:11.28.t32",
+          "mn25:11.28.t33",
+          "mn25:11.28.t34"
+        ],
+        "review_status": "approved",
+        "content": "（他們）籌謀：那魔羅所散放的誘餌，以及那些世間誘惑——我們將不深入其中、不執迷地享用食物；在不深入、不執迷地享用食物時，我們不將沉溺其中；保持未沉醉，不將放逸；保持不放逸，我們將不成為魔羅在那誘餌及世間誘惑中任意擺佈之人。"
+      }
     },
     {
       "segment_id": "mn25:11.29",
@@ -78584,7 +78838,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:11.29.t0",
+          "mn25:11.29.t1",
+          "mn25:11.29.t2",
+          "mn25:11.29.t3",
+          "mn25:11.29.t4",
+          "mn25:11.29.t5",
+          "mn25:11.29.t6",
+          "mn25:11.29.t8"
+        ],
+        "review_status": "approved",
+        "content": "他們在魔羅及魔羅眷屬無法抵達之處策劃了（此事）。"
+      }
     },
     {
       "segment_id": "mn25:11.30",
@@ -80000,7 +80268,49 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:11.30.t1",
+          "mn25:11.30.t2",
+          "mn25:11.30.t3",
+          "mn25:11.30.t4",
+          "mn25:11.30.t5",
+          "mn25:11.30.t6",
+          "mn25:11.30.t7",
+          "mn25:11.30.t8",
+          "mn25:11.30.t9",
+          "mn25:11.30.t10",
+          "mn25:11.30.t11",
+          "mn25:11.30.t12",
+          "mn25:11.30.t13",
+          "mn25:11.30.t14",
+          "mn25:11.30.t15",
+          "mn25:11.30.t16",
+          "mn25:11.30.t17",
+          "mn25:11.30.t18",
+          "mn25:11.30.t19",
+          "mn25:11.30.t20",
+          "mn25:11.30.t21",
+          "mn25:11.30.t22",
+          "mn25:11.30.t23",
+          "mn25:11.30.t24",
+          "mn25:11.30.t25",
+          "mn25:11.30.t26",
+          "mn25:11.30.t27",
+          "mn25:11.30.t28",
+          "mn25:11.30.t29",
+          "mn25:11.30.t30",
+          "mn25:11.30.t31",
+          "mn25:11.30.t32",
+          "mn25:11.30.t33",
+          "mn25:11.30.t34",
+          "mn25:11.30.t35",
+          "mn25:11.30.t36"
+        ],
+        "review_status": "approved",
+        "content": "籌謀之後，他們不深入其中、不執迷地享用了那魔羅所散放的誘餌及那些世間誘惑之食。他們在那裡不深入、不執迷地享用食物時，未遭遇沉溺；保持未沉醉，未遭遇放逸；保持不放逸，在那誘餌及那些世間誘惑中，未成為魔羅任意擺佈之人。"
+      }
     },
     {
       "segment_id": "mn25:11.31",
@@ -80353,7 +80663,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:11.31.t0",
+          "mn25:11.31.t1",
+          "mn25:11.31.t2",
+          "mn25:11.31.t3",
+          "mn25:11.31.t4",
+          "mn25:11.31.t5",
+          "mn25:11.31.t6",
+          "mn25:11.31.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就這樣，那些第四類沙門婆羅門憑藉神通力從魔羅（的掌控）中解脫了。"
+      }
     },
     {
       "segment_id": "mn25:11.32",
@@ -80845,7 +81169,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:11.32.t0",
+          "mn25:11.32.t1",
+          "mn25:11.32.t2",
+          "mn25:11.32.t3",
+          "mn25:11.32.t4",
+          "mn25:11.32.t5",
+          "mn25:11.32.t6",
+          "mn25:11.32.t7",
+          "mn25:11.32.t8",
+          "mn25:11.32.t9",
+          "mn25:11.32.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，就如同那第四類鹿群一樣，我也如此稱說這些第四類沙門婆羅門。"
+      }
     },
     {
       "segment_id": "mn25:12.1",
@@ -81046,7 +81387,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:12.1.t0",
+          "mn25:12.1.t1",
+          "mn25:12.1.t2",
+          "mn25:12.1.t3",
+          "mn25:12.1.t4",
+          "mn25:12.1.t5",
+          "mn25:12.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，那麼，如何（才能到達）魔羅及魔羅眷屬所無法抵達之處呢？"
+      }
     },
     {
       "segment_id": "mn25:12.2",
@@ -81741,7 +82095,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:12.2.t0",
+          "mn25:12.2.t1",
+          "mn25:12.2.t2",
+          "mn25:12.2.t3",
+          "mn25:12.2.t4",
+          "mn25:12.2.t5",
+          "mn25:12.2.t6",
+          "mn25:12.2.t7",
+          "mn25:12.2.t8",
+          "mn25:12.2.t9",
+          "mn25:12.2.t10",
+          "mn25:12.2.t11",
+          "mn25:12.2.t12",
+          "mn25:12.2.t13",
+          "mn25:12.2.t14",
+          "mn25:12.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，在此，比丘遠離感官欲樂，遠離不善法，成就並安住於有尋有伺、由遠離所生的喜樂之初禪。"
+      }
     },
     {
       "segment_id": "mn25:12.3",
@@ -82796,7 +83172,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:13.1.t0",
+          "mn25:13.1.t1",
+          "mn25:13.1.t2",
+          "mn25:13.1.t3",
+          "mn25:13.1.t4",
+          "mn25:13.1.t5",
+          "mn25:13.1.t6",
+          "mn25:13.1.t7",
+          "mn25:13.1.t8",
+          "mn25:13.1.t9",
+          "mn25:13.1.t10",
+          "mn25:13.1.t11",
+          "mn25:13.1.t12",
+          "mn25:13.1.t13",
+          "mn25:13.1.t14",
+          "mn25:13.1.t15",
+          "mn25:13.1.t16",
+          "mn25:13.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘由於尋與伺的平息、內心的清淨、心的一境性，成就並安住於無尋無伺、由定所生的喜樂之第二禪。"
+      }
     },
     {
       "segment_id": "mn25:13.2",
@@ -83042,7 +83442,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:13.2.t0",
+          "mn25:13.2.t1",
+          "mn25:13.2.t2",
+          "mn25:13.2.t3",
+          "mn25:13.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，這位比丘（也）被稱為……（略）……惡魔（無法企及）之人。"
+      }
     },
     {
       "segment_id": "mn25:14.1",
@@ -84089,7 +84500,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:14.1.t0",
+          "mn25:14.1.t1",
+          "mn25:14.1.t2",
+          "mn25:14.1.t3",
+          "mn25:14.1.t4",
+          "mn25:14.1.t5",
+          "mn25:14.1.t6",
+          "mn25:14.1.t7",
+          "mn25:14.1.t8",
+          "mn25:14.1.t9",
+          "mn25:14.1.t10",
+          "mn25:14.1.t11",
+          "mn25:14.1.t12",
+          "mn25:14.1.t13",
+          "mn25:14.1.t14",
+          "mn25:14.1.t15",
+          "mn25:14.1.t16",
+          "mn25:14.1.t17",
+          "mn25:14.1.t18",
+          "mn25:14.1.t19",
+          "mn25:14.1.t20",
+          "mn25:14.1.t21",
+          "mn25:14.1.t22",
+          "mn25:14.1.t23",
+          "mn25:14.1.t24",
+          "mn25:14.1.t25",
+          "mn25:14.1.t26",
+          "mn25:14.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘由於喜的褪去，安住於捨，且具正知，以身親自體驗那種樂——諸聖者稱此人為「具捨、有念、樂住者」——進入並安住於第三禪。"
+      }
     },
     {
       "segment_id": "mn25:14.2",
@@ -84335,7 +84780,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:14.2.t0",
+          "mn25:14.2.t1",
+          "mn25:14.2.t2",
+          "mn25:14.2.t3",
+          "mn25:14.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此謂……（省略中間文字）……惡者（魔羅）。"
+      }
     },
     {
       "segment_id": "mn25:15.1",
@@ -85081,7 +85537,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:15.1.t0",
+          "mn25:15.1.t1",
+          "mn25:15.1.t2",
+          "mn25:15.1.t3",
+          "mn25:15.1.t4",
+          "mn25:15.1.t5",
+          "mn25:15.1.t6",
+          "mn25:15.1.t7",
+          "mn25:15.1.t8",
+          "mn25:15.1.t9",
+          "mn25:15.1.t10",
+          "mn25:15.1.t11",
+          "mn25:15.1.t12",
+          "mn25:15.1.t13",
+          "mn25:15.1.t14",
+          "mn25:15.1.t15",
+          "mn25:15.1.t16",
+          "mn25:15.1.t17",
+          "mn25:15.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘由於捨棄樂、捨棄苦，且先前已令喜悅與憂苦消滅，進入並安住於不苦不樂、捨念清淨的第四禪。"
+      }
     },
     {
       "segment_id": "mn25:15.2",
@@ -85327,7 +85808,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:15.2.t0",
+          "mn25:15.2.t1",
+          "mn25:15.2.t2",
+          "mn25:15.2.t3",
+          "mn25:15.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此謂……（省略中間文字）……惡者（魔羅）。"
+      }
     },
     {
       "segment_id": "mn25:16.1",
@@ -85792,7 +86284,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:16.1.t0",
+          "mn25:16.1.t1",
+          "mn25:16.1.t2",
+          "mn25:16.1.t3",
+          "mn25:16.1.t4",
+          "mn25:16.1.t5",
+          "mn25:16.1.t6",
+          "mn25:16.1.t7",
+          "mn25:16.1.t8",
+          "mn25:16.1.t9",
+          "mn25:16.1.t10",
+          "mn25:16.1.t11",
+          "mn25:16.1.t12",
+          "mn25:16.1.t13",
+          "mn25:16.1.t14",
+          "mn25:16.1.t15",
+          "mn25:16.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘全面超越色想，令有對想消滅，不作意種種想，以「虛空無邊」之念，進入並安住於空無邊處。"
+      }
     },
     {
       "segment_id": "mn25:16.2",
@@ -86038,7 +86553,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:16.2.t0",
+          "mn25:16.2.t1",
+          "mn25:16.2.t2",
+          "mn25:16.2.t3",
+          "mn25:16.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此謂……（省略中間文字）……惡者（魔羅）。"
+      }
     },
     {
       "segment_id": "mn25:17.1",
@@ -86349,7 +86875,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:17.1.t0",
+          "mn25:17.1.t1",
+          "mn25:17.1.t2",
+          "mn25:17.1.t3",
+          "mn25:17.1.t4",
+          "mn25:17.1.t5",
+          "mn25:17.1.t6",
+          "mn25:17.1.t7",
+          "mn25:17.1.t9",
+          "mn25:17.1.t10",
+          "mn25:17.1.t11",
+          "mn25:17.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘全面超越空無邊處，以「識無邊」之念，進入並安住於識無邊處。"
+      }
     },
     {
       "segment_id": "mn25:17.2",
@@ -86595,7 +87139,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:17.2.t0",
+          "mn25:17.2.t1",
+          "mn25:17.2.t2",
+          "mn25:17.2.t3",
+          "mn25:17.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此謂……（省略中間文字）……惡者（魔羅）。"
+      }
     },
     {
       "segment_id": "mn25:18.1",
@@ -86879,7 +87434,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:18.1.t0",
+          "mn25:18.1.t1",
+          "mn25:18.1.t2",
+          "mn25:18.1.t3",
+          "mn25:18.1.t4",
+          "mn25:18.1.t5",
+          "mn25:18.1.t6",
+          "mn25:18.1.t7",
+          "mn25:18.1.t9",
+          "mn25:18.1.t10",
+          "mn25:18.1.t11",
+          "mn25:18.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，比丘全面超越識無邊處，以「無所有」之念，進入並安住於無所有處。"
+      }
     },
     {
       "segment_id": "mn25:18.2",
@@ -87125,7 +87698,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn25:18.2.t0",
+          "mn25:18.2.t1",
+          "mn25:18.2.t2",
+          "mn25:18.2.t3",
+          "mn25:18.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，此謂……（省略中間文字）……惡者（魔羅）。"
+      }
     },
     {
       "segment_id": "mn25:19.1",

@@ -4674,7 +4674,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:3.1.t0",
+          "mn14:3.1.t1",
+          "mn14:3.1.t2",
+          "mn14:3.1.t3",
+          "mn14:3.1.t4",
+          "mn14:3.1.t5",
+          "mn14:3.1.t6",
+          "mn14:3.1.t7",
+          "mn14:3.1.t8",
+          "mn14:3.1.t9",
+          "mn14:3.1.t10",
+          "mn14:3.1.t11",
+          "mn14:3.1.t12",
+          "mn14:3.1.t13",
+          "mn14:3.1.t14",
+          "mn14:3.1.t15",
+          "mn14:3.1.t16",
+          "mn14:3.1.t17",
+          "mn14:3.1.t18",
+          "mn14:3.1.t19",
+          "mn14:3.1.t20",
+          "mn14:3.1.t21",
+          "mn14:3.1.t22"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，確實，那樣性質的（法）在你內在尚未捨棄——因此有時貪的諸法也佔據心而住立，瞋的諸法也佔據心而住立，癡的諸法也佔據心而住立。"
+      }
     },
     {
       "segment_id": "mn14:3.2",
@@ -5163,7 +5192,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:3.2.t0",
+          "mn14:3.2.t1",
+          "mn14:3.2.t2",
+          "mn14:3.2.t3",
+          "mn14:3.2.t4",
+          "mn14:3.2.t5",
+          "mn14:3.2.t6",
+          "mn14:3.2.t7",
+          "mn14:3.2.t8",
+          "mn14:3.2.t9",
+          "mn14:3.2.t10",
+          "mn14:3.2.t11",
+          "mn14:3.2.t12",
+          "mn14:3.2.t13",
+          "mn14:3.2.t14",
+          "mn14:3.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，若那（法）在你內在已被捨棄，你便不會居住於家中，也不會受用諸欲了。"
+      }
     },
     {
       "segment_id": "mn14:3.3",
@@ -5679,7 +5730,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:3.3.t0",
+          "mn14:3.3.t1",
+          "mn14:3.3.t2",
+          "mn14:3.3.t3",
+          "mn14:3.3.t4",
+          "mn14:3.3.t5",
+          "mn14:3.3.t6",
+          "mn14:3.3.t7",
+          "mn14:3.3.t8",
+          "mn14:3.3.t9",
+          "mn14:3.3.t10",
+          "mn14:3.3.t11",
+          "mn14:3.3.t12",
+          "mn14:3.3.t13",
+          "mn14:3.3.t14",
+          "mn14:3.3.t15"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，正因為那（法）在你內在尚未捨棄，所以你才居住於家中，受用諸欲。"
+      }
     },
     {
       "segment_id": "mn14:4.1",
@@ -6035,7 +6108,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:4.1.t0",
+          "mn14:4.1.t1",
+          "mn14:4.1.t2",
+          "mn14:4.1.t3",
+          "mn14:4.1.t4",
+          "mn14:4.1.t5",
+          "mn14:4.1.t6",
+          "mn14:4.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "「諸欲少樂多苦多惱，此中過患更甚。」"
+      }
     },
     {
       "segment_id": "mn14:4.2",
@@ -6894,7 +6981,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:4.2.t0",
+          "mn14:4.2.t1",
+          "mn14:4.2.t2",
+          "mn14:4.2.t3",
+          "mn14:4.2.t4",
+          "mn14:4.2.t5",
+          "mn14:4.2.t6",
+          "mn14:4.2.t7",
+          "mn14:4.2.t8",
+          "mn14:4.2.t9",
+          "mn14:4.2.t10",
+          "mn14:4.2.t11",
+          "mn14:4.2.t12",
+          "mn14:4.2.t13",
+          "mn14:4.2.t14",
+          "mn14:4.2.t15",
+          "mn14:4.2.t16",
+          "mn14:4.2.t17",
+          "mn14:4.2.t18",
+          "mn14:4.2.t19",
+          "mn14:4.2.t20"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，即使聖弟子如實以正慧善見此義，但若他尚未獲得遠離諸欲、遠離不善法的喜樂，或比那更寂靜的（喜樂），"
+      }
     },
     {
       "segment_id": "mn14:4.3",
@@ -7155,7 +7269,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:4.3.t0",
+          "mn14:4.3.t1",
+          "mn14:4.3.t2",
+          "mn14:4.3.t3",
+          "mn14:4.3.t4",
+          "mn14:4.3.t5",
+          "mn14:4.3.t6",
+          "mn14:4.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "那時，他確實尚不是於諸欲中不回轉者。"
+      }
     },
     {
       "segment_id": "mn14:4.4",
@@ -8430,7 +8558,44 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:4.4.t0",
+          "mn14:4.4.t1",
+          "mn14:4.4.t2",
+          "mn14:4.4.t3",
+          "mn14:4.4.t4",
+          "mn14:4.4.t5",
+          "mn14:4.4.t6",
+          "mn14:4.4.t7",
+          "mn14:4.4.t8",
+          "mn14:4.4.t9",
+          "mn14:4.4.t10",
+          "mn14:4.4.t11",
+          "mn14:4.4.t12",
+          "mn14:4.4.t13",
+          "mn14:4.4.t14",
+          "mn14:4.4.t15",
+          "mn14:4.4.t16",
+          "mn14:4.4.t17",
+          "mn14:4.4.t18",
+          "mn14:4.4.t19",
+          "mn14:4.4.t20",
+          "mn14:4.4.t21",
+          "mn14:4.4.t22",
+          "mn14:4.4.t23",
+          "mn14:4.4.t24",
+          "mn14:4.4.t25",
+          "mn14:4.4.t26",
+          "mn14:4.4.t27",
+          "mn14:4.4.t28",
+          "mn14:4.4.t29",
+          "mn14:4.4.t30"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，當聖弟子如實以正慧善見「諸欲少樂多苦多惱，此中過患更甚」，且他已獲得遠離諸欲、遠離不善法的喜樂，或比那更寂靜的（喜樂），"
+      }
     },
     {
       "segment_id": "mn14:4.5",
@@ -8628,7 +8793,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:4.5.t0",
+          "mn14:4.5.t1",
+          "mn14:4.5.t2",
+          "mn14:4.5.t3",
+          "mn14:4.5.t4",
+          "mn14:4.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "那時，他確實成為於諸欲中不回轉者。"
+      }
     },
     {
       "segment_id": "mn14:5.1",
@@ -8953,7 +9130,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:5.1.t0",
+          "mn14:5.1.t1",
+          "mn14:5.1.t2",
+          "mn14:5.1.t3",
+          "mn14:5.1.t4",
+          "mn14:5.1.t5",
+          "mn14:5.1.t6",
+          "mn14:5.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，對我而言也，在正覺之前，當我還是尚未完全覺悟的菩薩自身時，"
+      }
     },
     {
       "segment_id": "mn14:5.2",
@@ -9482,7 +9673,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:5.2.t0",
+          "mn14:5.2.t1",
+          "mn14:5.2.t2",
+          "mn14:5.2.t3",
+          "mn14:5.2.t4",
+          "mn14:5.2.t5",
+          "mn14:5.2.t6",
+          "mn14:5.2.t7",
+          "mn14:5.2.t8",
+          "mn14:5.2.t9",
+          "mn14:5.2.t10",
+          "mn14:5.2.t11",
+          "mn14:5.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "「諸欲少樂多苦多惱，此中過患更甚」——如是如實以正慧善見的。"
+      }
     },
     {
       "segment_id": "mn14:5.3",
@@ -16619,7 +16829,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:8.1.t0",
+          "mn14:8.1.t1",
+          "mn14:8.1.t2",
+          "mn14:8.1.t3",
+          "mn14:8.1.t4",
+          "mn14:8.1.t5",
+          "mn14:8.1.t6",
+          "mn14:8.1.t7",
+          "mn14:8.1.t8",
+          "mn14:8.1.t9",
+          "mn14:8.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，若那位善家之子如此奮起、努力、精進，卻未能成就財富——"
+      }
     },
     {
       "segment_id": "mn14:8.2",
@@ -17113,7 +17340,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:8.2.t0",
+          "mn14:8.2.t1",
+          "mn14:8.2.t2",
+          "mn14:8.2.t3",
+          "mn14:8.2.t4",
+          "mn14:8.2.t5",
+          "mn14:8.2.t6",
+          "mn14:8.2.t7",
+          "mn14:8.2.t8",
+          "mn14:8.2.t9",
+          "mn14:8.2.t10",
+          "mn14:8.2.t11",
+          "mn14:8.2.t12",
+          "mn14:8.2.t13",
+          "mn14:8.2.t14",
+          "mn14:8.2.t15",
+          "mn14:8.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "他憂愁、疲憊、哀嚎、捶胸哭號，陷入迷惑，〔心中嘆道：〕「唉！我的奮起徒然無果，唉！我的努力白費無益！」"
+      }
     },
     {
       "segment_id": "mn14:8.3",
@@ -17473,7 +17723,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:8.3.t0",
+          "mn14:8.3.t1",
+          "mn14:8.3.t2",
+          "mn14:8.3.t3",
+          "mn14:8.3.t4",
+          "mn14:8.3.t5",
+          "mn14:8.3.t6",
+          "mn14:8.3.t7",
+          "mn14:8.3.t8",
+          "mn14:8.3.t9",
+          "mn14:8.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，這也是諸欲當下現見的過患——苦的聚積，以欲為因、以欲為緣、以欲為本，正是欲的緣故。"
+      }
     },
     {
       "segment_id": "mn14:9.1",
@@ -17931,7 +18198,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.1.t0",
+          "mn14:9.1.t1",
+          "mn14:9.1.t2",
+          "mn14:9.1.t3",
+          "mn14:9.1.t4",
+          "mn14:9.1.t5",
+          "mn14:9.1.t6",
+          "mn14:9.1.t7",
+          "mn14:9.1.t8",
+          "mn14:9.1.t9",
+          "mn14:9.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，若那位善家之子如此奮起、努力、精進，那些財富得以成就——"
+      }
     },
     {
       "segment_id": "mn14:9.2",
@@ -18236,7 +18520,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.2.t0",
+          "mn14:9.2.t1",
+          "mn14:9.2.t2",
+          "mn14:9.2.t3",
+          "mn14:9.2.t4",
+          "mn14:9.2.t5",
+          "mn14:9.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "他為了守護那些財富，感受苦與憂。"
+      }
     },
     {
       "segment_id": "mn14:9.3",
@@ -19003,7 +19300,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.3.t0",
+          "mn14:9.3.t1",
+          "mn14:9.3.t2",
+          "mn14:9.3.t3",
+          "mn14:9.3.t4",
+          "mn14:9.3.t5",
+          "mn14:9.3.t6",
+          "mn14:9.3.t7",
+          "mn14:9.3.t8",
+          "mn14:9.3.t9",
+          "mn14:9.3.t10",
+          "mn14:9.3.t11",
+          "mn14:9.3.t12",
+          "mn14:9.3.t13",
+          "mn14:9.3.t14",
+          "mn14:9.3.t15",
+          "mn14:9.3.t16",
+          "mn14:9.3.t17",
+          "mn14:9.3.t18",
+          "mn14:9.3.t20"
+        ],
+        "review_status": "approved",
+        "content": "〔憂思：〕「如何讓我的財富不被諸王奪走、不被盜賊奪走、不被火燒毀、不被水沖走，也不落入不親愛的繼承人手中？」"
+      }
     },
     {
       "segment_id": "mn14:9.4",
@@ -20004,7 +20327,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.4.t0",
+          "mn14:9.4.t1",
+          "mn14:9.4.t2",
+          "mn14:9.4.t3",
+          "mn14:9.4.t4",
+          "mn14:9.4.t5",
+          "mn14:9.4.t6",
+          "mn14:9.4.t7",
+          "mn14:9.4.t8",
+          "mn14:9.4.t9",
+          "mn14:9.4.t10",
+          "mn14:9.4.t11",
+          "mn14:9.4.t12",
+          "mn14:9.4.t13",
+          "mn14:9.4.t14",
+          "mn14:9.4.t15",
+          "mn14:9.4.t16",
+          "mn14:9.4.t17",
+          "mn14:9.4.t18",
+          "mn14:9.4.t19",
+          "mn14:9.4.t20",
+          "mn14:9.4.t21"
+        ],
+        "review_status": "approved",
+        "content": "他如此守護、看顧那些財富，那些財富仍被諸王奪走，或被盜賊奪走，或被火燒毀，或被水沖走，或被不親愛的繼承人奪走。"
+      }
     },
     {
       "segment_id": "mn14:9.5",
@@ -20158,7 +20509,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.5.t0",
+          "mn14:9.5.t1",
+          "mn14:9.5.t2",
+          "mn14:9.5.t3",
+          "mn14:9.5.t4",
+          "mn14:9.5.t5",
+          "mn14:9.5.t6",
+          "mn14:9.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他憂愁、疲憊、哀嚎、捶胸哭號，陷入迷惑。"
+      }
     },
     {
       "segment_id": "mn14:9.6",
@@ -20483,7 +20848,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.6.t0",
+          "mn14:9.6.t1",
+          "mn14:9.6.t2",
+          "mn14:9.6.t3",
+          "mn14:9.6.t4",
+          "mn14:9.6.t5",
+          "mn14:9.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "〔嘆道：〕「凡是曾屬於我的，如今也已消逝不存了。」"
+      }
     },
     {
       "segment_id": "mn14:9.7",
@@ -20843,7 +21221,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:9.7.t0",
+          "mn14:9.7.t1",
+          "mn14:9.7.t2",
+          "mn14:9.7.t3",
+          "mn14:9.7.t4",
+          "mn14:9.7.t5",
+          "mn14:9.7.t6",
+          "mn14:9.7.t7",
+          "mn14:9.7.t8",
+          "mn14:9.7.t9",
+          "mn14:9.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，這也是諸欲當下現見的過患——苦的聚積，以欲為因、以欲為緣、以欲為本，正是欲的緣故。"
+      }
     },
     {
       "segment_id": "mn14:10.1",
@@ -25712,7 +26107,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:12.3.t0",
+          "mn14:12.3.t1",
+          "mn14:12.3.t2",
+          "mn14:12.3.t3",
+          "mn14:12.3.t4",
+          "mn14:12.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "他們在那裡也遭受死亡，乃至瀕死之苦。"
+      }
     },
     {
       "segment_id": "mn14:12.4",
@@ -26072,7 +26479,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:12.4.t0",
+          "mn14:12.4.t1",
+          "mn14:12.4.t2",
+          "mn14:12.4.t3",
+          "mn14:12.4.t4",
+          "mn14:12.4.t5",
+          "mn14:12.4.t6",
+          "mn14:12.4.t7",
+          "mn14:12.4.t8",
+          "mn14:12.4.t9",
+          "mn14:12.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，此亦是欲的現見過患——以欲為因、以欲為根源、以欲為因緣——因欲之苦蘊。"
+      }
     },
     {
       "segment_id": "mn14:13.1",
@@ -26488,7 +26912,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:13.1.t0",
+          "mn14:13.1.t1",
+          "mn14:13.1.t2",
+          "mn14:13.1.t3",
+          "mn14:13.1.t4",
+          "mn14:13.1.t5",
+          "mn14:13.1.t6",
+          "mn14:13.1.t7",
+          "mn14:13.1.t8",
+          "mn14:13.1.t9",
+          "mn14:13.1.t10",
+          "mn14:13.1.t11",
+          "mn14:13.1.t12",
+          "mn14:13.1.t13",
+          "mn14:13.1.t14",
+          "mn14:13.1.t15",
+          "mn14:13.1.t16",
+          "mn14:13.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "更進一步，摩訶男，因欲、以欲為根源、以欲為因緣，（他們）鑿壁而入、奪取劫品、入室搶劫、攔路伺劫、侵犯他人之妻。"
+      }
     },
     {
       "segment_id": "mn14:13.2",
@@ -26718,7 +27166,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:13.2.t0",
+          "mn14:13.2.t1",
+          "mn14:13.2.t2",
+          "mn14:13.2.t3",
+          "mn14:13.2.t4",
+          "mn14:13.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "對那個人，國王們捉拿後，施以各種刑罰。"
+      }
     },
     {
       "segment_id": "mn14:13.3",
@@ -28085,7 +28545,68 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:13.3.t0",
+          "mn14:13.3.t1",
+          "mn14:13.3.t2",
+          "mn14:13.3.t3",
+          "mn14:13.3.t4",
+          "mn14:13.3.t5",
+          "mn14:13.3.t6",
+          "mn14:13.3.t7",
+          "mn14:13.3.t8",
+          "mn14:13.3.t9",
+          "mn14:13.3.t10",
+          "mn14:13.3.t11",
+          "mn14:13.3.t12",
+          "mn14:13.3.t13",
+          "mn14:13.3.t14",
+          "mn14:13.3.t15",
+          "mn14:13.3.t16",
+          "mn14:13.3.t17",
+          "mn14:13.3.t18",
+          "mn14:13.3.t19",
+          "mn14:13.3.t20",
+          "mn14:13.3.t21",
+          "mn14:13.3.t22",
+          "mn14:13.3.t23",
+          "mn14:13.3.t24",
+          "mn14:13.3.t25",
+          "mn14:13.3.t26",
+          "mn14:13.3.t27",
+          "mn14:13.3.t28",
+          "mn14:13.3.t29",
+          "mn14:13.3.t30",
+          "mn14:13.3.t31",
+          "mn14:13.3.t32",
+          "mn14:13.3.t33",
+          "mn14:13.3.t34",
+          "mn14:13.3.t35",
+          "mn14:13.3.t36",
+          "mn14:13.3.t37",
+          "mn14:13.3.t38",
+          "mn14:13.3.t39",
+          "mn14:13.3.t40",
+          "mn14:13.3.t41",
+          "mn14:13.3.t42",
+          "mn14:13.3.t43",
+          "mn14:13.3.t44",
+          "mn14:13.3.t45",
+          "mn14:13.3.t46",
+          "mn14:13.3.t47",
+          "mn14:13.3.t48",
+          "mn14:13.3.t49",
+          "mn14:13.3.t50",
+          "mn14:13.3.t51",
+          "mn14:13.3.t52",
+          "mn14:13.3.t53",
+          "mn14:13.3.t54"
+        ],
+        "review_status": "approved",
+        "content": "以鞭抽打，以藤條抽打，以短棍抽打；截斷手，截斷腳，截斷手足，截斷耳，截斷鼻，截斷耳鼻；施以 bilaṅgathālikā、saṅkhamuṇḍika、rāhumukha、jotimālika、hatthapajjotika、erakavattika、cīrakavāsika、eṇeyyaka、baḷisamaṃsika、kahāpaṇika、khārāpatacchika、palighaparivattika、palālapīṭhaka 等諸種酷刑；以滾燙油澆淋；令狗啃噬；活活穿刺於尖樁；以劍斫首。"
+      }
     },
     {
       "segment_id": "mn14:13.4",
@@ -28309,7 +28830,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:13.4.t0",
+          "mn14:13.4.t1",
+          "mn14:13.4.t2",
+          "mn14:13.4.t3",
+          "mn14:13.4.t4",
+          "mn14:13.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他們在那裡也遭受死亡，乃至瀕死之苦。"
+      }
     },
     {
       "segment_id": "mn14:13.5",
@@ -28669,7 +29202,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:13.5.t0",
+          "mn14:13.5.t1",
+          "mn14:13.5.t2",
+          "mn14:13.5.t3",
+          "mn14:13.5.t4",
+          "mn14:13.5.t5",
+          "mn14:13.5.t6",
+          "mn14:13.5.t7",
+          "mn14:13.5.t8",
+          "mn14:13.5.t9",
+          "mn14:13.5.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，此亦是欲的現見過患——以欲為因、以欲為根源、以欲為因緣——因欲之苦蘊。"
+      }
     },
     {
       "segment_id": "mn14:14.1",
@@ -29303,7 +29853,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:14.1.t0",
+          "mn14:14.1.t1",
+          "mn14:14.1.t2",
+          "mn14:14.1.t3",
+          "mn14:14.1.t4",
+          "mn14:14.1.t5",
+          "mn14:14.1.t6",
+          "mn14:14.1.t7",
+          "mn14:14.1.t8",
+          "mn14:14.1.t9",
+          "mn14:14.1.t10",
+          "mn14:14.1.t11",
+          "mn14:14.1.t12",
+          "mn14:14.1.t13",
+          "mn14:14.1.t14",
+          "mn14:14.1.t15",
+          "mn14:14.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "更進一步，摩訶男，因欲、以欲為根源、以欲為因緣，（他們）以身行惡行，以語行惡行，以意行惡行。"
+      }
     },
     {
       "segment_id": "mn14:14.2",
@@ -30210,7 +30783,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:14.2.t0",
+          "mn14:14.2.t1",
+          "mn14:14.2.t2",
+          "mn14:14.2.t3",
+          "mn14:14.2.t4",
+          "mn14:14.2.t5",
+          "mn14:14.2.t6",
+          "mn14:14.2.t7",
+          "mn14:14.2.t8",
+          "mn14:14.2.t9",
+          "mn14:14.2.t10",
+          "mn14:14.2.t11",
+          "mn14:14.2.t12",
+          "mn14:14.2.t13",
+          "mn14:14.2.t14",
+          "mn14:14.2.t15",
+          "mn14:14.2.t16",
+          "mn14:14.2.t17",
+          "mn14:14.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "他們以身、語、意行惡行之後，身壞命終，投生於惡趣、惡道、墮落之處、地獄。"
+      }
     },
     {
       "segment_id": "mn14:14.3",
@@ -30570,7 +31168,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn14:14.3.t0",
+          "mn14:14.3.t1",
+          "mn14:14.3.t2",
+          "mn14:14.3.t3",
+          "mn14:14.3.t4",
+          "mn14:14.3.t5",
+          "mn14:14.3.t6",
+          "mn14:14.3.t7",
+          "mn14:14.3.t8",
+          "mn14:14.3.t9",
+          "mn14:14.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "摩訶男，此亦是欲的來世過患——以欲為因、以欲為根源、以欲為因緣——因欲之苦蘊。"
+      }
     },
     {
       "segment_id": "mn14:15.1",

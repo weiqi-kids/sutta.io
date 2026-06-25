@@ -12098,7 +12098,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.5.t0",
+          "mn21:6.5.t1",
+          "mn21:6.5.t2",
+          "mn21:6.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "「頗求那，你就應當如此修學。」"
+      }
     },
     {
       "segment_id": "mn21:6.6",
@@ -13259,7 +13269,44 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.6.t0",
+          "mn21:6.6.t1",
+          "mn21:6.6.t2",
+          "mn21:6.6.t3",
+          "mn21:6.6.t4",
+          "mn21:6.6.t5",
+          "mn21:6.6.t6",
+          "mn21:6.6.t7",
+          "mn21:6.6.t8",
+          "mn21:6.6.t9",
+          "mn21:6.6.t10",
+          "mn21:6.6.t11",
+          "mn21:6.6.t12",
+          "mn21:6.6.t13",
+          "mn21:6.6.t14",
+          "mn21:6.6.t15",
+          "mn21:6.6.t16",
+          "mn21:6.6.t17",
+          "mn21:6.6.t18",
+          "mn21:6.6.t19",
+          "mn21:6.6.t20",
+          "mn21:6.6.t21",
+          "mn21:6.6.t22",
+          "mn21:6.6.t23",
+          "mn21:6.6.t24",
+          "mn21:6.6.t25",
+          "mn21:6.6.t26",
+          "mn21:6.6.t27",
+          "mn21:6.6.t28",
+          "mn21:6.6.t29",
+          "mn21:6.6.t30"
+        ],
+        "review_status": "approved",
+        "content": "「因此，頗求那，即使有人當著你的面，用手打那些比丘尼、用土塊打、用棍棒打、用刀打，在那裡你也應當捨棄那些世俗的欲求與世俗的思惟。」"
+      }
     },
     {
       "segment_id": "mn21:6.7",
@@ -13438,7 +13485,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.7.t0",
+          "mn21:6.7.t1",
+          "mn21:6.7.t2",
+          "mn21:6.7.t3",
+          "mn21:6.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "「頗求那，在那裡你也應當如此修學。」"
+      }
     },
     {
       "segment_id": "mn21:6.8",
@@ -14165,7 +14223,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.9.t0",
+          "mn21:6.9.t1",
+          "mn21:6.9.t2",
+          "mn21:6.9.t3"
+        ],
+        "review_status": "approved",
+        "content": "「頗求那，你就應當如此修學。」"
+      }
     },
     {
       "segment_id": "mn21:6.10",
@@ -14996,7 +15064,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.10.t0",
+          "mn21:6.10.t1",
+          "mn21:6.10.t2",
+          "mn21:6.10.t3",
+          "mn21:6.10.t4",
+          "mn21:6.10.t5",
+          "mn21:6.10.t6",
+          "mn21:6.10.t7",
+          "mn21:6.10.t8",
+          "mn21:6.10.t9",
+          "mn21:6.10.t10",
+          "mn21:6.10.t11",
+          "mn21:6.10.t12",
+          "mn21:6.10.t13",
+          "mn21:6.10.t14",
+          "mn21:6.10.t15",
+          "mn21:6.10.t16",
+          "mn21:6.10.t17",
+          "mn21:6.10.t18"
+        ],
+        "review_status": "approved",
+        "content": "「因此，頗求那，即使有人當著你的面說出非難之語，在那裡你也應當捨棄那些世俗的欲求與世俗的思惟。」"
+      }
     },
     {
       "segment_id": "mn21:6.11",
@@ -15896,7 +15989,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.12.t0",
+          "mn21:6.12.t1",
+          "mn21:6.12.t2",
+          "mn21:6.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "「頗求那，你就應當如此修學。」"
+      }
     },
     {
       "segment_id": "mn21:6.13",
@@ -16910,7 +17013,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-4-6",
+        "grounded_on": [
+          "mn21:6.13.t0",
+          "mn21:6.13.t1",
+          "mn21:6.13.t2",
+          "mn21:6.13.t3",
+          "mn21:6.13.t4",
+          "mn21:6.13.t5",
+          "mn21:6.13.t6",
+          "mn21:6.13.t7",
+          "mn21:6.13.t8",
+          "mn21:6.13.t9",
+          "mn21:6.13.t10",
+          "mn21:6.13.t11",
+          "mn21:6.13.t12",
+          "mn21:6.13.t13",
+          "mn21:6.13.t14",
+          "mn21:6.13.t15",
+          "mn21:6.13.t16",
+          "mn21:6.13.t17",
+          "mn21:6.13.t18",
+          "mn21:6.13.t19",
+          "mn21:6.13.t20",
+          "mn21:6.13.t21",
+          "mn21:6.13.t22",
+          "mn21:6.13.t23",
+          "mn21:6.13.t24",
+          "mn21:6.13.t25",
+          "mn21:6.13.t26",
+          "mn21:6.13.t27"
+        ],
+        "review_status": "approved",
+        "content": "「因此，頗求那，即使有人用手打你、用土塊打你、用棍棒打你、用刀打你，在那裡你也應當捨棄那些世俗的欲求與世俗的思惟。」"
+      }
     },
     {
       "segment_id": "mn21:6.14",
