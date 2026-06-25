@@ -66,6 +66,9 @@ function meaningful(seg: Segment): boolean {
 export async function generate(id: string, opts: { limit?: number; batch?: number } = {}) {
   const sutta = loadSutta(id);
   const valid = buildValidSets(sutta);
+  // 每批 10 段（輸入最省：系統提示重送次數最少）。實測 10 段 ~342s 完成。
+  // 真正的修法是把 timeout 加長（見 claude.ts 900s），而非縮小批次——縮批會讓
+  // 系統提示被重送更多次、更耗輸入 token。
   const batch = opts.batch ?? 10;
 
   const store: DraftStore = loadDraft(id) ?? {
