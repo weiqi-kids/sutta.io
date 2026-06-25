@@ -58,6 +58,34 @@ function chunk<T>(arr: T[], n: number): T[][] {
   return out;
 }
 
+// T1 送出的 token 數（決定該段輸出量）。
+function tokenCount(seg: Segment): number {
+  return seg.pali_tokens.filter((t) => t.dpd_id != null || t.lemma).length;
+}
+
+// 依「總 token 預算」切批，而非固定段數：避免 token 密集段（如 mn12:18.2 有 104 token）
+// 湊成 10 段大批 → 輸出爆量 → 逾時浪費。每批 ≤MAX_TOK token 且 ≤MAX_SEG 段；
+// 單段即超預算者自成一批（至少 1 段）。實測 287 token≈342s，預算 200 留足餘裕。
+const MAX_TOK = 200;
+const MAX_SEG = 10;
+function chunkByTokenBudget(segs: Segment[]): Segment[][] {
+  const out: Segment[][] = [];
+  let cur: Segment[] = [];
+  let tok = 0;
+  for (const s of segs) {
+    const c = tokenCount(s);
+    if (cur.length > 0 && (tok + c > MAX_TOK || cur.length >= MAX_SEG)) {
+      out.push(cur);
+      cur = [];
+      tok = 0;
+    }
+    cur.push(s);
+    tok += c;
+  }
+  if (cur.length) out.push(cur);
+  return out;
+}
+
 // 只把有實質 token 的 segment 送 T1（純標點/空段跳過）
 function meaningful(seg: Segment): boolean {
   return seg.pali_tokens.some((t) => t.lemma || t.dpd_id != null);
@@ -66,10 +94,8 @@ function meaningful(seg: Segment): boolean {
 export async function generate(id: string, opts: { limit?: number; batch?: number } = {}) {
   const sutta = loadSutta(id);
   const valid = buildValidSets(sutta);
-  // 每批 10 段（輸入最省：系統提示重送次數最少）。實測 10 段 ~342s 完成。
-  // 真正的修法是把 timeout 加長（見 claude.ts 900s），而非縮小批次——縮批會讓
-  // 系統提示被重送更多次、更耗輸入 token。
-  const batch = opts.batch ?? 10;
+  // 批次大小改由 token 預算決定（見 chunkByTokenBudget）：密集段自動切小批、
+  // 稀疏段湊到 10 段，杜絕「大批爆量→逾時→浪費輸入 token」。opts.batch 已不再使用。
 
   const store: DraftStore = loadDraft(id) ?? {
     sutta_id: id,
@@ -84,8 +110,8 @@ export async function generate(id: string, opts: { limit?: number; batch?: numbe
   // ---- T1 漢譯白話（批次）----
   let segs = sutta.segments.filter(meaningful).filter((s) => !store.vernacular[s.segment_id]);
   if (opts.limit) segs = segs.slice(0, opts.limit);
-  const batches = chunk(segs, batch);
-  console.log(`T1 漢譯白話：${segs.length} 段 / ${batches.length} 批（已存 ${Object.keys(store.vernacular).length}）`);
+  const batches = chunkByTokenBudget(segs);
+  console.log(`T1 漢譯白話：${segs.length} 段 / ${batches.length} 批（依 token 預算切，每批≤${MAX_TOK} token；已存 ${Object.keys(store.vernacular).length}）`);
 
   for (let b = 0; b < batches.length; b++) {
     const input = {
