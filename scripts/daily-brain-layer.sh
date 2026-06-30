@@ -97,7 +97,7 @@ PROMPTEOF
 )"
 
 CLAUDE_OK=1
-timeout 3600 claude -p "$PROMPT" --model claude-sonnet-4-6 2>&1 \
+timeout 3600 claude -p "$PROMPT" --model claude-sonnet-5 2>&1 \
   || { CLAUDE_OK=0; echo "[brain] claude 執行失敗或逾時"; }
 
 # 失敗保底通報：claude 整段失敗/逾時時內部 Slack 多半沒跑到 → 補一則 🔴。DRY_RUN 不發。
