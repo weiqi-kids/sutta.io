@@ -152,9 +152,121 @@
     "hasParallel": true
   },
   {
+    "id": "mn26",
+    "title_pali": "MN26",
+    "title_zh": "mn26",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn27",
+    "title_pali": "MN27",
+    "title_zh": "mn27",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn28",
+    "title_pali": "MN28",
+    "title_zh": "mn28",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn29",
+    "title_pali": "MN29",
+    "title_zh": "mn29",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
     "id": "mn2",
     "title_pali": "Sabbāsavasutta",
     "title_zh": "一切漏經",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn30",
+    "title_pali": "MN30",
+    "title_zh": "mn30",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn31",
+    "title_pali": "MN31",
+    "title_zh": "mn31",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn32",
+    "title_pali": "MN32",
+    "title_zh": "mn32",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn33",
+    "title_pali": "MN33",
+    "title_zh": "mn33",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn34",
+    "title_pali": "MN34",
+    "title_zh": "mn34",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn35",
+    "title_pali": "MN35",
+    "title_zh": "mn35",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn36",
+    "title_pali": "MN36",
+    "title_zh": "mn36",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn37",
+    "title_pali": "MN37",
+    "title_zh": "mn37",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn38",
+    "title_pali": "MN38",
+    "title_zh": "mn38",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn39",
+    "title_pali": "MN39",
+    "title_zh": "mn39",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -166,6 +278,30 @@
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
+  },
+  {
+    "id": "mn40",
+    "title_pali": "MN40",
+    "title_zh": "mn40",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": true
+  },
+  {
+    "id": "mn41",
+    "title_pali": "MN41",
+    "title_zh": "mn41",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
+  },
+  {
+    "id": "mn42",
+    "title_pali": "MN42",
+    "title_zh": "mn42",
+    "collection": "Majjhima Nikāya",
+    "collection_zh": "中部",
+    "hasParallel": false
   },
   {
     "id": "mn4",

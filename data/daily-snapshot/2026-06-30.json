@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-30",
+  "fetched": [
+    {
+      "id": "mn31",
+      "segs": 145,
+      "tok": 1379,
+      "noEntry": 0,
+      "amb": 1008,
+      "agama": true
+    },
+    {
+      "id": "mn32",
+      "segs": 166,
+      "tok": 1678,
+      "noEntry": 0,
+      "amb": 964,
+      "agama": true
+    },
+    {
+      "id": "mn33",
+      "segs": 116,
+      "tok": 1133,
+      "noEntry": 0,
+      "amb": 572,
+      "agama": false
+    },
+    {
+      "id": "mn34",
+      "segs": 50,
+      "tok": 528,
+      "noEntry": 0,
+      "amb": 381,
+      "agama": false
+    },
+    {
+      "id": "mn35",
+      "segs": 233,
+      "tok": 2310,
+      "noEntry": 0,
+      "amb": 1431,
+      "agama": false
+    },
+    {
+      "id": "mn36",
+      "segs": 358,
+      "tok": 3961,
+      "noEntry": 0,
+      "amb": 2411,
+      "agama": true
+    }
+  ],
+  "overall": {
+    "withL1": 38,
+    "complete": 27,
+    "total": 152,
+    "totalSeg": 6744
+  }
+}
