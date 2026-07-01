@@ -9,7 +9,7 @@
   "vars": {
     // 允許呼叫此 proxy 的來源（前端網域）。部署時改成你的網域。
     "ALLOWED_ORIGIN": "https://sutta.io",
-    "MODEL": "claude-sonnet-4-6",
+    "MODEL": "claude-sonnet-5",
     // 每 IP 每分鐘上限（簡易濫用防護；需綁定 KV）
     "RATE_LIMIT_PER_MIN": "15"
   },

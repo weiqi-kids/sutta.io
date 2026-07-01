@@ -140,7 +140,7 @@ build 產 L2 → review_status:"draft"
 
 ## 8. 模型與呼叫
 
-- 模型：`claude-sonnet-4-6`（build-time 批次）。
+- 模型：`claude-sonnet-5`（build-time 批次）。
 - 無 runtime 呼叫（A-3），故 V1 無需金鑰 proxy。
 - 呼叫於 build 機器執行(可用 **Claude Code/CLI** 當 build harness),金鑰留 CI/本機環境，不入靜態產物。
 - V2 若開對話/語意搜尋，再依 BACKLOG G-3 補 serverless proxy。

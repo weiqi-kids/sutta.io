@@ -12,7 +12,7 @@ import {
 } from './guardrails.ts';
 import { glossaryBlock } from './glossary.ts';
 
-export const MODEL = 'claude-sonnet-4-6';
+export const MODEL = 'claude-sonnet-5';
 // F-2：教義術語對照表注入 L2 prompt（T1/T2/T3），確保跨經譯名一致。
 const GLOSSARY = glossaryBlock();
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');

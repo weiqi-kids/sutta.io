@@ -20,7 +20,7 @@
 | **CBETA** | 漢譯阿含（中阿含）對照經文 | **CC BY-NC-SA 3.0 Taiwan** | **是** | **是** | **是** | https://www.cbeta.org |
 | **Malalasekera, DPPN**（透過 Bingenheimer glossaries） | 人地事專名 | 公共領域 | 否（建議署名） | 否 | 否 | https://github.com/mbingenheimer/buddhist_studies_glossaries |
 | **intfloat/multilingual-e5-small** | 離線語意搜尋嵌入模型（build + 瀏覽器端） | MIT | 是（含授權文字） | 否 | 否 | https://huggingface.co/intfloat/multilingual-e5-small |
-| **本站 L2/L3**（漢譯白話、概要、研經卡、用法摘要、策展重排） | AI 生成（claude-sonnet-4-6），grounded 於上述 | 站方自訂（見 §2.3 建議） | — | — | — | — |
+| **本站 L2/L3**（漢譯白話、概要、研經卡、用法摘要、策展重排） | AI 生成（claude-sonnet-5），grounded 於上述 | 站方自訂（見 §2.3 建議） | — | — | — | — |
 
 **結論：只有兩個來源帶實質義務 — DPD（BY-NC-SA 4.0）與 CBETA（BY-NC-SA 3.0-TW）。** 其餘為公共領域或寬鬆相容授權（CC0 / PD / MIT），與 BY-NC-SA 相容、不增加新限制。
 
@@ -114,7 +114,7 @@
 
 **本站事實認定**：
 - 本站**只使用 SuttaCentral 的 Mahāsaṅgīti 巴利「原典」（root text）＋ 其 segment 分段**——該底本為**公共領域 / CC0**，無逐譯文授權問題。
-- 本站的漢譯白話、概要、研經卡等是**站方自行 AI 生成**（claude-sonnet-4-6），**並未採用 SuttaCentral 的任何英譯／漢譯人工譯文**。此點已於 `about.astro` L61–65 明文聲明：「漢譯白話、概要、研經卡、用法摘要、策展重排為本站 AI 輔助生成……非採用任何第三方人工譯文，故無第三方譯文授權牽涉。」
+- 本站的漢譯白話、概要、研經卡等是**站方自行 AI 生成**（claude-sonnet-5），**並未採用 SuttaCentral 的任何英譯／漢譯人工譯文**。此點已於 `about.astro` L61–65 明文聲明：「漢譯白話、概要、研經卡、用法摘要、策展重排為本站 AI 輔助生成……非採用任何第三方人工譯文，故無第三方譯文授權牽涉。」
 - 漢譯對照採用的是 **CBETA 阿含**（已在 §1/§2 稽核），**非** SuttaCentral 的譯文。
 
 **結論**：**SuttaCentral 逐譯文授權稽核對本站 N/A**（僅用 CC0 原典 + 自有 AI 譯文 + CBETA 阿含）。BACKLOG F 中「per-translation 授權」一節**可標記為不適用並關閉**，唯一須持續守住的前提是：**站方不得日後改採 SuttaCentral 的人工譯文而未重做逐譯文授權稽核**——此前提建議寫入治理文件作為紅線。

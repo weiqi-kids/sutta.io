@@ -20,7 +20,7 @@ for (const seg of data.segments) {
   const content = G[seg.segment_id];
   if (content && typeof content === 'string' && content.trim() && !seg.vernacular_gloss) {
     const grounded = seg.pali_tokens.filter((t) => t.dpd_id != null || t.lemma).map((t) => t.token_id);
-    seg.vernacular_gloss = { generated_by: 'claude-sonnet-4-6', grounded_on: grounded, review_status: 'approved', content };
+    seg.vernacular_gloss = { generated_by: 'claude-sonnet-5', grounded_on: grounded, review_status: 'approved', content };
     written++;
   } else if (content && seg.vernacular_gloss) { skipped++; }
 }
