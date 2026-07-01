@@ -27,6 +27,17 @@ const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || Boolean(
 const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
+// Per-term title/description (was one generic sentence shared site-wide — high impressions, zero clicks; now built from existing entry.gloss / entity.name_zh so each page matches its own query terms)
+const meaning = entity?.name_zh ?? entry?.gloss ?? '';
+const pageTitle = meaning ? `${headword} (${meaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
+const pageDesc = meaning ? `${headword}, meaning "${meaning}". ${t.lexicon.desc}` : `${headword}｜${t.lexicon.desc}`;
+const definedTermSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: headword,
+  ...(meaning ? { description: meaning } : {}),
+  inDefinedTermSet: { '@type': 'DefinedTermSet', name: t.lexicon.title },
+};
 const provLabel: Record<Provenance, string> = {
   canonical: t.world.provCanonical,
   commentarial: t.world.provCommentarial,
@@ -35,7 +46,7 @@ const provLabel: Record<Provenance, string> = {
 };
 ---
 
-<Base title={`${headword}｜${t.lexicon.title}`} description={`${headword}｜${t.lexicon.desc}`} crumbs={crumbs} noindex={noindex}>
+<Base title={pageTitle} description={pageDesc} crumbs={crumbs} noindex={noindex} extraSchema={definedTermSchema}>
   <article class="lex">
     <header class="lex-head">
       <h1 lang="pi">{headword}</h1>
