@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-06-30T22:32:08.981Z",
+  "generatedAt": "2026-07-01T12:00:02.350Z",
   "ga4": {
     "range": "7daysAgo..yesterday",
     "sessions": 19,
@@ -518,7 +518,7 @@
       {
         "url": "https://sutta.io/",
         "coverageState": "Submitted and indexed",
-        "lastCrawlTime": "2026-06-23T04:21:37Z"
+        "lastCrawlTime": "2026-07-01T09:36:36Z"
       },
       {
         "url": "https://sutta.io/read/mn10/",
