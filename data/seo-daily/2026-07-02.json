@@ -1,0 +1,858 @@
+{
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T12:00:01.823Z",
+  "ga4": {
+    "range": "7daysAgo..yesterday",
+    "sessions": 10,
+    "users": 10,
+    "views": 10,
+    "avgDurationSec": 11,
+    "taiwanOrganicSessions": 2,
+    "channels": [
+      {
+        "channel": "Direct",
+        "sessions": 6
+      },
+      {
+        "channel": "Organic Search",
+        "sessions": 4
+      }
+    ],
+    "topPages": [
+      {
+        "path": "/",
+        "views": 6
+      },
+      {
+        "path": "/en/lexicon/parappavada/",
+        "views": 1
+      },
+      {
+        "path": "/lexicon/akasanancayatana/",
+        "views": 1
+      },
+      {
+        "path": "/lexicon/pahatabba/",
+        "views": 1
+      },
+      {
+        "path": "/lexicon/upayasa/",
+        "views": 1
+      }
+    ]
+  },
+  "gsc": {
+    "range": "2026-06-22..2026-06-29",
+    "totals": {
+      "clicks": 2,
+      "impressions": 183,
+      "ctr": 0.01092896174863388,
+      "position": 15.180327868852459
+    },
+    "topQueries": [
+      {
+        "query": "\"determ\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 7.625
+      },
+      {
+        "query": "bhavant",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "bhoga",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 47.5
+      },
+      {
+        "query": "bilaso",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "dhamma visuddhi",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 39
+      },
+      {
+        "query": "dittha",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+      },
+      {
+        "query": "garu means",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+      },
+      {
+        "query": "gotamas",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 42.5
+      },
+      {
+        "query": "hutva",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "iput cetas cetas meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "query": "itivuttaka",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 20
+      },
+      {
+        "query": "kamā",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 99
+      },
+      {
+        "query": "kesa",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 67
+      },
+      {
+        "query": "manas buddhism",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+      },
+      {
+        "query": "na",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+      },
+      {
+        "query": "pamitā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "parajana",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 54
+      },
+      {
+        "query": "paripuri",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "query": "patipada meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "paññā",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 82.66666666666667
+      },
+      {
+        "query": "pitimana",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "query": "pākī",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 90
+      },
+      {
+        "query": "santika meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+      },
+      {
+        "query": "satta ‡§æ‡§ü‡§ï‡§æ",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 54
+      },
+      {
+        "query": "six senses vana",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 37
+      }
+    ],
+    "topPages": [
+      {
+        "page": "https://sutta.io/en/lexicon/parappavada/",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/lexicon/pahatabba",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 2
+      },
+      {
+        "page": "http://sutta.io/browse",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/browse/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 19
+      },
+      {
+        "page": "https://sutta.io/en/about",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "page": "https://sutta.io/en/browse/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/abyapada/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/adinava/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/ahosi/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/anathapindika/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/anuruddha/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/asamahita/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/asuci/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bahujanahitaya/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bhavant/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bhoga",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 47.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bilaso/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/caparam/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/cetas/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/cittanupassana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/dhanna/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/dipi/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/dittha/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/gotama/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 42.5
+      }
+    ],
+    "pageQueryCross": [
+      {
+        "page": "https://sutta.io/en/lexicon/bhavant/",
+        "query": "bhavant",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bhoga",
+        "query": "bhoga",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 47.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bilaso/",
+        "query": "bilaso",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/cetas/",
+        "query": "iput cetas cetas meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/dittha/",
+        "query": "dittha",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/gotama/",
+        "query": "gotamas",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 42.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/hutva/",
+        "query": "hutva",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kama/",
+        "query": "kamā",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 99
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/manas/",
+        "query": "manas buddhism",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/patipada/",
+        "query": "patipada meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/pitimana/",
+        "query": "pitimana",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/santika/",
+        "query": "santika meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/satta/",
+        "query": "satta ‡§æ‡§ü‡§ï‡§æ",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 54
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/viraga/",
+        "query": "viraga",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 15
+      },
+      {
+        "page": "https://sutta.io/en/search/",
+        "query": "法性經文站",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 64.5
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "\"determ\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 7.625
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "dhamma visuddhi",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 39
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "six senses vana",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 37
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tamer saka",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 31
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tru1 market performance today",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 4.4
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tru1 why down today",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/lexicon/garu/",
+        "query": "garu means",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+      },
+      {
+        "page": "https://sutta.io/lexicon/gotama",
+        "query": "gotamas",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 66
+      },
+      {
+        "page": "https://sutta.io/lexicon/itivuttaka",
+        "query": "itivuttaka",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 20
+      },
+      {
+        "page": "https://sutta.io/lexicon/kesa/",
+        "query": "kesa",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 67
+      },
+      {
+        "page": "https://sutta.io/lexicon/na/",
+        "query": "na",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+      },
+      {
+        "page": "https://sutta.io/lexicon/panita",
+        "query": "pamitā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "page": "https://sutta.io/lexicon/pannapana",
+        "query": "paññā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+      },
+      {
+        "page": "https://sutta.io/lexicon/pannasampanna",
+        "query": "paññā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+      },
+      {
+        "page": "https://sutta.io/lexicon/pannayati",
+        "query": "paññā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 92
+      },
+      {
+        "page": "https://sutta.io/lexicon/parajana/",
+        "query": "parajana",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 54
+      },
+      {
+        "page": "https://sutta.io/lexicon/parikkhaya",
+        "query": "pākī",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 90
+      },
+      {
+        "page": "https://sutta.io/lexicon/paripuri",
+        "query": "paripuri",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/lexicon/vedalla/",
+        "query": "vedalla",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 15
+      },
+      {
+        "page": "https://sutta.io/lexicon/viraga/",
+        "query": "viraga meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 53
+      }
+    ],
+    "strikingDistance": [
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "\"determ\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 7.625
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tru1 why down today",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/hutva/",
+        "query": "hutva",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bhavant/",
+        "query": "bhavant",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/bilaso/",
+        "query": "bilaso",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/cetas/",
+        "query": "iput cetas cetas meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/patipada/",
+        "query": "patipada meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/pitimana/",
+        "query": "pitimana",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/santika/",
+        "query": "santika meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/viraga/",
+        "query": "viraga",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 15
+      },
+      {
+        "page": "https://sutta.io/lexicon/panita",
+        "query": "pamitā",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "page": "https://sutta.io/lexicon/vedalla/",
+        "query": "vedalla",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 15
+      }
+    ],
+    "highImpZeroClick": [
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tru1 market performance today",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 4.4
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "\"determ\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 7.625
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "query": "tru1 why down today",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/lexicon/parajana/",
+        "query": "parajana",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 54
+      }
+    ]
+  },
+  "index": {
+    "sitemaps": [
+      {
+        "path": "https://sutta.io/sitemap-index.xml",
+        "submitted": 7778,
+        "errors": "0",
+        "warnings": "0"
+      }
+    ],
+    "coverage": [
+      {
+        "url": "https://sutta.io/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-01T09:36:36Z"
+      },
+      {
+        "url": "https://sutta.io/read/mn10/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-22T06:17:36Z"
+      },
+      {
+        "url": "https://sutta.io/read/mn118/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-23T20:04:10Z"
+      },
+      {
+        "url": "https://sutta.io/read/mn22/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-23T23:29:11Z"
+      },
+      {
+        "url": "https://sutta.io/lexicon/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-25T21:59:49Z"
+      }
+    ]
+  }
+}
