@@ -24,11 +24,13 @@ export const VERSIONS = {
   embed_dim: 384,
 };
 
-// bilara root Pali（巴利原文分段）路徑模板
+// bilara root Pali（巴利原文分段）路徑模板。
+// MN/DN 扁平：sutta/mn/mn10_...；SN/AN 巢狀在相應/集子目錄：sutta/sn/sn56/sn56.11_...
 export function bilaraRootUrl(suttaId: string): string {
   const m = suttaId.match(/^([a-z]+)(\d+)/);
   const collection = m ? m[1] : 'mn';
-  return `https://raw.githubusercontent.com/suttacentral/bilara-data/${VERSIONS.bilara_branch}/root/pli/ms/sutta/${collection}/${suttaId}_root-pli-ms.json`;
+  const dir = suttaId.includes('.') ? `${collection}/${collection}${m ? m[2] : ''}` : collection;
+  return `https://raw.githubusercontent.com/suttacentral/bilara-data/${VERSIONS.bilara_branch}/root/pli/ms/sutta/${dir}/${suttaId}_root-pli-ms.json`;
 }
 
 // dpd.db（本機 vendor，gitignore）
@@ -45,4 +47,6 @@ export const SUTTA_TITLES: Record<string, { pali: string; zh: string; collection
   mn22: { pali: 'Alagaddūpamasutta', zh: '蛇喻經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn118: { pali: 'Ānāpānassatisutta', zh: '入出息念經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn141: { pali: 'Saccavibhaṅgasutta', zh: '諦分別經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  // SN 單經先行（2026-07-03 拍板）：轉法輪經 ↔ 雜阿含379
+  'sn56.11': { pali: 'Dhammacakkappavattanasutta', zh: '轉法輪經', collection: 'Saṃyutta Nikāya', collection_zh: '相應部' },
 };

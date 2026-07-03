@@ -33,7 +33,7 @@ const SUTTA_FILTER = getArg('sutta', null);
 function liveSuttas() {
   return fs
     .readdirSync(DATA)
-    .filter((f) => /^mn\d+\.json$/.test(f))
+    .filter((f) => /^[a-z]+\d[\d.]*\.json$/.test(f))
     .map((f) => f.replace(/\.json$/, ''))
     .filter((id) => !SUTTA_FILTER || id === SUTTA_FILTER)
     .sort((a, b) => parseInt(a.slice(2), 10) - parseInt(b.slice(2), 10));

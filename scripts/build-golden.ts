@@ -6,7 +6,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const sutta = process.argv.find((a) => /^[a-z]+\d+$/.test(a)) ?? 'mn10';
+const sutta = process.argv.find((a) => /^[a-z]+[\d.]+$/.test(a)) ?? 'mn10';
 const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', `${sutta}.json`), 'utf-8'));
 
 const segs = data.segments as any[];

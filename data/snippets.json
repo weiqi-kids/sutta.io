@@ -29013,5 +29013,233 @@
   "mn9:71.5": {
     "pi": "Sammādiṭṭhisuttaṁ niṭṭhitaṁ navamaṁ",
     "zh": "《正見經》，第九篇，圓滿完畢。"
+  },
+  "sn56.11:1.1": {
+    "pi": "Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye",
+    "zh": "有一次，世尊住在波羅奈仙人墜處的鹿野苑。"
+  },
+  "sn56.11:1.2": {
+    "pi": "Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi",
+    "zh": "那時，世尊對五比丘說道："
+  },
+  "sn56.11:2.1": {
+    "pi": "Dveme bhikkhave antā pabbajitena na sevitabbā",
+    "zh": "比丘們，出家人不應親近這兩種極端。"
+  },
+  "sn56.11:2.2": {
+    "pi": "Katame dve",
+    "zh": "是哪兩種呢？"
+  },
+  "sn56.11:2.3": {
+    "pi": "Yo cāyaṁ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṁhito yo cāyaṁ attakilamathānuyogo dukkho anariyo anatthasaṁhito",
+    "zh": "一是沉迷欲樂、耽溺於諸欲的享受，這是低劣、粗俗、凡夫的、非聖、無益的；二是自我折磨的苦行，這是痛苦、非聖、無益的。"
+  },
+  "sn56.11:2.4": {
+    "pi": "Ete kho bhikkhave ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati",
+    "zh": "比丘們，如來不落於這兩種極端，已現正覺於中道；此中道能生眼、生智，導向寂靜、證智、正覺、涅槃。"
+  },
+  "sn56.11:3.1": {
+    "pi": "Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati",
+    "zh": "比丘們，那麼，什麼是如來所現正覺的中道——能生眼、生智，導向寂靜、證智、正覺、涅槃的呢？"
+  },
+  "sn56.11:3.2": {
+    "pi": "Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ",
+    "zh": "就是這八支聖道，也就是："
+  },
+  "sn56.11:3.3": {
+    "pi": "sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi",
+    "zh": "正見、正思惟、正語、正業、正命、正精進、正念、正定。"
+  },
+  "sn56.11:3.4": {
+    "pi": "Ayaṁ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati",
+    "zh": "比丘們，這就是如來所現正覺的中道，能生眼、生智，導向寂靜、證智、正覺、涅槃。"
+  },
+  "sn56.11:4.1": {
+    "pi": "Idaṁ kho pana bhikkhave dukkhaṁ ariyasaccaṁ",
+    "zh": "比丘們，這就是苦聖諦："
+  },
+  "sn56.11:4.2": {
+    "pi": "jātipi dukkhā jarāpi dukkhā byādhipi dukkho maraṇampi dukkhaṁ appiyehi sampayogo dukkho piyehi vippayogo dukkho yampicchaṁ na labhati tampi dukkhaṁ saṅkhittena pañcupādānakkhandhā dukkhā",
+    "zh": "生是苦，老是苦，病是苦，死是苦；怨憎會是苦，愛別離是苦，所求不得也是苦；簡而言之，五取蘊就是苦。"
+  },
+  "sn56.11:4.3": {
+    "pi": "Idaṁ kho pana bhikkhave dukkhasamudayaṁ ariyasaccaṁ",
+    "zh": "比丘們，這就是苦集聖諦："
+  },
+  "sn56.11:4.4": {
+    "pi": "yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī seyyathidaṁ",
+    "zh": "就是這會導致再生、伴隨著喜貪、於處處尋歡的渴愛，也就是："
+  },
+  "sn56.11:4.5": {
+    "pi": "kāmataṇhā bhavataṇhā vibhavataṇhā",
+    "zh": "欲愛、有愛、無有愛。"
+  },
+  "sn56.11:4.6": {
+    "pi": "Idaṁ kho pana bhikkhave dukkhanirodhaṁ ariyasaccaṁ",
+    "zh": "比丘們，這就是苦滅聖諦："
+  },
+  "sn56.11:4.7": {
+    "pi": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+    "zh": "就是對這渴愛徹底離貪、滅盡、捨棄、放下、解脫、無所執著。"
+  },
+  "sn56.11:4.8": {
+    "pi": "Idaṁ kho pana bhikkhave dukkhanirodhagāminī paṭipadā ariyasaccaṁ",
+    "zh": "比丘們，這就是導向苦滅之道聖諦："
+  },
+  "sn56.11:4.9": {
+    "pi": "ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ",
+    "zh": "就是這八支聖道，也就是："
+  },
+  "sn56.11:4.10": {
+    "pi": "sammādiṭṭhi pe sammāsamādhi",
+    "zh": "正見……乃至……正定。"
+  },
+  "sn56.11:5.1": {
+    "pi": "Idaṁ dukkhaṁ ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，對於『這是苦聖諦』這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:5.2": {
+    "pi": "Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññeyyan ti me bhikkhave pubbe pe udapādi",
+    "zh": "比丘們，『這苦聖諦應當被遍知』——對於這前所未聞之法，我生起了眼……乃至……生起了光。"
+  },
+  "sn56.11:5.3": {
+    "pi": "Taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，『這苦聖諦已經被遍知』，對於這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:6.1": {
+    "pi": "Idaṁ dukkhasamudayaṁ ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，對於『這是苦集聖諦』這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:6.2": {
+    "pi": "Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahātabban ti me bhikkhave pubbe pe udapādi",
+    "zh": "比丘們，『這苦集聖諦應當被斷除』——對於這前所未聞之法，我生起了眼……乃至……生起了光。"
+  },
+  "sn56.11:6.3": {
+    "pi": "Taṁ kho panidaṁ dukkhasamudayaṁ ariyasaccaṁ pahīnan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，『這苦集聖諦已經被斷除』，對於這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:7.1": {
+    "pi": "Idaṁ dukkhanirodhaṁ ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，對於『這是苦滅聖諦』這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:7.2": {
+    "pi": "Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikātabban ti me bhikkhave pubbe pe udapādi",
+    "zh": "比丘們，『這苦滅聖諦應當被證得』——對於這前所未聞之法，我生起了眼……乃至……生起了光。"
+  },
+  "sn56.11:7.3": {
+    "pi": "Taṁ kho panidaṁ dukkhanirodhaṁ ariyasaccaṁ sacchikatan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，『這苦滅聖諦已經被證得』，對於這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:8.1": {
+    "pi": "Idaṁ dukkhanirodhagāminī paṭipadā ariyasaccan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "比丘們，對於『這是導向苦滅之道聖諦』這前所未聞之法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:8.2": {
+    "pi": "Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvetabban ti me bhikkhave pubbe pe udapādi",
+    "zh": "而『這導向苦滅之道的聖諦，應當修習』——比丘們，對於這前所未聞的法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:8.3": {
+    "pi": "Taṁ kho panidaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ bhāvitan ti me bhikkhave pubbe ananussutesu dhammesu cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi",
+    "zh": "而『這導向苦滅之道的聖諦，已經修習』——比丘們，對於這前所未聞的法，我生起了眼，生起了智，生起了慧，生起了明，生起了光。"
+  },
+  "sn56.11:9.1": {
+    "pi": "Yāvakīvañca me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ na suvisuddhaṁ ahosi neva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho ti paccaññāsiṁ",
+    "zh": "比丘們，只要我對這四聖諦如此三轉十二行相的如實知見還沒有完全清淨，比丘們，我就不會在這有天、魔、梵在內的世界，有沙門、婆羅門、天、人在內的眾生之中，宣稱自己已經證得無上正等正覺。"
+  },
+  "sn56.11:10.1": {
+    "pi": "Yato ca kho me bhikkhave imesu catūsu ariyasaccesu evaṁ tiparivaṭṭaṁ dvādasākāraṁ yathābhūtaṁ ñāṇadassanaṁ suvisuddhaṁ ahosi athāhaṁ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho ti paccaññāsiṁ",
+    "zh": "比丘們，而當我對這四聖諦如此三轉十二行相的如實知見已經完全清淨的時候，比丘們，我就在這有天、魔、梵在內的世界，有沙門、婆羅門、天、人在內的眾生之中，宣稱自己已經證得無上正等正覺。"
+  },
+  "sn56.11:10.2": {
+    "pi": "Ñāṇañca pana me dassanaṁ udapādi",
+    "zh": "而我心中生起了這樣的智見："
+  },
+  "sn56.11:10.3": {
+    "pi": "akuppā me vimutti ayamantimā jāti natthi dāni punabbhavo ti",
+    "zh": "我的解脫不可動搖，這是最後一生，如今不會再有來生了。"
+  },
+  "sn56.11:10.4": {
+    "pi": "Idamavoca bhagavā",
+    "zh": "世尊說了這些話。"
+  },
+  "sn56.11:10.5": {
+    "pi": "Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinandunti",
+    "zh": "五比丘們心生歡喜，對世尊所說的話感到歡喜信受。"
+  },
+  "sn56.11:11.1": {
+    "pi": "Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi",
+    "zh": "而正當這番解說宣說之時，尊者憍陳如生起了遠離塵垢、無染的法眼："
+  },
+  "sn56.11:11.2": {
+    "pi": "yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman ti",
+    "zh": "凡是集起之法，都是滅法。"
+  },
+  "sn56.11:12.1": {
+    "pi": "Pavattite ca pana bhagavatā dhammacakke bhummā devā saddamanussāvesuṁ",
+    "zh": "世尊轉動法輪之後，地居天便高聲宣告："
+  },
+  "sn56.11:12.2": {
+    "pi": "etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin ti",
+    "zh": "『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.3": {
+    "pi": "Bhummānaṁ devānaṁ saddaṁ sutvā cātumahārājikā devā saddamanussāvesuṁ",
+    "zh": "四大王天聽到地居天的聲音之後，也高聲宣告："
+  },
+  "sn56.11:12.4": {
+    "pi": "etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin ti",
+    "zh": "『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.5": {
+    "pi": "Cātumahārājikānaṁ devānaṁ saddaṁ sutvā tāvatiṁsā devā pe",
+    "zh": "三十三天聽到四大王天的聲音之後，也高聲宣告：『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.6": {
+    "pi": "yāmā devā pe",
+    "zh": "夜摩天聽到三十三天的聲音之後，也高聲宣告：『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.7": {
+    "pi": "tusitā devā pe",
+    "zh": "兜率天聽到夜摩天的聲音之後，也高聲宣告：『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.8": {
+    "pi": "nimmānaratī devā pe",
+    "zh": "化樂天聽到兜率天的聲音之後，也高聲宣告：『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.9": {
+    "pi": "paranimmitavasavattī devā pe",
+    "zh": "他化自在天聽到化樂天的聲音之後，也高聲宣告：『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:12.10": {
+    "pi": "brahmakāyikā devā saddamanussāvesuṁ",
+    "zh": "梵身天聽到他化自在天的聲音之後，也高聲宣告："
+  },
+  "sn56.11:12.11": {
+    "pi": "etaṁ bhagavatā bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhammacakkaṁ pavattitaṁ appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin ti",
+    "zh": "『世尊在波羅奈仙人墜處的鹿野苑，轉動了這無上法輪，這是任何沙門、婆羅門、天、魔、梵，或世間任何人都無法阻擋的。』"
+  },
+  "sn56.11:13.1": {
+    "pi": "Itiha tena khaṇena tena layena tena muhuttena yāva brahmalokā saddo abbhuggacchi",
+    "zh": "就這樣，在那一刻、那一瞬、那一剎那之間，這聲音便直達梵天界。"
+  },
+  "sn56.11:13.2": {
+    "pi": "Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṁ devānubhāvanti",
+    "zh": "而這一萬個世界系統震動、搖動、劇烈震動，並且有無量廣大的光明出現於世間，超越了諸天的威神之力。"
+  },
+  "sn56.11:14.1": {
+    "pi": "Atha kho bhagavā imaṁ udānaṁ udānesi",
+    "zh": "那時，世尊說出了這句感興偈："
+  },
+  "sn56.11:14.2": {
+    "pi": "aññāsi vata bho koṇḍañño aññāsi vata bho koṇḍañño ti",
+    "zh": "『憍陳如確實已經了知了！憍陳如確實已經了知了！』"
+  },
+  "sn56.11:14.3": {
+    "pi": "Iti hidaṁ āyasmato koṇḍaññassa aññāsikoṇḍañño tveva nāmaṁ ahosīti",
+    "zh": "就這樣，尊者憍陳如便得到了『阿若憍陳如』這個名號。"
+  },
+  "sn56.11:14.4": {
+    "pi": "Paṭhamaṁ",
+    "zh": "第一。"
   }
 }

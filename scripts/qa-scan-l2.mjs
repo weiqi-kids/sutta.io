@@ -26,7 +26,7 @@ const PLACEHOLDER_RE = /\b(placeholder|todo|fixme|lorem ipsum|lorem|mock(?:ed|up
 function liveSuttas() {
   return fs
     .readdirSync(DATA)
-    .filter((f) => /^mn\d+\.json$/.test(f))
+    .filter((f) => /^[a-z]+\d[\d.]*\.json$/.test(f))
     .map((f) => f.replace(/\.json$/, ''))
     .sort((a, b) => parseInt(a.slice(2), 10) - parseInt(b.slice(2), 10));
 }

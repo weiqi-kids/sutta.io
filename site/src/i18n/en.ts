@@ -39,7 +39,7 @@ export const en: Strings = {
       { q: 'Where does the data come from? Is it reliable?', a: 'Pāli text and segmentation from SuttaCentral, word-by-word roots and morphology from the Digital Pāḷi Dictionary (DPD), Chinese Āgama from CBETA, and proper names from Malalasekera’s DPPN — all named, traceable and openly licensed.' },
       { q: 'Can the AI-generated content be trusted?', a: 'AI-assisted content is always generated from the real grammar of the source texts, clearly marked “AI”, and human-reviewed before publication. Facts come from the canon and dictionary (never rewritten by AI); interpretation goes through AI and is always tethered to the facts.' },
       { q: 'Is it free? Do I need an account?', a: 'Completely free, no login, no ads. Core reading and dictionary lookup work offline.' },
-      { q: 'Which suttas are included?', a: 'Currently the Pāli Majjhima Nikāya, with one new sutta added automatically each day.' },
+      { q: 'Which suttas are included?', a: 'Primarily the Pāli Majjhima Nikāya, with one new sutta added automatically each day; key Saṃyutta Nikāya discourses (such as SN 56.11, the first sermon) are also being added.' },
     ] as { q: string; a: string }[],
   },
   browse: {

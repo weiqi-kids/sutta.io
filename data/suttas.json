@@ -350,5 +350,13 @@
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
+  },
+  {
+    "id": "sn56.11",
+    "title_pali": "Dhammacakkappavattanasutta",
+    "title_zh": "轉法輪經",
+    "collection": "Saṃyutta Nikāya",
+    "collection_zh": "相應部",
+    "hasParallel": true
   }
 ]

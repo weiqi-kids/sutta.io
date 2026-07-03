@@ -8,7 +8,7 @@ import { MODEL } from './tasks.ts';
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');
 const DATA_DIR = path.join(ROOT, 'data');
 
-const id = process.argv.find((a) => /^[a-z]+\d+$/.test(a)) ?? 'mn10';
+const id = process.argv.find((a) => /^[a-z]+[\d.]+$/.test(a)) ?? 'mn10';
 const draft = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'l2-draft', `${id}.json`), 'utf-8'));
 const sutta: SuttaFixture = JSON.parse(fs.readFileSync(path.join(DATA_DIR, `${id}.json`), 'utf-8'));
 

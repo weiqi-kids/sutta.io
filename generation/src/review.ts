@@ -12,7 +12,7 @@ const DATA_DIR = path.join(ROOT, 'data');
 const DRAFT_DIR = path.join(DATA_DIR, 'l2-draft');
 const PORT = 4567;
 
-const SUTTA = process.env.SUTTA ?? process.argv.find((a) => !a.startsWith('-') && /^[a-z]+\d+$/.test(a)) ?? 'mn10';
+const SUTTA = process.env.SUTTA ?? process.argv.find((a) => !a.startsWith('-') && /^[a-z]+[\d.]+$/.test(a)) ?? 'mn10';
 
 interface Item {
   approved?: boolean;

@@ -212,6 +212,19 @@
       "last_action": "launch",
       "last_action_date": "2026-07-03",
       "note": ""
+    },
+    {
+      "keyword": "轉法輪經 白話",
+      "tier": 2,
+      "url": "https://sutta.io/read/sn56.11/",
+      "state": "S0",
+      "state_since": "2026-07-03",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch",
+      "last_action_date": "2026-07-03",
+      "note": "單經先行；title 已消歧義防法輪功混流"
     }
   ],
   "pages": {
@@ -238,6 +251,7 @@
     "https://sutta.io/topics/vipassana/": "unknown",
     "https://sutta.io/en/topics/vipassana/": "unknown",
     "https://sutta.io/agama/": "unknown",
-    "https://sutta.io/nikaya/": "unknown"
+    "https://sutta.io/nikaya/": "unknown",
+    "https://sutta.io/read/sn56.11/": "unknown"
   }
 }

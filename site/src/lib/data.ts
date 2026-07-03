@@ -105,9 +105,19 @@ export function listSuttas(): BrowseEntry[] {
 }
 
 function collator(a: string, b: string): number {
-  const na = parseInt(a.replace(/\D/g, ''), 10);
-  const nb = parseInt(b.replace(/\D/g, ''), 10);
-  if (!Number.isNaN(na) && !Number.isNaN(nb) && na !== nb) return na - nb;
+  // 先比集（mn < sn），再逐段比數字（sn56.11：56 → 11），避免含點 id 的位數碰撞
+  const pa = a.match(/^([a-z]+)([\d.]+)$/);
+  const pb = b.match(/^([a-z]+)([\d.]+)$/);
+  if (pa && pb) {
+    if (pa[1] !== pb[1]) return pa[1].localeCompare(pb[1]);
+    const na = pa[2].split('.').map(Number);
+    const nb = pb[2].split('.').map(Number);
+    for (let i = 0; i < Math.max(na.length, nb.length); i++) {
+      const d = (na[i] ?? 0) - (nb[i] ?? 0);
+      if (d !== 0) return d;
+    }
+    return 0;
+  }
   return a.localeCompare(b);
 }
 
@@ -131,10 +141,13 @@ export function suttaSeoTitle(s: SuttaFixture, locale: 'zh' | 'en'): string {
   const entry = suttaSeoMap()[s.sutta.id];
   const override = entry?.[locale];
   if (override) return override;
-  const n = s.sutta.id.replace(/\D/g, '');
+  // 經號標籤依 id 推導（mn10 → MN 10 / 中部10；sn56.11 → SN 56.11 / 相應部56.11）
+  const n = s.sutta.id.replace(/^[a-z]+/, '');
+  const abbr = s.sutta.id.replace(/[\d.].*$/, '').toUpperCase();
+  const coll = s.sutta.collection_zh ?? '中部';
   return locale === 'en'
-    ? `${s.sutta.title_pali} (MN ${n}) — Pāli with word-by-word analysis`
-    : `${s.sutta.title_zh}（中部${n}）白話對照`;
+    ? `${s.sutta.title_pali} (${abbr} ${n}) — Pāli with word-by-word analysis`
+    : `${s.sutta.title_zh}（${coll}${n}）白話對照`;
 }
 
 /** 阿含對照 ref（如「中阿含98 念處經」）；無對照回 null。供中阿含索引頁。 */

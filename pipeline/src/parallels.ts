@@ -5,7 +5,12 @@ import type { Passage, AgamaParallel } from '@tipitaka/contracts';
 import { fetchCached } from './util.ts';
 
 const SC_PARALLELS = 'https://raw.githubusercontent.com/suttacentral/sc-data/main/relationship/parallels.json';
-const CBETA_TOC = 'https://api.cbetaonline.cn/works/toc?work=T0026'; // 中阿含 T26
+// 阿含來源對照：MN↔中阿含（MA, T0026）、SN↔雜阿含（SA, T0099）
+const AGAMA_WORKS = {
+  ma: { work: 'T0026', taisho: 'T01n0026', label: '中阿含' },
+  sa: { work: 'T0099', taisho: 'T02n0099', label: '雜阿含' },
+} as const;
+type AgamaKind = keyof typeof AGAMA_WORKS;
 
 interface TocSutta {
   n: number;
@@ -21,10 +26,12 @@ async function loadParallels(): Promise<any[]> {
   return _parallels!;
 }
 
-let _toc: Map<number, TocSutta> | null = null;
-async function loadToc(): Promise<Map<number, TocSutta>> {
-  if (_toc) return _toc;
-  const txt = await fetchCached(CBETA_TOC, 'cbeta-toc-T0026.json');
+const _tocs = new Map<AgamaKind, Map<number, TocSutta>>();
+async function loadToc(kind: AgamaKind): Promise<Map<number, TocSutta>> {
+  const cached = _tocs.get(kind);
+  if (cached) return cached;
+  const { work } = AGAMA_WORKS[kind];
+  const txt = await fetchCached(`https://api.cbetaonline.cn/works/toc?work=${work}`, `cbeta-toc-${work}.json`);
   const j = JSON.parse(txt);
   const map = new Map<number, TocSutta>();
   const walk = (node: any) => {
@@ -39,19 +46,20 @@ async function loadToc(): Promise<Map<number, TocSutta>> {
     if (node.mulu) walk(node.mulu);
   };
   walk(j);
-  _toc = map;
+  _tocs.set(kind, map);
   return map;
 }
 
-/** MN id → 中阿含經號（全平行優先，~ 部分平行其次）。無 → null。 */
-async function resolveMa(suttaId: string): Promise<number | null> {
+/** 經 id → 阿含經號（全平行優先，~ 部分平行其次）。MN 配 ma、SN 配 sa。無 → null。 */
+async function resolveAgamaN(suttaId: string, kind: AgamaKind): Promise<number | null> {
   const parallels = await loadParallels();
+  const re = new RegExp(`^(~?)${kind}(\\d+)`);
   let partial: number | null = null;
   for (const entry of parallels) {
     const arr: string[] = entry.parallels ?? [];
     if (!arr.some((x) => x.replace(/^~/, '').split('#')[0] === suttaId)) continue;
     for (const x of arr) {
-      const m = x.match(/^(~?)ma(\d+)/);
+      const m = x.match(re);
       if (!m) continue;
       const n = parseInt(m[2], 10);
       if (!m[1]) return n; // 全平行
@@ -61,9 +69,10 @@ async function resolveMa(suttaId: string): Promise<number | null> {
   return partial;
 }
 
-async function fetchJuanText(juan: number): Promise<string> {
-  const url = `https://api.cbetaonline.cn/juans?work=T0026&juan=${juan}`;
-  const txt = await fetchCached(url, `cbeta-T0026-${String(juan).padStart(3, '0')}.json`);
+async function fetchJuanText(kind: AgamaKind, juan: number): Promise<string> {
+  const { work } = AGAMA_WORKS[kind];
+  const url = `https://api.cbetaonline.cn/juans?work=${work}&juan=${juan}`;
+  const txt = await fetchCached(url, `cbeta-${work}-${String(juan).padStart(3, '0')}.json`);
   const obj = JSON.parse(txt) as { results: string[] };
   const html = (obj.results?.[0] ?? '').replace(/<a[^>]*class="noteAnchor"[^>]*>.*?<\/a>/g, '');
   const text = html.replace(/<[^>]+>/g, '');
@@ -85,37 +94,67 @@ function suttaTitleRe(name: string): RegExp {
   return new RegExp('(?:中阿含|（[一二三四五六七八九十〇○零百]+）)[^。\\n]{0,12}' + esc + '第[一二三四五六七八九十]+');
 }
 
-/** 自動抓某 MN 經的中阿含對照。失敗 → null。 */
+// 雜阿含經多數無經名，經文以全形括號逐位中文數字起頭（如「（三七九）如是我聞」）。
+const SA_DIGITS = ['〇', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
+function saMarker(n: number): string {
+  return `（${String(n).split('').map((d) => SA_DIGITS[Number(d)]).join('')}）`;
+}
+
+/** 中阿含（MA）：以經名標題「…{name}第X」定界。 */
+async function fetchMa(suttaId: string): Promise<AgamaParallel | null> {
+  const maN = await resolveAgamaN(suttaId, 'ma');
+  if (maN == null) return null;
+  const toc = await loadToc('ma');
+  const cur = toc.get(maN);
+  if (!cur) return null;
+  const next = toc.get(maN + 1);
+  const text = await fetchJuanText('ma', cur.juan);
+
+  // 起：該經標題「…{name}第X」；訖：下一經標題 或 「{name}…竟」
+  const titleRe = suttaTitleRe(cur.name);
+  const tm = titleRe.exec(text);
+  if (!tm) return null;
+  const bodyStart = tm.index + tm[0].length;
+
+  let endIdx = -1;
+  if (next) {
+    const nextRe = suttaTitleRe(next.name);
+    const nm = nextRe.exec(text.slice(bodyStart));
+    if (nm) endIdx = bodyStart + nm.index;
+  }
+  if (endIdx < 0) {
+    const colo = text.indexOf(cur.name + '第', bodyStart);
+    const coloEnd = text.indexOf('竟', colo);
+    if (colo > bodyStart && coloEnd > colo) endIdx = colo;
+  }
+  const body = cleanAgama(endIdx > bodyStart ? text.slice(bodyStart, endIdx) : text.slice(bodyStart, bodyStart + 8000));
+  if (body.length < 50) return null;
+  return { source: 'CBETA', ref: `${AGAMA_WORKS.ma.taisho} 中阿含${maN} ${cur.name}`, text: body };
+}
+
+/** 雜阿含（SA）：以「（逐位中文數字）」經號標記定界。 */
+async function fetchSa(suttaId: string): Promise<AgamaParallel | null> {
+  const saN = await resolveAgamaN(suttaId, 'sa');
+  if (saN == null) return null;
+  const toc = await loadToc('sa');
+  const cur = toc.get(saN);
+  if (!cur) return null;
+  const text = await fetchJuanText('sa', cur.juan);
+
+  const start = text.indexOf(saMarker(saN));
+  if (start < 0) return null;
+  const bodyStart = start + saMarker(saN).length;
+  const nextIdx = text.indexOf(saMarker(saN + 1), bodyStart);
+  const body = cleanAgama(nextIdx > bodyStart ? text.slice(bodyStart, nextIdx) : text.slice(bodyStart, bodyStart + 8000));
+  if (body.length < 50) return null;
+  return { source: 'CBETA', ref: `${AGAMA_WORKS.sa.taisho} 雜阿含${saN}`, text: body };
+}
+
+/** 自動抓某經的漢譯阿含對照（MN→中阿含、SN→雜阿含）。失敗 → null。 */
 export async function fetchAgama(suttaId: string): Promise<AgamaParallel | null> {
   try {
-    const maN = await resolveMa(suttaId);
-    if (maN == null) return null;
-    const toc = await loadToc();
-    const cur = toc.get(maN);
-    if (!cur) return null;
-    const next = toc.get(maN + 1);
-    const text = await fetchJuanText(cur.juan);
-
-    // 起：該經標題「…{name}第X」；訖：下一經標題 或 「{name}…竟」
-    const titleRe = suttaTitleRe(cur.name);
-    const tm = titleRe.exec(text);
-    if (!tm) return null;
-    const bodyStart = tm.index + tm[0].length;
-
-    let endIdx = -1;
-    if (next) {
-      const nextRe = suttaTitleRe(next.name);
-      const nm = nextRe.exec(text.slice(bodyStart));
-      if (nm) endIdx = bodyStart + nm.index;
-    }
-    if (endIdx < 0) {
-      const colo = text.indexOf(cur.name + '第', bodyStart);
-      const coloEnd = text.indexOf('竟', colo);
-      if (colo > bodyStart && coloEnd > colo) endIdx = colo;
-    }
-    const body = cleanAgama(endIdx > bodyStart ? text.slice(bodyStart, endIdx) : text.slice(bodyStart, bodyStart + 8000));
-    if (body.length < 50) return null;
-    return { source: 'CBETA', ref: `T01n0026 中阿含${maN} ${cur.name}`, text: body };
+    if (suttaId.startsWith('sn')) return await fetchSa(suttaId);
+    return await fetchMa(suttaId);
   } catch {
     return null;
   }
