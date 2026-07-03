@@ -1,0 +1,234 @@
+{
+  "slug": "reading-guide",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "巴利經典入門指南",
+    "seo_title": "巴利經典入門推薦：第一次讀尼柯耶該從哪部經開始？",
+    "seo_description": "第一次讀巴利經典，該從哪一部開始？本頁依讀者目的推薦入門路線：想懂核心教義從《轉法輪經》（SN56.11）讀起，想學禪修從《念處經》（MN10）入手，想看佛陀如何說理則讀《蛇喻經》（MN22）。每部附推薦理由、進階路線與閱讀方法，全部可在本站對照巴利原文與白話。",
+    "question": "巴利經典入門該讀什麼？",
+    "definition": "巴利經典入門不必按經號從頭讀：依目的選起點更有效。想先懂核心教義，讀《轉法輪經》（SN56.11）與《諦分別經》（MN141）；想從禪修入手，讀《念處經》（MN10）與《入出息念經》（MN118）；想看佛陀怎麼說理，讀《蛇喻經》（MN22）或《蜜丸經》（MN18）。這幾部都短、主題完整，且本站皆有巴利原文與白話逐段對照。",
+    "sections": [
+      {
+        "heading": "為什麼從尼柯耶讀起",
+        "paragraphs": [
+          "「巴利經典」指以巴利語保存的早期佛教文獻，其中的「尼柯耶」（nikāya，意為「部、集」）是佛陀教導的經藏彙編，分為長部、中部、相應部、增支部、小部五大部。就文獻層位而言，尼柯耶與漢譯《阿含經》同屬現存最早的佛教經典層，兩者系出同源、可以互相對照——想知道「佛陀當年大概說了什麼」，這裡是最接近源頭的起點。",
+          "對入門者來說，尼柯耶還有一個實際的好處：多數經文篇幅不長、一經一事，場景具體（誰在哪裡、問了什麼、佛陀怎麼答），不需要先讀完一套哲學體系才能看懂。定型句雖然反覆出現，但反覆本身就是口傳文獻的記憶結構，讀幾部之後反而成為熟悉的路標。",
+          "不過，尼柯耶數千部經並沒有「請從第一經讀起」的設計——《中部》第一經《根本法門經》恰恰是全藏最難的經之一。所以入門的關鍵不是從頭讀，而是依你的目的選對起點。以下依三種常見的讀者類型，各推薦一條兩部經的路線；這些經都已在本站完成巴利逐字解析與白話對照。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "想先懂核心教義：轉法輪經＋諦分別經",
+        "paragraphs": [
+          "如果你想知道「佛教到底在講什麼」，最正當的起點就是《轉法輪經》（SN56.11，/read/sn56.11）——佛陀成道後的第一次說法。經中對五比丘開示：不耽溺欲樂、也不自我折磨，如來於兩個極端之外現正覺於中道，也就是八正道；接著宣說四聖諦：苦、苦的集起（渴愛）、苦的滅盡、滅苦之道。全經很短，卻把整個教法的骨架一次給出，後來的一切經都可以掛回這個框架上。",
+          "讀完骨架，接著讀《諦分別經》（MN141，/read/mn141）把血肉補齊。這部經同樣以鹿野苑為場景：世尊宣告法輪已轉之後，由舍利弗向比丘們逐項詳解四聖諦——生老病死如何是苦、渴愛如何集起苦、八正道每一支的定義。可以把它當成《轉法輪經》的官方詳注：先讀 SN56.11 知其綱領，再讀 MN141 知其細目，四聖諦這一課就完整了。",
+          "這條路線讀完，你手上就有了讀其他一切經的地圖——尼柯耶裡大量的經，其實都是四聖諦某一諦的展開。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "想從禪修入手：念處經＋入出息念經",
+        "paragraphs": [
+          "如果你接觸佛法是從正念、禪修開始的，那就從方法類的根本經典讀起。《念處經》（MN10，/read/mn10）是四念處的完整教本：佛陀開宗明義說這是導向清淨與涅槃的唯一道路，然後系統開展身、受、心、法四個念處的具體修法——從覺知呼吸、行住坐臥，一路到觀察感受與心念。現代正念課程的源頭文本就是它。",
+          "搭配讀《入出息念經》（MN118，/read/mn118）。這部經在月圓夜的僧團集會上宣說，把「觀呼吸」開展為十六個步驟，並說明這一個以呼吸為所緣的修法如何次第圓滿四念處、七覺支，乃至明與解脫。MN10 給你全景地圖，MN118 給你其中一條路的完整走法，兩部互相發明。",
+          "這兩部經在本站都有逐段的巴利原文對照，禪修中常聽到的術語（sati、sampajañña、ātāpī）都能在原文脈絡裡看到它們本來的位置。相關背景可另見本站〈四念處〉與〈安般念〉主題頁。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:2.1"
+            ],
+            "lead": "《念處經》開宗明義的定位："
+          }
+        ]
+      },
+      {
+        "heading": "想看佛陀怎麼說理：蛇喻經或蜜丸經",
+        "paragraphs": [
+          "有些讀者最初被吸引的不是教義條目，而是佛陀論辯與譬喻的風格。這類讀者可以從《蛇喻經》（MN22，/read/mn22）入手：一位比丘堅持邪見、屢勸不改，佛陀親自處理，並藉機說出兩個流傳最廣的譬喻——毒蛇喻（為辯論而學法，如從蛇尾抓蛇，終遭反噬；為解脫而學，如以叉制蛇頸，才拿得安穩）與筏喻（法如渡河之筏，渡了河就該放下，不是扛在肩上炫耀的財產）。學法的動機、對教法本身的執著，這部經在兩千多年前就談完了。",
+          "另一個選擇是《蜜丸經》（MN18，/read/mn18）。開場很有戲劇性：手持杖的釋迦族人質問佛陀「沙門持何論」，佛陀答：不與世間任何人爭諍——渴愛已斷的人，諸想不再隨逐於他。對方搖頭離去。之後佛陀向比丘簡要宣說其中義理，再由弟子展開細部分析。想看佛陀如何面對挑釁、以及「想」（概念心）如何纏縛人心的精細討論，這部經是好樣本。",
+          "這條路線的好處是：你會先體會到這些文本作為「文學」與「思想」的品質，教義的框架可以之後再補。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "讀完三部曲之後：進階路線",
+        "paragraphs": [
+          "入門路線走完，可以依興趣往下讀。想把教義框架扎穩，讀《正見經》（MN9，/read/mn9）：舍利弗以問答形式展開十六組法義，每一組都用「了知其體、集起、滅盡、滅道」的四諦框架分析——這是把四聖諦當「思考工具」使用的示範，也是理解緣起的入口。想知道煩惱實際上怎麼處理，讀《一切漏經》（MN2，/read/mn2）：斷除煩惱的七種方法，核心是「如理作意」——注意力放在哪裡，決定煩惱增長或止息。",
+          "對心的鍛鍊有興趣，可接《二種尋思經》（MN19，/read/mn19）與《尋的安立經》（MN20，/read/mn20）：前者是佛陀自述成道前如何分類與調伏自己的念頭（「心的傾向隨頻繁思惟而塑成」），後者給出對治惡念的五個具體步驟，實用性極高。想看修行的完整次第，《傳車經》（MN24，/read/mn24）以七輛驛車接力為喻，說明七清淨的階段論。",
+          "老實說明本站的範圍：目前完成白話對照的以《中部》前 25 經為主，加上 MN118、MN141 與 SN56.11，其他部類正在擴充中。想讀更多，站外有兩個可靠的去處——SuttaCentral 收錄全部尼柯耶與多語譯本，莊春江工作站有完整的相應部、中部等中譯與詳細注解。從本站入門、到這些站深讀，是我們認為誠實的路線。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "怎麼讀：善用逐字解析與對照工具",
+        "paragraphs": [
+          "本站每一部經的研經頁（/read/ 開頭的頁面）都是三層結構：巴利原文、逐字解析、白話翻譯。建議的讀法是先通讀白話掌握大意，回頭挑你有感覺的段落看巴利逐字——不需要學過巴利文，逐字解析就是為了讓你在不懂文法的情況下，也能看見「這個關鍵詞原文是什麼、還出現在哪些經裡」。",
+          "遇到術語卡住，查本站字典（/lexicon）：每個詞條有詞義、詞源與出現位置。想確認某段教導的可靠度，用阿含對照（/agama）看漢譯平行經文——兩個獨立傳承都保存的內容，是早期教法最穩的部分。想橫向理解一個主題（四聖諦、四念處、無我……），主題頁（/topics）把散在多部經的相關段落整理在一起，適合當讀經的隨身參考。",
+          "最後一個建議：讀經不是進度競賽。一部短經反覆讀三遍，勝過十部經各讀一遍——尼柯耶的定型句與重複結構，本來就是為「反覆咀嚼」設計的。"
+        ],
+        "quotes": []
+      }
+    ],
+    "mahayana_note": "許多中文讀者是從《心經》《金剛經》等漢傳經典認識佛教的。這些大乘經典與巴利尼柯耶屬於不同的文獻層與傳承脈絡：尼柯耶（及對應的漢譯阿含）是現存最早的經典層，大乘經典則在其後數百年間陸續集出，各自在不同傳統中被奉為根本。兩者的關係是歷史層位與詮釋進路的不同，而非真偽或高下之別——本站的立場是把最早期的文本如實呈現，供讀者自行對照；熟悉漢傳經典的讀者讀尼柯耶時，常會發現大乘教義的許多源頭概念（如空、無我、波羅蜜的雛形）在早期文本中已有脈絡可尋，這種「回到上游」的閱讀經驗本身就很有價值。",
+    "faq": [
+      {
+        "q": "完全沒有佛學基礎，可以直接讀經嗎？",
+        "a": "可以，而且尼柯耶可能是最適合零基礎直接讀的佛教文獻：多數經是具體場景中的問答，一經講一件事，不預設你讀過其他東西。本站的白話對照就是為此設計的——先讀白話掌握大意，有興趣再看巴利逐字。建議從《轉法輪經》（SN56.11）或《蛇喻經》（MN22）開始，避開《中部》第一經（《根本法門經》是全藏最抽象的經之一，不適合當第一部）。"
+      },
+      {
+        "q": "巴利經典和《心經》《金剛經》這些佛經有什麼不同？",
+        "a": "主要是語言與傳承層位的不同。巴利經典以巴利語保存，屬現存最早的經典層，與漢譯《阿含經》同源；《心經》《金剛經》是大乘經典，原典為梵語，集出年代較晚，在漢傳、藏傳等傳統中被奉為根本。兩者風格也不同：尼柯耶多為具體場景的對話與次第教導，大乘經典則多開展空性等哲學主題。這是層位與進路的差異，不是高下之別——不少讀者兩邊都讀，互相參照。"
+      },
+      {
+        "q": "需要先學巴利文嗎？",
+        "a": "不需要。本站每部經都有白話翻譯與逐字解析，逐字解析的用意正是讓不懂巴利文法的讀者也能對照原文、認識關鍵詞——讀久了自然會累積一批核心術語（dukkha、sati、taṇhā……），這對理解教義已經足夠。若之後想正式學巴利語，SuttaCentral 有入門資源可以銜接，但那是興趣的延伸，不是讀經的門檻。"
+      },
+      {
+        "q": "一天讀多少經文比較合適？",
+        "a": "沒有標準答案，讀經不是背進度。務實的建議：一次一部短經（或長經的一個段落），讀完花幾分鐘想一件事——這段在講什麼問題、跟我有什麼關係。一週能這樣消化一到兩部，一年就超過五十部，已勝過泛泛翻完全藏。覺得某部經特別有感，就反覆讀：尼柯耶的重複結構本來就是為咀嚼設計的，第三遍常常才是真正開始。"
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "satipatthana",
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "sn56.11",
+      "mn141",
+      "mn10",
+      "mn22"
+    ],
+    "related_lexicon": [],
+    "external_resources": [
+      {
+        "label": "SuttaCentral",
+        "url": "https://suttacentral.net/",
+        "desc": "收錄巴利三藏全文與多語譯本（含中譯）的國際性開放平台，本站尚未涵蓋的經文都可以在此讀到，也有巴利語學習資源。"
+      },
+      {
+        "label": "莊春江工作站",
+        "url": "https://agama.buddhason.org/",
+        "desc": "莊春江居士的巴利經典中譯站，相應部、中部、長部、增支部皆有完整翻譯與詳細注解，是中文世界深讀尼柯耶的重要資源。"
+      }
+    ]
+  },
+  "en": {
+    "title": "A Beginner's Guide to Reading the Pali Canon",
+    "seo_title": "Where to Start Reading the Pali Canon: A Beginner's Sutta Guide",
+    "seo_description": "Which sutta should you read first? A practical starting guide to the Pali Nikayas by reader type: the Dhammacakkappavattana Sutta (SN 56.11) for core teachings, the Satipatthana Sutta (MN 10) for meditation, the Simile of the Snake (MN 22) for the Buddha's way of arguing — each with reasons, follow-up routes, and reading methods, all with Pali-and-translation study pages on this site.",
+    "question": "Where should a beginner start reading the Pali Canon?",
+    "definition": "Don't read the Pali Canon front to back — pick a starting point by purpose. For the core teachings, start with the Dhammacakkappavattana Sutta (SN 56.11) and the Saccavibhaṅga Sutta (MN 141); for meditation, the Satipaṭṭhāna Sutta (MN 10) and the Ānāpānassati Sutta (MN 118); for the Buddha's way of reasoning, the Simile of the Snake (MN 22) or the Honeyball Sutta (MN 18). All are short, self-contained, and available on this site with Pali text and translation side by side.",
+    "sections": [
+      {
+        "heading": "Why Start with the Nikayas",
+        "paragraphs": [
+          "'Pali Canon' refers to the early Buddhist scriptures preserved in the Pali language. Its sutta collection is organized into five Nikayas ('collections'): the Long, Middle-Length, Connected, Numerical, and Minor collections. In terms of textual strata, the Nikayas and the Chinese Āgamas belong to the earliest surviving layer of Buddhist literature; the two descend from common sources and can be checked against each other. If your question is 'what did the Buddha most likely actually teach,' this is the closest starting point to the source.",
+          "For beginners the Nikayas have a practical advantage: most suttas are short, address one matter each, and are set in concrete scenes — who asked what, where, and how the Buddha answered. You do not need to absorb a philosophical system first. The stock formulas do repeat, but repetition is the memory architecture of an oral literature; after a few suttas the refrains become familiar landmarks.",
+          "That said, the thousands of suttas were never designed to be read from number one — the very first discourse of the Middle Length collection, the Mūlapariyāya Sutta, is among the hardest texts in the entire canon. The key is not to start at the beginning but to pick the right entry point for your purpose. Below are three routes of two suttas each, matched to three common reader types; all of them have full word-by-word Pali analysis and translation on this site."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "For the Core Teachings: SN 56.11 + MN 141",
+        "paragraphs": [
+          "If your question is 'what is Buddhism actually about,' the canonical starting point is the Dhammacakkappavattana Sutta — the Setting in Motion of the Wheel of Dhamma (SN 56.11, /read/sn56.11), the Buddha's first discourse after his awakening. Speaking to the five ascetics, he rejects two extremes — indulgence in sensual pleasure and self-mortification — and declares the middle way he has awakened to: the noble eightfold path. He then teaches the four noble truths: suffering, its origin in craving, its cessation, and the path. The sutta is short, yet it hands you the skeleton of the whole teaching; everything else in the canon can be hung on this frame.",
+          "With the skeleton in place, read the Saccavibhaṅga Sutta — the Analysis of the Truths (MN 141, /read/mn141) — to fill in the flesh. Set in the same Deer Park, it records the Buddha announcing that the wheel of Dhamma has been set rolling, and then Sāriputta expounding each of the four truths in detail for the monks: how birth, aging, and death are suffering; how craving originates it; the definition of each factor of the eightfold path. Treat it as the authorized commentary on SN 56.11: first the outline, then the detail, and the lesson on the four truths is complete.",
+          "Finish this route and you hold a map for everything else — a great many suttas in the Nikayas are, in effect, expansions of one of the four truths."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "For Meditation: MN 10 + MN 118",
+        "paragraphs": [
+          "If you came to the suttas through mindfulness or meditation, start from the root texts of the method. The Satipaṭṭhāna Sutta (MN 10, /read/mn10) is the complete manual of the four foundations of mindfulness: the Buddha opens by calling this the one path leading to purification and nibbāna, then systematically lays out contemplation of body, feelings, mind, and dhammas — from awareness of breathing and postures to the observation of feelings and mental states. It is the source text behind modern mindfulness teaching.",
+          "Pair it with the Ānāpānassati Sutta (MN 118, /read/mn118). Taught to the assembled Sangha on a full-moon night, it unfolds mindfulness of breathing into sixteen steps and shows how this single breath-based practice fulfills, in sequence, the four foundations of mindfulness, the seven awakening factors, and true knowledge and liberation. MN 10 gives you the panoramic map; MN 118 walks one road on that map from start to finish. The two illuminate each other.",
+          "Both suttas have segment-by-segment Pali text on this site, so terms you hear in meditation contexts — sati, sampajañña, ātāpī — can be seen in their original settings. See also this site's topic pages on Satipatthana and Anapanasati for background."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:2.1"
+            ],
+            "lead": "The Satipaṭṭhāna Sutta's opening declaration:"
+          }
+        ]
+      },
+      {
+        "heading": "For the Buddha's Way of Reasoning: MN 22 or MN 18",
+        "paragraphs": [
+          "Some readers are drawn first not to doctrinal lists but to the Buddha's style of argument and simile. Start with the Alagaddūpama Sutta — the Simile of the Snake (MN 22, /read/mn22). A monk clings to a wrong view and will not be corrected; the Buddha handles the case in person and, in doing so, delivers two of the most famous similes in the canon: the water-snake (grasp the Dhamma for the sake of winning debates and it bites you, like a snake seized by the tail; grasp it rightly, for liberation, and it is held safely at the neck) and the raft (the Dhamma is for crossing over, not for carrying on your shoulder afterward). Motivation for study, and attachment to the teaching itself — this sutta settled both questions over two millennia ago.",
+          "An alternative is the Madhupiṇḍika Sutta — the Honeyball (MN 18, /read/mn18). It opens dramatically: a staff-carrying Sakyan demands to know 'what doctrine does the ascetic hold?' The Buddha answers that he disputes with no one in the world — for one in whom craving is ended, perceptions no longer lie latent. The man shakes his head and leaves. The Buddha later gives the monks a brief statement of the principle, which a disciple then unpacks in detail. For how the Buddha meets provocation, and for a fine-grained analysis of how conceptual proliferation ensnares the mind, this is an excellent specimen.",
+          "The advantage of this route: you first experience these texts as literature and thought; the doctrinal scaffolding can be added afterward."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "After the Starter Suttas: Going Deeper",
+        "paragraphs": [
+          "Once a starter route is done, follow your interest. To consolidate the doctrinal framework, read the Sammādiṭṭhi Sutta — Right View (MN 9, /read/mn9): Sāriputta works through sixteen sets of teachings in question-and-answer form, analyzing each with the same four-truth template — 'knowing it, its origin, its cessation, and the way to its cessation.' It is a demonstration of the four truths used as a thinking tool, and a doorway into dependent origination. To see how defilements are actually dealt with, read the Sabbāsava Sutta — All the Taints (MN 2, /read/mn2): seven methods for abandoning the taints, with wise attention (yoniso manasikāra) at the core — where you place attention determines whether defilements grow or cease.",
+          "For training the mind, continue with the Dvedhāvitakka Sutta (MN 19, /read/mn19) and the Vitakkasaṇṭhāna Sutta (MN 20, /read/mn20): in the first, the Buddha recounts how, before his awakening, he sorted and tamed his own thoughts ('the mind's inclination is shaped by what one frequently thinks'); the second gives five concrete steps for countering unwholesome thoughts — immediately practical. For the full gradual path, the Rathavinīta Sutta — the Relay Chariots (MN 24, /read/mn24) — uses seven relay chariots to picture the seven stages of purification.",
+          "In honesty about this site's scope: the suttas with completed translations here are mainly the first twenty-five discourses of the Majjhima Nikāya, plus MN 118, MN 141, and SN 56.11; other collections are being added. For more, two reliable destinations: SuttaCentral hosts the complete Nikayas with translations in many languages, and Zhuang Chunjiang's workstation offers full Chinese translations with detailed notes. Start here, go deep there — that is the route we consider honest."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "How to Read: Using the Study Tools",
+        "paragraphs": [
+          "Every sutta study page on this site (pages under /read/) has three layers: the Pali text, a word-by-word analysis, and a plain-language translation. The suggested method: read the translation first for the gist, then return to passages that strike you and look at the Pali word by word. No Pali grammar is required — the word-by-word layer exists precisely so that you can see what a key term is in the original and where else it appears, without studying the language.",
+          "When a technical term blocks you, check the site dictionary (/lexicon): each entry gives meaning, derivation, and occurrences. To gauge how well attested a teaching is, use the Āgama parallels (/agama) to compare the Chinese counterpart — content preserved independently by both transmission lines is the most secure part of the early teaching. To understand a theme across suttas (the four truths, the foundations of mindfulness, not-self…), the topic pages (/topics) gather the relevant passages from multiple discourses in one place — a handy companion while reading.",
+          "A final suggestion: reading suttas is not a race. One short sutta read three times over beats ten suttas read once — the stock formulas and repetitions of the Nikayas were designed for chewing, not skimming."
+        ],
+        "quotes": []
+      }
+    ],
+    "mahayana_note": "Many readers first meet Buddhism through Mahayana scriptures such as the Heart Sutra or the Diamond Sutra. These belong to a different textual stratum and transmission lineage from the Pali Nikayas: the Nikayas (with their Chinese Āgama counterparts) form the earliest surviving scriptural layer, while the Mahayana sutras were compiled over the following centuries and are held as foundational in their own traditions. The difference is one of historical strata and interpretive approach, not of authenticity ranked against falsehood — this site's position is to present the earliest texts as they stand and let readers compare. Readers familiar with Mahayana scriptures often find, when reading the Nikayas, that many seed concepts of later doctrine (emptiness, not-self, early forms of the perfections) are already traceable in the early texts; that experience of reading upstream is itself worth having.",
+    "faq": [
+      {
+        "q": "Can I read the suttas with no background in Buddhism at all?",
+        "a": "Yes — the Nikayas may be the most beginner-friendly Buddhist literature there is: most suttas are dialogues in concrete settings, each treating one matter, presupposing nothing else. This site's plain-language translations are designed exactly for this — read the translation for the gist first, then look at the Pali if curious. Start with the Dhammacakkappavattana Sutta (SN 56.11) or the Simile of the Snake (MN 22), and skip MN 1 for now — the Mūlapariyāya Sutta is one of the most abstract texts in the canon and a poor first sutta."
+      },
+      {
+        "q": "How do the Pali suttas differ from texts like the Heart Sutra or Diamond Sutra?",
+        "a": "Mainly in language and textual stratum. The Pali suttas are preserved in Pali and belong to the earliest surviving scriptural layer, sharing sources with the Chinese Āgamas; the Heart and Diamond Sutras are Mahayana scriptures, originally in Sanskrit, compiled later, and foundational in the East Asian and Tibetan traditions. The styles differ too: Nikaya suttas are mostly situated dialogues and step-by-step instruction, while Mahayana sutras develop philosophical themes such as emptiness. It is a difference of strata and approach, not of rank — many readers study both, side by side."
+      },
+      {
+        "q": "Do I need to learn Pali first?",
+        "a": "No. Every sutta on this site comes with a plain-language translation and a word-by-word analysis, whose whole purpose is to let readers without Pali grammar follow the original text and recognize key terms. Over time you naturally accumulate a working vocabulary (dukkha, sati, taṇhā…), which is enough for understanding the teachings. If you later want to study Pali properly, SuttaCentral has introductory resources to continue with — but that is an extension of interest, not a prerequisite for reading."
+      },
+      {
+        "q": "How much should I read per day?",
+        "a": "There is no standard answer — sutta reading is not a progress bar. A practical approach: one short sutta (or one section of a long one) per sitting, followed by a few minutes asking what problem the passage addresses and what it has to do with you. Digesting one or two suttas a week this way adds up to more than fifty a year — worth more than skimming the whole canon. When a sutta strikes you, reread it: the repetitive structure of the Nikayas was made for chewing, and the third reading is often where it truly begins."
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "satipatthana",
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "sn56.11",
+      "mn141",
+      "mn10",
+      "mn22"
+    ],
+    "related_lexicon": [],
+    "external_resources": [
+      {
+        "label": "SuttaCentral",
+        "url": "https://suttacentral.net/",
+        "desc": "An open international platform hosting the complete Pali Canon with translations in many languages, including everything not yet covered on this site, plus Pali learning resources."
+      },
+      {
+        "label": "Zhuang Chunjiang's workstation (Chinese)",
+        "url": "https://agama.buddhason.org/",
+        "desc": "Complete Chinese translations of the Saṁyutta, Majjhima, Dīgha, and Aṅguttara Nikāyas with detailed annotations — a key resource for deep reading in Chinese."
+      }
+    ]
+  }
+}

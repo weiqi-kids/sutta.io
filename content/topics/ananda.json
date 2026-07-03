@@ -1,0 +1,256 @@
+{
+  "slug": "ananda",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "原典中的阿難",
+    "seo_title": "阿難是誰？佛陀的侍者與多聞第一（原典中的阿難）",
+    "seo_description": "阿難（Ānanda）是佛陀的主要弟子之一、佛陀的堂兄弟，隨侍佛陀二十五年，佛陀般涅槃後在第一次結集負責誦出經藏。本頁依《巴利專有名詞辭典》（DPPN）節錄與站內巴利原典《蜜丸經》（MN18）、《入出息念經》（MN118）整理原典中的阿難——包括「蜜丸經」經名由他而來的著名場景——每段敘述都標明出處，可逐段點入經文對照。",
+    "question": "阿難是誰？",
+    "definition": "阿難（Ānanda）是佛陀的主要弟子之一，也是佛陀的堂兄弟。依《巴利專有名詞辭典》（DPPN），他於佛陀弘法第二年出家、由佛陀親自授戒，此後二十五年常隨佛陀身邊，參與眾多開示；佛陀般涅槃後，他是第一次結集的主要誦出者之一，負責誦出經藏。",
+    "sections": [
+      {
+        "heading": "他是誰：DPPN 節錄裡的阿難",
+        "paragraphs": [
+          "依《巴利專有名詞辭典》（DPPN），阿難（Ānanda）是佛陀的主要弟子之一（one of the principal disciples），也是佛陀的堂兄弟（first cousin），對佛陀有深摯的情感。他在佛陀弘法的第二年出家，同行的還有跋提（Bhaddiya）、阿那律（Anuruddha）、婆咎（Bhagu）、金毘羅（Kimbila）、提婆達多（Devadatta）等釋迦族王子；他由佛陀親自授戒，戒師（upajjhāya）是 Belaṭṭhasīsa。",
+          "DPPN 節錄接著記載：出家後不久，他聽了富樓那．滿慈子（Puṇṇa Mantāniputta）的一場開示而證入流果（Sotāpanna）。此後的二十五年，他常隨佛陀身邊，參與了眾多開示；佛陀般涅槃後，他是第一次結集的主要誦出者之一，負責誦出經藏（the Suttas）。傳統上稱他為佛陀的侍者、「多聞第一」的弟子——這兩個稱號本身不在本頁所據的 DPPN 節錄之內，但節錄所記的「隨佛二十五年」與「結集誦出經藏」正是這些稱號通常所指的事。",
+          "阿難在佛典中的完整生平散見各部經與律藏，網路上關於他的故事也很多，但多數不附出處。本頁採取不同的做法：只呈現 DPPN 節錄與本站已收錄經文中的他，每段敘述都具名標明來源，可逐段點入對照。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "名場面：《蜜丸經》的經名，是他取的",
+        "paragraphs": [
+          "《蜜丸經》（Madhupiṇḍikasutta, MN18）保存了阿難最著名的登場之一。這部經的主線是：佛陀在迦毘羅衛城對比丘們留下一段極簡短的開示——「若無應歡喜、應迎接、應執取的，就是諸隨眠與諍論的終結」——便起身進入精舍；比丘們轉而請大迦旃延（Mahākaccāna）詳細解析，再回報佛陀，佛陀印可說：若問我，我也會這樣回答。",
+          "就在這一刻，阿難開口了。他以一個比喻總結整場教學：就像一個飢餓虛弱的人得到一個蜜團（madhupiṇḍika），無論從哪裡品嚐都是純粹的甘美——有能力的比丘從任何角度審察這個法門，也都能得到滿足與心的淨信。然後他問佛陀：「大德，此法門名為何？」",
+          "佛陀便讓阿難以「蜜丸法門」憶持這部教說（mn18:22.5）；經文結尾標記「蜜球經第八，圓滿」——這部經的名字，就是從阿難的這個比喻與這一問而來。這個場景同時展現了原典中阿難的典型位置：他在現場聽完全程，最後用一個貼切的比喻把整場教學收攏起來，並為它留名。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:22.1",
+              "mn18:22.2",
+              "mn18:22.3",
+              "mn18:22.4"
+            ],
+            "lead": "阿難以蜜丸為喻讚歎此法門，並請問經名："
+          },
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:22.5",
+              "mn18:22.6",
+              "mn18:22.7",
+              "mn18:22.8"
+            ],
+            "lead": "佛陀讓他以「蜜丸法門」憶持，阿難歡喜奉行："
+          }
+        ]
+      },
+      {
+        "heading": "「如是我聞」：每部經開頭都有他的身影",
+        "paragraphs": [
+          "打開站內任何一部經，第一句都是「如是我聞」（Evaṁ me sutaṁ）——「我是這樣聽到的」。傳統上認為，這個「我」指的就是阿難：佛陀般涅槃後，弟子們舉行第一次結集（saṅgīti）合誦佛陀的教說，由阿難憑記憶誦出諸經，經首的「如是我聞」即標記「以下是阿難親耳聽聞的版本」。這是流傳久遠的傳統說法。",
+          "本頁所據的 DPPN 節錄則提供了與此相應的記載：阿難是第一次結集的主要誦出者之一，負責誦出經藏；而他之所以能夠承擔這件事，節錄給出的背景是——他隨佛陀身邊二十五年，參與了眾多開示。換句話說，你今天還能逐段讀到這些經文，按傳統的說法，第一位「轉述者」就是阿難。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:1.1"
+            ],
+            "lead": "每部經的第一句——傳統上，這個「我」就是阿難："
+          }
+        ]
+      },
+      {
+        "heading": "《入出息念經》：長老弟子名單中的阿難",
+        "paragraphs": [
+          "《入出息念經》（Ānāpānassatisutta, MN118）開頭記載，世尊住在舍衛城東園鹿子母講堂，身邊是一份陣容罕見的長老弟子名單：舍利弗、大目揵連、大迦葉、大迦旃延、大拘絺羅、大劫賓那、大純陀、阿那律、離婆多——以及阿難。經文接著描述，這些長老比丘們各自教導著十位、二十位、三十位、四十位新比丘。",
+          "這一段沒有阿難的個別台詞，但它如實呈現了他在僧團中的位置：與舍利弗、目犍連等並列於「著名的長老弟子」（abhiññātā therā sāvakā）之列，共同在場聆聽佛陀宣說入出息念的完整教學。DPPN 所說的「參與眾多開示」，在原典裡常常就是這樣的身影——他在場，他聽著，而後來這些經由他誦出流傳。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": [
+              "mn118:1.2",
+              "mn118:1.3"
+            ],
+            "lead": "《入出息念經》開頭的長老弟子名單，阿難名列其中："
+          }
+        ]
+      },
+      {
+        "heading": "順帶一課：ānanda 這個詞，以及本頁的範圍",
+        "paragraphs": [
+          "阿難的名字 Ānanda，拼寫與巴利語的常用名詞 ānanda 相同——這個詞的意思是「喜悅」。站內《蛇喻經》（MN22）就有它作為普通名詞的用例：經中說，即使他人尊重、供養如來，如來也「不會生起喜悅（ānando）、心悅」。所以在巴利原文裡搜尋 ānanda，找到的不一定是這位尊者本人——有時只是「喜悅」這個詞。",
+          "最後誠實框定本頁的範圍：阿難在佛典中的完整生平散見各部經與律藏——包括許多讀者可能聽過的著名故事——本頁僅呈現 DPPN 節錄與本站已收錄經文中的他。凡不在這些材料之內的敘述，本頁一律不寫；隨著站內收錄的經文增加，這一頁也會跟著長出新的段落。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn22",
+            "segment_ids": [
+              "mn22:38.1"
+            ],
+            "lead": "ānanda 作為普通名詞「喜悅」的原典用例："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "阿難在大乘傳統中同樣是核心人物。漢譯大乘經典開頭的「如是我聞」，傳統上一樣歸於阿難的誦出；《楞嚴經》更以阿難為全經的當機眾——經文由他的一次遭難發端，佛陀對他層層開示。在禪宗的付法傳承譜系中，阿難被列為繼摩訶迦葉之後的西天第二祖。這些描寫各屬其文獻傳統；本站依巴利原典呈現阿難，大乘傳統的形象並陳於此供對照，不作高下裁決。",
+    "faq": [
+      {
+        "q": "阿難和阿難陀是同一人嗎？",
+        "a": "是同一人。巴利語 Ānanda 的漢譯全稱音譯作「阿難陀」，簡稱「阿難」，是漢傳文獻最通行的寫法；兩者只是同一名字的繁簡音譯差異，所指都是本頁這位佛陀的弟子。"
+      },
+      {
+        "q": "「如是我聞」的「我」是誰？",
+        "a": "傳統上認為是阿難。經典開頭的「如是我聞」（Evaṁ me sutaṁ）標記這部經是誦出者親耳所聞；依傳統說法，佛陀般涅槃後第一次結集時由阿難誦出諸經，所以這個「我」指阿難。本頁所據的 DPPN 節錄與此相應：阿難是第一次結集的主要誦出者之一，負責誦出經藏。"
+      },
+      {
+        "q": "阿難為什麼叫「多聞第一」？",
+        "a": "「多聞第一」是漢傳與南傳共通的傳統稱號，稱號本身不在本頁所據的 DPPN 節錄之內。節錄可直接佐證的是這個稱號通常所指的事實：阿難隨佛陀身邊二十五年、參與眾多開示，並在第一次結集中負責誦出經藏——聽得最多、記得最全，故傳統稱他「多聞第一」。"
+      },
+      {
+        "q": "站內哪些經可以看到阿難？",
+        "a": "目前有兩處：《蜜丸經》（MN18）結尾，他以蜜丸為喻讚歎法門並請佛定經名——經名即由此而來；《入出息念經》（MN118）開頭，他名列著名長老弟子名單。另外《蛇喻經》（MN22）雖出現 ānando 一詞，但那是巴利語普通名詞「喜悅」，並非阿難本人登場。"
+      }
+    ],
+    "related_topics": [
+      "sariputta",
+      "moggallana"
+    ],
+    "related_suttas": [
+      "mn18",
+      "mn118"
+    ],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "Ananda in the Original Texts",
+    "seo_title": "Who Was Ananda? The Buddha's Attendant and Foremost in Learning — Sourced from the Pali Texts",
+    "seo_description": "Ananda (Ānanda) was one of the principal disciples and a first cousin of the Buddha. He stayed close to the Buddha for twenty-five years and recited the Suttas at the First Council. This page assembles his story strictly from named sources — the Dictionary of Pali Proper Names (DPPN) and the Pali suttas MN 18 and MN 118 on this site — including the famous scene in which the Honeyball Sutta got its name from him, with every quotation linked segment by segment.",
+    "question": "Who was Ananda?",
+    "definition": "Ananda (Pali: Ānanda) was one of the principal disciples of the Buddha and his first cousin. According to the Dictionary of Pali Proper Names (DPPN), he entered the Order in the second year of the Buddha's ministry, was ordained by the Buddha himself, remained close to the Buddha for the following twenty-five years, and after the Buddha's passing was one of the principal reciters at the First Council, responsible for the recitation of the Suttas.",
+    "sections": [
+      {
+        "heading": "Who He Was: Ananda in the DPPN Excerpt",
+        "paragraphs": [
+          "According to the Dictionary of Pali Proper Names (DPPN), Ānanda was one of the principal disciples of the Buddha, a first cousin of his, and deeply attached to him. He entered the Order in the second year of the Buddha's ministry, together with other Sakyan princes such as Bhaddiya, Anuruddha, Bhagu, Kimbila, and Devadatta; he was ordained by the Buddha himself, his upajjhāya (preceptor) being Belaṭṭhasīsa.",
+          "The excerpt continues: soon after, he heard a discourse by Puṇṇa Mantāniputta and became a Sotāpanna (stream-enterer). For the following twenty-five years he remained close to the Buddha and participated in numerous discourses; after the Buddha passed away, he was one of the principal reciters at the First Council, responsible for the recitation of the Suttas. Tradition calls him the Buddha's attendant and the disciple foremost in learning — those two epithets themselves are not in the DPPN excerpt this page relies on, but what the excerpt does record (twenty-five years at the Buddha's side; reciting the Suttas at the First Council) is precisely what the epithets usually refer to.",
+          "Ananda's full life story is scattered across the suttas and the Vinaya, and many popular retellings cite no sources. This page takes the opposite approach: it presents only the Ananda found in the DPPN excerpt and in the suttas collected on this site, with every statement attributed by name and checkable segment by segment."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "The Famous Scene: He Named the Honeyball Sutta",
+        "paragraphs": [
+          "The Madhupiṇḍikasutta (MN 18) preserves one of Ananda's best-known appearances. The sutta's main storyline: at Kapilavatthu the Buddha leaves the monks a strikingly brief statement — where there is nothing to delight in, welcome, or cling to, that is the end of the underlying tendencies and of quarrels — and retires to his dwelling; the monks turn to Mahākaccāna for a detailed analysis, then report back to the Buddha, who endorses it: had they asked him, he would have answered exactly the same way.",
+          "At that moment Ananda speaks up. He sums up the whole teaching session with a simile: just as a man overcome by hunger and weakness who obtains a honeyball (madhupiṇḍika) finds a pure, sweet taste wherever he bites, so a capable monk who examines the meaning of this teaching from any angle will find satisfaction and confidence of heart. Then he asks the Buddha: 'Venerable sir, what is the name of this exposition of the Dhamma?'",
+          "The Buddha tells Ananda to remember it as the Honeyball exposition (mn18:22.5), and the sutta closes with the marker 'the Honeyball Sutta, the eighth, is finished' — the discourse owes its very name to Ananda's simile and his question. The scene also captures Ananda's characteristic position in the original texts: present through the whole exchange, he gathers the entire teaching into one apt image at the end, and gives it a name to be remembered by."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:22.1",
+              "mn18:22.2",
+              "mn18:22.3",
+              "mn18:22.4"
+            ],
+            "lead": "Ananda praises the teaching with the honeyball simile and asks for its name:"
+          },
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:22.5",
+              "mn18:22.6",
+              "mn18:22.7",
+              "mn18:22.8"
+            ],
+            "lead": "The Buddha tells him to remember it as the Honeyball exposition, and Ananda rejoices:"
+          }
+        ]
+      },
+      {
+        "heading": "'Thus Have I Heard': His Presence at the Head of Every Sutta",
+        "paragraphs": [
+          "Open any sutta on this site and the first line is 'Thus have I heard' (Evaṁ me sutaṁ). By tradition, the 'I' is Ananda: after the Buddha's passing, the disciples held the First Council to recite the teachings together, and Ananda recited the suttas from memory — the opening formula marks what follows as the version Ananda himself heard. This is the long-standing traditional account.",
+          "The DPPN excerpt this page relies on records the corresponding facts: Ananda was one of the principal reciters at the First Council and was responsible for the recitation of the Suttas; and the background the excerpt gives for how he could carry this — he remained close to the Buddha for twenty-five years and participated in numerous discourses. In other words, if you can still read these texts segment by segment today, then by the traditional account, the first person to pass them on was Ananda."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn18",
+            "segment_ids": [
+              "mn18:1.1"
+            ],
+            "lead": "The first line of every sutta — by tradition, this 'I' is Ananda:"
+          }
+        ]
+      },
+      {
+        "heading": "MN 118: Ananda on the Roll of Elder Disciples",
+        "paragraphs": [
+          "The Ānāpānassatisutta (MN 118) opens with the Blessed One staying at the Eastern Park near Sāvatthī, surrounded by a rare roll call of distinguished elder disciples: Sāriputta, Mahāmoggallāna, Mahākassapa, Mahākaccāyana, Mahākoṭṭhika, Mahākappina, Mahācunda, Anuruddha, Revata — and Ānanda. The sutta then describes these elders each instructing ten, twenty, thirty, or forty new monks.",
+          "Ananda has no individual lines in this passage, yet it shows his standing in the Sangha exactly as the texts record it: named among the 'well-known elder disciples' (abhiññātā therā sāvakā) alongside Sāriputta and Moggallāna, present as the Buddha delivers the complete teaching on mindfulness of breathing. What the DPPN calls 'participating in numerous discourses' often looks just like this in the original texts — he is there, he is listening, and these are the discourses later recited through him."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": [
+              "mn118:1.2",
+              "mn118:1.3"
+            ],
+            "lead": "The roll of elder disciples at the opening of MN 118, with Ananda among them:"
+          }
+        ]
+      },
+      {
+        "heading": "A Side Note: The Word ānanda, and the Scope of This Page",
+        "paragraphs": [
+          "Ananda's name, Ānanda, is spelled the same as the common Pali noun ānanda — a word meaning 'joy' or 'delight.' The Alagaddūpamasutta (MN 22) on this site has it as an ordinary noun: the sutta says that even when others honor and venerate the Tathāgata, no 'joy (ānando), gladness, or elation of mind' arises in him. So a search for ānanda in the Pali text will not always find the venerable elder himself — sometimes it is simply the word for joy.",
+          "Finally, an honest note on scope: Ananda's full life story — including many famous episodes readers may have heard — is scattered across the suttas and the Vinaya. This page presents only the Ananda found in the DPPN excerpt and in the suttas already collected on this site; anything outside those materials is deliberately left untold. As more suttas are added to the site, this page will grow new sections with them."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn22",
+            "segment_ids": [
+              "mn22:38.1"
+            ],
+            "lead": "The word ānanda as a common noun meaning 'joy,' in the original text:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "Ananda is equally central in the Mahāyāna tradition. The opening formula 'Thus have I heard' in Chinese Mahāyāna sutras is likewise traditionally attributed to his recitation; in the Śūraṅgama Sūtra he is the principal interlocutor of the entire text — the discourse begins with an ordeal of his, and the Buddha teaches him step by step. In the Chan (Zen) lineage of Dharma transmission, Ananda is listed as the second Indian patriarch, after Mahākāśyapa. Each of these portrayals belongs to its own textual tradition; this site presents the Ananda of the Pali sources, and notes the Mahāyāna depictions here for comparison without ranking one above the other.",
+    "faq": [
+      {
+        "q": "Are Ananda and Anandatuo (Ānanda) the same person?",
+        "a": "Yes. The Pali name Ānanda was transcribed in full into Chinese as 'A-nan-tuo' (阿難陀) and abbreviated as 'A-nan' (阿難), the form most common in Chinese Buddhist literature. They are simply longer and shorter transcriptions of the same name, both referring to the disciple of the Buddha presented on this page."
+      },
+      {
+        "q": "Who is the 'I' in 'Thus have I heard'?",
+        "a": "By tradition, Ananda. The opening formula 'Thus have I heard' (Evaṁ me sutaṁ) marks the sutta as something the reciter personally heard; according to the traditional account, Ananda recited the suttas at the First Council after the Buddha's passing, so the 'I' refers to him. The DPPN excerpt this page relies on records the corresponding facts: Ananda was one of the principal reciters at the First Council, responsible for the recitation of the Suttas."
+      },
+      {
+        "q": "Why is Ananda called 'foremost in learning'?",
+        "a": "'Foremost in learning' (or 'foremost in having heard much') is his traditional epithet across Buddhist traditions; the epithet itself is not in the DPPN excerpt this page relies on. What the excerpt does support is the substance behind it: Ananda remained close to the Buddha for twenty-five years, participated in numerous discourses, and was responsible for reciting the Suttas at the First Council — he heard the most and remembered the most, hence the traditional title."
+      },
+      {
+        "q": "In which suttas on this site does Ananda appear?",
+        "a": "Currently two places: at the close of the Madhupiṇḍikasutta (MN 18), where he praises the teaching with the honeyball simile and asks the Buddha to name it — the sutta's very name comes from this; and at the opening of the Ānāpānassatisutta (MN 118), where he is named on the roll of distinguished elder disciples. The Alagaddūpamasutta (MN 22) does contain the word ānando, but there it is the ordinary Pali noun for 'joy,' not an appearance by Ananda himself."
+      }
+    ],
+    "related_topics": [
+      "sariputta",
+      "moggallana"
+    ],
+    "related_suttas": [
+      "mn18",
+      "mn118"
+    ],
+    "related_lexicon": []
+  }
+}

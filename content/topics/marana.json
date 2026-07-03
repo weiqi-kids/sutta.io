@@ -1,0 +1,324 @@
+{
+  "slug": "marana",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "佛教的死亡觀（maraṇa）",
+    "seo_title": "佛教怎麼看死亡？原典中「死」的定義與四聖諦的回答",
+    "seo_description": "佛教怎麼看死亡？巴利原典對「死」（maraṇa）有正式定義：《諦分別經》（MN141）說死是諸蘊壞散、色身棄捨、命根斷絕。本頁依原文呈現死的定義、死在十二因緣「生緣老死」中的位置、為何說死是苦，以及經文指出的超越之道——渴愛的止息，附巴利與白話對照。",
+    "question": "佛教怎麼看死亡？",
+    "definition": "佛教原典對「死」（maraṇa）有明確的正式定義：《諦分別經》（MN141）說，死是諸眾生從各類眾生中的死歿、消逝、諸蘊壞散、色身棄捨、命根斷絕。經文把死放在兩個框架中理解：在四聖諦中，死是苦諦所列的一項；在十二因緣中，死屬「老死支」——「從生的集起，有老死的集起」，死不是一條線的終點，而是有條件的緣起環節。經文給出的回答始終指向實踐：滅去導向再有的渴愛，整個「生—老死」的循環便止息。",
+    "sections": [
+      {
+        "heading": "佛陀怎麼定義「死」：MN141 的正式界說",
+        "paragraphs": [
+          "「死亡是什麼」在巴利原典中不是留給想像的問題，而是有正式定義的術語。《諦分別經》（Saccavibhaṅgasutta, MN141）中，舍利弗奉佛陀之命逐項分別四聖諦，講到苦諦的「死亦是苦」時，以問答體給出界說：「諸友，復何為死？」答案是一串具體的描述——各類眾生從其眾生類別中的死歿（cuti）、消逝、壞滅、消失、死亡、命終、諸蘊壞散、色身棄捨、命根斷絕（jīvitindriyassupacchedo）。",
+          "這個定義有兩個值得注意的特點。第一，它是描述性的，不是形上學的：定義說的是「發生了什麼」——構成一期生命的五蘊解體、身體被捨下、維繫生命的機能斷絕——通篇沒有靈魂離體、前往他界之類的形上語彙。第二，定義以「從彼彼有情類」起頭：死不是抽象的概念，而是相對於一期具體生命、一類具體存在而說的事件。",
+          "同一段定義逐字出現在《正見經》（MN9）的老死支問答中。這是尼柯耶經典裡的標準公式：同一套界說在不同經文、不同脈絡中反覆出現，顯示這是經藏一貫的正式定義，而非某部經的孤例。下一節就轉到 MN9，看這個定義被放進什麼樣的框架。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:13.1",
+              "mn141:13.2",
+              "mn141:13.3"
+            ],
+            "lead": "MN141 對「死」的正式定義——本頁的核心經文："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:22.4",
+              "mn9:22.5",
+              "mn9:22.6"
+            ],
+            "lead": "同一定義在《正見經》（MN9）中逐字重現，可見這是經藏的標準公式："
+          }
+        ]
+      },
+      {
+        "heading": "死在十二因緣中的位置：生緣老死",
+        "paragraphs": [
+          "《正見經》（MN9）是舍利弗解說「正見」的經典。比丘們一再追問「還有其他說明正見的法門嗎」，舍利弗於是沿著十二因緣逐支作答，每一支都套用四聖諦式的四重架構：這一支是什麼、它如何集起、如何滅盡、導向其滅盡之道為何。「老死」（jarāmaraṇa）在這裡合為一支：老的定義是衰老、齒落、白髮、諸根衰退；死的定義即上一節那段公式；「此老與此死，此即稱為老死」。",
+          "關鍵在老死支的「集」與「滅」：「從生的集起，有老死的集起；從生的滅盡，有老死的滅盡。」死在緣起框架中不是一條直線的終點，而是一個有條件的環節——只要有「生」，老死必然隨之；而「生」本身又是有條件的：「由有之集起，有生之集起。」一環扣一環，經文把死放回它的成因鏈中考察。",
+          "這也意味著：「生—老死」的循環在經文層面是明說的。MN141 定義苦集聖諦時，說渴愛「導向再有」（ponobbhavikā）——會帶來下一次存在；MN9 則明說有緣生、生緣老死。這就是「輪迴」（saṃsāra）在早期經文中的實質內容：不是一套死後地理學，而是一個只要因緣仍在就持續運轉的條件結構。至於死與生之間的過渡細節——例如「中陰」（中有）——則是後世部派與論書的發展，本頁所依的 MN9 與 MN141 並未著墨；經文沒說的，這裡不替它說。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:22.7",
+              "mn9:22.8",
+              "mn9:22.9",
+              "mn9:22.10"
+            ],
+            "lead": "老死支的總結與四重分析——「從生的集起，有老死的集起」："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:26.1",
+              "mn9:26.2",
+              "mn9:26.3",
+              "mn9:26.4"
+            ],
+            "lead": "「生」的定義，以及生的成因再往上追——「由有之集起，有生之集起」："
+          }
+        ]
+      },
+      {
+        "heading": "為什麼說「死是苦」：四聖諦的框架",
+        "paragraphs": [
+          "MN141 苦諦的總說把死列在清單上：「生亦是苦，老亦是苦，死亦是苦，愁、悲、苦、憂、惱亦是苦；所欲不得亦是苦；簡言之，五取蘊是苦。」死是苦，在這裡不是一句感嘆，而是一項待定義、待分析的診斷條目——本經隨後對清單上每一項都給出正式界說。",
+          "經文還從另一個角度分析死之為苦：求不得苦。會出生的眾生生起這樣的欲求——「願我們不再出生！」同樣的公式，經文接著套用在會老、會病、會死的眾生上：面對必然會來的死，生起「願它不要來」的欲求，「然而此不能僅藉欲求而得達」。換言之，經文把人對死亡的恐懼與抗拒本身收進苦的分析裡：欲求與現實之間那道跨不過去的落差，就是苦的一種形態。",
+          "值得強調的是，「死是苦」是診斷，不是悲觀主義。四聖諦的結構是「問題—原因—目標—方法」：指出死屬於苦的範圍，是為了接著追問它的成因（集）、確立成因可以止息（滅）、給出止息之道（道）。死被放上清單，正是為了被處理——這就是下一節的內容。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
+            "lead": "苦聖諦的總說，「死亦是苦」在列："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:19.2",
+              "mn141:19.3",
+              "mn141:19.4",
+              "mn141:19.5"
+            ],
+            "lead": "求不得苦的定義公式（此處以「生」為例；經文接著以省略體同式套用於會老、會病、會死的眾生）："
+          }
+        ]
+      },
+      {
+        "heading": "超越死的路：滅諦與道諦",
+        "paragraphs": [
+          "既然死的近因是生、生的成因鏈上有渴愛，那麼經文的答案就落在成因上。MN141 定義苦集聖諦：那導向再有、伴隨喜與貪、在此處彼處耽樂的渴愛——欲愛、有愛、無有愛。「導向再有」四個字把渴愛和死的循環直接扣在一起：死之所以一再發生，是因為有不斷要求「再來一次存在」的動力在推動。",
+          "苦滅聖諦則是同一句話的反面：「對那渴愛的無餘離貪滅盡、捨棄、放捨、解脫、無依著。」請留意經文說滅去的是什麼——是渴愛，不是生命，也不是進入某個死後的處所。對照 MN9 的緣起分析：渴愛滅則有滅，有滅則生滅，生滅則老死滅——經文說的解脫，是整個「生—老死」循環的止息，其著力點在此生此刻可以下手的渴愛上。至於導向這個止息的具體道路，就是道諦的八正道：正見、正思惟、正語、正業、正命、正精進、正念、正定。",
+          "最後是一條如實的界限：本頁所依的兩部經，給出的是死的定義、死的成因結構、以及止息之道；它們並沒有描述「解脫者死後如何」「死後世界長什麼樣子」這類形上細節。經文的回答始終是實踐性的——了知苦、斷其集、證其滅、修其道。經文說到哪裡，本頁就寫到哪裡。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:21.1",
+              "mn141:21.2",
+              "mn141:21.3",
+              "mn141:21.4"
+            ],
+            "lead": "集諦：導向再有（ponobbhavikā）的渴愛——死的循環背後的動力："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:22.1",
+              "mn141:22.2",
+              "mn141:22.3"
+            ],
+            "lead": "滅諦：滅去的是渴愛本身——這就是經文說的解脫："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "關於死與再生之間的過程，各傳統後來多有開展：說一切有部與《俱舍論》主張死有與生有之間存在「中有」（中陰），南傳上座部論書則不立中有；藏傳佛教在中有說的基礎上發展出詳細的中陰教法（如《中陰聞教救度》）；漢傳淨土傳統則以臨終正念、往生淨土為歸趨。這些皆屬部派論書與後世各傳統的發展與詮釋，本頁所依的巴利 MN141 與 MN9 只給出死的定義與緣起—四諦框架，並未論及中陰或死後世界的細節。各說並陳於此供對照，本站不作裁決。",
+    "faq": [
+      {
+        "q": "佛教認為人死後會怎樣？",
+        "a": "本頁所依的原典給出的是條件結構，不是死後世界的描述。MN9 說「從生的集起，有老死的集起；由有之集起，有生之集起」；MN141 說渴愛「導向再有」——只要導向再有的渴愛還在，「生—老死」的循環就持續，這是經文明說的部分。經文指出的方向是滅諦：渴愛無餘滅盡，循環止息。至於死與生之間的過渡細節（如中陰），是部派論書與後世傳統的發展，這兩部經並未著墨。"
+      },
+      {
+        "q": "佛教怕死嗎？佛教徒如何面對死亡？",
+        "a": "經文不迴避對死的恐懼，反而把它收進分析：MN141 說會死的眾生生起「願死不要來」的欲求，「然而此不能僅藉欲求而得達」——這種抗拒本身就是求不得苦。原典給出的面對方式不是安慰或壓抑，而是四聖諦的次第：如實了知死屬於苦的範圍、追認其成因是導向再有的渴愛、確立成因可以止息、修習八正道。MN141 對正見的定義正是對苦、集、滅、道的知智——面對死亡，從看清它的定義與成因開始。"
+      },
+      {
+        "q": "死亡在佛教是不是一種解脫？",
+        "a": "不是。依 MN141 的定義，死是「諸蘊壞散、色身棄捨、命根斷絕」，列在苦諦的清單上；而經文說的解脫是滅諦——「對那渴愛的無餘離貪滅盡、捨棄、放捨、解脫、無依著」，滅去的是渴愛，不是生命。依 MN9 的緣起分析，若渴愛未斷，生緣老死的循環持續，死亡本身不終結什麼問題。換言之，死≠涅槃：涅槃是渴愛與苦的止息，經文把它放在修道的成果上，而不是放在死亡這個事件上。"
+      },
+      {
+        "q": "佛教對「死亡」的定義出自哪部經？",
+        "a": "最完整的正式定義出自《中部》第 141 經《諦分別經》（MN141）苦諦段：死是各類眾生從其眾生類別中的死歿、消逝、壞滅、消失、死亡、命終、諸蘊壞散、色身棄捨、命根斷絕（mn141:13.2）。同一公式逐字見於《中部》第 9 經《正見經》（MN9）老死支的問答（mn9:22.5），可知這是尼柯耶經典的標準界說。本頁即依這兩部經的巴利原文撰寫。"
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "dependent-origination",
+      "anatta"
+    ],
+    "related_suttas": [
+      "mn141",
+      "mn9"
+    ],
+    "related_lexicon": [
+      "marana",
+      "jaramarana",
+      "cuti",
+      "tanha",
+      "nibbana"
+    ]
+  },
+  "en": {
+    "title": "Death in Early Buddhism (maraṇa)",
+    "seo_title": "How Does Buddhism View Death? The Canonical Definition of Maraṇa and the Four Noble Truths' Answer",
+    "seo_description": "How does Buddhism understand death? The Pali Canon defines death (maraṇa) formally: in MN 141 it is the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty. This page presents the canonical definition, death's place in dependent origination ('with birth as condition, aging-and-death'), why death is called suffering, and the path the suttas point to — the ending of craving.",
+    "question": "How does Buddhism view death?",
+    "definition": "The Pali Canon gives death (maraṇa) an explicit formal definition: in the Saccavibhaṅgasutta (MN 141), death is the passing away of beings from the various orders of beings — their dissolution, the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty. The suttas place death within two frameworks: in the four noble truths, death is one item under the truth of suffering; in dependent origination, it belongs to the link of aging-and-death — 'with the arising of birth there is the arising of aging-and-death' — so death is not an endpoint but a conditioned link. The answer the suttas give is consistently practical: when the craving that leads to renewed existence ceases, the whole cycle of birth and death ceases.",
+    "sections": [
+      {
+        "heading": "How the Buddha Defines Death: The Formal Definition in MN 141",
+        "paragraphs": [
+          "In the Pali sources, 'what is death?' is not a question left to the imagination — it is a defined term. In the Saccavibhaṅgasutta ('The Analysis of the Truths', MN 141), Sāriputta, commissioned by the Buddha to analyze the four noble truths item by item, reaches 'death is suffering' in the first truth and gives the definition in question-and-answer form: 'And what, friends, is death?' The answer is a string of concrete descriptions — the passing away (cuti) of beings from their order of beings, their perishing, dissolution, disappearance, dying, death, the completion of their time, the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty (jīvitindriyassupacchedo).",
+          "Two features of this definition are worth noting. First, it is descriptive, not metaphysical: it states what happens — the five aggregates that constitute a lifetime break apart, the body is laid down, the faculty that sustains life is cut off — with no vocabulary of a soul departing or traveling to another world. Second, the definition opens with 'of beings in the various orders of beings': death is not an abstraction but an event relative to a particular lifetime, a particular mode of existence.",
+          "The very same definition appears word for word in the Sammādiṭṭhisutta (MN 9), in the question-and-answer on the link of aging-and-death. This is a standard formula of the Nikāyas: the same wording recurs across different suttas and contexts, showing that this is the Canon's consistent formal definition rather than the idiosyncrasy of a single text. The next section turns to MN 9 to see the framework this definition is set in."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:13.1",
+              "mn141:13.2",
+              "mn141:13.3"
+            ],
+            "lead": "The formal definition of death in MN 141 — the core passage of this page:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:22.4",
+              "mn9:22.5",
+              "mn9:22.6"
+            ],
+            "lead": "The same definition recurs verbatim in the Sammādiṭṭhisutta (MN 9) — a standard canonical formula:"
+          }
+        ]
+      },
+      {
+        "heading": "Death's Place in Dependent Origination: With Birth as Condition, Aging-and-Death",
+        "paragraphs": [
+          "The Sammādiṭṭhisutta (MN 9) is Sāriputta's exposition of right view. As the monks keep asking 'might there be another way in which a noble disciple has right view?', Sāriputta works through the links of dependent origination, applying to each the fourfold template of the noble truths: what it is, how it arises, how it ceases, and the way leading to its cessation. 'Aging-and-death' (jarāmaraṇa) forms a single link here: aging is defined as old age, broken teeth, grey hair, failing faculties; death by the very formula quoted above; 'thus this aging and this death are together called aging-and-death.'",
+          "The crux lies in the link's arising and cessation: 'With the arising of birth there is the arising of aging-and-death; with the cessation of birth there is the cessation of aging-and-death.' In the framework of dependent origination, death is not the terminus of a straight line but a conditioned link: wherever there is birth, aging-and-death inevitably follows; and birth itself is conditioned in turn — 'with the arising of existence there is the arising of birth.' Link by link, the suttas trace death back into its chain of causes.",
+          "This also means the cycle of birth and death is stated explicitly at the level of the suttas. MN 141, defining the truth of the origin, calls craving 'that which leads to renewed existence' (ponobbhavikā); MN 9 states that existence conditions birth and birth conditions aging-and-death. This is the substance of 'saṃsāra' in the early texts: not a geography of the afterlife, but a conditioned structure that keeps running as long as its conditions remain. As for the details of any transition between death and birth — such as an 'intermediate state' (antarābhava) — these are developments of the later schools and treatises; MN 9 and MN 141, the sources of this page, do not address them, and where the suttas are silent, this page does not speak for them."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:22.7",
+              "mn9:22.8",
+              "mn9:22.9",
+              "mn9:22.10"
+            ],
+            "lead": "The summary and fourfold analysis of the aging-and-death link — 'with the arising of birth there is the arising of aging-and-death':"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": [
+              "mn9:26.1",
+              "mn9:26.2",
+              "mn9:26.3",
+              "mn9:26.4"
+            ],
+            "lead": "The definition of birth, and the chain traced one step further back — 'with the arising of existence there is the arising of birth':"
+          }
+        ]
+      },
+      {
+        "heading": "Why Death Is Called Suffering: The Framework of the Four Noble Truths",
+        "paragraphs": [
+          "The summary statement of the first noble truth in MN 141 puts death on the list: 'Birth is suffering, aging is suffering, death is suffering; sorrow, lamentation, pain, distress, and despair are suffering; not getting what one wants is suffering; in brief, the five aggregates subject to clinging are suffering.' Here 'death is suffering' is not a lament but a diagnostic entry awaiting definition and analysis — the sutta goes on to define every item on the list formally.",
+          "The sutta also analyzes death's painfulness from another angle: not getting what one wants. In beings subject to birth the wish arises, 'Oh, that we were not subject to birth!' The same formula is then applied to beings subject to aging, to sickness, and to death: facing a death that will certainly come, the wish arises that it not come — 'but this is not to be attained by wishing.' In other words, the suttas fold the human fear of and resistance to death into the analysis of suffering itself: the unbridgeable gap between wish and reality is one of suffering's forms.",
+          "It bears emphasizing that 'death is suffering' is a diagnosis, not pessimism. The four truths unfold as problem, cause, goal, and method: locating death within the scope of suffering is the prelude to asking for its cause (origin), affirming that the cause can end (cessation), and laying out the way to that end (path). Death is put on the list precisely so that it can be dealt with — which is the subject of the next section."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
+            "lead": "The summary of the truth of suffering, with 'death is suffering' on the list:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:19.2",
+              "mn141:19.3",
+              "mn141:19.4",
+              "mn141:19.5"
+            ],
+            "lead": "The formula for 'not getting what one wants' (given here for birth; the sutta then applies the same formula, in abbreviated form, to beings subject to aging, sickness, and death):"
+          }
+        ]
+      },
+      {
+        "heading": "The Way Beyond Death: Cessation and the Path",
+        "paragraphs": [
+          "Since the proximate condition of death is birth, and craving stands in birth's chain of causes, the suttas' answer targets the cause. MN 141 defines the truth of the origin of suffering: craving that leads to renewed existence, accompanied by delight and lust, delighting now here, now there — craving for sensual pleasures, for existence, and for non-existence. The phrase 'leading to renewed existence' ties craving directly to the cycle of death: death recurs because a drive keeps demanding another round of existence.",
+          "The truth of cessation is the same sentence reversed: 'the remainderless fading away and cessation of that very craving — its giving up, relinquishment, release, and non-attachment.' Note what the sutta says ceases: craving — not life, and not entry into some posthumous realm. Read alongside MN 9's analysis: with the cessation of craving, existence ceases; with the cessation of existence, birth ceases; with the cessation of birth, aging-and-death ceases. The liberation the suttas speak of is the ending of the whole cycle of birth and aging-and-death, and its point of leverage is craving — something that can be worked on here and now. The concrete road is the fourth truth: the noble eightfold path — right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.",
+          "A final, honest boundary: the two suttas this page draws on give the definition of death, its conditioned structure, and the way to its cessation; they do not describe 'what happens to the liberated one after death' or what any afterlife looks like. The suttas' answer remains practical throughout — know suffering, abandon its origin, realize its cessation, develop the path. This page goes exactly as far as the texts go, and no further."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:21.1",
+              "mn141:21.2",
+              "mn141:21.3",
+              "mn141:21.4"
+            ],
+            "lead": "The origin: craving that leads to renewed existence (ponobbhavikā) — the drive behind the cycle of death:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": [
+              "mn141:22.1",
+              "mn141:22.2",
+              "mn141:22.3"
+            ],
+            "lead": "The cessation: what ceases is craving itself — this is what the suttas call liberation:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "Later traditions developed detailed accounts of the process between death and rebirth: the Sarvāstivāda school and the Abhidharmakośa posit an 'intermediate existence' (antarābhava) between death and the next birth, while the Theravāda Abhidhamma tradition rejects it; Tibetan Buddhism built elaborate bardo teachings on the intermediate-state doctrine (as in the Bardo Thödol, popularly 'The Tibetan Book of the Dead'); and the East Asian Pure Land tradition orients the moment of death toward mindful aspiration for rebirth in the Pure Land. All of these are developments and interpretations of the later schools and treatises. The Pali MN 141 and MN 9, on which this page is based, give only the definition of death and its framework within dependent origination and the four truths, without discussing an intermediate state or the details of an afterlife. These views are presented side by side for comparison; this site does not adjudicate among them.",
+    "faq": [
+      {
+        "q": "What does Buddhism say happens after death?",
+        "a": "The source texts of this page give a conditioned structure, not a description of an afterlife. MN 9 states: 'with the arising of birth there is the arising of aging-and-death; with the arising of existence there is the arising of birth'; MN 141 calls craving 'that which leads to renewed existence'. As long as the craving that leads to renewed existence remains, the cycle of birth and aging-and-death continues — this much the suttas state explicitly. The direction they point to is the truth of cessation: with the remainderless ending of craving, the cycle ends. Details of any transition between death and birth (such as an intermediate state) are developments of later schools and treatises, which these two suttas do not address."
+      },
+      {
+        "q": "Is Buddhism afraid of death? How does it face death?",
+        "a": "The suttas do not evade the fear of death — they analyze it. MN 141 says that in beings subject to death the wish arises that death not come, 'but this is not to be attained by wishing': that very resistance is classified as the suffering of not getting what one wants. The response the texts offer is neither consolation nor suppression but the sequence of the four noble truths: know that death falls within the scope of suffering, trace its cause to the craving that leads to renewed existence, affirm that this cause can cease, and cultivate the eightfold path. MN 141 defines right view precisely as knowledge of suffering, its origin, its cessation, and the way — facing death begins with seeing its definition and its causes clearly."
+      },
+      {
+        "q": "Is death itself a form of liberation in Buddhism?",
+        "a": "No. By MN 141's definition, death is 'the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty' — an item under the truth of suffering. Liberation, in the suttas, is the truth of cessation: 'the remainderless fading away and cessation of that very craving, its giving up, relinquishment, release, and non-attachment' — what ends is craving, not life. By MN 9's analysis, if craving has not been abandoned, the conditioned cycle of birth and aging-and-death continues, so death as such resolves nothing. In short, death is not nibbāna: nibbāna is the ending of craving and of suffering, located by the texts in the fruit of the path, not in the event of dying."
+      },
+      {
+        "q": "Which sutta gives the Buddhist definition of death?",
+        "a": "The fullest formal definition is in the Saccavibhaṅgasutta (MN 141), under the truth of suffering: death is the passing away of beings from their order of beings — perishing, dissolution, disappearance, dying, death, the completion of time, the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty (mn141:13.2). The same formula appears word for word in the Sammādiṭṭhisutta (MN 9), in the analysis of the aging-and-death link (mn9:22.5), showing that this is the Nikāyas' standard definition. This page is written from the Pali text of these two suttas."
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "dependent-origination",
+      "anatta"
+    ],
+    "related_suttas": [
+      "mn141",
+      "mn9"
+    ],
+    "related_lexicon": [
+      "marana",
+      "jaramarana",
+      "cuti",
+      "tanha",
+      "nibbana"
+    ]
+  }
+}

@@ -225,6 +225,58 @@
       "last_action": "launch",
       "last_action_date": "2026-07-03",
       "note": "單經先行；title 已消歧義防法輪功混流"
+    },
+    {
+      "keyword": "佛教死亡觀",
+      "tier": 4,
+      "url": "https://sutta.io/topics/marana/",
+      "state": "S0",
+      "state_since": "2026-07-03",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch",
+      "last_action_date": "2026-07-03",
+      "note": "第四梯隊 A 組"
+    },
+    {
+      "keyword": "目犍連",
+      "tier": 4,
+      "url": "https://sutta.io/topics/moggallana/",
+      "state": "S0",
+      "state_since": "2026-07-03",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch",
+      "last_action_date": "2026-07-03",
+      "note": "第四梯隊 A 組"
+    },
+    {
+      "keyword": "阿難尊者",
+      "tier": 4,
+      "url": "https://sutta.io/topics/ananda/",
+      "state": "S0",
+      "state_since": "2026-07-03",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch",
+      "last_action_date": "2026-07-03",
+      "note": "第四梯隊 A 組"
+    },
+    {
+      "keyword": "巴利經典 推薦",
+      "tier": 4,
+      "url": "https://sutta.io/topics/reading-guide/",
+      "state": "S0",
+      "state_since": "2026-07-03",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch",
+      "last_action_date": "2026-07-03",
+      "note": "第四梯隊 A 組"
     }
   ],
   "pages": {
@@ -252,6 +304,14 @@
     "https://sutta.io/en/topics/vipassana/": "unknown",
     "https://sutta.io/agama/": "unknown",
     "https://sutta.io/nikaya/": "unknown",
-    "https://sutta.io/read/sn56.11/": "unknown"
+    "https://sutta.io/read/sn56.11/": "unknown",
+    "https://sutta.io/topics/marana/": "unknown",
+    "https://sutta.io/en/topics/marana/": "unknown",
+    "https://sutta.io/topics/moggallana/": "unknown",
+    "https://sutta.io/en/topics/moggallana/": "unknown",
+    "https://sutta.io/topics/ananda/": "unknown",
+    "https://sutta.io/en/topics/ananda/": "unknown",
+    "https://sutta.io/topics/reading-guide/": "unknown",
+    "https://sutta.io/en/topics/reading-guide/": "unknown"
   }
 }
