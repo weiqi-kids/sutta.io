@@ -37,6 +37,7 @@ const relatedTopics = (L.related_topics ?? [])
     return tp ? { slug: sl, label: tp.zh.title, question: tp.zh.question } : null;
   })
   .filter(Boolean) as { slug: string; label: string; question: string }[];
+const externalResources = L.external_resources ?? [];
 
 const crumbs = [{ label: t.nav.topics, href: `${base}/topics` }, { label: L.title }];
 
@@ -162,6 +163,24 @@ const articleSchema = {
         </section>
       )
     }
+
+    {
+      externalResources.length > 0 && (
+        <section class="topic-section external-resources">
+          <h2>延伸資源</h2>
+          <p class="external-note">
+            以下為站外第三方工具，非本站內容，與正典引文的查證標準無關，僅供有興趣的讀者參考。
+          </p>
+          <ul>
+            {externalResources.map((r) => (
+              <li>
+                <a href={r.url} rel="noopener">{r.label}</a>——{r.desc}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
   </article>
 </Base>
 
@@ -258,5 +277,17 @@ const articleSchema = {
   }
   .related a:hover {
     color: var(--thread);
+  }
+  .external-resources {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--space-4);
+  }
+  .external-note {
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-bottom: var(--space-2);
+  }
+  .external-resources ul {
+    line-height: 1.8;
   }
 </style>

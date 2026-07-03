@@ -189,6 +189,13 @@
     "related_lexicon": [
       "sati",
       "anapanassati"
+    ],
+    "external_resources": [
+      {
+        "label": "Vuko 呼吸引導",
+        "url": "https://www.vuko.life/",
+        "desc": "正式禪坐前，若想先用簡單的方式讓身心慢下來，可以參考 Vuko——一款免費開源的呼吸節奏引導網頁工具，以雙耳拍頻與即時呼吸偵測輔助放鬆與收攝注意力，可作為安般念正式練習前的暖身準備（非本站內容，屬第三方工具，僅供參考）。"
+      }
     ]
   },
   "en": {
@@ -377,6 +384,13 @@
     "related_lexicon": [
       "sati",
       "anapanassati"
+    ],
+    "external_resources": [
+      {
+        "label": "Vuko breathing guide",
+        "url": "https://www.vuko.life/",
+        "desc": "If you'd like a simple way to settle body and mind before formal sitting, Vuko is a free, open-source web app that paces the breath with binaural beats and real-time breath detection — a gentle warm-up before anapanasati practice (a third-party tool, not part of this site's content, offered for reference only)."
+      }
     ]
   }
 }

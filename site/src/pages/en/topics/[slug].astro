@@ -34,6 +34,7 @@ const relatedTopics = (L.related_topics ?? [])
     return tp ? { slug: sl, label: tp.en.title, question: tp.en.question } : null;
   })
   .filter(Boolean) as { slug: string; label: string; question: string }[];
+const externalResources = L.external_resources ?? [];
 
 const crumbs = [{ label: t.nav.topics, href: `${base}/en/topics` }, { label: L.title }];
 
@@ -160,6 +161,25 @@ const articleSchema = {
         </section>
       )
     }
+
+    {
+      externalResources.length > 0 && (
+        <section class="topic-section external-resources">
+          <h2>Extended resources</h2>
+          <p class="external-note">
+            The following is a third-party tool, not part of this site's content or its
+            canonical-sourcing standard — offered for readers who may find it useful.
+          </p>
+          <ul>
+            {externalResources.map((r) => (
+              <li>
+                <a href={r.url} rel="noopener">{r.label}</a> — {r.desc}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
   </article>
 </Base>
 
@@ -256,5 +276,17 @@ const articleSchema = {
   }
   .related a:hover {
     color: var(--thread);
+  }
+  .external-resources {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--space-4);
+  }
+  .external-note {
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-bottom: var(--space-2);
+  }
+  .external-resources ul {
+    line-height: 1.8;
   }
 </style>

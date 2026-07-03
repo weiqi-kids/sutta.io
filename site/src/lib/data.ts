@@ -178,6 +178,8 @@ export interface TopicLocale {
   related_topics?: string[];
   related_suttas?: string[];
   related_lexicon?: string[];
+  /** 站外延伸資源（非正典、非 L1/L2，人工挑選的實修輔助工具；刻意獨立於「繼續研讀」的站內導覽） */
+  external_resources?: { label: string; url: string; desc: string }[];
 }
 export interface TopicData {
   slug: string;
