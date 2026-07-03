@@ -18,6 +18,9 @@ export const en: Strings = {
     search: 'Search',
     lexicon: 'Dictionary',
     world: 'The World of Early Buddhist Texts',
+    topics: 'Topics',
+    agama: 'Āgama Parallels',
+    nikaya: 'Nikāya Guide',
     about: 'About',
     errata: 'Report an error',
     theme: 'Light / dark',
@@ -25,6 +28,7 @@ export const en: Strings = {
   home: {
     enterReading: 'Start reading',
     browseCollection: 'Browse the Majjhima Nikāya',
+    topicsEntry: 'Topics · answers from the source texts',
     searchEntry: 'Search texts & words',
     lexiconEntry: 'Dictionary',
     worldEntry: 'The World of Early Buddhist Texts',

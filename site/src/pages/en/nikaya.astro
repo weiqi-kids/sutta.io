@@ -1,0 +1,167 @@
+---
+// en/nikaya.astro — Nikāya guide (mirror of /nikaya)
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listSuttas, getSutta, suttaIsComplete } from '../../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+const doneCount = listSuttas().filter((s) => {
+  const fx = getSutta(s.id);
+  return fx && suttaIsComplete(fx);
+}).length;
+
+const title = 'What are the Nikāyas? The five Pāli Nikāyas and their Chinese parallels';
+const description =
+  'The Nikāyas are the five divisions of the Pāli Sutta Piṭaka: Dīgha, Majjhima, Saṃyutta, Aṅguttara and Khuddaka. Overview of each, their Chinese Āgama parallels, and where to read them online.';
+const crumbs = [{ label: t.nav.nikaya }];
+
+const faq = [
+  {
+    q: 'What does "Nikāya" mean?',
+    a: 'Nikāya (Pāli) means "collection" or "group". It is the division unit of the Pāli Sutta Piṭaka: the Theravāda tradition arranges the discourses of the Buddha into five Nikāyas — Dīgha, Majjhima, Saṃyutta, Aṅguttara and Khuddaka.',
+  },
+  {
+    q: 'How do the Nikāyas relate to the Chinese Āgamas?',
+    a: 'They are parallel transmissions of the same early corpus. The Nikāyas were transmitted in Pāli by the Theravāda school; the Āgamas are ancient Chinese translations of other schools’ recensions (Sarvāstivāda, Dharmaguptaka, etc.). Reading them side by side separates the shared core from school-specific variation.',
+  },
+];
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+
+<Base title={title} description={description} crumbs={crumbs} extraSchema={faqSchema}>
+  <h1>Nikāya guide</h1>
+  <p class="definition">
+    <strong>Nikāya</strong> means “collection”. The Pāli Sutta Piṭaka is arranged into
+    <strong>five Nikāyas</strong> — the Dīgha, Majjhima, Saṃyutta, Aṅguttara and Khuddaka —
+    which, together with the Chinese Āgamas, preserve the earliest strata of Buddhist texts.
+  </p>
+
+  <h2>The five Nikāyas</h2>
+  <table class="nikaya-table">
+    <thead>
+      <tr>
+        <th>Nikāya</th>
+        <th>Scope</th>
+        <th>Chinese parallel</th>
+        <th>Character</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td lang="pi">Dīgha Nikāya</td>
+        <td>34 suttas</td>
+        <td>Dīrgha Āgama (T1, Dharmaguptaka)</td>
+        <td>Long discourses, incl. the Mahāparinibbāna Sutta</td>
+      </tr>
+      <tr>
+        <td lang="pi">Majjhima Nikāya</td>
+        <td>152 suttas</td>
+        <td>Madhyama Āgama (T26, Sarvāstivāda)</td>
+        <td>Middle-length discourses; the densest in doctrine and practice</td>
+      </tr>
+      <tr>
+        <td lang="pi">Saṃyutta Nikāya</td>
+        <td>thousands (counts vary)</td>
+        <td>Saṃyukta Āgama (T99, Sarvāstivāda)</td>
+        <td>Short suttas grouped by theme (aggregates, sense bases, dependent origination…)</td>
+      </tr>
+      <tr>
+        <td lang="pi">Aṅguttara Nikāya</td>
+        <td>thousands (counts vary)</td>
+        <td>Ekottarika Āgama (T125, school affiliation debated)</td>
+        <td>Short suttas arranged by numerical sets (ones to elevens)</td>
+      </tr>
+      <tr>
+        <td lang="pi">Khuddaka Nikāya</td>
+        <td>15 books (more in the Burmese edition)</td>
+        <td>No collection-level parallel; individual works (e.g. Dhammapada) have Chinese versions</td>
+        <td>Miscellany incl. Dhammapada, Sutta Nipāta, Jātaka; widely varying age</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Reading them online</h2>
+  <ul class="translations">
+    <li>
+      <a href="https://suttacentral.net/" target="_blank" rel="noopener">SuttaCentral</a> — the
+      standard reference for Pāli texts, parallels and translations in many languages.
+    </li>
+    <li>
+      <a href="https://agama.buddhason.org/" target="_blank" rel="noopener">Chuang Chun-chiang’s
+      workstation</a> (Chinese) — complete modern Chinese translation of the four main Nikāyas with
+      Nikāya–Āgama side-by-side reading.
+    </li>
+    <li>
+      <strong>This site</strong> — a study tool rather than another translation: word-by-word Pāli
+      analysis of the Majjhima Nikāya (tap any word for root and morphology), clearly-labelled
+      AI-generated vernacular, and Madhyama Āgama parallels. {doneCount} suttas complete so far —
+      start from <a href={url('/browse')}>Browse</a> or the
+      <a href={url('/agama')}>Āgama parallels overview</a>.
+    </li>
+  </ul>
+
+  <h2>FAQ</h2>
+  <dl class="faq">
+    {
+      faq.map((f) => (
+        <Fragment>
+          <dt>{f.q}</dt>
+          <dd>{f.a}</dd>
+        </Fragment>
+      ))
+    }
+  </dl>
+</Base>
+
+<style>
+  .definition {
+    font-size: var(--text-md);
+    margin-bottom: var(--space-4);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin: var(--space-6) 0 var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .nikaya-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .nikaya-table th,
+  .nikaya-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .nikaya-table th {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    font-weight: 600;
+  }
+  .translations li {
+    margin-bottom: var(--space-3);
+    line-height: 1.8;
+  }
+  .faq dt {
+    font-weight: 600;
+    margin-top: var(--space-4);
+  }
+  .faq dd {
+    margin: var(--space-2) 0 0;
+    color: var(--ink-soft);
+  }
+</style>

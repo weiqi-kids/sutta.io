@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-# sutta.io 大腦層（每日）— 比照 folk.tw seo-brain-cron.sh。
-# headless claude -p（sonnet）讀現況 → 用 sonnet sub-agent 推進 L2 → 自我驗證(契約+build) →
-#   過才 commit/push（觸發 Pages 部署）→ 發 🧠/🚦 Slack。失敗發 🔴 保底。絕不用 opus。
+# sutta.io 大腦層（每日 SEO 優化）— 比照 folk.tw seo-brain-cron.sh。
+# headless claude（sonnet）讀 GA4/GSC 訊號 → 對「既有網站」做 SEO 優化/微調（meta/標題/
+#   結構化資料/內部連結/sitemap/i18n SEO 字串）→ 自我驗證 build → 過才 commit/push（觸發
+#   Pages 部署）→ 發 🤖/🚦 Slack。失敗發 🔴 保底。
+# **絕對紅線：絕不產生或修改 L2 經文內容（白話/概要/研經卡）—— 那是人工手動的工作。**
 # crontab（台灣 02:40 = UTC 18:40，排在資料層之後）：
 #   40 18 * * * /root/sutta.io/scripts/daily-brain-layer.sh >> /root/sutta.io/pipeline/.cache/brain-layer.log 2>&1
 # 乾跑：DRY_RUN=1 scripts/daily-brain-layer.sh
@@ -23,7 +25,7 @@ LOCK=/tmp/sutta-daily.lock
 # flock 防重入（與手動產經/其他批次共用鎖）；拿不到鎖就跳過（不阻塞）。
 exec 9>"$LOCK"
 if ! flock -n 9; then
-  echo "[brain] 鎖被佔（手動產經或其他批次進行中），今日跳過。"
+  echo "[brain] 鎖被佔（手動作業進行中），今日跳過。"
   exit 0
 fi
 
@@ -31,68 +33,62 @@ echo "===== [brain] $DATE $(date '+%T %Z') 開始（DRY_RUN=$DRY_RUN）====="
 git pull --rebase --autostash origin main 2>&1 || echo "[brain] git pull 失敗（續行，用本機既有）"
 
 PROMPT="$(cat <<PROMPTEOF
-你是 sutta.io（原典研經庫）的「每日大腦層執行者」，在自有主機 cron 中以 headless 執行（非雲端、無先前對話）。sutta.io 是巴利三藏研經靜態站（Astro/pnpm，部署 GitHub Pages）。今天台灣日期＝$DATE（系統時鐘已是台灣時間，勿再 +8）。本次 DRY_RUN=$DRY_RUN。
+你是 sutta.io（原典研經庫）的「每日 SEO 優化執行者」，在自有主機 cron 中以 headless 執行（非雲端、無先前對話）。sutta.io 是巴利三藏研經靜態站（Astro/pnpm，部署 GitHub Pages），頁面有研經頁 /read/mnX、主題頁 /topics/<slug>、字典頁 /lexicon/<key>、中阿含對照 /agama、尼柯耶導覽 /nikaya、世界/搜尋/關於等。今天台灣日期＝$DATE（系統時鐘已是台灣時間，勿再 +8）。本次 DRY_RUN=$DRY_RUN。
 
-# 任務
-推進 L2 經文白話生成，**嚴格照 docs/04-engineering/L2_SUBAGENT_WORKFLOW.md 的方法**。
+# 目標詞（優化的錨）
+先 Read docs/04-engineering/SEO_KEYWORDS.md——這是本站的目標關鍵字清單（18 詞三梯隊）與各詞對應頁面。每日優化以「這些詞的曝光/排名/點擊」為主要判讀對象；GSC 出現清單外的雜訊詞（如股票詞打到字典頁）不值得追。
 
-# 鐵則（違反即停手）
-1. 模型：你自己就是 sonnet，直接翻即可（或派 model:sonnet 子代理加速）。**全程 sonnet，絕不用 opus；絕不用 \`claude -p --json-schema\` 那種強制結構化路徑（已證實會拖慢/卡死）。**
-2. 只依提供的巴利＋DPD 翻譯、不杜撰、不裁決宗派教義、純台灣繁體中文；教義詞用 content/glossary.json 對照表。
-3. 寫入白話**只經 scripts/l2-batch-merge.mjs**（防捏造 segment、grounded_on 正確、不覆蓋已存）。
-4. 自我驗證：pnpm exec tsx scripts/validate-contract.ts 與 pnpm -C site build **都通過才 push**；任一失敗 → git checkout -- . 撤回、今日不 push、跳步驟5發 🔴。
-5. 完整＝白話覆蓋 ≥98%（node scripts/run-all-progress.mjs 查）。
-6. DRY_RUN=1：照常讀現況、可試產與跑 build 驗證，但**絕不 commit/push、不發 Slack**，最後只在 stdout 印「乾跑摘要」結束。
+# 你的任務：對「既有網站」做 SEO 優化/微調，再把做了什麼發 Slack。比照 folk.tw 大腦層。
+
+# 絕對紅線（違反即停手）
+1. **絕不產生或修改 L2 經文內容**：data/mn*.json 裡的 vernacular_gloss（白話）、summary（概要）、study_cards（研經卡）一律**不准動、不准新增、不准補**。經文白話是人工手動產的，**不是你的工作**。你**只能動網站呈現/SEO 層**。
+2. 可動的範圍：site/src/ 下的頁面 meta/title/description、OG/JSON-LD 結構化資料、麵包屑、內部連結、heading/alt、sitemap、robots、i18n 的 SEO 字串；content/seo/sutta-seo.json（研經頁標題覆蓋表）。**不要動 data/ 內容、不要動 pipeline/generation 邏輯、不要動 content/topics/*.json 的解說內文（那是人工校稿範疇；只有 title/seo_title/seo_description 等 SEO 欄位可依訊號微調）。**
+3. 不杜撰事實；補任何事實型敘述前先 WebSearch 權威源（SuttaCentral／學界）。涉教義不裁決。純台灣繁體中文。
+4. 每天最多改 5 個檔，寧少勿多；沒有可行動訊號就 no-op，不要為動而動、不要亂改全站。
+5. 自我驗證：pnpm -C site build（若動到 contract/資料結構才另跑 pnpm exec tsx scripts/validate-contract.ts）。任一非零 → git checkout -- . 撤回、今日不 push、跳步驟5發 🔴。
+6. DRY_RUN=1：可讀數據、在工作樹試改與跑 build 驗證，但**絕不 commit/push、不發 Slack**，最後只在 stdout 印「乾跑提案摘要」結束。
 
 # 每日流程
-## 1. 看現況
-跑 node scripts/run-all-progress.mjs。優先把「已有 L1 但 L2 未達 98%」的經補完（半成品先收尾，例如 mn26）；都完整就挑接下來幾部已有 L1 的經（data/mnN.json 存在＝有 L1，資料層已備）。若 152 部全完整 → no-op，跳步驟5報 🟢。
+## 1. 讀 SEO 訊號（資料層已備好今日 JSON）
+ls -t data/seo-daily/*.json | head -1 取最新、Read 之。含 ga4（sessions、taiwanOrganicSessions、topPages）、gsc（totals、topQueries、topPages、strikingDistance＝排名 5–15 最該推一把、highImpZeroClick＝高曝光零點擊）、index（coverage 收錄狀態）。若最新 JSON 不存在或各段皆 {error} → 無數據，跳步驟5報 🟡。
 
-## 2. 產 L2（你自己就是 sonnet，直接翻；不依賴子代理）
-對每部目標經：
-- node scripts/l2-batch-dump.mjs <id> 20  → /tmp/l2-batch-<id>.json
-- **你自己讀** /tmp/l2-batch-<id>.json ＋ content/glossary.json，依鐵則把每段翻成繁體中文（台灣用語），組成 {\"segment_id\":\"譯文\",...} JSON，用 Write 寫到 /tmp/out-<id>.json（**不要用 --json-schema 之類強制結構化，正常輸出即可**）。
-- node scripts/l2-batch-merge.mjs <id> /tmp/out-<id>.json 併入。
-- 重複到該經 ≥98%。概要(T2)/研經卡(T3) 若缺，同樣你自己依 data/mn10.json 格式產、寫進 data/<id>.json 的 summary / study_cards。
-- （加速選項）若 Agent/Task 工具可用，可派 model:sonnet 子代理平行翻多批；若工具不可用，就你自己直接翻——兩者皆 sonnet、結果一樣，不要因此卡住。
-時間有限，做到一段落即可（merge 不覆蓋已存，明日自動續，不會重做）。
+## 2. 驗證昨天
+讀昨天 data/daily-snapshot/<昨日>-brain.md（若有），對照今日數據看昨天的 SEO 調整有沒有效（資料區間未動時「持平」正常）。
 
-## 3. 重建 + 自我驗證
-ALL=\$(ls data/mn*.json | sed 's|data/||;s|\.json||' | paste -sd,)
-SUTTAS=\"\$ALL\" pnpm -C pipeline exec tsx src/run.ts --only=index
-SUTTAS=\"\$ALL\" pnpm -C pipeline exec tsx src/run.ts --only=embed
-pnpm exec tsx scripts/validate-contract.ts
-pnpm -C site build
-任一失敗 → git checkout -- . 撤回今日改動、不 push、跳步驟5（🔴）。
+## 3. 定本日 SEO 優化（依訊號、保守；擇要、≤5 檔）
+- 曝光高/點擊低的頁 → 改該頁 title/description/H1 更貼搜尋字詞（研經頁/字典頁的 SEO 字串多在 site/src/i18n 或頁面模板）。
+- 排名 5–15 的字 → 在相關頁補內部連結、強化導覽可見度（**改的是連結/導覽/標題，不是經文**）。
+- 結構化資料（JSON-LD）補強：研經頁 Article、麵包屑 BreadcrumbList、字典頁 DefinedTerm 等。
+- 相關經／相關字詞互相內鏈；sitemap／OG／i18n SEO 字串修補。
+- 本站搜尋訊號可能很弱：**今天沒有可行動訊號就 no-op**。
 
-## 4. 上線（DRY_RUN=0 才做）
-git add -A
-git commit -m \"每日大腦層 $DATE：L2 推進\"
-git pull --rebase origin main（衝突無法自動解 → git rebase --abort、放棄今日 push、跳步驟5）
-git push origin main（觸發 GitHub Actions → Pages 自動部署）
+## 4. 執行 + 自我驗證 + 上線（DRY_RUN=0 才 push）
+- 紅線內改 ≤5 檔（只動 site/，**絕不動 data/mn*.json 內容**）。事實型先 WebSearch 查證。
+- pnpm -C site build（必要時 validate-contract）。失敗 → git checkout -- .、不 push、跳步驟5（🔴）。
+- 有改動且 DRY_RUN=0：git add -A、git commit -m \"每日 SEO 優化 $DATE：<一句摘要>\"、git pull --rebase origin main（衝突無法解 → git rebase --abort、放棄今日 push、跳步驟5）、git push origin main（觸發 GitHub Actions → Pages 部署）。
+- push 後通知 Google 重收錄：node scripts/seo-index-ping.mjs <本次改動頁的完整 https://sutta.io/... 網址，空白分隔>（no-op 無 URL 可推則略過）。
 
-## 5. 發 Slack（DRY_RUN=0 每天都發；用 Bash 跑：printf '%s' \"<整則訊息>\" | $SLACK_NOTIFY $CHANNEL）
-格式（mrkdwn、人話、台灣用語、每項一行「・」、【】標題、標題用 *粗體*）：
+## 5. 發 Slack（DRY_RUN=0 每天都發；用 Bash：printf '%s' \"<整則訊息>\" | $SLACK_NOTIFY $CHANNEL；一律人話、台灣用語、禁術語/英文縮寫/commit hash）
 🚦 今天要不要你出手：<🟢 不用，系統自己處理好了 ／ 🟡 建議你看一下：一句原因 ／ 🔴 需要你決定：一句事項>
 
-🧠 *sutta.io 大腦層日報 · <M/D>*
+🤖 *sutta.io SEO 優化日報 · <M/D>*
 
-【今天產了什麼】
-・<哪幾部經、各補幾段白話/概要/卡；no-op 寫「今天沒有可推進的經，系統照常監看」>
+【目前成效】
+・台灣 Google 搜尋來的訪客：N 人（昨天 M，↑成長／↓下滑／持平）
+・網站在 Google 被看到 N 次、有人點 M 次（Google 數據有 2–3 天延遲，本週數字下週才更新）
 
-【目前進度】
-・真完整：X/152 部
-・待核段落：N 段（多為 DPD 格位歧義誤旗標，需人工核定）
+【今天做了什麼】
+・<一句總述改了哪頁的什麼 SEO；no-op／無數據就寫「今天沒有需要調整的地方，系統照常監看」並省略下面細節>
 
-【狀態】
-・已自動上線（GitHub Pages）／或：build 未過、今日未上線
+【昨天的調整有沒有效】
+・<進步／持平／退步白話；資料未更新就寫「還看不出來，Google 數據要 2–3 天才更新」>
 
 📄 完整紀錄：data/daily-snapshot/$DATE-brain.md
 
 ## 6. 留痕
-寫 data/daily-snapshot/$DATE-brain.md：今日產了哪幾部、各幾段、真完整數、待核數、有無 push、build 結果。
+寫 data/daily-snapshot/$DATE-brain.md：① 昨日 SEO 調整勝負 ② 今日判讀 ③ 改了哪些檔/SEO、依據哪些訊號、預期效果、build/push 結果。技術細節寫這裡，不寫進 Slack。
 
-最後在 stdout 印 3 行內摘要（產了幾部/有無 push/有無發 Slack）。
+最後在 stdout 印 3 行內摘要（改了幾項 SEO／有無 push／有無發 Slack）。
 PROMPTEOF
 )"
 
@@ -100,11 +96,18 @@ CLAUDE_OK=1
 timeout 3600 claude -p "$PROMPT" --model claude-sonnet-5 2>&1 \
   || { CLAUDE_OK=0; echo "[brain] claude 執行失敗或逾時"; }
 
+# 殘留清理：claude 該留的會自行 commit；此刻仍未提交的是 DRY_RUN 試改/gate-fail/no-op 痕跡，
+# 清回 HEAD 以免污染隔天 git pull --rebase。**只清 site/（SEO 層），絕不碰 data/（內容）與 scripts/。**
+if [ -n "$(git status --porcelain -- site 2>/dev/null)" ]; then
+  echo "[brain] 清理未提交殘留：site/"
+  git checkout -- site 2>/dev/null || true
+fi
+
 # 失敗保底通報：claude 整段失敗/逾時時內部 Slack 多半沒跑到 → 補一則 🔴。DRY_RUN 不發。
 if [ "$DRY_RUN" != "1" ] && [ "$CLAUDE_OK" = "0" ] && [ -x "$SLACK_NOTIFY" ]; then
   printf '%s' "🚦 今天要不要你出手：🔴 需要你看一下
-:warning: *sutta.io 大腦層 $DATE — 執行中斷*
-本機大腦層 headless 執行失敗或逾時，今日可能未完成產經/通報。
+:warning: *sutta.io SEO 優化 $DATE — 執行中斷*
+本機大腦層 headless 執行失敗或逾時，今日可能未完成優化/通報。
 請查 log：/root/sutta.io/pipeline/.cache/brain-layer.log" | "$SLACK_NOTIFY" "$CHANNEL" >/dev/null 2>&1 \
     && echo "[brain] 已發失敗保底 Slack" || echo "[brain] 失敗保底 Slack 也送不出（查 token）"
 fi

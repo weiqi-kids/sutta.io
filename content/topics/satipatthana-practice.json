@@ -1,0 +1,598 @@
+{
+  "slug": "satipatthana-practice",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "四念處的修行方法",
+    "seo_title": "四念處怎麼修？念處經（MN10）原文步驟完整拆解",
+    "seo_description": "四念處怎麼修？本頁依《念處經》（MN10）巴利原文逐步拆解：身念處（入出息、威儀、正知、界作意、墓園觀）、受念處、心念處、法念處（五蓋、五蘊、七覺支、四聖諦）的具體修法，以及每一觀共通的「內外、生滅、無所依而住」公式與經末七年到七日的成果保證。每個方法都附原文出處。",
+    "question": "四念處怎麼修？",
+    "definition": "四念處是以身、受、心、法四種對象作為念安住之處的修行方法：以精勤、正知、具念，如實隨觀當下的經驗，捨除對世間的貪憂。《念處經》稱之為導向清淨、超越愁悲、親證涅槃的一行道。",
+    "sections": [
+      {
+        "heading": "四念處是什麼：一條直接之道",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:2.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "《念處經》開宗明義：四念處是「眾生清淨、超越愁悲、消滅苦憂、證得正理、親證涅槃」的道路（ekāyano maggo，傳統譯「一行道」或「直接之道」）。接著佛陀給出總說：對身、受、心、法四種對象「隨觀而住」，並且每一處都帶著同樣三個條件——精勤（ātāpī）、正知（sampajāno）、具念（satimā）——同時「捨除世間的貪憂」。這三個條件加一個捨離，就是整部經每一個修法的共同基礎：不是放空，而是帶著熱忱與清明，持續地知道當下正在發生什麼。"
+        ]
+      },
+      {
+        "heading": "身念處（一）：入出息念——從呼吸開始",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:4.2",
+              "mn10:4.3",
+              "mn10:4.4",
+              "mn10:4.5"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:4.6",
+              "mn10:4.7"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "經文給出的第一個具體方法是入出息念（ānāpānasati），步驟非常明確：（1）找地方——往林中、樹下或空閑處；（2）坐下——盤腿而坐，身體端正，把念安立在當前；（3）開始觀呼吸——具念地入息、出息。觀的內容分四步：入息長時了知「長」，出息長時了知「長」；短時了知「短」；接著修習「覺知全身而呼吸」；最後修習「令身行平靜而呼吸」。注意經文用詞：前兩步是「了知」（pajānāti，如實知道），後兩步是「修習」（sikkhati，練習）——先如實觀察，再逐步讓呼吸與身體安定下來。經中以車工車削長短件時清楚知道自己在做什麼作比喻：不控制呼吸，只是清楚知道。"
+        ]
+      },
+      {
+        "heading": "身念處（二）：威儀與正知——把正念帶進日常",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:6.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:8.1"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "四念處不只在座上。威儀節說：行走時了知「我在行走」，站立、坐著、躺臥時亦然——無論身體處於什麼姿勢，都如實了知。正知節則把範圍擴大到一切日常動作：前進、返回、看前、看旁、彎曲、伸展肢體、穿衣持缽、吃喝咀嚼、大小便、行住坐臥、睡眠醒寤、說話沉默——一切都「以正知行事」（sampajānakārī）。這兩節合起來，就是把座上的覺知延伸到全天候：正念的訓練場不限於禪坐，而是整個生活。"
+        ]
+      },
+      {
+        "heading": "身念處（三）：不淨作意與界作意——看清身體的組成",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:10.1",
+              "mn10:10.2"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:12.1",
+              "mn10:12.2"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "接下來兩個方法是分析式的觀察。不淨作意節：把這個身體從腳底到頭頂、以皮膚為界，逐一檢視其中的組成——髮、毛、爪、齒、皮、肉、腱、骨、髓、內臟、體液等三十餘種部位，如同打開一只裝滿各種穀物的袋子逐一辨認。界作意節：不論身體處於什麼姿勢，都以「界」（dhātu，元素）的方式省察——「此身中有地界、水界、火界、風界」，如同屠牛者把牛分解成部分。這兩觀的共同作用，是把「我的身體」這個整體概念拆解為可觀察的部分與元素，鬆動對身體的執取。"
+        ]
+      },
+      {
+        "heading": "身念處（四）：墓園觀——面對身體的必然結局",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:14.1",
+              "mn10:14.2",
+              "mn10:14.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "身念處的最後一組方法是九種墓園觀（navasivathika）：觀想一具被棄置墳場的遺體，從死後一至三日的膨脹青瘀，到被鳥獸啃食、化為骸骨、骨節四散，最後腐朽成粉。每一階段的修法都相同——把所見與自己的身體相比：「此身確實亦具此本性、將趨向如是、尚未超越此。」這不是病態的悲觀，而是如實面對：這個身體與那具遺體本質相同，差別只在時間。經文的用意是以最直接的方式斷除對身體的顛倒執取。"
+        ]
+      },
+      {
+        "heading": "受念處：了知當下的感受",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:32.5",
+              "mn10:32.6"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "受念處的方法只有一個動詞：了知（pajānāti）。感受樂受時，了知「我感受樂受」；苦受時了知苦受；不苦不樂受時亦然。經文再進一步區分：這個感受是世俗的（sāmisa，與感官欲樂相關）還是出世間的（nirāmisa，與修行離欲相關）——共九種受，每一種都同樣如實了知。這裡沒有要求改變感受、對治感受，只要求在感受生起的當下認出它。感受是連接身與心的樞紐：許多反應在感受變成情緒之前就已啟動，在受的層面保持覺知，就是在反應鏈最早的環節安立正念。"
+        ]
+      },
+      {
+        "heading": "心念處：如實認出心的狀態",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:34.2",
+              "mn10:34.3",
+              "mn10:34.4",
+              "mn10:34.5"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:34.8",
+              "mn10:34.9"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "心念處延續同一個方法——了知——對象換成心的整體狀態。經文列出十六種心：有貪／離貪、有瞋／離瞋、有癡／離癡、收縮（昏沉退縮）／散亂、廣大／不廣大、有上／無上、入定／未入定、已解脫／未解脫。修法就是誠實地認出當下的心是哪一種：心有貪時，了知「這是有貪的心」，不掩飾、不評判、也不急著改變。值得注意的是清單的設計：每一組都成對出現，染污的心態與清淨的心態同樣是觀察對象——正念不是只監控壞的，而是對心的任何狀態都保持同等的如實了知。"
+        ]
+      },
+      {
+        "heading": "法念處（一）：五蓋——觀察障礙的生滅",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:36.2"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:36.4"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "法念處從五蓋（貪欲、瞋恚、惛沉睡眠、掉舉惡作、疑）開始，方法比前面更完整，共五個了知：（1）蓋存在時，了知「我內在有此蓋」；（2）不存在時，了知「無此蓋」；（3）了知未生起的蓋如何生起；（4）了知已生起的蓋如何捨斷；（5）了知已捨斷的蓋將來如何不再生起。前兩項是靜態的認出，後三項是對「條件」的觀察——這個障礙靠什麼生起、靠什麼消失。換句話說，修行的障礙本身就是觀察的對象：昏沉來了不是修行失敗，認出昏沉並看清它的生滅條件，正是法念處的修行本身。"
+        ]
+      },
+      {
+        "heading": "法念處（二）：五蘊與六處——拆解經驗的結構",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:38.4",
+              "mn10:38.5",
+              "mn10:38.6"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:40.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "接著把觀察對象換成經驗本身的結構。五取蘊節：對色、受、想、行、識五蘊，逐一觀察「如是色、如是色之集、如是色之滅」——不只認出每一蘊，更觀察它如何生起、如何滅去。六內外處節：了知眼與色、耳與聲、鼻與香、舌與味、身與觸、意與法，並了知「緣此二者而生起的結縛」——以及這結縛如何生起、如何捨斷、如何不再生起。這一組觀察把「我在經驗世界」拆解為根、境與其間生起的繫縛，讓執取在它形成的地方被看見。"
+        ]
+      },
+      {
+        "heading": "法念處（三）：七覺支與四聖諦——導向覺悟的正向觀察",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:42.3"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:44.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "五蓋是要捨斷的，七覺支（念、擇法、精進、喜、輕安、定、捨）則是要培育的，觀察公式也相應調整：了知覺支存在或不存在、了知未生起的覺支如何生起、了知「已生起的覺支藉由修習如何達致圓滿」——最後一項從「捨斷」換成了「圓滿」。法念處的最後是四聖諦：如實了知「此是苦、此是苦之集、此是苦之滅、此是導向苦滅之道」。至此，四念處的觀察從呼吸這樣最具體的對象，一路深化到佛法的核心洞見——整部經是一條從近到深的完整路徑。"
+        ]
+      },
+      {
+        "heading": "每一觀的共同公式：內外、生滅、無所依而住",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3",
+              "mn10:5.4"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "全經有一段公式在每一個修法之後原樣重複二十一次，這是整個方法的靈魂，包含三層：（1）內外——或觀自己的身（受、心、法），或觀他人的，或內外兼觀；（2）生滅——隨觀其中諸法的生起、滅去、或生滅兩者；（3）無所依而住——念的現前「僅為了知與念」（不為別的目的），於是「不依附而安住，對世間任何事物不執取」。這段公式說明四念處的每一觀最終指向同一處：不是累積某種特殊經驗，而是看見一切對象的生滅本質，直到心不再抓取任何東西。任何一個修法，做到這裡才算完整。"
+        ]
+      },
+      {
+        "heading": "修行的成果：七年到七日的保證",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:46.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:46.22",
+              "mn10:46.23"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "經末，佛陀給出罕見的明確保證：如此修習四念處七年，可期待兩種果報之一——當生證得究竟智，或者（若還有執取的殘餘）證得不還果。接著層層遞減：不用七年——六年、五年……乃至一年；不用一年——七個月……一個月、半月；最後說：如此修習七日，同樣可期待這兩種果之一。遞減式的表述傳達的重點不是「七天保證開悟」，而是：成果取決於修習的質量與強度，而非機械的時間長度。經文最後重申開頭的宣告——這是一行道——首尾呼應，為整部經作結。"
+        ]
+      }
+    ],
+    "mahayana_note": "四念處為南北傳共有的教法。漢傳《中阿含經》有對應的《念處經》，內容與巴利本大致平行；漢傳論書傳統另有「觀身不淨、觀受是苦、觀心無常、觀法無我」的四句總結，將四念處與四種顛倒的對治相配，這是對經文的一種詮釋整理，巴利經文本身未使用此四句。大乘佛教將四念處納入三十七道品，視為菩薩道的共通基礎；天台智顗著有《四念處》專書，以圓教立場重新詮釋。南傳上座部則以本經（及《長部》的《大念處經》）為禪修實踐的核心依據，近代緬甸、泰國諸內觀傳統皆由此開展。兩傳對四念處的定位與詮釋層次不同，本頁依巴利經文呈現，不裁決各傳統詮釋的高下。",
+    "faq": [
+      {
+        "q": "四念處是哪四個？",
+        "a": "身念處（隨觀身，含呼吸、姿勢、日常動作、身體組成、四界、墓園觀）、受念處（隨觀樂受、苦受、不苦不樂受）、心念處（隨觀心的狀態，如有貪離貪、散亂入定等十六種）、法念處（隨觀五蓋、五取蘊、六內外處、七覺支、四聖諦）。每一處都以精勤、正知、具念為條件，捨除世間的貪憂。"
+      },
+      {
+        "q": "每天要修多久才有效果？",
+        "a": "經文沒有規定每日時數。《念處經》末尾只給出總體的成果保證：如此修習四念處七年，可期待究竟智或不還果，並層層遞減至六年、一年、七個月、一個月、半月，乃至七日。這段遞減表述的重點在修習的質量與持續，而非固定的時間表；任何具體的「每天幾分鐘」數字都是後人的建議，不出自經文。"
+      },
+      {
+        "q": "四念處和內觀（Vipassanā）、正念減壓（MBSR）是什麼關係？",
+        "a": "近代南傳內觀（Vipassanā）諸傳統——如馬哈希系、葛印卡系——都以四念處經典為禪法的經證來源，可視為對本經的不同實修詮釋。正念減壓（MBSR）等現代正念課程的「正念」概念亦溯源於 sati（念），但其目標設定在減壓與身心健康，與經文所說「捨除貪憂、親證涅槃」的解脫導向不同。三者共享同一個根源文本，深度與目的各異。"
+      },
+      {
+        "q": "初學者應該從哪個念處開始？",
+        "a": "經文的敘述次第是身、受、心、法，且身念處的第一個方法就是入出息念，給出最完整的操作步驟（地點、坐姿、觀呼吸四步），這常被理解為實修的自然起點；但經文並未明文規定必須依序修完一處才進下一處。後世傳統做法不一：多數內觀傳統從呼吸或身體感受入手，也有教法主張四處交替或以心念處為門。從呼吸開始是最有經文細節支持的選擇，其餘次第屬各傳統的抉擇。"
+      },
+      {
+        "q": "修四念處一定要打坐嗎？",
+        "a": "不限於打坐。經文的入出息念一節明確描述坐姿（往林中、樹下或空閑處，盤腿端身），但緊接的威儀節與正知節把修行範圍擴展到行、住、坐、臥與一切日常動作——吃飯、穿衣、說話、沉默都「以正知行事」。座上的呼吸觀與座下的日常正知在經中是同一個身念處的不同節，二者相輔，並非只有禪坐才算修行。"
+      }
+    ],
+    "related_topics": [
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
+    "related_lexicon": [
+      "sati",
+      "vedana",
+      "citta"
+    ]
+  },
+  "en": {
+    "title": "How to Practice Satipaṭṭhāna: The Four Establishments of Mindfulness",
+    "seo_title": "How to Practice the Four Foundations of Mindfulness (Satipaṭṭhāna, MN 10)",
+    "seo_description": "How do you actually practice satipaṭṭhāna? A step-by-step breakdown of the four foundations of mindfulness from the Satipaṭṭhāna Sutta (MN 10): breath meditation, postures, clear comprehension, contemplation of feelings, mind, and dhammas — every instruction sourced to the Buddha's own words, with the refrain and the seven-years-to-seven-days guarantee.",
+    "question": "How do you practice the four foundations of mindfulness?",
+    "definition": "Satipaṭṭhāna is the practice of establishing mindfulness on four domains — body, feelings, mind, and dhammas — observing each as it actually is, ardent, clearly comprehending, and mindful, having put aside longing and dejection for the world. The sutta calls it the direct path to purification and nibbāna.",
+    "sections": [
+      {
+        "heading": "What Satipaṭṭhāna Is: A Direct Path",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:2.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The Satipaṭṭhāna Sutta opens with a bold claim: the four establishments of mindfulness are the path (ekāyano maggo, 'the direct path' or 'one-way path') to the purification of beings, to overcoming sorrow and lamentation, and to realizing nibbāna. The Buddha then gives the summary formula: one abides contemplating body as body, feelings as feelings, mind as mind, and dhammas as dhammas — in every case with the same three qualities: ardent (ātāpī), clearly comprehending (sampajāno), and mindful (satimā), 'having put aside longing and dejection in regard to the world.' These qualities are the working basis of every exercise in the sutta: not blank awareness, but energetic, lucid, continuous knowing of what is happening now."
+        ]
+      },
+      {
+        "heading": "Body (1): Mindfulness of Breathing — Where to Begin",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:4.2",
+              "mn10:4.3",
+              "mn10:4.4",
+              "mn10:4.5"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:4.6",
+              "mn10:4.7"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The first concrete method is mindfulness of breathing (ānāpānasati), and the instructions are unusually procedural: (1) go to a forest, the root of a tree, or an empty place; (2) sit down cross-legged, body erect, and establish mindfulness in front; (3) breathe in and out, mindful. The contemplation unfolds in four steps: breathing in long, one knows 'long'; breathing in short, one knows 'short'; then one trains 'experiencing the whole body I will breathe'; finally one trains 'calming the bodily formation I will breathe.' Note the verbs: the first two steps use pajānāti (knowing things as they are), the last two use sikkhati (one trains). First observe honestly; only then gradually settle breath and body. The simile is a skilled turner who simply knows when he makes a long turn and when a short one — no controlling, just knowing."
+        ]
+      },
+      {
+        "heading": "Body (2): Postures and Clear Comprehension — Mindfulness Off the Cushion",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:6.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:8.1"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Satipaṭṭhāna is not confined to sitting. The postures section says: when walking, one knows 'I am walking'; likewise standing, sitting, lying down — however the body is disposed, one knows it. The clear-comprehension section extends this to every ordinary action: going out and returning, looking ahead and looking away, bending and stretching the limbs, wearing robes and carrying the bowl, eating, drinking, chewing, tasting, defecating and urinating, walking, standing, sitting, falling asleep, waking, speaking, and keeping silent — in all of it, one 'acts with clear comprehension' (sampajānakārī). Together these two sections turn the whole day into the training ground."
+        ]
+      },
+      {
+        "heading": "Body (3): Parts and Elements — Analyzing What the Body Is Made Of",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:10.1",
+              "mn10:10.2"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:12.1",
+              "mn10:12.2"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The next two methods are analytical. In the contemplation of the body's parts, one reviews this very body from the soles of the feet up and from the hair of the head down, bounded by skin, as full of its anatomical constituents — head hairs, body hairs, nails, teeth, skin, flesh, sinews, bones, marrow, organs, and fluids — the way a person with good eyes would identify the different grains in an open sack. In the elements section, one reviews this same body, however placed, in terms of elements: 'in this body there are the earth element, water element, fire element, and air element,' as a butcher who has divided a cow sits with its parts before him. Both contemplations dismantle the compact sense of 'my body' into observable parts and processes, loosening attachment where it forms."
+        ]
+      },
+      {
+        "heading": "Body (4): The Charnel Ground Contemplations — Facing the Body's End",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:14.1",
+              "mn10:14.2",
+              "mn10:14.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The body section closes with nine charnel-ground contemplations: one considers a corpse discarded in a charnel ground — one, two, or three days dead, bloated, livid, festering — then progressively devoured by animals, reduced to a skeleton, scattered bones, and finally bones rotted to powder. At each stage the method is the same comparison: one relates that sight to one's own body — 'this body too is of the same nature, it will become like that, it is not exempt.' This is not morbidity but honesty: the difference between this body and that one is only time. The purpose is to cut through the deepest distortions of attachment to the body in the most direct way available."
+        ]
+      },
+      {
+        "heading": "Feelings: Knowing What Is Felt, As It Is Felt",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:32.5",
+              "mn10:32.6"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The contemplation of feelings (vedanā) uses a single verb: pajānāti, to know. Feeling a pleasant feeling, one knows 'I feel a pleasant feeling'; likewise with painful and neither-painful-nor-pleasant feelings. The sutta then distinguishes each as worldly (sāmisa, bound up with sensuality) or unworldly (nirāmisa, connected with renunciation and practice) — nine kinds of feeling in all, each simply to be known as it occurs. There is no instruction to change or fight the feeling, only to recognize it in the moment it arises. Feeling is the hinge between body and mind: reactions begin at the level of feeling before they become emotion and narrative, so establishing mindfulness here intervenes at the earliest link in the chain."
+        ]
+      },
+      {
+        "heading": "Mind: Recognizing the State of the Mind Honestly",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:34.2",
+              "mn10:34.3",
+              "mn10:34.4",
+              "mn10:34.5"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:34.8",
+              "mn10:34.9"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The contemplation of mind (citta) applies the same knowing to the overall state of the mind. The sutta lists sixteen: with lust / without lust, with hatred / without hatred, with delusion / without delusion, contracted / distracted, exalted / unexalted, surpassable / unsurpassable, concentrated / unconcentrated, liberated / unliberated. The practice is honest recognition: when the mind has lust, one knows 'this is a mind with lust' — no concealing, no judging, no rushing to fix. Notice the list's design: every item comes in a pair, and the wholesome states are objects of observation just as much as the defiled ones. Mindfulness of mind is not a surveillance system for bad states; it is equal, accurate knowing of whatever state is present."
+        ]
+      },
+      {
+        "heading": "Dhammas (1): The Five Hindrances — Observing Obstacles Arise and Pass",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:36.2"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:36.4"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Contemplation of dhammas begins with the five hindrances (sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt), and here the method becomes fully dynamic, with five knowings: (1) when the hindrance is present, one knows 'it is present in me'; (2) when absent, one knows 'it is absent'; (3) one knows how the unarisen hindrance arises; (4) how the arisen hindrance is abandoned; (5) how the abandoned hindrance does not arise again in the future. The first two are static recognition; the last three observe conditionality — what this obstacle depends on to arise and to cease. The obstacles to practice are themselves the objects of practice: recognizing drowsiness and seeing its conditions is not a failure of meditation, it is the meditation."
+        ]
+      },
+      {
+        "heading": "Dhammas (2): The Five Aggregates and Six Sense Bases — Deconstructing Experience",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:38.4",
+              "mn10:38.5",
+              "mn10:38.6"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:40.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "Next, observation turns to the structure of experience itself. With the five aggregates subject to clinging, one contemplates each in three aspects: 'such is form, such its origin, such its passing away' — and likewise for feeling, perception, formations, and consciousness. With the six internal and external sense bases, one knows the eye and forms, the ear and sounds, and so on for each sense — and one knows 'the fetter that arises dependent on both,' how the unarisen fetter arises, how it is abandoned, and how it does not arise again. This pair of contemplations resolves 'me experiencing the world' into sense faculty, object, and the binding that forms between them — making clinging visible at the very point where it is produced."
+        ]
+      },
+      {
+        "heading": "Dhammas (3): The Seven Awakening Factors and Four Noble Truths",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:42.3"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:44.3"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The hindrances are to be abandoned; the seven awakening factors (mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity) are to be cultivated, and the formula shifts accordingly: one knows whether each factor is present or absent, how the unarisen factor arises — and 'how the arisen factor comes to fulfillment by development.' The final exercise is the four noble truths, known as they actually are: 'this is suffering, this is the origin of suffering, this is the cessation of suffering, this is the way leading to the cessation of suffering.' The sutta thus traces a complete arc, from the most tangible object — the breath — to the heart of the Buddha's insight."
+        ]
+      },
+      {
+        "heading": "The Refrain: Internal and External, Arising and Passing, Abiding Independent",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3",
+              "mn10:5.4"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "One passage repeats verbatim after every single exercise — twenty-one times in all. It is the soul of the method, and it has three layers: (1) internal and external — one contemplates the body (feelings, mind, dhammas) in oneself, in others, or both; (2) arising and passing — one contemplates the nature of arising, of vanishing, or of both in the object; (3) abiding independent — mindfulness that 'there is a body' is established 'just for the sake of knowledge and mindfulness,' and one 'abides independent, not clinging to anything in the world.' The refrain shows where every exercise ultimately points: not to accumulating special experiences, but to seeing the arising-and-passing nature of every object, until the mind stops grasping at anything. No exercise in the sutta is complete without it."
+        ]
+      },
+      {
+        "heading": "The Promise: From Seven Years Down to Seven Days",
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:46.1"
+            ]
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:46.22",
+              "mn10:46.23"
+            ]
+          }
+        ],
+        "paragraphs": [
+          "The sutta closes with a rare explicit guarantee: whoever develops these four establishments of mindfulness in this way for seven years can expect one of two fruits — final knowledge here and now, or, if there is a residue of clinging, non-return. Then the Buddha reduces the term step by step: let alone seven years — six, five, down to one year; let alone a year — seven months, down to one month, half a month; finally: seven days, with the same two fruits to be expected. The descending series is not a promise that seven days mechanically produces awakening; its point is that the result depends on the quality and intensity of the practice, not on clocking a fixed duration. The discourse then ends by restating its opening line — this is the direct path — closing the frame it opened with."
+        ]
+      }
+    ],
+    "mahayana_note": "Satipaṭṭhāna is common ground across Buddhist traditions. The Chinese Madhyama Āgama preserves a parallel Smṛtyupasthāna Sūtra broadly matching the Pali text. East Asian commentarial tradition later summarized the four as counteracting four distortions — contemplating the body as impure, feelings as suffering, mind as impermanent, and dhammas as non-self — a interpretive scheme not found in the Pali sutta itself. Mahāyāna includes the four establishments among the thirty-seven aids to awakening as a shared foundation of the bodhisattva path, and Tiantai master Zhiyi devoted a treatise to reinterpreting them from his school's perspective. Theravāda, meanwhile, treats this sutta (with the longer DN 22) as the core charter of insight meditation, from which the modern Burmese and Thai vipassanā lineages developed. The traditions frame and rank these contemplations differently; this page presents the Pali text without adjudicating between them.",
+    "faq": [
+      {
+        "q": "What are the four foundations of mindfulness?",
+        "a": "Contemplation of the body (breathing, postures, daily activities, anatomical parts, elements, charnel-ground contemplations), of feelings (pleasant, painful, neutral — worldly or unworldly), of mind (recognizing sixteen states such as with or without lust, distracted or concentrated), and of dhammas (the five hindrances, five aggregates, six sense bases, seven awakening factors, four noble truths) — each practiced ardent, clearly comprehending, and mindful, having put aside longing and dejection for the world."
+      },
+      {
+        "q": "How long do I need to practice each day?",
+        "a": "The sutta prescribes no daily quota. What it gives is an overall guarantee at the end: practicing this way for seven years, one can expect final knowledge or non-return — and the term is then reduced step by step through six years, one year, seven months, one month, half a month, down to seven days. The descending series emphasizes quality and continuity of practice over any fixed schedule; any specific 'minutes per day' figure comes from later teachers, not from the text."
+      },
+      {
+        "q": "How does satipaṭṭhāna relate to vipassanā meditation and MBSR?",
+        "a": "The modern vipassanā traditions — such as the Mahasi and Goenka lineages — all ground their methods in the satipaṭṭhāna texts and can be read as different practical interpretations of this sutta. Mindfulness-Based Stress Reduction and similar secular programs also trace their concept of mindfulness to sati, but their stated goals are stress reduction and well-being, whereas the sutta's stated goal is the abandoning of longing and dejection and the realization of nibbāna. They share a root text; their depth and purpose differ."
+      },
+      {
+        "q": "Which foundation should a beginner start with?",
+        "a": "The sutta's own order is body, feelings, mind, dhammas, and its very first method — mindfulness of breathing — is the only one with full procedural instructions (place, posture, four steps of observing the breath), which is why it is commonly taken as the natural entry point. But the text never states that one must master each foundation before the next. Later traditions vary: most insight schools begin with the breath or body sensations, while some teach the four in rotation or enter through the mind. Starting with the breath has the most textual support; beyond that, sequence is a matter of tradition."
+      },
+      {
+        "q": "Do I have to sit in meditation to practice satipaṭṭhāna?",
+        "a": "Not only. The breathing section does describe a seated posture — going to a forest, the root of a tree, or an empty place and sitting cross-legged — but the very next sections extend the practice to walking, standing, sitting, lying down, and every daily activity: eating, dressing, speaking, keeping silent, all done 'with clear comprehension.' Seated breath meditation and everyday clear comprehension are two sections of the same body contemplation; they support each other, and neither alone is the whole practice."
+      }
+    ],
+    "related_topics": [
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
+    "related_lexicon": [
+      "sati",
+      "vedana",
+      "citta"
+    ]
+  }
+}

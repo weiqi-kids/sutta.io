@@ -1,0 +1,322 @@
+{
+  "slug": "satipatthana",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "四念處",
+    "seo_title": "四念處是什麼？身受心法四種念住的原典定義（MN10）",
+    "seo_description": "四念處是什麼？本頁依《念處經》（MN10）巴利原文解說：四念處指身、受、心、法四種念的安住處，佛陀稱之為淨化眾生、親證涅槃的「一行道」。逐一說明四個念處各自的觀察內容、「觀生滅、無所依而住」的共同公式，以及經末七年乃至七日的修行成果保證，附巴利與白話對照。",
+    "question": "四念處是什麼？",
+    "definition": "四念處指念的四種安住處：身、受、心、法。修行者精勤、正知、具念地隨觀這四個領域，捨除世間的貪憂；《念處經》（MN10）稱之為淨化眾生、親證涅槃的道路。",
+    "sections": [
+      {
+        "heading": "「四念處」這個詞是什麼意思",
+        "paragraphs": [
+          "「四念處」譯自巴利語 cattāro satipaṭṭhānā。cattāro 是「四」；satipaṭṭhāna 是複合詞，前半 sati 即「念」——持續、清明的覺知。後半的解析，巴利學界向來有兩種讀法：一是 sati + paṭṭhāna（建立、立足處），即「念的立足處」，漢譯「念處」即循此理解；二是 sati + upaṭṭhāna（現起、安住），即「念的現起」，玄奘新譯「念住」較貼近此讀。兩種解析指向同一件事：讓念安住、現起於特定的觀察領域。",
+          "在《念處經》（MN10）開頭的總說中，佛陀直接以四句平行的句式定義這四個領域：於身隨觀身、於受隨觀受、於心隨觀心、於法隨觀法。每一句都帶著同一組修行態度：「精勤、正知、具念，捨除世間的貪憂」（ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ）。「隨觀」（anupassī）指持續地、如其所是地觀察——身就只是身，受就只是受，不添加額外的詮釋。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "經文總說段對四念處的定義："
+          }
+        ]
+      },
+      {
+        "heading": "佛陀為何稱它「一行道」（ekāyana）",
+        "paragraphs": [
+          "《念處經》開宗明義的第一句法語，就給了四念處極高的定位：它是 ekāyano maggo。這個詞傳統漢譯作「一乘道」「一行道」，其確切含義歷來有兩種主要理解：「唯一的道路」，或「直達（單一方向）的道路」；本頁所依的白話譯文在經首譯作「唯一道路」，在經末呼應段則譯作「直接之道」，正反映了這個詮釋空間。",
+          "無論取哪一種理解，經文對這條道路的目的地說得很明確：眾生的清淨、超越愁悲、消滅苦憂、證得正理、親證涅槃。換句話說，四念處在這部經中不是輔助性的練習，而是被佛陀直接連結到解脫終點的核心修行。這句話在經首與經末各出現一次，首尾相扣，構成整部經的框架。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "經首的總說："
+          }
+        ]
+      },
+      {
+        "heading": "身念處：對身體的隨觀",
+        "paragraphs": [
+          "四念處的第一個領域是身（kāya）。《念處經》在「身隨觀」之下展開了六節內容，是四個念處中篇幅最長的：入出息（觀呼吸）、威儀路（行住坐臥）、正知（日常動作）、不淨作意（觀察身體的三十二個組成部分）、界作意（把身體拆解為地、水、火、風四界）、墓園觀（以九個階段的遺體觀想對照自身）。",
+          "這六節由淺入深，共同點是把「身體」從一個被視為理所當然的整體，還原為可以如實觀察的現象。第一節以呼吸入手：具念地入息、出息，呼吸長就了知長、短就了知短。第二節則把觀察擴展到一切姿勢——行走時了知行走，站立、坐著、躺臥時亦然。念不是只在靜坐中運作，而是貫穿身體的一切狀態。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:4.3", "mn10:4.4", "mn10:4.5"],
+            "lead": "身隨觀第一節以呼吸為所緣："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:6.1"],
+            "lead": "觀察也遍及行住坐臥："
+          }
+        ]
+      },
+      {
+        "heading": "受念處：對感受的隨觀",
+        "paragraphs": [
+          "第二個領域是受（vedanā），指感受的基本色調：樂、苦、不苦不樂。受念處的修法是在感受生起的當下如實辨識它——感受樂受時，了知「我感受樂受」；感受苦受時，了知「我感受苦受」；不苦不樂亦然。",
+          "經文進一步把每一種受再分為「世俗的」（sāmisa）與「出世間的」（nirāmisa）兩類，合為更細的辨識。這個區分顯示受念處觀察的不只是感受的苦樂色調，也包括感受的來源性質。整個修法的要點不在改變感受，而在於感受現前時清楚知道它是什麼。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "lead": "受隨觀的基本句式："
+          }
+        ]
+      },
+      {
+        "heading": "心念處：對心的隨觀",
+        "paragraphs": [
+          "第三個領域是心（citta），指心整體的當下狀態。經文列出十六種心的狀態，兩兩成對：有貪／離貪、有瞋／離瞋、有癡／離癡、收縮／散亂、廣大／不廣大、有上／無上、入定／未得定、已解脫／未解脫。",
+          "值得注意的是，這份清單同時涵蓋了染污的心與清淨的心、散亂的心與入定的心。心念處的修法不是只監控負面狀態，而是無論心處於哪種狀態，都如實認出它——有貪之心就了知是「有貪之心」，離貪之心就了知是「離貪之心」，不迎不拒。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:34.2", "mn10:34.3", "mn10:34.4", "mn10:34.5"],
+            "lead": "心隨觀的句式，以貪與瞋為例："
+          }
+        ]
+      },
+      {
+        "heading": "法念處：對諸法的隨觀",
+        "paragraphs": [
+          "第四個領域是法（dhamma）。這裡的「法」不是泛指一切事物，而是指經文明確列出的五組觀察框架：五蓋（貪欲、瞋恚、惛沉睡眠、掉舉惡作、疑）、五取蘊（色、受、想、行、識）、六內外處（眼與色、耳與聲等六對，及緣此生起的結縛）、七覺支（念、擇法、精進、喜、輕安、定、捨），以及四聖諦。",
+          "法念處的觀察比前三個念處多了一層動態：不只辨識某法是否現前，還要了知它如何生起、如何捨斷、如何不再生起（對治五蓋、結縛時），或如何生起、如何修習圓滿（培育七覺支時）。到了諦品，觀察落在對苦、集、滅、道的如實了知，把整個念處的修行接上佛法的核心教義。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:36.2"],
+            "lead": "法隨觀從五蓋開始："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:44.3"],
+            "lead": "最後一品觀四聖諦："
+          }
+        ]
+      },
+      {
+        "heading": "共同公式：觀生滅、無所依而住",
+        "paragraphs": [
+          "《念處經》有一個貫穿全經的結構特徵：每一節觀法之後，都接上同一段疊句。這段公式分三步：第一，觀察範圍從內（自身）擴及外（他人）、內外；第二，隨觀該領域中諸法的生起、滅去、生滅——這是四念處從「專注練習」轉向「洞察無常」的關鍵；第三，念的建立「僅為了知與念」，修行者「不依附而安住，對世間任何事物不執取」（anissito ca viharati, na ca kiñci loke upādiyati）。",
+          "這段公式在身、受、心、法四個念處中逐字重複，可視為整部經對「什麼才算是在修四念處」的界定：不是停在對象的辨識，而是要見到對象的生滅本質，最終導向不執取。它也回答了「四念處是什麼」的深層問題——四念處是以念為入口、以觀生滅為方法、以無所依而住為方向的一整套隨觀。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "lead": "以身念處第一節之後的疊句為例："
+          }
+        ]
+      },
+      {
+        "heading": "修行成果：七年，乃至七日",
+        "paragraphs": [
+          "經文末尾，佛陀給出一段罕見的明確保證：任何人如此修習四念處七年，可以期待兩種果報之一——當生的究竟智，或（若尚有執取殘餘）不還果。接著他把期限逐步縮短：不用七年，六年、五年……乃至一年；不用一年，七個月……乃至半月；最後說：即使七天，同樣的兩種果報仍可期待。",
+          "這段遞減式的結尾，把重點從「時間長短」移到「如此修習」（evaṁ bhāveyya）——依照全經所述的方式完整地修。說完成果之後，佛陀重述經首的話作結：這是眾生清淨、親證涅槃的道路，亦即四念處。首尾同一句話，中間是完整的方法與保證，構成這部經的全貌。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:46.1", "mn10:46.2"],
+            "lead": "經末的成果保證，從七年說起："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:46.22", "mn10:46.23"],
+            "lead": "最終縮短到七天："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "「四念處」與「四念住」是同一詞（satipaṭṭhāna / 梵 smṛtyupasthāna）的新舊漢譯，北傳對應經文見《中阿含經・念處經》等。漢傳佛教將四念處列入三十七道品，視為大小乘共通的修行項目；流行的「觀身不淨、觀受是苦、觀心無常、觀法無我」四句略說概括其對治面向，與 MN10 的完整鋪陳詳略有別。天台智顗著有《四念處》，將其納入止觀體系。各傳統對其定位——解脫道核心或菩薩道之一環——理解不盡相同，本站並陳各說，不作裁決。",
+    "faq": [
+      {
+        "q": "四念處是哪四個？",
+        "a": "身、受、心、法四個念處：於身隨觀身（呼吸、姿勢、動作、身體組成、四界、遺體觀）、於受隨觀受（樂、苦、不苦不樂）、於心隨觀心（有貪離貪等十六種心的狀態）、於法隨觀法（五蓋、五取蘊、六內外處、七覺支、四聖諦）。每一處都以「精勤、正知、具念，捨除世間的貪憂」的態度進行。"
+      },
+      {
+        "q": "四念處和四念住一樣嗎？",
+        "a": "一樣，是同一個詞的不同漢譯。巴利語 satipaṭṭhāna 舊譯「念處」（取「念的立足處」義），玄奘新譯「念住」（取「念的安住、現起」義）。兩種譯法對應巴利複合詞的兩種解析（sati+paṭṭhāna 或 sati+upaṭṭhāna），所指的修行內容完全相同。"
+      },
+      {
+        "q": "四念處出自哪部經？",
+        "a": "最完整的根本出處是巴利《中部》第 10 經《念處經》（Satipaṭṭhānasutta，MN10），本頁引文皆出於此。《長部》第 22 經《大念處經》內容大體平行而諦品更詳；北傳對應經文見《中阿含經・念處經》。此外四念處作為三十七道品之一，散見於眾多經典。"
+      },
+      {
+        "q": "四念處和正念（sati）是什麼關係？",
+        "a": "念（sati）是持續、清明的覺知能力；四念處則是這個念的四個安住領域——身、受、心、法。《念處經》中比丘「精勤、正知、具念」地隨觀，就是念在這四個領域中的具體運作；經文的疊句也說念的現前「僅為了知與念」。可以說 sati 是能力，satipaṭṭhāna 是把這個能力系統性建立起來的框架。"
+      }
+    ],
+    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
+    "related_suttas": ["mn10"],
+    "related_lexicon": ["sati", "satipatthana"]
+  },
+  "en": {
+    "title": "Satipatthana (The Four Foundations of Mindfulness)",
+    "seo_title": "What Is Satipatthana? The Four Foundations of Mindfulness Defined (MN 10)",
+    "seo_description": "What does satipatthana mean? Based on the Pali text of the Satipatthana Sutta (MN 10), this page explains the four foundations of mindfulness—body, feelings, mind, and dhammas—why the Buddha calls this the 'direct path' to Nibbana, the refrain on contemplating arising and passing away, and the sutta's closing guarantee of results, with Pali-and-translation quotations throughout.",
+    "question": "What is satipatthana?",
+    "definition": "Satipaṭṭhāna (Pali) means the establishment or foundation of mindfulness (sati) in four domains: body, feelings, mind, and dhammas. A practitioner contemplates each domain ardently, clearly comprehending and mindful, putting aside longing and dejection for the world; the Satipatthana Sutta (MN 10) calls this the path to purification and the realization of Nibbana.",
+    "sections": [
+      {
+        "heading": "What the word satipaṭṭhāna means",
+        "paragraphs": [
+          "Satipaṭṭhāna is a Pali compound. The first element, sati, means mindfulness—a sustained, lucid awareness. The second element has been parsed in two ways in Pali scholarship: as paṭṭhāna, 'setting up' or 'foundation,' giving the familiar rendering 'foundations of mindfulness'; or as upaṭṭhāna, 'attending' or 'establishment,' giving 'establishments of mindfulness.' Both readings point to the same thing: mindfulness set up and made present within specific fields of observation. Cattāro satipaṭṭhānā means the four of these.",
+          "In the summary passage that opens the Satipatthana Sutta (MN 10), the Buddha defines the four fields in four parallel sentences: contemplating the body in the body, feelings in feelings, mind in mind, and dhammas in dhammas. Each sentence carries the same set of qualities: 'ardent, clearly comprehending, mindful, having put aside longing and dejection for the world' (ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ). The word anupassī, 'contemplating' or 'observing along,' indicates sustained observation of each field just as it is—the body simply as body, feeling simply as feeling—without overlaying interpretation."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "The sutta's summary definition of the four:"
+          }
+        ]
+      },
+      {
+        "heading": "Why the Buddha calls it the direct path (ekāyana)",
+        "paragraphs": [
+          "The very first statement of doctrine in the sutta gives satipatthana an exceptionally high standing: it is the ekāyano maggo. This phrase has traditionally been understood in two main ways—'the one and only path' or 'the direct (one-way) path'—and translators still render it both ways. The translation this page relies on uses 'the only path' at the opening and 'the direct path' in the closing echo, reflecting exactly that interpretive range.",
+          "On either reading, the sutta is explicit about where the path leads: the purification of beings, the surmounting of sorrow and lamentation, the ending of pain and dejection, the attainment of the true way, and the realization of Nibbana. In this discourse, satipatthana is not an auxiliary exercise; it is tied directly to the goal of liberation. The statement appears once at the beginning and once at the end of the sutta, framing everything in between."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "The opening declaration:"
+          }
+        ]
+      },
+      {
+        "heading": "First foundation: the body (kāya)",
+        "paragraphs": [
+          "The first field is the body. Under 'contemplation of the body' the sutta unfolds six sections—the longest treatment of any of the four foundations: mindfulness of breathing; the postures (walking, standing, sitting, lying down); clear comprehension of everyday activities; attention to the body's thirty-one constituent parts; attention to the four elements (earth, water, fire, air); and the charnel-ground contemplations, comparing one's own body to a corpse in nine successive stages of decay.",
+          "These six sections move from the immediate to the confronting, and they share one point: the body, usually taken for granted as a solid whole, is turned into a phenomenon that can be observed as it actually is. The first section begins with the breath—breathing in and out mindfully, knowing a long breath as long and a short breath as short. The second extends observation to every posture: when walking, one knows one is walking. Mindfulness is not confined to formal sitting; it runs through every state of the body."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:4.3", "mn10:4.4", "mn10:4.5"],
+            "lead": "The first section takes the breath as its object:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:6.1"],
+            "lead": "Observation extends to all four postures:"
+          }
+        ]
+      },
+      {
+        "heading": "Second foundation: feelings (vedanā)",
+        "paragraphs": [
+          "The second field is vedanā—feeling in the sense of the basic affective tone of experience: pleasant, painful, or neither-painful-nor-pleasant. The practice is to recognize a feeling exactly as it occurs: when feeling a pleasant feeling, one knows 'I feel a pleasant feeling'; when feeling a painful feeling, one knows 'I feel a painful feeling'; likewise for the neutral.",
+          "The sutta then subdivides each of the three into 'worldly' (sāmisa) and 'unworldly' (nirāmisa) varieties, yielding a finer-grained recognition. This shows that the contemplation covers not only the hedonic tone of a feeling but also the character of its source. The point throughout is not to change what is felt but to know clearly, while it is present, what it is."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "lead": "The basic formula for contemplating feelings:"
+          }
+        ]
+      },
+      {
+        "heading": "Third foundation: the mind (citta)",
+        "paragraphs": [
+          "The third field is citta, the overall state of the mind at a given moment. The sutta lists sixteen states in contrasting pairs: with lust / free from lust, with hatred / free from hatred, with delusion / free from delusion, contracted / distracted, exalted / unexalted, surpassable / unsurpassable, concentrated / unconcentrated, liberated / unliberated.",
+          "Notably, the list covers defiled and pure states alike, distracted minds as well as concentrated ones. Contemplation of mind is not a matter of monitoring only what is negative: whatever state the mind is in, one recognizes it as it is—a mind with lust is known simply as 'a mind with lust,' a mind free from lust as 'a mind free from lust,' without welcoming or resisting."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:34.2", "mn10:34.3", "mn10:34.4", "mn10:34.5"],
+            "lead": "The formula for contemplating mind, illustrated with lust and hatred:"
+          }
+        ]
+      },
+      {
+        "heading": "Fourth foundation: dhammas",
+        "paragraphs": [
+          "The fourth field is dhammas. Here the word does not mean 'everything whatsoever' but refers to five specific frameworks of observation set out in the text: the five hindrances (sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt); the five aggregates subject to clinging (form, feeling, perception, volitional formations, consciousness); the six internal and external sense bases (eye and forms, ear and sounds, and so on, together with the fetter that arises dependent on each pair); the seven factors of awakening (mindfulness, investigation of dhammas, energy, rapture, tranquility, concentration, equanimity); and the Four Noble Truths.",
+          "Contemplation of dhammas adds a dynamic dimension beyond the first three foundations: one knows not only whether a given dhamma is present, but how it arises, how it is abandoned, and how it does not arise again in the future (for the hindrances and fetters), or how it arises and is brought to fulfillment by development (for the awakening factors). In the final section, observation rests on knowing suffering, its origin, its cessation, and the way leading to its cessation as they actually are—connecting the whole practice to the core of the Buddha's teaching."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:36.2"],
+            "lead": "Contemplation of dhammas begins with the five hindrances:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:44.3"],
+            "lead": "The final section contemplates the Four Noble Truths:"
+          }
+        ]
+      },
+      {
+        "heading": "The shared refrain: arising and passing, dwelling independent",
+        "paragraphs": [
+          "A structural feature runs through the entire sutta: after every section of practice, the same refrain follows. It has three steps. First, the scope of contemplation extends from internally (oneself) to externally (others) and both. Second, one contemplates the nature of arising, the nature of vanishing, and the nature of both arising and vanishing in that field—the pivot where satipatthana turns from an exercise in attention into insight into impermanence. Third, mindfulness is established 'only to the extent necessary for knowledge and mindfulness,' and the practitioner 'dwells independent, not clinging to anything in the world' (anissito ca viharati, na ca kiñci loke upādiyati).",
+          "This refrain is repeated verbatim across body, feelings, mind, and dhammas, and can be read as the sutta's own criterion for what counts as practicing satipatthana: not stopping at identifying the object, but seeing its arising-and-passing nature, ending in non-clinging. It also answers the deeper form of the question 'what is satipatthana?'—a complete mode of contemplation with mindfulness as the entry point, observation of arising and passing as the method, and dwelling independent, without clinging, as the direction."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "lead": "The refrain, as it first appears after mindfulness of breathing:"
+          }
+        ]
+      },
+      {
+        "heading": "The promised results: seven years, down to seven days",
+        "paragraphs": [
+          "The sutta closes with a remarkably explicit guarantee. Anyone who develops these four foundations of mindfulness in such a way for seven years can expect one of two fruits: final knowledge here and now, or—if a residue of clinging remains—non-return. The Buddha then shortens the term step by step: let alone seven years—six, five, down to one year; let alone a year—seven months, down to half a month; and finally: even seven days, and the same two fruits may be expected.",
+          "This descending sequence shifts the weight from the length of time to the phrase 'develop in such a way' (evaṁ bhāveyya)—practicing fully in the manner the whole discourse has described. Having stated the results, the Buddha closes by restating the opening line: this is the path for the purification of beings and the realization of Nibbana, namely the four satipatthanas. The same sentence at both ends, with the complete method and its guarantee in between, is the shape of the entire sutta."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:46.1", "mn10:46.2"],
+            "lead": "The guarantee, starting from seven years:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:46.22", "mn10:46.23"],
+            "lead": "Shortened, finally, to seven days:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "In Chinese Buddhist translation, satipaṭṭhāna (Sanskrit smṛtyupasthāna) appears both as the older rendering 'four bases of mindfulness' (si nianchu) and Xuanzang's newer 'four abidings of mindfulness' (si nianzhu); a parallel discourse is preserved in the Madhyama Agama. Across Mahayana traditions the four are counted among the thirty-seven aids to awakening and are treated as practice common to all vehicles. East Asian Buddhism popularized a four-line summary—contemplating the body as impure, feelings as suffering, mind as impermanent, dhammas as non-self—which condenses the corrective thrust of the practice, though it differs in emphasis and detail from MN 10's six-part treatment of the body and five frameworks of dhammas. Tiantai master Zhiyi devoted a treatise to the four satipatthanas within his system of calming and insight. Traditions differ on the practice's standing—the core of the path to liberation, or one component among the bodhisattva's practices—and this site presents these views side by side without adjudicating.",
+    "faq": [
+      {
+        "q": "What are the four foundations of mindfulness?",
+        "a": "Body, feelings, mind, and dhammas. One contemplates the body in the body (breathing, postures, activities, anatomical parts, elements, charnel-ground reflections), feelings in feelings (pleasant, painful, neutral), mind in mind (sixteen states such as with or without lust), and dhammas in dhammas (the five hindrances, five aggregates, six sense bases, seven awakening factors, and Four Noble Truths)—in each case ardent, clearly comprehending, and mindful, having put aside longing and dejection for the world."
+      },
+      {
+        "q": "Are 'foundations of mindfulness' and 'establishments of mindfulness' the same thing?",
+        "a": "Yes—they are two English renderings of the same Pali word, satipaṭṭhāna, reflecting two ways of parsing the compound: sati + paṭṭhāna ('foundation, setting up') or sati + upaṭṭhāna ('establishment, attending'). Chinese translations likewise vary between nianchu and nianzhu. The practice referred to is identical."
+      },
+      {
+        "q": "Which sutta does satipatthana come from?",
+        "a": "The fullest foundational source is the Satipatthana Sutta, Majjhima Nikaya 10 (MN 10), on which all quotations on this page are based. The Mahasatipatthana Sutta (DN 22) runs largely parallel with an expanded section on the truths, and a parallel exists in the Chinese Madhyama Agama. As one of the thirty-seven aids to awakening, the four satipatthanas also appear throughout the canon."
+      },
+      {
+        "q": "How does satipatthana relate to mindfulness (sati)?",
+        "a": "Sati is the capacity itself—sustained, lucid awareness. Satipatthana is that capacity established in four fields: body, feelings, mind, and dhammas. When MN 10 describes the practitioner as 'ardent, clearly comprehending, mindful,' that is sati operating within the four foundations; the sutta's refrain adds that mindfulness is established 'only to the extent necessary for knowledge and mindfulness.' In short, sati is the faculty; satipatthana is the framework that systematically establishes it."
+      }
+    ],
+    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
+    "related_suttas": ["mn10"],
+    "related_lexicon": ["sati", "satipatthana"]
+  }
+}

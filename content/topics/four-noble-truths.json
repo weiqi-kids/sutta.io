@@ -1,0 +1,268 @@
+{
+  "slug": "four-noble-truths",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "四聖諦",
+    "seo_title": "四聖諦是什麼？苦集滅道的原典逐項定義（MN141 諦分別經）",
+    "seo_description": "四聖諦（苦、集、滅、道）是佛陀初轉法輪的核心教導。本頁依《諦分別經》（MN141）巴利原文，逐項呈現舍利弗奉佛陀之命對四諦的完整解說：苦諦細列生、老、死、愁悲苦憂惱、求不得與五取蘊，集諦是渴愛，滅諦是渴愛的無餘滅盡，道諦即八正道，並附巴利與白話對照。",
+    "question": "四聖諦是什麼？",
+    "definition": "四聖諦（苦、集、滅、道）是佛陀在鹿野苑初轉法輪時宣說的四項核心真理：苦聖諦指出生命中苦的範圍，集聖諦指明苦的起因是渴愛，滅聖諦是渴愛的無餘止息，道聖諦是導向苦滅的八正道。",
+    "sections": [
+      {
+        "heading": "四聖諦在佛法中的地位：從初轉法輪到舍利弗的詳解",
+        "paragraphs": [
+          "《諦分別經》（Saccavibhaṅgasutta, MN141）的場景就在波羅奈斯城仙人墮處的鹿野苑——佛陀成道後初次說法之地。經文一開始，世尊便對比丘們宣告：如來在此處轉動了無上法輪，世間的沙門、婆羅門、天神、魔、梵天，任何人都不能使它逆轉；而這個「法輪」的內容，就是對四聖諦的宣說、教導、闡明、建立、開示、分析與明解。初次轉動法輪的那場說法，記載於《轉法輪經》（SN56.11），其核心同樣是四聖諦。",
+          "說完這個總綱，佛陀並沒有自己往下講。他囑咐比丘們親近舍利弗與目犍連兩位智慧的比丘，並特別說：舍利弗能夠廣詳地宣說、教導、描述、建立、闡明、分析四聖諦。說罷，世尊起身進入精舍。世尊離去不久，舍利弗便接手，對比丘們把四諦一項一項地「分別」開來——這正是本經題名「諦分別」的由來。",
+          "這個安排本身就標示出四聖諦的地位：它不是眾多教理中的一項，而是「法輪」本身的內容；而且它不只需要被宣說，還需要被分析、闡明——每一諦、每一項都有明確的定義。MN141 正是巴利原典中對四聖諦逐項下定義最完整的經文之一，以下便依舍利弗的講解次第逐諦呈現。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "lead": "佛陀開宗明義，把不可逆轉的法輪定為四聖諦的宣說："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.7", "mn141:6.1", "mn141:6.2"],
+            "lead": "佛陀把詳解四諦的任務交給舍利弗，隨即起身離去："
+          }
+        ]
+      },
+      {
+        "heading": "苦聖諦（一）：總說，以及生、老、死的定義",
+        "paragraphs": [
+          "舍利弗先給出苦聖諦的總說：生是苦，老是苦，死是苦，愁、悲、苦、憂、惱是苦，所欲不得（求不得）是苦；簡言之，五取蘊是苦。這份清單並非情緒化的感嘆，而是一份接下來要逐項定義的目錄——本經隨後對其中每一項都以「何為生？……此即名為生」的問答體給出正式界說。",
+          "「生」的定義是：各類有情的出生、誕生、入胎、諸蘊之顯現、諸處之獲得——不是抽象的「人生」，而是一期生命開始成立的整個過程。「老」的定義同樣具體：衰老、齒落、白髮、皺紋叢生、壽命衰減、諸根衰退。「死」則是：死歿、消逝、諸蘊壞散、色身棄捨、命根斷絕。三項定義合起來，勾勒出一期生命從成立到解體的全程。",
+          "值得留意的是，漢傳熟悉的「生老病死」四字中的「病」，在本經苦諦的總說裡並未單獨列為一項；「病」在本經是出現在稍後求不得苦的段落——「本性會患病的眾生」也生起「願我們不病」的欲求。這類細節，正是回到原典逐句對讀才能看見的。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "苦聖諦的總說："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:13.1", "mn141:13.2", "mn141:13.3"],
+            "lead": "以「死」為例，經文的定義方式如下："
+          }
+        ]
+      },
+      {
+        "heading": "苦聖諦（二）：愁悲苦憂惱、求不得，與五取蘊",
+        "paragraphs": [
+          "接著，舍利弗把「愁、悲、苦、憂、惱」五項逐一定義：愁（soka）是遭遇不幸時的憂愁與內在的深憂；悲（parideva）是哀嘆與悲泣；苦（dukkha）在這裡特指身體的苦——由身觸所生的苦受與不悅受；憂（domanassa）則是心的苦——由意觸所生的苦受；惱（upāyāsa）是遭逢不幸時的苦惱與惱苦之性。這組定義顯示：「苦」一詞在經中有廣狹二義——狹義專指身體的苦受，廣義則涵蓋苦諦所列的一切。",
+          "「求不得苦」的定義尤其具體：會出生的眾生生起這樣的欲求——「願我們不再出生！」會老、會病、會死、會愁悲苦憂惱的眾生，也生起「願這些不要來到！」的欲求。然而這些「不能僅藉欲求而得達」——欲求與現實之間這道跨不過去的落差，本身就是苦。",
+          "最後，「簡言之，五取蘊是苦」是整個苦諦的總括：色取蘊、受取蘊、想取蘊、行取蘊、識取蘊。前面列舉的生老死、愁悲憂惱、求不得，最終都收攝在這五類被執取的身心現象上。關於五取蘊的完整說明，見〈五蘊〉主題頁。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:19.2", "mn141:19.3", "mn141:19.4", "mn141:19.5"],
+            "lead": "「求不得苦」的定義："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.1", "mn141:20.2", "mn141:20.3", "mn141:20.4"],
+            "lead": "苦諦的總括——五取蘊："
+          }
+        ]
+      },
+      {
+        "heading": "集諦與滅諦：渴愛的生起與止息",
+        "paragraphs": [
+          "苦集聖諦回答「苦從何而來」。舍利弗的定義只指向一個字：渴愛（taṇhā）——那導向再有（來生）、伴隨喜與貪、在此處彼處耽樂的渴愛。經文再把它分為三類：欲愛（對感官對象的渴愛）、有愛（對存在、對「繼續是什麼」的渴愛）、無有愛（對不存在、對斷滅的渴愛）。換言之，苦的起因不在外境，而在這股不斷攀緣、不斷要求「再來」的動力。",
+          "苦滅聖諦則是同一句話的反面：對那渴愛的無餘離貪滅盡、捨棄、放捨、解脫、無依著。值得注意的是，滅諦的定義完全扣著集諦來下——滅去的不是世界、不是感受，而是渴愛本身。集與滅兩諦一正一反，構成同一因果的兩面：渴愛生則苦生，渴愛滅則苦滅。",
+          "這兩諦的定義在原文中都極為精簡，卻是四諦結構的樞紐：苦諦描述問題的範圍，集諦指出它唯一的成因，滅諦確立止息的可能。剩下的問題是「如何滅」——這就是第四諦的內容。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:21.1", "mn141:21.2", "mn141:21.3", "mn141:21.4"],
+            "lead": "集諦：渴愛的定義與三種分類："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:22.1", "mn141:22.2", "mn141:22.3"],
+            "lead": "滅諦：渴愛的無餘止息："
+          }
+        ]
+      },
+      {
+        "heading": "道諦：導向苦滅的八正道",
+        "paragraphs": [
+          "導向苦滅的道聖諦，舍利弗的回答是：「就是這聖八支道」——正見、正思惟、正語、正業、正命、正精進、正念、正定。八支不是八個階段，而是一條道路的八個構成部分；MN141 接著對每一支都給出定義，從正見一路講到正定（四禪）。",
+          "其中第一支「正見」的定義特別值得注意：對苦的知智、對苦之生起的知智、對苦之止息的知智、對導向苦滅之道的知智——正見就是了知四聖諦本身。這形成一個環形結構：四諦的最後一諦（道）以八正道展開，而八正道的第一支（正見）又回指四諦。道諦與其餘三諦因此不是並列的四分之一，而是把前三諦轉化為可修習之路的樞紐。",
+          "八正道各支的完整定義與說明（正思惟的三種意向、正語四離、正精進四勤、正念四念處、正定四禪等），詳見〈八正道〉主題頁；本經正是八正道逐支定義的重要原典出處之一。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "lead": "道諦的定義——八支聖道總列："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "lead": "正見的定義，回指四聖諦本身："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "四聖諦為佛教各傳統共尊的根本教理。漢傳《中阿含經》的《分別聖諦經》是 MN141 的對應傳本，同樣由舍利弗奉命分別解說四諦。漢傳習稱的「八苦」在生老病死、求不得、五取蘊之外另列怨憎會苦與愛別離苦；巴利 MN141 的苦諦總說則如本頁所列，兩種傳本開合略異。大乘進一步開展四諦的詮釋：天台宗判「生滅、無生、無量、無作」四種四諦，對應不同根機；《心經》「無苦集滅道」則是從般若空觀說諸法無自性，並非否定四諦的教學地位。各傳統詮釋並陳於此供對照，本站不作高下裁決。",
+    "faq": [
+      {
+        "q": "「苦集滅道」分別是什麼意思？",
+        "a": "苦、集、滅、道是四聖諦的簡稱。依《諦分別經》（MN141）的定義：苦聖諦指生、老、死、愁悲苦憂惱、求不得，簡言之即五取蘊是苦；集聖諦指苦的起因——導向再有、伴隨喜貪的渴愛（欲愛、有愛、無有愛）；滅聖諦指對那渴愛的無餘離貪滅盡、捨棄、解脫；道聖諦指導向苦滅的方法——八正道（正見、正思惟、正語、正業、正命、正精進、正念、正定）。"
+      },
+      {
+        "q": "四聖諦出自哪部經？",
+        "a": "四聖諦最早見於佛陀在鹿野苑初次說法的《轉法輪經》（SN56.11），「初轉法輪」轉的就是四諦法輪。而對四諦逐項下定義最完整的原典之一，是《中部》第 141 經《諦分別經》（MN141）：佛陀重申四諦是法輪的內容後，囑舍利弗詳細分別，舍利弗遂對每一諦、每一項（從「生」的定義到四禪）逐一界說。本頁即依 MN141 原文撰寫。"
+      },
+      {
+        "q": "四聖諦的順序有意義嗎？",
+        "a": "有。四諦依「問題—原因—目標—方法」開展：先確認苦的範圍（苦），再找出其成因（集），確立成因可以止息（滅），最後給出止息的具體道路（道）。傳統上常以醫者治病為喻：診斷病症、找出病因、確認可癒、開立處方。MN141 中正見的定義——對苦、苦之集、苦之滅、導向苦滅之道的知智——也按同一順序展開，顯示這個次第本身就是教學的一部分。"
+      },
+      {
+        "q": "佛教說「一切皆苦」，這樣理解對嗎？",
+        "a": "依 MN141 的苦諦定義，需要更精確地說。經文列舉的是具體項目：生、老、死、愁悲苦憂惱、求不得；而且經中把「苦」（dukkha，身體的苦受）與「憂」（domanassa，心的苦受）分開定義，可見苦諦並非籠統宣稱一切感受都是痛苦。總結句是「簡言之，五取蘊是苦」——重點在於被執取的五蘊身心整體不圓滿、不可靠，這是一個診斷式的陳述，而非否認生命中有樂受存在。"
+      }
+    ],
+    "related_topics": ["noble-eightfold-path", "dependent-origination", "five-aggregates"],
+    "related_suttas": ["mn141"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "The Four Noble Truths",
+    "seo_title": "The Four Noble Truths Explained, Term by Term (MN 141, Saccavibhaṅgasutta)",
+    "seo_description": "The four noble truths — suffering, its origin, its cessation, and the path — explained from the Pali source itself. In MN 141 Sāriputta, at the Buddha's request, defines every term: suffering from birth and death to the five aggregates, origin as craving, cessation as its fading away, and the path as the noble eightfold path.",
+    "question": "What are the four noble truths?",
+    "definition": "The four noble truths — suffering (dukkha), its origin, its cessation, and the path — are the core teaching the Buddha proclaimed when he first set the Wheel of Dhamma in motion at the Deer Park. In the Saccavibhaṅgasutta (MN 141), Sāriputta defines each truth term by term: suffering culminating in the five aggregates subject to clinging, origin as craving, cessation as the remainderless fading of that craving, and the path as the noble eightfold path.",
+    "sections": [
+      {
+        "heading": "Where the Four Noble Truths Stand: The Wheel of Dhamma and Sāriputta's Commission",
+        "paragraphs": [
+          "The Saccavibhaṅgasutta ('The Analysis of the Truths', MN 141) is set in the Deer Park at Isipatana near Varanasi — the very place where the Buddha gave his first discourse. The sutta opens with the Buddha announcing to the monks that the Tathāgata has set rolling there the unsurpassed Wheel of Dhamma, which no ascetic, brahmin, god, Māra, or Brahmā can turn back; and the content of that wheel is precisely the announcing, teaching, describing, establishing, revealing, analyzing, and clarifying of the four noble truths. The first turning itself is recorded in the Dhammacakkappavattanasutta (SN 56.11), whose core is likewise the four truths.",
+          "Having stated this headline, the Buddha does not continue the exposition himself. He tells the monks to associate with Sāriputta and Moggallāna, wise monks, and singles out Sāriputta as one able to announce, teach, describe, establish, reveal, and analyze the four noble truths in detail. Then he rises from his seat and enters his dwelling. Soon after the Buddha has left, Sāriputta takes over and analyzes the four truths for the monks one item at a time — which is exactly what the title 'Saccavibhaṅga', the analysis of the truths, means.",
+          "This framing itself marks the standing of the four noble truths: they are not one doctrine among many but the very content of the Wheel of Dhamma; and they call not only for proclamation but for analysis — each truth, each term, given an explicit definition. MN 141 is among the fullest term-by-term treatments of the four truths in the Pali Canon, and the sections below follow Sāriputta's exposition in order."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "lead": "The Buddha's opening: the irreversible Wheel of Dhamma is the proclamation of the four noble truths:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.7", "mn141:6.1", "mn141:6.2"],
+            "lead": "The Buddha entrusts the detailed exposition to Sāriputta and departs:"
+          }
+        ]
+      },
+      {
+        "heading": "The Truth of Suffering, Part One: Birth, Aging, and Death Defined",
+        "paragraphs": [
+          "Sāriputta begins with the summary statement of the noble truth of suffering: birth is suffering, aging is suffering, death is suffering; sorrow, lamentation, pain, distress, and despair are suffering; not getting what one wants is suffering; in brief, the five aggregates subject to clinging are suffering. This list is not a lament but a table of contents — the sutta goes on to define every item on it in a formal question-and-answer style: 'And what, friends, is birth? ... This is called birth.'",
+          "Birth is defined as the birth, coming forth, descent (into the womb), production, appearance of the aggregates, and acquisition of the sense bases of beings in the various orders of beings — not 'life' in the abstract, but the whole process by which a lifetime comes into being. Aging is equally concrete: old age, brokenness of teeth, greyness of hair, wrinkling of skin, decline of vitality, failing of the faculties. Death is the passing away, dissolution, disappearance, the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty. Together the three definitions trace a lifetime from its arising to its dissolution.",
+          "One detail worth noting: sickness, familiar from the common formula 'birth, aging, sickness, and death', is not listed as a separate item in this sutta's summary of the first truth; it appears instead in the later passage on not getting what one wants — beings 'subject to sickness' wish not to fall sick. Details like this only become visible when the source text is read line by line."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "The summary statement of the truth of suffering:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:13.1", "mn141:13.2", "mn141:13.3"],
+            "lead": "The definition of death, as an example of the sutta's method:"
+          }
+        ]
+      },
+      {
+        "heading": "The Truth of Suffering, Part Two: Sorrow, Frustrated Wishes, and the Five Aggregates",
+        "paragraphs": [
+          "Sāriputta then defines the five terms 'sorrow, lamentation, pain, distress, and despair' one by one. Sorrow (soka) is the inner grief of one struck by misfortune; lamentation (parideva) is the wailing and crying out; pain (dukkha) here means specifically bodily pain — the painful, disagreeable feeling born of bodily contact; distress (domanassa) is mental pain — the painful feeling born of mental contact; despair (upāyāsa) is the anguish of one overwhelmed by misfortune. These definitions show that 'dukkha' carries both a narrow sense (bodily pain) and a broad sense (everything the first truth covers).",
+          "The definition of 'not getting what one wants' is strikingly concrete: in beings subject to birth the wish arises, 'Oh, that we were not subject to birth, that birth would not come to us!' The same wish arises in beings subject to aging, sickness, death, and to sorrow, lamentation, pain, distress, and despair. But 'this is not to be attained by wishing' — and that unbridgeable gap between wish and reality is itself suffering.",
+          "Finally, 'in brief, the five aggregates subject to clinging are suffering' gathers the whole truth into a single formula: the clinging-aggregates of form, feeling, perception, volitional activities, and consciousness. Everything enumerated before — birth, aging, death, sorrow, frustrated wishes — resolves into these five categories of body and mind held with clinging. See the topic page on the five aggregates for the full treatment."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:19.2", "mn141:19.3", "mn141:19.4", "mn141:19.5"],
+            "lead": "The definition of 'not getting what one wants':"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.1", "mn141:20.2", "mn141:20.3", "mn141:20.4"],
+            "lead": "The summary of the first truth — the five aggregates subject to clinging:"
+          }
+        ]
+      },
+      {
+        "heading": "Origin and Cessation: Craving and Its Ending",
+        "paragraphs": [
+          "The noble truth of the origin of suffering answers the question 'where does suffering come from?' Sāriputta's definition points to a single word: craving (taṇhā) — the craving that leads to renewed existence, accompanied by delight and lust, delighting now here, now there. The sutta then divides it into three: craving for sensual pleasures, craving for existence, and craving for non-existence. In other words, the cause of suffering lies not in the world but in this restless drive that keeps demanding more.",
+          "The noble truth of the cessation of suffering is the same sentence in reverse: the remainderless fading away and cessation of that very craving — its giving up, relinquishment, release, and non-attachment. Notice that the third truth is defined entirely in terms of the second: what ceases is not the world, nor feeling, but craving itself. Origin and cessation are two faces of one causal relation: when craving arises, suffering arises; when craving ceases, suffering ceases.",
+          "Both definitions are remarkably brief in the original, yet they form the hinge of the whole fourfold structure: the first truth maps the problem, the second names its sole cause, the third establishes that the cause can be brought to an end. What remains is the question 'how?' — and that is the fourth truth."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:21.1", "mn141:21.2", "mn141:21.3", "mn141:21.4"],
+            "lead": "The origin: craving defined, with its three kinds:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:22.1", "mn141:22.2", "mn141:22.3"],
+            "lead": "The cessation: the remainderless ending of that craving:"
+          }
+        ]
+      },
+      {
+        "heading": "The Truth of the Path: The Noble Eightfold Path",
+        "paragraphs": [
+          "For the noble truth of the way leading to the cessation of suffering, Sāriputta's answer is: 'It is just this noble eightfold path' — right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. The eight factors are not eight stages but eight constituents of a single road, and MN 141 goes on to define each factor in turn, from right view all the way to right concentration (the four jhānas).",
+          "The definition of the first factor, right view, deserves special attention: knowledge of suffering, knowledge of the origin of suffering, knowledge of the cessation of suffering, knowledge of the way leading to the cessation of suffering — right view just is knowing the four noble truths. This creates a circular structure: the fourth truth unfolds into the eightfold path, and the path's first factor points back to the four truths. The truth of the path is thus not merely one quarter of the scheme but the pivot that turns the other three truths into something that can be practiced.",
+          "The full definitions of all eight factors — the three right intentions, the four abstentions of right speech, the four right efforts, the four foundations of mindfulness, the four jhānas — are treated in the topic page on the noble eightfold path; MN 141 is one of the key canonical sources for those factor-by-factor definitions."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "lead": "The fourth truth defined — the noble eightfold path in full:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "lead": "Right view defined, pointing back to the four truths themselves:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "The four noble truths are honored across all Buddhist traditions. In the Chinese Madhyama Āgama, the 'Discourse on the Analysis of the Noble Truths' is the parallel to MN 141, likewise recording Sāriputta expounding the four truths at the Buddha's request. The East Asian tradition commonly speaks of 'eight sufferings', adding separation from the beloved and association with the disliked to birth, aging, sickness, death, frustrated wishes, and the five aggregates; the Pali MN 141 enumerates the first truth as shown on this page, so the two transmissions differ slightly in how the list is drawn up. Mahāyāna thought develops further interpretive layers: the Tiantai school distinguishes four levels of understanding the four truths (arising-and-ceasing, non-arising, immeasurable, and effortless), matched to different capacities; and the Heart Sutra's 'no suffering, origin, cessation, or path' speaks from the standpoint of emptiness — the absence of independent essence in all phenomena — rather than denying the truths' place as teaching. These interpretations are presented here side by side for comparison; this site does not adjudicate among them.",
+    "faq": [
+      {
+        "q": "What do the four noble truths actually say, one by one?",
+        "a": "Following the definitions in MN 141: the truth of suffering — birth, aging, death, sorrow, lamentation, pain, distress, despair, not getting what one wants; in brief, the five aggregates subject to clinging. The truth of origin — craving that leads to renewed existence, accompanied by delight and lust: craving for sensual pleasures, for existence, and for non-existence. The truth of cessation — the remainderless fading away of that very craving, its relinquishment and release. The truth of the path — the noble eightfold path: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration."
+      },
+      {
+        "q": "Which sutta teaches the four noble truths?",
+        "a": "The truths were first proclaimed in the Buddha's first discourse at the Deer Park, the Dhammacakkappavattanasutta (SN 56.11) — the 'first turning of the Wheel of Dhamma'. One of the fullest term-by-term expositions is the Saccavibhaṅgasutta (MN 141): after the Buddha reaffirms that the four truths are the content of the Wheel of Dhamma, he entrusts the detailed analysis to Sāriputta, who then defines every item, from 'birth' through the four jhānas. This page is written from MN 141."
+      },
+      {
+        "q": "Does the order of the four truths matter?",
+        "a": "Yes. The four truths unfold as problem, cause, goal, and method: first the scope of suffering is established, then its cause identified, then the possibility of its cessation affirmed, and finally the concrete road to that cessation laid out. A traditional comparison is the physician's procedure: diagnosis, etiology, prognosis, prescription. In MN 141 the definition of right view — knowledge of suffering, of its origin, of its cessation, and of the way — follows the same sequence, suggesting the order is itself part of the teaching."
+      },
+      {
+        "q": "Does Buddhism claim that everything is suffering?",
+        "a": "MN 141's definition calls for more precision than that. The first truth enumerates specific items — birth, aging, death, sorrow, frustrated wishes — and the sutta explicitly distinguishes bodily pain (dukkha in the narrow sense) from mental distress (domanassa), so it is not a blanket claim that every experience is painful. The summary formula is 'in brief, the five aggregates subject to clinging are suffering': the point is that body and mind held with clinging are unreliable and unsatisfactory as a whole — a diagnostic statement, not a denial that pleasant feelings exist."
+      }
+    ],
+    "related_topics": ["noble-eightfold-path", "dependent-origination", "five-aggregates"],
+    "related_suttas": ["mn141"],
+    "related_lexicon": []
+  }
+}

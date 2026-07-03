@@ -1,0 +1,262 @@
+---
+// topics/[slug].astro — 主題研經頁（概念頁系統；docs/04-engineering/SEO_KEYWORDS.md）
+// 信任界線：解說＝L2（AI 生成、掛 AI 標示、冷灰材質）；引文＝L1（segment_id 於 build 期
+// 自 data/ 解析，查無即 build 失敗），深連結回研經頁可逐字檢驗。
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listTopics, getTopic, resolveTopicQuote, getSutta, suttaSeoTitle } from '../../lib/data';
+
+export function getStaticPaths() {
+  return listTopics().map((tp) => ({ params: { slug: tp.slug } }));
+}
+
+const { slug } = Astro.params;
+const topic = getTopic(slug!);
+if (!topic) return Astro.redirect('/404');
+const L = topic.zh;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+
+// 引文於 build 期解析（防捏造：任何 segment_id 不存在都會讓 build 失敗）
+const sectionsResolved = L.sections.map((sec) => ({
+  ...sec,
+  resolvedQuotes: (sec.quotes ?? []).map(resolveTopicQuote),
+}));
+
+const relatedSuttas = (L.related_suttas ?? [])
+  .map((id) => {
+    const s = getSutta(id);
+    return s ? { id, label: suttaSeoTitle(s, 'zh') } : null;
+  })
+  .filter(Boolean) as { id: string; label: string }[];
+const relatedTopics = (L.related_topics ?? [])
+  .map((sl) => {
+    const tp = getTopic(sl);
+    return tp ? { slug: sl, label: tp.zh.title, question: tp.zh.question } : null;
+  })
+  .filter(Boolean) as { slug: string; label: string; question: string }[];
+
+const crumbs = [{ label: t.nav.topics, href: `${base}/topics` }, { label: L.title }];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: L.faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: L.seo_title,
+  description: L.seo_description,
+  inLanguage: 'zh-Hant',
+  url: `https://sutta.io/topics/${topic.slug}/`,
+  dateModified: topic.date,
+  author: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
+  publisher: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
+  isAccessibleForFree: true,
+};
+---
+
+<Base
+  title={L.seo_title}
+  description={L.seo_description}
+  crumbs={crumbs}
+  extraSchema={[articleSchema, faqSchema]}
+>
+  <article class="topic">
+    <h1>{L.question}</h1>
+
+    <p class="definition">{L.definition}</p>
+
+    <p class="ai-notice">
+      <span class="prov-badge prov-ai">AI</span>
+      本頁解說由 AI 依站內經文真實資料撰寫{topic.review_status === 'draft' && '，人工校稿中'}；
+      標「原文」之引文皆為正典，可點入全文逐字檢驗。發現錯誤請由頁尾回報勘誤。
+    </p>
+
+    {
+      sectionsResolved.map((sec) => (
+        <section class="topic-section">
+          <h2>{sec.heading}</h2>
+          {sec.paragraphs.map((p) => (
+            <p class="explain">{p}</p>
+          ))}
+          {sec.resolvedQuotes.map((q) => (
+            <figure class="quote">
+              {q.lead && <figcaption class="quote-lead">{q.lead}</figcaption>}
+              {q.segments.map((seg) => (
+                <div class="quote-seg">
+                  {seg.pali && (
+                    <p class="quote-pali" lang="pi">
+                      {seg.pali}
+                    </p>
+                  )}
+                  {seg.vernacular && <p class="quote-vern">{seg.vernacular}</p>}
+                </div>
+              ))}
+              <figcaption class="quote-src">
+                原文出處：
+                <a href={url(`/read/${q.sutta}${q.href_fragment}`)}>
+                  《{q.sutta_title_zh}》（<span lang="pi">{q.sutta_title_pali}</span>，{q.sutta.toUpperCase()}）
+                </a>
+                ・白話為 AI 逐段生成
+              </figcaption>
+            </figure>
+          ))}
+        </section>
+      ))
+    }
+
+    {
+      L.mahayana_note && (
+        <section class="topic-section">
+          <h2>與大乘詮釋的關係</h2>
+          <p class="explain">{L.mahayana_note}</p>
+        </section>
+      )
+    }
+
+    <section class="topic-section">
+      <h2>常見問題</h2>
+      <dl class="faq">
+        {
+          L.faq.map((f) => (
+            <Fragment>
+              <dt>{f.q}</dt>
+              <dd>{f.a}</dd>
+            </Fragment>
+          ))
+        }
+      </dl>
+    </section>
+
+    {
+      (relatedSuttas.length > 0 || relatedTopics.length > 0 || (L.related_lexicon ?? []).length > 0) && (
+        <section class="topic-section related">
+          <h2>繼續研讀</h2>
+          <ul>
+            {relatedSuttas.map((s) => (
+              <li>
+                讀全文：<a href={url(`/read/${s.id}`)}>{s.label}</a>
+              </li>
+            ))}
+            {relatedTopics.map((tp) => (
+              <li>
+                相關主題：<a href={url(`/topics/${tp.slug}`)}>{tp.question}</a>
+              </li>
+            ))}
+            {(L.related_lexicon ?? []).map((k) => (
+              <li>
+                字典：<a href={url(`/lexicon/${k}`)} lang="pi">
+                  {k}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  .topic h1 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-4);
+  }
+  .definition {
+    font-size: var(--text-md);
+    line-height: var(--lh-zh);
+    padding: var(--space-4);
+    background: var(--surface);
+    border-left: 3px solid var(--thread);
+    border-radius: var(--radius);
+    margin-bottom: var(--space-4);
+  }
+  .ai-notice {
+    font-size: var(--text-xs);
+    color: var(--margin);
+    background: var(--margin-bg);
+    border-left: 2px solid var(--margin);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius);
+    margin-bottom: var(--space-6);
+  }
+  .topic-section {
+    margin-bottom: var(--space-6);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin: var(--space-6) 0 var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .explain {
+    color: var(--ink);
+    margin-bottom: var(--space-3);
+  }
+  .quote {
+    margin: var(--space-4) 0;
+    padding: var(--space-4);
+    background: var(--paper);
+    border-left: 3px solid var(--prov-canonical);
+    border-radius: var(--radius);
+  }
+  .quote-lead {
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-bottom: var(--space-2);
+  }
+  .quote-seg {
+    margin-bottom: var(--space-3);
+  }
+  .quote-pali {
+    font-family: var(--font-pali);
+    font-size: var(--size-pali);
+    line-height: var(--lh-pali);
+    font-style: italic;
+    color: var(--ink);
+    margin: 0 0 var(--space-1);
+  }
+  .quote-vern {
+    font-family: var(--font-zh);
+    font-size: var(--size-zh);
+    line-height: var(--lh-zh);
+    color: var(--ink);
+    margin: 0;
+  }
+  .quote-src {
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-top: var(--space-2);
+  }
+  .quote-src a {
+    color: var(--ink-soft);
+  }
+  .quote-src a:hover {
+    color: var(--thread);
+  }
+  .faq dt {
+    font-weight: 600;
+    margin-top: var(--space-4);
+  }
+  .faq dd {
+    margin: var(--space-2) 0 0;
+    color: var(--ink-soft);
+  }
+  .related ul {
+    line-height: 2;
+  }
+  .related a {
+    text-decoration: none;
+  }
+  .related a:hover {
+    color: var(--thread);
+  }
+</style>

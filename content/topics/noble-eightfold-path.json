@@ -1,0 +1,344 @@
+{
+  "slug": "noble-eightfold-path",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "八正道",
+    "seo_title": "八正道是什麼？八支的原典逐條定義（MN141 諦分別經）",
+    "seo_description": "八正道是什麼？本頁不採教科書式列點，而是依《中部》第 141 經《諦分別經》巴利原文，逐支引出舍利弗對正見、正思惟、正語、正業、正命、正精進、正念、正定的原始定義——「什麼是正見？即對苦的智……」，並說明八正道在四聖諦中的位置、戒定慧三學的歸納方式，以及依經文可以怎麼開始實踐。",
+    "question": "八正道是什麼？",
+    "definition": "八正道（巴利語 ariyo aṭṭhaṅgiko maggo，聖八支道）是佛教通往苦滅的實踐之道，即四聖諦中的第四諦「道諦」，由正見、正思惟、正語、正業、正命、正精進、正念、正定八支構成。《諦分別經》（MN141）保存了佛陀僧團對每一支的逐條定義。",
+    "sections": [
+      {
+        "heading": "八正道在四聖諦中的位置：它就是道諦",
+        "paragraphs": [
+          "要理解八正道是什麼，先要看它被放在哪裡。在《諦分別經》（MN141）中，世尊開場即宣告：如來在鹿野苑轉動的無上法輪，內容就是對四聖諦——苦、苦集、苦滅、導向苦滅之道——的宣說與分析。八正道不是四聖諦以外的另一套教法，它本身就是第四諦。",
+          "本經的特別之處在於，世尊只點出主題，隨即囑咐比丘們親近舍利弗與目犍連，並說舍利弗能夠「廣詳地宣說、教導、描述、建立、闡明、分析四聖諦」。接下來整部經，是舍利弗對比丘們的完整開示——也就是說，本頁引用的八支定義，是佛陀僧團內部第一代弟子親口給出的標準定義，而非後世的整理。",
+          "當開示進行到第四諦時，舍利弗自問自答：「什麼是趣向苦滅的道聖諦？就是這聖八支道。」接著逐一列出八支的名目，然後對每一支再各自下定義。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "lead": "世尊開場宣告法輪的內容："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "lead": "舍利弗給出道諦的定義，即八正道的總綱："
+          }
+        ]
+      },
+      {
+        "heading": "正見與正思惟：知道苦，並轉向出離",
+        "paragraphs": [
+          "第一支正見（sammādiṭṭhi）的原典定義出人意料地精確：它不是泛泛的「正確觀念」，而是四種智——對苦的智、對苦之生起的智、對苦之止息的智、對導向苦滅之道的智。換句話說，正見的內容就是四聖諦本身：如實了知這四件事，即是正見。這也解釋了為何正見居八支之首——它是對整條路的認識。",
+          "第二支正思惟（sammāsaṅkappa）處理的是意向的品質。經文列出三種意向：出離的意向、無惡意的意向、不傷害的意向。這裡的「思惟」不是指思考能力，而是心所朝向的方向——從感官耽溺轉向出離，從敵意轉向善意，從加害轉向不害。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "lead": "正見的原典定義："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:25.1", "mn141:25.2", "mn141:25.3"],
+            "lead": "正思惟的原典定義："
+          }
+        ]
+      },
+      {
+        "heading": "正語與正業：言語和行為上的四離與三離",
+        "paragraphs": [
+          "正語（sammāvācā）的定義由四個「離」（veramaṇī）構成：離妄語（不真實的話）、離離間語（挑撥分化的話）、離粗惡語（傷人的話）、離雜穢語（無意義的閒扯）。值得注意的是，原典的定義形式是「離開什麼」，而非「應該說什麼」——正語首先是一種節制。",
+          "正業（sammākammanta）同樣以「離」定義，共三項：離殺生、離不與取（不拿取未被給予之物）、離欲邪行（不正當的性行為）。這三項與居家者五戒的前三條重合，是身體行為層面的基本界線。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:26.1", "mn141:26.2", "mn141:26.3"],
+            "lead": "正語的原典定義："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:27.1", "mn141:27.2", "mn141:27.3"],
+            "lead": "正業的原典定義："
+          }
+        ]
+      },
+      {
+        "heading": "正命：經文最簡短的一支",
+        "paragraphs": [
+          "正命（sammāājīva）在本經的定義是八支中最簡短的：「聖弟子捨棄邪命，以正命經營生計。」經文在此沒有列舉哪些謀生方式屬於邪命——定義的重心放在原則本身：你賴以維生的方式，不能違背這條道路的其餘部分。",
+          "這種簡短並非疏漏。在《諦分別經》的定義體例中，正命是唯一以「捨棄其反面」來界定的一支，指向的是謀生活動整體的品質，而非可窮盡列舉的行為清單。後世傳統對「邪命」的具體內容有進一步展開（見下方常見問答），但那屬於本經之外的補充。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:28.1", "mn141:28.2", "mn141:28.3"],
+            "lead": "正命的原典定義，全文如下："
+          }
+        ]
+      },
+      {
+        "heading": "正精進：四種努力",
+        "paragraphs": [
+          "正精進（sammāvāyāma）的定義是一組結構嚴整的四種努力，對象是「善法」與「惡不善法」各自的「已生」與「未生」：（一）令未生的惡不善法不生起；（二）令已生的惡不善法得以捨棄；（三）令未生的善法得以生起；（四）令已生的善法穩固、不忘失、增長、擴展、修習圓滿。",
+          "每一種努力都用同一串動詞描述：「生起欲求，努力、策勵、提舉其心、精勤。」這意味著正精進不是籠統的「用功」，而是先辨認心中正在發生什麼（善或不善、已生或未生），再對應地施力。它是八正道中最具操作性格的一支。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:29.1", "mn141:29.2", "mn141:29.3", "mn141:29.4"],
+            "lead": "正精進的前三種努力："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:29.5", "mn141:29.6"],
+            "lead": "第四種努力與定義的收束："
+          }
+        ]
+      },
+      {
+        "heading": "正念與正定：四念處與四禪那",
+        "paragraphs": [
+          "正念（sammāsati）在本經中直接以四念處定義：比丘於身隨觀身、於受隨觀受、於心隨觀心、於法隨觀法而住，並且「熱誠、正知、具念，調伏世間的貪憂」。也就是說，原典脈絡中的「正念」不是泛指的專注或覺察，而是這套有明確所緣（身、受、心、法）與品質要求（熱誠、正知、具念）的修習。",
+          "正定（sammāsamādhi）則以四禪那定義：遠離諸欲與不善法，進入有尋有伺、離生喜樂的初禪；尋伺平息後，內在清澄、心一境性的第二禪；離喜住捨的第三禪；乃至第四禪。定義完四禪後，舍利弗總結：「此稱為正定」，並隨即收束整個第四諦的解說。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:30.1", "mn141:30.2", "mn141:30.3", "mn141:30.4"],
+            "lead": "正念的原典定義（四念處）："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:31.1", "mn141:31.2", "mn141:31.3", "mn141:31.4"],
+            "lead": "正定的原典定義（四禪那）："
+          }
+        ]
+      },
+      {
+        "heading": "戒、定、慧三學：後世通行的歸納方式",
+        "paragraphs": [
+          "讀者常見到八正道被歸納為三組：正語、正業、正命屬「戒學」；正精進、正念、正定屬「定學」；正見、正思惟屬「慧學」。需要如實說明的是：這個三學歸納並不出現在《諦分別經》本文中——本經只逐支給出定義，未做分組。三學架構是巴利經典其他經文與後世注釋傳統中通行的整理方式，因其提綱挈領，成為後代講解八正道的標準框架。",
+          "這個歸納的價值在於顯示八支的相互支持：行為的節制（戒）為心的安定（定）提供基礎，安定的心使如實了知（慧）成為可能。但回到本經，八支是作為一個整體的「道」被宣說的，舍利弗在定義完最後一支後，將全體收束回第四聖諦。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:31.7"],
+            "lead": "八支定義完畢後，舍利弗的收束："
+          }
+        ]
+      },
+      {
+        "heading": "怎麼開始實踐：依本經給出的線索",
+        "paragraphs": [
+          "《諦分別經》是定義性的經典，未鋪陳一套入門流程，但經文本身給了兩條實踐線索。第一，世尊在開場時親自指示比丘們：親近、結交像舍利弗與目犍連這樣有智慧的同修——依經文，學習這條道路的第一步是找到能夠完整解說它的人。",
+          "第二，八支定義中有兩支本身就是可直接著手的練習：正精進給出了四種努力的操作框架（辨認心中已生、未生的善與不善，並對應施力），正念給出了四念處的所緣（從身開始，隨觀身、受、心、法）。而正見的定義提醒我們，這一切的目標始終是對四聖諦的如實了知——讀懂苦、苦集、苦滅與道，本身就是正見的開始。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.1", "mn141:5.2"],
+            "lead": "世尊對比丘們的指示："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "漢傳大乘佛教同樣尊奉八正道，將其收於「三十七道品」之中；北傳《中阿含經》亦有與本經對應的《分別聖諦經》，內容大體平行。不過在大乘的詮釋傳統中，八正道通常被置於菩薩道的整體框架下理解：正見的內涵除四諦之智外，常擴及緣起性空的中道正觀；諸支的實踐也與六度（布施、持戒、忍辱、精進、禪定、般若）相互配合。上座部傳統則傾向緊扣尼柯耶的原始定義。兩種進路反映的是各自傳承的教義發展，本頁依巴利文本呈現《諦分別經》的定義原貌，供讀者對照參考，不對詮釋差異作裁決。",
+    "faq": [
+      {
+        "q": "八正道是哪八個？",
+        "a": "依《諦分別經》（MN141）的列舉次序：正見（sammādiṭṭhi）、正思惟（sammāsaṅkappa）、正語（sammāvācā）、正業（sammākammanta）、正命（sammāājīva）、正精進（sammāvāyāma）、正念（sammāsati）、正定（sammāsamādhi）。經中對每一支都有逐條定義：正見是對四聖諦的智，正思惟是出離、無惡意、不傷害三種意向，正語是四種言語的離，正業是三種行為的離，正命是捨邪命而正當營生，正精進是四種努力，正念是四念處，正定是四禪那。"
+      },
+      {
+        "q": "八正道的順序有意義嗎？",
+        "a": "就《諦分別經》本文而言，八支以固定次序宣說——正見居首、正定居末——但經文本身沒有解說這個次序的理由，只是依序逐支定義。後世通行的理解方式有二：一是視正見為先導，由對四聖諦的了知帶動其餘七支的開展；二是以戒、定、慧三學歸納，呈現由行為到心到智慧的次第。這兩種理解都是詮釋層次的補充，有其實用價值，但應與經文本身的內容區分開來。"
+      },
+      {
+        "q": "正命對現代人是什麼意思？",
+        "a": "《諦分別經》對正命的定義非常簡短：「捨棄邪命，以正命經營生計」，經中並未列舉哪些職業屬於邪命。若緊貼本經，正命的核心是一條原則：謀生方式不能違背道的其餘部分——例如靠欺瞞維生便與正語相違，靠傷害眾生維生便與正業相違。後世傳統（巴利藏其他經文與注釋書）補充了具體的行業清單，常見的說法如不從事武器、眾生、肉、酒與毒物的買賣；這屬於本經之外的展開，性質是對原則的舉例，而非窮盡的定義。"
+      },
+      {
+        "q": "八正道出自哪部經？",
+        "a": "八正道作為第四聖諦，屬於佛陀最早期的核心教導，散見於巴利尼柯耶多處。本頁依據的是《中部》第 141 經《諦分別經》（Saccavibhaṅgasutta），因為它保存了對八支的逐條定義，且出自佛陀親自指定的解說者：經中世尊囑咐比丘們親近舍利弗，說他能廣詳解說四聖諦，隨後由舍利弗完成整部開示。北傳《中阿含經》中有對應的《分別聖諦經》可供對照。"
+      }
+    ],
+    "related_topics": ["four-noble-truths", "sati"],
+    "related_suttas": ["mn141"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "The Noble Eightfold Path",
+    "seo_title": "What Is the Noble Eightfold Path? All Eight Factors Defined from the Source Text (MN 141)",
+    "seo_description": "The Noble Eightfold Path explained from the primary source: MN 141, the Saccavibhaṅga Sutta, preserves Sāriputta's factor-by-factor definitions of right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration — not a textbook summary, but how the Buddha's own community defined each factor, with Pali text and translation.",
+    "question": "What is the Noble Eightfold Path?",
+    "definition": "The Noble Eightfold Path (Pali: ariyo aṭṭhaṅgiko maggo) is the Buddhist path leading to the cessation of suffering — the fourth of the Four Noble Truths. Its eight factors are right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. MN 141 preserves the early community's own definition of each factor.",
+    "sections": [
+      {
+        "heading": "Where the path sits: it is the fourth Noble Truth",
+        "paragraphs": [
+          "To understand what the Noble Eightfold Path is, start with where it is placed. In the Saccavibhaṅga Sutta (MN 141, 'The Analysis of the Truths'), the Buddha opens by declaring that the unsurpassed wheel of Dhamma he set rolling at the Deer Park consists precisely in the teaching and analysis of the Four Noble Truths — suffering, its origin, its cessation, and the way leading to its cessation. The Eightfold Path is not a separate doctrine appended to the truths; it is the fourth truth itself.",
+          "What makes this discourse remarkable is its structure. The Buddha states the theme, then tells the monks to rely on Sāriputta and Moggallāna, saying that Sāriputta is able to explain the Four Noble Truths in full detail. The rest of the sutta is Sāriputta's exposition. The definitions quoted on this page are therefore not later scholastic summaries — they are the standard definitions given by the Buddha's own foremost disciple to the early community.",
+          "When the exposition reaches the fourth truth, Sāriputta asks and answers: 'And what, friends, is the noble truth of the way leading to the cessation of suffering? It is this Noble Eightfold Path.' He then names the eight factors and defines each one in turn."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "lead": "The Buddha's opening declaration:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "lead": "Sāriputta's definition of the fourth truth — the path itself:"
+          }
+        ]
+      },
+      {
+        "heading": "Right view and right intention: knowing suffering, turning toward renunciation",
+        "paragraphs": [
+          "The definition of right view (sammādiṭṭhi) is strikingly precise. It is not 'correct opinions' in general, but four kinds of knowledge: knowledge of suffering, of its origin, of its cessation, and of the way leading to its cessation. In other words, the content of right view is the Four Noble Truths themselves — which also explains why it stands first: it is the factor that sees the whole road.",
+          "Right intention (sammāsaṅkappa) concerns the quality of one's motivation. The text lists three intentions: the intention of renunciation, the intention of non-ill-will, and the intention of harmlessness. 'Intention' here is not thinking ability but the direction the mind leans — away from sensual indulgence toward letting go, away from hostility toward goodwill, away from cruelty toward non-harming."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "lead": "Right view, as defined in the source text:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:25.1", "mn141:25.2", "mn141:25.3"],
+            "lead": "Right intention, as defined in the source text:"
+          }
+        ]
+      },
+      {
+        "heading": "Right speech and right action: defined by abstention",
+        "paragraphs": [
+          "Right speech (sammāvācā) is defined by four abstentions (veramaṇī): abstaining from false speech, from divisive speech, from harsh speech, and from idle chatter. Notice the form of the definition — it says what one refrains from, not what one must say. Right speech is first of all a discipline of restraint.",
+          "Right action (sammākammanta) is likewise defined by abstention, in three items: abstaining from killing living beings, from taking what is not given, and from sexual misconduct. These three coincide with the first precepts of lay ethics and mark the basic boundaries of bodily conduct."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:26.1", "mn141:26.2", "mn141:26.3"],
+            "lead": "Right speech, as defined in the source text:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:27.1", "mn141:27.2", "mn141:27.3"],
+            "lead": "Right action, as defined in the source text:"
+          }
+        ]
+      },
+      {
+        "heading": "Right livelihood: the shortest definition of all",
+        "paragraphs": [
+          "Right livelihood (sammāājīva) receives the briefest definition of the eight: 'Here a noble disciple, having abandoned wrong livelihood, makes a living by right livelihood.' The sutta does not list which occupations count as wrong livelihood. The weight of the definition falls on the principle itself: the way you sustain your life must not contradict the rest of the path.",
+          "The brevity is not an oversight. Within this sutta's scheme of definitions, right livelihood is the one factor defined purely by the abandonment of its opposite — pointing at the overall quality of one's means of living rather than an exhaustible checklist. Later tradition spells out concrete examples of wrong livelihood (see the FAQ below), but that elaboration lies outside this text."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:28.1", "mn141:28.2", "mn141:28.3"],
+            "lead": "Right livelihood — the complete definition:"
+          }
+        ]
+      },
+      {
+        "heading": "Right effort: four exertions",
+        "paragraphs": [
+          "Right effort (sammāvāyāma) is defined as a tightly structured set of four exertions, mapped onto wholesome and unwholesome states, each either already arisen or not yet arisen: (1) preventing unarisen unwholesome states from arising; (2) abandoning unwholesome states that have arisen; (3) arousing wholesome states not yet arisen; (4) maintaining, strengthening, and bringing to fulfillment wholesome states that have arisen.",
+          "Each exertion is described with the same string of verbs: one 'generates desire, strives, arouses energy, exerts the mind, and endeavors.' Right effort is therefore not vague diligence. It begins with recognizing what is actually happening in the mind — wholesome or unwholesome, arisen or not — and applying energy accordingly. Of the eight factors, it is the most explicitly operational."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:29.1", "mn141:29.2", "mn141:29.3", "mn141:29.4"],
+            "lead": "The first three exertions:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:29.5", "mn141:29.6"],
+            "lead": "The fourth exertion and the closing of the definition:"
+          }
+        ]
+      },
+      {
+        "heading": "Right mindfulness and right concentration: the four foundations and the four jhānas",
+        "paragraphs": [
+          "Right mindfulness (sammāsati) is defined directly as the four foundations of mindfulness (satipaṭṭhāna): a practitioner abides contemplating the body in the body, feelings in feelings, mind in mind, and phenomena in phenomena — 'ardent, clearly comprehending, and mindful, having subdued longing and dejection in regard to the world.' In its source context, 'mindfulness' is not generic present-moment awareness; it is this specific practice, with defined objects and defined qualities.",
+          "Right concentration (sammāsamādhi) is defined as the four jhānas: secluded from sensual pleasures and unwholesome states, one enters the first jhāna, with thought and examination and the joy and pleasure born of seclusion; with the stilling of thought and examination, the second jhāna, marked by inner clarity and unification of mind; then the third jhāna, dwelling equanimous with the fading of joy; and the fourth. Having defined all four, Sāriputta concludes: 'This is called right concentration' — and closes the exposition of the fourth truth."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:30.1", "mn141:30.2", "mn141:30.3", "mn141:30.4"],
+            "lead": "Right mindfulness, defined as the four foundations:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:31.1", "mn141:31.2", "mn141:31.3", "mn141:31.4"],
+            "lead": "Right concentration, defined as the jhānas:"
+          }
+        ]
+      },
+      {
+        "heading": "Virtue, concentration, wisdom: a later, standard grouping",
+        "paragraphs": [
+          "Readers often meet the eight factors grouped in three: right speech, action, and livelihood as virtue (sīla); right effort, mindfulness, and concentration as concentration (samādhi); right view and intention as wisdom (paññā). It should be said plainly: this threefold grouping does not appear in MN 141 itself. The sutta defines the factors one by one without grouping them. The three-trainings framework comes from other discourses in the Pali canon and from the commentarial tradition, and it became the standard teaching device because it is genuinely clarifying.",
+          "Its value is in showing how the factors support one another: restraint in conduct steadies the mind, and a steadied mind makes seeing things as they are possible. But in this sutta, the eight factors are proclaimed as a single path, and after the last definition Sāriputta folds them all back into the fourth Noble Truth."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:31.7"],
+            "lead": "Sāriputta's conclusion after defining all eight factors:"
+          }
+        ]
+      },
+      {
+        "heading": "How to begin: the leads the sutta itself gives",
+        "paragraphs": [
+          "MN 141 is a discourse of definitions, not a step-by-step manual — but it offers two practical leads of its own. First, the Buddha's opening instruction to the monks is itself practical advice: associate with and rely on wise companions such as Sāriputta and Moggallāna. According to the text, the first step in learning this path is finding someone who can explain it in full.",
+          "Second, two of the factors are directly actionable as defined. Right effort supplies a working framework — notice what is arisen or unarisen, wholesome or unwholesome, in your own mind, and apply energy accordingly. Right mindfulness supplies the objects — beginning with the body, then feelings, mind, and phenomena. And the definition of right view is a reminder of where all of it points: to knowing suffering, its origin, its cessation, and the way — so that understanding the Four Noble Truths is itself the beginning of right view."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.1", "mn141:5.2"],
+            "lead": "The Buddha's instruction to the monks:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "The Mahāyāna traditions equally revere the Noble Eightfold Path, counting it among the thirty-seven aids to awakening, and the Chinese Madhyama Āgama preserves a parallel to this discourse (the 'Discourse on the Analysis of the Noble Truths'). In Mahāyāna interpretation, however, the path is usually read within the larger framework of the bodhisattva's career: right view is often extended beyond knowledge of the four truths to the middle-way insight into emptiness and dependent origination, and the factors are practiced in concert with the six perfections. Theravāda exegesis, by contrast, tends to stay close to the Nikāya definitions. These are developments within each tradition's own doctrinal history; this page presents the definitions as they stand in the Pali text of MN 141 for comparison, without adjudicating between interpretations.",
+    "faq": [
+      {
+        "q": "What are the eight factors of the Noble Eightfold Path?",
+        "a": "In the order given in MN 141: right view (sammādiṭṭhi), right intention (sammāsaṅkappa), right speech (sammāvācā), right action (sammākammanta), right livelihood (sammāājīva), right effort (sammāvāyāma), right mindfulness (sammāsati), and right concentration (sammāsamādhi). The sutta defines each: right view is knowledge of the Four Noble Truths; right intention is the threefold intention of renunciation, non-ill-will, and harmlessness; right speech is four abstentions in speech; right action is three abstentions in conduct; right livelihood is abandoning wrong livelihood; right effort is the four exertions; right mindfulness is the four foundations of mindfulness; right concentration is the four jhānas."
+      },
+      {
+        "q": "Does the order of the eight factors matter?",
+        "a": "In MN 141 itself, the factors are always listed in a fixed order — right view first, right concentration last — but the text does not explain the reason for the sequence; it simply defines each factor in turn. Two later, widely used ways of reading the order are: taking right view as the forerunner that informs the other seven, and grouping the factors into the three trainings of virtue, concentration, and wisdom as a progression from conduct to mind to insight. Both are interpretive aids with real pedagogical value, but they should be distinguished from what the sutta itself states."
+      },
+      {
+        "q": "What does right livelihood mean for people today?",
+        "a": "MN 141's definition is deliberately spare: abandon wrong livelihood and make one's living rightly — no list of occupations is given. Staying close to this text, the core is a principle: your means of living must not contradict the rest of the path — earning by deception conflicts with right speech, earning by harming beings conflicts with right action. Later tradition (other canonical passages and the commentaries) supplies concrete examples, most famously trade in weapons, living beings, meat, intoxicants, and poisons. That list is an elaboration from outside this sutta — illustrative applications of the principle rather than an exhaustive definition."
+      },
+      {
+        "q": "Which sutta does the Noble Eightfold Path come from?",
+        "a": "As the fourth Noble Truth, the Eightfold Path belongs to the Buddha's earliest core teaching and appears throughout the Pali Nikāyas. This page is based on MN 141, the Saccavibhaṅga Sutta ('The Analysis of the Truths'), because it preserves factor-by-factor definitions and carries a notable pedigree: the Buddha himself directs the monks to Sāriputta, saying he can expound the Four Noble Truths in detail, and the exposition that follows is Sāriputta's. A parallel discourse survives in the Chinese Madhyama Āgama."
+      }
+    ],
+    "related_topics": ["four-noble-truths", "sati"],
+    "related_suttas": ["mn141"],
+    "related_lexicon": []
+  }
+}

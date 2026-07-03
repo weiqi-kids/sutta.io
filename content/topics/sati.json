@@ -1,0 +1,228 @@
+{
+  "slug": "sati",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "正念（sati）",
+    "seo_title": "正念的佛教原義是什麼？巴利語 sati 與正念減壓的差別",
+    "seo_description": "「正念」的佛教原義是什麼？巴利語 sati 本義是「憶念、不忘失」，指讓心對當前所緣持續現前的能力。本頁依《念處經》（MN10）巴利原文，逐句看佛陀如何定義有正念的人（精勤、正知、具念），說明正念的內容就是四念處，並如實比較它與現代正念減壓（MBSR）的共同點與差異。",
+    "question": "佛教說的「正念」是什麼？",
+    "definition": "正念（sati）本義是「憶念、不忘失」，指讓心對當前所緣持續現前的能力。在《念處經》中，念與精勤、正知並舉，安立於身、受、心、法四念處，用以捨除貪憂、如實了知而不執取。",
+    "sections": [
+      {
+        "heading": "sati 這個詞：從「憶念」到「念」",
+        "paragraphs": [
+          "「正念」的「念」，巴利語是 sati，源自動詞 sarati（詞根 √sar），本義是「憶念、記得」——與梵語 smṛti（記憶）同源。但在經典的用法裡，sati 不是回想過去，而是「不忘失」：讓該被覺知的事持續現前於心、不從心上滑落。漢譯選「念」字——「今」在「心」上——正取「心中持守不忘」之義。",
+          "《念處經》（MN10）裡 sati 的動詞搭配清楚顯示這種用法：修行者坐下之後，先「令念朝向當前，安立念」（parimukhaṁ satiṁ upaṭṭhapetvā），然後「具念地入息、具念地出息」（satova assasati satova passasati）。sati 是被「安立」（upaṭṭhapeti）起來、持續「現前」（paccupaṭṭhitā）的東西——像哨兵就位，而不是一個轉瞬即逝的心情。",
+          "每一段修法結尾的定型句，進一步描寫 sati 現前時的樣態：「有身」的念現前確立，「僅為了知與持續念的程度」，修行者不依附而住、對世間任何事物不執取。換句話說，sati 是讓經驗如其所是地現前於心的持守力——它既不是放空，也不只是放鬆。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:4.2", "mn10:4.3"],
+            "lead": "經文中 sati 的安立與運作："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.3"],
+            "lead": "念現前確立的定型句："
+          }
+        ]
+      },
+      {
+        "heading": "經文怎麼描述「有正念的人」",
+        "paragraphs": [
+          "MN10 為整個修法給出一句公式：比丘「隨觀身於身而住，精勤、正知、具念（ātāpī sampajāno satimā），捨除世間的貪憂」——受、心、法三處也用同一句式。這句公式透露一個常被忽略的事實：在原典中，「具念」（satimā）從不單獨出現。它總是與「精勤」（ātāpī，熱誠地投入）和「正知」（sampajāno，清楚知道自己正在做什麼）並列，而且自帶明確的方向——捨除對世間的貪求與憂惱。",
+          "「正知」在經中有專節說明：有正念的人在一切日常動作中——前進與返回、向前看與環顧、肢體屈伸、穿衣持缽、飲食咀嚼、大小便、行住坐臥、說話與沉默——都「以正知行事」。正念不是坐墊上的特殊狀態，而是貫穿行住坐臥的持續覺知。",
+          "貫穿全經出現頻率最高的動詞是 pajānāti，「了知」：呼吸長就了知「長」、短就了知「短」；有貪的心了知是「有貪之心」，離貪的心了知是「離貪之心」。有正念的人的基本心理動作，就是這種持續、如實、不加不減的「知道」。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2"],
+            "lead": "定義修法的公式句："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:8.1"],
+            "lead": "正知遍及一切日常動作："
+          }
+        ]
+      },
+      {
+        "heading": "正念的內容就是四念處",
+        "paragraphs": [
+          "如果問「正念到底是念什麼」，MN10 的開頭就是佛陀給的完整回答。經文第一句總說：這是眾生清淨、超越愁悲、消滅苦憂、親證涅槃的道路——「亦即四念處」。正念的內容不是留白讓人自行填空，而是四個明確的所緣領域：身、受、心、法。",
+          "四念處各有具體的操作方式：於身隨觀身（呼吸、姿勢、動作、身分、四界、死想），於受隨觀受（樂、苦、不苦不樂，世俗與非世俗），於心隨觀心（有貪離貪、有瞋離瞋、收縮散亂、定與不定），於法隨觀法（五蓋、五取蘊、六處、七覺支、四聖諦）。每一處都配同一套深化步驟：觀內、觀外、觀內外，隨觀生起、滅去、生滅。",
+          "因此在原典的用法裡，「正念」不是一項可以單獨拆出來的注意力技巧，而是一條有明確所緣、明確方法、明確目的（捨除貪憂、不執取、導向涅槃）的完整道路的名字。經文結尾甚至給出修習期程與可期的果報，把它定位為直達解脫的修行，而非日常調適的輔助。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "全經總說：四念處是道路本身："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "受、心、法三念處的總說："
+          }
+        ]
+      },
+      {
+        "heading": "與現代「正念」（MBSR／正念減壓）的異同",
+        "paragraphs": [
+          "現代通行的「正念」多指正念減壓（MBSR）一系的練習：有意地、不加評判地注意當下經驗。這與原典確有真實的交集。MN10 的受隨觀正是「不評判的如實覺察」的原型：感受樂受時，了知「我感受樂受」；苦受、不苦不樂受亦然——先知道，不急著改變。現代課程中的身體掃描與呼吸覺察，方法上也直接承自身念處與入出息念。",
+          "差異首先在脈絡與目的。原典的 sati 是八正道的一環（sammāsati，正念），與正見、正精進等相互支撐，服務於離貪憂、不執取、親證涅槃；MBSR 則把練習從這個框架中取出，應用於減壓、慢性疼痛與身心健康——目的不同，衡量成效的標準也不同。",
+          "其次在語義重心。sati 帶著「憶念、不忘失」的持守義，且總與正知、精勤並列、繫於四念處的明確所緣；現代 mindfulness 的操作型定義則以「當下、不評判的注意」為核心，「憶念」的面向淡出，「不評判」的面向前景化。兩者重疊而不相等。指出這些差異不是分高下——世俗正念在其目的內自有其效用與價值；如實區分，只是讓兩個脈絡各自被準確地理解。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "lead": "如實了知感受——現代正念與原典最接近的一段："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:47.1"],
+            "lead": "原典為正念設定的目的："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "1979 年，卡巴金（Jon Kabat-Zinn）在麻州大學醫學中心創立正念減壓課程（MBSR），將源自佛教禪修（主要是上座部內觀傳統，兼受禪宗影響）的覺察練習去除宗教語彙後，應用於慢性疼痛與壓力照護，其後衍生出正念認知療法（MBCT）等體系。以英文 mindfulness 對譯 sati，可追溯至 1881 年巴利學者戴維斯（T. W. Rhys Davids）的譯例。在世俗化的過程中，sati 原有的「憶念、不忘失」意涵逐漸淡出，語義重心移向「對當下經驗的非評判覺察」；所緣從四念處的明確清單變為開放式的注意力訓練；目的也從導向離欲與涅槃，轉為減壓與身心健康。這是一段可以如實描述的語義與脈絡變遷，兩者各有其適用範圍與價值。",
+    "faq": [
+      {
+        "q": "正念就是「活在當下」嗎？",
+        "a": "只對了一部分。sati 確實安立於當前（經文說「令念朝向當前」），但它的本義是「憶念、不忘失」——是一種持守力，而非單純停留在當下的心情。且在《念處經》中，具念總是與精勤、正知並列，有明確的所緣（身、受、心、法）與目的（捨除貪憂、不執取）。「活在當下」描述了正念的起點，但沒有涵蓋它的內容與方向。"
+      },
+      {
+        "q": "正念減壓（MBSR）和佛教正念衝突嗎？",
+        "a": "不衝突，但也不等同。兩者共享「如實、不評判地覺察當下身心」的核心方法，MBSR 的呼吸覺察與身體掃描也承自佛教禪修。差異在脈絡與目的：原典的正念是八正道的一環，導向離貪憂、不執取與涅槃；MBSR 服務於減壓與身心健康。各自在自己的目的內運作良好；認識差異是為了準確理解，不是為了分高下。"
+      },
+      {
+        "q": "「正念」的巴利文是什麼？",
+        "a": "巴利語是 sati，源自動詞 sarati（詞根 √sar，憶念），本義「憶念、不忘失」，漢譯作「念」；作為八正道的一支則稱 sammāsati，即「正念」。「四念處」是 satipaṭṭhāna——念（sati）的安立處（paṭṭhāna／upaṭṭhāna）。英文譯 mindfulness 始於十九世紀末的巴利學界，後為現代正念運動沿用。"
+      },
+      {
+        "q": "怎麼練習佛教的正念？",
+        "a": "依《念處經》，練習正念就是修四念處。經文給的入手處很具體：到安靜處（林中、樹下或空屋）坐下，端身、把念安立於當前，具念地入息與出息，如實了知呼吸的長短；再擴及姿勢動作、感受、心的狀態與諸法，並隨觀其生滅。完整的次第與各節修法，見本站四念處主題頁與《念處經》（MN10）全文對照。"
+      }
+    ],
+    "related_topics": ["satipatthana", "anapanasati"],
+    "related_suttas": ["mn10", "mn118"],
+    "related_lexicon": ["sati"]
+  },
+  "en": {
+    "title": "Sati (Mindfulness)",
+    "seo_title": "What Does Sati Mean? The Original Buddhist Definition of Mindfulness (MN 10)",
+    "seo_description": "Sati, the Pali word behind 'mindfulness', originally means 'memory, keeping in mind'. This page draws its definition straight from the Satipaṭṭhānasutta (MN 10): how the texts describe a mindful person (ardent, clearly comprehending, mindful), why the four foundations of mindfulness are what sati is about, and how the original term differs from mindfulness in MBSR — stated neutrally, with Pali and translation side by side.",
+    "question": "What does 'mindfulness' originally mean in Buddhism?",
+    "definition": "Sati, the Pali word rendered 'mindfulness', derives from the root √sar, 'to remember': it is the power of keeping the present object in mind without losing it. In MN 10 sati never stands alone — it works with ardor and clear comprehension, established on body, feelings, mind, and dhammas, in order to know things as they are and let go of craving.",
+    "sections": [
+      {
+        "heading": "The Word Sati: From 'Memory' to 'Mindfulness'",
+        "paragraphs": [
+          "Sati comes from the verb sarati (root √sar), 'to remember', and is cognate with Sanskrit smṛti, 'memory'. Yet in the suttas sati is not recollection of the past. It is non-forgetting in the present: keeping what should be attended to continuously before the mind, not letting it slip away. 'Mindfulness' — a rendering coined by the Pali scholar T. W. Rhys Davids — captures this 'keeping in mind' better than 'memory' would.",
+          "The verbs that accompany sati in the Satipaṭṭhānasutta (MN 10) show this usage plainly. The practitioner sits down and first 'establishes mindfulness in front' (parimukhaṁ satiṁ upaṭṭhapetvā), then 'just mindful he breathes in, mindful he breathes out' (satova assasati satova passasati). Sati is something set up (upaṭṭhapeti) and kept present (paccupaṭṭhitā) — a sentry taking post, not a passing mood.",
+          "The refrain that closes each exercise describes what established sati looks like: mindfulness that 'there is a body' is present 'just to the extent of knowledge and continuous mindfulness', and the practitioner dwells independent, clinging to nothing in the world. Sati is the sustaining power that lets experience stand present to the mind as it is — neither blanking out nor mere relaxation."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:4.2", "mn10:4.3"],
+            "lead": "How sati is set up and operates:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.3"],
+            "lead": "The refrain on mindfulness being present:"
+          }
+        ]
+      },
+      {
+        "heading": "How the Sutta Describes a Mindful Person",
+        "paragraphs": [
+          "MN 10 defines the practice with a single formula: a monk 'dwells contemplating the body in the body, ardent, clearly comprehending, mindful (ātāpī sampajāno satimā), having put away covetousness and displeasure with regard to the world' — and the same sentence recurs for feelings, mind, and dhammas. The formula reveals something often missed: in the source text, 'mindful' (satimā) never appears alone. It always stands alongside ardor (ātāpī, wholehearted effort) and clear comprehension (sampajāno, knowing clearly what one is doing), and it carries a built-in direction — the abandoning of craving and distress toward the world.",
+          "Clear comprehension gets its own section in the sutta: the mindful person acts 'with clear comprehension' in every ordinary movement — going out and returning, looking ahead and looking around, bending and stretching, wearing robes and carrying the bowl, eating and drinking, defecating and urinating, walking, standing, sitting, sleeping, waking, speaking, keeping silent. Mindfulness is not a special state on the cushion but continuous awareness through all postures.",
+          "The verb that runs through the entire discourse is pajānāti, 'one knows': breathing in long, one knows 'long'; breathing in short, one knows 'short'; a mind with lust one knows as 'a mind with lust', a mind without lust as 'a mind without lust'. The basic mental act of a mindful person is this sustained, accurate knowing — nothing added, nothing subtracted."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2"],
+            "lead": "The defining formula of the practice:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:8.1"],
+            "lead": "Clear comprehension throughout daily activity:"
+          }
+        ]
+      },
+      {
+        "heading": "The Content of Mindfulness Is the Four Satipaṭṭhānas",
+        "paragraphs": [
+          "If one asks 'mindful of what, exactly?', the opening of MN 10 is the Buddha's complete answer. The first statement of the discourse declares: this is the path for the purification of beings, for surmounting sorrow and lamentation, for the realization of nibbāna — 'namely, the four foundations of mindfulness'. The content of mindfulness is not left blank for each practitioner to fill in; it is four specified domains: body, feelings, mind, and dhammas.",
+          "Each foundation comes with concrete procedures: contemplating the body (breathing, postures, activities, anatomical parts, elements, charnel-ground contemplations), feelings (pleasant, painful, neutral, worldly and unworldly), mind (with and without lust, hate, delusion; contracted or distracted; concentrated or not), and dhammas (the five hindrances, five aggregates, six sense bases, seven awakening factors, four noble truths). Every domain shares the same deepening steps: internally, externally, both; observing arising, vanishing, both.",
+          "In the source text, then, 'mindfulness' is not a detachable attention technique but the name of a complete path with specified objects, methods, and purpose — abandoning craving and distress, clinging to nothing, culminating in nibbāna. The sutta even closes with timeframes for the practice and the fruits to be expected, framing it as a road to liberation rather than an aid to daily coping."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "The summary statement: the four satipaṭṭhānas are the path itself:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "The summary for feelings, mind, and dhammas:"
+          }
+        ]
+      },
+      {
+        "heading": "Sati and Modern Mindfulness (MBSR): Same and Different",
+        "paragraphs": [
+          "Modern 'mindfulness' usually refers to the MBSR family of practices: paying attention, on purpose, non-judgmentally, to present experience. The overlap with the source text is real. The contemplation of feelings in MN 10 is the prototype of non-judgmental awareness: feeling a pleasant feeling, one knows 'I feel a pleasant feeling'; likewise for painful and neutral feelings — first know, without rushing to change anything. The body scan and breath awareness of modern courses descend directly from contemplation of the body and mindfulness of breathing.",
+          "The first difference is context and purpose. In the source texts sati is one factor of the noble eightfold path (sammāsati, right mindfulness), supported by right view, right effort, and the rest, and it serves dispassion, non-clinging, and the realization of nibbāna. MBSR lifts the practice out of that framework and applies it to stress reduction, chronic pain, and mental health — a different aim, measured by different outcomes.",
+          "The second difference is semantic center of gravity. Sati carries the sense of 'keeping in mind, not forgetting', always paired with clear comprehension and ardor and tied to the specified objects of the four satipaṭṭhānas. The operational definition of modern mindfulness centers on present-moment, non-judgmental attention: the 'memory' dimension recedes, the 'non-judgmental' dimension comes forward. The two overlap without being identical. Naming these differences is not a ranking — secular mindfulness has demonstrated value within its own aims; distinguishing the two simply lets each context be understood accurately."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "lead": "Knowing feelings as they are — the passage closest to modern mindfulness:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:47.1"],
+            "lead": "The purpose the source text assigns to mindfulness:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "In 1979 Jon Kabat-Zinn founded Mindfulness-Based Stress Reduction (MBSR) at the University of Massachusetts Medical Center, adapting awareness practices drawn from Buddhist meditation — chiefly Theravada insight traditions, with influences from Zen — for chronic pain and stress care, stripped of religious vocabulary; Mindfulness-Based Cognitive Therapy (MBCT) and related programs followed. Rendering sati as 'mindfulness' goes back to the Pali scholar T. W. Rhys Davids in 1881. In the course of secularization, the original sense of 'memory, non-forgetting' receded and the semantic weight shifted to 'non-judgmental awareness of present experience'; the objects shifted from the specified list of the four satipaṭṭhānas to open-ended attention training; and the aim shifted from dispassion and nibbāna to stress reduction and well-being. This is a traceable change of meaning and context, and each usage has its own domain of application and value.",
+    "faq": [
+      {
+        "q": "Is mindfulness just 'living in the present moment'?",
+        "a": "Only partly. Sati is indeed established on the present (the sutta says to set mindfulness up 'in front'), but its root meaning is 'keeping in mind, not forgetting' — a sustaining power, not simply a mood of presence. And in MN 10, being mindful always goes together with ardor and clear comprehension, with specified objects (body, feelings, mind, dhammas) and a specified purpose (abandoning craving and distress, not clinging). 'Living in the present' describes the starting point of sati, not its content or direction."
+      },
+      {
+        "q": "Do MBSR and Buddhist mindfulness conflict?",
+        "a": "No — but they are not identical either. Both share the core method of knowing present bodily and mental experience as it is, without judgment, and MBSR's breath awareness and body scan descend from Buddhist meditation. The difference lies in context and purpose: in the source texts mindfulness is one factor of the eightfold path, aimed at dispassion, non-clinging, and nibbāna; MBSR serves stress reduction and health. Each works well within its own aims; distinguishing them is a matter of accuracy, not ranking."
+      },
+      {
+        "q": "What is the Pali word for mindfulness?",
+        "a": "Sati, from the verb sarati (root √sar, 'to remember'), originally 'memory, keeping in mind'. As a factor of the noble eightfold path it is sammāsati, 'right mindfulness'. The 'four foundations of mindfulness' are the satipaṭṭhānas — the establishings (paṭṭhāna/upaṭṭhāna) of sati. The English rendering 'mindfulness' dates to late nineteenth-century Pali scholarship and was later adopted by the modern mindfulness movement."
+      },
+      {
+        "q": "How do I practice mindfulness the way the Buddha taught it?",
+        "a": "According to MN 10, practicing mindfulness means practicing the four satipaṭṭhānas. The sutta's entry point is concrete: go to a quiet place (a forest, the root of a tree, or an empty hut), sit down with body erect, establish mindfulness in front, and breathe in and out mindfully, knowing the breath as long or short; then extend the same knowing to postures and activities, feelings, states of mind, and dhammas, observing their arising and passing. For the full sequence, see this site's satipatthana topic page and the complete MN 10 with Pali and translation side by side."
+      }
+    ],
+    "related_topics": ["satipatthana", "anapanasati"],
+    "related_suttas": ["mn10", "mn118"],
+    "related_lexicon": ["sati"]
+  }
+}

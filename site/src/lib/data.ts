@@ -115,6 +115,129 @@ export function isPreviewSutta(s: SuttaFixture): boolean {
   return suttaIsPreview(s);
 }
 
+// ---- SEO 標題（概念詞導向；docs/04-engineering/SEO_KEYWORDS.md） ----
+interface SuttaSeoMap {
+  [id: string]: { zh?: string; en?: string };
+}
+let seoMapCache: SuttaSeoMap | null | undefined;
+function suttaSeoMap(): SuttaSeoMap {
+  if (seoMapCache === undefined) {
+    seoMapCache = readJsonIfExists<SuttaSeoMap>(path.join(CONTENT_DIR, 'seo', 'sutta-seo.json'));
+  }
+  return seoMapCache ?? {};
+}
+/** 研經頁 SEO 標題：覆蓋表優先，否則通用模板（帶「白話對照」概念詞）。 */
+export function suttaSeoTitle(s: SuttaFixture, locale: 'zh' | 'en'): string {
+  const entry = suttaSeoMap()[s.sutta.id];
+  const override = entry?.[locale];
+  if (override) return override;
+  const n = s.sutta.id.replace(/\D/g, '');
+  return locale === 'en'
+    ? `${s.sutta.title_pali} (MN ${n}) — Pāli with word-by-word analysis`
+    : `${s.sutta.title_zh}（中部${n}）白話對照`;
+}
+
+/** 阿含對照 ref（如「中阿含98 念處經」）；無對照回 null。供中阿含索引頁。 */
+export function agamaRefOf(s: SuttaFixture): string | null {
+  const p = s.passages.find((x) => x.agama != null);
+  if (!p?.agama?.ref) return null;
+  // ref 形如 "T01n0026 中阿含98 念處經" → 去掉大正藏冊號前綴
+  return p.agama.ref.replace(/^T\d+n\d+\s*/, '');
+}
+
+/** 白話覆蓋是否達「真完整」（同 scripts/run-all-progress.mjs 判準）。 */
+export function suttaIsComplete(s: SuttaFixture): boolean {
+  const m = s.segments.filter((seg) => (seg.pali_tokens || []).some((t) => (t as { dpd_id?: unknown; lemma?: string }).dpd_id != null || (t as { lemma?: string }).lemma));
+  const have = m.filter((seg) => seg.vernacular_gloss).length;
+  return !!s.summary && m.length > 0 && have / m.length >= 0.98;
+}
+
+// ---- 主題研經頁（topics；SEO_KEYWORDS 概念頁系統） ----
+// 內容：content/topics/<slug>.json。解說屬 L2（AI 生成、掛標示）；引文由 segment_id
+// 於 build 期自 data/ 解析（引文不存副本 → 保證 grounded、不漂移；查無 segment 即 build 失敗）。
+export interface TopicQuoteRef {
+  sutta: string;
+  segment_ids: string[];
+  /** 引文導言（可選，L2） */
+  lead?: string;
+}
+export interface TopicSection {
+  heading: string;
+  paragraphs: string[];
+  quotes?: TopicQuoteRef[];
+}
+export interface TopicLocale {
+  title: string;
+  seo_title: string;
+  seo_description: string;
+  question: string;
+  definition: string;
+  sections: TopicSection[];
+  mahayana_note?: string;
+  faq: { q: string; a: string }[];
+  related_topics?: string[];
+  related_suttas?: string[];
+  related_lexicon?: string[];
+}
+export interface TopicData {
+  slug: string;
+  review_status: 'draft' | 'approved';
+  generated_by: string;
+  date: string;
+  zh: TopicLocale;
+  en: TopicLocale;
+}
+const TOPICS_DIR = path.join(CONTENT_DIR, 'topics');
+export function listTopics(): TopicData[] {
+  if (!fs.existsSync(TOPICS_DIR)) return [];
+  const out: TopicData[] = [];
+  for (const f of fs.readdirSync(TOPICS_DIR).sort()) {
+    if (!f.endsWith('.json')) continue;
+    const t = readJsonIfExists<TopicData>(path.join(TOPICS_DIR, f));
+    if (t && t.slug && t.zh && t.en) out.push(t);
+  }
+  return out;
+}
+export function getTopic(slug: string): TopicData | null {
+  return listTopics().find((t) => t.slug === slug) ?? null;
+}
+export interface ResolvedQuoteSegment {
+  segment_id: string;
+  pali: string;
+  vernacular: string | null;
+}
+export interface ResolvedQuote {
+  sutta: string;
+  sutta_title_zh: string;
+  sutta_title_pali: string;
+  href_fragment: string;
+  lead?: string;
+  segments: ResolvedQuoteSegment[];
+}
+/** 解析主題頁引文：segment_id → 巴利（token surfaces 重組）＋白話。查無 segment 直接 throw（防捏造）。 */
+export function resolveTopicQuote(ref: TopicQuoteRef): ResolvedQuote {
+  const s = getSutta(ref.sutta);
+  if (!s) throw new Error(`topics 引文指向不存在的經：${ref.sutta}`);
+  const segments: ResolvedQuoteSegment[] = ref.segment_ids.map((sid) => {
+    const seg = s.segments.find((x) => x.segment_id === sid);
+    if (!seg) throw new Error(`topics 引文指向不存在的段：${ref.sutta} ${sid}`);
+    const pali = (seg.pali_tokens || []).map((tk) => tk.surface).join(' ');
+    return {
+      segment_id: sid,
+      pali,
+      vernacular: seg.vernacular_gloss?.content ?? null,
+    };
+  });
+  return {
+    sutta: ref.sutta,
+    sutta_title_zh: s.sutta.title_zh,
+    sutta_title_pali: s.sutta.title_pali,
+    href_fragment: `#${ref.segment_ids[0]}`,
+    lead: ref.lead,
+    segments,
+  };
+}
+
 /** 衍生：segment_id → 它所屬的 passage（阿含對照掛在 passage）。 */
 export function passageForSegment(s: SuttaFixture, segmentId: string): Passage | null {
   return s.passages.find((p) => p.segment_ids.includes(segmentId)) ?? null;

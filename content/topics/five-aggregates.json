@@ -1,0 +1,206 @@
+{
+  "slug": "five-aggregates",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "五蘊",
+    "seo_title": "五蘊是什麼？色受想行識的原典解說（含與五蘊皆空的關係）",
+    "seo_description": "五蘊指色、受、想、行、識，是佛陀分析身心經驗的五個類別。本頁依《諦分別經》（MN141）與《念處經》（MN10）巴利原文，逐一簡白說明五蘊各是什麼、為何經中說「簡言之，五取蘊是苦」、如何在法念處觀五蘊的集與滅，並附一段與心經「五蘊皆空」的關係說明。",
+    "question": "五蘊是什麼？",
+    "definition": "五蘊（巴利語 pañcakkhandhā）是佛陀分析身心經驗的五個類別：色、受、想、行、識，即物質、感受、辨識、造作、了別。早期經典說，對這五者的執取——五取蘊——簡言之即是苦。",
+    "sections": [
+      {
+        "heading": "五蘊是哪五個：色、受、想、行、識",
+        "paragraphs": [
+          "「蘊」是巴利語 khandha 的漢譯，意為堆聚、聚集。五蘊，就是把一個人的全部身心經驗分成五堆來看：色蘊、受蘊、想蘊、行蘊、識蘊。這不是玄學名詞，而是佛陀教學中最基本的一套分析工具——任何被我們稱為「我」或「我的」的經驗，都可以歸入這五類之一。",
+          "五者可以簡白地這樣理解：色（rūpa）是物質的一面，包括身體與物質現象；受（vedanā）是感受，經驗中苦、樂或不苦不樂的那一面；想（saññā）是辨識，認出「這是什麼」的表象作用；行（saṅkhārā）是造作，心中種種有方向、有動力的活動；識（viññāṇa）是了別，對對象的基本覺知。前一類屬物質面，後四類屬心理面。",
+          "在《諦分別經》（MN141）中，尊者舍利弗分別解說四聖諦時，將五者逐一列出——不過經文用的名稱是「色取蘊、受取蘊、想取蘊、行取蘊、識取蘊」，多了一個「取」字。這個字正是理解早期經典五蘊教學的關鍵，下一節說明。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.1", "mn141:20.2"],
+            "lead": "MN141 列出五取蘊的名目："
+          }
+        ]
+      },
+      {
+        "heading": "「五取蘊」與苦：MN141 苦諦的總括句",
+        "paragraphs": [
+          "《諦分別經》解說苦聖諦時，先列舉大家熟悉的各種苦：生是苦、老是苦、死是苦，愁、悲、苦、憂、惱是苦，所求不得也是苦。然後經文以一句話總括：「簡言之，五取蘊是苦」（saṅkhittena pañcupādānakkhandhā dukkhā）。也就是說，前面列舉的一切苦，最後都收攝在這五堆被執取的身心經驗裡。",
+          "「取」是巴利語 upādāna 的譯語，意為執取。「五取蘊」（pañcupādānakkhandhā）不是另外五個蘊，而是指被執取的五蘊——被抓著當成「我」「我的」的色、受、想、行、識。經文把苦諦的重心放在這裡：問題不在於身心經驗本身存在，而在於對它們的執取。",
+          "值得留意的是，MN141 對「生」與「死」的定義本身就用了蘊的語言：生是「諸蘊之顯現」，死是「諸蘊壞散」。在這部經的視野裡，一期生命的開始與結束，就是五蘊的現起與離散——這也說明了為何苦諦的展開最後會歸結到五取蘊。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "苦聖諦的完整定義，以五取蘊作結："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.3", "mn141:20.4"],
+            "lead": "經文的總結："
+          }
+        ]
+      },
+      {
+        "heading": "怎麼觀五蘊：MN10 法念處的蘊品",
+        "paragraphs": [
+          "五蘊在早期經典中不只是教理名目，更是禪修中實際觀察的對象。《念處經》（MN10）的法念處部分，專門有一節「蘊品」，教導比丘「於諸法中隨觀諸法，安住於五取蘊中」。",
+          "觀法的格式非常簡潔：對每一蘊，觀察三件事——它是這樣、它的集（生起）是這樣、它的滅是這樣。「如是色；如是色之集；如是色之滅」，然後受、想、行、識依同樣的格式逐一觀察。重點不在於背誦五蘊的定義，而在於當下看見每一類經驗如何現起、如何消逝。",
+          "換句話說，MN10 把五蘊從分類表變成了觀察練習：五蘊是「正在發生的事」，而觀察的焦點是它們的生與滅。這與 MN141「五取蘊是苦」的教學互為表裡——正因為執取五蘊是苦的根源，所以修行的下手處是如實觀察它們的無常變動。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:38.1", "mn10:38.2", "mn10:38.3", "mn10:38.4"],
+            "lead": "蘊品的觀法教導，從色開始："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:38.5", "mn10:38.6", "mn10:38.7", "mn10:38.8"],
+            "lead": "受、想、行、識依同一格式觀察："
+          }
+        ]
+      },
+      {
+        "heading": "五蘊與無我",
+        "paragraphs": [
+          "MN10 蘊品的結尾，交代了這樣觀察五蘊會走向哪裡：修行者於諸法中隨觀生起之性、滅去之性，念現前只為了知的程度，最後「不依附而安住，且對世界中的任何事物都不執取」。觀五蘊生滅的終點，是放下對五蘊的執取。",
+          "這正是五蘊教學與「無我」（anattā）教導的接點：當色、受、想、行、識每一項都被看見是不斷生滅、無法固守的，就難以在其中找到一個恆常不變、可以稱為「我」的東西。早期經典中，五蘊正是佛陀討論無我時最常用的分析框架。關於無我的完整討論，見無我主題頁。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:39.1", "mn10:39.2", "mn10:39.3", "mn10:39.4"],
+            "lead": "蘊品觀法的結語，導向不執取："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "「五蘊皆空」出自《般若波羅蜜多心經》：「觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。」心經屬大乘般若系經典，成立年代晚於本頁引用的巴利早期經典；其教學重心，是以般若智慧直接照見五蘊自性皆空。早期經典談五蘊的方式則不同：MN141 把五取蘊放進苦聖諦的定義（「簡言之，五取蘊是苦」），MN10 教導在法念處中逐一觀察五蘊的集與滅，終點是「不依附而安住、不執取世間任何事物」。一邊從「空」直陳五蘊的本質，一邊從「苦」與觀生滅下手引導離執；兩條進路都指向放下對五蘊的執取，但在哲學表述與教學次第上各有側重。本站依巴利原典呈現早期教法，兩種進路並陳於此，供讀者對照參考，不作高下裁決。",
+    "faq": [
+      {
+        "q": "五蘊皆空是什麼意思？",
+        "a": "「五蘊皆空」出自大乘《般若波羅蜜多心經》，指觀自在菩薩以深般若智慧「照見五蘊皆空，度一切苦厄」——五蘊沒有獨立不變的自性。本頁所依的早期巴利經典則從另一個角度講五蘊：MN141 說「簡言之，五取蘊是苦」，MN10 教導觀五蘊的集與滅而不執取。前者直說五蘊的本質是空，後者從苦與生滅觀下手；兩種講法分屬不同經典系統，可對照理解，本站並陳而不裁決。"
+      },
+      {
+        "q": "五蘊和五取蘊有什麼不同？",
+        "a": "五蘊（pañcakkhandhā）是色、受、想、行、識五類身心經驗本身；五取蘊（pañcupādānakkhandhā）多了「取」（upādāna，執取）一字，指被執取、被當成「我」「我的」的五蘊。本頁引用的兩部經談苦與觀法時，用的都是「五取蘊」：MN141 說苦的是五取蘊，MN10 的觀察對象也是五取蘊。重點在執取，而非五蘊的存在本身。"
+      },
+      {
+        "q": "五蘊哪一個是心？",
+        "a": "五蘊中，色是物質面（身體與物質現象），受、想、行、識四者合起來構成心理面：受是感受，想是辨識，行是造作，識是了別。所以沒有單獨某一蘊「就是心」——早期經典把我們籠統稱為「心」的東西，拆解成這四種不同的作用來觀察。這種拆解本身就是五蘊教學的用意：讓籠統的「我的心」變成可以逐項觀察生滅的經驗。"
+      },
+      {
+        "q": "五蘊出自哪部經？",
+        "a": "五蘊遍佈巴利早期經典，並非出自單一部經。本站可原文對照的出處有二：《諦分別經》（MN141）在苦聖諦的定義中列出五取蘊，並以「簡言之，五取蘊是苦」總括苦諦；《念處經》（MN10）法念處的蘊品則教導如何逐一觀察五蘊的集與滅。至於大眾熟悉的「五蘊皆空」，出自大乘般若系的《心經》，屬另一經典系統。"
+      }
+    ],
+    "related_topics": ["anatta", "four-noble-truths"],
+    "related_suttas": ["mn141", "mn10"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "The Five Aggregates",
+    "seo_title": "The Five Aggregates in Buddhism: Form, Feeling, Perception, Formations, Consciousness",
+    "seo_description": "The five aggregates (pañcakkhandhā) are the Buddha's framework for analyzing body-and-mind experience: form, feeling, perception, formations, and consciousness. This page explains each aggregate from the Pali sources (MN 141 and MN 10), why the suttas say 'in brief, the five aggregates subject to clinging are suffering,' and how to contemplate them.",
+    "question": "What are the five aggregates in Buddhism?",
+    "definition": "The five aggregates (Pali: pañcakkhandhā) are the Buddha's five categories for analyzing experience: form (the material body), feeling, perception, formations, and consciousness. The early discourses teach that clinging to these five — the five aggregates subject to clinging — is, in brief, suffering.",
+    "sections": [
+      {
+        "heading": "Which Five? Form, Feeling, Perception, Formations, Consciousness",
+        "paragraphs": [
+          "The word 'aggregate' translates the Pali khandha, meaning a heap or mass. The five aggregates divide the whole of a person's bodily and mental experience into five heaps: form, feeling, perception, formations, and consciousness. This is not abstract metaphysics but the most basic analytical tool in the Buddha's teaching — anything we call 'me' or 'mine' falls into one of these five categories.",
+          "In plain terms: form (rūpa) is the material side, the body and physical phenomena; feeling (vedanā) is the felt tone of experience — pleasant, painful, or neither; perception (saññā) is recognition, the act of identifying 'what this is'; formations (saṅkhārā) are volitional activities, the constructive and directed movements of the mind; consciousness (viññāṇa) is bare cognizance of an object. The first is physical; the latter four are mental.",
+          "In the Saccavibhaṅgasutta (MN 141), the venerable Sāriputta lists all five while expounding the Four Noble Truths — but the sutta names them 'the form aggregate subject to clinging, the feeling aggregate subject to clinging,' and so on. That added phrase, 'subject to clinging' (upādāna), is the key to how the early texts teach the aggregates, as the next section shows."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.1", "mn141:20.2"],
+            "lead": "MN 141 names the five aggregates subject to clinging:"
+          }
+        ]
+      },
+      {
+        "heading": "The Aggregates and Suffering: MN 141's Summary of the First Noble Truth",
+        "paragraphs": [
+          "When the Saccavibhaṅgasutta explains the noble truth of suffering, it first lists the familiar forms of suffering: birth is suffering, aging is suffering, death is suffering; sorrow, lamentation, pain, displeasure, and distress are suffering; not getting what one wishes is suffering. Then the text gathers everything into one line: 'in brief, the five aggregates subject to clinging are suffering' (saṅkhittena pañcupādānakkhandhā dukkhā).",
+          "'Clinging' renders the Pali upādāna, grasping. The 'five aggregates subject to clinging' (pañcupādānakkhandhā) are not a different set of five — they are the same aggregates insofar as they are grasped, held onto as 'I' and 'mine.' The sutta places the weight of the first truth precisely here: the problem is not that bodily and mental experience exists, but that it is clung to.",
+          "Notably, MN 141's own definitions of birth and death are phrased in the language of the aggregates: birth includes 'the manifestation of the aggregates,' and death includes 'the breaking up of the aggregates.' In this sutta's frame, a life begins and ends as the aggregates arise and disperse — which is why the exposition of suffering resolves into the five aggregates subject to clinging."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "The full definition of the noble truth of suffering, ending with the aggregates:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:20.3", "mn141:20.4"],
+            "lead": "The sutta's conclusion:"
+          }
+        ]
+      },
+      {
+        "heading": "How to Contemplate the Aggregates: MN 10's Section on the Aggregates",
+        "paragraphs": [
+          "In the early discourses the five aggregates are not just doctrine — they are objects of actual meditative observation. The Satipaṭṭhānasutta (MN 10), in its section on contemplation of dhammas, devotes a passage to the aggregates: the monk 'dwells contemplating dhammas among dhammas with respect to the five aggregates subject to clinging.'",
+          "The method is strikingly spare. For each aggregate, one observes three things — such it is, such is its origin, such is its passing away: 'Such is form, such the origin of form, such the passing away of form,' and likewise for feeling, perception, formations, and consciousness. The point is not to memorize definitions but to see, in the present, how each class of experience arises and vanishes.",
+          "MN 10 thus turns the five aggregates from a classification table into an observational practice: the aggregates are what is happening now, and the focus of observation is their arising and passing. This complements MN 141's teaching that the aggregates subject to clinging are suffering — because clinging to them is the root of suffering, the practical starting point is to watch their impermanent flux directly."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:38.1", "mn10:38.2", "mn10:38.3", "mn10:38.4"],
+            "lead": "The contemplation instruction, beginning with form:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:38.5", "mn10:38.6", "mn10:38.7", "mn10:38.8"],
+            "lead": "Feeling, perception, formations, and consciousness follow the same formula:"
+          }
+        ]
+      },
+      {
+        "heading": "The Five Aggregates and Not-Self",
+        "paragraphs": [
+          "The aggregates section of MN 10 closes by saying where this contemplation leads: the practitioner dwells observing the nature of arising and vanishing in these phenomena, with mindfulness established just enough for knowledge, and finally 'dwells independent, not clinging to anything in the world.' The endpoint of watching the aggregates rise and pass is the release of clinging to them.",
+          "This is where the teaching on the aggregates meets the teaching on not-self (anattā): when form, feeling, perception, formations, and consciousness are each seen to be in constant arising and passing, impossible to hold still, it becomes difficult to locate anything permanent among them that could be called a self. In the early texts, the five aggregates are the Buddha's most frequent framework for the discussion of not-self. For the full discussion, see the topic page on anattā."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:39.1", "mn10:39.2", "mn10:39.3", "mn10:39.4"],
+            "lead": "The closing refrain of the aggregates section, leading to non-clinging:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "Many readers first meet the five aggregates through the Heart Sutra's famous line: Avalokiteśvara, practicing the profound perfection of wisdom, 'clearly saw that the five aggregates are all empty,' thereby crossing beyond all suffering. The Heart Sutra belongs to the Mahayana Prajñāpāramitā corpus, composed later than the Pali discourses cited on this page, and its emphasis is direct insight into the emptiness — the lack of independent essence — of the aggregates themselves. The early discourses approach the same five categories differently: MN 141 places the aggregates subject to clinging inside the definition of the noble truth of suffering, and MN 10 teaches moment-by-moment observation of each aggregate's origin and passing away, ending in 'dwelling independent, not clinging to anything in the world.' One approach states the nature of the aggregates directly in terms of emptiness; the other works from suffering and the contemplation of arising and passing. Both point toward releasing the grip on the aggregates, while differing in philosophical formulation and pedagogical sequence. This site presents the early teaching as it stands in the Pali; the two approaches are set side by side here for comparison, without ranking one above the other.",
+    "faq": [
+      {
+        "q": "What does 'the five aggregates are empty' mean?",
+        "a": "The phrase comes from the Heart Sutra, a Mahayana Prajñāpāramitā text, where Avalokiteśvara 'clearly saw that the five aggregates are all empty' — lacking any independent, unchanging essence. The early Pali discourses on this page frame the aggregates differently: MN 141 says 'in brief, the five aggregates subject to clinging are suffering,' and MN 10 teaches observing their arising and passing without clinging. The two formulations belong to different textual traditions; this site presents them side by side without adjudicating between them."
+      },
+      {
+        "q": "What is the difference between the five aggregates and the five aggregates subject to clinging?",
+        "a": "The five aggregates (pañcakkhandhā) are the five classes of experience themselves — form, feeling, perception, formations, consciousness. The five aggregates subject to clinging (pañcupādānakkhandhā) add the word upādāna, clinging: the same aggregates insofar as they are grasped as 'I' and 'mine.' Both suttas cited here use the latter term when teaching about suffering and contemplation — the weight falls on the clinging, not on the mere existence of the aggregates."
+      },
+      {
+        "q": "Which of the five aggregates is the mind?",
+        "a": "No single aggregate 'is the mind.' Form is the physical side — the body and material phenomena — while the other four together make up the mental side: feeling is the felt tone of experience, perception is recognition, formations are volitional activities, and consciousness is bare cognizance. The early texts deliberately break what we loosely call 'my mind' into these four distinct functions, so that a vague whole becomes a set of processes whose arising and passing can each be observed."
+      },
+      {
+        "q": "Which sutta teaches the five aggregates?",
+        "a": "The five aggregates appear throughout the early Pali discourses rather than in one source text. Two passages can be read in the original on this site: the Saccavibhaṅgasutta (MN 141) lists the five aggregates subject to clinging within the definition of the noble truth of suffering, summarized as 'in brief, the five aggregates subject to clinging are suffering'; and the Satipaṭṭhānasutta (MN 10) teaches how to contemplate each aggregate's origin and passing away. The well-known line 'the five aggregates are all empty' comes from the Heart Sutra, a Mahayana text of a different corpus."
+      }
+    ],
+    "related_topics": ["anatta", "four-noble-truths"],
+    "related_suttas": ["mn141", "mn10"],
+    "related_lexicon": []
+  }
+}

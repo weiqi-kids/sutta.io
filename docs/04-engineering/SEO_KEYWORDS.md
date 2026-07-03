@@ -2,7 +2,9 @@
 
 > 調研日期：2026-07-03。方法：Google autocomplete（zh-TW/gl=tw）挖真實搜尋變體 ＋ 三組並行 SERP 競爭分析（修行方法／教義概念／經典人物，共 18 詞）。
 > 背景：上線 11 天 GSC 數據證實「romanized 巴利單字＋經號」無搜尋需求；本文件將 SEO 目標改為「日常會搜尋的中文詞」。
-> 狀態：調研完成，**尚未動工**。動工時逐項勾銷。
+> 狀態：**2026-07-03 全面動工完成**。已上線：①既有研經頁 title 概念詞化（content/seo/sutta-seo.json 覆蓋表＋通用模板）②/agama 中阿含白話總覽 ③/nikaya 尼柯耶導覽 ④/topics 主題頁系統＋11 頁（第一至三梯隊全部：anapanasati/satipatthana-practice/anatta/satipatthana/noble-eightfold-path/dependent-origination/five-aggregates/sati/four-noble-truths/sariputta/vipassana），zh+en 雙語。主題頁 review_status=draft（頁面標示「人工校稿中」），人工校稿後改 approved。驗證：scripts/validate-topics.mjs（引文 segment 防捏造）。
+>
+> ⚠️ 維運教訓：seo-ops 統一大腦層每日 20:30 台北（12:30 UTC）會 `git checkout+clean` 清掉 site/ 下未提交改動——**site/ 的工作當天務必 commit**。
 
 ## 核心發現（全部 18 詞共通）
 

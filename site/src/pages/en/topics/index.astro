@@ -1,0 +1,74 @@
+---
+// en/topics/index.astro — Topic index (English mirror)
+import Base from '../../../layouts/Base.astro';
+import { getStrings } from '../../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listTopics } from '../../../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+const topics = listTopics();
+
+const title = 'Topics — core Buddhist questions answered from the source texts';
+const description =
+  'How is satipaṭṭhāna practised? What is ānāpānassati? What does non-self mean? Each topic answers one question directly from Pāli canonical passages — every explanation anchored to verifiable text.';
+const crumbs = [{ label: t.nav.topics }];
+---
+
+<Base title={title} description={description} crumbs={crumbs}>
+  <h1>Topics</h1>
+  <p class="intro">
+    Each topic takes one question and answers it from <strong>the source texts themselves</strong>:
+    a one-sentence definition, then canonical passages unpacked step by step — every quote links to
+    the full text for word-by-word verification. Commentary is AI-written from real textual data
+    and clearly labelled.
+  </p>
+
+  <ul class="topic-list">
+    {
+      topics.map((tp) => (
+        <li>
+          <a href={url(`/topics/${tp.slug}`)}>
+            <span class="topic-q">{tp.en.question}</span>
+            <span class="topic-def">{tp.en.definition}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+  {topics.length === 0 && <p class="calm-note">Topic pages are in production.</p>}
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-6);
+  }
+  .topic-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .topic-list li {
+    border-bottom: 1px solid var(--rule);
+  }
+  .topic-list a {
+    display: block;
+    padding: var(--space-4) var(--space-2);
+    text-decoration: none;
+  }
+  .topic-list a:hover .topic-q {
+    color: var(--thread);
+  }
+  .topic-q {
+    display: block;
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: var(--space-1);
+  }
+  .topic-def {
+    display: block;
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+  }
+</style>

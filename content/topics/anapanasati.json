@@ -1,0 +1,286 @@
+{
+  "slug": "anapanasati",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "安般念（入出息念）",
+    "seo_title": "安般念是什麼？佛陀教的觀呼吸十六步驟（MN118 原文對照）",
+    "seo_description": "安般念（ānāpānassati，入出息念）是佛陀親自教導的觀呼吸法門。本頁依《入出息念經》（MN118）巴利原文，逐段解說十六勝行的四組步驟、修習前的坐姿準備，以及安般念如何圓滿四念處、七覺支乃至明與解脫，並附巴利與白話對照。",
+    "question": "安般念是什麼？",
+    "definition": "安般念（巴利語 ānāpānassati，漢譯入出息念）是以正念持續覺知入息與出息的修行方法，佛陀在《入出息念經》（MN118）中教導其十六個步驟，說明它修習圓滿時能次第成就四念處、七覺支，乃至明與解脫。",
+    "sections": [
+      {
+        "heading": "什麼是安般念",
+        "paragraphs": [
+          "「安般念」是巴利語 ānāpānassati 的漢譯音義合璧詞：ānāpāna 由 āna（入息）與 apāna（出息）組成，「安般」即其音譯；sati 意為「念」，指持續、清明的覺知。合起來就是「對入息與出息的念」，因此經典中也意譯為「入出息念」，現代常俗稱「觀呼吸」。",
+          "這個法門的根本出處是《中部》第 118 經《入出息念經》（Ānāpānassatisutta）。經中場景是舍衛城東園鹿子母講堂的月圓布薩夜，世尊在僧眾圍繞下開示：僧團中有比丘「安住於入出息念的修習」，並接著完整說明這個修法為何有大果報、大利益。",
+          "值得注意的是，佛陀並不把安般念當成單純的放鬆技巧或入門練習。經文一開始就給出整條修行路線圖：入出息念修習多修習，能令四念處圓滿；四念處圓滿七覺支；七覺支圓滿明與解脫。也就是說，這一個以呼吸為所緣的法門，被佛陀定位為可以直通解脫的完整道路。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:14.15", "mn118:15.1", "mn118:15.2", "mn118:15.3"],
+            "lead": "佛陀在經中如此定位安般念："
+          }
+        ]
+      },
+      {
+        "heading": "修習前的準備：地點、坐姿、繫念面前",
+        "paragraphs": [
+          "在講十六個步驟之前，經文先交代修習的外在與內在條件。外在條件是安靜少擾的處所：前往森林、樹下，或空曠（無人）之處。內在與身體的條件則是：盤腿而坐，端直身體，「向前安立正念」（parimukhaṁ satiṁ upaṭṭhapetvā）——把念安置於當前，準備好覺知。",
+          "接著只有一句極簡的總綱：「彼自入息，自出息」（satova assasati satova passasati）——有念地入息，有念地出息。呼吸不需要被刻意控制或改造；修行者要做的，是讓念持續地跟著自然的呼吸。之後的十六個步驟，都是在這個基礎上逐步深化。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:17.1", "mn118:17.2"],
+            "lead": "經文對準備工夫的完整交代："
+          }
+        ]
+      },
+      {
+        "heading": "十六勝行（一）：第一組觀身、第二組觀受",
+        "paragraphs": [
+          "佛陀把安般念的修習開展為十六個步驟，傳統上稱為「十六勝行」，分成四組、每組四法，分別對應身、受、心、法四個面向。每一個步驟都同時涵蓋入息與出息。",
+          "第一組四法以「身」為重心：（1）入息長時了知「入息長」，出息長時了知「出息長」；（2）入息短時了知「入息短」，出息短時了知「出息短」；（3）修學「覺知全身而入息、出息」；（4）修學「令身行平靜而入息、出息」。前兩步是單純的了知（pajānāti）——呼吸是長是短，如實知道即可；從第三步起經文改用「修學」（sikkhati），表示開始有方向性的鍛鍊：先讓覺知遍滿，再讓與身體相關的活動（身行，kāyasaṅkhāra）自然安靜下來。",
+          "第二組四法轉向「受」：（5）覺知喜（pīti）而入出息；（6）覺知樂（sukha）而入出息；（7）覺知心行（cittasaṅkhāra）而入出息；（8）令心行平靜而入出息。隨著身體安定，喜與樂等感受會浮現；修行者不迴避也不耽溺，而是覺知它們，並進一步讓這些牽動內心的活動平息。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:18.1", "mn118:18.2", "mn118:18.3", "mn118:18.4"],
+            "lead": "第一組四法（觀身）："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:19.1", "mn118:19.2", "mn118:19.3", "mn118:19.4"],
+            "lead": "第二組四法（觀受）："
+          }
+        ]
+      },
+      {
+        "heading": "十六勝行（二）：第三組觀心、第四組觀法",
+        "paragraphs": [
+          "第三組四法以「心」為所緣：（9）覺知心而入出息；（10）令心歡喜而入出息；（11）令心安定（samādahaṁ cittaṁ）而入出息；（12）令心解脫而入出息。這一組顯示安般念不只是被動觀察：修行者在覺知心的當下，也主動地令心喜悅、令心入定、令心從纏縛中鬆脫。",
+          "第四組四法進入「法」的層面，是觀的工夫：（13）隨觀無常（aniccānupassī）而入出息；（14）隨觀離欲（virāgānupassī）而入出息；（15）隨觀滅（nirodhānupassī）而入出息；（16）隨觀捨棄（paṭinissaggānupassī）而入出息。修行者以已然安定明淨的心，就著呼吸與身心現象直接觀照無常，進而導向離欲、滅與捨棄。",
+          "十六個步驟合起來，呈現一條由粗到細、由止到觀的完整次第：先安頓身體與呼吸，再處理感受、調御內心，最後以觀慧透視現象的本質。佛陀總結說：如是修習、多多修習入出息念，則有大果、大利益。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:20.1", "mn118:20.2", "mn118:20.3", "mn118:20.4"],
+            "lead": "第三組四法（觀心）："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "lead": "第四組四法（觀法）："
+          }
+        ]
+      },
+      {
+        "heading": "安般念如何圓滿四念處",
+        "paragraphs": [
+          "MN118 的獨特之處，在於它不只列出十六個步驟，還親自說明這十六步與四念處（身、受、心、法四種念處）的對應關係：修第一組四法時，比丘即是「於身隨觀身而住」；修第二組時，即是於受隨觀受；第三組對應於心隨觀心；第四組對應於法隨觀法。每一處經文都以同一句定型句作結：「精勤、正知、具念，調伏世間的貪憂。」",
+          "對第一組，佛陀特別解釋為何觀呼吸就是身念處：「所謂『諸身』，我說的就是入息與出息」——呼吸本身就是身體現象之一種，念住於呼吸，就是念住於身。",
+          "在講到心念處時，經文還附了一句重要的提醒：「我不對失念、不正知者說入出息念。」（mn118:26.6）安般念的全程都以念與正知為前提；一旦失念，就不成其為入出息念。",
+          "因此，安般念與四念處不是兩套並行的修法，而是同一條路的兩種描述：以呼吸為入手處持續修下去，四念處便在其中次第圓滿。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:24.5", "mn118:24.6", "mn118:24.7"],
+            "lead": "佛陀說明第一組四法即是身念處："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:28.1"],
+            "lead": "本段落的總結："
+          }
+        ]
+      },
+      {
+        "heading": "從四念處到七覺支、明與解脫",
+        "paragraphs": [
+          "經文的後半段接著說明四念處如何圓滿七覺支：當比丘於身（受、心、法）隨觀而住、念現前不忘失時，念覺支生起；他以慧審察諸法，擇法覺支生起；由此激發不退縮的精進（精進覺支）；精進者生起無染著的喜（喜覺支）；心懷喜悅者身心平息（輕安覺支）；身輕安而安樂者心得定（定覺支）；對如此入定的心成為平等的觀察者，捨覺支生起。七覺支就在安般念的修習中，一環扣一環地自然開展。",
+          "最後，佛陀說明七覺支如何圓滿明與解脫：修行者修習每一覺支時，皆「依止遠離、依止離欲、依止滅盡，趣向完全捨棄」。如此修習、多多修習七覺支，明與解脫即得圓滿。整部經於是收攏為一條清楚的因果鏈：入出息念 → 四念處 → 七覺支 → 明與解脫。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:30.1", "mn118:30.2"],
+            "lead": "以念覺支為例，經文描述覺支如何在念處修習中生起："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:42.1", "mn118:43.1"],
+            "lead": "七覺支導向明與解脫的修習方式："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "安般念很早就傳入漢地：東漢安世高譯出《安般守意經》，「安般」一詞即由此成為漢傳佛教的通行譯名，此經也是中國最早流通的禪修典籍之一。漢傳傳統中廣為人知的「數息觀」（五停心觀之一，對治散亂），以及天台智顗大師整理的「六妙門」（數、隨、止、觀、還、淨），在歷史上都與安般念的傳承密切相關；其中「數息」（默數呼吸）是巴利 MN118 十六勝行未明文列出、而在後世論書與漢傳實修中發展出的輔助方法。這些體系與 MN118 的十六勝行在架構與側重上各有不同——有的以攝心入定為主軸，有的鋪陳止觀雙運的完整次第。本站依巴利原典呈現 MN118 的原貌，各傳統的詮釋與開展並陳於此，供讀者對照參考，不作高下裁決。",
+    "faq": [
+      {
+        "q": "安般念跟一般說的「觀呼吸」「正念呼吸」是同一回事嗎？",
+        "a": "詞義上相通：安般念（ānāpānassati）直譯就是「對入出息的念」，觀呼吸、正念呼吸都是它的現代說法。但依 MN118，佛陀教的安般念是完整的十六個步驟，涵蓋身、受、心、法四個層面，最終導向明與解脫；現代課程中的呼吸練習多半只取其中最初階的部分。想了解全貌，仍應回到經典本文。"
+      },
+      {
+        "q": "初學者要怎麼開始修安般念？",
+        "a": "MN118 給出的起點很具體：找一個安靜的地方（經文說森林、樹下或空曠處），盤腿而坐、端直身體，把念安立於當前，然後有念地入息、有念地出息。第一步只是如實了知呼吸的長短，不需要控制呼吸。經中也提醒，安般念以不失念、具正知為前提；發現走神了，回到呼吸即可。"
+      },
+      {
+        "q": "安般念和四念處是什麼關係？",
+        "a": "MN118 明確說：入出息念修習、多修習，能令四念處圓滿。十六勝行的四組四法，依序對應身、受、心、法四念處——佛陀並解釋，入息與出息本身就是「身」的一種，所以念住呼吸即是身念處。兩者是同一條路：安般念是入手處，四念處是它展開後的完整面貌。"
+      },
+      {
+        "q": "安般念的出處是哪部經？",
+        "a": "根本出處是巴利《中部》第 118 經《入出息念經》（Ānāpānassatisutta, MN118），佛陀於舍衛城東園鹿子母講堂的月圓夜對僧眾宣說，完整教導十六勝行，並說明它如何次第圓滿四念處、七覺支與明解脫。此外《念處經》（MN10）的身念處段落也包含觀呼吸的教導，可對照研讀。"
+      }
+    ],
+    "related_topics": ["satipatthana-practice"],
+    "related_suttas": ["mn118", "mn10"],
+    "related_lexicon": ["sati", "anapanassati"]
+  },
+  "en": {
+    "title": "Anapanasati (Mindfulness of Breathing)",
+    "seo_title": "Anapanasati: The Buddha's 16 Steps of Mindfulness of Breathing (MN 118)",
+    "seo_description": "Anapanasati is the Buddha's own method of mindfulness of breathing, taught in full in MN 118. This page walks through the sixteen steps in four tetrads, the posture instructions, and how breath meditation fulfills the four foundations of mindfulness — with Pali text and translation side by side.",
+    "question": "What is anapanasati?",
+    "definition": "Anapanasati (Pali: ānāpānassati, 'mindfulness of in-and-out breathing') is the practice of sustained mindful awareness of the breath. In the Ānāpānassatisutta (MN 118) the Buddha teaches it as sixteen steps which, when developed, fulfill the four foundations of mindfulness, the seven awakening factors, and true knowledge and liberation.",
+    "sections": [
+      {
+        "heading": "What Anapanasati Means",
+        "paragraphs": [
+          "The word ānāpānassati is a compound: ānāpāna joins āna (in-breath) and apāna (out-breath), while sati means mindfulness — sustained, lucid awareness. Together: mindfulness of breathing in and out. English renderings include 'mindfulness of breathing' and 'breath meditation'.",
+          "Its root text is the Ānāpānassatisutta, the 118th discourse of the Majjhima Nikāya. The setting is a full-moon night at the Eastern Park near Sāvatthī, where the Buddha, surrounded by the Sangha, notes that some monks in the assembly dwell devoted to the development of mindfulness of breathing, and then teaches the method in full.",
+          "The Buddha does not present anapanasati as a mere relaxation exercise or a beginner's warm-up. At the outset he lays out an entire path: mindfulness of breathing, developed and cultivated, fulfills the four foundations of mindfulness; these fulfill the seven awakening factors; and these fulfill true knowledge and liberation. A single practice centered on the breath is thus framed as a complete road to awakening."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:14.15", "mn118:15.1", "mn118:15.2", "mn118:15.3"],
+            "lead": "The Buddha's framing of the practice:"
+          }
+        ]
+      },
+      {
+        "heading": "Preparation: Place, Posture, Setting Up Mindfulness",
+        "paragraphs": [
+          "Before listing the sixteen steps, the sutta describes the conditions for practice. Externally, a quiet place: the practitioner goes to a forest, to the root of a tree, or to an empty hut. Bodily and internally: sitting down cross-legged, holding the body erect, and 'establishing mindfulness in front' (parimukhaṁ satiṁ upaṭṭhapetvā) — placing awareness at the fore, ready to attend.",
+          "Then follows a single, spare summary line: 'Just mindful he breathes in, mindful he breathes out.' The breath is not forced or engineered; the practitioner's task is to let mindfulness ride the natural breath. All sixteen steps unfold from this foundation."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:17.1", "mn118:17.2"],
+            "lead": "The sutta's full instruction on preparation:"
+          }
+        ]
+      },
+      {
+        "heading": "The Sixteen Steps, Part One: Body and Feelings",
+        "paragraphs": [
+          "The Buddha unfolds the practice as sixteen steps, traditionally grouped into four tetrads corresponding to body, feelings, mind, and dhammas. Every step spans both the in-breath and the out-breath.",
+          "The first tetrad centers on the body: (1) breathing in long, one knows 'I breathe in long'; breathing out long, one knows 'I breathe out long'; (2) the same for short breaths; (3) one trains, 'I shall breathe in and out experiencing the whole body'; (4) one trains, 'I shall breathe in and out calming the bodily activity (kāyasaṅkhāra).' The first two steps are simple knowing (pajānāti) — long or short, one simply knows. From the third step the verb shifts to 'trains' (sikkhati): awareness is deliberately widened, then bodily activity is allowed to settle.",
+          "The second tetrad turns to feelings: (5) experiencing rapture (pīti); (6) experiencing pleasure (sukha); (7) experiencing the mental activity (cittasaṅkhāra); (8) calming the mental activity — each while breathing in and out. As the body settles, rapture and pleasure arise; the practitioner neither avoids nor indulges them, but knows them and lets what stirs the mind grow calm."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:18.1", "mn118:18.2", "mn118:18.3", "mn118:18.4"],
+            "lead": "The first tetrad (body):"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:19.1", "mn118:19.2", "mn118:19.3", "mn118:19.4"],
+            "lead": "The second tetrad (feelings):"
+          }
+        ]
+      },
+      {
+        "heading": "The Sixteen Steps, Part Two: Mind and Dhammas",
+        "paragraphs": [
+          "The third tetrad takes the mind itself as its object: (9) experiencing the mind; (10) gladdening the mind; (11) concentrating the mind (samādahaṁ cittaṁ); (12) liberating the mind — each while breathing in and out. This tetrad shows that anapanasati is not purely passive observation: while aware of the mind, the practitioner actively gladdens it, steadies it in samādhi, and releases it from what binds it.",
+          "The fourth tetrad is the work of insight: (13) contemplating impermanence (aniccānupassī); (14) contemplating dispassion (virāgānupassī); (15) contemplating cessation (nirodhānupassī); (16) contemplating relinquishment (paṭinissaggānupassī) — each while breathing in and out. With a mind now settled and clear, the practitioner looks directly into the impermanence of breath and experience, inclining toward dispassion, cessation, and letting go.",
+          "Taken together, the sixteen steps trace a graduated path from coarse to subtle, from calm to insight: first settling body and breath, then working with feelings and steadying the mind, finally seeing into the nature of phenomena. The Buddha concludes: developed and cultivated in this way, mindfulness of breathing is of great fruit and great benefit."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:20.1", "mn118:20.2", "mn118:20.3", "mn118:20.4"],
+            "lead": "The third tetrad (mind):"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "lead": "The fourth tetrad (dhammas):"
+          }
+        ]
+      },
+      {
+        "heading": "How Anapanasati Fulfills the Four Foundations of Mindfulness",
+        "paragraphs": [
+          "What makes MN 118 distinctive is that it does not merely list the sixteen steps — it explains how they map onto the four satipaṭṭhānas. While practicing the first tetrad, the monk 'dwells contemplating the body in the body'; the second tetrad corresponds to feelings, the third to mind, the fourth to dhammas. Each passage closes with the same refrain: 'ardent, clearly comprehending, mindful, having subdued covetousness and displeasure with regard to the world.'",
+          "For the first tetrad the Buddha states explicitly why watching the breath is contemplation of the body: 'Among bodies, I say, this is a certain body — namely, in-breathing and out-breathing.' The breath is itself a bodily phenomenon; mindfulness of breathing is mindfulness of the body.",
+          "In the passage on mind, the sutta adds a pointed reminder: 'I do not speak of mindfulness of breathing for one who is forgetful, who lacks clear comprehension' (mn118:26.6). Mindfulness and clear comprehension are prerequisites throughout — without them the practice is no longer anapanasati.",
+          "Anapanasati and the four foundations of mindfulness are therefore not two parallel systems but one path described in two ways: sustained practice on the breath is precisely how the four satipaṭṭhānas come to fulfillment."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:24.5", "mn118:24.6", "mn118:24.7"],
+            "lead": "The Buddha identifies the first tetrad with contemplation of the body:"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:28.1"],
+            "lead": "The section's conclusion:"
+          }
+        ]
+      },
+      {
+        "heading": "From the Four Foundations to the Awakening Factors and Liberation",
+        "paragraphs": [
+          "The latter half of the sutta shows how the four foundations of mindfulness fulfill the seven awakening factors. When mindfulness is established and unmuddled, the awakening factor of mindfulness arises; investigating phenomena with wisdom, the factor of investigation arises; this rouses unflagging energy; energy gives rise to unworldly rapture; the rapturous mind grows tranquil in body and mind; one tranquil and happy becomes concentrated; and one who looks on with equanimity at the mind thus concentrated develops the factor of equanimity. The seven factors unfold link by link within the practice itself.",
+          "Finally, the Buddha explains how the seven awakening factors fulfill true knowledge and liberation: each factor is developed 'dependent on seclusion, dispassion, and cessation, maturing in release.' Developed and cultivated in this way, the awakening factors fulfill true knowledge and liberation. The whole discourse resolves into a single causal chain: mindfulness of breathing → the four foundations of mindfulness → the seven awakening factors → true knowledge and liberation."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:30.1", "mn118:30.2"],
+            "lead": "The awakening factor of mindfulness arising within satipaṭṭhāna practice:"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:42.1", "mn118:43.1"],
+            "lead": "How the awakening factors lead to true knowledge and liberation:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "Anapanasati reached China very early: An Shigao's Han-dynasty translation of the Anban Shouyi Jing ('Discourse on Mindfulness of Breathing') was among the first meditation texts to circulate there, and 'anban' — a transliteration of ānāpāna — became the standard East Asian name for the practice. Well-known East Asian systems are historically connected with it: breath-counting (shuxi guan, one of the 'five contemplations for stilling the mind') and the 'Six Gates to the Sublime' (counting, following, stabilizing, contemplating, returning, purifying) systematized by the Tiantai master Zhiyi. Counting the breath, notably, is not among the sixteen steps of MN 118 itself; it developed in later treatises and East Asian practice as a supporting technique. These systems differ from MN 118 in structure and emphasis — some foreground concentration, others lay out a full path of calm and insight. This site presents MN 118 as it stands in the Pali; the interpretations of later traditions are noted here for comparison, without ranking one above another.",
+    "faq": [
+      {
+        "q": "Is anapanasati the same as 'mindful breathing' or 'breath meditation'?",
+        "a": "The terms overlap: ānāpānassati literally means 'mindfulness of in-and-out breathing,' and modern phrases like mindful breathing describe the same basic act. But in MN 118 the Buddha teaches anapanasati as a complete sixteen-step path spanning body, feelings, mind, and dhammas, culminating in true knowledge and liberation. Most modern breathing exercises draw only on its earliest steps; the sutta itself gives the full picture."
+      },
+      {
+        "q": "How does a beginner start practicing anapanasati?",
+        "a": "MN 118 gives a concrete starting point: go to a quiet place (the sutta says a forest, the root of a tree, or an empty hut), sit cross-legged with the body erect, establish mindfulness in front, and then simply breathe in and out mindfully. The first step is only to know whether the breath is long or short — no breath control is required. The sutta also notes that the practice presupposes mindfulness and clear comprehension; when the mind wanders, one simply returns to the breath."
+      },
+      {
+        "q": "What is the relationship between anapanasati and the four foundations of mindfulness (satipatthana)?",
+        "a": "MN 118 states it directly: mindfulness of breathing, developed and cultivated, fulfills the four foundations of mindfulness. The four tetrads of the sixteen steps correspond in order to body, feelings, mind, and dhammas — and the Buddha explains that the breath is itself 'a certain body,' so attending to it is contemplation of the body. They are one path: anapanasati is the entry point, satipatthana its full unfolding."
+      },
+      {
+        "q": "Which sutta teaches anapanasati?",
+        "a": "The root text is the Ānāpānassatisutta, Majjhima Nikāya 118, spoken by the Buddha to the Sangha on a full-moon night at the Eastern Park near Sāvatthī. It teaches the sixteen steps in full and shows how they fulfill the four foundations of mindfulness, the seven awakening factors, and true knowledge and liberation. The Satipaṭṭhānasutta (MN 10) also includes mindfulness of breathing within its section on the body and is worth reading alongside."
+      }
+    ],
+    "related_topics": ["satipatthana-practice"],
+    "related_suttas": ["mn118", "mn10"],
+    "related_lexicon": ["sati", "anapanassati"]
+  }
+}

@@ -1,0 +1,189 @@
+---
+// nikaya.astro — 尼柯耶中文導覽 pillar page（SEO 目標詞「尼柯耶 中文」，SEO_KEYWORDS #1）
+// 內容性質：站方整理的資訊頁（同 world.astro 定位）；譯本敘述僅陳述出版事實、具名連結原站，不評優劣。
+import Base from '../layouts/Base.astro';
+import { getStrings } from '../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listSuttas, getSutta, suttaIsComplete } from '../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const doneCount = listSuttas().filter((s) => {
+  const fx = getSutta(s.id);
+  return fx && suttaIsComplete(fx);
+}).length;
+
+const title = '尼柯耶是什麼？五部尼柯耶與中文譯本完整導覽';
+const description =
+  '尼柯耶（Nikāya）是巴利三藏經藏的五個分部：長部、中部、相應部、增支部、小部。本頁整理五部尼柯耶的內容、與漢譯阿含的對應，以及現有中文譯本（元亨寺、莊春江、蕭式球等）與線上閱讀入口。';
+const crumbs = [{ label: t.nav.nikaya }];
+
+const faq = [
+  {
+    q: '尼柯耶是什麼意思？',
+    a: '尼柯耶（巴利語 Nikāya）意為「集、部類」，是巴利三藏經藏（Sutta Piṭaka）的分部單位。上座部佛教把佛陀的經教編為五部尼柯耶：長部、中部、相應部、增支部、小部。',
+  },
+  {
+    q: '尼柯耶和阿含經有什麼不同？',
+    a: '兩者是同一批早期經典在不同部派的傳本：尼柯耶以巴利語傳於上座部；阿含經是其他部派（說一切有部、法藏部等）誦本的古代漢譯。內容大量重疊，但編次、用語與細節有部派差異，對讀可以分辨共同核心與傳本差異。',
+  },
+  {
+    q: '尼柯耶有中文翻譯嗎？哪裡可以線上閱讀？',
+    a: '有。整套翻譯以元亨寺《漢譯南傳大藏經》最早（自日譯轉譯）；莊春江居士的四部尼柯耶新譯與蕭式球先生的譯本（直接譯自巴利）皆可線上免費閱讀。本站另提供中部尼柯耶的巴利逐字解析＋白話＋中阿含對照。',
+  },
+];
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+
+<Base title={title} description={description} crumbs={crumbs} extraSchema={faqSchema}>
+  <h1>尼柯耶中文導覽</h1>
+  <p class="definition">
+    <strong>尼柯耶（Nikāya）</strong>，意為「集、部類」，是巴利三藏經藏的分部單位。
+    上座部佛教將佛陀的經教編為<strong>五部尼柯耶</strong>：長部、中部、相應部、增支部、小部——
+    它們與漢譯《阿含經》系出同源，是現存最早期的佛典之一。
+  </p>
+
+  <h2>五部尼柯耶一覽</h2>
+  <table class="nikaya-table">
+    <thead>
+      <tr>
+        <th>部名</th>
+        <th>巴利名</th>
+        <th>規模</th>
+        <th>對應漢譯阿含</th>
+        <th>內容特色</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>長部</td>
+        <td lang="pi">Dīgha Nikāya</td>
+        <td>34 經</td>
+        <td>《長阿含經》（T1，法藏部誦本）</td>
+        <td>篇幅最長的經，含《大般涅槃經》等重要長篇</td>
+      </tr>
+      <tr>
+        <td>中部</td>
+        <td lang="pi">Majjhima Nikāya</td>
+        <td>152 經</td>
+        <td>《中阿含經》（T26，說一切有部誦本）</td>
+        <td>中等篇幅，教理與修行方法最集中，如《念處經》《入出息念經》</td>
+      </tr>
+      <tr>
+        <td>相應部</td>
+        <td lang="pi">Saṃyutta Nikāya</td>
+        <td>數千經（依計法而異）</td>
+        <td>《雜阿含經》（T99，說一切有部誦本）</td>
+        <td>依主題（蘊、處、緣起、道品…）分類的短經集</td>
+      </tr>
+      <tr>
+        <td>增支部</td>
+        <td lang="pi">Aṅguttara Nikāya</td>
+        <td>數千經（依計法而異）</td>
+        <td>《增一阿含經》（T125，部派歸屬學界無定論）</td>
+        <td>依法數（一法、二法…十一法）編排的短經集</td>
+      </tr>
+      <tr>
+        <td>小部</td>
+        <td lang="pi">Khuddaka Nikāya</td>
+        <td>15 部（緬甸版本較多）</td>
+        <td>無整部對應；《法句經》等有個別漢譯</td>
+        <td>含《法句經》《經集》《本生》等雜纂，成立年代跨度大</td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="calm-note">
+    相應部與增支部的經數因古今計算方式不同而有出入，故不列單一數字；增支部對應之增一阿含的部派歸屬，學界說法並陳、尚無定論。
+  </p>
+
+  <h2>中文譯本現況與線上閱讀</h2>
+  <ul class="translations">
+    <li>
+      <strong>元亨寺《漢譯南傳大藏經》</strong>——最早的整套中譯（高雄元亨寺出版），自日譯《南傳大藏經》轉譯而非直接譯自巴利。
+      可於 <a href="https://cbetaonline.dila.edu.tw/" target="_blank" rel="noopener">CBETA 線上閱讀</a>（N 冊）。
+    </li>
+    <li>
+      <strong>莊春江譯</strong>——四部尼柯耶完整新譯，並提供南北傳逐經對讀，線上免費。
+      見 <a href="https://agama.buddhason.org/" target="_blank" rel="noopener">莊春江工作站</a>。
+    </li>
+    <li>
+      <strong>蕭式球譯</strong>——直接譯自巴利，中部全譯及長部等多部，由香港志蓮淨苑支持。
+      見 <a href="https://nanda.online-dhamma.net/tipitaka/sutta/" target="_blank" rel="noopener">線上版本</a>。
+    </li>
+    <li>
+      <strong>關則富譯注</strong>——學術譯注（聯經出版），涵蓋增支部部分內容，附巴利註釋書對照。
+    </li>
+    <li>
+      <strong>本站（原典研經庫）</strong>——不是又一個譯本，而是<strong>研經工具</strong>：中部尼柯耶巴利原文逐字解析（字根、詞形可點查）＋
+      AI 白話（依真實語法生成、明確標示）＋中阿含原文段落對照。已完成 {doneCount} 部、每日增補。
+      從<a href={url('/browse')}>經文目錄</a>或<a href={url('/agama')}>中阿含對照總覽</a>進入。
+    </li>
+  </ul>
+
+  <h2>常見問題</h2>
+  <dl class="faq">
+    {
+      faq.map((f) => (
+        <Fragment>
+          <dt>{f.q}</dt>
+          <dd>{f.a}</dd>
+        </Fragment>
+      ))
+    }
+  </dl>
+
+  <p class="calm-note">
+    本頁為站方整理的導覽資訊；各譯本描述僅陳述出版形式與入口，不評比優劣。若有錯漏，歡迎透過頁尾「回報勘誤」指正。
+  </p>
+</Base>
+
+<style>
+  .definition {
+    font-size: var(--text-md);
+    margin-bottom: var(--space-4);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin: var(--space-6) 0 var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .nikaya-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .nikaya-table th,
+  .nikaya-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .nikaya-table th {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    font-weight: 600;
+  }
+  .translations li {
+    margin-bottom: var(--space-3);
+    line-height: 1.8;
+  }
+  .faq dt {
+    font-weight: 600;
+    margin-top: var(--space-4);
+  }
+  .faq dd {
+    margin: var(--space-2) 0 0;
+    color: var(--ink-soft);
+  }
+</style>

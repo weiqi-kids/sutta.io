@@ -1,0 +1,72 @@
+---
+// topics/index.astro — 主題研經目錄
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listTopics } from '../../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+const topics = listTopics();
+
+const title = '主題研經｜用原典回答佛法核心問題';
+const description =
+  '四念處怎麼修？安般念是什麼？無我是什麼意思？每個主題以巴利原典段落與白話對照直接回答——每一句解釋都掛在可檢驗的經文上。';
+const crumbs = [{ label: t.nav.topics }];
+---
+
+<Base title={title} description={description} crumbs={crumbs}>
+  <h1>主題研經</h1>
+  <p class="intro">
+    每個主題鎖定一個問題，用<strong>原典本身</strong>回答：先給一句話定義，再引巴利原文與白話對照逐項展開，
+    每段引文都可點入全文逐字檢驗。解說由 AI 依站內經文真實資料撰寫並明確標示。
+  </p>
+
+  <ul class="topic-list">
+    {
+      topics.map((tp) => (
+        <li>
+          <a href={url(`/topics/${tp.slug}`)}>
+            <span class="topic-q">{tp.zh.question}</span>
+            <span class="topic-def">{tp.zh.definition}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+  {topics.length === 0 && <p class="calm-note">主題頁製作中，即將上線。</p>}
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-6);
+  }
+  .topic-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .topic-list li {
+    border-bottom: 1px solid var(--rule);
+  }
+  .topic-list a {
+    display: block;
+    padding: var(--space-4) var(--space-2);
+    text-decoration: none;
+  }
+  .topic-list a:hover .topic-q {
+    color: var(--thread);
+  }
+  .topic-q {
+    display: block;
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: var(--space-1);
+  }
+  .topic-def {
+    display: block;
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+  }
+</style>

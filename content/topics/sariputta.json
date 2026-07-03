@@ -1,0 +1,248 @@
+{
+  "slug": "sariputta",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "舍利弗的一生",
+    "seo_title": "舍利弗是誰？佛陀智慧第一大弟子的一生（附經文出處）",
+    "seo_description": "舍利弗（Sāriputta）是佛陀的首席弟子，本名優波提舍。本頁依《巴利專有名詞辭典》（DPPN）與《正見經》（MN9）、《諦分別經》（MN141）巴利原典整理他的出家因緣、佛陀對他的當眾稱讚與兩個教學現場——每一段敘述都標明具名出處，可點入站內經文逐段對照。",
+    "question": "舍利弗是誰？",
+    "definition": "舍利弗（Sāriputta）本名優波提舍，是佛陀的首席弟子。依《巴利專有名詞辭典》（DPPN），他與摯友目犍連一同出家，不久證悟，常獲佛陀讚歎，在佛陀入滅前不久先行去世。",
+    "sections": [
+      {
+        "heading": "他是誰：佛陀的首席弟子",
+        "paragraphs": [
+          "依《巴利專有名詞辭典》（DPPN），舍利弗（Sāriputta）是喬達摩佛（Gotama Buddha）的首席弟子（chief disciple）。他另有一名「優波提舍」（Upatissa）——DPPN 指出這顯然是他的本名，並舉《中部》的用例為證。",
+          "DPPN 對他的整體評價是：他很快便證悟，成為一位受歡迎的老師，深受其他比丘敬重，也常受佛陀讚歎；巴利經藏中有許多經記載他親自說法。",
+          "網路上關於舍利弗的故事很多，但多數不附出處。本頁採取不同的做法：每一段敘述都具名標明來源——出自辭典的注明 DPPN，出自經文的直接引用站內巴利原典段落，可逐段點入對照。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "出家因緣：從刪闍耶門下到聽聞馬勝比丘",
+        "paragraphs": [
+          "依 DPPN，舍利弗與大目犍連（Mahāmoggallāna）是至交好友。兩人最初一同在刪闍耶（Sañjaya）門下出家修行。",
+          "後來，舍利弗從馬勝比丘（Assaji）那裡聽到了法的心要（the essence of the Dhamma）。此後，他與目犍連一同轉入佛陀座下成為比丘。DPPN 特別注明，這件事發生在佛陀成道後不久。",
+          "DPPN 接著只用一句話交代他的修行成就：他很快便證悟了。至於這段因緣中更細的情節——例如馬勝比丘當時說了什麼——不在本頁所據的 DPPN 節錄之內，故不展開。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "佛陀怎麼評價他：《諦分別經》開頭的當眾稱讚",
+        "paragraphs": [
+          "佛陀對舍利弗的讚歎，不只是 DPPN 的概括描述，經文裡有直接的現場紀錄。《諦分別經》（MN141）開頭，佛陀在鹿野苑向比丘眾略說四聖諦後，當眾勸大家親近舍利弗與目犍連，稱他們是智慧的比丘、同修梵行者的扶助者，並以「生育者」比喻舍利弗——如同母親生下孩子，舍利弗引導修行者進入聖道之流。",
+          "佛陀接著給出一句分量極重的評語：舍利弗能夠廣詳地宣說、教導、描述、建立、闡明、分析四聖諦。四聖諦是佛陀初轉法輪的核心教法；佛陀公開說舍利弗有能力詳說它，隨後便起座離去，把講堂留給了他。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.1", "mn141:5.2", "mn141:5.3", "mn141:5.4"],
+            "lead": "佛陀當眾勸比丘們親近舍利弗與目犍連："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.5", "mn141:5.6", "mn141:5.7"],
+            "lead": "並具體說明兩人各自的專長："
+          }
+        ]
+      },
+      {
+        "heading": "教學現場一：《正見經》（MN9）",
+        "paragraphs": [
+          "《正見經》（MN9）是舍利弗親自說法的代表作之一。在舍衛城祇陀林，他主動召集比丘，提出主題：「聖弟子以什麼方式成為具正見者？」比丘們的回應透露了他在僧團中的地位——他們說，即使從遠處，也願意前來舍利弗座前聽他解說法義。",
+          "接下來的開示展現了他標誌性的教學方式：他先以「了知善與不善、善根與不善根」回答什麼是正見，之後在比丘們一再追問「還有其他方式嗎」之下，沿著緣起的各支——食、苦、老死、生、有、取、渴愛、受、觸、六處、名色、識、行、無明、漏——逐一給出同一結構的分析，把「正見」從一個名詞展開成一整套可以逐項檢視的知見系統。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:2.3", "mn9:2.4"],
+            "lead": "比丘們對舍利弗的敬重，經文如此記載："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:3.1", "mn9:3.2"],
+            "lead": "他對「什麼是正見」的第一層回答："
+          }
+        ]
+      },
+      {
+        "heading": "教學現場二：《諦分別經》（MN141）",
+        "paragraphs": [
+          "《諦分別經》（MN141）完整保存了「佛陀開題、舍利弗詳說」的一幕。佛陀稱讚舍利弗能詳說四聖諦之後便起身進入精舍；世尊剛離去，舍利弗隨即接手，呼喚比丘們，開始逐條分別解說。",
+          "他的解說印證了佛陀的評語：對苦聖諦，他不是複誦定型句就結束，而是把「生、老、死、憂、悲、苦、惱、求不得、五取蘊」每一項單獨提出來，一一下定義；集、滅、道三諦亦然，最後把八支聖道的每一支都逐一講明。這種窮盡分項、層層下定義的風格，正是「廣詳地宣說、分析」的具體樣貌。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:6.2", "mn141:7.1"],
+            "lead": "佛陀離去、舍利弗接手說法的交接現場："
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "他解說苦聖諦的起手式："
+          }
+        ]
+      },
+      {
+        "heading": "晚年，與他留在經藏中的身影",
+        "paragraphs": [
+          "關於舍利弗的最後歲月，DPPN 節錄只有一句話：他在佛陀入滅前不久先行去世（He passed away shortly before the Buddha）。",
+          "而他留下的身影，主要保存在經藏裡。DPPN 說他「在許多經中以教師的身分出現」；《諦分別經》的結尾，記下了比丘們聽完他說法後的反應——歡喜讚許。這大概是對一位教師最樸素也最持久的紀錄。",
+          "讀者或許還聽過其他流傳甚廣的舍利弗故事。本頁只收錄能直接標明出處的內容；未見於本頁所據材料（DPPN 節錄與站內經文）者，一律暫不敘述。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:32.3", "mn141:32.4"],
+            "lead": "《諦分別經》的結尾："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "在大乘經典中，舍利弗的形象有明顯的角色轉變。《心經》裡，他（漢譯常作「舍利子」）是觀自在菩薩開示「色不異空、空不異色」的聽法者；《法華經》中，他是第一位領解佛陀宣說一乘教法的聲聞弟子，於〈譬喻品〉獲得授記，未來當成佛。這類安排反映了大乘文獻的一種書寫慣例：以聲聞眾中最具智慧代表性的舍利弗作為對話者，來鋪陳超越聲聞道的教法。這與巴利經藏中他作為詳說四聖諦、緣起的教師形象側重不同。兩種形象各屬其文獻傳統，本站依巴利原典呈現前者，大乘傳統的描寫並陳於此供對照，不作高下裁決。",
+    "faq": [
+      {
+        "q": "舍利弗為什麼被稱為「智慧第一」？",
+        "a": "「智慧第一」是漢傳與南傳共通的傳統稱號。就本頁可直接查證的材料而言：《巴利專有名詞辭典》（DPPN）稱他為佛陀的首席弟子、常受佛陀讚歎的教師；《諦分別經》（MN141）開頭，佛陀當眾稱他與目犍連為「智慧的比丘」（paṇḍitā bhikkhū），並說舍利弗能夠廣詳地宣說、分析四聖諦——說完便把講席交給他。《正見經》（MN9）中他對正見的層層分析，可視為這種智慧的實際展示。"
+      },
+      {
+        "q": "舍利弗說過哪些經？",
+        "a": "依 DPPN，巴利經藏中有許多經記載舍利弗以教師身分說法。本站目前可逐段對照閱讀的有兩部：《正見經》（MN9），他向比丘們詳說十六種成就正見的方式；《諦分別經》（MN141），佛陀略說四聖諦後由他接手詳細分別解說。兩部經都附巴利原文與白話對照。"
+      },
+      {
+        "q": "舍利弗和目犍連是什麼關係？",
+        "a": "依 DPPN，舍利弗與大目犍連是至交好友（a great friend）：兩人先一同在刪闍耶門下出家，後來又一同成為佛陀的比丘弟子。《諦分別經》（MN141）中，佛陀把兩人並舉，勸比丘們親近他們，並區分兩人的專長：舍利弗如生育者，引導修行者證入流果；目犍連如養育者，引導人達到最高義。"
+      },
+      {
+        "q": "「舍利弗」這個名字是什麼意思？他有別的名字嗎？",
+        "a": "依 DPPN，他另名「優波提舍」（Upatissa），辭典明言這顯然是他的本名（personal name），「舍利弗」（Sāriputta）則是他通行的稱名。至於「舍利弗」一名的字源解釋，不在本頁所據的 DPPN 節錄之內，故不展開。"
+      }
+    ],
+    "related_topics": ["four-noble-truths", "dependent-origination"],
+    "related_suttas": ["mn9", "mn141"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "The Life of Sariputta",
+    "seo_title": "Who Was Sariputta? The Buddha's Chief Disciple — A Sourced Life Story",
+    "seo_description": "Sariputta (Sāriputta), personal name Upatissa, was the chief disciple of the Buddha. This page assembles his life story strictly from named sources — the Dictionary of Pali Proper Names (DPPN) and the Pali suttas MN 9 and MN 141 — with every quotation linked segment by segment to the original texts.",
+    "question": "Who was Sariputta?",
+    "definition": "Sariputta (Pali: Sāriputta), also called Upatissa — evidently his personal name — was the chief disciple of Gotama Buddha. According to the Dictionary of Pali Proper Names (DPPN), he ordained together with his great friend Moggallāna, was soon enlightened, was often praised by the Buddha, and passed away shortly before him.",
+    "sections": [
+      {
+        "heading": "Who He Was: The Buddha's Chief Disciple",
+        "paragraphs": [
+          "According to the Dictionary of Pali Proper Names (DPPN), Sāriputta was the chief disciple of Gotama Buddha. He is also called Upatissa, which the dictionary notes was evidently his personal name, citing a passage of the Majjhima Nikāya.",
+          "The DPPN's overall portrait is brief and telling: he soon became enlightened, became a popular teacher, was well respected by the other monks, was often praised by the Buddha, and features in many suttas as a teacher.",
+          "Most retellings of Sariputta's life story online cite no sources. This page takes the opposite approach: every statement is attributed by name — either to the DPPN, or to Pali sutta passages on this site that you can open and check segment by segment."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "How He Went Forth: From Sañjaya's School to Assaji's Words",
+        "paragraphs": [
+          "According to the DPPN, Sariputta was a great friend of Mahāmoggallāna. The two first went forth together under the teacher Sañjaya.",
+          "Later, Sariputta heard the essence of the Dhamma from Assaji. Together with Moggallāna he then became a monk under the Buddha — and the DPPN notes this happened shortly after the Buddha's Awakening.",
+          "Of his attainment, the DPPN excerpt says only this: he soon became enlightened. Finer details of the episode — such as what exactly Assaji said — are not in the excerpt this page relies on, so we do not elaborate."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "How the Buddha Praised Him: The Opening of MN 141",
+        "paragraphs": [
+          "The Buddha's praise of Sariputta is not just the DPPN's summary — the suttas preserve it verbatim. At the opening of the Saccavibhaṅgasutta (MN 141), after briefly stating the four noble truths at the Deer Park, the Buddha publicly urges the monks to associate with Sariputta and Moggallāna, calling them wise monks who assist their fellow practitioners, and compares Sariputta to a mother who gives birth: he brings practitioners to the fruit of stream-entry.",
+          "Then comes a weighty verdict: Sariputta is able to explain, teach, describe, establish, reveal, and analyze the four noble truths in detail. The four noble truths are the heart of the Buddha's first discourse; having publicly said that Sariputta could expound them fully, the Buddha rose from his seat and left the hall to him."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.1", "mn141:5.2", "mn141:5.3", "mn141:5.4"],
+            "lead": "The Buddha urges the monks to associate with Sariputta and Moggallāna:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:5.5", "mn141:5.6", "mn141:5.7"],
+            "lead": "And distinguishes their strengths:"
+          }
+        ]
+      },
+      {
+        "heading": "In the Classroom, Part One: The Sammādiṭṭhisutta (MN 9)",
+        "paragraphs": [
+          "The Sammādiṭṭhisutta (MN 9) is one of the signature discourses Sariputta delivered himself. At Jeta's Grove near Sāvatthī, he gathers the monks and poses the theme: in what way is a noble disciple one of right view? The monks' reply reveals his standing in the Sangha — they say they would come even from far away to learn the meaning of such a statement from him.",
+          "What follows displays his hallmark teaching style. He first answers that right view is understanding the unwholesome and its root, the wholesome and its root. Then, as the monks repeatedly ask 'might there be another way?', he works through the links of dependent origination — nutriment, suffering, aging-and-death, birth, existence, clinging, craving, feeling, contact, the six sense bases, name-and-form, consciousness, volitional activities, ignorance, and the taints — giving each the same four-part analysis, unfolding 'right view' from a single term into a complete, checkable system of understanding."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:2.3", "mn9:2.4"],
+            "lead": "The monks' regard for Sariputta, in the sutta's own words:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:3.1", "mn9:3.2"],
+            "lead": "His first answer to what right view is:"
+          }
+        ]
+      },
+      {
+        "heading": "In the Classroom, Part Two: The Saccavibhaṅgasutta (MN 141)",
+        "paragraphs": [
+          "The Saccavibhaṅgasutta (MN 141) preserves a complete scene of 'the Buddha states the theme, Sariputta expounds it.' Right after praising Sariputta's ability to teach the four noble truths in detail, the Buddha rises and enters his dwelling; the moment the Blessed One has left, Sariputta takes over, addresses the monks, and begins the detailed analysis.",
+          "His exposition bears out the Buddha's verdict. On the truth of suffering, he does not simply recite the formula: he takes each term — birth, aging, death, sorrow, lamentation, pain, distress, not getting what one wishes, the five aggregates subject to clinging — and defines it one by one; he does the same for the truths of origin, cessation, and the path, spelling out every factor of the noble eightfold path. This exhaustive, item-by-item defining is exactly what 'explaining and analyzing in detail' looks like in practice."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:6.2", "mn141:7.1"],
+            "lead": "The handover — the Buddha departs and Sariputta takes the floor:"
+          },
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "lead": "How he opens the analysis of the truth of suffering:"
+          }
+        ]
+      },
+      {
+        "heading": "His Last Days, and the Figure He Left in the Canon",
+        "paragraphs": [
+          "On Sariputta's final days, the DPPN excerpt has a single sentence: he passed away shortly before the Buddha.",
+          "What remains of him lives chiefly in the suttas. The DPPN says he features in many discourses as a teacher; and the Saccavibhaṅgasutta closes by recording the monks' response to his teaching — they were uplifted and rejoiced in his words. It is perhaps the plainest and most durable record a teacher can leave.",
+          "Readers may know other widely told stories about Sariputta. This page includes only what can be attributed to a named source; anything not found in the materials it relies on — the DPPN excerpt and the suttas on this site — is deliberately left untold."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn141",
+            "segment_ids": ["mn141:32.3", "mn141:32.4"],
+            "lead": "The closing lines of MN 141:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "In Mahāyāna literature Sariputta's role shifts markedly. In the Heart Sutra he (as 'Śāriputra') is the one addressed when Avalokiteśvara teaches that form is not other than emptiness; the whole discourse is framed as spoken to him. In the Lotus Sutra he is the first of the disciples to comprehend the Buddha's teaching of the one vehicle, and in the 'Parable' chapter he receives a prediction of future Buddhahood. These portrayals reflect a literary convention of Mahāyāna texts: Sariputta, the most emblematic of the wise disciples, serves as the interlocutor through whom teachings beyond the disciple's path are unfolded — sometimes as the listener being led further, sometimes as the model of one who turns toward the greater vehicle. This differs in emphasis from the Pali canon's picture of him as the master analyst of the four noble truths and dependent origination. Each portrait belongs to its own textual tradition; this site presents the Pali sources, and notes the Mahāyāna depiction here for comparison without ranking one above the other.",
+    "faq": [
+      {
+        "q": "Why is Sariputta called the disciple foremost in wisdom?",
+        "a": "'Foremost in wisdom' is his traditional epithet across Buddhist traditions. In the materials this page can directly cite: the Dictionary of Pali Proper Names calls him the Buddha's chief disciple, a teacher often praised by the Buddha; and at the opening of MN 141 the Buddha publicly calls him and Moggallāna wise monks (paṇḍitā bhikkhū), declaring that Sariputta can expound and analyze the four noble truths in detail — then hands him the floor. His layer-by-layer analysis of right view in MN 9 shows that wisdom at work."
+      },
+      {
+        "q": "Which suttas did Sariputta teach?",
+        "a": "According to the DPPN he features in many suttas as a teacher. Two of them can be read segment by segment on this site: the Sammādiṭṭhisutta (MN 9), where he explains sixteen ways a noble disciple comes to right view, and the Saccavibhaṅgasutta (MN 141), where he gives the detailed analysis of the four noble truths after the Buddha states them in brief. Both are presented with the Pali text and translation side by side."
+      },
+      {
+        "q": "What was Sariputta's relationship with Moggallāna?",
+        "a": "According to the DPPN, Sariputta was a great friend of Mahāmoggallāna: they first went forth together under Sañjaya, and later became monks under the Buddha together. In MN 141 the Buddha pairs them, urging the monks to associate with both, and distinguishes their strengths: Sariputta, like one who gives birth, guides practitioners to the fruit of stream-entry; Moggallāna, like one who raises the child, guides them to the highest goal."
+      },
+      {
+        "q": "What does the name Sariputta mean? Did he have another name?",
+        "a": "According to the DPPN he is also called Upatissa, which the dictionary says was evidently his personal name; Sāriputta is the name by which he is generally known. An etymology of the name Sāriputta is not given in the DPPN excerpt this page relies on, so we do not speculate on it here."
+      }
+    ],
+    "related_topics": ["four-noble-truths", "dependent-origination"],
+    "related_suttas": ["mn9", "mn141"],
+    "related_lexicon": []
+  }
+}

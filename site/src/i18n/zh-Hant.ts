@@ -20,6 +20,9 @@ export const t = {
     search: '搜尋',
     lexicon: '字典',
     world: '早期佛典的世界',
+    topics: '主題研經',
+    agama: '中阿含對照',
+    nikaya: '尼柯耶導覽',
     about: '關於',
     errata: '回報勘誤',
     theme: '深淺主題',
@@ -27,6 +30,7 @@ export const t = {
   home: {
     enterReading: '開始閱讀',
     browseCollection: '瀏覽中部',
+    topicsEntry: '主題研經・用原典回答',
     searchEntry: '搜尋經文・字詞',
     lexiconEntry: '查字典',
     worldEntry: '早期佛典的世界',

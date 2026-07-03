@@ -1,0 +1,35 @@
+{
+  "_comment": "研經頁 SEO 標題覆蓋（概念詞導向，見 docs/04-engineering/SEO_KEYWORDS.md）。無列出者用通用模板：zh=`{title_zh}（中部N）白話對照`，en=`{title_pali} (MN N) — Pāli with word-by-word analysis`。",
+  "mn9": {
+    "zh": "正見經（中部9）全文白話對照｜十二因緣逐支問答",
+    "en": "Sammādiṭṭhi Sutta (MN 9) — Right View: full text with word-by-word Pāli analysis"
+  },
+  "mn10": {
+    "zh": "念處經（中部10）全文白話對照｜四念處",
+    "en": "Satipaṭṭhāna Sutta (MN 10) — The Four Establishments of Mindfulness: full text"
+  },
+  "mn19": {
+    "zh": "雙想經（中部19）全文白話對照｜善念與惡念的對治",
+    "en": "Dvedhāvitakka Sutta (MN 19) — Two Kinds of Thought: full text"
+  },
+  "mn20": {
+    "zh": "尋止息經（中部20）全文白話對照｜五種去除雜念的方法",
+    "en": "Vitakkasaṇṭhāna Sutta (MN 20) — The Removal of Distracting Thoughts: full text"
+  },
+  "mn21": {
+    "zh": "鋸喻經（中部21）全文白話對照｜忍辱與慈心",
+    "en": "Kakacūpama Sutta (MN 21) — The Simile of the Saw: full text"
+  },
+  "mn22": {
+    "zh": "蛇喻經（中部22）全文白話對照｜筏喻・無我",
+    "en": "Alagaddūpama Sutta (MN 22) — The Simile of the Snake and the Raft: full text"
+  },
+  "mn118": {
+    "zh": "入出息念經（中部118）全文白話對照｜安般念・觀呼吸十六勝行",
+    "en": "Ānāpānassati Sutta (MN 118) — Mindfulness of Breathing (16 steps): full text"
+  },
+  "mn141": {
+    "zh": "諦分別經（中部141）全文白話對照｜四聖諦・八正道原始定義",
+    "en": "Saccavibhaṅga Sutta (MN 141) — The Four Noble Truths defined: full text"
+  }
+}

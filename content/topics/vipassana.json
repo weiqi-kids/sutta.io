@@ -1,0 +1,206 @@
+{
+  "slug": "vipassana",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "內觀（vipassanā）",
+    "seo_title": "內觀是什麼？vipassanā 在巴利原典中的意思（不只是十日課程）",
+    "seo_description": "「內觀」是巴利語 vipassanā 的漢譯，由 vi（分別、透徹）與 passanā（看見）構成，意為如實觀見身心現象的生起與滅去。本頁依《念處經》（MN10）與《入出息念經》（MN118）巴利原文，說明內觀在經典中的本義、「觀」的具體操作內容（四念處與觀生滅），以及現代內觀課程與經典的源流關係。",
+    "question": "內觀是什麼？",
+    "definition": "內觀是巴利語 vipassanā 的漢譯，由 vi（分別、透徹）與 passanā（看見）組成，指如實觀見身心現象的生起與滅去。經典中觀常與止並提，「觀」的具體操作內容即是四念處。",
+    "sections": [
+      {
+        "heading": "vipassanā 這個詞：分別地、透徹地看見",
+        "paragraphs": [
+          "「內觀」是巴利語 vipassanā 的意譯，古來音譯作「毗婆舍那」。這個詞由前綴 vi-（分別、各別、透徹）與 passanā（看見，源自動詞 passati「看」）組成，字面義是「分別地看見」「透徹地看見」——不是往內看某個神祕的東西，而是把平常籠統帶過的身心經驗，一項一項地、如其實際地看清楚。",
+          "因此，vipassanā 的核心語義是一種「看的品質」：如實（yathābhūta）地觀察當下的身心現象，看見它們實際上如何生起、如何滅去，而不是停留在概念與想像上。漢譯傳統以一個「觀」字對譯，正是取其「觀照、觀察」之義；「內觀」則是現代通行的譯法，強調所觀的對象是自身的身心經驗。",
+          "在經典的用語習慣中，vipassanā（觀）常與 samatha（止，心的安定與專注）成對出現：止培養定，觀培養慧，兩者相輔相成。理解這一點，是理解「內觀」在原典脈絡中位置的第一步。"
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "內觀在經典中不是一個獨立法門的名字",
+        "paragraphs": [
+          "一個常見的誤會，是把「內觀」當成佛陀所教的某一個特定法門的專名。就巴利原典的用語而言，vipassanā 更接近一個功能性的名稱——指修行中「觀」的那一面，與「止」相對——而不是一套獨立編排的技術名稱。經典中真正承載「觀」的具體操作內容的，是四念處：對身、受、心、法四個面向的持續隨觀。",
+          "《念處經》（MN10）開宗明義，把四念處稱為導向清淨與涅槃的「一乘道」，並以定型句給出操作總綱：於身隨觀身、於受隨觀受、於心隨觀心、於法隨觀法而住，精勤、正知、具念，捨除對世間的貪憂。這裡的「隨觀」（anupassanā）與 vipassanā 出自同一個動詞詞根 passati（看見）——「觀」的工夫，就落實在這四種持續的看見之中。",
+          "須如實說明的是：在本頁所依據的 MN10 與 MN118 經文段落中，vipassanā 一詞本身並未出現。中部這兩部經是以「隨觀」與觀生滅的定型句，呈現「觀」的實際內容；後世（包括註釋書傳統與現代諸禪修體系）談「修內觀」，所指的操作核心即源於此。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "《念處經》對四念處的總定位："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "四念處的操作總綱——「觀」落實為四種隨觀："
+          }
+        ]
+      },
+      {
+        "heading": "觀什麼？觀生滅",
+        "paragraphs": [
+          "如果要用經文自己的話回答「內觀到底在觀什麼」，答案最集中地出現在《念處經》每一節都重複的一段定型句：修行者於身（受、心、法亦然）「隨觀生起之法而住，隨觀滅去之法而住，隨觀生滅之法而住」。觀的對象不是某個特殊的境界，而是當下現象的生起與滅去本身——也就是無常的直接呈現。",
+          "同一段定型句接著說：念只是為了「了知與念」的程度而現前，修行者「不依附而安住，對世間任何事物不執取」。這交代了觀生滅的目的：不是為了獲得什麼，而是在如實看見中鬆開執取。",
+          "《入出息念經》（MN118）從呼吸入手，同樣收攏到這裡：十六個步驟的最後一組四法，是隨觀無常、隨觀離欲、隨觀滅、隨觀捨棄。以安定的心就著呼吸與身心現象直接看見無常，進而導向離欲、滅與捨——這正是「觀」在一個具體修法中的完整展開。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "lead": "《念處經》的觀生滅定型句（以身念處為例）："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "lead": "《入出息念經》十六勝行的最後一組——觀的四個面向："
+          }
+        ]
+      },
+      {
+        "heading": "觀不孤起：與念、定的關係",
+        "paragraphs": [
+          "在經典的次第中，「觀」不是一個可以單獨抽出來操作的動作，它以念（sati，持續不忘失的覺知）為前提，並與定（samādhi）相互增上。《入出息念經》給出一條清楚的因果鏈：入出息念修習多修習，能令四念處圓滿；四念處圓滿七覺支；七覺支圓滿明與解脫。觀慧（明）是這條鏈的成熟果實，而不是起點的技巧。",
+          "同一部經還有一句直接的提醒：「我不對失念、不正知者說入出息念。」失去念與正知，觀就無從談起。這也解釋了為什麼經典總是把止與觀放在一起講：安定而明淨的心，才看得見生滅的細節。",
+          "因此，就原典而言，「修內觀」最如實的理解是：以戒為基礎，培養念與定，依四念處持續隨觀身心現象的生滅，導向離欲與解脫。任何時代、任何形式的內觀教學，其經典的根都在這裡。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:15.1", "mn118:15.2", "mn118:15.3", "mn118:15.4"],
+            "lead": "《入出息念經》的修行因果鏈："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:26.6"],
+            "lead": "觀以念與正知為前提："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "今日大眾熟悉的「內觀課程」，多源自十九世紀末以降緬甸的內觀復興運動。雷迪西亞多（Ledi Sayadaw）推動在家眾學習教理與禪修，其法脈經烏巴慶（U Ba Khin）傳至葛印卡（S. N. Goenka），發展出以觀察全身感受為特色、在全球廣設中心的十日課程系統。另一主要法脈出自馬哈希西亞多（Mahasi Sayadaw），以觀照腹部起伏並在心中標記為方法，深刻影響東南亞與西方的內觀禪修中心。這些現代體系皆自承以四念處為依據，於入手處與方法編排上各有抉擇。本站依巴利原典呈現「觀」的原貌，供對照參考，不評騭高下。",
+    "faq": [
+      {
+        "q": "內觀和禪修、打坐是一樣的嗎？",
+        "a": "不完全一樣。「打坐」指的是坐的姿勢；「禪修」（bhāvanā，修習）是廣義的心的培育。在經典的分類中，修習大分為止（samatha，培養心的安定與專注）與觀（vipassanā，培養如實看見的智慧）兩面。內觀是禪修中「觀」的那一面，而非禪修的同義詞；經典中止與觀相輔相成，並不對立。"
+      },
+      {
+        "q": "內觀一定要參加十日課程嗎？",
+        "a": "十日課程是現代內觀運動發展出的一種課程形式，不是經典本身規定的修學條件。就巴利原典而言，「觀」的方法就是四念處：《念處經》（MN10）給出的條件是前往安靜處、安立正念，然後精勤、正知、具念地隨觀身、受、心、法。想依經典了解具體怎麼修，可參考本站的四念處修法頁。課程與自修各有因緣，經典的方法本身對兩者都開放。"
+      },
+      {
+        "q": "內觀和正念是什麼關係？",
+        "a": "正念（sati）是持續、不忘失的覺知，是觀得以進行的基礎；內觀（vipassanā）則是在這個基礎上生起的如實看見——特別是看見現象的生起與滅去。《入出息念經》（MN118）描述這個次第：念現前而不忘失，繼而以慧審察諸法。可以說：正念是「持續地覺知」，內觀是「看見了什麼」；沒有念，觀無從生起。"
+      },
+      {
+        "q": "內觀危險嗎？",
+        "a": "就經典的呈現而言，觀從不孤立進行：它以戒為基礎、與止並行，修行的次第本身就包含喜、輕安、樂、定等身心安定的環節，並以捨（平等心）貫穿。經文也提醒，這條路以念與正知為前提。就常識而言，任何密集禪修對於有特定身心狀況的人，宜在合格指導下循序進行——這是一般性的提醒，不是醫療建議。"
+      }
+    ],
+    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
+    "related_suttas": ["mn10", "mn118"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "Vipassana (vipassanā)",
+    "seo_title": "What Does Vipassana Mean? The Original Sense of vipassanā in the Pali Canon",
+    "seo_description": "Vipassana is best known today through ten-day retreats, but the word itself is older and simpler. Vipassanā combines vi- (distinctly, thoroughly) and passanā (seeing): seeing things as they are, especially their arising and passing. This page traces the term's original meaning in the Pali suttas — MN 10 and MN 118 — and how modern vipassana courses relate to that source.",
+    "question": "What does vipassana mean?",
+    "definition": "Vipassanā is a Pali word combining vi- (distinctly, thoroughly) and passanā (seeing): clear, direct seeing of body and mind as they actually are — above all, seeing their arising and passing away. In the suttas it is paired with samatha (calm), and its practical content is the four foundations of mindfulness.",
+    "sections": [
+      {
+        "heading": "The Word Itself: Seeing Distinctly",
+        "paragraphs": [
+          "Vipassanā is built from the prefix vi- (apart, distinctly, thoroughly) and passanā (seeing, from the verb passati, 'to see'). Literally, it is 'seeing distinctly' or 'seeing through' — not gazing inward at something hidden or mystical, but taking the experience of body and mind, usually passed over in a blur, and seeing each part of it clearly, as it actually is.",
+          "The heart of the word is therefore a quality of seeing: observing present experience as it really is (yathābhūta), watching how phenomena actually arise and how they pass away, rather than settling for concepts and assumptions about them. Standard English renderings include 'insight' and 'clear seeing'; the Chinese Buddhist tradition translated it with a single character meaning 'contemplation' or 'observation.'",
+          "In the idiom of the suttas, vipassanā regularly appears paired with samatha — calm, the settled stability of the mind. Calm cultivates concentration; insight cultivates wisdom; the two support each other. Keeping this pairing in view is the first step to locating 'vipassana' correctly in its original context."
+        ],
+        "quotes": []
+      },
+      {
+        "heading": "In the Suttas, Vipassana Is Not the Name of a Separate Technique",
+        "paragraphs": [
+          "A common assumption is that 'vipassana' names one specific meditation technique taught by the Buddha. In the usage of the Pali suttas, however, vipassanā functions more like the name of a dimension of practice — the 'seeing' side, paired with the 'calming' side — than the title of a standalone system. What actually carries the working content of insight in the suttas is satipaṭṭhāna: sustained contemplation of body, feelings, mind, and dhammas.",
+          "The Satipaṭṭhānasutta (MN 10) opens by calling the four foundations of mindfulness the direct path to purification and Nibbāna, and gives the master formula: one dwells contemplating the body in the body, feelings in feelings, mind in mind, dhammas in dhammas — ardent, clearly comprehending, mindful, having put aside covetousness and displeasure for the world. The word for 'contemplating' here, anupassī, comes from the same verb of seeing (passati) as vipassanā: the work of insight is carried out precisely in these four kinds of sustained seeing.",
+          "One point of honesty: the word vipassanā itself does not occur in the passages of MN 10 and MN 118 on which this page draws. These two discourses present the content of insight through the language of contemplation (anupassanā) and the refrain on arising and passing. When later tradition — commentarial and modern alike — speaks of 'practicing vipassana,' the operational core it points to originates here."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:2.1"],
+            "lead": "MN 10's framing of the four foundations of mindfulness:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "lead": "The master formula — insight carried out as four contemplations:"
+          }
+        ]
+      },
+      {
+        "heading": "Seeing What? Arising and Passing Away",
+        "paragraphs": [
+          "If we let the suttas answer the question 'what does vipassana actually observe?', the most concentrated answer is a refrain repeated at the close of every section of MN 10: the practitioner 'dwells contemplating the nature of arising in the body, dwells contemplating the nature of vanishing, dwells contemplating the nature of both arising and vanishing' — and likewise for feelings, mind, and dhammas. The object of insight is not a special state but the arising and passing of present phenomena themselves: impermanence, directly witnessed.",
+          "The same refrain continues: mindfulness is established just to the extent needed for knowledge and awareness, and the practitioner 'dwells independent, not clinging to anything in the world.' That states the purpose of watching arising and passing: not to gain something, but to release clinging through seeing things as they are.",
+          "The Ānāpānassatisutta (MN 118) arrives at the same point starting from the breath: the final tetrad of its sixteen steps is contemplating impermanence, dispassion, cessation, and relinquishment. With a settled mind, one looks directly into the impermanence of breath and experience, inclining toward dispassion, cessation, and letting go — insight fully unfolded within one concrete practice."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "lead": "MN 10's refrain on arising and passing (contemplation of the body):"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "lead": "The fourth tetrad of MN 118 — the four contemplations of insight:"
+          }
+        ]
+      },
+      {
+        "heading": "Insight Does Not Stand Alone: Mindfulness and Concentration",
+        "paragraphs": [
+          "In the graduated path of the suttas, insight is not a maneuver that can be extracted and performed on its own. It presupposes mindfulness (sati, sustained unforgetful awareness) and grows together with concentration (samādhi). MN 118 lays out an explicit causal chain: mindfulness of breathing, developed and cultivated, fulfills the four foundations of mindfulness; these fulfill the seven awakening factors; and these fulfill true knowledge and liberation. Insight-knowledge is the ripened fruit of this chain, not a starting technique.",
+          "The same discourse adds a pointed remark: 'I do not speak of mindfulness of breathing for one who is forgetful, who lacks clear comprehension.' Without mindfulness and clear comprehension, there is no insight to speak of. This is also why the suttas keep calm and insight together: only a settled, lucid mind sees the detail of arising and passing.",
+          "In terms of the source texts, then, the most accurate reading of 'practicing vipassana' is this: grounded in virtue, cultivating mindfulness and concentration, one sustains contemplation of body and mind through the four foundations of mindfulness, watching their arising and passing, inclining toward dispassion and release. Every form of vipassana teaching, in any era, has its canonical root here."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:15.1", "mn118:15.2", "mn118:15.3", "mn118:15.4"],
+            "lead": "MN 118's causal chain of practice:"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": ["mn118:26.6"],
+            "lead": "Insight presupposes mindfulness and clear comprehension:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "The 'vipassana courses' most people encounter today descend from the Burmese insight-meditation revival that began in the late nineteenth century. Ledi Sayadaw (1846–1923) encouraged lay people to study doctrine and meditate; his lineage passed through U Ba Khin (1899–1971) to S. N. Goenka (1924–2013), whose ten-day course system, characterized by systematic scanning of bodily sensations, now operates centers worldwide. A second major lineage stems from Mahasi Sayadaw (1904–1982), whose method of observing the rise and fall of the abdomen with mental noting shaped insight-meditation centers across South and Southeast Asia and deeply influenced the Western insight meditation movement. All of these modern systems present themselves as grounded in the four foundations of mindfulness, while making their own choices of entry point and method. This site presents the canonical picture of insight as it stands in the Pali texts, for comparison and reference, without ranking one lineage above another.",
+    "faq": [
+      {
+        "q": "Is vipassana the same thing as meditation?",
+        "a": "Not exactly. 'Meditation' in the suttas' terms is bhāvanā — cultivation of the mind in general — and it has two complementary dimensions: samatha (calm, cultivating concentration) and vipassanā (insight, cultivating wisdom that sees things as they are). Vipassana is the seeing dimension of meditation, not a synonym for meditation itself; in the canon the two dimensions support each other rather than compete."
+      },
+      {
+        "q": "Do I have to attend a ten-day course to practice vipassana?",
+        "a": "The ten-day course is one modern format developed by the contemporary vipassana movement, not a requirement found in the canon. In the Pali suttas, the method of insight is satipaṭṭhāna: MN 10's instructions are to go to a quiet place, establish mindfulness, and contemplate body, feelings, mind, and dhammas — ardent, clearly comprehending, mindful. See this site's page on satipatthana practice for the canonical method in detail. Courses and self-directed practice each have their place; the canonical method is open to both."
+      },
+      {
+        "q": "What is the relationship between vipassana and mindfulness?",
+        "a": "Mindfulness (sati) is sustained, unforgetful awareness — the foundation on which insight operates. Vipassanā is what arises on that foundation: seeing things as they actually are, above all their arising and passing away. MN 118 describes the sequence: mindfulness becomes established and unmuddled, and then one investigates phenomena with wisdom. Roughly: mindfulness is the continuous awareness; vipassana is what that awareness comes to see. Without mindfulness, insight has nothing to stand on."
+      },
+      {
+        "q": "Is vipassana dangerous?",
+        "a": "As the suttas present it, insight never proceeds in isolation: it rests on virtue, runs alongside calm, and the path itself passes through stages of ease — rapture, tranquility, happiness, concentration — held together by equanimity. The texts also make mindfulness and clear comprehension prerequisites throughout. As a matter of common sense, intensive retreat practice is best undertaken gradually and with qualified guidance for anyone with particular physical or mental health conditions — a general observation, not medical advice."
+      }
+    ],
+    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
+    "related_suttas": ["mn10", "mn118"],
+    "related_lexicon": []
+  }
+}

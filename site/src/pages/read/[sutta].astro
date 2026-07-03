@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import StudyPage from '../../components/study/StudyPage';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta } from '../../lib/data';
+import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle } from '../../lib/data';
 
 export function getStaticPaths() {
   const suttas = listSuttas();
@@ -94,7 +94,7 @@ if (dateModified) {
 ---
 
 <Base
-  title={fixture.sutta.title_zh}
+  title={suttaSeoTitle(fixture, 'zh')}
   description={description}
   crumbs={crumbs}
   preview={preview}

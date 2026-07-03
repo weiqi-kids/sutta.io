@@ -1,0 +1,190 @@
+---
+// agama.astro — 中阿含經白話對照總覽（SEO 目標詞「中阿含經白話」，SEO_KEYWORDS #2）
+import Base from '../layouts/Base.astro';
+import { getStrings } from '../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listSuttas, getSutta, agamaRefOf, suttaIsComplete } from '../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+
+interface Row {
+  id: string;
+  n: number;
+  title_pali: string;
+  title_zh: string;
+  agamaRef: string | null;
+  complete: boolean;
+}
+const rows: Row[] = [];
+for (const s of listSuttas()) {
+  const fx = getSutta(s.id);
+  if (!fx) continue;
+  rows.push({
+    id: s.id,
+    n: parseInt(s.id.replace(/\D/g, ''), 10),
+    title_pali: s.title_pali,
+    title_zh: s.title_zh,
+    agamaRef: agamaRefOf(fx),
+    complete: suttaIsComplete(fx),
+  });
+}
+const done = rows.filter((r) => r.complete);
+const pending = rows.filter((r) => !r.complete);
+
+const title = `中阿含經白話對照總覽｜已完成 ${done.length} 部逐段對讀`;
+const description = `中阿含經（大正藏 T26）與巴利中部尼柯耶的白話對照總覽：巴利原文逐字解析、現代白話翻譯、中阿含原文段落並排。已完成 ${done.length} 部，每日自動增補，全部可免費線上閱讀。`;
+const crumbs = [{ label: t.nav.agama }];
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description,
+  url: 'https://sutta.io/agama/',
+  inLanguage: 'zh-Hant',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: done.length,
+    itemListElement: done.map((r, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `${r.title_zh}（${r.title_pali}）`,
+      url: `https://sutta.io/read/${r.id}/`,
+    })),
+  },
+};
+---
+
+<Base title={title} description={description} crumbs={crumbs} extraSchema={itemListSchema}>
+  <h1>中阿含經白話對照總覽</h1>
+  <p class="intro">
+    《中阿含經》（大正藏 T26，東晉僧伽提婆譯，說一切有部誦本）與巴利《中部尼柯耶》（Majjhima
+    Nikāya）是同源異流的兩個古代傳本，多數經有段落級對應。本站以巴利原文為骨幹逐字解析，
+    生成現代白話（AI 依真實語法生成、明確標示），並將中阿含原文段落並排對照——
+    讓你同時讀到「巴利怎麼說、古代漢譯怎麼譯、白話是什麼意思」。
+  </p>
+  <p class="calm-note">
+    白話由 AI 依巴利語法與 <a href="https://digitalpalidictionary.github.io/" target="_blank" rel="noopener">DPD 字典</a>真實資料生成、逐段標示依據；中阿含原文取自
+    <a href="https://www.cbeta.org/" target="_blank" rel="noopener">CBETA</a>。詳見<a href={url('/about')}>關於本站</a>。
+  </p>
+
+  <h2>已完成白話對照（{done.length} 部）</h2>
+  <table class="agama-table">
+    <thead>
+      <tr>
+        <th>中部</th>
+        <th>巴利經名</th>
+        <th>中文經名</th>
+        <th>中阿含對應</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        done.map((r) => (
+          <tr>
+            <td class="data">MN {r.n}</td>
+            <td>
+              <a href={url(`/read/${r.id}`)} lang="pi">
+                {r.title_pali}
+              </a>
+            </td>
+            <td>
+              <a href={url(`/read/${r.id}`)}>{r.title_zh}</a>
+            </td>
+            <td>{r.agamaRef ?? '—（無對應傳本）'}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+  {
+    pending.length > 0 && (
+      <>
+        <h2>原文已備、白話製作中（{pending.length} 部）</h2>
+        <p class="calm-note">以下各經已可閱讀巴利原文逐字解析與中阿含對照，白話陸續補齊。</p>
+        <p class="pending-list">
+          {pending.map((r, i) => (
+            <Fragment>
+              {i > 0 && '、'}
+              <a href={url(`/read/${r.id}`)}>
+                {r.title_zh}（MN {r.n}）
+              </a>
+            </Fragment>
+          ))}
+        </p>
+      </>
+    )
+  }
+
+  <h2>常見問題</h2>
+  <dl class="faq">
+    <dt>中阿含經和中部尼柯耶是什麼關係？</dt>
+    <dd>
+      兩者是同一批早期經典在不同部派的誦本：巴利《中部》屬上座部（152 經），漢譯《中阿含》屬說一切有部（222 經），
+      大量經文互有對應但編次與細節不同。並排對讀可以看出哪些內容是共同核心、哪些是傳本差異。
+    </dd>
+    <dt>這裡的白話翻譯可靠嗎？</dt>
+    <dd>
+      白話由 AI 依據巴利原文的真實語法資料（DPD 字典的字根、詞形）逐段生成，每段標明依據、可展開巴利逐字檢驗，
+      並明確標示為 AI 內容——與正典原文在視覺上嚴格區分。發現錯誤可透過頁尾「回報勘誤」回報。
+    </dd>
+    <dt>可以免費使用嗎？</dt>
+    <dd>可以。本站為非商業獨立研經工具，內容依 CC BY-NC-SA 4.0 開放。</dd>
+  </dl>
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-3);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin: var(--space-6) 0 var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .agama-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .agama-table th,
+  .agama-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+  }
+  .agama-table th {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    font-weight: 600;
+  }
+  .agama-table a {
+    text-decoration: none;
+  }
+  .agama-table a:hover {
+    color: var(--thread);
+  }
+  .pending-list {
+    font-size: var(--text-sm);
+    line-height: 1.9;
+  }
+  .pending-list a {
+    text-decoration: none;
+    color: var(--ink-soft);
+  }
+  .pending-list a:hover {
+    color: var(--thread);
+  }
+  .faq dt {
+    font-weight: 600;
+    margin-top: var(--space-4);
+  }
+  .faq dd {
+    margin: var(--space-2) 0 0;
+    color: var(--ink-soft);
+  }
+</style>

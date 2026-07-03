@@ -1,0 +1,416 @@
+{
+  "slug": "anatta",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "無我（anattā）",
+    "seo_title": "無我是什麼意思？佛教「無我」的原典解說（非斷滅論）",
+    "seo_description": "「無我」是佛教三相之一，但它不是說「你不存在」。本頁依巴利《蛇喻經》（MN 22）原文逐段解說：佛陀用什麼公式檢驗「我」、為什麼無常者不堪稱為我、「不是你們的，捨棄它」在教什麼，以及佛陀被指控為斷滅論者時如何親自回應——「我先前與現在，宣說的只是苦與苦的止息」。並如實呈現「無我與非我」的現代詮釋討論。",
+    "question": "佛教說的「無我」是什麼意思？",
+    "definition": "無我（anattā）指：色、受、想、行、識等一切可經驗的現象皆無常、會變易，因此不應被看作「這是我的、這就是我、這是我的自我」；經文以這個檢驗鬆開對五蘊的執取，導向苦的止息，而非主張「人不存在」。",
+    "sections": [
+      {
+        "heading": "「無我」這個詞在說什麼",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:15.1",
+              "mn22:15.2",
+              "mn22:15.3"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "巴利語 anattā 由否定詞頭 an- 加上 attā（我、自我；對應梵語 ātman）構成，字面即「非我」「無我」。attā 在當時印度思想中指常住、不變、自主的自我。值得注意的是，在《蛇喻經》裡佛陀並不先給抽象定義，而是指出「六種見的立足點」——未受教的凡夫會在哪些地方把經驗抓成「我」：色、受、想、諸行、一切所見所聞所覺所識，乃至「世界即自我、死後常住不變」這類見解本身。「無我」的討論，從一開始就是對這種抓取方式的檢驗，而不是一條關於「人存不存在」的形上學宣言。"
+        ]
+      },
+      {
+        "heading": "檢驗「我」的公式：六見處與兩種觀看方式",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:15.4",
+              "mn22:15.5",
+              "mn22:15.6",
+              "mn22:15.7"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:16.2",
+              "mn22:16.3",
+              "mn22:16.4",
+              "mn22:16.5"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "經文給出一組固定公式。未受教的凡夫對色、受、想、諸行，乃至一切所見所聞所覺所識、以及「世界即自我，死後我將常住、恆久、永恆、不變」的見解本身，都觀看為「此是我的、這就是我、這是我的自我」（etaṁ mama, esohamasmi, eso me attā）。多聞的聖弟子則對同樣的六處，逐一觀看為「此非我的、此非我、此非我的自我」。整段經文是同一份清單、兩種觀看方式的對照：差別不在世界提供了什麼，而在於是否把它抓成「我」。這個三重否定公式，就是巴利經典表述「無我」最核心的句式。"
+        ]
+      },
+      {
+        "heading": "為什麼不能當作「我」：無常、苦、變易的檢驗",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:26.2",
+              "mn22:26.3",
+              "mn22:26.4",
+              "mn22:26.5"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:26.6",
+              "mn22:26.7",
+              "mn22:26.8"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "佛陀不是要弟子把「無我」當口號接受，而是用問答一步步檢驗。他問：色是常還是無常？——無常。無常的是苦還是樂？——苦。那麼，無常、苦、本質上會變易的東西，適合看作「這是我的、我就是這個、這是我的自我」嗎？——不適合。同樣的問答依序用於受、想、行、識。接著經文把範圍推到極致：任何色（乃至識），無論過去、未來、現在，內在、外在，粗、細，劣、勝，遠、近，一切都應以正確的智慧如實看見：「這不是我的，這不是我，這不是我的自我。」論證的槓桿是無常：凡是留不住、會變易的，就不符合「我」這個概念所要求的常住與自主。"
+        ]
+      },
+      {
+        "heading": "「不是你們的，捨棄它」",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:40.1",
+              "mn22:40.2"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:41.16",
+              "mn22:41.17",
+              "mn22:41.18",
+              "mn22:41.19"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "檢驗之後是著名的教學段。佛陀說：「凡不屬於你們的，捨棄它；捨棄了，將長久帶來利益與安樂。」什麼不屬於你們？——色、受、想、行、識。接著他用眼前的場景作比喻：如果有人把祇陀林裡的草木枝葉拿走、燒掉、隨意處置，你們會覺得「他在拿走我們、處置我們」嗎？比丘們答：不會——「因為那不是自我，也不是屬於自我的。」佛陀說：五蘊也正是如此。這一段把「無我」從理論轉成態度：對五蘊的關係，可以像對林中草葉一樣——用而不據為「我」。"
+        ]
+      },
+      {
+        "heading": "無我不是斷滅：「我宣說的只是苦與苦的止息」",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:37.2",
+              "mn22:37.3",
+              "mn22:37.4",
+              "mn22:37.5"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:20.6",
+              "mn22:20.7",
+              "mn22:20.8",
+              "mn22:20.9"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "《蛇喻經》直接記載：有些沙門婆羅門指控佛陀是「斷滅論者」，宣說眾生的斷絕、消滅。佛陀明確否認，說這是「不實、空洞、謊言」的誣謗，並給出他對自己教法最簡潔的概括：「先前以及現在，我所宣說的只是苦與苦的止息。」經文也預先描寫了誤解無我時的心理反應：有人聽到止息渴愛、趣向涅槃之法，便驚恐「我將被滅除！我將不存在！」而悲傷捶胸——經文把這種恐慌歸因於先抱著「有個常住自我」的見解，才會把教法聽成「我要被消滅」。換言之，「斷滅」的焦慮本身建立在無我所要檢驗的那個前提上。"
+        ]
+      },
+      {
+        "heading": "「無我」還是「非我」？一場現代詮釋討論",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:25.5",
+              "mn22:25.6",
+              "mn22:25.7"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:23.1"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "現代讀者常爭論：anattā 是形上學命題「沒有我」（無我），還是修行策略「不把任何東西當作我」（非我）？帖・尼沙羅比丘（Ṭhānissaro Bhikkhu）主張後者——「非我」是為了放下執取而採取的觀看策略，佛陀從未直接回答「我存不存在」；主流學界與傳統注釋則多讀為教義——經典的檢驗窮盡了一切可能的候選者，結論是找不到「我」。《蛇喻經》兩邊都提供了文本：一方面，佛陀明說「自我與我所，就真實、確實而言均不可得」，並稱「世界即自我、死後常住」之見是「徹頭徹尾的愚人之法」；另一方面，全經的重心確實落在捨棄執取——連法都如筏應捨。兩種讀法如何權衡，本頁不做裁決，讀者可自行對照經文。"
+        ]
+      },
+      {
+        "heading": "為什麼要教無我：從厭離到解脫，法如筏",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:28.1",
+              "mn22:29.1",
+              "mn22:29.2"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:13.26",
+              "mn22:14.1"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "無我的檢驗有明確的實踐目的。經文說：如此觀察的多聞聖弟子，對色、受、想、行、識厭離；厭離則離染，離染而解脫，解脫時生起「已解脫」之智——「生已盡，梵行已立，應作已作」。這正呼應佛陀的自我概括：只教苦與苦的止息。也因此，本經前段的筏喻設下了整部經的基調：法如筏，是為了渡越而說，不是為了執取——「對了知筏喻之法者，法尚應捨，何況非法。」無我不是一個要抱緊的新見解，而是把見解也放進去檢驗的工具。"
+        ]
+      }
+    ],
+    "mahayana_note": "後世佛教對「無我」有進一步的開展。部派與大乘論書把無我分為兩層：「人無我」（補特伽羅無我，即本頁所述五蘊非我）與「法無我」（一切法皆無自性）；大乘中觀學派以「空」（śūnyatā）把否定推及一切現象，視為無我教義的徹底化。另一方面，如來藏與佛性思想（近代學者或稱「真常」一系）以肯定語言說眾生本具常住佛性，其與無我教義的關係歷來是佛教內部的重要議題——有視之為引導眾生的方便說，也有視之為了義說而以「真我」會通。這些都是對原典的後世詮釋與發展；本頁僅呈現巴利經文中的用法，各系詮釋之間不做裁決。",
+    "faq": [
+      {
+        "q": "「無我」和「非我」有什麼不同？",
+        "a": "巴利語都是 anattā，差別在中文詮釋的取向：「無我」偏向存有論的讀法（沒有一個我存在），「非我」偏向策略性的讀法（不把任何經驗看作我）。這是現代詮釋爭論，不是兩個不同的巴利詞。《蛇喻經》中，「自我與我所真實不可得」一句常被引為「無我」讀法的依據；「不是你們的，捨棄它」與筏喻則常被引為「非我」讀法的依據。"
+      },
+      {
+        "q": "無我是說「我不存在」嗎？",
+        "a": "經文的表述比這更精確：它逐一檢驗色、受、想、行、識與一切經驗，指出無常、會變易者不應看作「這是我的、這就是我、這是我的自我」。《蛇喻經》同時記載，佛陀明確否認自己是宣說眾生斷滅的「斷滅論者」——他說自己只宣說「苦與苦的止息」。所以無我否定的是在五蘊中可以找到常住自主的「我」，而不是否定經驗、行為與修行的相續。"
+      },
+      {
+        "q": "無我跟輪迴矛盾嗎？",
+        "a": "「若無我，是誰在輪迴？」是佛教史上自古就被提出的問題。經典傳統的一般回答是緣起：身心過程依渴愛與業的條件相續流轉，不需要一個不變的主體來承載——如同《蛇喻經》所示，佛陀同時拒絕「死後常住不變的自我」與「眾生斷滅」兩端。當然，這個回答是否徹底消解疑難，古今論者理解不一；本站如實並陳，不做裁決。"
+      },
+      {
+        "q": "「無我」出自哪部經？",
+        "a": "無我遍布整部巴利三藏，是「三相」（無常、苦、無我）之一。最著名的專說是《無我相經》（Anattalakkhaṇasutta, SN 22.59），傳統上視為佛陀對最初五比丘的第二次說法。本頁依據的《蛇喻經》（MN 22）則完整保存了六見處的檢驗公式、「不是你們的，捨棄它」的教學，以及佛陀對斷滅論指控的回應，是理解無我教義脈絡最重要的經典之一。"
+      },
+      {
+        "q": "照見無我之後會發生什麼？",
+        "a": "《蛇喻經》給出明確的次第：如此觀察的多聞聖弟子，對色、受、想、行、識厭離；厭離則離染，離染而解脫；解脫時生起「已解脫」之智，了知「生已盡，梵行已立，應作已作」。經文並描述這樣的比丘捨斷了無明、渴愛與我慢，「已放下重擔、已解脫纏縛」。"
+      }
+    ],
+    "related_topics": [
+      "satipatthana-practice"
+    ],
+    "related_suttas": [
+      "mn22"
+    ],
+    "related_lexicon": [
+      "atta",
+      "anicca",
+      "upadana"
+    ]
+  },
+  "en": {
+    "title": "Non-self (anattā)",
+    "seo_title": "What Does Anatta Mean? Non-Self in Early Buddhism, from the Suttas",
+    "seo_description": "Anatta (non-self) does not mean \"you don't exist.\" Based on the Pali Snake Simile Sutta (MN 22): how the Buddha examined the \"self\", the formula \"this is not mine\", why anatta is not annihilationism, and the modern \"no-self vs. not-self\" debate.",
+    "question": "What does \"anatta\" (non-self) mean in Buddhism?",
+    "definition": "Anattā (non-self) is the finding that everything one can experience—form, feeling, perception, volitional formations, consciousness—is impermanent and subject to change, and therefore should not be regarded as \"this is mine, this I am, this is my self.\" The teaching loosens clinging to the five aggregates and aims at the cessation of suffering; it is not the claim that persons do not exist.",
+    "sections": [
+      {
+        "heading": "What the word is saying",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:15.1",
+              "mn22:15.2",
+              "mn22:15.3"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "The Pali word anattā combines the negative prefix an- with attā (\"self\"; cognate with Sanskrit ātman), giving \"non-self\" or \"not-self.\" In the Indian thought of the Buddha's day, attā denoted a permanent, unchanging, autonomous self. Notably, in the Snake Simile Sutta (MN 22) the Buddha does not open with an abstract definition. He lists six \"standpoints for views\"—the places where an uninstructed person seizes experience as \"me\": form, feeling, perception, volitional formations, everything seen, heard, sensed, and cognized, and even the view \"the world is the self; after death I shall be permanent.\" From the outset, anattā is an examination of this act of seizing, not a metaphysical proclamation about whether persons exist."
+        ]
+      },
+      {
+        "heading": "The formula: six standpoints, two ways of regarding",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:15.4",
+              "mn22:15.5",
+              "mn22:15.6",
+              "mn22:15.7"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:16.2",
+              "mn22:16.3",
+              "mn22:16.4",
+              "mn22:16.5"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "The sutta works with a fixed formula. The uninstructed worldling regards form, feeling, perception, volitional formations, all that is seen, heard, sensed, and cognized—and even the view \"the world is the self; after death I shall be permanent, everlasting, unchanging\"—as \"this is mine, this I am, this is my self\" (etaṁ mama, esohamasmi, eso me attā). The instructed noble disciple regards the very same six standpoints as \"this is not mine, this I am not, this is not my self.\" The passage sets one list against two ways of looking: the difference lies not in what the world presents, but in whether it is grasped as \"me.\" This threefold negation is the core sentence pattern by which the Pali suttas express non-self."
+        ]
+      },
+      {
+        "heading": "Why none of it qualifies as \"self\": the impermanence test",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:26.2",
+              "mn22:26.3",
+              "mn22:26.4",
+              "mn22:26.5"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:26.6",
+              "mn22:26.7",
+              "mn22:26.8"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "The Buddha does not ask his students to accept non-self as a slogan; he tests it step by step. Is form permanent or impermanent?—Impermanent. Is what is impermanent suffering or happiness?—Suffering. And is what is impermanent, suffering, and subject to change fit to be regarded as \"this is mine, this I am, this is my self\"?—No. The same catechism is applied to feeling, perception, volitional formations, and consciousness. The sutta then generalizes: any form (and so on through consciousness)—past, future, or present, internal or external, coarse or subtle, inferior or superior, far or near—should be seen with right wisdom as it really is: \"this is not mine, this I am not, this is not my self.\" The lever of the argument is impermanence: whatever cannot be held and must change fails the very definition of a permanent, autonomous self."
+        ]
+      },
+      {
+        "heading": "\"It is not yours: let it go\"",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:40.1",
+              "mn22:40.2"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:41.16",
+              "mn22:41.17",
+              "mn22:41.18",
+              "mn22:41.19"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "After the examination comes the famous teaching passage. The Buddha says: \"Whatever is not yours, abandon it; when you have abandoned it, that will be for your welfare and happiness for a long time.\" And what is not yours? Form, feeling, perception, volitional formations, consciousness. He then draws on the scene at hand: if people carried off, burned, or did what they liked with the grass, sticks, branches, and leaves in Jeta's Grove, would you think, \"They are carrying us off, doing what they like with us\"? No, the monks reply—\"because that is neither our self nor what belongs to our self.\" So too, the Buddha says, with the five aggregates. This passage turns non-self from theory into a stance: one can relate to the aggregates as to leaves in the grove—used, but not claimed as \"me.\""
+        ]
+      },
+      {
+        "heading": "Non-self is not annihilation: \"I declare only suffering and its cessation\"",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:37.2",
+              "mn22:37.3",
+              "mn22:37.4",
+              "mn22:37.5"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:20.6",
+              "mn22:20.7",
+              "mn22:20.8",
+              "mn22:20.9"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "MN 22 records directly that some ascetics and brahmins accused the Buddha of being an annihilationist who taught the destruction of an existing being. The Buddha flatly denies it, calling the charge baseless and false, and gives his most compact summary of the teaching: \"Both formerly and now, what I declare is suffering and the cessation of suffering.\" The sutta also anticipates the psychology of misreading non-self: someone hears the Dhamma taught for the stilling of craving and the ending of clinging and panics—\"I will be annihilated! I will not exist!\"—and grieves, beating his breast. The text traces this terror to the prior view of a permanent self: only if one first assumes such a self can the teaching sound like its destruction. The anxiety about annihilation rests on the very premise that non-self examines."
+        ]
+      },
+      {
+        "heading": "\"No-self\" or \"not-self\"? A modern interpretive debate",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:25.5",
+              "mn22:25.6",
+              "mn22:25.7"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:23.1"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "Modern readers often debate whether anattā is a metaphysical thesis (\"there is no self\") or a practical strategy (\"regard nothing as self\"). Ṭhānissaro Bhikkhu argues for the latter: \"not-self\" is a way of looking adopted in order to let go of clinging, and the Buddha never directly answered \"does the self exist?\" Mainstream scholarship and the traditional commentaries generally read it as doctrine: the suttas' examination exhausts every candidate and no self is found. MN 22 supplies texts for both sides. On one hand, the Buddha states that \"a self and what belongs to a self are not apprehended as true and established,\" and calls the view \"the world is the self; after death I shall be permanent\" a \"completely and perfectly foolish teaching.\" On the other, the sutta's whole weight falls on relinquishment—even the Dhamma is a raft to be let go of. This page does not adjudicate between the readings; the passages are here for readers to weigh."
+        ]
+      },
+      {
+        "heading": "Why teach non-self: from disenchantment to release, the Dhamma as a raft",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn22:28.1",
+              "mn22:29.1",
+              "mn22:29.2"
+            ],
+            "sutta": "mn22"
+          },
+          {
+            "segment_ids": [
+              "mn22:13.26",
+              "mn22:14.1"
+            ],
+            "sutta": "mn22"
+          }
+        ],
+        "paragraphs": [
+          "The examination has a stated practical purpose. Seeing in this way, the sutta says, the instructed noble disciple becomes disenchanted with form, feeling, perception, volitional formations, and consciousness; disenchanted, he becomes dispassionate; through dispassion he is liberated; when liberated, the knowledge arises: \"liberated\"—\"birth is ended, the holy life has been lived, what had to be done has been done.\" This matches the Buddha's own summary: he teaches suffering and its cessation. Hence the raft simile earlier in the sutta sets the tone for the whole discourse: the Dhamma is taught \"for crossing over, not for holding on to\"—\"you should abandon even the teachings, how much more so what is contrary to them.\" Non-self is not a new view to cling to, but a tool that puts views themselves under examination."
+        ]
+      }
+    ],
+    "mahayana_note": "Later Buddhist traditions developed the teaching further. Abhidharma and Mahāyāna treatises distinguish two levels: the \"selflessness of persons\" (pudgala-nairātmya, essentially what this page describes—the aggregates are not self) and the \"selflessness of dharmas\" (dharma-nairātmya, that all phenomena lack intrinsic nature). The Madhyamaka school extends the negation to all phenomena as \"emptiness\" (śūnyatā), presenting this as the full working-out of non-self. In another direction, tathāgatagarbha (\"buddha-nature\") thought uses affirmative language of an abiding buddha-nature in all beings; how this relates to non-self has been an important question within Buddhism itself—some traditions treat such language as skillful means, others as definitive and reconcilable with non-self. These are later interpretations and developments; this page presents only the usage found in the Pali text and does not adjudicate among them.",
+    "faq": [
+      {
+        "q": "What is the difference between \"no-self\" and \"not-self\"?",
+        "a": "Both translate the same Pali word, anattā; the difference is interpretive. \"No-self\" reads it ontologically (no self exists); \"not-self\" reads it strategically (regard no experience as self). This is a modern debate, not two different Pali terms. In MN 22, the statement that \"a self and what belongs to a self are not apprehended as true and established\" is often cited for the \"no-self\" reading, while \"it is not yours: let it go\" and the raft simile are often cited for the \"not-self\" reading."
+      },
+      {
+        "q": "Does anatta mean that I don't exist?",
+        "a": "The suttas put it more precisely: they examine form, feeling, perception, volitional formations, consciousness, and all experience, and find that what is impermanent and subject to change should not be regarded as \"this is mine, this I am, this is my self.\" MN 22 also records the Buddha explicitly denying the charge that he taught the annihilation of an existing being—he declares only \"suffering and the cessation of suffering.\" Anatta denies that a permanent, autonomous self can be found in the aggregates; it does not deny the continuity of experience, action, and practice."
+      },
+      {
+        "q": "Doesn't anatta contradict rebirth?",
+        "a": "\"If there is no self, who is reborn?\" is a question raised since ancient times in Buddhist history. The canonical tradition's general answer is dependent origination: mental and physical processes continue, conditioned by craving and kamma, without requiring an unchanging subject to carry them—just as in MN 22 the Buddha rejects both a permanent post-mortem self and the annihilation of a being. Whether this fully dissolves the puzzle has been assessed differently by interpreters ancient and modern; this site presents the positions without adjudicating."
+      },
+      {
+        "q": "Which sutta teaches anatta?",
+        "a": "Non-self runs throughout the Pali Canon as one of the three marks of existence (impermanence, suffering, non-self). The most famous dedicated discourse is the Anattalakkhaṇa Sutta (SN 22.59), traditionally regarded as the Buddha's second sermon to the first five monks. The Snake Simile Sutta (MN 22), on which this page is based, preserves the six-standpoints examination, the \"it is not yours\" teaching, and the Buddha's reply to the annihilationism charge, making it one of the most important texts for understanding non-self in context."
+      },
+      {
+        "q": "What happens when someone sees non-self?",
+        "a": "MN 22 gives an explicit sequence: seeing in this way, the instructed noble disciple becomes disenchanted with form, feeling, perception, volitional formations, and consciousness; disenchantment leads to dispassion, dispassion to liberation, and with liberation comes the knowledge \"liberated\"—\"birth is ended, the holy life has been lived, what had to be done has been done.\" The sutta describes such a monk as having abandoned ignorance, craving, and the conceit \"I am\"—\"the burden lowered, the fetters shed.\""
+      }
+    ],
+    "related_topics": [
+      "satipatthana-practice"
+    ],
+    "related_suttas": [
+      "mn22"
+    ],
+    "related_lexicon": [
+      "atta",
+      "anicca",
+      "upadana"
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "slug": "dependent-origination",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-03",
+  "zh": {
+    "title": "十二因緣（緣起）",
+    "seo_title": "十二因緣是什麼？逐支原典定義完整解說（MN9 正見經）",
+    "seo_description": "十二因緣（緣起）是佛陀對苦如何生起、如何止息的完整說明。本頁依《正見經》（MN9）巴利原文，逐支呈現舍利弗對無明、行、識、名色、六入、觸、受、愛、取、有、生、老死的問答定義，每支皆附集、滅與導向滅之道，並考據「緣起性空」一詞的由來與後世詮釋的性質。",
+    "question": "十二因緣是什麼？",
+    "definition": "十二因緣（緣起）是佛陀對苦的生起與止息的說明：無明、行、識、名色、六入、觸、受、愛、取、有、生、老死十二支環環相扣，前支集起則後支集起，前支滅盡則後支滅盡。",
+    "sections": [
+      {
+        "heading": "緣起是什麼：「此支集起，故彼支集起」",
+        "paragraphs": [
+          "「緣起」是巴利語 paṭiccasamuppāda 的漢譯：paṭicca 意為「緣於、依靠」，samuppāda 意為「生起」，合起來就是「依條件而生起」。它既不是宿命論，也不是造物主式的因果觀，而是指出：任何現象都依特定條件而成立——條件具足，它生起；條件撤除，它止息。苦也不例外。",
+          "在《正見經》（Sammādiṭṭhisutta, MN9）中，這個原理被舍利弗以最樸素的公式一再重複：從生的集起，有老死的集起；從生的滅盡，有老死的滅盡。每一支都是如此——後一支依前一支而立，前一支滅去，後一支便無從生起。整條十二支的鎖鏈，就是這個條件式原理的逐環展開。",
+          "MN9 的場景是舍利弗為比丘們解說「正見」。每講完一輪，比丘們就追問「是否還有另一種方式」，他便再從緣起的下一支切入。對每一支，他都用同一組四個問題來定義：這一支是什麼？它的集起是什麼？它的滅盡是什麼？導向它滅盡的道是什麼？——如實了知這四項，就是正見。這種「每支皆有完整定義」的問答體，正是本經在整部巴利藏中處理十二因緣最獨特的地方。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.9"],
+            "lead": "條件式原理的基本公式，以老死與生為例："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:21.2", "mn9:21.3"],
+            "lead": "對每一支的四重了知，即是正見："
+          }
+        ]
+      },
+      {
+        "heading": "十二支是哪十二支：MN9 的逐支問答架構",
+        "paragraphs": [
+          "十二因緣的十二支，依順觀（由因到果）的順序是：無明（avijjā）→ 行（saṅkhāra）→ 識（viññāṇa）→ 名色（nāmarūpa）→ 六入（六處，saḷāyatana）→ 觸（phassa）→ 受（vedanā）→ 愛（渴愛，taṇhā）→ 取（upādāna）→ 有（bhava）→ 生（jāti）→ 老死（jarāmaraṇa）。經典中常見的敘述格式是「無明緣行，行緣識……」，一路推到「生緣老死」，憂悲苦惱由此聚集。",
+          "MN9 的走法恰好相反：舍利弗從最貼近經驗的「老死」開始，往回追問它的條件是「生」，生的條件是「有」……一路逆推回「無明」，甚至更進一步問到無明的條件「漏」（āsava）。每一支都以完全相同的格式提問——什麼是它、什麼是它的集、什麼是它的滅、什麼是導向它滅之道——然後給出明確的定義與分類。",
+          "後世的註釋傳統（如南傳《清淨道論》與北傳阿毘達磨論書）將十二支整理成「三世兩重因果」：無明與行屬過去世之因，識到受為現在世之果，愛、取、有為現在世之因，生與老死為未來世之果。這是論書層次的詮釋框架，對理解各支的分工有幫助；但需要說明的是，MN9 經文本身只給出每一支的定義與集滅道，並沒有三世分配的說法。本頁以下依經文原貌呈現。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.1"],
+            "lead": "逐支問答的格式，以老死為例："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:65.3"],
+            "lead": "同一格式一路問到最後一支無明："
+          }
+        ]
+      },
+      {
+        "heading": "逐支的原典定義（一）：老死、生、有——存在的果報端",
+        "paragraphs": [
+          "老死（jarāmaraṇa）是整條因緣鏈的終端，也是 MN9 最先定義的一支。經文的定義非常具體：「老」是眾生的衰老、老朽、牙齒脫落、頭髮變白、皮膚起皺、壽命衰減、諸根熟壞；「死」是眾生的殞落、破滅、消失、命終、諸蘊破滅、身體捨棄、命根斷絕。這不是抽象的哲學命題，而是對身心現象直白的描述——十二因緣要解釋的，正是這件每個人都無法迴避的事實從何而來。",
+          "生（jāti）是老死的條件。經文定義為：眾生在各個眾生類別中的出生、誕生、入胎、諸蘊的顯現、諸入處（感官）的獲得。有了「生」，老死便不可避免；所以經文說「從生的集起，有老死的集起」。",
+          "有（bhava）是生的條件，指存在的狀態或生命形態。MN9 給出三分：欲有（欲界的存在）、色有（色界的存在）、無色有（無色界的存在），涵蓋佛教宇宙觀中一切可能的生命處境。有從何來？經文說：「由取之集起而有之集起」——執取什麼，就朝向什麼樣的存在。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.2", "mn9:22.3", "mn9:22.4", "mn9:22.5"],
+            "lead": "老與死的原典定義："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:26.2", "mn9:26.3", "mn9:26.4"],
+            "lead": "生的定義，及其條件是有："
+          }
+        ]
+      },
+      {
+        "heading": "逐支的原典定義（二）：取、愛、受、觸、六入——苦的中游",
+        "paragraphs": [
+          "取（upādāna）即執取。MN9 分為四種：欲取（對感官對象的執取）、見取（對見解的執取）、戒禁取（對儀式與禁戒的執取）、我語取（對「我」之論說的執取）。值得注意的是，四取之中只有一種關於感官享受，其餘三種都是對觀念、儀軌與自我理論的抓取——執取的範圍遠比「貪戀物質」寬廣。取的條件是渴愛：「渴愛集起故取集起」。",
+          "愛（taṇhā，渴愛）在 MN9 中依所緣分為六類：對色、聲、香、味、觸、法的渴愛——渴愛總是對「某個對象」的渴愛，遍及六種感官經驗。它的條件是受：「從受的生起，渴愛生起」。在苦集聖諦中，渴愛正是被點名為苦之集起的那一支，因此愛與取之間，常被視為整條鎖鏈上最關鍵、也最有著力點的一環。",
+          "再往上游：受（vedanā）是六種觸所生的感受（眼觸所生受乃至意觸所生受），其條件是觸——「觸的集起即受的集起」（mn9:42.4）。觸（phassa）是眼觸、耳觸、鼻觸、舌觸、身觸、意觸六種，感官、對象與識三者交會的接觸，其條件是六入——「六處生起故，觸生起」（mn9:46.4）。六入（saḷāyatana）即眼、耳、鼻、舌、身、意六處，是經驗世界的六個門戶，其條件是名色——「從名色之集起，生起六處之集起」（mn9:50.4）。這一段中游描繪的是：只要有感官與世界的接觸，感受便生起；感受生起，渴愛與執取便有了立足點。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:34.2", "mn9:34.3", "mn9:34.4"],
+            "lead": "四種取，及其條件是渴愛："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:38.2", "mn9:38.3", "mn9:38.4"],
+            "lead": "六類渴愛，及其條件是受："
+          }
+        ]
+      },
+      {
+        "heading": "逐支的原典定義（三）：名色、識、行、無明——回到根源",
+        "paragraphs": [
+          "名色（nāmarūpa）是 MN9 定義得最細的一支。「名」是受、想、思、觸、作意——心理層面的運作；「色」是四大種（地、水、火、風）以及依四大種所造之色——物質層面的身體。名與色合起來，就是一個完整的身心組合。它的條件是識：「由識的集起，名與色集起」。",
+          "識（viññāṇa）依六種感官分為六識身：眼識、耳識、鼻識、舌識、身識、意識。識的條件是行：「從行的生起，識的生起」。行（saṅkhāra）在緣起脈絡中指造作，MN9 分為三種：身行、語行、心行——透過身體、語言與內心進行的造作活動。行的條件，就是十二支之首的無明。",
+          "無明（avijjā）的定義是全經最畫龍點睛的一筆：無明不是泛泛的「無知」或「愚笨」，而是特指四種不了知——對苦不了知、對苦之集不了知、對苦之滅不了知、對導向苦滅之道不了知。換句話說，無明就是不知四聖諦。這個定義把十二因緣與四聖諦直接扣合起來：整條因緣鏈之所以轉動，根源在於對「苦、集、滅、道」的無知；而正見的內容，正是對這四者的了知。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:54.2", "mn9:54.3", "mn9:54.4", "mn9:54.5"],
+            "lead": "名與色的原典定義："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:65.4", "mn9:65.5"],
+            "lead": "無明的原典定義——對四聖諦的不了知："
+          }
+        ]
+      },
+      {
+        "heading": "每支都通向解脫：MN9 的「集滅道」公式",
+        "paragraphs": [
+          "MN9 處理十二因緣最特別的地方，是它給每一支都套上四聖諦式的完整架構：這一支是什麼、它的集、它的滅、導向它滅之道——而每一支的「滅之道」都是同一條八支聖道（正見、正思惟、正語、正業、正命、正精進、正念、正定）。這意味著：緣起在本經中不是一套供人背誦的形上學理論，而是十二個可以下手觀察的修行切入點；從任何一支如實了知其四轉，都是正見，都通向苦的止息。",
+          "經文還有一個常被忽略的細節：無明也有條件。舍利弗說「從漏的集起，無明集起」，而在其後的段落中，漏（欲漏、有漏、無明漏）又以無明為其集起（mn9:70.4）。無明與漏互為條件，形成迴圈——這表示緣起鏈沒有一個形上學意義的「第一因」：無明不是創世的起點，而只是一個同樣依條件而立、因此也同樣可以被止息的環節。",
+          "每一支的段落都以同一句定型句作結：如此了知的聖弟子捨斷貪、瞋、見慢的隨眠，「捨斷無明、生起明」，就在現法中成為「苦的終結者」。從頭到尾，緣起教學的目的只有一個——不是解釋世界，而是止息苦。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:66.1"],
+            "lead": "無明也依條件而起——它不是第一因："
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:67.1", "mn9:67.2"],
+            "lead": "每一支共同的結語——了知即通向苦的終結："
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "「緣起性空」是漢傳佛教耳熟能詳的四字語，但它的兩半來歷不同。「緣起」（paṭiccasamuppāda）出自最早期的經典層——巴利尼柯耶與漢譯阿含，本頁的《正見經》（MN9）與《相應部・因緣相應》（SN12）即是其原始出處；在這些經文中，佛陀以緣起說明苦的生起與止息，並未使用「性空」一詞。「性空」以及「緣起性空」的合說，是西元二、三世紀左右龍樹（Nāgārjuna）所開創的中觀學派的發展：《中論》「眾因緣生法，我說即是空，亦為是假名，亦是中道義」一頌，將「依條件生起」直接等同於「無自性、空」，此說經鳩摩羅什譯介後成為漢傳佛教的通行理解。就中觀傳統而言，性空是緣起的必然涵義，是對佛陀本懷的闡明；就上座部與經典文獻學的立場而言，尼柯耶中的緣起自成完整教學，未預設後起的空性論述。兩種讀法在此並陳，供讀者對照，本站不作裁決。",
+    "faq": [
+      {
+        "q": "十二因緣的順序是什麼？",
+        "a": "順觀（由因到果）的順序是：無明→行→識→名色→六入→觸→受→愛→取→有→生→老死。經典中也常用逆觀，由果溯因：老死緣於生，生緣於有……一路推回無明。MN9 採取的正是逆推的方向——舍利弗從最貼近經驗的老死問起，逐支回溯，最後到無明，甚至再問到無明的條件「漏」。順觀說明苦如何聚集，逆觀（配合滅的公式）說明苦如何止息，兩個方向在經典中並用。"
+      },
+      {
+        "q": "「緣起」和「十二因緣」一樣嗎？",
+        "a": "不完全一樣。「緣起」是原理——一切現象依條件生起、隨條件止息；「十二因緣」是這個原理應用於「苦如何生起」時最完整的展開，十二支是其標準形式。但緣起不限於十二支：在 MN9 中，舍利弗以同一套「是什麼、集、滅、道」的公式，也解說了四食與三漏；《相應部》中另有支數不同的緣起說法。可以說十二因緣是緣起最著名的樣板，而非其全部。"
+      },
+      {
+        "q": "「緣起性空」是佛陀說的嗎？",
+        "a": "需要分開考據。「緣起」確是佛陀在最早期經典中的核心教導，本頁的 MN9 與《相應部・因緣相應》都是原始出處。「性空」及「緣起性空」的合說，則見於西元二、三世紀龍樹的中觀學派：《中論》將「眾因緣生法」直接等同於「空」，經漢譯後成為漢傳佛教的通行語。尼柯耶中的佛陀以緣起說明苦的生滅，未使用「性空」一詞；中觀傳統則認為空性正是緣起的必然涵義。兩者的關係如何理解，各傳統立場不同，本站並陳而不裁決。"
+      },
+      {
+        "q": "十二因緣出自哪部經？",
+        "a": "巴利藏中最系統的出處有二：《相應部・因緣相應》（SN12）收錄大量以緣起為主題的經文；《中部》第 9 經《正見經》（MN9）則以問答體給出每一支的明確定義——什麼是老死、什麼是生、什麼是無明，每支並附集、滅與導向滅之道，是想查「原典定義」時最直接的一部經。漢譯《雜阿含經》中亦有大量對應經文。本頁全文依 MN9 呈現。"
+      },
+      {
+        "q": "「三世兩重因果」是經文說的嗎？",
+        "a": "不是經文本身的架構，而是後世註釋傳統的整理：南傳《清淨道論》與北傳阿毘達磨論書將十二支配置為過去世之因（無明、行）、現在世之果（識至受）、現在世之因（愛、取、有）、未來世之果（生、老死），故稱「三世兩重因果」。作為理解框架自有其作用，但 MN9 等經文本身只給出各支的定義與集滅道公式，並沒有三世分配的說法。讀者宜區分經文與註釋兩個層次。"
+      }
+    ],
+    "related_topics": ["four-noble-truths", "anatta"],
+    "related_suttas": ["mn9"],
+    "related_lexicon": []
+  },
+  "en": {
+    "title": "Dependent Origination (The Twelve Links)",
+    "seo_title": "Dependent Origination: The Twelve Links Defined in the Buddha's Own Texts (MN 9)",
+    "seo_description": "Dependent origination (paṭiccasamuppāda) explains how suffering arises and ceases through twelve links. This page presents each link — ignorance, formations, consciousness, name-and-form, the six sense bases, contact, feeling, craving, clinging, existence, birth, aging-and-death — with its canonical definition from the Sammādiṭṭhisutta (MN 9), where each link comes with its origin, cessation, and the path to its cessation.",
+    "question": "What is dependent origination?",
+    "definition": "Dependent origination (Pali: paṭiccasamuppāda) is the Buddha's account of how suffering arises and ceases through conditions. Its fullest form is the twelve links — ignorance, formations, consciousness, name-and-form, the six sense bases, contact, feeling, craving, clinging, existence, birth, and aging-and-death — where each link arises when its condition arises and ceases when its condition ceases.",
+    "sections": [
+      {
+        "heading": "The Principle: When This Arises, That Arises",
+        "paragraphs": [
+          "Paṭiccasamuppāda is a compound of paṭicca ('dependent on') and samuppāda ('arising'): arising in dependence on conditions. It is neither fatalism nor a doctrine of a creator's causation. It states that every phenomenon stands on specific conditions — when the conditions are present, it arises; when they are removed, it ceases. Suffering is no exception.",
+          "In the Sammādiṭṭhisutta (MN 9), Sāriputta repeats the principle in its plainest form: with the origination of birth there is the origination of aging-and-death; with the cessation of birth there is the cessation of aging-and-death. The same holds for every link — each stands on the one before it, and when the prior link ceases, the next has nothing to arise from. The twelve links are this conditional principle unfolded link by link.",
+          "The setting of MN 9 is a teaching on right view. Each time Sāriputta finishes one exposition, the monks ask whether there is yet another way a noble disciple comes to right view, and he answers by taking up the next link of the chain. For every link he applies the same four questions: What is it? What is its origin? What is its cessation? What is the way leading to its cessation? Knowing these four is itself right view. This question-and-answer format — a complete definition for every single link — is what makes MN 9 unique among the canonical treatments of the twelve links."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.9"],
+            "lead": "The conditional formula, with aging-and-death and birth as the example:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:21.2", "mn9:21.3"],
+            "lead": "The fourfold knowing of each link is right view:"
+          }
+        ]
+      },
+      {
+        "heading": "The Twelve Links and How MN 9 Works Through Them",
+        "paragraphs": [
+          "In forward order (from cause to effect) the twelve links are: ignorance (avijjā) → formations (saṅkhāra) → consciousness (viññāṇa) → name-and-form (nāmarūpa) → the six sense bases (saḷāyatana) → contact (phassa) → feeling (vedanā) → craving (taṇhā) → clinging (upādāna) → existence (bhava) → birth (jāti) → aging-and-death (jarāmaraṇa). The familiar canonical narration runs 'with ignorance as condition, formations; with formations as condition, consciousness…' down to birth conditioning aging-and-death, whereby the whole mass of suffering comes together.",
+          "MN 9 moves in the opposite direction. Sāriputta begins with what is closest to experience — aging-and-death — and traces it back: its condition is birth, birth's condition is existence, and so on all the way to ignorance, and then one step further, to the taints (āsava) as the condition for ignorance itself. Every link is examined with exactly the same four questions and answered with an explicit definition or classification.",
+          "Later commentarial traditions — the Visuddhimagga in the Theravāda, and Abhidharma treatises in the northern transmission — organized the twelve links across three lifetimes: ignorance and formations as past causes, consciousness through feeling as present results, craving, clinging, and existence as present causes, and birth and aging-and-death as future results. This 'three lives, two layers of cause and effect' scheme can be a useful interpretive framework, but it should be noted that the sutta itself contains no such distribution: MN 9 gives only each link's definition and its origin, cessation, and path. This page follows the text as it stands."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.1"],
+            "lead": "The question format, applied to aging-and-death:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:65.3"],
+            "lead": "The same format carried through to the last link, ignorance:"
+          }
+        ]
+      },
+      {
+        "heading": "The Links Defined (1): Aging-and-Death, Birth, Existence",
+        "paragraphs": [
+          "Aging-and-death (jarāmaraṇa) is the terminal link and the first one MN 9 defines. The definition is strikingly concrete: aging is the aging of beings, brokenness of teeth, grayness of hair, wrinkling of skin, decline of the life force, weakening of the faculties; death is the passing away of beings, the breakup of the aggregates, the laying down of the body, the cutting off of the life faculty. This is not abstract philosophy but a plain description of bodily fact — and the twelve links exist to explain where this inescapable fact comes from.",
+          "Birth (jāti) is the condition for aging-and-death. The sutta defines it as the birth of beings into any order of beings: their being born, descent into the womb, the manifestation of the aggregates, the obtaining of the sense bases. Given birth, aging-and-death cannot be avoided — hence 'with the origination of birth there is the origination of aging-and-death.'",
+          "Existence (bhava) is the condition for birth: the state or mode of being one is headed toward. MN 9 gives a threefold classification — sense-sphere existence, form-sphere existence, and formless existence — covering every possible station of life in the Buddhist cosmos. And where does existence come from? 'With the origination of clinging there is the origination of existence': what one clings to shapes what one becomes."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:22.2", "mn9:22.3", "mn9:22.4", "mn9:22.5"],
+            "lead": "The canonical definitions of aging and of death:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:26.2", "mn9:26.3", "mn9:26.4"],
+            "lead": "The definition of birth, and existence as its condition:"
+          }
+        ]
+      },
+      {
+        "heading": "The Links Defined (2): Clinging, Craving, Feeling, Contact, the Six Sense Bases",
+        "paragraphs": [
+          "Clinging (upādāna) comes in four kinds in MN 9: clinging to sense pleasures, clinging to views, clinging to rules and observances, and clinging to a doctrine of self. Notably, only one of the four concerns sensual enjoyment; the other three are graspings at opinions, rituals, and theories of self — clinging reaches far beyond attachment to material things. Its condition is craving: 'with the origination of craving there is the origination of clinging.'",
+          "Craving (taṇhā) is classified by its object into six classes: craving for sights, sounds, smells, tastes, tangibles, and mental phenomena — craving is always craving for something, spanning all six fields of experience. Its condition is feeling: 'with the origination of feeling there is the origination of craving.' Since craving is also the second noble truth — the origin of suffering — the passage from feeling to craving and clinging is often regarded as the most workable joint in the whole chain.",
+          "Further upstream: feeling (vedanā) is sixfold, born of the six kinds of contact, and conditioned by contact — 'with the origination of contact there is the origination of feeling' (mn9:42.4). Contact (phassa) is the sixfold meeting of sense faculty, object, and consciousness — eye-contact through mind-contact — conditioned by the six sense bases (mn9:46.4). The six sense bases (saḷāyatana) are the eye, ear, nose, tongue, body, and mind bases, the six doors of the experienced world, conditioned by name-and-form (mn9:50.4). This middle stretch of the chain describes a simple mechanism: wherever the senses meet the world, feeling arises; and wherever feeling arises, craving and clinging find their footing."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:34.2", "mn9:34.3", "mn9:34.4"],
+            "lead": "The four kinds of clinging, with craving as their condition:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:38.2", "mn9:38.3", "mn9:38.4"],
+            "lead": "The six classes of craving, with feeling as their condition:"
+          }
+        ]
+      },
+      {
+        "heading": "The Links Defined (3): Name-and-Form, Consciousness, Formations, Ignorance",
+        "paragraphs": [
+          "Name-and-form (nāmarūpa) receives the most granular definition in the sutta. 'Name' is feeling, perception, volition, contact, and attention — the mental side of experience; 'form' is the four great elements and the form derived from them — the material body. Together they constitute a complete psychophysical organism. Its condition is consciousness: 'with the origination of consciousness there is the origination of name-and-form.'",
+          "Consciousness (viññāṇa) is sixfold by sense door: eye-consciousness through mind-consciousness. Its condition is formations: 'with the origination of formations there is the origination of consciousness.' Formations (saṅkhāra) in the context of the chain are volitional activity, and MN 9 classifies them as three: bodily formation, verbal formation, and mental formation. Their condition is the first link, ignorance.",
+          "The definition of ignorance (avijjā) is the sutta's most pointed stroke: ignorance is not vague unknowing or dullness, but specifically four failures to know — not knowing suffering, not knowing its origin, not knowing its cessation, and not knowing the way leading to its cessation. Ignorance, in other words, is ignorance of the four noble truths. This definition locks the twelve links and the four noble truths together: the whole chain turns because the truths of suffering are unknown, and right view is precisely the knowing of them."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:54.2", "mn9:54.3", "mn9:54.4", "mn9:54.5"],
+            "lead": "The canonical definitions of name and of form:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:65.4", "mn9:65.5"],
+            "lead": "The definition of ignorance — not knowing the four noble truths:"
+          }
+        ]
+      },
+      {
+        "heading": "Every Link Leads to Liberation: The Origin-Cessation-Path Formula",
+        "paragraphs": [
+          "What most distinguishes MN 9's treatment of the twelve links is that every single link is fitted with the full four-noble-truths template — what it is, its origin, its cessation, and the way to its cessation — and for every link, the way is the same noble eightfold path: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. Dependent origination here is not a metaphysical system to memorize but twelve points of entry for practice: knowing any one link in its four aspects is right view, and right view leads to the end of suffering.",
+          "The sutta also contains a detail often overlooked: ignorance itself has a condition. Sāriputta states, 'with the origination of the taints there is the origination of ignorance' — and in the following section the taints (sensual desire, existence, and ignorance) in turn originate from ignorance (mn9:70.4). Ignorance and the taints condition each other in a loop. The chain therefore has no metaphysical first cause: ignorance is not a cosmic starting point but one more conditioned link — and, precisely for that reason, one that can be brought to cessation.",
+          "Each link's section closes with the same refrain: the noble disciple who knows in this way abandons the underlying tendencies to lust, aversion, and the view-and-conceit 'I am,' abandons ignorance, arouses true knowledge, and becomes 'an ender of suffering' here and now. From beginning to end, the purpose of the teaching on dependent origination is not to explain the world but to end suffering."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:66.1"],
+            "lead": "Ignorance too arises from a condition — it is no first cause:"
+          },
+          {
+            "sutta": "mn9",
+            "segment_ids": ["mn9:67.1", "mn9:67.2"],
+            "lead": "The refrain shared by every link — knowing leads to the end of suffering:"
+          }
+        ]
+      }
+    ],
+    "mahayana_note": "The slogan 'dependent origination is emptiness' — familiar in East Asian Buddhism as yuanqi xingkong — joins two terms of different provenance. 'Dependent origination' (paṭiccasamuppāda) belongs to the earliest textual layer: the Pali Nikāyas and the Chinese Āgamas, with the Sammādiṭṭhisutta (MN 9) on this page and the Nidānasaṃyutta (SN 12) as primary sources. In these texts the Buddha uses dependent origination to explain the arising and cessation of suffering, and the term 'emptiness of intrinsic nature' does not appear in this connection. The identification of the two is a development of the Madhyamaka school founded by Nāgārjuna around the second to third century CE: the Mūlamadhyamakakārikā declares, 'Whatever is dependently arisen, that we call emptiness; that is dependent designation, and that itself is the middle way' (MMK 24.18). Transmitted through Kumārajīva's translations, this equation became the standard understanding in East Asian Buddhism. For the Madhyamaka tradition, emptiness is the necessary implication of dependent origination and an articulation of the Buddha's own intent; from the standpoint of the Theravāda and of textual scholarship, the Nikāya teaching of dependent origination is complete in itself and does not presuppose the later doctrine of emptiness. Both readings are presented here side by side for comparison; this site does not adjudicate between them.",
+    "faq": [
+      {
+        "q": "What is the order of the twelve links of dependent origination?",
+        "a": "In forward order: ignorance → formations → consciousness → name-and-form → six sense bases → contact → feeling → craving → clinging → existence → birth → aging-and-death. The canon also uses the reverse order, tracing effects back to causes, and MN 9 takes exactly this route: Sāriputta starts from aging-and-death, the link closest to experience, and works back to ignorance — then one step further, to the taints as ignorance's own condition. The forward order shows how suffering accumulates; the reverse order, paired with the cessation formula, shows how it is brought to an end."
+      },
+      {
+        "q": "Are 'dependent origination' and 'the twelve links' the same thing?",
+        "a": "Not exactly. Dependent origination is the principle — phenomena arise on conditions and cease when those conditions cease. The twelve links are that principle's fullest application to the question of how suffering arises. But the principle is not limited to twelve links: in MN 9 Sāriputta applies the same 'what it is, its origin, its cessation, its path' formula to the four nutriments and the three taints as well, and the Saṃyutta Nikāya contains chains of other lengths. The twelve links are the most famous template of dependent origination, not the whole of it."
+      },
+      {
+        "q": "Did the Buddha teach that 'dependent origination is emptiness'?",
+        "a": "The two halves need separate dating. Dependent origination is indeed the Buddha's teaching in the earliest texts — MN 9 on this page and the Nidānasaṃyutta (SN 12) are primary sources. The explicit equation with 'emptiness,' however, comes from Nāgārjuna's Madhyamaka school (2nd–3rd century CE), whose Mūlamadhyamakakārikā identifies whatever is dependently arisen with emptiness; through Chinese translation this became standard in East Asian Buddhism. In the Nikāyas the Buddha uses dependent origination to explain suffering's arising and cessation without the term 'emptiness of intrinsic nature.' How the two relate is answered differently by different traditions; this site presents both without adjudicating."
+      },
+      {
+        "q": "Which sutta teaches the twelve links?",
+        "a": "Two canonical sources stand out in the Pali. The Nidānasaṃyutta (SN 12) collects a large number of discourses on dependent origination. The Sammādiṭṭhisutta (MN 9) is the one that defines each link explicitly in question-and-answer form — what aging-and-death is, what birth is, what ignorance is — each with its origin, cessation, and path. For canonical definitions of the individual links, MN 9 is the most direct source, and this page follows it throughout. Parallel discourses exist in the Chinese Saṃyukta Āgama."
+      },
+      {
+        "q": "Is the 'three lifetimes' interpretation of the twelve links found in the suttas?",
+        "a": "No — it is a commentarial arrangement. The Visuddhimagga in the Theravāda tradition and Abhidharma treatises in the northern transmission distributed the twelve links across past causes (ignorance, formations), present results (consciousness through feeling), present causes (craving, clinging, existence), and future results (birth, aging-and-death). It can serve as a useful interpretive framework, but the suttas themselves, including MN 9, give only each link's definition and its origin-cessation-path formula, with no assignment to three lifetimes. Readers should keep the canonical and commentarial layers distinct."
+      }
+    ],
+    "related_topics": ["four-noble-truths", "anatta"],
+    "related_suttas": ["mn9"],
+    "related_lexicon": []
+  }
+}

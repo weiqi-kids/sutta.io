@@ -1,0 +1,168 @@
+---
+// en/agama.astro — Madhyama Āgama parallels overview (mirror of /agama)
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listSuttas, getSutta, agamaRefOf, suttaIsComplete } from '../../lib/data';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+
+interface Row {
+  id: string;
+  n: number;
+  title_pali: string;
+  title_zh: string;
+  agamaRef: string | null;
+  complete: boolean;
+}
+const rows: Row[] = [];
+for (const s of listSuttas()) {
+  const fx = getSutta(s.id);
+  if (!fx) continue;
+  rows.push({
+    id: s.id,
+    n: parseInt(s.id.replace(/\D/g, ''), 10),
+    title_pali: s.title_pali,
+    title_zh: s.title_zh,
+    agamaRef: agamaRefOf(fx),
+    complete: suttaIsComplete(fx),
+  });
+}
+const done = rows.filter((r) => r.complete);
+const pending = rows.filter((r) => !r.complete);
+
+const title = `Madhyama Āgama ↔ Majjhima Nikāya parallels — ${done.length} suttas aligned`;
+const description = `Paragraph-level parallels between the Chinese Madhyama Āgama (Taishō 26) and the Pāli Majjhima Nikāya, with word-by-word Pāli analysis and vernacular translation. ${done.length} suttas complete, updated daily, free to read.`;
+const crumbs = [{ label: t.nav.agama }];
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description,
+  url: 'https://sutta.io/en/agama/',
+  inLanguage: 'en',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: done.length,
+    itemListElement: done.map((r, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `${r.title_pali} (MN ${r.n})`,
+      url: `https://sutta.io/en/read/${r.id}/`,
+    })),
+  },
+};
+---
+
+<Base title={title} description={description} crumbs={crumbs} extraSchema={itemListSchema}>
+  <h1>Madhyama Āgama ↔ Majjhima Nikāya parallels</h1>
+  <p class="intro">
+    The Chinese <em>Madhyama Āgama</em> (Taishō 26, Sarvāstivāda transmission) and the Pāli
+    <em>Majjhima Nikāya</em> are two ancient transmissions of the same early corpus, with
+    paragraph-level correspondences across most suttas. This site anchors each text in a
+    word-by-word analysis of the Pāli, adds a clearly-labelled AI-generated vernacular
+    translation, and places the Madhyama Āgama parallel alongside.
+  </p>
+  <p class="calm-note">
+    Vernacular renderings are AI-generated from real grammatical data
+    (<a href="https://digitalpalidictionary.github.io/" target="_blank" rel="noopener">Digital Pāḷi Dictionary</a>);
+    Āgama source text from <a href="https://www.cbeta.org/" target="_blank" rel="noopener">CBETA</a>.
+    See <a href={url('/about')}>About</a>.
+  </p>
+
+  <h2>Complete ({done.length} suttas)</h2>
+  <table class="agama-table">
+    <thead>
+      <tr>
+        <th>MN</th>
+        <th>Pāli title</th>
+        <th>Chinese title</th>
+        <th>Āgama parallel</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        done.map((r) => (
+          <tr>
+            <td class="data">MN {r.n}</td>
+            <td>
+              <a href={url(`/read/${r.id}`)} lang="pi">
+                {r.title_pali}
+              </a>
+            </td>
+            <td>
+              <a href={url(`/read/${r.id}`)}>{r.title_zh}</a>
+            </td>
+            <td>{r.agamaRef ?? '— (no parallel)'}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+  {
+    pending.length > 0 && (
+      <>
+        <h2>Source text ready, vernacular in progress ({pending.length})</h2>
+        <p class="pending-list">
+          {pending.map((r, i) => (
+            <Fragment>
+              {i > 0 && ' · '}
+              <a href={url(`/read/${r.id}`)}>
+                {r.title_pali} (MN {r.n})
+              </a>
+            </Fragment>
+          ))}
+        </p>
+      </>
+    )
+  }
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-3);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin: var(--space-6) 0 var(--space-3);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .agama-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .agama-table th,
+  .agama-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+  }
+  .agama-table th {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    font-weight: 600;
+  }
+  .agama-table a {
+    text-decoration: none;
+  }
+  .agama-table a:hover {
+    color: var(--thread);
+  }
+  .pending-list {
+    font-size: var(--text-sm);
+    line-height: 1.9;
+  }
+  .pending-list a {
+    text-decoration: none;
+    color: var(--ink-soft);
+  }
+  .pending-list a:hover {
+    color: var(--thread);
+  }
+</style>
