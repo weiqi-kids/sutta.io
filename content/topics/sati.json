@@ -1,6 +1,6 @@
 {
   "slug": "sati",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,12 +20,17 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:4.2", "mn10:4.3"],
+            "segment_ids": [
+              "mn10:4.2",
+              "mn10:4.3"
+            ],
             "lead": "經文中 sati 的安立與運作："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.3"
+            ],
             "lead": "念現前確立的定型句："
           }
         ]
@@ -40,12 +45,16 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2"],
+            "segment_ids": [
+              "mn10:3.2"
+            ],
             "lead": "定義修法的公式句："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:8.1"],
+            "segment_ids": [
+              "mn10:8.1"
+            ],
             "lead": "正知遍及一切日常動作："
           }
         ]
@@ -60,12 +69,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "全經總說：四念處是道路本身："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "受、心、法三念處的總說："
           }
         ]
@@ -80,12 +95,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ],
             "lead": "如實了知感受——現代正念與原典最接近的一段："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:47.1"],
+            "segment_ids": [
+              "mn10:47.1"
+            ],
             "lead": "原典為正念設定的目的："
           }
         ]
@@ -110,9 +131,17 @@
         "a": "依《念處經》，練習正念就是修四念處。經文給的入手處很具體：到安靜處（林中、樹下或空屋）坐下，端身、把念安立於當前，具念地入息與出息，如實了知呼吸的長短；再擴及姿勢動作、感受、心的狀態與諸法，並隨觀其生滅。完整的次第與各節修法，見本站四念處主題頁與《念處經》（MN10）全文對照。"
       }
     ],
-    "related_topics": ["satipatthana", "anapanasati"],
-    "related_suttas": ["mn10", "mn118"],
-    "related_lexicon": ["sati"]
+    "related_topics": [
+      "satipatthana",
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
+    "related_lexicon": [
+      "sati"
+    ]
   },
   "en": {
     "title": "Sati (Mindfulness)",
@@ -131,12 +160,17 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:4.2", "mn10:4.3"],
+            "segment_ids": [
+              "mn10:4.2",
+              "mn10:4.3"
+            ],
             "lead": "How sati is set up and operates:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.3"
+            ],
             "lead": "The refrain on mindfulness being present:"
           }
         ]
@@ -151,12 +185,16 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2"],
+            "segment_ids": [
+              "mn10:3.2"
+            ],
             "lead": "The defining formula of the practice:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:8.1"],
+            "segment_ids": [
+              "mn10:8.1"
+            ],
             "lead": "Clear comprehension throughout daily activity:"
           }
         ]
@@ -171,12 +209,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "The summary statement: the four satipaṭṭhānas are the path itself:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "The summary for feelings, mind, and dhammas:"
           }
         ]
@@ -191,12 +235,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ],
             "lead": "Knowing feelings as they are — the passage closest to modern mindfulness:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:47.1"],
+            "segment_ids": [
+              "mn10:47.1"
+            ],
             "lead": "The purpose the source text assigns to mindfulness:"
           }
         ]
@@ -221,8 +271,16 @@
         "a": "According to MN 10, practicing mindfulness means practicing the four satipaṭṭhānas. The sutta's entry point is concrete: go to a quiet place (a forest, the root of a tree, or an empty hut), sit down with body erect, establish mindfulness in front, and breathe in and out mindfully, knowing the breath as long or short; then extend the same knowing to postures and activities, feelings, states of mind, and dhammas, observing their arising and passing. For the full sequence, see this site's satipatthana topic page and the complete MN 10 with Pali and translation side by side."
       }
     ],
-    "related_topics": ["satipatthana", "anapanasati"],
-    "related_suttas": ["mn10", "mn118"],
-    "related_lexicon": ["sati"]
+    "related_topics": [
+      "satipatthana",
+      "anapanasati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
+    "related_lexicon": [
+      "sati"
+    ]
   }
 }

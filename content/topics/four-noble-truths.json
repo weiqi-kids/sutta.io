@@ -1,6 +1,6 @@
 {
   "slug": "four-noble-truths",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,12 +20,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "segment_ids": [
+              "mn141:2.1",
+              "mn141:2.2"
+            ],
             "lead": "佛陀開宗明義，把不可逆轉的法輪定為四聖諦的宣說："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.7", "mn141:6.1", "mn141:6.2"],
+            "segment_ids": [
+              "mn141:5.7",
+              "mn141:6.1",
+              "mn141:6.2"
+            ],
             "lead": "佛陀把詳解四諦的任務交給舍利弗，隨即起身離去："
           }
         ]
@@ -40,12 +47,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "苦聖諦的總說："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:13.1", "mn141:13.2", "mn141:13.3"],
+            "segment_ids": [
+              "mn141:13.1",
+              "mn141:13.2",
+              "mn141:13.3"
+            ],
             "lead": "以「死」為例，經文的定義方式如下："
           }
         ]
@@ -60,12 +74,22 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:19.2", "mn141:19.3", "mn141:19.4", "mn141:19.5"],
+            "segment_ids": [
+              "mn141:19.2",
+              "mn141:19.3",
+              "mn141:19.4",
+              "mn141:19.5"
+            ],
             "lead": "「求不得苦」的定義："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.1", "mn141:20.2", "mn141:20.3", "mn141:20.4"],
+            "segment_ids": [
+              "mn141:20.1",
+              "mn141:20.2",
+              "mn141:20.3",
+              "mn141:20.4"
+            ],
             "lead": "苦諦的總括——五取蘊："
           }
         ]
@@ -80,12 +104,21 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:21.1", "mn141:21.2", "mn141:21.3", "mn141:21.4"],
+            "segment_ids": [
+              "mn141:21.1",
+              "mn141:21.2",
+              "mn141:21.3",
+              "mn141:21.4"
+            ],
             "lead": "集諦：渴愛的定義與三種分類："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:22.1", "mn141:22.2", "mn141:22.3"],
+            "segment_ids": [
+              "mn141:22.1",
+              "mn141:22.2",
+              "mn141:22.3"
+            ],
             "lead": "滅諦：渴愛的無餘止息："
           }
         ]
@@ -100,12 +133,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "segment_ids": [
+              "mn141:23.1",
+              "mn141:23.2",
+              "mn141:23.3"
+            ],
             "lead": "道諦的定義——八支聖道總列："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "segment_ids": [
+              "mn141:24.1",
+              "mn141:24.2",
+              "mn141:24.3"
+            ],
             "lead": "正見的定義，回指四聖諦本身："
           }
         ]
@@ -130,8 +171,14 @@
         "a": "依 MN141 的苦諦定義，需要更精確地說。經文列舉的是具體項目：生、老、死、愁悲苦憂惱、求不得；而且經中把「苦」（dukkha，身體的苦受）與「憂」（domanassa，心的苦受）分開定義，可見苦諦並非籠統宣稱一切感受都是痛苦。總結句是「簡言之，五取蘊是苦」——重點在於被執取的五蘊身心整體不圓滿、不可靠，這是一個診斷式的陳述，而非否認生命中有樂受存在。"
       }
     ],
-    "related_topics": ["noble-eightfold-path", "dependent-origination", "five-aggregates"],
-    "related_suttas": ["mn141"],
+    "related_topics": [
+      "noble-eightfold-path",
+      "dependent-origination",
+      "five-aggregates"
+    ],
+    "related_suttas": [
+      "mn141"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -151,12 +198,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "segment_ids": [
+              "mn141:2.1",
+              "mn141:2.2"
+            ],
             "lead": "The Buddha's opening: the irreversible Wheel of Dhamma is the proclamation of the four noble truths:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.7", "mn141:6.1", "mn141:6.2"],
+            "segment_ids": [
+              "mn141:5.7",
+              "mn141:6.1",
+              "mn141:6.2"
+            ],
             "lead": "The Buddha entrusts the detailed exposition to Sāriputta and departs:"
           }
         ]
@@ -171,12 +225,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "The summary statement of the truth of suffering:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:13.1", "mn141:13.2", "mn141:13.3"],
+            "segment_ids": [
+              "mn141:13.1",
+              "mn141:13.2",
+              "mn141:13.3"
+            ],
             "lead": "The definition of death, as an example of the sutta's method:"
           }
         ]
@@ -191,12 +252,22 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:19.2", "mn141:19.3", "mn141:19.4", "mn141:19.5"],
+            "segment_ids": [
+              "mn141:19.2",
+              "mn141:19.3",
+              "mn141:19.4",
+              "mn141:19.5"
+            ],
             "lead": "The definition of 'not getting what one wants':"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.1", "mn141:20.2", "mn141:20.3", "mn141:20.4"],
+            "segment_ids": [
+              "mn141:20.1",
+              "mn141:20.2",
+              "mn141:20.3",
+              "mn141:20.4"
+            ],
             "lead": "The summary of the first truth — the five aggregates subject to clinging:"
           }
         ]
@@ -211,12 +282,21 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:21.1", "mn141:21.2", "mn141:21.3", "mn141:21.4"],
+            "segment_ids": [
+              "mn141:21.1",
+              "mn141:21.2",
+              "mn141:21.3",
+              "mn141:21.4"
+            ],
             "lead": "The origin: craving defined, with its three kinds:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:22.1", "mn141:22.2", "mn141:22.3"],
+            "segment_ids": [
+              "mn141:22.1",
+              "mn141:22.2",
+              "mn141:22.3"
+            ],
             "lead": "The cessation: the remainderless ending of that craving:"
           }
         ]
@@ -231,12 +311,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "segment_ids": [
+              "mn141:23.1",
+              "mn141:23.2",
+              "mn141:23.3"
+            ],
             "lead": "The fourth truth defined — the noble eightfold path in full:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "segment_ids": [
+              "mn141:24.1",
+              "mn141:24.2",
+              "mn141:24.3"
+            ],
             "lead": "Right view defined, pointing back to the four truths themselves:"
           }
         ]
@@ -261,8 +349,14 @@
         "a": "MN 141's definition calls for more precision than that. The first truth enumerates specific items — birth, aging, death, sorrow, frustrated wishes — and the sutta explicitly distinguishes bodily pain (dukkha in the narrow sense) from mental distress (domanassa), so it is not a blanket claim that every experience is painful. The summary formula is 'in brief, the five aggregates subject to clinging are suffering': the point is that body and mind held with clinging are unreliable and unsatisfactory as a whole — a diagnostic statement, not a denial that pleasant feelings exist."
       }
     ],
-    "related_topics": ["noble-eightfold-path", "dependent-origination", "five-aggregates"],
-    "related_suttas": ["mn141"],
+    "related_topics": [
+      "noble-eightfold-path",
+      "dependent-origination",
+      "five-aggregates"
+    ],
+    "related_suttas": [
+      "mn141"
+    ],
     "related_lexicon": []
   }
 }

@@ -1,6 +1,6 @@
 {
   "slug": "anapanasati",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,7 +20,12 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:14.15", "mn118:15.1", "mn118:15.2", "mn118:15.3"],
+            "segment_ids": [
+              "mn118:14.15",
+              "mn118:15.1",
+              "mn118:15.2",
+              "mn118:15.3"
+            ],
             "lead": "佛陀在經中如此定位安般念："
           }
         ]
@@ -34,7 +39,10 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:17.1", "mn118:17.2"],
+            "segment_ids": [
+              "mn118:17.1",
+              "mn118:17.2"
+            ],
             "lead": "經文對準備工夫的完整交代："
           }
         ]
@@ -49,12 +57,22 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:18.1", "mn118:18.2", "mn118:18.3", "mn118:18.4"],
+            "segment_ids": [
+              "mn118:18.1",
+              "mn118:18.2",
+              "mn118:18.3",
+              "mn118:18.4"
+            ],
             "lead": "第一組四法（觀身）："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:19.1", "mn118:19.2", "mn118:19.3", "mn118:19.4"],
+            "segment_ids": [
+              "mn118:19.1",
+              "mn118:19.2",
+              "mn118:19.3",
+              "mn118:19.4"
+            ],
             "lead": "第二組四法（觀受）："
           }
         ]
@@ -69,12 +87,22 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:20.1", "mn118:20.2", "mn118:20.3", "mn118:20.4"],
+            "segment_ids": [
+              "mn118:20.1",
+              "mn118:20.2",
+              "mn118:20.3",
+              "mn118:20.4"
+            ],
             "lead": "第三組四法（觀心）："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "segment_ids": [
+              "mn118:21.1",
+              "mn118:21.2",
+              "mn118:21.3",
+              "mn118:21.4"
+            ],
             "lead": "第四組四法（觀法）："
           }
         ]
@@ -90,12 +118,18 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:24.5", "mn118:24.6", "mn118:24.7"],
+            "segment_ids": [
+              "mn118:24.5",
+              "mn118:24.6",
+              "mn118:24.7"
+            ],
             "lead": "佛陀說明第一組四法即是身念處："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:28.1"],
+            "segment_ids": [
+              "mn118:28.1"
+            ],
             "lead": "本段落的總結："
           }
         ]
@@ -109,12 +143,18 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:30.1", "mn118:30.2"],
+            "segment_ids": [
+              "mn118:30.1",
+              "mn118:30.2"
+            ],
             "lead": "以念覺支為例，經文描述覺支如何在念處修習中生起："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:42.1", "mn118:43.1"],
+            "segment_ids": [
+              "mn118:42.1",
+              "mn118:43.1"
+            ],
             "lead": "七覺支導向明與解脫的修習方式："
           }
         ]
@@ -139,9 +179,17 @@
         "a": "根本出處是巴利《中部》第 118 經《入出息念經》（Ānāpānassatisutta, MN118），佛陀於舍衛城東園鹿子母講堂的月圓夜對僧眾宣說，完整教導十六勝行，並說明它如何次第圓滿四念處、七覺支與明解脫。此外《念處經》（MN10）的身念處段落也包含觀呼吸的教導，可對照研讀。"
       }
     ],
-    "related_topics": ["satipatthana-practice"],
-    "related_suttas": ["mn118", "mn10"],
-    "related_lexicon": ["sati", "anapanassati"]
+    "related_topics": [
+      "satipatthana-practice"
+    ],
+    "related_suttas": [
+      "mn118",
+      "mn10"
+    ],
+    "related_lexicon": [
+      "sati",
+      "anapanassati"
+    ]
   },
   "en": {
     "title": "Anapanasati (Mindfulness of Breathing)",
@@ -160,7 +208,12 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:14.15", "mn118:15.1", "mn118:15.2", "mn118:15.3"],
+            "segment_ids": [
+              "mn118:14.15",
+              "mn118:15.1",
+              "mn118:15.2",
+              "mn118:15.3"
+            ],
             "lead": "The Buddha's framing of the practice:"
           }
         ]
@@ -174,7 +227,10 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:17.1", "mn118:17.2"],
+            "segment_ids": [
+              "mn118:17.1",
+              "mn118:17.2"
+            ],
             "lead": "The sutta's full instruction on preparation:"
           }
         ]
@@ -189,12 +245,22 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:18.1", "mn118:18.2", "mn118:18.3", "mn118:18.4"],
+            "segment_ids": [
+              "mn118:18.1",
+              "mn118:18.2",
+              "mn118:18.3",
+              "mn118:18.4"
+            ],
             "lead": "The first tetrad (body):"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:19.1", "mn118:19.2", "mn118:19.3", "mn118:19.4"],
+            "segment_ids": [
+              "mn118:19.1",
+              "mn118:19.2",
+              "mn118:19.3",
+              "mn118:19.4"
+            ],
             "lead": "The second tetrad (feelings):"
           }
         ]
@@ -209,12 +275,22 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:20.1", "mn118:20.2", "mn118:20.3", "mn118:20.4"],
+            "segment_ids": [
+              "mn118:20.1",
+              "mn118:20.2",
+              "mn118:20.3",
+              "mn118:20.4"
+            ],
             "lead": "The third tetrad (mind):"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "segment_ids": [
+              "mn118:21.1",
+              "mn118:21.2",
+              "mn118:21.3",
+              "mn118:21.4"
+            ],
             "lead": "The fourth tetrad (dhammas):"
           }
         ]
@@ -230,12 +306,18 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:24.5", "mn118:24.6", "mn118:24.7"],
+            "segment_ids": [
+              "mn118:24.5",
+              "mn118:24.6",
+              "mn118:24.7"
+            ],
             "lead": "The Buddha identifies the first tetrad with contemplation of the body:"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:28.1"],
+            "segment_ids": [
+              "mn118:28.1"
+            ],
             "lead": "The section's conclusion:"
           }
         ]
@@ -249,12 +331,18 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:30.1", "mn118:30.2"],
+            "segment_ids": [
+              "mn118:30.1",
+              "mn118:30.2"
+            ],
             "lead": "The awakening factor of mindfulness arising within satipaṭṭhāna practice:"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:42.1", "mn118:43.1"],
+            "segment_ids": [
+              "mn118:42.1",
+              "mn118:43.1"
+            ],
             "lead": "How the awakening factors lead to true knowledge and liberation:"
           }
         ]
@@ -279,8 +367,16 @@
         "a": "The root text is the Ānāpānassatisutta, Majjhima Nikāya 118, spoken by the Buddha to the Sangha on a full-moon night at the Eastern Park near Sāvatthī. It teaches the sixteen steps in full and shows how they fulfill the four foundations of mindfulness, the seven awakening factors, and true knowledge and liberation. The Satipaṭṭhānasutta (MN 10) also includes mindfulness of breathing within its section on the body and is worth reading alongside."
       }
     ],
-    "related_topics": ["satipatthana-practice"],
-    "related_suttas": ["mn118", "mn10"],
-    "related_lexicon": ["sati", "anapanassati"]
+    "related_topics": [
+      "satipatthana-practice"
+    ],
+    "related_suttas": [
+      "mn118",
+      "mn10"
+    ],
+    "related_lexicon": [
+      "sati",
+      "anapanassati"
+    ]
   }
 }

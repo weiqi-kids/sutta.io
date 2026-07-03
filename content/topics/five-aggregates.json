@@ -1,6 +1,6 @@
 {
   "slug": "five-aggregates",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,7 +20,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.1", "mn141:20.2"],
+            "segment_ids": [
+              "mn141:20.1",
+              "mn141:20.2"
+            ],
             "lead": "MN141 列出五取蘊的名目："
           }
         ]
@@ -35,12 +38,18 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "苦聖諦的完整定義，以五取蘊作結："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.3", "mn141:20.4"],
+            "segment_ids": [
+              "mn141:20.3",
+              "mn141:20.4"
+            ],
             "lead": "經文的總結："
           }
         ]
@@ -55,12 +64,22 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:38.1", "mn10:38.2", "mn10:38.3", "mn10:38.4"],
+            "segment_ids": [
+              "mn10:38.1",
+              "mn10:38.2",
+              "mn10:38.3",
+              "mn10:38.4"
+            ],
             "lead": "蘊品的觀法教導，從色開始："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:38.5", "mn10:38.6", "mn10:38.7", "mn10:38.8"],
+            "segment_ids": [
+              "mn10:38.5",
+              "mn10:38.6",
+              "mn10:38.7",
+              "mn10:38.8"
+            ],
             "lead": "受、想、行、識依同一格式觀察："
           }
         ]
@@ -74,7 +93,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:39.1", "mn10:39.2", "mn10:39.3", "mn10:39.4"],
+            "segment_ids": [
+              "mn10:39.1",
+              "mn10:39.2",
+              "mn10:39.3",
+              "mn10:39.4"
+            ],
             "lead": "蘊品觀法的結語，導向不執取："
           }
         ]
@@ -99,8 +123,14 @@
         "a": "五蘊遍佈巴利早期經典，並非出自單一部經。本站可原文對照的出處有二：《諦分別經》（MN141）在苦聖諦的定義中列出五取蘊，並以「簡言之，五取蘊是苦」總括苦諦；《念處經》（MN10）法念處的蘊品則教導如何逐一觀察五蘊的集與滅。至於大眾熟悉的「五蘊皆空」，出自大乘般若系的《心經》，屬另一經典系統。"
       }
     ],
-    "related_topics": ["anatta", "four-noble-truths"],
-    "related_suttas": ["mn141", "mn10"],
+    "related_topics": [
+      "anatta",
+      "four-noble-truths"
+    ],
+    "related_suttas": [
+      "mn141",
+      "mn10"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -120,7 +150,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.1", "mn141:20.2"],
+            "segment_ids": [
+              "mn141:20.1",
+              "mn141:20.2"
+            ],
             "lead": "MN 141 names the five aggregates subject to clinging:"
           }
         ]
@@ -135,12 +168,18 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "The full definition of the noble truth of suffering, ending with the aggregates:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:20.3", "mn141:20.4"],
+            "segment_ids": [
+              "mn141:20.3",
+              "mn141:20.4"
+            ],
             "lead": "The sutta's conclusion:"
           }
         ]
@@ -155,12 +194,22 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:38.1", "mn10:38.2", "mn10:38.3", "mn10:38.4"],
+            "segment_ids": [
+              "mn10:38.1",
+              "mn10:38.2",
+              "mn10:38.3",
+              "mn10:38.4"
+            ],
             "lead": "The contemplation instruction, beginning with form:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:38.5", "mn10:38.6", "mn10:38.7", "mn10:38.8"],
+            "segment_ids": [
+              "mn10:38.5",
+              "mn10:38.6",
+              "mn10:38.7",
+              "mn10:38.8"
+            ],
             "lead": "Feeling, perception, formations, and consciousness follow the same formula:"
           }
         ]
@@ -174,7 +223,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:39.1", "mn10:39.2", "mn10:39.3", "mn10:39.4"],
+            "segment_ids": [
+              "mn10:39.1",
+              "mn10:39.2",
+              "mn10:39.3",
+              "mn10:39.4"
+            ],
             "lead": "The closing refrain of the aggregates section, leading to non-clinging:"
           }
         ]
@@ -199,8 +253,14 @@
         "a": "The five aggregates appear throughout the early Pali discourses rather than in one source text. Two passages can be read in the original on this site: the Saccavibhaṅgasutta (MN 141) lists the five aggregates subject to clinging within the definition of the noble truth of suffering, summarized as 'in brief, the five aggregates subject to clinging are suffering'; and the Satipaṭṭhānasutta (MN 10) teaches how to contemplate each aggregate's origin and passing away. The well-known line 'the five aggregates are all empty' comes from the Heart Sutra, a Mahayana text of a different corpus."
       }
     ],
-    "related_topics": ["anatta", "four-noble-truths"],
-    "related_suttas": ["mn141", "mn10"],
+    "related_topics": [
+      "anatta",
+      "four-noble-truths"
+    ],
+    "related_suttas": [
+      "mn141",
+      "mn10"
+    ],
     "related_lexicon": []
   }
 }

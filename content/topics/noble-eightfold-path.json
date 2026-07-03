@@ -1,6 +1,6 @@
 {
   "slug": "noble-eightfold-path",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,12 +20,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "segment_ids": [
+              "mn141:2.1",
+              "mn141:2.2"
+            ],
             "lead": "世尊開場宣告法輪的內容："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "segment_ids": [
+              "mn141:23.1",
+              "mn141:23.2",
+              "mn141:23.3"
+            ],
             "lead": "舍利弗給出道諦的定義，即八正道的總綱："
           }
         ]
@@ -39,12 +46,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "segment_ids": [
+              "mn141:24.1",
+              "mn141:24.2",
+              "mn141:24.3"
+            ],
             "lead": "正見的原典定義："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:25.1", "mn141:25.2", "mn141:25.3"],
+            "segment_ids": [
+              "mn141:25.1",
+              "mn141:25.2",
+              "mn141:25.3"
+            ],
             "lead": "正思惟的原典定義："
           }
         ]
@@ -58,12 +73,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:26.1", "mn141:26.2", "mn141:26.3"],
+            "segment_ids": [
+              "mn141:26.1",
+              "mn141:26.2",
+              "mn141:26.3"
+            ],
             "lead": "正語的原典定義："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:27.1", "mn141:27.2", "mn141:27.3"],
+            "segment_ids": [
+              "mn141:27.1",
+              "mn141:27.2",
+              "mn141:27.3"
+            ],
             "lead": "正業的原典定義："
           }
         ]
@@ -77,7 +100,11 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:28.1", "mn141:28.2", "mn141:28.3"],
+            "segment_ids": [
+              "mn141:28.1",
+              "mn141:28.2",
+              "mn141:28.3"
+            ],
             "lead": "正命的原典定義，全文如下："
           }
         ]
@@ -91,12 +118,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:29.1", "mn141:29.2", "mn141:29.3", "mn141:29.4"],
+            "segment_ids": [
+              "mn141:29.1",
+              "mn141:29.2",
+              "mn141:29.3",
+              "mn141:29.4"
+            ],
             "lead": "正精進的前三種努力："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:29.5", "mn141:29.6"],
+            "segment_ids": [
+              "mn141:29.5",
+              "mn141:29.6"
+            ],
             "lead": "第四種努力與定義的收束："
           }
         ]
@@ -110,12 +145,22 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:30.1", "mn141:30.2", "mn141:30.3", "mn141:30.4"],
+            "segment_ids": [
+              "mn141:30.1",
+              "mn141:30.2",
+              "mn141:30.3",
+              "mn141:30.4"
+            ],
             "lead": "正念的原典定義（四念處）："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:31.1", "mn141:31.2", "mn141:31.3", "mn141:31.4"],
+            "segment_ids": [
+              "mn141:31.1",
+              "mn141:31.2",
+              "mn141:31.3",
+              "mn141:31.4"
+            ],
             "lead": "正定的原典定義（四禪那）："
           }
         ]
@@ -129,7 +174,9 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:31.7"],
+            "segment_ids": [
+              "mn141:31.7"
+            ],
             "lead": "八支定義完畢後，舍利弗的收束："
           }
         ]
@@ -143,7 +190,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.1", "mn141:5.2"],
+            "segment_ids": [
+              "mn141:5.1",
+              "mn141:5.2"
+            ],
             "lead": "世尊對比丘們的指示："
           }
         ]
@@ -168,8 +218,13 @@
         "a": "八正道作為第四聖諦，屬於佛陀最早期的核心教導，散見於巴利尼柯耶多處。本頁依據的是《中部》第 141 經《諦分別經》（Saccavibhaṅgasutta），因為它保存了對八支的逐條定義，且出自佛陀親自指定的解說者：經中世尊囑咐比丘們親近舍利弗，說他能廣詳解說四聖諦，隨後由舍利弗完成整部開示。北傳《中阿含經》中有對應的《分別聖諦經》可供對照。"
       }
     ],
-    "related_topics": ["four-noble-truths", "sati"],
-    "related_suttas": ["mn141"],
+    "related_topics": [
+      "four-noble-truths",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn141"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -189,12 +244,19 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:2.1", "mn141:2.2"],
+            "segment_ids": [
+              "mn141:2.1",
+              "mn141:2.2"
+            ],
             "lead": "The Buddha's opening declaration:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:23.1", "mn141:23.2", "mn141:23.3"],
+            "segment_ids": [
+              "mn141:23.1",
+              "mn141:23.2",
+              "mn141:23.3"
+            ],
             "lead": "Sāriputta's definition of the fourth truth — the path itself:"
           }
         ]
@@ -208,12 +270,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:24.1", "mn141:24.2", "mn141:24.3"],
+            "segment_ids": [
+              "mn141:24.1",
+              "mn141:24.2",
+              "mn141:24.3"
+            ],
             "lead": "Right view, as defined in the source text:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:25.1", "mn141:25.2", "mn141:25.3"],
+            "segment_ids": [
+              "mn141:25.1",
+              "mn141:25.2",
+              "mn141:25.3"
+            ],
             "lead": "Right intention, as defined in the source text:"
           }
         ]
@@ -227,12 +297,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:26.1", "mn141:26.2", "mn141:26.3"],
+            "segment_ids": [
+              "mn141:26.1",
+              "mn141:26.2",
+              "mn141:26.3"
+            ],
             "lead": "Right speech, as defined in the source text:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:27.1", "mn141:27.2", "mn141:27.3"],
+            "segment_ids": [
+              "mn141:27.1",
+              "mn141:27.2",
+              "mn141:27.3"
+            ],
             "lead": "Right action, as defined in the source text:"
           }
         ]
@@ -246,7 +324,11 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:28.1", "mn141:28.2", "mn141:28.3"],
+            "segment_ids": [
+              "mn141:28.1",
+              "mn141:28.2",
+              "mn141:28.3"
+            ],
             "lead": "Right livelihood — the complete definition:"
           }
         ]
@@ -260,12 +342,20 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:29.1", "mn141:29.2", "mn141:29.3", "mn141:29.4"],
+            "segment_ids": [
+              "mn141:29.1",
+              "mn141:29.2",
+              "mn141:29.3",
+              "mn141:29.4"
+            ],
             "lead": "The first three exertions:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:29.5", "mn141:29.6"],
+            "segment_ids": [
+              "mn141:29.5",
+              "mn141:29.6"
+            ],
             "lead": "The fourth exertion and the closing of the definition:"
           }
         ]
@@ -279,12 +369,22 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:30.1", "mn141:30.2", "mn141:30.3", "mn141:30.4"],
+            "segment_ids": [
+              "mn141:30.1",
+              "mn141:30.2",
+              "mn141:30.3",
+              "mn141:30.4"
+            ],
             "lead": "Right mindfulness, defined as the four foundations:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:31.1", "mn141:31.2", "mn141:31.3", "mn141:31.4"],
+            "segment_ids": [
+              "mn141:31.1",
+              "mn141:31.2",
+              "mn141:31.3",
+              "mn141:31.4"
+            ],
             "lead": "Right concentration, defined as the jhānas:"
           }
         ]
@@ -298,7 +398,9 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:31.7"],
+            "segment_ids": [
+              "mn141:31.7"
+            ],
             "lead": "Sāriputta's conclusion after defining all eight factors:"
           }
         ]
@@ -312,7 +414,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.1", "mn141:5.2"],
+            "segment_ids": [
+              "mn141:5.1",
+              "mn141:5.2"
+            ],
             "lead": "The Buddha's instruction to the monks:"
           }
         ]
@@ -337,8 +442,13 @@
         "a": "As the fourth Noble Truth, the Eightfold Path belongs to the Buddha's earliest core teaching and appears throughout the Pali Nikāyas. This page is based on MN 141, the Saccavibhaṅga Sutta ('The Analysis of the Truths'), because it preserves factor-by-factor definitions and carries a notable pedigree: the Buddha himself directs the monks to Sāriputta, saying he can expound the Four Noble Truths in detail, and the exposition that follows is Sāriputta's. A parallel discourse survives in the Chinese Madhyama Āgama."
       }
     ],
-    "related_topics": ["four-noble-truths", "sati"],
-    "related_suttas": ["mn141"],
+    "related_topics": [
+      "four-noble-truths",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn141"
+    ],
     "related_lexicon": []
   }
 }

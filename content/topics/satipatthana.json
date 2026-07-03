@@ -1,6 +1,6 @@
 {
   "slug": "satipatthana",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -19,7 +19,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "經文總說段對四念處的定義："
           }
         ]
@@ -33,7 +38,9 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "經首的總說："
           }
         ]
@@ -47,12 +54,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:4.3", "mn10:4.4", "mn10:4.5"],
+            "segment_ids": [
+              "mn10:4.3",
+              "mn10:4.4",
+              "mn10:4.5"
+            ],
             "lead": "身隨觀第一節以呼吸為所緣："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:6.1"],
+            "segment_ids": [
+              "mn10:6.1"
+            ],
             "lead": "觀察也遍及行住坐臥："
           }
         ]
@@ -66,7 +79,11 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ],
             "lead": "受隨觀的基本句式："
           }
         ]
@@ -80,7 +97,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:34.2", "mn10:34.3", "mn10:34.4", "mn10:34.5"],
+            "segment_ids": [
+              "mn10:34.2",
+              "mn10:34.3",
+              "mn10:34.4",
+              "mn10:34.5"
+            ],
             "lead": "心隨觀的句式，以貪與瞋為例："
           }
         ]
@@ -94,12 +116,16 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:36.2"],
+            "segment_ids": [
+              "mn10:36.2"
+            ],
             "lead": "法隨觀從五蓋開始："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:44.3"],
+            "segment_ids": [
+              "mn10:44.3"
+            ],
             "lead": "最後一品觀四聖諦："
           }
         ]
@@ -113,7 +139,11 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3"
+            ],
             "lead": "以身念處第一節之後的疊句為例："
           }
         ]
@@ -127,12 +157,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:46.1", "mn10:46.2"],
+            "segment_ids": [
+              "mn10:46.1",
+              "mn10:46.2"
+            ],
             "lead": "經末的成果保證，從七年說起："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:46.22", "mn10:46.23"],
+            "segment_ids": [
+              "mn10:46.22",
+              "mn10:46.23"
+            ],
             "lead": "最終縮短到七天："
           }
         ]
@@ -157,9 +193,18 @@
         "a": "念（sati）是持續、清明的覺知能力；四念處則是這個念的四個安住領域——身、受、心、法。《念處經》中比丘「精勤、正知、具念」地隨觀，就是念在這四個領域中的具體運作；經文的疊句也說念的現前「僅為了知與念」。可以說 sati 是能力，satipaṭṭhāna 是把這個能力系統性建立起來的框架。"
       }
     ],
-    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
-    "related_suttas": ["mn10"],
-    "related_lexicon": ["sati", "satipatthana"]
+    "related_topics": [
+      "satipatthana-practice",
+      "anapanasati",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn10"
+    ],
+    "related_lexicon": [
+      "sati",
+      "satipatthana"
+    ]
   },
   "en": {
     "title": "Satipatthana (The Four Foundations of Mindfulness)",
@@ -177,7 +222,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "The sutta's summary definition of the four:"
           }
         ]
@@ -191,7 +241,9 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "The opening declaration:"
           }
         ]
@@ -205,12 +257,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:4.3", "mn10:4.4", "mn10:4.5"],
+            "segment_ids": [
+              "mn10:4.3",
+              "mn10:4.4",
+              "mn10:4.5"
+            ],
             "lead": "The first section takes the breath as its object:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:6.1"],
+            "segment_ids": [
+              "mn10:6.1"
+            ],
             "lead": "Observation extends to all four postures:"
           }
         ]
@@ -224,7 +282,11 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:32.2", "mn10:32.3", "mn10:32.4"],
+            "segment_ids": [
+              "mn10:32.2",
+              "mn10:32.3",
+              "mn10:32.4"
+            ],
             "lead": "The basic formula for contemplating feelings:"
           }
         ]
@@ -238,7 +300,12 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:34.2", "mn10:34.3", "mn10:34.4", "mn10:34.5"],
+            "segment_ids": [
+              "mn10:34.2",
+              "mn10:34.3",
+              "mn10:34.4",
+              "mn10:34.5"
+            ],
             "lead": "The formula for contemplating mind, illustrated with lust and hatred:"
           }
         ]
@@ -252,12 +319,16 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:36.2"],
+            "segment_ids": [
+              "mn10:36.2"
+            ],
             "lead": "Contemplation of dhammas begins with the five hindrances:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:44.3"],
+            "segment_ids": [
+              "mn10:44.3"
+            ],
             "lead": "The final section contemplates the Four Noble Truths:"
           }
         ]
@@ -271,7 +342,11 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3"
+            ],
             "lead": "The refrain, as it first appears after mindfulness of breathing:"
           }
         ]
@@ -285,12 +360,18 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:46.1", "mn10:46.2"],
+            "segment_ids": [
+              "mn10:46.1",
+              "mn10:46.2"
+            ],
             "lead": "The guarantee, starting from seven years:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:46.22", "mn10:46.23"],
+            "segment_ids": [
+              "mn10:46.22",
+              "mn10:46.23"
+            ],
             "lead": "Shortened, finally, to seven days:"
           }
         ]
@@ -315,8 +396,17 @@
         "a": "Sati is the capacity itself—sustained, lucid awareness. Satipatthana is that capacity established in four fields: body, feelings, mind, and dhammas. When MN 10 describes the practitioner as 'ardent, clearly comprehending, mindful,' that is sati operating within the four foundations; the sutta's refrain adds that mindfulness is established 'only to the extent necessary for knowledge and mindfulness.' In short, sati is the faculty; satipatthana is the framework that systematically establishes it."
       }
     ],
-    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
-    "related_suttas": ["mn10"],
-    "related_lexicon": ["sati", "satipatthana"]
+    "related_topics": [
+      "satipatthana-practice",
+      "anapanasati",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn10"
+    ],
+    "related_lexicon": [
+      "sati",
+      "satipatthana"
+    ]
   }
 }

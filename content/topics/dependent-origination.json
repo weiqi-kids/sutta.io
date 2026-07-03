@@ -1,6 +1,6 @@
 {
   "slug": "dependent-origination",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -20,12 +20,17 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.9"],
+            "segment_ids": [
+              "mn9:22.9"
+            ],
             "lead": "條件式原理的基本公式，以老死與生為例："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:21.2", "mn9:21.3"],
+            "segment_ids": [
+              "mn9:21.2",
+              "mn9:21.3"
+            ],
             "lead": "對每一支的四重了知，即是正見："
           }
         ]
@@ -40,12 +45,16 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.1"],
+            "segment_ids": [
+              "mn9:22.1"
+            ],
             "lead": "逐支問答的格式，以老死為例："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:65.3"],
+            "segment_ids": [
+              "mn9:65.3"
+            ],
             "lead": "同一格式一路問到最後一支無明："
           }
         ]
@@ -60,12 +69,21 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.2", "mn9:22.3", "mn9:22.4", "mn9:22.5"],
+            "segment_ids": [
+              "mn9:22.2",
+              "mn9:22.3",
+              "mn9:22.4",
+              "mn9:22.5"
+            ],
             "lead": "老與死的原典定義："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:26.2", "mn9:26.3", "mn9:26.4"],
+            "segment_ids": [
+              "mn9:26.2",
+              "mn9:26.3",
+              "mn9:26.4"
+            ],
             "lead": "生的定義，及其條件是有："
           }
         ]
@@ -80,12 +98,20 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:34.2", "mn9:34.3", "mn9:34.4"],
+            "segment_ids": [
+              "mn9:34.2",
+              "mn9:34.3",
+              "mn9:34.4"
+            ],
             "lead": "四種取，及其條件是渴愛："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:38.2", "mn9:38.3", "mn9:38.4"],
+            "segment_ids": [
+              "mn9:38.2",
+              "mn9:38.3",
+              "mn9:38.4"
+            ],
             "lead": "六類渴愛，及其條件是受："
           }
         ]
@@ -100,12 +126,20 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:54.2", "mn9:54.3", "mn9:54.4", "mn9:54.5"],
+            "segment_ids": [
+              "mn9:54.2",
+              "mn9:54.3",
+              "mn9:54.4",
+              "mn9:54.5"
+            ],
             "lead": "名與色的原典定義："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:65.4", "mn9:65.5"],
+            "segment_ids": [
+              "mn9:65.4",
+              "mn9:65.5"
+            ],
             "lead": "無明的原典定義——對四聖諦的不了知："
           }
         ]
@@ -120,12 +154,17 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:66.1"],
+            "segment_ids": [
+              "mn9:66.1"
+            ],
             "lead": "無明也依條件而起——它不是第一因："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:67.1", "mn9:67.2"],
+            "segment_ids": [
+              "mn9:67.1",
+              "mn9:67.2"
+            ],
             "lead": "每一支共同的結語——了知即通向苦的終結："
           }
         ]
@@ -154,8 +193,13 @@
         "a": "不是經文本身的架構，而是後世註釋傳統的整理：南傳《清淨道論》與北傳阿毘達磨論書將十二支配置為過去世之因（無明、行）、現在世之果（識至受）、現在世之因（愛、取、有）、未來世之果（生、老死），故稱「三世兩重因果」。作為理解框架自有其作用，但 MN9 等經文本身只給出各支的定義與集滅道公式，並沒有三世分配的說法。讀者宜區分經文與註釋兩個層次。"
       }
     ],
-    "related_topics": ["four-noble-truths", "anatta"],
-    "related_suttas": ["mn9"],
+    "related_topics": [
+      "four-noble-truths",
+      "anatta"
+    ],
+    "related_suttas": [
+      "mn9"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -175,12 +219,17 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.9"],
+            "segment_ids": [
+              "mn9:22.9"
+            ],
             "lead": "The conditional formula, with aging-and-death and birth as the example:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:21.2", "mn9:21.3"],
+            "segment_ids": [
+              "mn9:21.2",
+              "mn9:21.3"
+            ],
             "lead": "The fourfold knowing of each link is right view:"
           }
         ]
@@ -195,12 +244,16 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.1"],
+            "segment_ids": [
+              "mn9:22.1"
+            ],
             "lead": "The question format, applied to aging-and-death:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:65.3"],
+            "segment_ids": [
+              "mn9:65.3"
+            ],
             "lead": "The same format carried through to the last link, ignorance:"
           }
         ]
@@ -215,12 +268,21 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:22.2", "mn9:22.3", "mn9:22.4", "mn9:22.5"],
+            "segment_ids": [
+              "mn9:22.2",
+              "mn9:22.3",
+              "mn9:22.4",
+              "mn9:22.5"
+            ],
             "lead": "The canonical definitions of aging and of death:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:26.2", "mn9:26.3", "mn9:26.4"],
+            "segment_ids": [
+              "mn9:26.2",
+              "mn9:26.3",
+              "mn9:26.4"
+            ],
             "lead": "The definition of birth, and existence as its condition:"
           }
         ]
@@ -235,12 +297,20 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:34.2", "mn9:34.3", "mn9:34.4"],
+            "segment_ids": [
+              "mn9:34.2",
+              "mn9:34.3",
+              "mn9:34.4"
+            ],
             "lead": "The four kinds of clinging, with craving as their condition:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:38.2", "mn9:38.3", "mn9:38.4"],
+            "segment_ids": [
+              "mn9:38.2",
+              "mn9:38.3",
+              "mn9:38.4"
+            ],
             "lead": "The six classes of craving, with feeling as their condition:"
           }
         ]
@@ -255,12 +325,20 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:54.2", "mn9:54.3", "mn9:54.4", "mn9:54.5"],
+            "segment_ids": [
+              "mn9:54.2",
+              "mn9:54.3",
+              "mn9:54.4",
+              "mn9:54.5"
+            ],
             "lead": "The canonical definitions of name and of form:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:65.4", "mn9:65.5"],
+            "segment_ids": [
+              "mn9:65.4",
+              "mn9:65.5"
+            ],
             "lead": "The definition of ignorance — not knowing the four noble truths:"
           }
         ]
@@ -275,12 +353,17 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:66.1"],
+            "segment_ids": [
+              "mn9:66.1"
+            ],
             "lead": "Ignorance too arises from a condition — it is no first cause:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:67.1", "mn9:67.2"],
+            "segment_ids": [
+              "mn9:67.1",
+              "mn9:67.2"
+            ],
             "lead": "The refrain shared by every link — knowing leads to the end of suffering:"
           }
         ]
@@ -309,8 +392,13 @@
         "a": "No — it is a commentarial arrangement. The Visuddhimagga in the Theravāda tradition and Abhidharma treatises in the northern transmission distributed the twelve links across past causes (ignorance, formations), present results (consciousness through feeling), present causes (craving, clinging, existence), and future results (birth, aging-and-death). It can serve as a useful interpretive framework, but the suttas themselves, including MN 9, give only each link's definition and its origin-cessation-path formula, with no assignment to three lifetimes. Readers should keep the canonical and commentarial layers distinct."
       }
     ],
-    "related_topics": ["four-noble-truths", "anatta"],
-    "related_suttas": ["mn9"],
+    "related_topics": [
+      "four-noble-truths",
+      "anatta"
+    ],
+    "related_suttas": [
+      "mn9"
+    ],
     "related_lexicon": []
   }
 }

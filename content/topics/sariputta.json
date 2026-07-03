@@ -1,6 +1,6 @@
 {
   "slug": "sariputta",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -37,12 +37,21 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.1", "mn141:5.2", "mn141:5.3", "mn141:5.4"],
+            "segment_ids": [
+              "mn141:5.1",
+              "mn141:5.2",
+              "mn141:5.3",
+              "mn141:5.4"
+            ],
             "lead": "佛陀當眾勸比丘們親近舍利弗與目犍連："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.5", "mn141:5.6", "mn141:5.7"],
+            "segment_ids": [
+              "mn141:5.5",
+              "mn141:5.6",
+              "mn141:5.7"
+            ],
             "lead": "並具體說明兩人各自的專長："
           }
         ]
@@ -56,12 +65,18 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:2.3", "mn9:2.4"],
+            "segment_ids": [
+              "mn9:2.3",
+              "mn9:2.4"
+            ],
             "lead": "比丘們對舍利弗的敬重，經文如此記載："
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:3.1", "mn9:3.2"],
+            "segment_ids": [
+              "mn9:3.1",
+              "mn9:3.2"
+            ],
             "lead": "他對「什麼是正見」的第一層回答："
           }
         ]
@@ -75,12 +90,18 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:6.2", "mn141:7.1"],
+            "segment_ids": [
+              "mn141:6.2",
+              "mn141:7.1"
+            ],
             "lead": "佛陀離去、舍利弗接手說法的交接現場："
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "他解說苦聖諦的起手式："
           }
         ]
@@ -95,7 +116,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:32.3", "mn141:32.4"],
+            "segment_ids": [
+              "mn141:32.3",
+              "mn141:32.4"
+            ],
             "lead": "《諦分別經》的結尾："
           }
         ]
@@ -120,8 +144,14 @@
         "a": "依 DPPN，他另名「優波提舍」（Upatissa），辭典明言這顯然是他的本名（personal name），「舍利弗」（Sāriputta）則是他通行的稱名。至於「舍利弗」一名的字源解釋，不在本頁所據的 DPPN 節錄之內，故不展開。"
       }
     ],
-    "related_topics": ["four-noble-truths", "dependent-origination"],
-    "related_suttas": ["mn9", "mn141"],
+    "related_topics": [
+      "four-noble-truths",
+      "dependent-origination"
+    ],
+    "related_suttas": [
+      "mn9",
+      "mn141"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -158,12 +188,21 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.1", "mn141:5.2", "mn141:5.3", "mn141:5.4"],
+            "segment_ids": [
+              "mn141:5.1",
+              "mn141:5.2",
+              "mn141:5.3",
+              "mn141:5.4"
+            ],
             "lead": "The Buddha urges the monks to associate with Sariputta and Moggallāna:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:5.5", "mn141:5.6", "mn141:5.7"],
+            "segment_ids": [
+              "mn141:5.5",
+              "mn141:5.6",
+              "mn141:5.7"
+            ],
             "lead": "And distinguishes their strengths:"
           }
         ]
@@ -177,12 +216,18 @@
         "quotes": [
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:2.3", "mn9:2.4"],
+            "segment_ids": [
+              "mn9:2.3",
+              "mn9:2.4"
+            ],
             "lead": "The monks' regard for Sariputta, in the sutta's own words:"
           },
           {
             "sutta": "mn9",
-            "segment_ids": ["mn9:3.1", "mn9:3.2"],
+            "segment_ids": [
+              "mn9:3.1",
+              "mn9:3.2"
+            ],
             "lead": "His first answer to what right view is:"
           }
         ]
@@ -196,12 +241,18 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:6.2", "mn141:7.1"],
+            "segment_ids": [
+              "mn141:6.2",
+              "mn141:7.1"
+            ],
             "lead": "The handover — the Buddha departs and Sariputta takes the floor:"
           },
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:10.1", "mn141:10.2"],
+            "segment_ids": [
+              "mn141:10.1",
+              "mn141:10.2"
+            ],
             "lead": "How he opens the analysis of the truth of suffering:"
           }
         ]
@@ -216,7 +267,10 @@
         "quotes": [
           {
             "sutta": "mn141",
-            "segment_ids": ["mn141:32.3", "mn141:32.4"],
+            "segment_ids": [
+              "mn141:32.3",
+              "mn141:32.4"
+            ],
             "lead": "The closing lines of MN 141:"
           }
         ]
@@ -241,8 +295,14 @@
         "a": "According to the DPPN he is also called Upatissa, which the dictionary says was evidently his personal name; Sāriputta is the name by which he is generally known. An etymology of the name Sāriputta is not given in the DPPN excerpt this page relies on, so we do not speculate on it here."
       }
     ],
-    "related_topics": ["four-noble-truths", "dependent-origination"],
-    "related_suttas": ["mn9", "mn141"],
+    "related_topics": [
+      "four-noble-truths",
+      "dependent-origination"
+    ],
+    "related_suttas": [
+      "mn9",
+      "mn141"
+    ],
     "related_lexicon": []
   }
 }

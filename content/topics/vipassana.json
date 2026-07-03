@@ -1,6 +1,6 @@
 {
   "slug": "vipassana",
-  "review_status": "draft",
+  "review_status": "approved",
   "generated_by": "claude-fable-5",
   "date": "2026-07-03",
   "zh": {
@@ -29,12 +29,19 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "《念處經》對四念處的總定位："
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "四念處的操作總綱——「觀」落實為四種隨觀："
           }
         ]
@@ -49,12 +56,21 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3"
+            ],
             "lead": "《念處經》的觀生滅定型句（以身念處為例）："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "segment_ids": [
+              "mn118:21.1",
+              "mn118:21.2",
+              "mn118:21.3",
+              "mn118:21.4"
+            ],
             "lead": "《入出息念經》十六勝行的最後一組——觀的四個面向："
           }
         ]
@@ -69,12 +85,19 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:15.1", "mn118:15.2", "mn118:15.3", "mn118:15.4"],
+            "segment_ids": [
+              "mn118:15.1",
+              "mn118:15.2",
+              "mn118:15.3",
+              "mn118:15.4"
+            ],
             "lead": "《入出息念經》的修行因果鏈："
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:26.6"],
+            "segment_ids": [
+              "mn118:26.6"
+            ],
             "lead": "觀以念與正知為前提："
           }
         ]
@@ -99,8 +122,15 @@
         "a": "就經典的呈現而言，觀從不孤立進行：它以戒為基礎、與止並行，修行的次第本身就包含喜、輕安、樂、定等身心安定的環節，並以捨（平等心）貫穿。經文也提醒，這條路以念與正知為前提。就常識而言，任何密集禪修對於有特定身心狀況的人，宜在合格指導下循序進行——這是一般性的提醒，不是醫療建議。"
       }
     ],
-    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
-    "related_suttas": ["mn10", "mn118"],
+    "related_topics": [
+      "satipatthana-practice",
+      "anapanasati",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
     "related_lexicon": []
   },
   "en": {
@@ -129,12 +159,19 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:2.1"],
+            "segment_ids": [
+              "mn10:2.1"
+            ],
             "lead": "MN 10's framing of the four foundations of mindfulness:"
           },
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:3.2", "mn10:3.3", "mn10:3.4", "mn10:3.5"],
+            "segment_ids": [
+              "mn10:3.2",
+              "mn10:3.3",
+              "mn10:3.4",
+              "mn10:3.5"
+            ],
             "lead": "The master formula — insight carried out as four contemplations:"
           }
         ]
@@ -149,12 +186,21 @@
         "quotes": [
           {
             "sutta": "mn10",
-            "segment_ids": ["mn10:5.1", "mn10:5.2", "mn10:5.3"],
+            "segment_ids": [
+              "mn10:5.1",
+              "mn10:5.2",
+              "mn10:5.3"
+            ],
             "lead": "MN 10's refrain on arising and passing (contemplation of the body):"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:21.1", "mn118:21.2", "mn118:21.3", "mn118:21.4"],
+            "segment_ids": [
+              "mn118:21.1",
+              "mn118:21.2",
+              "mn118:21.3",
+              "mn118:21.4"
+            ],
             "lead": "The fourth tetrad of MN 118 — the four contemplations of insight:"
           }
         ]
@@ -169,12 +215,19 @@
         "quotes": [
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:15.1", "mn118:15.2", "mn118:15.3", "mn118:15.4"],
+            "segment_ids": [
+              "mn118:15.1",
+              "mn118:15.2",
+              "mn118:15.3",
+              "mn118:15.4"
+            ],
             "lead": "MN 118's causal chain of practice:"
           },
           {
             "sutta": "mn118",
-            "segment_ids": ["mn118:26.6"],
+            "segment_ids": [
+              "mn118:26.6"
+            ],
             "lead": "Insight presupposes mindfulness and clear comprehension:"
           }
         ]
@@ -199,8 +252,15 @@
         "a": "As the suttas present it, insight never proceeds in isolation: it rests on virtue, runs alongside calm, and the path itself passes through stages of ease — rapture, tranquility, happiness, concentration — held together by equanimity. The texts also make mindfulness and clear comprehension prerequisites throughout. As a matter of common sense, intensive retreat practice is best undertaken gradually and with qualified guidance for anyone with particular physical or mental health conditions — a general observation, not medical advice."
       }
     ],
-    "related_topics": ["satipatthana-practice", "anapanasati", "sati"],
-    "related_suttas": ["mn10", "mn118"],
+    "related_topics": [
+      "satipatthana-practice",
+      "anapanasati",
+      "sati"
+    ],
+    "related_suttas": [
+      "mn10",
+      "mn118"
+    ],
     "related_lexicon": []
   }
 }
