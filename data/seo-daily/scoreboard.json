@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-07-03",
+    "updated": "2026-07-04",
     "launched": "2026-07-03",
     "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md"
   },
@@ -280,9 +280,9 @@
     }
   ],
   "pages": {
-    "https://sutta.io/topics/anapanasati/": "unknown",
+    "https://sutta.io/topics/anapanasati/": "URL is unknown to Google",
     "https://sutta.io/en/topics/anapanasati/": "unknown",
-    "https://sutta.io/topics/anatta/": "unknown",
+    "https://sutta.io/topics/anatta/": "URL is unknown to Google",
     "https://sutta.io/en/topics/anatta/": "unknown",
     "https://sutta.io/topics/dependent-origination/": "unknown",
     "https://sutta.io/en/topics/dependent-origination/": "unknown",
@@ -298,12 +298,12 @@
     "https://sutta.io/en/topics/sati/": "unknown",
     "https://sutta.io/topics/satipatthana/": "unknown",
     "https://sutta.io/en/topics/satipatthana/": "unknown",
-    "https://sutta.io/topics/satipatthana-practice/": "unknown",
+    "https://sutta.io/topics/satipatthana-practice/": "URL is unknown to Google",
     "https://sutta.io/en/topics/satipatthana-practice/": "unknown",
     "https://sutta.io/topics/vipassana/": "unknown",
     "https://sutta.io/en/topics/vipassana/": "unknown",
-    "https://sutta.io/agama/": "unknown",
-    "https://sutta.io/nikaya/": "unknown",
+    "https://sutta.io/agama/": "URL is unknown to Google",
+    "https://sutta.io/nikaya/": "URL is unknown to Google",
     "https://sutta.io/read/sn56.11/": "unknown",
     "https://sutta.io/topics/marana/": "unknown",
     "https://sutta.io/en/topics/marana/": "unknown",
