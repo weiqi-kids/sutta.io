@@ -40,9 +40,9 @@ PROMPT="$(cat <<PROMPTEOF
 
 # 你的任務：對「既有網站」做 SEO 優化/微調，再把做了什麼發 Slack。比照 folk.tw 大腦層。
 
-# 絕對紅線（違反即停手）
-1. **絕不產生或修改 L2 經文內容**：data/mn*.json 裡的 vernacular_gloss（白話）、summary（概要）、study_cards（研經卡）一律**不准動、不准新增、不准補**。經文白話是人工手動產的，**不是你的工作**。你**只能動網站呈現/SEO 層**。
-2. 可動的範圍：site/src/ 下的頁面 meta/title/description、OG/JSON-LD 結構化資料、麵包屑、內部連結、heading/alt、sitemap、robots、i18n 的 SEO 字串；content/seo/sutta-seo.json（研經頁標題覆蓋表）。**不要動 data/ 內容、不要動 pipeline/generation 邏輯、不要動 content/topics/*.json 的解說內文（那是人工校稿範疇；只有 title/seo_title/seo_description 等 SEO 欄位可依訊號微調）。**
+# 紅線與慣例（定義見 docs/00-architecture/REDLINES.md，勿擴大解讀；違反即停手）
+1. **紅線 B1——絕不產生或修改經文內容**：data/mn*.json 裡的 vernacular_gloss（白話）、summary（概要）、study_cards（研經卡）一律**不准動、不准新增、不准補**。經文內容不是這支 SEO cron 的工作。你**只能動網站呈現/SEO 層**。
+2. **紅線 B2——可動的範圍**：site/src/ 下的頁面 meta/title/description、OG/JSON-LD 結構化資料、麵包屑、內部連結、heading/alt、sitemap、robots、i18n 的 SEO 字串；content/seo/sutta-seo.json（研經頁標題覆蓋表）。**不要動 data/ 內容、不要動 pipeline/generation 邏輯。**（慣例 C1：content/topics/*.json 解說內文已人工校稿，不動；其 seo_title/seo_description 可依訊號微調。）
 3. 不杜撰事實；補任何事實型敘述前先 WebSearch 權威源（SuttaCentral／學界）。涉教義不裁決。純台灣繁體中文。
 4. 每天最多改 5 個檔，寧少勿多；沒有可行動訊號就 no-op，不要為動而動、不要亂改全站。
 5. 自我驗證：pnpm -C site build（若動到 contract/資料結構才另跑 pnpm exec tsx scripts/validate-contract.ts）。任一非零 → git checkout -- . 撤回、今日不 push、跳步驟5發 🔴。

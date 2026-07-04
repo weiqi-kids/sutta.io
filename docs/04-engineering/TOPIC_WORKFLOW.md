@@ -1,8 +1,8 @@
 # TOPIC_WORKFLOW.md — 關鍵字調研與主題頁產出 SOP
 
 > 這是 SEO 內容擴充的正式流程（比照 L2_SUBAGENT_WORKFLOW.md 的地位）。
-> 分工鐵則：**大腦層（cron）只做監控與 SEO 欄位微調，絕不產內容**；本文件的流程一律由
-> **互動 session（Claude Code）人工觸發執行**，新頁上線前經用戶校稿。
+> 紅線與慣例以 `docs/00-architecture/REDLINES.md` 為準（本文件不另立規則）：自動程序不產內容
+> 屬紅線 B1–B2；本文件流程由互動 session 人工觸發、新頁 draft→用戶校稿→approved 屬慣例 C1。
 > 相關：SEO_KEYWORDS.md（目標詞單一真相）、SEO_EXPECTATIONS.md（每日監控協定）。
 
 ## A. 關鍵字調研方法（每輪 ~30 分鐘，建議每月或第四梯隊耗盡時跑）
