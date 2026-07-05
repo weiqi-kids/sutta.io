@@ -1,5 +1,11 @@
 # L2_BACKFILL_PLAN.md — 補完 10 部「有經無白話」的經（2026-07-05 立案）
 
+> **✅ 已完成（2026-07-05 同日執行完畢）**：三波 10 部經全數補完白話≥98%（實際皆 100%）＋概要＋研經卡＋標題，mn8 收尾（23 段誤標「資料不足」的削減公式已修正、補標題「削減經」）。三波各自 validate 綠、build 綠、push 上線、Google index-ping。
+> - 第一波：mn36 358/358、mn38 443/443、mn28 164/164
+> - 第二波：mn35 233/233、mn27 199/199、mn29 179/179、mn30 161/161
+> - 第三波：mn39 189/189、mn32 166/166、mn33 116/116、mn8 168/168（收尾）
+> 下游主題頁（見文末「補完後的下游」）材料已解鎖，待另立 TOPIC_WORKFLOW 產出。
+
 > 執行方法以 `L2_SUBAGENT_WORKFLOW.md` 為準（sonnet sub-agent、l2-batch-dump→翻→l2-batch-merge、≥98% 覆蓋）。
 > 本檔只定「做哪些、順序、驗收」。相關記憶：[[sutta-io-l2-via-sonnet-subagent]]、[[sutta-io-push-and-run-autonomy]]、[[communicate-traditional-chinese-taiwan]]、[[sutta-io-topics-system]]。
 
