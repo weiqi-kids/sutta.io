@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn39",
-    "title_pali": "MN39",
-    "title_zh": "mn39",
+    "title_pali": "Mahāassapurasutta",
+    "title_zh": "馬邑大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn39"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.1.t0",
+          "mn39:1.1.t1",
+          "mn39:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn39:1.2",
@@ -549,7 +558,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.2.t0",
+          "mn39:1.2.t1",
+          "mn39:1.2.t2",
+          "mn39:1.2.t3",
+          "mn39:1.2.t4",
+          "mn39:1.2.t5",
+          "mn39:1.2.t6",
+          "mn39:1.2.t7",
+          "mn39:1.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "有一次，世尊在鴦伽國遊化，來到鴦伽人的一個聚落，名叫馬邑。"
+      }
     },
     {
       "segment_id": "mn39:1.3",
@@ -723,7 +747,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.3.t0",
+          "mn39:1.3.t1",
+          "mn39:1.3.t2",
+          "mn39:1.3.t3",
+          "mn39:1.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "世尊在那裡召喚比丘們："
+      }
     },
     {
       "segment_id": "mn39:1.4",
@@ -788,7 +823,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.4.t0",
+          "mn39:1.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘。」"
+      }
     },
     {
       "segment_id": "mn39:1.5",
@@ -1078,7 +1121,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.5.t0",
+          "mn39:1.5.t1",
+          "mn39:1.5.t2",
+          "mn39:1.5.t3",
+          "mn39:1.5.t4",
+          "mn39:1.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「世尊。」那些比丘回應世尊。"
+      }
     },
     {
       "segment_id": "mn39:1.6",
@@ -1160,7 +1215,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:1.6.t0",
+          "mn39:1.6.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊如此說道："
+      }
     },
     {
       "segment_id": "mn39:2.1",
@@ -1357,7 +1420,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:2.1.t0",
+          "mn39:2.1.t1",
+          "mn39:2.1.t2",
+          "mn39:2.1.t3",
+          "mn39:2.1.t4",
+          "mn39:2.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，世人認定你們是『沙門、沙門』。"
+      }
     },
     {
       "segment_id": "mn39:2.2",
@@ -1779,7 +1854,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:2.2.t0",
+          "mn39:2.2.t1",
+          "mn39:2.2.t2",
+          "mn39:2.2.t3",
+          "mn39:2.2.t4",
+          "mn39:2.2.t5",
+          "mn39:2.2.t6",
+          "mn39:2.2.t7",
+          "mn39:2.2.t9",
+          "mn39:2.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "而你們若被問到『你們是誰』，也自稱『我們是沙門』。"
+      }
     },
     {
       "segment_id": "mn39:2.3",
@@ -3081,7 +3172,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:2.3.t0",
+          "mn39:2.3.t1",
+          "mn39:2.3.t2",
+          "mn39:2.3.t3",
+          "mn39:2.3.t4",
+          "mn39:2.3.t5",
+          "mn39:2.3.t6",
+          "mn39:2.3.t7",
+          "mn39:2.3.t8",
+          "mn39:2.3.t9",
+          "mn39:2.3.t10",
+          "mn39:2.3.t11",
+          "mn39:2.3.t12",
+          "mn39:2.3.t13",
+          "mn39:2.3.t14",
+          "mn39:2.3.t15",
+          "mn39:2.3.t16",
+          "mn39:2.3.t17",
+          "mn39:2.3.t18",
+          "mn39:2.3.t19",
+          "mn39:2.3.t20",
+          "mn39:2.3.t21",
+          "mn39:2.3.t22",
+          "mn39:2.3.t23",
+          "mn39:2.3.t24",
+          "mn39:2.3.t25",
+          "mn39:2.3.t26",
+          "mn39:2.3.t27"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，你們既有如此的稱謂、如此的自稱，就應當受持那些使人成為沙門、使人成為婆羅門的法，並依之修行；如此，我們這稱謂才是真實的，自稱也才是名符其實的。"
+      }
     },
     {
       "segment_id": "mn39:2.4",
@@ -3929,7 +4054,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:2.4.t0",
+          "mn39:2.4.t1",
+          "mn39:2.4.t2",
+          "mn39:2.4.t3",
+          "mn39:2.4.t4",
+          "mn39:2.4.t5",
+          "mn39:2.4.t6",
+          "mn39:2.4.t7",
+          "mn39:2.4.t8",
+          "mn39:2.4.t9",
+          "mn39:2.4.t10",
+          "mn39:2.4.t11",
+          "mn39:2.4.t12",
+          "mn39:2.4.t13",
+          "mn39:2.4.t14",
+          "mn39:2.4.t15",
+          "mn39:2.4.t16",
+          "mn39:2.4.t17"
+        ],
+        "review_status": "approved",
+        "content": "而且，我們所受用的衣服、飲食、臥具及醫藥資具，施主的這些供養，對我們來說才會有大果報、大利益；我們這出家生活，也才不致虛耗，而是有成果、有收穫的。」"
+      }
     },
     {
       "segment_id": "mn39:2.5",
@@ -4093,7 +4242,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:2.5.t0",
+          "mn39:2.5.t1",
+          "mn39:2.5.t2",
+          "mn39:2.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:3.1",
@@ -4412,7 +4571,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.1.t0",
+          "mn39:3.1.t1",
+          "mn39:3.1.t2",
+          "mn39:3.1.t3",
+          "mn39:3.1.t4",
+          "mn39:3.1.t5",
+          "mn39:3.1.t6",
+          "mn39:3.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，什麼是使人成為沙門、使人成為婆羅門的法呢？"
+      }
     },
     {
       "segment_id": "mn39:3.2",
@@ -4720,7 +4893,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.2.t0",
+          "mn39:3.2.t1",
+          "mn39:3.2.t3",
+          "mn39:3.2.t4",
+          "mn39:3.2.t5",
+          "mn39:3.2.t6",
+          "mn39:3.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "『我們要具足慚愧。』諸比丘，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:3.3",
@@ -4867,7 +5053,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.3.t0",
+          "mn39:3.3.t1",
+          "mn39:3.3.t2",
+          "mn39:3.3.t3",
+          "mn39:3.3.t4",
+          "mn39:3.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，你們或許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:3.4",
@@ -5421,7 +5619,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.4.t1",
+          "mn39:3.4.t2",
+          "mn39:3.4.t3",
+          "mn39:3.4.t4",
+          "mn39:3.4.t5",
+          "mn39:3.4.t6",
+          "mn39:3.4.t7",
+          "mn39:3.4.t8",
+          "mn39:3.4.t9",
+          "mn39:3.4.t10",
+          "mn39:3.4.t12",
+          "mn39:3.4.t13",
+          "mn39:3.4.t14",
+          "mn39:3.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "『我們已經具足慚愧了，這樣就足夠了，該做的都已經做了，我們已達到沙門的目標，再沒有什麼更進一步該做的了』，便僅止於此而感到滿足。"
+      }
     },
     {
       "segment_id": "mn39:3.5",
@@ -5647,7 +5865,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.5.t0",
+          "mn39:3.5.t1",
+          "mn39:3.5.t2",
+          "mn39:3.5.t3",
+          "mn39:3.5.t4",
+          "mn39:3.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，我告訴你們，我要讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:3.6",
@@ -6165,7 +6395,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:3.6.t0",
+          "mn39:3.6.t1",
+          "mn39:3.6.t2",
+          "mn39:3.6.t3",
+          "mn39:3.6.t4",
+          "mn39:3.6.t5",
+          "mn39:3.6.t6",
+          "mn39:3.6.t7",
+          "mn39:3.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "你們既然追求沙門的目標，切莫在還有更進一步該做之事時，就讓沙門的目標退失了。"
+      }
     },
     {
       "segment_id": "mn39:4.1",
@@ -6337,7 +6582,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.1.t0",
+          "mn39:4.1.t1",
+          "mn39:4.1.t2",
+          "mn39:4.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，那麼還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:4.2",
@@ -6574,7 +6829,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.2.t0",
+          "mn39:4.2.t1",
+          "mn39:4.2.t2",
+          "mn39:4.2.t3",
+          "mn39:4.2.t4",
+          "mn39:4.2.t5",
+          "mn39:4.2.t6",
+          "mn39:4.2.t7",
+          "mn39:4.2.t8",
+          "mn39:4.2.t9",
+          "mn39:4.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我們的身行要清淨，坦露、無所隱瞞，不破損、且能防護。』"
+      }
     },
     {
       "segment_id": "mn39:4.3",
@@ -7018,7 +7290,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.3.t0",
+          "mn39:4.3.t1",
+          "mn39:4.3.t2",
+          "mn39:4.3.t3",
+          "mn39:4.3.t4",
+          "mn39:4.3.t5",
+          "mn39:4.3.t6",
+          "mn39:4.3.t8",
+          "mn39:4.3.t9",
+          "mn39:4.3.t10",
+          "mn39:4.3.t11",
+          "mn39:4.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "而且，不因這身行的清淨而自我標榜、也不輕蔑他人。』諸比丘，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:4.4",
@@ -7165,7 +7455,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.4.t0",
+          "mn39:4.4.t1",
+          "mn39:4.4.t2",
+          "mn39:4.4.t3",
+          "mn39:4.4.t4",
+          "mn39:4.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，你們或許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:4.5",
@@ -7343,7 +7645,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.5.t1",
+          "mn39:4.5.t2",
+          "mn39:4.5.t3",
+          "mn39:4.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "『我們已經具足慚愧，身行也已清淨了，"
+      }
     },
     {
       "segment_id": "mn39:4.6",
@@ -7807,7 +8119,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.6.t0",
+          "mn39:4.6.t1",
+          "mn39:4.6.t2",
+          "mn39:4.6.t3",
+          "mn39:4.6.t4",
+          "mn39:4.6.t5",
+          "mn39:4.6.t6",
+          "mn39:4.6.t7",
+          "mn39:4.6.t8",
+          "mn39:4.6.t10",
+          "mn39:4.6.t11",
+          "mn39:4.6.t12",
+          "mn39:4.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "這樣就足夠了，該做的都已經做了，我們已達到沙門的目標，再沒有什麼更進一步該做的了』，便僅止於此而感到滿足。"
+      }
     },
     {
       "segment_id": "mn39:4.7",
@@ -8033,7 +8364,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.7.t0",
+          "mn39:4.7.t1",
+          "mn39:4.7.t2",
+          "mn39:4.7.t3",
+          "mn39:4.7.t4",
+          "mn39:4.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，我告訴你們，我要讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:4.8",
@@ -8551,7 +8894,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:4.8.t0",
+          "mn39:4.8.t1",
+          "mn39:4.8.t2",
+          "mn39:4.8.t3",
+          "mn39:4.8.t4",
+          "mn39:4.8.t5",
+          "mn39:4.8.t6",
+          "mn39:4.8.t7",
+          "mn39:4.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "你們既然追求沙門的目標，切莫在還有更進一步該做之事時，就讓沙門的目標退失了。"
+      }
     },
     {
       "segment_id": "mn39:5.1",
@@ -8723,7 +9081,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.1.t0",
+          "mn39:5.1.t1",
+          "mn39:5.1.t2",
+          "mn39:5.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，那麼還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:5.2",
@@ -8960,7 +9328,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.2.t0",
+          "mn39:5.2.t1",
+          "mn39:5.2.t2",
+          "mn39:5.2.t3",
+          "mn39:5.2.t4",
+          "mn39:5.2.t5",
+          "mn39:5.2.t6",
+          "mn39:5.2.t7",
+          "mn39:5.2.t8",
+          "mn39:5.2.t9",
+          "mn39:5.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我們的語行要清淨，坦露、無所隱瞞，不破損、且能防護。』"
+      }
     },
     {
       "segment_id": "mn39:5.3",
@@ -9404,7 +9789,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.3.t0",
+          "mn39:5.3.t1",
+          "mn39:5.3.t2",
+          "mn39:5.3.t3",
+          "mn39:5.3.t4",
+          "mn39:5.3.t5",
+          "mn39:5.3.t6",
+          "mn39:5.3.t8",
+          "mn39:5.3.t9",
+          "mn39:5.3.t10",
+          "mn39:5.3.t11",
+          "mn39:5.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "而且，不因這語行的清淨而自我標榜、也不輕蔑他人。』諸比丘，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:5.4",
@@ -9551,7 +9954,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.4.t0",
+          "mn39:5.4.t1",
+          "mn39:5.4.t2",
+          "mn39:5.4.t3",
+          "mn39:5.4.t4",
+          "mn39:5.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，你們或許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:5.5",
@@ -9759,7 +10174,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.5.t1",
+          "mn39:5.5.t2",
+          "mn39:5.5.t3",
+          "mn39:5.5.t4",
+          "mn39:5.5.t5",
+          "mn39:5.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "『我們已經具足慚愧，身行已清淨，語行也已清淨了，"
+      }
     },
     {
       "segment_id": "mn39:5.6",
@@ -10223,7 +10650,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.6.t0",
+          "mn39:5.6.t1",
+          "mn39:5.6.t2",
+          "mn39:5.6.t3",
+          "mn39:5.6.t4",
+          "mn39:5.6.t5",
+          "mn39:5.6.t6",
+          "mn39:5.6.t7",
+          "mn39:5.6.t8",
+          "mn39:5.6.t10",
+          "mn39:5.6.t11",
+          "mn39:5.6.t12",
+          "mn39:5.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "這樣就足夠了，該做的都已經做了，我們已達到沙門的目標，再沒有什麼更進一步該做的了』，便僅止於此而感到滿足。"
+      }
     },
     {
       "segment_id": "mn39:5.7",
@@ -10449,7 +10895,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.7.t0",
+          "mn39:5.7.t1",
+          "mn39:5.7.t2",
+          "mn39:5.7.t3",
+          "mn39:5.7.t4",
+          "mn39:5.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，我告訴你們，我要讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:5.8",
@@ -10967,7 +11425,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:5.8.t0",
+          "mn39:5.8.t1",
+          "mn39:5.8.t2",
+          "mn39:5.8.t3",
+          "mn39:5.8.t4",
+          "mn39:5.8.t5",
+          "mn39:5.8.t6",
+          "mn39:5.8.t7",
+          "mn39:5.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "你們既然追求沙門的目標，切莫在還有更進一步該做之事時，就讓沙門的目標退失了。"
+      }
     },
     {
       "segment_id": "mn39:6.1",
@@ -11139,7 +11612,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.1.t0",
+          "mn39:6.1.t1",
+          "mn39:6.1.t2",
+          "mn39:6.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，那麼還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:6.2",
@@ -11376,7 +11859,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.2.t0",
+          "mn39:6.2.t1",
+          "mn39:6.2.t2",
+          "mn39:6.2.t3",
+          "mn39:6.2.t4",
+          "mn39:6.2.t5",
+          "mn39:6.2.t6",
+          "mn39:6.2.t7",
+          "mn39:6.2.t8",
+          "mn39:6.2.t9",
+          "mn39:6.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我們的意行要清淨，坦露、無所隱瞞，不破損、且能防護。』"
+      }
     },
     {
       "segment_id": "mn39:6.3",
@@ -11820,7 +12320,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.3.t0",
+          "mn39:6.3.t1",
+          "mn39:6.3.t2",
+          "mn39:6.3.t3",
+          "mn39:6.3.t4",
+          "mn39:6.3.t5",
+          "mn39:6.3.t6",
+          "mn39:6.3.t8",
+          "mn39:6.3.t9",
+          "mn39:6.3.t10",
+          "mn39:6.3.t11",
+          "mn39:6.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "而且，不因這意行的清淨而自我標榜、也不輕蔑他人。』諸比丘，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:6.4",
@@ -11967,7 +12485,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.4.t0",
+          "mn39:6.4.t1",
+          "mn39:6.4.t2",
+          "mn39:6.4.t3",
+          "mn39:6.4.t4",
+          "mn39:6.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們也許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:6.5",
@@ -12205,7 +12735,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.5.t1",
+          "mn39:6.5.t2",
+          "mn39:6.5.t3",
+          "mn39:6.5.t4",
+          "mn39:6.5.t5",
+          "mn39:6.5.t6",
+          "mn39:6.5.t7",
+          "mn39:6.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨，」"
+      }
     },
     {
       "segment_id": "mn39:6.6",
@@ -12669,7 +13213,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.6.t0",
+          "mn39:6.6.t1",
+          "mn39:6.6.t2",
+          "mn39:6.6.t3",
+          "mn39:6.6.t4",
+          "mn39:6.6.t5",
+          "mn39:6.6.t6",
+          "mn39:6.6.t7",
+          "mn39:6.6.t8",
+          "mn39:6.6.t10",
+          "mn39:6.6.t11",
+          "mn39:6.6.t12",
+          "mn39:6.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣已足夠、這樣已完成，我們已達到沙門的目標，沒有更進一步該做的了』，而以這樣的程度就心滿意足。"
+      }
     },
     {
       "segment_id": "mn39:6.7",
@@ -12895,7 +13458,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.7.t0",
+          "mn39:6.7.t1",
+          "mn39:6.7.t2",
+          "mn39:6.7.t3",
+          "mn39:6.7.t4",
+          "mn39:6.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們；比丘們，我讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:6.8",
@@ -13413,7 +13988,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:6.8.t0",
+          "mn39:6.8.t1",
+          "mn39:6.8.t2",
+          "mn39:6.8.t3",
+          "mn39:6.8.t4",
+          "mn39:6.8.t5",
+          "mn39:6.8.t6",
+          "mn39:6.8.t7",
+          "mn39:6.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "當還有更進一步該做的事時，不要讓你們這些追求沙門目標的人，使沙門的目標退失。"
+      }
     },
     {
       "segment_id": "mn39:7.1",
@@ -13585,7 +14175,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.1.t0",
+          "mn39:7.1.t1",
+          "mn39:7.1.t2",
+          "mn39:7.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:7.2",
@@ -13822,7 +14422,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.2.t0",
+          "mn39:7.2.t1",
+          "mn39:7.2.t2",
+          "mn39:7.2.t3",
+          "mn39:7.2.t4",
+          "mn39:7.2.t5",
+          "mn39:7.2.t6",
+          "mn39:7.2.t7",
+          "mn39:7.2.t8",
+          "mn39:7.2.t9",
+          "mn39:7.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "『願我們的正命清淨，坦然、公開，無破綻，密而無漏。」"
+      }
     },
     {
       "segment_id": "mn39:7.3",
@@ -14266,7 +14883,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.3.t0",
+          "mn39:7.3.t1",
+          "mn39:7.3.t2",
+          "mn39:7.3.t3",
+          "mn39:7.3.t4",
+          "mn39:7.3.t5",
+          "mn39:7.3.t6",
+          "mn39:7.3.t8",
+          "mn39:7.3.t9",
+          "mn39:7.3.t10",
+          "mn39:7.3.t11",
+          "mn39:7.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "而且，因為這清淨的正命，我們不會自我標榜，也不會輕視他人。』比丘們，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:7.4",
@@ -14413,7 +15048,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.4.t0",
+          "mn39:7.4.t1",
+          "mn39:7.4.t2",
+          "mn39:7.4.t3",
+          "mn39:7.4.t4",
+          "mn39:7.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們也許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:7.5",
@@ -14681,7 +15328,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.5.t1",
+          "mn39:7.5.t2",
+          "mn39:7.5.t3",
+          "mn39:7.5.t4",
+          "mn39:7.5.t5",
+          "mn39:7.5.t6",
+          "mn39:7.5.t7",
+          "mn39:7.5.t8",
+          "mn39:7.5.t9",
+          "mn39:7.5.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨、正命清淨，」"
+      }
     },
     {
       "segment_id": "mn39:7.6",
@@ -15145,7 +15808,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.6.t0",
+          "mn39:7.6.t1",
+          "mn39:7.6.t2",
+          "mn39:7.6.t3",
+          "mn39:7.6.t4",
+          "mn39:7.6.t5",
+          "mn39:7.6.t6",
+          "mn39:7.6.t7",
+          "mn39:7.6.t8",
+          "mn39:7.6.t10",
+          "mn39:7.6.t11",
+          "mn39:7.6.t12",
+          "mn39:7.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣已足夠、這樣已完成，我們已達到沙門的目標，沒有更進一步該做的了』，而以這樣的程度就心滿意足。"
+      }
     },
     {
       "segment_id": "mn39:7.7",
@@ -15371,7 +16053,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.7.t0",
+          "mn39:7.7.t1",
+          "mn39:7.7.t2",
+          "mn39:7.7.t3",
+          "mn39:7.7.t4",
+          "mn39:7.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們；比丘們，我讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:7.8",
@@ -15889,7 +16583,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:7.8.t0",
+          "mn39:7.8.t1",
+          "mn39:7.8.t2",
+          "mn39:7.8.t3",
+          "mn39:7.8.t4",
+          "mn39:7.8.t5",
+          "mn39:7.8.t6",
+          "mn39:7.8.t7",
+          "mn39:7.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "當還有更進一步該做的事時，不要讓你們這些追求沙門目標的人，使沙門的目標退失。"
+      }
     },
     {
       "segment_id": "mn39:8.1",
@@ -16061,7 +16770,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.1.t0",
+          "mn39:8.1.t1",
+          "mn39:8.1.t2",
+          "mn39:8.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:8.2",
@@ -16196,7 +16915,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.2.t0",
+          "mn39:8.2.t1",
+          "mn39:8.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "『願我們於諸根守護根門。」"
+      }
     },
     {
       "segment_id": "mn39:8.3",
@@ -16467,7 +17195,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.3.t0",
+          "mn39:8.3.t1",
+          "mn39:8.3.t2",
+          "mn39:8.3.t3",
+          "mn39:8.3.t4",
+          "mn39:8.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "眼見色時，不執取整體相，也不執取細相。"
+      }
     },
     {
       "segment_id": "mn39:8.4",
@@ -17087,7 +17827,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.4.t0",
+          "mn39:8.4.t1",
+          "mn39:8.4.t2",
+          "mn39:8.4.t3",
+          "mn39:8.4.t4",
+          "mn39:8.4.t5",
+          "mn39:8.4.t6",
+          "mn39:8.4.t7",
+          "mn39:8.4.t8",
+          "mn39:8.4.t9",
+          "mn39:8.4.t10",
+          "mn39:8.4.t11",
+          "mn39:8.4.t12",
+          "mn39:8.4.t13",
+          "mn39:8.4.t14",
+          "mn39:8.4.t15",
+          "mn39:8.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "因為，若安住於眼根不防護，貪欲、憂惱等邪惡不善法便會流入，所以我們將依循防護之道而行，守護眼根，於眼根修習防護。"
+      }
     },
     {
       "segment_id": "mn39:8.5",
@@ -17246,7 +18009,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.5.t0",
+          "mn39:8.5.t1",
+          "mn39:8.5.t2",
+          "mn39:8.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "耳聞聲時……"
+      }
     },
     {
       "segment_id": "mn39:8.6",
@@ -17395,7 +18168,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.6.t0",
+          "mn39:8.6.t1",
+          "mn39:8.6.t2",
+          "mn39:8.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "鼻嗅香時……"
+      }
     },
     {
       "segment_id": "mn39:8.7",
@@ -17608,7 +18391,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.7.t0",
+          "mn39:8.7.t1",
+          "mn39:8.7.t2",
+          "mn39:8.7.t3"
+        ],
+        "review_status": "approved",
+        "content": "舌嚐味時……"
+      }
     },
     {
       "segment_id": "mn39:8.8",
@@ -17803,7 +18596,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.8.t0",
+          "mn39:8.8.t1",
+          "mn39:8.8.t2",
+          "mn39:8.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "身觸觸時……"
+      }
     },
     {
       "segment_id": "mn39:8.9",
@@ -18129,7 +18932,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.9.t0",
+          "mn39:8.9.t1",
+          "mn39:8.9.t2",
+          "mn39:8.9.t3",
+          "mn39:8.9.t4",
+          "mn39:8.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "意識法時，不執取整體相，也不執取細相。"
+      }
     },
     {
       "segment_id": "mn39:8.10",
@@ -18932,7 +19747,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.10.t0",
+          "mn39:8.10.t1",
+          "mn39:8.10.t2",
+          "mn39:8.10.t3",
+          "mn39:8.10.t4",
+          "mn39:8.10.t5",
+          "mn39:8.10.t6",
+          "mn39:8.10.t7",
+          "mn39:8.10.t8",
+          "mn39:8.10.t9",
+          "mn39:8.10.t10",
+          "mn39:8.10.t11",
+          "mn39:8.10.t12",
+          "mn39:8.10.t13",
+          "mn39:8.10.t14",
+          "mn39:8.10.t15",
+          "mn39:8.10.t17",
+          "mn39:8.10.t18",
+          "mn39:8.10.t19",
+          "mn39:8.10.t20",
+          "mn39:8.10.t21"
+        ],
+        "review_status": "approved",
+        "content": "因為，若安住於意根不防護，貪欲、憂惱等邪惡不善法便會流入，所以我們將依循防護之道而行，守護意根，於意根修習防護。』比丘們，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:8.11",
@@ -19079,7 +19921,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.11.t0",
+          "mn39:8.11.t1",
+          "mn39:8.11.t2",
+          "mn39:8.11.t3",
+          "mn39:8.11.t4",
+          "mn39:8.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們也許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:8.12",
@@ -19437,7 +20291,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.12.t1",
+          "mn39:8.12.t2",
+          "mn39:8.12.t3",
+          "mn39:8.12.t4",
+          "mn39:8.12.t5",
+          "mn39:8.12.t6",
+          "mn39:8.12.t7",
+          "mn39:8.12.t8",
+          "mn39:8.12.t9",
+          "mn39:8.12.t10",
+          "mn39:8.12.t12"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨、正命清淨，我們於諸根守護根門，」"
+      }
     },
     {
       "segment_id": "mn39:8.13",
@@ -19901,7 +20772,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.13.t0",
+          "mn39:8.13.t1",
+          "mn39:8.13.t2",
+          "mn39:8.13.t3",
+          "mn39:8.13.t4",
+          "mn39:8.13.t5",
+          "mn39:8.13.t6",
+          "mn39:8.13.t7",
+          "mn39:8.13.t8",
+          "mn39:8.13.t10",
+          "mn39:8.13.t11",
+          "mn39:8.13.t12",
+          "mn39:8.13.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣已足夠、這樣已完成，我們已達到沙門的目標，沒有更進一步該做的了』，而以這樣的程度就心滿意足。"
+      }
     },
     {
       "segment_id": "mn39:8.14",
@@ -20127,7 +21017,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.14.t0",
+          "mn39:8.14.t1",
+          "mn39:8.14.t2",
+          "mn39:8.14.t3",
+          "mn39:8.14.t4",
+          "mn39:8.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們；比丘們，我讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:8.15",
@@ -20645,7 +21547,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:8.15.t0",
+          "mn39:8.15.t1",
+          "mn39:8.15.t2",
+          "mn39:8.15.t3",
+          "mn39:8.15.t4",
+          "mn39:8.15.t5",
+          "mn39:8.15.t6",
+          "mn39:8.15.t7",
+          "mn39:8.15.t8"
+        ],
+        "review_status": "approved",
+        "content": "當還有更進一步該做的事時，不要讓你們這些追求沙門目標的人，使沙門的目標退失。"
+      }
     },
     {
       "segment_id": "mn39:9.1",
@@ -20817,7 +21734,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.1.t0",
+          "mn39:9.1.t1",
+          "mn39:9.1.t2",
+          "mn39:9.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼更進一步該做的呢？"
+      }
     },
     {
       "segment_id": "mn39:9.2",
@@ -21132,7 +22059,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.2.t0",
+          "mn39:9.2.t1",
+          "mn39:9.2.t2",
+          "mn39:9.2.t3",
+          "mn39:9.2.t4",
+          "mn39:9.2.t5",
+          "mn39:9.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "『願我們於飲食知量，如理省察而攝取食物。」"
+      }
     },
     {
       "segment_id": "mn39:9.3",
@@ -22387,7 +23327,50 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.3.t0",
+          "mn39:9.3.t1",
+          "mn39:9.3.t2",
+          "mn39:9.3.t3",
+          "mn39:9.3.t4",
+          "mn39:9.3.t5",
+          "mn39:9.3.t6",
+          "mn39:9.3.t7",
+          "mn39:9.3.t8",
+          "mn39:9.3.t9",
+          "mn39:9.3.t10",
+          "mn39:9.3.t11",
+          "mn39:9.3.t12",
+          "mn39:9.3.t13",
+          "mn39:9.3.t14",
+          "mn39:9.3.t15",
+          "mn39:9.3.t16",
+          "mn39:9.3.t17",
+          "mn39:9.3.t18",
+          "mn39:9.3.t19",
+          "mn39:9.3.t20",
+          "mn39:9.3.t21",
+          "mn39:9.3.t22",
+          "mn39:9.3.t23",
+          "mn39:9.3.t24",
+          "mn39:9.3.t25",
+          "mn39:9.3.t26",
+          "mn39:9.3.t27",
+          "mn39:9.3.t28",
+          "mn39:9.3.t29",
+          "mn39:9.3.t30",
+          "mn39:9.3.t31",
+          "mn39:9.3.t32",
+          "mn39:9.3.t33",
+          "mn39:9.3.t34",
+          "mn39:9.3.t35",
+          "mn39:9.3.t36"
+        ],
+        "review_status": "approved",
+        "content": "不為嬉戲，不為驕逸，不為裝飾，不為莊嚴，只為了維持這身體、延續生命、止息傷害、資助梵行，心想：『我要藉此消除舊有的感受，不再生起新的感受，我將得以維生、無過且安住舒適。』比丘們，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:9.4",
@@ -22534,7 +23517,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.4.t0",
+          "mn39:9.4.t1",
+          "mn39:9.4.t2",
+          "mn39:9.4.t3",
+          "mn39:9.4.t4",
+          "mn39:9.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們也許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:9.5",
@@ -23032,7 +24027,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.5.t1",
+          "mn39:9.5.t2",
+          "mn39:9.5.t3",
+          "mn39:9.5.t4",
+          "mn39:9.5.t5",
+          "mn39:9.5.t6",
+          "mn39:9.5.t7",
+          "mn39:9.5.t8",
+          "mn39:9.5.t9",
+          "mn39:9.5.t10",
+          "mn39:9.5.t12",
+          "mn39:9.5.t13",
+          "mn39:9.5.t14"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨、正命清淨，我們於諸根守護根門，我們於飲食知量，」"
+      }
     },
     {
       "segment_id": "mn39:9.6",
@@ -23496,7 +24510,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.6.t0",
+          "mn39:9.6.t1",
+          "mn39:9.6.t2",
+          "mn39:9.6.t3",
+          "mn39:9.6.t4",
+          "mn39:9.6.t5",
+          "mn39:9.6.t6",
+          "mn39:9.6.t7",
+          "mn39:9.6.t8",
+          "mn39:9.6.t10",
+          "mn39:9.6.t11",
+          "mn39:9.6.t12",
+          "mn39:9.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣已足夠、這樣已完成，我們已達到沙門的目標，沒有更進一步該做的了』，而以這樣的程度就心滿意足。"
+      }
     },
     {
       "segment_id": "mn39:9.7",
@@ -23722,7 +24755,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.7.t0",
+          "mn39:9.7.t1",
+          "mn39:9.7.t2",
+          "mn39:9.7.t3",
+          "mn39:9.7.t4",
+          "mn39:9.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們；比丘們，我讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:9.8",
@@ -24240,7 +25285,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:9.8.t0",
+          "mn39:9.8.t1",
+          "mn39:9.8.t2",
+          "mn39:9.8.t3",
+          "mn39:9.8.t4",
+          "mn39:9.8.t5",
+          "mn39:9.8.t6",
+          "mn39:9.8.t7",
+          "mn39:9.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "當還有更進一步該做的事時，不要讓你們這些追求沙門目標的人，使沙門的目標退失。"
+      }
     },
     {
       "segment_id": "mn39:10.1",
@@ -24412,7 +25472,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.1.t0",
+          "mn39:10.1.t1",
+          "mn39:10.1.t2",
+          "mn39:10.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼是應當進一步修習的呢？"
+      }
     },
     {
       "segment_id": "mn39:10.2",
@@ -24855,7 +25925,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.2.t0",
+          "mn39:10.2.t1",
+          "mn39:10.2.t2",
+          "mn39:10.2.t3",
+          "mn39:10.2.t4",
+          "mn39:10.2.t5",
+          "mn39:10.2.t6",
+          "mn39:10.2.t7",
+          "mn39:10.2.t8",
+          "mn39:10.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "『我們應當致力於警寤：白天以經行、坐禪，清淨心中的障蔽法。』"
+      }
     },
     {
       "segment_id": "mn39:10.3",
@@ -25318,7 +26404,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.3.t0",
+          "mn39:10.3.t1",
+          "mn39:10.3.t2",
+          "mn39:10.3.t3",
+          "mn39:10.3.t4",
+          "mn39:10.3.t5",
+          "mn39:10.3.t6",
+          "mn39:10.3.t7",
+          "mn39:10.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "『夜裡的初更，也應以經行、坐禪，清淨心中的障蔽法。』"
+      }
     },
     {
       "segment_id": "mn39:10.4",
@@ -25872,7 +26973,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.4.t0",
+          "mn39:10.4.t1",
+          "mn39:10.4.t2",
+          "mn39:10.4.t3",
+          "mn39:10.4.t4",
+          "mn39:10.4.t5",
+          "mn39:10.4.t6",
+          "mn39:10.4.t7",
+          "mn39:10.4.t8",
+          "mn39:10.4.t9",
+          "mn39:10.4.t10",
+          "mn39:10.4.t11",
+          "mn39:10.4.t12",
+          "mn39:10.4.t13",
+          "mn39:10.4.t14"
+        ],
+        "review_status": "approved",
+        "content": "『夜裡的中更，應以右脅而臥，如獅子臥法，兩腳相疊，保持正念正知，心中憶念起身之想。』"
+      }
     },
     {
       "segment_id": "mn39:10.5",
@@ -26533,7 +27655,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.5.t0",
+          "mn39:10.5.t1",
+          "mn39:10.5.t2",
+          "mn39:10.5.t3",
+          "mn39:10.5.t4",
+          "mn39:10.5.t5",
+          "mn39:10.5.t6",
+          "mn39:10.5.t7",
+          "mn39:10.5.t8",
+          "mn39:10.5.t10",
+          "mn39:10.5.t11",
+          "mn39:10.5.t12",
+          "mn39:10.5.t13",
+          "mn39:10.5.t14"
+        ],
+        "review_status": "approved",
+        "content": "『夜裡的後更，起身之後，應以經行、坐禪，清淨心中的障蔽法。』比丘們，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:10.6",
@@ -26680,7 +27822,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.6.t0",
+          "mn39:10.6.t1",
+          "mn39:10.6.t2",
+          "mn39:10.6.t3",
+          "mn39:10.6.t4",
+          "mn39:10.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們或許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:10.7",
@@ -27282,7 +28436,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.7.t1",
+          "mn39:10.7.t2",
+          "mn39:10.7.t3",
+          "mn39:10.7.t4",
+          "mn39:10.7.t5",
+          "mn39:10.7.t6",
+          "mn39:10.7.t7",
+          "mn39:10.7.t8",
+          "mn39:10.7.t9",
+          "mn39:10.7.t10",
+          "mn39:10.7.t12",
+          "mn39:10.7.t13",
+          "mn39:10.7.t14",
+          "mn39:10.7.t15",
+          "mn39:10.7.t16"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨、活命清淨，我們守護根門、飲食知量、致力於警寤。』"
+      }
     },
     {
       "segment_id": "mn39:10.8",
@@ -27746,7 +28921,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.8.t0",
+          "mn39:10.8.t1",
+          "mn39:10.8.t2",
+          "mn39:10.8.t3",
+          "mn39:10.8.t4",
+          "mn39:10.8.t5",
+          "mn39:10.8.t6",
+          "mn39:10.8.t7",
+          "mn39:10.8.t8",
+          "mn39:10.8.t10",
+          "mn39:10.8.t11",
+          "mn39:10.8.t12",
+          "mn39:10.8.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣就足夠了，這樣就已經做到了，我們已達到沙門的義利，沒有什麼更進一步該做的了。』於是就以這樣的程度感到滿足。"
+      }
     },
     {
       "segment_id": "mn39:10.9",
@@ -27972,7 +29166,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.9.t0",
+          "mn39:10.9.t1",
+          "mn39:10.9.t2",
+          "mn39:10.9.t3",
+          "mn39:10.9.t4",
+          "mn39:10.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們，我要讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:10.10",
@@ -28490,7 +29696,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:10.10.t0",
+          "mn39:10.10.t1",
+          "mn39:10.10.t2",
+          "mn39:10.10.t3",
+          "mn39:10.10.t4",
+          "mn39:10.10.t5",
+          "mn39:10.10.t6",
+          "mn39:10.10.t7",
+          "mn39:10.10.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，對追求沙門義利的人而言，當仍有更進一步應做之事時，不要讓他們的沙門義利因此而衰退。"
+      }
     },
     {
       "segment_id": "mn39:11.1",
@@ -28662,7 +29883,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.1.t0",
+          "mn39:11.1.t1",
+          "mn39:11.1.t2",
+          "mn39:11.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼是應當進一步修習的呢？"
+      }
     },
     {
       "segment_id": "mn39:11.2",
@@ -30511,7 +31742,47 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.2.t0",
+          "mn39:11.2.t1",
+          "mn39:11.2.t2",
+          "mn39:11.2.t3",
+          "mn39:11.2.t4",
+          "mn39:11.2.t5",
+          "mn39:11.2.t6",
+          "mn39:11.2.t7",
+          "mn39:11.2.t8",
+          "mn39:11.2.t9",
+          "mn39:11.2.t10",
+          "mn39:11.2.t11",
+          "mn39:11.2.t12",
+          "mn39:11.2.t13",
+          "mn39:11.2.t14",
+          "mn39:11.2.t15",
+          "mn39:11.2.t16",
+          "mn39:11.2.t17",
+          "mn39:11.2.t18",
+          "mn39:11.2.t19",
+          "mn39:11.2.t20",
+          "mn39:11.2.t21",
+          "mn39:11.2.t22",
+          "mn39:11.2.t23",
+          "mn39:11.2.t24",
+          "mn39:11.2.t25",
+          "mn39:11.2.t26",
+          "mn39:11.2.t27",
+          "mn39:11.2.t28",
+          "mn39:11.2.t29",
+          "mn39:11.2.t30",
+          "mn39:11.2.t31",
+          "mn39:11.2.t32",
+          "mn39:11.2.t33"
+        ],
+        "review_status": "approved",
+        "content": "『我們應當具足正念正知：在前進、後退時保持正知；在前視、環視時保持正知；在屈伸肢體時保持正知；在持著僧伽梨衣、缽、衣時保持正知；在吃、喝、嚼、嚐時保持正知；在大小便利時保持正知；在行、住、坐、臥、醒、語、默時皆保持正知。』比丘們，你們應當如此修學。"
+      }
     },
     {
       "segment_id": "mn39:11.3",
@@ -30658,7 +31929,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.3.t0",
+          "mn39:11.3.t1",
+          "mn39:11.3.t2",
+          "mn39:11.3.t3",
+          "mn39:11.3.t4",
+          "mn39:11.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，你們或許會這樣想："
+      }
     },
     {
       "segment_id": "mn39:11.4",
@@ -31345,7 +32628,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.4.t1",
+          "mn39:11.4.t2",
+          "mn39:11.4.t3",
+          "mn39:11.4.t4",
+          "mn39:11.4.t5",
+          "mn39:11.4.t6",
+          "mn39:11.4.t7",
+          "mn39:11.4.t8",
+          "mn39:11.4.t9",
+          "mn39:11.4.t10",
+          "mn39:11.4.t12",
+          "mn39:11.4.t13",
+          "mn39:11.4.t14",
+          "mn39:11.4.t15",
+          "mn39:11.4.t16",
+          "mn39:11.4.t17",
+          "mn39:11.4.t18"
+        ],
+        "review_status": "approved",
+        "content": "『我們已具足慚愧，我們的身行清淨、語行清淨、意行清淨、活命清淨，我們守護根門、飲食知量、致力於警寤、具足正念正知。』"
+      }
     },
     {
       "segment_id": "mn39:11.5",
@@ -31809,7 +33115,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.5.t0",
+          "mn39:11.5.t1",
+          "mn39:11.5.t2",
+          "mn39:11.5.t3",
+          "mn39:11.5.t4",
+          "mn39:11.5.t5",
+          "mn39:11.5.t6",
+          "mn39:11.5.t7",
+          "mn39:11.5.t8",
+          "mn39:11.5.t10",
+          "mn39:11.5.t11",
+          "mn39:11.5.t12",
+          "mn39:11.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這樣就足夠了，這樣就已經做到了，我們已達到沙門的義利，沒有什麼更進一步該做的了。』於是就以這樣的程度感到滿足。"
+      }
     },
     {
       "segment_id": "mn39:11.6",
@@ -32035,7 +33360,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.6.t0",
+          "mn39:11.6.t1",
+          "mn39:11.6.t2",
+          "mn39:11.6.t3",
+          "mn39:11.6.t4",
+          "mn39:11.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，我告訴你們，我要讓你們知道："
+      }
     },
     {
       "segment_id": "mn39:11.7",
@@ -32553,7 +33890,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:11.7.t0",
+          "mn39:11.7.t1",
+          "mn39:11.7.t2",
+          "mn39:11.7.t3",
+          "mn39:11.7.t4",
+          "mn39:11.7.t5",
+          "mn39:11.7.t6",
+          "mn39:11.7.t7",
+          "mn39:11.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，對追求沙門義利的人而言，當仍有更進一步應做之事時，不要讓他們的沙門義利因此而衰退。"
+      }
     },
     {
       "segment_id": "mn39:12.1",
@@ -32725,7 +34077,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:12.1.t0",
+          "mn39:12.1.t1",
+          "mn39:12.1.t2",
+          "mn39:12.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，還有什麼是應當進一步修習的呢？"
+      }
     },
     {
       "segment_id": "mn39:12.2",
@@ -33190,7 +34552,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:12.2.t0",
+          "mn39:12.2.t1",
+          "mn39:12.2.t2",
+          "mn39:12.2.t3",
+          "mn39:12.2.t4",
+          "mn39:12.2.t5",
+          "mn39:12.2.t6",
+          "mn39:12.2.t7",
+          "mn39:12.2.t8",
+          "mn39:12.2.t9",
+          "mn39:12.2.t10",
+          "mn39:12.2.t11",
+          "mn39:12.2.t12",
+          "mn39:12.2.t13",
+          "mn39:12.2.t14"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，在此，比丘親近遠離之處：林野、樹下、山岩、洞窟、山穴、塚間、林叢、露地、稻草堆。"
+      }
     },
     {
       "segment_id": "mn39:13.1",
@@ -33552,7 +34935,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.1.t0",
+          "mn39:13.1.t1",
+          "mn39:13.1.t2",
+          "mn39:13.1.t3",
+          "mn39:13.1.t4",
+          "mn39:13.1.t5",
+          "mn39:13.1.t6",
+          "mn39:13.1.t7",
+          "mn39:13.1.t8",
+          "mn39:13.1.t9",
+          "mn39:13.1.t10",
+          "mn39:13.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "他於飯食之後，由乞食歸來，結跏趺坐，端正其身，置念於前。"
+      }
     },
     {
       "segment_id": "mn39:13.2",
@@ -33931,7 +35332,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.2.t0",
+          "mn39:13.2.t1",
+          "mn39:13.2.t2",
+          "mn39:13.2.t3",
+          "mn39:13.2.t4",
+          "mn39:13.2.t5",
+          "mn39:13.2.t6",
+          "mn39:13.2.t7",
+          "mn39:13.2.t8",
+          "mn39:13.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "他捨離對世間的貪欲，以離貪之心而住，淨除心中的貪欲。"
+      }
     },
     {
       "segment_id": "mn39:13.3",
@@ -34214,7 +35631,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.3.t0",
+          "mn39:13.3.t1",
+          "mn39:13.3.t2",
+          "mn39:13.3.t3",
+          "mn39:13.3.t4",
+          "mn39:13.3.t5",
+          "mn39:13.3.t6",
+          "mn39:13.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "他捨離瞋恚，以無瞋之心而住，悲愍一切眾生，淨除心中的瞋恚。"
+      }
     },
     {
       "segment_id": "mn39:13.4",
@@ -34655,7 +36086,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.4.t0",
+          "mn39:13.4.t1",
+          "mn39:13.4.t2",
+          "mn39:13.4.t3",
+          "mn39:13.4.t4",
+          "mn39:13.4.t5",
+          "mn39:13.4.t6",
+          "mn39:13.4.t7",
+          "mn39:13.4.t8",
+          "mn39:13.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "他捨離惛沉睡眠，離惛沉睡眠而住，作光明想，保持正念正知，淨除心中的惛沉睡眠。"
+      }
     },
     {
       "segment_id": "mn39:13.5",
@@ -34945,7 +36392,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.5.t0",
+          "mn39:13.5.t1",
+          "mn39:13.5.t2",
+          "mn39:13.5.t3",
+          "mn39:13.5.t4",
+          "mn39:13.5.t5",
+          "mn39:13.5.t6",
+          "mn39:13.5.t7",
+          "mn39:13.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "他捨離掉舉惡作，不掉舉而住，內心寂靜，淨除心中的掉舉惡作。"
+      }
     },
     {
       "segment_id": "mn39:13.6",
@@ -35387,7 +36849,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:13.6.t0",
+          "mn39:13.6.t1",
+          "mn39:13.6.t2",
+          "mn39:13.6.t3",
+          "mn39:13.6.t4",
+          "mn39:13.6.t5",
+          "mn39:13.6.t6",
+          "mn39:13.6.t7",
+          "mn39:13.6.t8",
+          "mn39:13.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "他捨離疑，超越疑惑而住，於諸善法不再猶疑不決，淨除心中的疑。"
+      }
     },
     {
       "segment_id": "mn39:14.1",
@@ -35643,7 +37121,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.1.t0",
+          "mn39:14.1.t1",
+          "mn39:14.1.t2",
+          "mn39:14.1.t3",
+          "mn39:14.1.t4",
+          "mn39:14.1.t5",
+          "mn39:14.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，猶如有人借了債務，從事各種事業。"
+      }
     },
     {
       "segment_id": "mn39:14.2",
@@ -35865,7 +37356,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.2.t0",
+          "mn39:14.2.t1",
+          "mn39:14.2.t2",
+          "mn39:14.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "他的事業獲得成功。"
+      }
     },
     {
       "segment_id": "mn39:14.3",
@@ -36307,7 +37808,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.3.t0",
+          "mn39:14.3.t1",
+          "mn39:14.3.t2",
+          "mn39:14.3.t3",
+          "mn39:14.3.t4",
+          "mn39:14.3.t5",
+          "mn39:14.3.t6",
+          "mn39:14.3.t7",
+          "mn39:14.3.t8",
+          "mn39:14.3.t9",
+          "mn39:14.3.t10",
+          "mn39:14.3.t11",
+          "mn39:14.3.t12",
+          "mn39:14.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "他把先前所欠的債務本金全數還清，還有剩餘可以用來養活妻子。"
+      }
     },
     {
       "segment_id": "mn39:14.4",
@@ -36394,7 +37915,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.4.t0",
+          "mn39:14.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "他會這樣想："
+      }
     },
     {
       "segment_id": "mn39:14.5",
@@ -37012,7 +38541,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.5.t0",
+          "mn39:14.5.t1",
+          "mn39:14.5.t2",
+          "mn39:14.5.t3",
+          "mn39:14.5.t4",
+          "mn39:14.5.t5",
+          "mn39:14.5.t6",
+          "mn39:14.5.t7",
+          "mn39:14.5.t8",
+          "mn39:14.5.t9",
+          "mn39:14.5.t10",
+          "mn39:14.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "『我以前借了債務，從事各種事業，我的事業已獲得成功。』"
+      }
     },
     {
       "segment_id": "mn39:14.6",
@@ -37543,7 +39090,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.6.t0",
+          "mn39:14.6.t1",
+          "mn39:14.6.t2",
+          "mn39:14.6.t3",
+          "mn39:14.6.t4",
+          "mn39:14.6.t5",
+          "mn39:14.6.t6",
+          "mn39:14.6.t7",
+          "mn39:14.6.t8",
+          "mn39:14.6.t9",
+          "mn39:14.6.t10",
+          "mn39:14.6.t11",
+          "mn39:14.6.t12",
+          "mn39:14.6.t13",
+          "mn39:14.6.t15"
+        ],
+        "review_status": "approved",
+        "content": "『我已把先前所欠的債務本金全數還清，而且還有剩餘可以用來養活妻子。』"
+      }
     },
     {
       "segment_id": "mn39:14.7",
@@ -37715,7 +39283,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.7.t0",
+          "mn39:14.7.t1",
+          "mn39:14.7.t2",
+          "mn39:14.7.t3",
+          "mn39:14.7.t4",
+          "mn39:14.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因此而感到欣喜，獲得喜悅。"
+      }
     },
     {
       "segment_id": "mn39:14.8",
@@ -38132,7 +39712,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.8.t0",
+          "mn39:14.8.t1",
+          "mn39:14.8.t2",
+          "mn39:14.8.t3",
+          "mn39:14.8.t4",
+          "mn39:14.8.t5",
+          "mn39:14.8.t6",
+          "mn39:14.8.t8",
+          "mn39:14.8.t9",
+          "mn39:14.8.t10",
+          "mn39:14.8.t11",
+          "mn39:14.8.t12"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，又猶如有人患病，痛苦，病得很重，吃的食物不合胃口，身體也沒有力氣。"
+      }
     },
     {
       "segment_id": "mn39:14.9",
@@ -38565,7 +40163,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.9.t0",
+          "mn39:14.9.t1",
+          "mn39:14.9.t2",
+          "mn39:14.9.t3",
+          "mn39:14.9.t4",
+          "mn39:14.9.t5",
+          "mn39:14.9.t7",
+          "mn39:14.9.t8",
+          "mn39:14.9.t9",
+          "mn39:14.9.t10",
+          "mn39:14.9.t11"
+        ],
+        "review_status": "approved",
+        "content": "他後來從那病中痊癒，吃的食物合乎胃口，身體也有了力氣。"
+      }
     },
     {
       "segment_id": "mn39:14.10",
@@ -38652,7 +40267,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.10.t0",
+          "mn39:14.10.t1"
+        ],
+        "review_status": "approved",
+        "content": "他會這樣想："
+      }
     },
     {
       "segment_id": "mn39:14.11",
@@ -39844,7 +41467,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.11.t0",
+          "mn39:14.11.t1",
+          "mn39:14.11.t2",
+          "mn39:14.11.t3",
+          "mn39:14.11.t4",
+          "mn39:14.11.t5",
+          "mn39:14.11.t6",
+          "mn39:14.11.t7",
+          "mn39:14.11.t8",
+          "mn39:14.11.t9",
+          "mn39:14.11.t10",
+          "mn39:14.11.t11",
+          "mn39:14.11.t12",
+          "mn39:14.11.t13",
+          "mn39:14.11.t14",
+          "mn39:14.11.t15",
+          "mn39:14.11.t16",
+          "mn39:14.11.t17",
+          "mn39:14.11.t18",
+          "mn39:14.11.t19",
+          "mn39:14.11.t20",
+          "mn39:14.11.t21",
+          "mn39:14.11.t22",
+          "mn39:14.11.t23",
+          "mn39:14.11.t24",
+          "mn39:14.11.t25",
+          "mn39:14.11.t26",
+          "mn39:14.11.t27",
+          "mn39:14.11.t28",
+          "mn39:14.11.t29"
+        ],
+        "review_status": "approved",
+        "content": "『我以前患病，痛苦，病得很重，吃的食物不合我的胃口，身體也沒有力氣；而我現在已從那病中解脫，吃的食物合乎我的胃口，身體也有了力氣。』"
+      }
     },
     {
       "segment_id": "mn39:14.12",
@@ -40016,7 +41675,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.12.t0",
+          "mn39:14.12.t1",
+          "mn39:14.12.t2",
+          "mn39:14.12.t3",
+          "mn39:14.12.t4",
+          "mn39:14.12.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因此而得到欣悅，生起喜悅。"
+      }
     },
     {
       "segment_id": "mn39:14.13",
@@ -40203,7 +41874,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.13.t0",
+          "mn39:14.13.t1",
+          "mn39:14.13.t2",
+          "mn39:14.13.t3",
+          "mn39:14.13.t4",
+          "mn39:14.13.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，譬如有人被綁縛在監獄裡。"
+      }
     },
     {
       "segment_id": "mn39:14.14",
@@ -40629,7 +42312,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.14.t0",
+          "mn39:14.14.t1",
+          "mn39:14.14.t2",
+          "mn39:14.14.t3",
+          "mn39:14.14.t4",
+          "mn39:14.14.t5",
+          "mn39:14.14.t6",
+          "mn39:14.14.t7",
+          "mn39:14.14.t8",
+          "mn39:14.14.t9",
+          "mn39:14.14.t10",
+          "mn39:14.14.t11",
+          "mn39:14.14.t12"
+        ],
+        "review_status": "approved",
+        "content": "後來他從那束縛中平安無恙地獲釋，財產也毫無損失。"
+      }
     },
     {
       "segment_id": "mn39:14.15",
@@ -40716,7 +42418,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.15.t0",
+          "mn39:14.15.t1"
+        ],
+        "review_status": "approved",
+        "content": "他心想："
+      }
     },
     {
       "segment_id": "mn39:14.16",
@@ -41364,7 +43074,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.16.t0",
+          "mn39:14.16.t1",
+          "mn39:14.16.t2",
+          "mn39:14.16.t3",
+          "mn39:14.16.t4",
+          "mn39:14.16.t5",
+          "mn39:14.16.t6",
+          "mn39:14.16.t7",
+          "mn39:14.16.t8",
+          "mn39:14.16.t9",
+          "mn39:14.16.t10",
+          "mn39:14.16.t11",
+          "mn39:14.16.t12",
+          "mn39:14.16.t13",
+          "mn39:14.16.t14",
+          "mn39:14.16.t15",
+          "mn39:14.16.t16",
+          "mn39:14.16.t17",
+          "mn39:14.16.t18",
+          "mn39:14.16.t19"
+        ],
+        "review_status": "approved",
+        "content": "『我以前曾被關在監獄裡，如今已從那束縛中平安無恙地解脫，財產也毫無損失。』"
+      }
     },
     {
       "segment_id": "mn39:14.17",
@@ -41536,7 +43272,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.17.t0",
+          "mn39:14.17.t1",
+          "mn39:14.17.t2",
+          "mn39:14.17.t3",
+          "mn39:14.17.t4",
+          "mn39:14.17.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因此而得到欣悅，生起喜悅。"
+      }
     },
     {
       "segment_id": "mn39:14.18",
@@ -41748,7 +43496,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.18.t0",
+          "mn39:14.18.t1",
+          "mn39:14.18.t2",
+          "mn39:14.18.t3",
+          "mn39:14.18.t4",
+          "mn39:14.18.t5",
+          "mn39:14.18.t6",
+          "mn39:14.18.t7",
+          "mn39:14.18.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，又譬如有人是奴隸，不能自主，隸屬於他人，不能隨心所欲地去所想去的地方。"
+      }
     },
     {
       "segment_id": "mn39:14.19",
@@ -42036,7 +43799,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.19.t0",
+          "mn39:14.19.t1",
+          "mn39:14.19.t2",
+          "mn39:14.19.t3",
+          "mn39:14.19.t4",
+          "mn39:14.19.t5",
+          "mn39:14.19.t6",
+          "mn39:14.19.t7",
+          "mn39:14.19.t8",
+          "mn39:14.19.t9"
+        ],
+        "review_status": "approved",
+        "content": "後來他從奴隸的身分中解脫，能自主，不隸屬於他人，成為自由之身，能隨心所欲地去所想去的地方。"
+      }
     },
     {
       "segment_id": "mn39:14.20",
@@ -42123,7 +43902,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.20.t0",
+          "mn39:14.20.t1"
+        ],
+        "review_status": "approved",
+        "content": "他心想："
+      }
     },
     {
       "segment_id": "mn39:14.21",
@@ -42597,7 +44384,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.21.t0",
+          "mn39:14.21.t1",
+          "mn39:14.21.t2",
+          "mn39:14.21.t3",
+          "mn39:14.21.t4",
+          "mn39:14.21.t5",
+          "mn39:14.21.t6",
+          "mn39:14.21.t7",
+          "mn39:14.21.t8",
+          "mn39:14.21.t9",
+          "mn39:14.21.t10",
+          "mn39:14.21.t11",
+          "mn39:14.21.t12",
+          "mn39:14.21.t13",
+          "mn39:14.21.t14",
+          "mn39:14.21.t15",
+          "mn39:14.21.t16",
+          "mn39:14.21.t17",
+          "mn39:14.21.t18"
+        ],
+        "review_status": "approved",
+        "content": "『我以前曾是奴隸，不能自主，隸屬於他人，不能隨心所欲地去所想去的地方；如今我已從奴隸的身分中解脫，能自主，不隸屬於他人，成為自由之身，能隨心所欲地去所想去的地方。』"
+      }
     },
     {
       "segment_id": "mn39:14.22",
@@ -42769,7 +44581,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.22.t0",
+          "mn39:14.22.t1",
+          "mn39:14.22.t2",
+          "mn39:14.22.t3",
+          "mn39:14.22.t4",
+          "mn39:14.22.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因此而得到欣悅，生起喜悅。"
+      }
     },
     {
       "segment_id": "mn39:14.23",
@@ -42896,7 +44720,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.23.t0",
+          "mn39:14.23.t1",
+          "mn39:14.23.t2",
+          "mn39:14.23.t3",
+          "mn39:14.23.t4",
+          "mn39:14.23.t5",
+          "mn39:14.23.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，又譬如有富有財產的人，走上一條長途的荒野險路。"
+      }
     },
     {
       "segment_id": "mn39:14.24",
@@ -43304,7 +45141,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.24.t0",
+          "mn39:14.24.t1",
+          "mn39:14.24.t2",
+          "mn39:14.24.t3",
+          "mn39:14.24.t4",
+          "mn39:14.24.t5",
+          "mn39:14.24.t6",
+          "mn39:14.24.t7",
+          "mn39:14.24.t8",
+          "mn39:14.24.t9",
+          "mn39:14.24.t10",
+          "mn39:14.24.t11",
+          "mn39:14.24.t12"
+        ],
+        "review_status": "approved",
+        "content": "後來他平安無恙地度過那荒野，財產也毫無損失。"
+      }
     },
     {
       "segment_id": "mn39:14.25",
@@ -43391,7 +45247,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.25.t0",
+          "mn39:14.25.t1"
+        ],
+        "review_status": "approved",
+        "content": "他心想："
+      }
     },
     {
       "segment_id": "mn39:14.26",
@@ -43594,7 +45458,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.26.t0",
+          "mn39:14.26.t1",
+          "mn39:14.26.t2",
+          "mn39:14.26.t3",
+          "mn39:14.26.t4",
+          "mn39:14.26.t5",
+          "mn39:14.26.t6"
+        ],
+        "review_status": "approved",
+        "content": "『我以前曾攜帶財產，走上那條長途的荒野險路，"
+      }
     },
     {
       "segment_id": "mn39:14.27",
@@ -44022,7 +45899,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.27.t0",
+          "mn39:14.27.t1",
+          "mn39:14.27.t2",
+          "mn39:14.27.t3",
+          "mn39:14.27.t4",
+          "mn39:14.27.t5",
+          "mn39:14.27.t6",
+          "mn39:14.27.t7",
+          "mn39:14.27.t8",
+          "mn39:14.27.t9",
+          "mn39:14.27.t10",
+          "mn39:14.27.t11",
+          "mn39:14.27.t12",
+          "mn39:14.27.t13"
+        ],
+        "review_status": "approved",
+        "content": "如今我已平安無恙地度過那荒野，財產也毫無損失。』"
+      }
     },
     {
       "segment_id": "mn39:14.28",
@@ -44194,7 +46091,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.28.t0",
+          "mn39:14.28.t1",
+          "mn39:14.28.t2",
+          "mn39:14.28.t3",
+          "mn39:14.28.t4",
+          "mn39:14.28.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因此而得到欣悅，生起喜悅。"
+      }
     },
     {
       "segment_id": "mn39:14.29",
@@ -44685,7 +46594,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.29.t0",
+          "mn39:14.29.t1",
+          "mn39:14.29.t2",
+          "mn39:14.29.t3",
+          "mn39:14.29.t4",
+          "mn39:14.29.t5",
+          "mn39:14.29.t6",
+          "mn39:14.29.t7",
+          "mn39:14.29.t8",
+          "mn39:14.29.t9",
+          "mn39:14.29.t10",
+          "mn39:14.29.t11",
+          "mn39:14.29.t12",
+          "mn39:14.29.t13",
+          "mn39:14.29.t14",
+          "mn39:14.29.t15",
+          "mn39:14.29.t16",
+          "mn39:14.29.t17",
+          "mn39:14.29.t18",
+          "mn39:14.29.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘只要尚未捨斷這五蓋，就會如負債、如患病、如身陷牢獄、如淪為奴隸、如行走於荒野險路一般地看待自己。"
+      }
     },
     {
       "segment_id": "mn39:14.30",
@@ -45194,7 +47129,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:14.30.t0",
+          "mn39:14.30.t1",
+          "mn39:14.30.t2",
+          "mn39:14.30.t3",
+          "mn39:14.30.t4",
+          "mn39:14.30.t5",
+          "mn39:14.30.t6",
+          "mn39:14.30.t7",
+          "mn39:14.30.t8",
+          "mn39:14.30.t9",
+          "mn39:14.30.t10",
+          "mn39:14.30.t11",
+          "mn39:14.30.t12",
+          "mn39:14.30.t13",
+          "mn39:14.30.t14",
+          "mn39:14.30.t15",
+          "mn39:14.30.t16",
+          "mn39:14.30.t17",
+          "mn39:14.30.t18"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如無債、如健康、如脫離牢獄、如獲得自由、如抵達安穩之地，同樣地，比丘捨斷這五蓋後，便如此看待自己。"
+      }
     },
     {
       "segment_id": "mn39:15.1",
@@ -45578,7 +47538,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:15.1.t0",
+          "mn39:15.1.t1",
+          "mn39:15.1.t2",
+          "mn39:15.1.t3",
+          "mn39:15.1.t4",
+          "mn39:15.1.t5",
+          "mn39:15.1.t6",
+          "mn39:15.1.t7",
+          "mn39:15.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "他捨斷這五種會使心染污、使慧力衰弱的蓋，"
+      }
     },
     {
       "segment_id": "mn39:15.2",
@@ -46218,7 +48193,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:15.2.t0",
+          "mn39:15.2.t1",
+          "mn39:15.2.t2",
+          "mn39:15.2.t3",
+          "mn39:15.2.t4",
+          "mn39:15.2.t5",
+          "mn39:15.2.t6",
+          "mn39:15.2.t7",
+          "mn39:15.2.t8",
+          "mn39:15.2.t9",
+          "mn39:15.2.t10",
+          "mn39:15.2.t11",
+          "mn39:15.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "便離於欲、離於不善法，有尋有伺，具足由遠離而生的喜與樂，進入並安住於初禪。"
+      }
     },
     {
       "segment_id": "mn39:15.3",
@@ -46780,7 +48774,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:15.3.t0",
+          "mn39:15.3.t1",
+          "mn39:15.3.t2",
+          "mn39:15.3.t3",
+          "mn39:15.3.t4",
+          "mn39:15.3.t5",
+          "mn39:15.3.t6",
+          "mn39:15.3.t7",
+          "mn39:15.3.t8",
+          "mn39:15.3.t9",
+          "mn39:15.3.t10",
+          "mn39:15.3.t11",
+          "mn39:15.3.t12",
+          "mn39:15.3.t13",
+          "mn39:15.3.t14",
+          "mn39:15.3.t15",
+          "mn39:15.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "他以由遠離而生的喜與樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被由遠離而生的喜與樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:15.4",
@@ -47620,7 +49637,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:15.4.t0",
+          "mn39:15.4.t1",
+          "mn39:15.4.t2",
+          "mn39:15.4.t3",
+          "mn39:15.4.t4",
+          "mn39:15.4.t5",
+          "mn39:15.4.t6",
+          "mn39:15.4.t7",
+          "mn39:15.4.t8",
+          "mn39:15.4.t9",
+          "mn39:15.4.t10",
+          "mn39:15.4.t11",
+          "mn39:15.4.t12",
+          "mn39:15.4.t13",
+          "mn39:15.4.t14",
+          "mn39:15.4.t15",
+          "mn39:15.4.t16",
+          "mn39:15.4.t17",
+          "mn39:15.4.t18",
+          "mn39:15.4.t19",
+          "mn39:15.4.t20",
+          "mn39:15.4.t21",
+          "mn39:15.4.t22",
+          "mn39:15.4.t23"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如熟練的浴師或浴師的徒弟，把沐浴粉倒入銅盆裡，一邊灑水一邊調和，使那沐浴粉團浸透水分、充滿水分，內外皆濕潤，卻不致於滴流。"
+      }
     },
     {
       "segment_id": "mn39:15.5",
@@ -48224,7 +50271,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:15.5.t0",
+          "mn39:15.5.t1",
+          "mn39:15.5.t2",
+          "mn39:15.5.t3",
+          "mn39:15.5.t4",
+          "mn39:15.5.t5",
+          "mn39:15.5.t6",
+          "mn39:15.5.t7",
+          "mn39:15.5.t8",
+          "mn39:15.5.t9",
+          "mn39:15.5.t10",
+          "mn39:15.5.t11",
+          "mn39:15.5.t12",
+          "mn39:15.5.t13",
+          "mn39:15.5.t14",
+          "mn39:15.5.t15",
+          "mn39:15.5.t16",
+          "mn39:15.5.t17",
+          "mn39:15.5.t18",
+          "mn39:15.5.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘以由遠離而生的喜與樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被由遠離而生的喜與樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:16.1",
@@ -48896,7 +50969,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:16.1.t0",
+          "mn39:16.1.t1",
+          "mn39:16.1.t2",
+          "mn39:16.1.t3",
+          "mn39:16.1.t4",
+          "mn39:16.1.t5",
+          "mn39:16.1.t6",
+          "mn39:16.1.t7",
+          "mn39:16.1.t8",
+          "mn39:16.1.t9",
+          "mn39:16.1.t10",
+          "mn39:16.1.t11",
+          "mn39:16.1.t12",
+          "mn39:16.1.t13",
+          "mn39:16.1.t14",
+          "mn39:16.1.t15",
+          "mn39:16.1.t16",
+          "mn39:16.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘由於尋伺止息，內心澄淨，心念專一，無尋無伺，具足由定而生的喜與樂，進入並安住於第二禪。"
+      }
     },
     {
       "segment_id": "mn39:16.2",
@@ -49458,7 +51555,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:16.2.t0",
+          "mn39:16.2.t1",
+          "mn39:16.2.t2",
+          "mn39:16.2.t3",
+          "mn39:16.2.t4",
+          "mn39:16.2.t5",
+          "mn39:16.2.t6",
+          "mn39:16.2.t7",
+          "mn39:16.2.t8",
+          "mn39:16.2.t9",
+          "mn39:16.2.t10",
+          "mn39:16.2.t11",
+          "mn39:16.2.t12",
+          "mn39:16.2.t13",
+          "mn39:16.2.t14",
+          "mn39:16.2.t15",
+          "mn39:16.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "他以由定而生的喜與樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被由定而生的喜與樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:16.3",
@@ -51596,7 +53716,68 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:16.3.t0",
+          "mn39:16.3.t1",
+          "mn39:16.3.t2",
+          "mn39:16.3.t3",
+          "mn39:16.3.t4",
+          "mn39:16.3.t5",
+          "mn39:16.3.t6",
+          "mn39:16.3.t7",
+          "mn39:16.3.t8",
+          "mn39:16.3.t9",
+          "mn39:16.3.t10",
+          "mn39:16.3.t11",
+          "mn39:16.3.t12",
+          "mn39:16.3.t13",
+          "mn39:16.3.t14",
+          "mn39:16.3.t15",
+          "mn39:16.3.t16",
+          "mn39:16.3.t17",
+          "mn39:16.3.t18",
+          "mn39:16.3.t19",
+          "mn39:16.3.t20",
+          "mn39:16.3.t21",
+          "mn39:16.3.t22",
+          "mn39:16.3.t23",
+          "mn39:16.3.t24",
+          "mn39:16.3.t25",
+          "mn39:16.3.t26",
+          "mn39:16.3.t27",
+          "mn39:16.3.t28",
+          "mn39:16.3.t29",
+          "mn39:16.3.t30",
+          "mn39:16.3.t31",
+          "mn39:16.3.t32",
+          "mn39:16.3.t33",
+          "mn39:16.3.t34",
+          "mn39:16.3.t35",
+          "mn39:16.3.t36",
+          "mn39:16.3.t37",
+          "mn39:16.3.t38",
+          "mn39:16.3.t39",
+          "mn39:16.3.t40",
+          "mn39:16.3.t41",
+          "mn39:16.3.t42",
+          "mn39:16.3.t43",
+          "mn39:16.3.t44",
+          "mn39:16.3.t45",
+          "mn39:16.3.t46",
+          "mn39:16.3.t47",
+          "mn39:16.3.t48",
+          "mn39:16.3.t49",
+          "mn39:16.3.t50",
+          "mn39:16.3.t51",
+          "mn39:16.3.t52",
+          "mn39:16.3.t53",
+          "mn39:16.3.t54"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如有一座湖，湖水從底部湧出，東方沒有水的入口，西方沒有水的入口，北方沒有水的入口，南方沒有水的入口，天神也不會時時降下甘霖；然而，從那湖底湧出的清涼水流，卻能浸潤、充滿、遍滿那整座湖，湖中沒有一處不被清涼的水所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:16.4",
@@ -52200,7 +54381,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:16.4.t0",
+          "mn39:16.4.t1",
+          "mn39:16.4.t2",
+          "mn39:16.4.t3",
+          "mn39:16.4.t4",
+          "mn39:16.4.t5",
+          "mn39:16.4.t6",
+          "mn39:16.4.t7",
+          "mn39:16.4.t8",
+          "mn39:16.4.t9",
+          "mn39:16.4.t10",
+          "mn39:16.4.t11",
+          "mn39:16.4.t12",
+          "mn39:16.4.t13",
+          "mn39:16.4.t14",
+          "mn39:16.4.t15",
+          "mn39:16.4.t16",
+          "mn39:16.4.t17",
+          "mn39:16.4.t18",
+          "mn39:16.4.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘以由定而生的喜與樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被由定而生的喜與樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:17.1",
@@ -53247,7 +55454,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:17.1.t0",
+          "mn39:17.1.t1",
+          "mn39:17.1.t2",
+          "mn39:17.1.t3",
+          "mn39:17.1.t4",
+          "mn39:17.1.t5",
+          "mn39:17.1.t6",
+          "mn39:17.1.t7",
+          "mn39:17.1.t8",
+          "mn39:17.1.t9",
+          "mn39:17.1.t10",
+          "mn39:17.1.t11",
+          "mn39:17.1.t12",
+          "mn39:17.1.t13",
+          "mn39:17.1.t14",
+          "mn39:17.1.t15",
+          "mn39:17.1.t16",
+          "mn39:17.1.t17",
+          "mn39:17.1.t18",
+          "mn39:17.1.t19",
+          "mn39:17.1.t20",
+          "mn39:17.1.t21",
+          "mn39:17.1.t22",
+          "mn39:17.1.t23",
+          "mn39:17.1.t24",
+          "mn39:17.1.t25",
+          "mn39:17.1.t26",
+          "mn39:17.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘由於喜的褪去，安住於捨，具足正念正知，以身體感受樂，如聖者所說：『捨而具念，安住於樂』，進入並安住於第三禪。"
+      }
     },
     {
       "segment_id": "mn39:17.2",
@@ -53809,7 +56050,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:17.2.t0",
+          "mn39:17.2.t1",
+          "mn39:17.2.t2",
+          "mn39:17.2.t3",
+          "mn39:17.2.t4",
+          "mn39:17.2.t5",
+          "mn39:17.2.t6",
+          "mn39:17.2.t7",
+          "mn39:17.2.t8",
+          "mn39:17.2.t9",
+          "mn39:17.2.t10",
+          "mn39:17.2.t11",
+          "mn39:17.2.t12",
+          "mn39:17.2.t13",
+          "mn39:17.2.t14",
+          "mn39:17.2.t15",
+          "mn39:17.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "他以離喜之樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被離喜之樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:17.3",
@@ -55779,7 +58043,58 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:17.3.t0",
+          "mn39:17.3.t1",
+          "mn39:17.3.t2",
+          "mn39:17.3.t3",
+          "mn39:17.3.t4",
+          "mn39:17.3.t5",
+          "mn39:17.3.t6",
+          "mn39:17.3.t7",
+          "mn39:17.3.t8",
+          "mn39:17.3.t9",
+          "mn39:17.3.t10",
+          "mn39:17.3.t11",
+          "mn39:17.3.t12",
+          "mn39:17.3.t13",
+          "mn39:17.3.t14",
+          "mn39:17.3.t15",
+          "mn39:17.3.t16",
+          "mn39:17.3.t17",
+          "mn39:17.3.t18",
+          "mn39:17.3.t19",
+          "mn39:17.3.t20",
+          "mn39:17.3.t21",
+          "mn39:17.3.t22",
+          "mn39:17.3.t24",
+          "mn39:17.3.t25",
+          "mn39:17.3.t26",
+          "mn39:17.3.t27",
+          "mn39:17.3.t28",
+          "mn39:17.3.t29",
+          "mn39:17.3.t30",
+          "mn39:17.3.t31",
+          "mn39:17.3.t32",
+          "mn39:17.3.t33",
+          "mn39:17.3.t34",
+          "mn39:17.3.t35",
+          "mn39:17.3.t36",
+          "mn39:17.3.t37",
+          "mn39:17.3.t38",
+          "mn39:17.3.t39",
+          "mn39:17.3.t40",
+          "mn39:17.3.t41",
+          "mn39:17.3.t42",
+          "mn39:17.3.t43",
+          "mn39:17.3.t44",
+          "mn39:17.3.t45"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如在青蓮池、紅蓮池或白蓮池中，有些青蓮花、紅蓮花或白蓮花生於水中、長於水中，未曾長出水面，沉浸在水中而得滋養，從花梢到根部，都被清涼的水浸潤、充滿、遍滿，沒有一朵青蓮花、紅蓮花或白蓮花不被清涼的水所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:17.4",
@@ -56383,7 +58698,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:17.4.t0",
+          "mn39:17.4.t1",
+          "mn39:17.4.t2",
+          "mn39:17.4.t3",
+          "mn39:17.4.t4",
+          "mn39:17.4.t5",
+          "mn39:17.4.t6",
+          "mn39:17.4.t7",
+          "mn39:17.4.t8",
+          "mn39:17.4.t9",
+          "mn39:17.4.t10",
+          "mn39:17.4.t11",
+          "mn39:17.4.t12",
+          "mn39:17.4.t13",
+          "mn39:17.4.t14",
+          "mn39:17.4.t15",
+          "mn39:17.4.t16",
+          "mn39:17.4.t17",
+          "mn39:17.4.t18",
+          "mn39:17.4.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘以離喜之樂，浸潤、充滿、遍滿這個身體，全身上下沒有一處不被離喜之樂所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:18.1",
@@ -57129,7 +59470,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:18.1.t0",
+          "mn39:18.1.t1",
+          "mn39:18.1.t2",
+          "mn39:18.1.t3",
+          "mn39:18.1.t4",
+          "mn39:18.1.t5",
+          "mn39:18.1.t6",
+          "mn39:18.1.t7",
+          "mn39:18.1.t8",
+          "mn39:18.1.t9",
+          "mn39:18.1.t10",
+          "mn39:18.1.t11",
+          "mn39:18.1.t12",
+          "mn39:18.1.t13",
+          "mn39:18.1.t14",
+          "mn39:18.1.t15",
+          "mn39:18.1.t16",
+          "mn39:18.1.t17",
+          "mn39:18.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "再者，諸比丘，比丘由於捨斷樂、捨斷苦，先前的喜、憂也已滅沒，不苦不樂，具足捨念清淨，進入並安住於第四禪。"
+      }
     },
     {
       "segment_id": "mn39:18.2",
@@ -57798,7 +60164,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:18.2.t0",
+          "mn39:18.2.t1",
+          "mn39:18.2.t2",
+          "mn39:18.2.t3",
+          "mn39:18.2.t4",
+          "mn39:18.2.t5",
+          "mn39:18.2.t6",
+          "mn39:18.2.t7",
+          "mn39:18.2.t8",
+          "mn39:18.2.t9",
+          "mn39:18.2.t10",
+          "mn39:18.2.t11",
+          "mn39:18.2.t12",
+          "mn39:18.2.t13",
+          "mn39:18.2.t14",
+          "mn39:18.2.t15",
+          "mn39:18.2.t16",
+          "mn39:18.2.t17"
+        ],
+        "review_status": "approved",
+        "content": "他以清淨潔白的心遍滿這個身體而坐，全身上下沒有一處不被清淨潔白的心所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:18.3",
@@ -58379,7 +60769,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:18.3.t0",
+          "mn39:18.3.t1",
+          "mn39:18.3.t2",
+          "mn39:18.3.t3",
+          "mn39:18.3.t4",
+          "mn39:18.3.t5",
+          "mn39:18.3.t6",
+          "mn39:18.3.t7",
+          "mn39:18.3.t8",
+          "mn39:18.3.t9",
+          "mn39:18.3.t10",
+          "mn39:18.3.t11",
+          "mn39:18.3.t12",
+          "mn39:18.3.t13",
+          "mn39:18.3.t14",
+          "mn39:18.3.t15",
+          "mn39:18.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如有人以白布連頭一起包裹而坐，全身上下沒有一處不被那白布所覆蓋。"
+      }
     },
     {
       "segment_id": "mn39:18.4",
@@ -59090,7 +61503,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:18.4.t0",
+          "mn39:18.4.t1",
+          "mn39:18.4.t2",
+          "mn39:18.4.t3",
+          "mn39:18.4.t4",
+          "mn39:18.4.t5",
+          "mn39:18.4.t6",
+          "mn39:18.4.t7",
+          "mn39:18.4.t8",
+          "mn39:18.4.t9",
+          "mn39:18.4.t10",
+          "mn39:18.4.t11",
+          "mn39:18.4.t12",
+          "mn39:18.4.t13",
+          "mn39:18.4.t14",
+          "mn39:18.4.t15",
+          "mn39:18.4.t16",
+          "mn39:18.4.t17",
+          "mn39:18.4.t18",
+          "mn39:18.4.t19",
+          "mn39:18.4.t20"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，同樣地，比丘以清淨潔白的心遍滿這個身體而坐，全身上下沒有一處不被清淨潔白的心所遍滿。"
+      }
     },
     {
       "segment_id": "mn39:19.1",
@@ -59810,7 +62250,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:19.1.t0",
+          "mn39:19.1.t1",
+          "mn39:19.1.t2",
+          "mn39:19.1.t3",
+          "mn39:19.1.t4",
+          "mn39:19.1.t5",
+          "mn39:19.1.t6",
+          "mn39:19.1.t7",
+          "mn39:19.1.t8",
+          "mn39:19.1.t9",
+          "mn39:19.1.t10",
+          "mn39:19.1.t11",
+          "mn39:19.1.t12",
+          "mn39:19.1.t13",
+          "mn39:19.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "當他的心如此得定、清淨、潔白、無垢、離煩惱、柔軟、堪任、安住、達到不動時，他就引導心趣向宿命隨念智。"
+      }
     },
     {
       "segment_id": "mn39:19.2",
@@ -60314,7 +62775,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:19.2.t0",
+          "mn39:19.2.t1",
+          "mn39:19.2.t2",
+          "mn39:19.2.t3",
+          "mn39:19.2.t4",
+          "mn39:19.2.t5",
+          "mn39:19.2.t6",
+          "mn39:19.2.t7",
+          "mn39:19.2.t8",
+          "mn39:19.2.t9",
+          "mn39:19.2.t10",
+          "mn39:19.2.t11",
+          "mn39:19.2.t12",
+          "mn39:19.2.t13",
+          "mn39:19.2.t14",
+          "mn39:19.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "他憶念起種種前世，也就是一生、兩生……如此連同其相狀、細節，憶念起種種前世。"
+      }
     },
     {
       "segment_id": "mn39:19.3",
@@ -62313,7 +64796,73 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:19.3.t0",
+          "mn39:19.3.t1",
+          "mn39:19.3.t2",
+          "mn39:19.3.t3",
+          "mn39:19.3.t4",
+          "mn39:19.3.t5",
+          "mn39:19.3.t6",
+          "mn39:19.3.t7",
+          "mn39:19.3.t8",
+          "mn39:19.3.t9",
+          "mn39:19.3.t10",
+          "mn39:19.3.t11",
+          "mn39:19.3.t12",
+          "mn39:19.3.t13",
+          "mn39:19.3.t14",
+          "mn39:19.3.t15",
+          "mn39:19.3.t16",
+          "mn39:19.3.t17",
+          "mn39:19.3.t18",
+          "mn39:19.3.t19",
+          "mn39:19.3.t20",
+          "mn39:19.3.t21",
+          "mn39:19.3.t22",
+          "mn39:19.3.t23",
+          "mn39:19.3.t24",
+          "mn39:19.3.t25",
+          "mn39:19.3.t26",
+          "mn39:19.3.t27",
+          "mn39:19.3.t28",
+          "mn39:19.3.t29",
+          "mn39:19.3.t30",
+          "mn39:19.3.t31",
+          "mn39:19.3.t32",
+          "mn39:19.3.t33",
+          "mn39:19.3.t34",
+          "mn39:19.3.t35",
+          "mn39:19.3.t36",
+          "mn39:19.3.t37",
+          "mn39:19.3.t38",
+          "mn39:19.3.t39",
+          "mn39:19.3.t40",
+          "mn39:19.3.t41",
+          "mn39:19.3.t42",
+          "mn39:19.3.t43",
+          "mn39:19.3.t44",
+          "mn39:19.3.t45",
+          "mn39:19.3.t46",
+          "mn39:19.3.t47",
+          "mn39:19.3.t48",
+          "mn39:19.3.t49",
+          "mn39:19.3.t50",
+          "mn39:19.3.t51",
+          "mn39:19.3.t52",
+          "mn39:19.3.t53",
+          "mn39:19.3.t54",
+          "mn39:19.3.t55",
+          "mn39:19.3.t56",
+          "mn39:19.3.t57",
+          "mn39:19.3.t58",
+          "mn39:19.3.t59"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如有人從自己的村子到另一個村子，又從那村子到另一個村子，然後從那村子返回自己的村子。他心想：『我從自己的村子到了那個村子，在那裡如此站立、如此坐下、如此說話、如此沉默；又從那村子到了那個村子，在那裡如此站立、如此坐下、如此說話、如此沉默；現在我已從那村子返回自己的村子。』"
+      }
     },
     {
       "segment_id": "mn39:19.4",
@@ -62859,7 +65408,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:19.4.t0",
+          "mn39:19.4.t1",
+          "mn39:19.4.t2",
+          "mn39:19.4.t3",
+          "mn39:19.4.t4",
+          "mn39:19.4.t5",
+          "mn39:19.4.t6",
+          "mn39:19.4.t7",
+          "mn39:19.4.t8",
+          "mn39:19.4.t9",
+          "mn39:19.4.t10",
+          "mn39:19.4.t11",
+          "mn39:19.4.t12",
+          "mn39:19.4.t13",
+          "mn39:19.4.t14",
+          "mn39:19.4.t15",
+          "mn39:19.4.t16",
+          "mn39:19.4.t17",
+          "mn39:19.4.t18"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘憶念起種種前世，也就是一生、兩生……如此連同其相狀、細節，憶念起種種前世。"
+      }
     },
     {
       "segment_id": "mn39:20.1",
@@ -63649,7 +66223,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:20.1.t0",
+          "mn39:20.1.t1",
+          "mn39:20.1.t2",
+          "mn39:20.1.t3",
+          "mn39:20.1.t4",
+          "mn39:20.1.t5",
+          "mn39:20.1.t6",
+          "mn39:20.1.t7",
+          "mn39:20.1.t8",
+          "mn39:20.1.t9",
+          "mn39:20.1.t10",
+          "mn39:20.1.t11",
+          "mn39:20.1.t12",
+          "mn39:20.1.t13",
+          "mn39:20.1.t14",
+          "mn39:20.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "當他的心如此得定、清淨、潔白、無垢、離煩惱、柔軟、堪任、安住、達到不動時，他就引導心趣向有情死生智。"
+      }
     },
     {
       "segment_id": "mn39:20.2",
@@ -64560,7 +67156,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:20.2.t0",
+          "mn39:20.2.t1",
+          "mn39:20.2.t2",
+          "mn39:20.2.t3",
+          "mn39:20.2.t4",
+          "mn39:20.2.t5",
+          "mn39:20.2.t6",
+          "mn39:20.2.t7",
+          "mn39:20.2.t8",
+          "mn39:20.2.t9",
+          "mn39:20.2.t10",
+          "mn39:20.2.t11",
+          "mn39:20.2.t12",
+          "mn39:20.2.t13",
+          "mn39:20.2.t14",
+          "mn39:20.2.t15",
+          "mn39:20.2.t16",
+          "mn39:20.2.t17",
+          "mn39:20.2.t18"
+        ],
+        "review_status": "approved",
+        "content": "他以清淨、超越常人的天眼，看見有情死亡、投生，或低劣、或殊勝，或美、或醜，或善趣、或惡趣，了知有情如何隨業流轉……"
+      }
     },
     {
       "segment_id": "mn39:20.3",
@@ -65148,7 +67769,30 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:20.3.t0",
+          "mn39:20.3.t1",
+          "mn39:20.3.t2",
+          "mn39:20.3.t3",
+          "mn39:20.3.t4",
+          "mn39:20.3.t5",
+          "mn39:20.3.t6",
+          "mn39:20.3.t7",
+          "mn39:20.3.t8",
+          "mn39:20.3.t9",
+          "mn39:20.3.t10",
+          "mn39:20.3.t11",
+          "mn39:20.3.t12",
+          "mn39:20.3.t13",
+          "mn39:20.3.t14",
+          "mn39:20.3.t15",
+          "mn39:20.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如兩間房屋，門相對而立，站在中間有眼的人，能看見人們進入房子、走出房子、來回走動、四處遊走。"
+      }
     },
     {
       "segment_id": "mn39:20.4",
@@ -66101,7 +68745,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:20.4.t0",
+          "mn39:20.4.t1",
+          "mn39:20.4.t2",
+          "mn39:20.4.t3",
+          "mn39:20.4.t4",
+          "mn39:20.4.t5",
+          "mn39:20.4.t6",
+          "mn39:20.4.t7",
+          "mn39:20.4.t8",
+          "mn39:20.4.t9",
+          "mn39:20.4.t10",
+          "mn39:20.4.t11",
+          "mn39:20.4.t12",
+          "mn39:20.4.t13",
+          "mn39:20.4.t14",
+          "mn39:20.4.t15",
+          "mn39:20.4.t16",
+          "mn39:20.4.t17",
+          "mn39:20.4.t18",
+          "mn39:20.4.t19",
+          "mn39:20.4.t20",
+          "mn39:20.4.t21"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘以清淨、超越常人的天眼，看見有情死亡、投生，或低劣、或殊勝，或美、或醜，或善趣、或惡趣，了知有情如何隨業流轉……"
+      }
     },
     {
       "segment_id": "mn39:21.1",
@@ -66864,7 +69536,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.1.t0",
+          "mn39:21.1.t1",
+          "mn39:21.1.t2",
+          "mn39:21.1.t3",
+          "mn39:21.1.t4",
+          "mn39:21.1.t5",
+          "mn39:21.1.t6",
+          "mn39:21.1.t7",
+          "mn39:21.1.t8",
+          "mn39:21.1.t9",
+          "mn39:21.1.t10",
+          "mn39:21.1.t11",
+          "mn39:21.1.t12",
+          "mn39:21.1.t13",
+          "mn39:21.1.t14",
+          "mn39:21.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "當他的心如此得定、清淨、潔白、無垢、離煩惱、柔軟、堪任、安住、達到不動時，他就引導心趣向漏盡智。"
+      }
     },
     {
       "segment_id": "mn39:21.2",
@@ -67638,7 +70332,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.2.t0",
+          "mn39:21.2.t1",
+          "mn39:21.2.t3",
+          "mn39:21.2.t4",
+          "mn39:21.2.t5",
+          "mn39:21.2.t6",
+          "mn39:21.2.t7",
+          "mn39:21.2.t8",
+          "mn39:21.2.t9",
+          "mn39:21.2.t10",
+          "mn39:21.2.t11",
+          "mn39:21.2.t12",
+          "mn39:21.2.t13",
+          "mn39:21.2.t14",
+          "mn39:21.2.t15",
+          "mn39:21.2.t16",
+          "mn39:21.2.t17",
+          "mn39:21.2.t18",
+          "mn39:21.2.t19",
+          "mn39:21.2.t20",
+          "mn39:21.2.t21"
+        ],
+        "review_status": "approved",
+        "content": "他如實了知『此是苦』，如實了知『此是苦集』，如實了知『此是苦滅』，如實了知『此是導向苦滅之道』。"
+      }
     },
     {
       "segment_id": "mn39:21.3",
@@ -68442,7 +71163,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.3.t0",
+          "mn39:21.3.t1",
+          "mn39:21.3.t2",
+          "mn39:21.3.t3",
+          "mn39:21.3.t4",
+          "mn39:21.3.t5",
+          "mn39:21.3.t6",
+          "mn39:21.3.t7",
+          "mn39:21.3.t8",
+          "mn39:21.3.t9",
+          "mn39:21.3.t10",
+          "mn39:21.3.t11",
+          "mn39:21.3.t12",
+          "mn39:21.3.t13",
+          "mn39:21.3.t14",
+          "mn39:21.3.t15",
+          "mn39:21.3.t16",
+          "mn39:21.3.t17",
+          "mn39:21.3.t18",
+          "mn39:21.3.t19",
+          "mn39:21.3.t20"
+        ],
+        "review_status": "approved",
+        "content": "他如實了知『此是諸漏』，如實了知『此是漏之集』，如實了知『此是漏之滅』，如實了知『此是導向漏滅之道』。"
+      }
     },
     {
       "segment_id": "mn39:21.4",
@@ -68991,7 +71739,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.4.t0",
+          "mn39:21.4.t1",
+          "mn39:21.4.t2",
+          "mn39:21.4.t3",
+          "mn39:21.4.t4",
+          "mn39:21.4.t5",
+          "mn39:21.4.t6",
+          "mn39:21.4.t7",
+          "mn39:21.4.t8",
+          "mn39:21.4.t9",
+          "mn39:21.4.t10",
+          "mn39:21.4.t11",
+          "mn39:21.4.t12",
+          "mn39:21.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "當他如此知、如此見時，心從欲漏解脫，心從有漏解脫，心從無明漏解脫。"
+      }
     },
     {
       "segment_id": "mn39:21.5",
@@ -69150,7 +71918,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.5.t0",
+          "mn39:21.5.t1",
+          "mn39:21.5.t2",
+          "mn39:21.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "心解脫時，便有『已解脫』之智。"
+      }
     },
     {
       "segment_id": "mn39:21.6",
@@ -69661,7 +72439,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.6.t0",
+          "mn39:21.6.t1",
+          "mn39:21.6.t2",
+          "mn39:21.6.t3",
+          "mn39:21.6.t4",
+          "mn39:21.6.t5",
+          "mn39:21.6.t6",
+          "mn39:21.6.t8",
+          "mn39:21.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "他了知：『生已盡，梵行已立，所作已辦，不再有後有。』"
+      }
     },
     {
       "segment_id": "mn39:21.7",
@@ -69807,7 +72600,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.7.t0",
+          "mn39:21.7.t1",
+          "mn39:21.7.t2",
+          "mn39:21.7.t3",
+          "mn39:21.7.t4",
+          "mn39:21.7.t5",
+          "mn39:21.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，猶如山間有一處清澈、明淨、無濁的湖水。"
+      }
     },
     {
       "segment_id": "mn39:21.8",
@@ -70164,7 +72970,24 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.8.t0",
+          "mn39:21.8.t1",
+          "mn39:21.8.t2",
+          "mn39:21.8.t3",
+          "mn39:21.8.t4",
+          "mn39:21.8.t5",
+          "mn39:21.8.t6",
+          "mn39:21.8.t7",
+          "mn39:21.8.t8",
+          "mn39:21.8.t9",
+          "mn39:21.8.t10"
+        ],
+        "review_status": "approved",
+        "content": "站在岸邊有眼的人，能看見其中的蚌殼、砂石卵石、魚群，或游動、或靜止。"
+      }
     },
     {
       "segment_id": "mn39:21.9",
@@ -70251,7 +73074,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.9.t0",
+          "mn39:21.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "他會這樣想："
+      }
     },
     {
       "segment_id": "mn39:21.10",
@@ -70581,7 +73412,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.10.t0",
+          "mn39:21.10.t1",
+          "mn39:21.10.t2",
+          "mn39:21.10.t3",
+          "mn39:21.10.t4",
+          "mn39:21.10.t5",
+          "mn39:21.10.t6",
+          "mn39:21.10.t7",
+          "mn39:21.10.t8",
+          "mn39:21.10.t9",
+          "mn39:21.10.t10",
+          "mn39:21.10.t12"
+        ],
+        "review_status": "approved",
+        "content": "『這湖水清澈、明淨、無濁，其中這些蚌殼、砂石卵石、魚群，或游動、或靜止。』"
+      }
     },
     {
       "segment_id": "mn39:21.11",
@@ -70865,7 +73714,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.11.t0",
+          "mn39:21.11.t1",
+          "mn39:21.11.t2",
+          "mn39:21.11.t3",
+          "mn39:21.11.t4",
+          "mn39:21.11.t6",
+          "mn39:21.11.t7",
+          "mn39:21.11.t8",
+          "mn39:21.11.t9"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘如實了知『此是苦』……"
+      }
     },
     {
       "segment_id": "mn39:21.12",
@@ -70976,7 +73840,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:21.12.t0",
+          "mn39:21.12.t1",
+          "mn39:21.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "了知『不再有後有』。"
+      }
     },
     {
       "segment_id": "mn39:22.1",
@@ -71543,7 +74416,31 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:22.1.t0",
+          "mn39:22.1.t1",
+          "mn39:22.1.t2",
+          "mn39:22.1.t3",
+          "mn39:22.1.t4",
+          "mn39:22.1.t5",
+          "mn39:22.1.t6",
+          "mn39:22.1.t7",
+          "mn39:22.1.t8",
+          "mn39:22.1.t9",
+          "mn39:22.1.t10",
+          "mn39:22.1.t11",
+          "mn39:22.1.t12",
+          "mn39:22.1.t13",
+          "mn39:22.1.t14",
+          "mn39:22.1.t15",
+          "mn39:22.1.t16",
+          "mn39:22.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，這樣的比丘被稱為沙門，也被稱為婆羅門，也被稱為已淨者，也被稱為具足圓滿智者，也被稱為滌除塵垢者，也被稱為聖者，也被稱為阿羅漢。"
+      }
     },
     {
       "segment_id": "mn39:23.1",
@@ -71667,7 +74564,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:23.1.t0",
+          "mn39:23.1.t1",
+          "mn39:23.1.t2",
+          "mn39:23.1.t3",
+          "mn39:23.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何是沙門呢？"
+      }
     },
     {
       "segment_id": "mn39:23.2",
@@ -72364,7 +75272,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:23.2.t1",
+          "mn39:23.2.t2",
+          "mn39:23.2.t3",
+          "mn39:23.2.t4",
+          "mn39:23.2.t5",
+          "mn39:23.2.t6",
+          "mn39:23.2.t7",
+          "mn39:23.2.t8",
+          "mn39:23.2.t9",
+          "mn39:23.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他的種種邪惡、不善、雜染、導致再生、令人苦惱、招致苦果、導向未來生老死的法，已被止息。"
+      }
     },
     {
       "segment_id": "mn39:23.3",
@@ -72470,7 +75394,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:23.3.t0",
+          "mn39:23.3.t1",
+          "mn39:23.3.t2",
+          "mn39:23.3.t3",
+          "mn39:23.3.t4",
+          "mn39:23.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘才是沙門。"
+      }
     },
     {
       "segment_id": "mn39:24.1",
@@ -72594,7 +75530,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:24.1.t0",
+          "mn39:24.1.t1",
+          "mn39:24.1.t2",
+          "mn39:24.1.t3",
+          "mn39:24.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何是婆羅門呢？"
+      }
     },
     {
       "segment_id": "mn39:24.2",
@@ -73291,7 +76238,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:24.2.t1",
+          "mn39:24.2.t2",
+          "mn39:24.2.t3",
+          "mn39:24.2.t4",
+          "mn39:24.2.t5",
+          "mn39:24.2.t6",
+          "mn39:24.2.t7",
+          "mn39:24.2.t8",
+          "mn39:24.2.t9",
+          "mn39:24.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他的種種邪惡、不善、雜染、導致再生、令人苦惱、招致苦果、導向未來生老死的法，已被摒除。"
+      }
     },
     {
       "segment_id": "mn39:24.3",
@@ -73397,7 +76360,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:24.3.t0",
+          "mn39:24.3.t1",
+          "mn39:24.3.t2",
+          "mn39:24.3.t3",
+          "mn39:24.3.t4",
+          "mn39:24.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘才是婆羅門。"
+      }
     },
     {
       "segment_id": "mn39:25.1",
@@ -73521,7 +76496,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:25.1.t0",
+          "mn39:25.1.t1",
+          "mn39:25.1.t2",
+          "mn39:25.1.t3",
+          "mn39:25.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何是已淨者呢？"
+      }
     },
     {
       "segment_id": "mn39:25.2",
@@ -74214,7 +77200,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:25.2.t1",
+          "mn39:25.2.t2",
+          "mn39:25.2.t3",
+          "mn39:25.2.t4",
+          "mn39:25.2.t5",
+          "mn39:25.2.t6",
+          "mn39:25.2.t7",
+          "mn39:25.2.t8",
+          "mn39:25.2.t9",
+          "mn39:25.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他的種種邪惡、不善、雜染、導致再生、令人苦惱、招致苦果、導向未來生老死的法，已被洗淨。"
+      }
     },
     {
       "segment_id": "mn39:25.3",
@@ -74320,7 +77322,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:25.3.t0",
+          "mn39:25.3.t1",
+          "mn39:25.3.t2",
+          "mn39:25.3.t3",
+          "mn39:25.3.t4",
+          "mn39:25.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘才是已淨者。"
+      }
     },
     {
       "segment_id": "mn39:26.1",
@@ -74481,7 +77495,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:26.1.t0",
+          "mn39:26.1.t1",
+          "mn39:26.1.t2",
+          "mn39:26.1.t3",
+          "mn39:26.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何是具足圓滿智者呢？"
+      }
     },
     {
       "segment_id": "mn39:26.2",
@@ -75174,7 +78199,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:26.2.t1",
+          "mn39:26.2.t2",
+          "mn39:26.2.t3",
+          "mn39:26.2.t4",
+          "mn39:26.2.t5",
+          "mn39:26.2.t6",
+          "mn39:26.2.t7",
+          "mn39:26.2.t8",
+          "mn39:26.2.t9",
+          "mn39:26.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他的種種邪惡、不善、雜染、導致再生、令人苦惱、招致苦果、導向未來生老死的法，已被了知。"
+      }
     },
     {
       "segment_id": "mn39:26.3",
@@ -75317,7 +78358,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:26.3.t0",
+          "mn39:26.3.t1",
+          "mn39:26.3.t2",
+          "mn39:26.3.t3",
+          "mn39:26.3.t4",
+          "mn39:26.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘才是具足圓滿智者。"
+      }
     },
     {
       "segment_id": "mn39:27.1",
@@ -75469,7 +78522,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:27.1.t0",
+          "mn39:27.1.t1",
+          "mn39:27.1.t2",
+          "mn39:27.1.t3",
+          "mn39:27.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，比丘如何是滌除塵垢者呢？"
+      }
     },
     {
       "segment_id": "mn39:27.2",
@@ -76162,7 +79226,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:27.2.t1",
+          "mn39:27.2.t2",
+          "mn39:27.2.t3",
+          "mn39:27.2.t4",
+          "mn39:27.2.t5",
+          "mn39:27.2.t6",
+          "mn39:27.2.t7",
+          "mn39:27.2.t8",
+          "mn39:27.2.t9",
+          "mn39:27.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他的種種邪惡、不善、雜染、導致再生、令人苦惱、招致苦果、導向未來生老死的法，已被沖除滌淨。"
+      }
     },
     {
       "segment_id": "mn39:27.3",
@@ -76296,7 +79376,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:27.3.t0",
+          "mn39:27.3.t1",
+          "mn39:27.3.t2",
+          "mn39:27.3.t3",
+          "mn39:27.3.t4",
+          "mn39:27.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘，正是如此，比丘才是滌除塵垢者。"
+      }
     },
     {
       "segment_id": "mn39:28.1",
@@ -76430,7 +79522,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:28.1.t0",
+          "mn39:28.1.t1",
+          "mn39:28.1.t2",
+          "mn39:28.1.t3",
+          "mn39:28.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘！比丘要如何才是聖者呢？"
+      }
     },
     {
       "segment_id": "mn39:28.2",
@@ -77115,7 +80218,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:28.2.t1",
+          "mn39:28.2.t2",
+          "mn39:28.2.t3",
+          "mn39:28.2.t4",
+          "mn39:28.2.t5",
+          "mn39:28.2.t6",
+          "mn39:28.2.t7",
+          "mn39:28.2.t8",
+          "mn39:28.2.t9",
+          "mn39:28.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "邪惡不善法——雜染的、導致再生的、令人怖畏的、招致苦果的、導向未來生、老、死的——都已遠離於他。"
+      }
     },
     {
       "segment_id": "mn39:28.3",
@@ -77231,7 +80350,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:28.3.t0",
+          "mn39:28.3.t1",
+          "mn39:28.3.t2",
+          "mn39:28.3.t3",
+          "mn39:28.3.t4",
+          "mn39:28.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘！這樣，比丘就是聖者。"
+      }
     },
     {
       "segment_id": "mn39:29.1",
@@ -77401,7 +80532,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.1.t0",
+          "mn39:29.1.t1",
+          "mn39:29.1.t2",
+          "mn39:29.1.t3",
+          "mn39:29.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘！比丘要如何才是阿羅漢呢？"
+      }
     },
     {
       "segment_id": "mn39:29.2",
@@ -78086,7 +81228,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.2.t1",
+          "mn39:29.2.t2",
+          "mn39:29.2.t3",
+          "mn39:29.2.t4",
+          "mn39:29.2.t5",
+          "mn39:29.2.t6",
+          "mn39:29.2.t7",
+          "mn39:29.2.t8",
+          "mn39:29.2.t9",
+          "mn39:29.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "邪惡不善法——雜染的、導致再生的、令人怖畏的、招致苦果的、導向未來生、老、死的——都已遠離於他。"
+      }
     },
     {
       "segment_id": "mn39:29.3",
@@ -78263,7 +81421,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.3.t0",
+          "mn39:29.3.t1",
+          "mn39:29.3.t2",
+          "mn39:29.3.t3",
+          "mn39:29.3.t4",
+          "mn39:29.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "諸比丘！這樣，比丘就是阿羅漢。"
+      }
     },
     {
       "segment_id": "mn39:29.4",
@@ -78350,7 +81520,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.4.t0",
+          "mn39:29.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這些話。"
+      }
     },
     {
       "segment_id": "mn39:29.5",
@@ -78699,7 +81877,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.5.t0",
+          "mn39:29.5.t1",
+          "mn39:29.5.t2",
+          "mn39:29.5.t3",
+          "mn39:29.5.t4",
+          "mn39:29.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘對世尊所說的話，心滿意足，歡喜信受。"
+      }
     },
     {
       "segment_id": "mn39:29.6",
@@ -78816,7 +82006,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn39:29.6.t0",
+          "mn39:29.6.t1",
+          "mn39:29.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "《馬邑大經》第九經，竟。"
+      }
     }
   ],
   "passages": [
@@ -79020,8 +82219,87 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn39:2.3",
+      "mn39:3.2",
+      "mn39:4.2",
+      "mn39:5.2",
+      "mn39:6.2",
+      "mn39:7.2",
+      "mn39:8.2",
+      "mn39:9.2",
+      "mn39:10.2",
+      "mn39:11.2",
+      "mn39:12.2",
+      "mn39:13.2",
+      "mn39:13.3",
+      "mn39:13.4",
+      "mn39:13.5",
+      "mn39:13.6",
+      "mn39:14.29",
+      "mn39:14.30",
+      "mn39:15.2",
+      "mn39:16.1",
+      "mn39:17.1",
+      "mn39:18.1",
+      "mn39:19.1",
+      "mn39:20.1",
+      "mn39:21.1",
+      "mn39:21.4",
+      "mn39:21.6",
+      "mn39:22.1",
+      "mn39:23.2",
+      "mn39:29.3"
+    ],
+    "review_status": "approved",
+    "content": "世尊在鴦伽國馬邑對比丘開示：世人稱比丘為沙門，比丘亦自稱沙門，此稱謂唯有受持並實踐使人成為沙門、婆羅門之法，才名符其實。修行須漸次而進：先具慚愧，次身、語、意行清淨，次正命清淨，次守護根門、飲食知量、致力警寤、具足正念正知；再獨處林野捨斷五蓋，如脫離負債、疾病、牢獄、奴隸、荒野之苦而得安樂。捨五蓋後，次第證得初禪至四禪，進而引心趣向宿命智、天眼所見有情死生智、漏盡智，如實了知苦、集、滅、道及諸漏，心從欲、有、無明三漏解脫，自知生盡梵行立、所作已辦。每達一階皆誡莫以為已足而止步不前，唯至漏盡方為真沙門、真婆羅門、聖者、已淨者、阿羅漢。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "沙門婆羅門的名實之辨",
+      "sources": [
+        "mn39:2.3",
+        "mn39:22.1",
+        "mn39:23.2",
+        "mn39:26.2",
+        "mn39:29.3"
+      ],
+      "content": "世人稱比丘為沙門，比丘亦自稱沙門，但佛陀指出，唯有受持並依循使人成為沙門、婆羅門的法而修行，這稱謂與自稱才名符其實，所受供養才有大果報，出家生活才不虛耗。經末總結：唯有邪惡不善、雜染、導致再生、招致苦果之法皆已止息、摒除、洗淨、了知、滌淨、遠離者，才真正稱得上沙門、婆羅門、已淨者、具足圓滿智者、滌除塵垢者、聖者、阿羅漢，七種稱號同指一義，皆須以修證為實。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "漸次修行的十個階段與退轉之誡",
+      "sources": [
+        "mn39:3.2",
+        "mn39:4.2",
+        "mn39:7.2",
+        "mn39:8.2",
+        "mn39:11.2"
+      ],
+      "content": "佛陀依序開示應修之法：具足慚愧、身行清淨、語行清淨、意行清淨、正命清淨、守護根門（六根對境不取整體相與細相）、飲食知量、致力警寤（初夜後夜經行坐禪、中夜正念而臥）、具足正念正知（行住坐臥皆了知），再獨處林野修習禪那前行。每完成一階，佛陀皆設想比丘可能以為「這樣已足夠、已達沙門目標」而自滿止步，隨即誡勉：只要還有更進一步該做之事，就不應讓沙門的目標因自滿而退失，必須層層推進，不可中道自足。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "捨五蓋、四禪與三明",
+      "sources": [
+        "mn39:13.2",
+        "mn39:15.2",
+        "mn39:18.1",
+        "mn39:19.1",
+        "mn39:21.4"
+      ],
+      "content": "比丘於遠離處結跏趺坐，捨離貪欲、瞋恚、惛沉睡眠、掉舉惡作、疑等五蓋，如脫離負債、疾病、牢獄、奴隸、荒野之苦而生喜悅。捨五蓋後，次第由初禪（離欲離不善法，喜樂遍滿如沐浴粉受水浸潤）、二禪（內淨一心，喜樂如湖底湧泉遍滿全湖）、三禪（離喜之樂如蓮花沒於水中受潤）進至四禪（捨念清淨如以白布覆身）。心得定、清淨、柔軟堪任後，依次引心趣向宿命隨念智（憶念前世）、有情死生智（天眼見眾生隨業流轉）、漏盡智（如實知四聖諦與諸漏，心從欲、有、無明三漏解脫，自知生盡梵行立、所作已辦、不受後有）。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

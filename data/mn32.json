@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn32",
-    "title_pali": "MN32",
-    "title_zh": "mn32",
+    "title_pali": "Mahāgosiṅgasutta",
+    "title_zh": "牛角林大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn32"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:1.1.t0",
+          "mn32:1.1.t1",
+          "mn32:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn32:1.2",
@@ -626,7 +635,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:1.2.t0",
+          "mn32:1.2.t1",
+          "mn32:1.2.t2",
+          "mn32:1.2.t3",
+          "mn32:1.2.t4",
+          "mn32:1.2.t5",
+          "mn32:1.2.t6",
+          "mn32:1.2.t7",
+          "mn32:1.2.t8",
+          "mn32:1.2.t9",
+          "mn32:1.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "有一時，世尊住在牛角娑羅林，與眾多知名的上座聲聞弟子在一起。"
+      }
     },
     {
       "segment_id": "mn32:1.3",
@@ -1478,7 +1504,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:1.3.t0",
+          "mn32:1.3.t1",
+          "mn32:1.3.t2",
+          "mn32:1.3.t3",
+          "mn32:1.3.t4",
+          "mn32:1.3.t5",
+          "mn32:1.3.t6",
+          "mn32:1.3.t7",
+          "mn32:1.3.t8",
+          "mn32:1.3.t9",
+          "mn32:1.3.t10",
+          "mn32:1.3.t11",
+          "mn32:1.3.t12",
+          "mn32:1.3.t13",
+          "mn32:1.3.t14",
+          "mn32:1.3.t15",
+          "mn32:1.3.t16",
+          "mn32:1.3.t17",
+          "mn32:1.3.t18",
+          "mn32:1.3.t19",
+          "mn32:1.3.t20",
+          "mn32:1.3.t21",
+          "mn32:1.3.t22",
+          "mn32:1.3.t23",
+          "mn32:1.3.t24"
+        ],
+        "review_status": "approved",
+        "content": "有具壽舍利弗、具壽大目犍連、具壽大迦葉、具壽阿那律、具壽離婆多、具壽阿難，以及其他眾所周知的上座聲聞弟子在一起。"
+      }
     },
     {
       "segment_id": "mn32:2.1",
@@ -1857,7 +1914,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:2.1.t0",
+          "mn32:2.1.t1",
+          "mn32:2.1.t2",
+          "mn32:2.1.t3",
+          "mn32:2.1.t4",
+          "mn32:2.1.t5",
+          "mn32:2.1.t6",
+          "mn32:2.1.t7",
+          "mn32:2.1.t8",
+          "mn32:2.1.t9",
+          "mn32:2.1.t10",
+          "mn32:2.1.t11",
+          "mn32:2.1.t12",
+          "mn32:2.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "那時，具壽大目犍連在傍晚時分，從獨坐禪思中出定，前往具壽大迦葉所在之處。到了之後，對具壽大迦葉如此說："
+      }
     },
     {
       "segment_id": "mn32:2.2",
@@ -1988,7 +2065,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:2.2.t0",
+          "mn32:2.2.t1",
+          "mn32:2.2.t2",
+          "mn32:2.2.t3",
+          "mn32:2.2.t4",
+          "mn32:2.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "「迦葉學友，我們一起去具壽舍利弗那裡聽法吧。」"
+      }
     },
     {
       "segment_id": "mn32:2.3",
@@ -2259,7 +2348,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:2.3.t0",
+          "mn32:2.3.t1",
+          "mn32:2.3.t2",
+          "mn32:2.3.t3",
+          "mn32:2.3.t4",
+          "mn32:2.3.t5",
+          "mn32:2.3.t6",
+          "mn32:2.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "「好的，學友。」具壽大迦葉如此回應具壽大目犍連。"
+      }
     },
     {
       "segment_id": "mn32:2.4",
@@ -2670,7 +2773,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:2.4.t0",
+          "mn32:2.4.t1",
+          "mn32:2.4.t2",
+          "mn32:2.4.t3",
+          "mn32:2.4.t4",
+          "mn32:2.4.t5",
+          "mn32:2.4.t6",
+          "mn32:2.4.t7",
+          "mn32:2.4.t8",
+          "mn32:2.4.t9",
+          "mn32:2.4.t10",
+          "mn32:2.4.t11",
+          "mn32:2.4.t12",
+          "mn32:2.4.t13",
+          "mn32:2.4.t14"
+        ],
+        "review_status": "approved",
+        "content": "於是，具壽大目犍連、具壽大迦葉、具壽阿那律，便一同前往具壽舍利弗那裡聽法。"
+      }
     },
     {
       "segment_id": "mn32:3.1",
@@ -3083,7 +3207,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.1.t0",
+          "mn32:3.1.t1",
+          "mn32:3.1.t2",
+          "mn32:3.1.t3",
+          "mn32:3.1.t4",
+          "mn32:3.1.t5",
+          "mn32:3.1.t6",
+          "mn32:3.1.t7",
+          "mn32:3.1.t8",
+          "mn32:3.1.t9",
+          "mn32:3.1.t10",
+          "mn32:3.1.t11",
+          "mn32:3.1.t12",
+          "mn32:3.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "具壽阿難見到具壽大目犍連、具壽大迦葉、具壽阿那律正前往具壽舍利弗那裡聽法。"
+      }
     },
     {
       "segment_id": "mn32:3.2",
@@ -3252,7 +3396,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.2.t0",
+          "mn32:3.2.t1",
+          "mn32:3.2.t2",
+          "mn32:3.2.t3",
+          "mn32:3.2.t4",
+          "mn32:3.2.t5",
+          "mn32:3.2.t6",
+          "mn32:3.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "見到之後，便前往具壽離婆多所在之處。到了之後，對具壽離婆多如此說："
+      }
     },
     {
       "segment_id": "mn32:3.3",
@@ -3534,7 +3692,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.3.t0",
+          "mn32:3.3.t1",
+          "mn32:3.3.t2",
+          "mn32:3.3.t3",
+          "mn32:3.3.t4",
+          "mn32:3.3.t5",
+          "mn32:3.3.t6",
+          "mn32:3.3.t7",
+          "mn32:3.3.t8",
+          "mn32:3.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "「離婆多學友，那些善士正前往具壽舍利弗那裡聽法。」"
+      }
     },
     {
       "segment_id": "mn32:3.4",
@@ -3665,7 +3839,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.4.t0",
+          "mn32:3.4.t1",
+          "mn32:3.4.t2",
+          "mn32:3.4.t3",
+          "mn32:3.4.t4",
+          "mn32:3.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "「離婆多學友，我們一起去具壽舍利弗那裡聽法吧。」"
+      }
     },
     {
       "segment_id": "mn32:3.5",
@@ -3936,7 +4122,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.5.t0",
+          "mn32:3.5.t1",
+          "mn32:3.5.t2",
+          "mn32:3.5.t3",
+          "mn32:3.5.t4",
+          "mn32:3.5.t5",
+          "mn32:3.5.t6",
+          "mn32:3.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「好的，學友。」具壽離婆多如此回應具壽阿難。"
+      }
     },
     {
       "segment_id": "mn32:3.6",
@@ -4237,7 +4437,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:3.6.t0",
+          "mn32:3.6.t1",
+          "mn32:3.6.t2",
+          "mn32:3.6.t3",
+          "mn32:3.6.t4",
+          "mn32:3.6.t5",
+          "mn32:3.6.t6",
+          "mn32:3.6.t7",
+          "mn32:3.6.t8",
+          "mn32:3.6.t9",
+          "mn32:3.6.t10",
+          "mn32:3.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "於是，具壽離婆多與具壽阿難，便一同前往具壽舍利弗那裡聽法。"
+      }
     },
     {
       "segment_id": "mn32:4.1",
@@ -4548,7 +4766,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.1.t0",
+          "mn32:4.1.t1",
+          "mn32:4.1.t2",
+          "mn32:4.1.t3",
+          "mn32:4.1.t4",
+          "mn32:4.1.t5",
+          "mn32:4.1.t6",
+          "mn32:4.1.t7",
+          "mn32:4.1.t8",
+          "mn32:4.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "具壽舍利弗遠遠見到具壽離婆多與具壽阿難前來。"
+      }
     },
     {
       "segment_id": "mn32:4.2",
@@ -4642,7 +4876,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.2.t0",
+          "mn32:4.2.t1",
+          "mn32:4.2.t2",
+          "mn32:4.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "見到之後，對具壽阿難如此說："
+      }
     },
     {
       "segment_id": "mn32:4.3",
@@ -4763,7 +5007,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.3.t0",
+          "mn32:4.3.t1",
+          "mn32:4.3.t2",
+          "mn32:4.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "「請具壽阿難前來！」"
+      }
     },
     {
       "segment_id": "mn32:4.4",
@@ -5196,7 +5450,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.4.t0",
+          "mn32:4.4.t1",
+          "mn32:4.4.t2",
+          "mn32:4.4.t3",
+          "mn32:4.4.t4",
+          "mn32:4.4.t5",
+          "mn32:4.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "「歡迎世尊的侍者、常隨侍世尊左右的具壽阿難。」"
+      }
     },
     {
       "segment_id": "mn32:4.5",
@@ -5761,7 +6028,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.5.t0",
+          "mn32:4.5.t1",
+          "mn32:4.5.t2",
+          "mn32:4.5.t3",
+          "mn32:4.5.t4",
+          "mn32:4.5.t5",
+          "mn32:4.5.t6",
+          "mn32:4.5.t7",
+          "mn32:4.5.t8",
+          "mn32:4.5.t9",
+          "mn32:4.5.t10",
+          "mn32:4.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "「阿難學友，牛角娑羅林真是宜人啊！月光皎潔的夜晚，娑羅樹盛開如花，散發彷彿天界般的香氣。」"
+      }
     },
     {
       "segment_id": "mn32:4.6",
@@ -5931,7 +6216,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.6.t0",
+          "mn32:4.6.t1",
+          "mn32:4.6.t2",
+          "mn32:4.6.t3",
+          "mn32:4.6.t4",
+          "mn32:4.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "「阿難學友，怎樣的比丘，能使牛角娑羅林增輝呢？」"
+      }
     },
     {
       "segment_id": "mn32:4.7",
@@ -7403,7 +7700,42 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.7.t0",
+          "mn32:4.7.t1",
+          "mn32:4.7.t2",
+          "mn32:4.7.t3",
+          "mn32:4.7.t4",
+          "mn32:4.7.t5",
+          "mn32:4.7.t6",
+          "mn32:4.7.t7",
+          "mn32:4.7.t8",
+          "mn32:4.7.t9",
+          "mn32:4.7.t10",
+          "mn32:4.7.t11",
+          "mn32:4.7.t12",
+          "mn32:4.7.t13",
+          "mn32:4.7.t14",
+          "mn32:4.7.t15",
+          "mn32:4.7.t16",
+          "mn32:4.7.t17",
+          "mn32:4.7.t18",
+          "mn32:4.7.t19",
+          "mn32:4.7.t20",
+          "mn32:4.7.t21",
+          "mn32:4.7.t22",
+          "mn32:4.7.t23",
+          "mn32:4.7.t24",
+          "mn32:4.7.t25",
+          "mn32:4.7.t26",
+          "mn32:4.7.t27",
+          "mn32:4.7.t28"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，在此，有比丘多聞，受持所聞，積累所聞。那些初善、中善、後善，義具、文具，圓滿清淨梵行的法，對於這樣的比丘，他多聞這些法，憶持在心，以言語熟習，以意反覆思惟，以見透徹了悟。」"
+      }
     },
     {
       "segment_id": "mn32:4.8",
@@ -7731,7 +8063,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.8.t0",
+          "mn32:4.8.t1",
+          "mn32:4.8.t2",
+          "mn32:4.8.t3",
+          "mn32:4.8.t4",
+          "mn32:4.8.t5",
+          "mn32:4.8.t6",
+          "mn32:4.8.t7",
+          "mn32:4.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "「他為四眾說法，言辭圓滿、文句連貫，以求根除隨眠煩惱。」"
+      }
     },
     {
       "segment_id": "mn32:4.9",
@@ -7906,7 +8253,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:4.9.t0",
+          "mn32:4.9.t1",
+          "mn32:4.9.t2",
+          "mn32:4.9.t3",
+          "mn32:4.9.t4",
+          "mn32:4.9.t5",
+          "mn32:4.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，像這樣的比丘，能使牛角娑羅林增輝。」"
+      }
     },
     {
       "segment_id": "mn32:5.1",
@@ -8155,7 +8515,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.1.t0",
+          "mn32:5.1.t1",
+          "mn32:5.1.t2",
+          "mn32:5.1.t3",
+          "mn32:5.1.t4",
+          "mn32:5.1.t5",
+          "mn32:5.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "這樣說完之後，具壽舍利弗對具壽離婆多如此說："
+      }
     },
     {
       "segment_id": "mn32:5.2",
@@ -8492,7 +8865,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.2.t0",
+          "mn32:5.2.t1",
+          "mn32:5.2.t2",
+          "mn32:5.2.t3",
+          "mn32:5.2.t4",
+          "mn32:5.2.t5",
+          "mn32:5.2.t6",
+          "mn32:5.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "「離婆多學友，具壽阿難已依自己的體悟作了回答。」"
+      }
     },
     {
       "segment_id": "mn32:5.3",
@@ -8682,7 +9069,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.3.t0",
+          "mn32:5.3.t1",
+          "mn32:5.3.t2",
+          "mn32:5.3.t3",
+          "mn32:5.3.t4",
+          "mn32:5.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "「現在，我們要在此請問具壽離婆多。」"
+      }
     },
     {
       "segment_id": "mn32:5.4",
@@ -9237,7 +9636,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.4.t0",
+          "mn32:5.4.t1",
+          "mn32:5.4.t2",
+          "mn32:5.4.t3",
+          "mn32:5.4.t4",
+          "mn32:5.4.t5",
+          "mn32:5.4.t6",
+          "mn32:5.4.t7",
+          "mn32:5.4.t8",
+          "mn32:5.4.t9",
+          "mn32:5.4.t10",
+          "mn32:5.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "「離婆多學友，牛角娑羅林真是宜人啊！月光皎潔的夜晚，娑羅樹盛開如花，散發彷彿天界般的香氣。」"
+      }
     },
     {
       "segment_id": "mn32:5.5",
@@ -9397,7 +9814,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.5.t0",
+          "mn32:5.5.t1",
+          "mn32:5.5.t2",
+          "mn32:5.5.t3",
+          "mn32:5.5.t4",
+          "mn32:5.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "「離婆多學友，怎樣的比丘，能使牛角娑羅林增輝呢？」"
+      }
     },
     {
       "segment_id": "mn32:5.6",
@@ -9752,7 +10181,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.6.t0",
+          "mn32:5.6.t1",
+          "mn32:5.6.t2",
+          "mn32:5.6.t3",
+          "mn32:5.6.t4",
+          "mn32:5.6.t5",
+          "mn32:5.6.t6",
+          "mn32:5.6.t7",
+          "mn32:5.6.t8",
+          "mn32:5.6.t9",
+          "mn32:5.6.t10",
+          "mn32:5.6.t11",
+          "mn32:5.6.t12"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，在此，有比丘樂於獨坐禪思，喜好獨處，致力於內心的止，不捨離禪修，具足觀，常增益空閒處。」"
+      }
     },
     {
       "segment_id": "mn32:5.7",
@@ -9927,7 +10375,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:5.7.t0",
+          "mn32:5.7.t1",
+          "mn32:5.7.t2",
+          "mn32:5.7.t3",
+          "mn32:5.7.t4",
+          "mn32:5.7.t5",
+          "mn32:5.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，像這樣的比丘，能使牛角娑羅林增輝。」"
+      }
     },
     {
       "segment_id": "mn32:6.1",
@@ -10231,7 +10692,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.1.t0",
+          "mn32:6.1.t1",
+          "mn32:6.1.t2",
+          "mn32:6.1.t3",
+          "mn32:6.1.t4",
+          "mn32:6.1.t5",
+          "mn32:6.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "這樣說完之後，具壽舍利弗對具壽阿那律如此說："
+      }
     },
     {
       "segment_id": "mn32:6.2",
@@ -10596,7 +11070,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.2.t0",
+          "mn32:6.2.t1",
+          "mn32:6.2.t2",
+          "mn32:6.2.t3",
+          "mn32:6.2.t4",
+          "mn32:6.2.t5",
+          "mn32:6.2.t6",
+          "mn32:6.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "「阿那律學友，具壽離婆多已依自己的體悟作了回答。」"
+      }
     },
     {
       "segment_id": "mn32:6.3",
@@ -10841,7 +11329,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.3.t0",
+          "mn32:6.3.t1",
+          "mn32:6.3.t2",
+          "mn32:6.3.t3",
+          "mn32:6.3.t4",
+          "mn32:6.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "「現在，我們要在此請問具壽阿那律。」"
+      }
     },
     {
       "segment_id": "mn32:6.4",
@@ -11424,7 +11924,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.4.t0",
+          "mn32:6.4.t1",
+          "mn32:6.4.t2",
+          "mn32:6.4.t3",
+          "mn32:6.4.t4",
+          "mn32:6.4.t5",
+          "mn32:6.4.t6",
+          "mn32:6.4.t7",
+          "mn32:6.4.t8",
+          "mn32:6.4.t9",
+          "mn32:6.4.t10",
+          "mn32:6.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "「阿那律學友，牛角娑羅林真是宜人啊！月光皎潔的夜晚，娑羅樹盛開如花，散發彷彿天界般的香氣。」"
+      }
     },
     {
       "segment_id": "mn32:6.5",
@@ -11612,7 +12130,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.5.t0",
+          "mn32:6.5.t1",
+          "mn32:6.5.t2",
+          "mn32:6.5.t3",
+          "mn32:6.5.t4",
+          "mn32:6.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "「阿那律學友，怎樣的比丘，能使牛角娑羅林增輝呢？」"
+      }
     },
     {
       "segment_id": "mn32:6.6",
@@ -11879,7 +12409,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.6.t0",
+          "mn32:6.6.t1",
+          "mn32:6.6.t2",
+          "mn32:6.6.t3",
+          "mn32:6.6.t4",
+          "mn32:6.6.t5",
+          "mn32:6.6.t6",
+          "mn32:6.6.t7",
+          "mn32:6.6.t8",
+          "mn32:6.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，在此，有比丘以清淨、超越常人的天眼，遍觀一千個世界。」"
+      }
     },
     {
       "segment_id": "mn32:6.7",
@@ -12138,7 +12684,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.7.t0",
+          "mn32:6.7.t1",
+          "mn32:6.7.t2",
+          "mn32:6.7.t3",
+          "mn32:6.7.t4",
+          "mn32:6.7.t5",
+          "mn32:6.7.t6",
+          "mn32:6.7.t7",
+          "mn32:6.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "「舍利弗學友，就像有眼力的人，登上高樓頂層，能遍觀一千個車輪輪緣一般。」"
+      }
     },
     {
       "segment_id": "mn32:6.8",
@@ -12445,7 +13006,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.8.t0",
+          "mn32:6.8.t1",
+          "mn32:6.8.t2",
+          "mn32:6.8.t3",
+          "mn32:6.8.t4",
+          "mn32:6.8.t5",
+          "mn32:6.8.t6",
+          "mn32:6.8.t7",
+          "mn32:6.8.t8",
+          "mn32:6.8.t9",
+          "mn32:6.8.t10",
+          "mn32:6.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，舍利弗學友，比丘以清淨、超越常人的天眼，遍觀一千個世界。"
+      }
     },
     {
       "segment_id": "mn32:6.9",
@@ -12620,7 +13199,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:6.9.t0",
+          "mn32:6.9.t1",
+          "mn32:6.9.t2",
+          "mn32:6.9.t3",
+          "mn32:6.9.t4",
+          "mn32:6.9.t5",
+          "mn32:6.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，具備如此德行的比丘，才能使這牛角娑羅林生輝光耀。"
+      }
     },
     {
       "segment_id": "mn32:7.1",
@@ -12869,7 +13461,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.1.t0",
+          "mn32:7.1.t1",
+          "mn32:7.1.t2",
+          "mn32:7.1.t3",
+          "mn32:7.1.t4",
+          "mn32:7.1.t5",
+          "mn32:7.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，尊者舍利弗對尊者大迦葉如此說道："
+      }
     },
     {
       "segment_id": "mn32:7.2",
@@ -13234,7 +13839,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.2.t0",
+          "mn32:7.2.t1",
+          "mn32:7.2.t2",
+          "mn32:7.2.t3",
+          "mn32:7.2.t4",
+          "mn32:7.2.t5",
+          "mn32:7.2.t6",
+          "mn32:7.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "迦葉學友，尊者阿那律已依自己的體悟作了回答。"
+      }
     },
     {
       "segment_id": "mn32:7.3",
@@ -13424,7 +14043,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.3.t0",
+          "mn32:7.3.t1",
+          "mn32:7.3.t2",
+          "mn32:7.3.t3",
+          "mn32:7.3.t4",
+          "mn32:7.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "現在，我們要請問尊者大迦葉："
+      }
     },
     {
       "segment_id": "mn32:7.4",
@@ -13979,7 +14610,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.4.t0",
+          "mn32:7.4.t1",
+          "mn32:7.4.t2",
+          "mn32:7.4.t3",
+          "mn32:7.4.t4",
+          "mn32:7.4.t5",
+          "mn32:7.4.t6",
+          "mn32:7.4.t7",
+          "mn32:7.4.t8",
+          "mn32:7.4.t9",
+          "mn32:7.4.t10",
+          "mn32:7.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "迦葉學友，這牛角娑羅林令人心怡，月明之夜，娑羅樹皆盛開，彷彿散發著天界的芳香。"
+      }
     },
     {
       "segment_id": "mn32:7.5",
@@ -14139,7 +14788,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.5.t0",
+          "mn32:7.5.t1",
+          "mn32:7.5.t2",
+          "mn32:7.5.t3",
+          "mn32:7.5.t4",
+          "mn32:7.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "迦葉學友，怎樣的比丘，才能使這牛角娑羅林光耀呢？"
+      }
     },
     {
       "segment_id": "mn32:7.6",
@@ -17010,7 +17671,114 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.6.t0",
+          "mn32:7.6.t1",
+          "mn32:7.6.t2",
+          "mn32:7.6.t3",
+          "mn32:7.6.t4",
+          "mn32:7.6.t5",
+          "mn32:7.6.t6",
+          "mn32:7.6.t7",
+          "mn32:7.6.t8",
+          "mn32:7.6.t9",
+          "mn32:7.6.t10",
+          "mn32:7.6.t11",
+          "mn32:7.6.t12",
+          "mn32:7.6.t13",
+          "mn32:7.6.t14",
+          "mn32:7.6.t15",
+          "mn32:7.6.t16",
+          "mn32:7.6.t17",
+          "mn32:7.6.t18",
+          "mn32:7.6.t19",
+          "mn32:7.6.t20",
+          "mn32:7.6.t21",
+          "mn32:7.6.t22",
+          "mn32:7.6.t23",
+          "mn32:7.6.t24",
+          "mn32:7.6.t25",
+          "mn32:7.6.t26",
+          "mn32:7.6.t27",
+          "mn32:7.6.t28",
+          "mn32:7.6.t29",
+          "mn32:7.6.t30",
+          "mn32:7.6.t31",
+          "mn32:7.6.t32",
+          "mn32:7.6.t33",
+          "mn32:7.6.t34",
+          "mn32:7.6.t35",
+          "mn32:7.6.t36",
+          "mn32:7.6.t37",
+          "mn32:7.6.t38",
+          "mn32:7.6.t39",
+          "mn32:7.6.t40",
+          "mn32:7.6.t41",
+          "mn32:7.6.t42",
+          "mn32:7.6.t43",
+          "mn32:7.6.t44",
+          "mn32:7.6.t45",
+          "mn32:7.6.t46",
+          "mn32:7.6.t47",
+          "mn32:7.6.t48",
+          "mn32:7.6.t49",
+          "mn32:7.6.t50",
+          "mn32:7.6.t51",
+          "mn32:7.6.t52",
+          "mn32:7.6.t53",
+          "mn32:7.6.t54",
+          "mn32:7.6.t55",
+          "mn32:7.6.t56",
+          "mn32:7.6.t57",
+          "mn32:7.6.t58",
+          "mn32:7.6.t59",
+          "mn32:7.6.t60",
+          "mn32:7.6.t61",
+          "mn32:7.6.t62",
+          "mn32:7.6.t63",
+          "mn32:7.6.t64",
+          "mn32:7.6.t65",
+          "mn32:7.6.t66",
+          "mn32:7.6.t67",
+          "mn32:7.6.t68",
+          "mn32:7.6.t69",
+          "mn32:7.6.t70",
+          "mn32:7.6.t71",
+          "mn32:7.6.t72",
+          "mn32:7.6.t73",
+          "mn32:7.6.t74",
+          "mn32:7.6.t75",
+          "mn32:7.6.t76",
+          "mn32:7.6.t77",
+          "mn32:7.6.t78",
+          "mn32:7.6.t79",
+          "mn32:7.6.t80",
+          "mn32:7.6.t81",
+          "mn32:7.6.t82",
+          "mn32:7.6.t83",
+          "mn32:7.6.t84",
+          "mn32:7.6.t85",
+          "mn32:7.6.t86",
+          "mn32:7.6.t87",
+          "mn32:7.6.t88",
+          "mn32:7.6.t89",
+          "mn32:7.6.t90",
+          "mn32:7.6.t91",
+          "mn32:7.6.t92",
+          "mn32:7.6.t93",
+          "mn32:7.6.t94",
+          "mn32:7.6.t95",
+          "mn32:7.6.t96",
+          "mn32:7.6.t97",
+          "mn32:7.6.t98",
+          "mn32:7.6.t99",
+          "mn32:7.6.t100"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，若此處有比丘，自己是林居者，也稱揚林居之德；自己是托缽乞食者，也稱揚乞食之德；自己是著糞掃衣者，也稱揚糞掃衣之德；自己是三衣者，也稱揚三衣之德；自己少欲，也稱揚少欲之德；自己知足，也稱揚知足之德；自己遠離，也稱揚遠離之德；自己不與人群混雜，也稱揚不雜處之德；自己精勤發奮，也稱揚發奮精進之德；自己戒具足，也稱揚戒具足之德；自己定具足，也稱揚定具足之德；自己慧具足，也稱揚慧具足之德；自己解脫具足，也稱揚解脫具足之德；自己解脫知見具足，也稱揚解脫知見具足之德。"
+      }
     },
     {
       "segment_id": "mn32:7.7",
@@ -17185,7 +17953,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:7.7.t0",
+          "mn32:7.7.t1",
+          "mn32:7.7.t2",
+          "mn32:7.7.t3",
+          "mn32:7.7.t4",
+          "mn32:7.7.t5",
+          "mn32:7.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，具備如此德行的比丘，才能使這牛角娑羅林生輝光耀。"
+      }
     },
     {
       "segment_id": "mn32:8.1",
@@ -17434,7 +18215,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.1.t0",
+          "mn32:8.1.t1",
+          "mn32:8.1.t2",
+          "mn32:8.1.t3",
+          "mn32:8.1.t4",
+          "mn32:8.1.t5",
+          "mn32:8.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，尊者舍利弗對尊者大目犍連如此說道："
+      }
     },
     {
       "segment_id": "mn32:8.2",
@@ -17790,7 +18584,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.2.t0",
+          "mn32:8.2.t1",
+          "mn32:8.2.t2",
+          "mn32:8.2.t3",
+          "mn32:8.2.t4",
+          "mn32:8.2.t5",
+          "mn32:8.2.t6",
+          "mn32:8.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，尊者大迦葉已依自己的體悟作了回答。"
+      }
     },
     {
       "segment_id": "mn32:8.3",
@@ -17980,7 +18788,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.3.t0",
+          "mn32:8.3.t1",
+          "mn32:8.3.t2",
+          "mn32:8.3.t3",
+          "mn32:8.3.t4",
+          "mn32:8.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "現在，我們要請問尊者大目犍連："
+      }
     },
     {
       "segment_id": "mn32:8.4",
@@ -18554,7 +19374,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.4.t0",
+          "mn32:8.4.t1",
+          "mn32:8.4.t2",
+          "mn32:8.4.t3",
+          "mn32:8.4.t4",
+          "mn32:8.4.t5",
+          "mn32:8.4.t6",
+          "mn32:8.4.t7",
+          "mn32:8.4.t8",
+          "mn32:8.4.t9",
+          "mn32:8.4.t10",
+          "mn32:8.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，這牛角娑羅林令人心怡，月明之夜，娑羅樹皆盛開，彷彿散發著天界的芳香。"
+      }
     },
     {
       "segment_id": "mn32:8.5",
@@ -18733,7 +19571,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.5.t0",
+          "mn32:8.5.t1",
+          "mn32:8.5.t2",
+          "mn32:8.5.t3",
+          "mn32:8.5.t4",
+          "mn32:8.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，怎樣的比丘，才能使這牛角娑羅林光耀呢？"
+      }
     },
     {
       "segment_id": "mn32:8.6",
@@ -19607,7 +20457,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.6.t0",
+          "mn32:8.6.t1",
+          "mn32:8.6.t2",
+          "mn32:8.6.t3",
+          "mn32:8.6.t4",
+          "mn32:8.6.t5",
+          "mn32:8.6.t6",
+          "mn32:8.6.t7",
+          "mn32:8.6.t8",
+          "mn32:8.6.t9",
+          "mn32:8.6.t10",
+          "mn32:8.6.t11",
+          "mn32:8.6.t12",
+          "mn32:8.6.t13",
+          "mn32:8.6.t14",
+          "mn32:8.6.t15",
+          "mn32:8.6.t16",
+          "mn32:8.6.t17",
+          "mn32:8.6.t18",
+          "mn32:8.6.t19",
+          "mn32:8.6.t20",
+          "mn32:8.6.t21",
+          "mn32:8.6.t22"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，若此處有兩位比丘談論深奧的法義，彼此互相問難，被問及的一方能作答而不致語塞，他們的談論如法地持續進行。"
+      }
     },
     {
       "segment_id": "mn32:8.7",
@@ -19782,7 +20661,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:8.7.t0",
+          "mn32:8.7.t1",
+          "mn32:8.7.t2",
+          "mn32:8.7.t3",
+          "mn32:8.7.t4",
+          "mn32:8.7.t5",
+          "mn32:8.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，具備如此德行的比丘，才能使這牛角娑羅林生輝光耀。"
+      }
     },
     {
       "segment_id": "mn32:9.1",
@@ -19976,7 +20868,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.1.t0",
+          "mn32:9.1.t1",
+          "mn32:9.1.t2",
+          "mn32:9.1.t3",
+          "mn32:9.1.t4",
+          "mn32:9.1.t5",
+          "mn32:9.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "於是，尊者大目犍連對尊者舍利弗如此說道："
+      }
     },
     {
       "segment_id": "mn32:9.2",
@@ -20292,7 +21197,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.2.t0",
+          "mn32:9.2.t1",
+          "mn32:9.2.t2",
+          "mn32:9.2.t3",
+          "mn32:9.2.t4",
+          "mn32:9.2.t5",
+          "mn32:9.2.t6",
+          "mn32:9.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，我們每個人都已依自己的體悟作了回答。"
+      }
     },
     {
       "segment_id": "mn32:9.3",
@@ -20482,7 +21401,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.3.t0",
+          "mn32:9.3.t1",
+          "mn32:9.3.t2",
+          "mn32:9.3.t3",
+          "mn32:9.3.t4",
+          "mn32:9.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "現在，我們要請問尊者舍利弗："
+      }
     },
     {
       "segment_id": "mn32:9.4",
@@ -21037,7 +21968,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.4.t0",
+          "mn32:9.4.t1",
+          "mn32:9.4.t2",
+          "mn32:9.4.t3",
+          "mn32:9.4.t4",
+          "mn32:9.4.t5",
+          "mn32:9.4.t6",
+          "mn32:9.4.t7",
+          "mn32:9.4.t8",
+          "mn32:9.4.t9",
+          "mn32:9.4.t10",
+          "mn32:9.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，這牛角娑羅林令人心怡，月明之夜，娑羅樹皆盛開，彷彿散發著天界的芳香。"
+      }
     },
     {
       "segment_id": "mn32:9.5",
@@ -21197,7 +22146,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.5.t0",
+          "mn32:9.5.t1",
+          "mn32:9.5.t2",
+          "mn32:9.5.t3",
+          "mn32:9.5.t4",
+          "mn32:9.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，怎樣的比丘，才能使這牛角娑羅林光耀呢？"
+      }
     },
     {
       "segment_id": "mn32:9.6",
@@ -21657,7 +22618,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.6.t0",
+          "mn32:9.6.t1",
+          "mn32:9.6.t2",
+          "mn32:9.6.t3",
+          "mn32:9.6.t4",
+          "mn32:9.6.t5",
+          "mn32:9.6.t6",
+          "mn32:9.6.t7",
+          "mn32:9.6.t8",
+          "mn32:9.6.t9",
+          "mn32:9.6.t10",
+          "mn32:9.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，若此處有比丘能駕馭其心，而不受心所駕馭。"
+      }
     },
     {
       "segment_id": "mn32:9.7",
@@ -22007,7 +22986,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.7.t0",
+          "mn32:9.7.t1",
+          "mn32:9.7.t2",
+          "mn32:9.7.t3",
+          "mn32:9.7.t4",
+          "mn32:9.7.t5",
+          "mn32:9.7.t6",
+          "mn32:9.7.t7",
+          "mn32:9.7.t8",
+          "mn32:9.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於上午安住哪種禪定，便能於上午安住於那種禪定；"
+      }
     },
     {
       "segment_id": "mn32:9.8",
@@ -22314,7 +23309,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.8.t0",
+          "mn32:9.8.t1",
+          "mn32:9.8.t2",
+          "mn32:9.8.t3",
+          "mn32:9.8.t4",
+          "mn32:9.8.t5",
+          "mn32:9.8.t6",
+          "mn32:9.8.t7",
+          "mn32:9.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於中午安住哪種禪定，便能於中午安住於那種禪定；"
+      }
     },
     {
       "segment_id": "mn32:9.9",
@@ -22621,7 +23631,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.9.t0",
+          "mn32:9.9.t1",
+          "mn32:9.9.t2",
+          "mn32:9.9.t3",
+          "mn32:9.9.t4",
+          "mn32:9.9.t5",
+          "mn32:9.9.t6",
+          "mn32:9.9.t7",
+          "mn32:9.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於傍晚安住哪種禪定，便能於傍晚安住於那種禪定。"
+      }
     },
     {
       "segment_id": "mn32:9.10",
@@ -23037,7 +24062,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.10.t0",
+          "mn32:9.10.t1",
+          "mn32:9.10.t2",
+          "mn32:9.10.t3",
+          "mn32:9.10.t4",
+          "mn32:9.10.t5",
+          "mn32:9.10.t6",
+          "mn32:9.10.t7",
+          "mn32:9.10.t8",
+          "mn32:9.10.t9",
+          "mn32:9.10.t10",
+          "mn32:9.10.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，譬如國王或大臣有一只裝滿各色衣料的衣箱，"
+      }
     },
     {
       "segment_id": "mn32:9.11",
@@ -23388,7 +24431,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.11.t0",
+          "mn32:9.11.t1",
+          "mn32:9.11.t2",
+          "mn32:9.11.t3",
+          "mn32:9.11.t4",
+          "mn32:9.11.t5",
+          "mn32:9.11.t6",
+          "mn32:9.11.t7",
+          "mn32:9.11.t8",
+          "mn32:9.11.t9",
+          "mn32:9.11.t10"
+        ],
+        "review_status": "approved",
+        "content": "他上午想穿哪一套衣服，便能於上午穿上那一套衣服；"
+      }
     },
     {
       "segment_id": "mn32:9.12",
@@ -23696,7 +24756,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.12.t0",
+          "mn32:9.12.t1",
+          "mn32:9.12.t2",
+          "mn32:9.12.t3",
+          "mn32:9.12.t4",
+          "mn32:9.12.t5",
+          "mn32:9.12.t6",
+          "mn32:9.12.t7",
+          "mn32:9.12.t8",
+          "mn32:9.12.t9"
+        ],
+        "review_status": "approved",
+        "content": "中午想穿哪一套衣服，便能於中午穿上那一套衣服；"
+      }
     },
     {
       "segment_id": "mn32:9.13",
@@ -24004,7 +25080,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.13.t0",
+          "mn32:9.13.t1",
+          "mn32:9.13.t2",
+          "mn32:9.13.t3",
+          "mn32:9.13.t4",
+          "mn32:9.13.t5",
+          "mn32:9.13.t6",
+          "mn32:9.13.t7",
+          "mn32:9.13.t8",
+          "mn32:9.13.t9"
+        ],
+        "review_status": "approved",
+        "content": "傍晚想穿哪一套衣服，便能於傍晚穿上那一套衣服。"
+      }
     },
     {
       "segment_id": "mn32:9.14",
@@ -24504,7 +25596,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.14.t0",
+          "mn32:9.14.t1",
+          "mn32:9.14.t2",
+          "mn32:9.14.t3",
+          "mn32:9.14.t4",
+          "mn32:9.14.t5",
+          "mn32:9.14.t6",
+          "mn32:9.14.t7",
+          "mn32:9.14.t8",
+          "mn32:9.14.t9",
+          "mn32:9.14.t10",
+          "mn32:9.14.t11",
+          "mn32:9.14.t12",
+          "mn32:9.14.t13"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，同樣地，比丘能駕馭其心，而不受心所駕馭。"
+      }
     },
     {
       "segment_id": "mn32:9.15",
@@ -24854,7 +25966,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.15.t0",
+          "mn32:9.15.t1",
+          "mn32:9.15.t2",
+          "mn32:9.15.t3",
+          "mn32:9.15.t4",
+          "mn32:9.15.t5",
+          "mn32:9.15.t6",
+          "mn32:9.15.t7",
+          "mn32:9.15.t8",
+          "mn32:9.15.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於上午安住哪種禪定，便能於上午安住於那種禪定；"
+      }
     },
     {
       "segment_id": "mn32:9.16",
@@ -25161,7 +26289,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.16.t0",
+          "mn32:9.16.t1",
+          "mn32:9.16.t2",
+          "mn32:9.16.t3",
+          "mn32:9.16.t4",
+          "mn32:9.16.t5",
+          "mn32:9.16.t6",
+          "mn32:9.16.t7",
+          "mn32:9.16.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於中午安住哪種禪定，便能於中午安住於那種禪定；"
+      }
     },
     {
       "segment_id": "mn32:9.17",
@@ -25468,7 +26611,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.17.t0",
+          "mn32:9.17.t1",
+          "mn32:9.17.t2",
+          "mn32:9.17.t3",
+          "mn32:9.17.t4",
+          "mn32:9.17.t5",
+          "mn32:9.17.t6",
+          "mn32:9.17.t7",
+          "mn32:9.17.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望於傍晚安住哪種禪定，便能於傍晚安住於那種禪定。"
+      }
     },
     {
       "segment_id": "mn32:9.18",
@@ -25662,7 +26820,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:9.18.t0",
+          "mn32:9.18.t1",
+          "mn32:9.18.t2",
+          "mn32:9.18.t3",
+          "mn32:9.18.t4",
+          "mn32:9.18.t5",
+          "mn32:9.18.t7"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，具備如此德行的比丘，才能使這牛角娑羅林生輝光耀。"
+      }
     },
     {
       "segment_id": "mn32:10.1",
@@ -25929,7 +27100,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.1.t0",
+          "mn32:10.1.t1",
+          "mn32:10.1.t2",
+          "mn32:10.1.t3",
+          "mn32:10.1.t4",
+          "mn32:10.1.t5",
+          "mn32:10.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "於是，尊者舍利弗對那些尊者們如此說道："
+      }
     },
     {
       "segment_id": "mn32:10.2",
@@ -26230,7 +27414,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.2.t0",
+          "mn32:10.2.t1",
+          "mn32:10.2.t2",
+          "mn32:10.2.t3",
+          "mn32:10.2.t4",
+          "mn32:10.2.t5",
+          "mn32:10.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友們，我們每個人都已依自己的體悟作了回答。"
+      }
     },
     {
       "segment_id": "mn32:10.3",
@@ -26495,7 +27692,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.3.t0",
+          "mn32:10.3.t1",
+          "mn32:10.3.t2",
+          "mn32:10.3.t3",
+          "mn32:10.3.t4",
+          "mn32:10.3.t5",
+          "mn32:10.3.t6",
+          "mn32:10.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "來吧，學友們，我們去見世尊，見了之後把這件事稟告世尊。"
+      }
     },
     {
       "segment_id": "mn32:10.4",
@@ -26806,7 +28017,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.4.t0",
+          "mn32:10.4.t1",
+          "mn32:10.4.t2",
+          "mn32:10.4.t3",
+          "mn32:10.4.t4",
+          "mn32:10.4.t5",
+          "mn32:10.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "世尊怎麼為我們解答，我們就怎麼受持。"
+      }
     },
     {
       "segment_id": "mn32:10.5",
@@ -27113,7 +28337,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.5.t0",
+          "mn32:10.5.t1",
+          "mn32:10.5.t2",
+          "mn32:10.5.t3",
+          "mn32:10.5.t4",
+          "mn32:10.5.t5",
+          "mn32:10.5.t6",
+          "mn32:10.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「是的，學友。」那些尊者們回答尊者舍利弗。"
+      }
     },
     {
       "segment_id": "mn32:10.6",
@@ -27690,7 +28928,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:10.6.t0",
+          "mn32:10.6.t1",
+          "mn32:10.6.t2",
+          "mn32:10.6.t3",
+          "mn32:10.6.t4",
+          "mn32:10.6.t5",
+          "mn32:10.6.t6",
+          "mn32:10.6.t7",
+          "mn32:10.6.t8",
+          "mn32:10.6.t9",
+          "mn32:10.6.t10",
+          "mn32:10.6.t11",
+          "mn32:10.6.t12",
+          "mn32:10.6.t13",
+          "mn32:10.6.t14",
+          "mn32:10.6.t15",
+          "mn32:10.6.t16",
+          "mn32:10.6.t17",
+          "mn32:10.6.t18"
+        ],
+        "review_status": "approved",
+        "content": "於是，那些尊者們前往世尊之處，到了之後禮敬世尊，坐在一旁。尊者舍利弗坐在一旁後，對世尊如此說："
+      }
     },
     {
       "segment_id": "mn32:11.1",
@@ -28031,7 +29294,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.1.t0",
+          "mn32:11.1.t1",
+          "mn32:11.1.t2",
+          "mn32:11.1.t3",
+          "mn32:11.1.t4",
+          "mn32:11.1.t5",
+          "mn32:11.1.t6",
+          "mn32:11.1.t7",
+          "mn32:11.1.t8",
+          "mn32:11.1.t9",
+          "mn32:11.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "大德，在此，尊者離婆多與尊者阿難為了聞法而來到我這裡。"
+      }
     },
     {
       "segment_id": "mn32:11.2",
@@ -28389,7 +29669,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.2.t0",
+          "mn32:11.2.t1",
+          "mn32:11.2.t2",
+          "mn32:11.2.t3",
+          "mn32:11.2.t4",
+          "mn32:11.2.t5",
+          "mn32:11.2.t6",
+          "mn32:11.2.t7",
+          "mn32:11.2.t8",
+          "mn32:11.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "大德，我遠遠地就看見尊者離婆多與尊者阿難前來。"
+      }
     },
     {
       "segment_id": "mn32:11.3",
@@ -28483,7 +29779,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.3.t0",
+          "mn32:11.3.t1",
+          "mn32:11.3.t2",
+          "mn32:11.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "見了之後，我對尊者阿難如此說："
+      }
     },
     {
       "segment_id": "mn32:11.4",
@@ -28604,7 +29910,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.4.t0",
+          "mn32:11.4.t1",
+          "mn32:11.4.t2",
+          "mn32:11.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "尊者阿難，請過來。"
+      }
     },
     {
       "segment_id": "mn32:11.5",
@@ -29037,7 +30353,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.5.t0",
+          "mn32:11.5.t1",
+          "mn32:11.5.t2",
+          "mn32:11.5.t3",
+          "mn32:11.5.t4",
+          "mn32:11.5.t5",
+          "mn32:11.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "歡迎尊者阿難，世尊的侍者，常隨侍在世尊身邊者。"
+      }
     },
     {
       "segment_id": "mn32:11.6",
@@ -29602,7 +30931,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.6.t0",
+          "mn32:11.6.t1",
+          "mn32:11.6.t2",
+          "mn32:11.6.t3",
+          "mn32:11.6.t4",
+          "mn32:11.6.t5",
+          "mn32:11.6.t6",
+          "mn32:11.6.t7",
+          "mn32:11.6.t8",
+          "mn32:11.6.t9",
+          "mn32:11.6.t10",
+          "mn32:11.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "學友阿難，牛角娑羅林令人愉悅，月夜明朗，娑羅樹盛開如花，似乎飄散著天界般的香氣。"
+      }
     },
     {
       "segment_id": "mn32:11.7",
@@ -29772,7 +31119,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.7.t0",
+          "mn32:11.7.t1",
+          "mn32:11.7.t2",
+          "mn32:11.7.t3",
+          "mn32:11.7.t4",
+          "mn32:11.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友阿難，怎樣的比丘能使牛角娑羅林增輝呢？"
+      }
     },
     {
       "segment_id": "mn32:11.8",
@@ -30085,7 +31444,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.8.t0",
+          "mn32:11.8.t1",
+          "mn32:11.8.t2",
+          "mn32:11.8.t3",
+          "mn32:11.8.t4",
+          "mn32:11.8.t5",
+          "mn32:11.8.t6"
+        ],
+        "review_status": "approved",
+        "content": "大德，這樣說了之後，尊者阿難對我如此說："
+      }
     },
     {
       "segment_id": "mn32:11.9",
@@ -30276,7 +31648,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.9.t0",
+          "mn32:11.9.t1",
+          "mn32:11.9.t2",
+          "mn32:11.9.t3",
+          "mn32:11.9.t4",
+          "mn32:11.9.t5",
+          "mn32:11.9.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，在此，比丘是多聞者、受持所聞者……"
+      }
     },
     {
       "segment_id": "mn32:11.10",
@@ -30297,7 +31682,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.10.t0"
+        ],
+        "review_status": "approved",
+        "content": "為了根除隨眠。"
+      }
     },
     {
       "segment_id": "mn32:11.11",
@@ -30472,7 +31864,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.11.t0",
+          "mn32:11.11.t1",
+          "mn32:11.11.t2",
+          "mn32:11.11.t3",
+          "mn32:11.11.t4",
+          "mn32:11.11.t5",
+          "mn32:11.11.t7"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，這樣的比丘能使牛角娑羅林增輝。"
+      }
     },
     {
       "segment_id": "mn32:11.12",
@@ -30633,7 +32038,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.12.t0",
+          "mn32:11.12.t1",
+          "mn32:11.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "善哉，善哉，舍利弗！"
+      }
     },
     {
       "segment_id": "mn32:11.13",
@@ -30848,7 +32262,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.13.t0",
+          "mn32:11.13.t1",
+          "mn32:11.13.t2",
+          "mn32:11.13.t3",
+          "mn32:11.13.t4",
+          "mn32:11.13.t5"
+        ],
+        "review_status": "approved",
+        "content": "正如阿難能正確地解答那樣去解答。"
+      }
     },
     {
       "segment_id": "mn32:11.14",
@@ -32300,7 +33726,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.14.t0",
+          "mn32:11.14.t1",
+          "mn32:11.14.t2",
+          "mn32:11.14.t3",
+          "mn32:11.14.t4",
+          "mn32:11.14.t5",
+          "mn32:11.14.t6",
+          "mn32:11.14.t7",
+          "mn32:11.14.t8",
+          "mn32:11.14.t9",
+          "mn32:11.14.t10",
+          "mn32:11.14.t11",
+          "mn32:11.14.t12",
+          "mn32:11.14.t13",
+          "mn32:11.14.t14",
+          "mn32:11.14.t15",
+          "mn32:11.14.t16",
+          "mn32:11.14.t17",
+          "mn32:11.14.t18",
+          "mn32:11.14.t19",
+          "mn32:11.14.t20",
+          "mn32:11.14.t21",
+          "mn32:11.14.t22",
+          "mn32:11.14.t23",
+          "mn32:11.14.t24",
+          "mn32:11.14.t25",
+          "mn32:11.14.t26",
+          "mn32:11.14.t27"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗，因為阿難是多聞者、受持所聞者、積集所聞者。那些初善、中善、後善，義具足、文具足，宣說圓滿清淨梵行的法──像這樣的法，他多聞、憶持、以言語熟習、以意觀察、以見善加通達。"
+      }
     },
     {
       "segment_id": "mn32:11.15",
@@ -32653,7 +34113,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:11.15.t0",
+          "mn32:11.15.t1",
+          "mn32:11.15.t2",
+          "mn32:11.15.t3",
+          "mn32:11.15.t4",
+          "mn32:11.15.t5",
+          "mn32:11.15.t6",
+          "mn32:11.15.t7",
+          "mn32:11.15.t9"
+        ],
+        "review_status": "approved",
+        "content": "他為四眾說法，言辭圓滿、文句連貫，為了根除隨眠。"
+      }
     },
     {
       "segment_id": "mn32:12.1",
@@ -32939,7 +34414,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.1.t0",
+          "mn32:12.1.t1",
+          "mn32:12.1.t2",
+          "mn32:12.1.t3",
+          "mn32:12.1.t4",
+          "mn32:12.1.t5",
+          "mn32:12.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "大德，這樣說了之後，我對尊者離婆多如此說："
+      }
     },
     {
       "segment_id": "mn32:12.2",
@@ -33276,7 +34764,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.2.t0",
+          "mn32:12.2.t1",
+          "mn32:12.2.t2",
+          "mn32:12.2.t3",
+          "mn32:12.2.t4",
+          "mn32:12.2.t5",
+          "mn32:12.2.t6",
+          "mn32:12.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "學友離婆多，尊者阿難已依自己的辯才作了解答。"
+      }
     },
     {
       "segment_id": "mn32:12.3",
@@ -33466,7 +34968,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.3.t0",
+          "mn32:12.3.t1",
+          "mn32:12.3.t2",
+          "mn32:12.3.t3",
+          "mn32:12.3.t4",
+          "mn32:12.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "現在，我們就此事請問尊者離婆多："
+      }
     },
     {
       "segment_id": "mn32:12.4",
@@ -34021,7 +35535,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.4.t0",
+          "mn32:12.4.t1",
+          "mn32:12.4.t2",
+          "mn32:12.4.t3",
+          "mn32:12.4.t4",
+          "mn32:12.4.t5",
+          "mn32:12.4.t6",
+          "mn32:12.4.t7",
+          "mn32:12.4.t8",
+          "mn32:12.4.t9",
+          "mn32:12.4.t10",
+          "mn32:12.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "學友離婆多，牛角娑羅林令人愉悅，月夜明朗，娑羅樹盛開如花，似乎飄散著天界般的香氣。"
+      }
     },
     {
       "segment_id": "mn32:12.5",
@@ -34181,7 +35713,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.5.t0",
+          "mn32:12.5.t1",
+          "mn32:12.5.t2",
+          "mn32:12.5.t3",
+          "mn32:12.5.t4",
+          "mn32:12.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友離婆多，怎樣的比丘能使牛角娑羅林增輝呢？"
+      }
     },
     {
       "segment_id": "mn32:12.6",
@@ -34494,7 +36038,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.6.t0",
+          "mn32:12.6.t1",
+          "mn32:12.6.t2",
+          "mn32:12.6.t3",
+          "mn32:12.6.t4",
+          "mn32:12.6.t5",
+          "mn32:12.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "大德，這樣說了之後，尊者離婆多對我如此說："
+      }
     },
     {
       "segment_id": "mn32:12.7",
@@ -34849,7 +36406,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.7.t0",
+          "mn32:12.7.t1",
+          "mn32:12.7.t2",
+          "mn32:12.7.t3",
+          "mn32:12.7.t4",
+          "mn32:12.7.t5",
+          "mn32:12.7.t6",
+          "mn32:12.7.t7",
+          "mn32:12.7.t8",
+          "mn32:12.7.t9",
+          "mn32:12.7.t10",
+          "mn32:12.7.t11",
+          "mn32:12.7.t12"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，在此，比丘樂於獨坐、喜好獨坐，致力於內心止息，不捨離禪修，具足觀，增益空閒處的修習。"
+      }
     },
     {
       "segment_id": "mn32:12.8",
@@ -35024,7 +36600,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.8.t0",
+          "mn32:12.8.t1",
+          "mn32:12.8.t2",
+          "mn32:12.8.t3",
+          "mn32:12.8.t4",
+          "mn32:12.8.t5",
+          "mn32:12.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，這樣的比丘能使牛角娑羅林增輝。"
+      }
     },
     {
       "segment_id": "mn32:12.9",
@@ -35185,7 +36774,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.9.t0",
+          "mn32:12.9.t1",
+          "mn32:12.9.t2"
+        ],
+        "review_status": "approved",
+        "content": "善哉，善哉，舍利弗！"
+      }
     },
     {
       "segment_id": "mn32:12.10",
@@ -35400,7 +36998,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.10.t0",
+          "mn32:12.10.t1",
+          "mn32:12.10.t2",
+          "mn32:12.10.t3",
+          "mn32:12.10.t4",
+          "mn32:12.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "正如離婆多能正確地解答那樣去解答。"
+      }
     },
     {
       "segment_id": "mn32:12.11",
@@ -35750,7 +37360,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:12.11.t0",
+          "mn32:12.11.t1",
+          "mn32:12.11.t2",
+          "mn32:12.11.t3",
+          "mn32:12.11.t4",
+          "mn32:12.11.t5",
+          "mn32:12.11.t6",
+          "mn32:12.11.t7",
+          "mn32:12.11.t8",
+          "mn32:12.11.t9",
+          "mn32:12.11.t10",
+          "mn32:12.11.t12"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗，因為離婆多樂於獨坐、喜好獨坐，致力於內心止息，不捨離禪修，具足觀，增益空閒處的修習。"
+      }
     },
     {
       "segment_id": "mn32:13.1",
@@ -36091,7 +37719,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.1.t0",
+          "mn32:13.1.t1",
+          "mn32:13.1.t2",
+          "mn32:13.1.t3",
+          "mn32:13.1.t4",
+          "mn32:13.1.t5",
+          "mn32:13.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "大德，這樣說了之後，我對尊者阿那律如此說："
+      }
     },
     {
       "segment_id": "mn32:13.2",
@@ -36386,7 +38027,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.2.t0",
+          "mn32:13.2.t1",
+          "mn32:13.2.t2",
+          "mn32:13.2.t3",
+          "mn32:13.2.t4",
+          "mn32:13.2.t5",
+          "mn32:13.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友阿那律，尊者離婆多已作了解答……"
+      }
     },
     {
       "segment_id": "mn32:13.3",
@@ -36574,7 +38228,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.3.t0",
+          "mn32:13.3.t1",
+          "mn32:13.3.t2",
+          "mn32:13.3.t3",
+          "mn32:13.3.t4",
+          "mn32:13.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "學友阿那律，怎樣的比丘能使牛角娑羅林增輝呢？"
+      }
     },
     {
       "segment_id": "mn32:13.4",
@@ -36897,7 +38563,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.4.t0",
+          "mn32:13.4.t1",
+          "mn32:13.4.t2",
+          "mn32:13.4.t3",
+          "mn32:13.4.t4",
+          "mn32:13.4.t5",
+          "mn32:13.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "大德，這樣說了之後，尊者阿那律對我如此說："
+      }
     },
     {
       "segment_id": "mn32:13.5",
@@ -37164,7 +38843,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.5.t0",
+          "mn32:13.5.t1",
+          "mn32:13.5.t2",
+          "mn32:13.5.t3",
+          "mn32:13.5.t4",
+          "mn32:13.5.t5",
+          "mn32:13.5.t6",
+          "mn32:13.5.t7",
+          "mn32:13.5.t8",
+          "mn32:13.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，在此，比丘以清淨、超越常人的天眼，觀察一千個世界。"
+      }
     },
     {
       "segment_id": "mn32:13.6",
@@ -37377,7 +39072,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.6.t0",
+          "mn32:13.6.t1",
+          "mn32:13.6.t2",
+          "mn32:13.6.t3",
+          "mn32:13.6.t4",
+          "mn32:13.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "學友舍利弗，猶如有眼之人……"
+      }
     },
     {
       "segment_id": "mn32:13.7",
@@ -37552,7 +39259,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.7.t0",
+          "mn32:13.7.t1",
+          "mn32:13.7.t2",
+          "mn32:13.7.t3",
+          "mn32:13.7.t4",
+          "mn32:13.7.t5",
+          "mn32:13.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "像這樣的比丘，舍利弗學友，才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:13.8",
@@ -37932,7 +39652,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.8.t0",
+          "mn32:13.8.t1",
+          "mn32:13.8.t2",
+          "mn32:13.8.t3",
+          "mn32:13.8.t4",
+          "mn32:13.8.t5",
+          "mn32:13.8.t6",
+          "mn32:13.8.t7",
+          "mn32:13.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "善哉，善哉，舍利弗！正如阿那律會如此如實作答一般。"
+      }
     },
     {
       "segment_id": "mn32:13.9",
@@ -38229,7 +39964,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:13.9.t0",
+          "mn32:13.9.t1",
+          "mn32:13.9.t2",
+          "mn32:13.9.t3",
+          "mn32:13.9.t4",
+          "mn32:13.9.t5",
+          "mn32:13.9.t6",
+          "mn32:13.9.t7",
+          "mn32:13.9.t8",
+          "mn32:13.9.t10"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗，阿那律確實以清淨、超越常人的天眼，遍觀千世界。"
+      }
     },
     {
       "segment_id": "mn32:14.1",
@@ -38515,7 +40266,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.1.t0",
+          "mn32:14.1.t1",
+          "mn32:14.1.t2",
+          "mn32:14.1.t3",
+          "mn32:14.1.t4",
+          "mn32:14.1.t5",
+          "mn32:14.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "世尊，如此說已，我便對尊者大迦葉說道："
+      }
     },
     {
       "segment_id": "mn32:14.2",
@@ -38880,7 +40644,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.2.t0",
+          "mn32:14.2.t1",
+          "mn32:14.2.t2",
+          "mn32:14.2.t3",
+          "mn32:14.2.t4",
+          "mn32:14.2.t5",
+          "mn32:14.2.t6",
+          "mn32:14.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "迦葉學友，尊者阿那律已隨其所長作答了。"
+      }
     },
     {
       "segment_id": "mn32:14.3",
@@ -39140,7 +40918,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.3.t0",
+          "mn32:14.3.t1",
+          "mn32:14.3.t2",
+          "mn32:14.3.t3",
+          "mn32:14.3.t4",
+          "mn32:14.3.t5",
+          "mn32:14.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "在此，我們現在請教尊者大迦葉……"
+      }
     },
     {
       "segment_id": "mn32:14.4",
@@ -39315,7 +41106,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.4.t0",
+          "mn32:14.4.t1",
+          "mn32:14.4.t2",
+          "mn32:14.4.t3",
+          "mn32:14.4.t4",
+          "mn32:14.4.t5",
+          "mn32:14.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "迦葉學友，怎樣的比丘才能使牛角娑羅林生輝呢？"
+      }
     },
     {
       "segment_id": "mn32:14.5",
@@ -39628,7 +41432,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.5.t0",
+          "mn32:14.5.t1",
+          "mn32:14.5.t2",
+          "mn32:14.5.t3",
+          "mn32:14.5.t4",
+          "mn32:14.5.t5",
+          "mn32:14.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "世尊，如此說已，尊者大迦葉對我說道："
+      }
     },
     {
       "segment_id": "mn32:14.6",
@@ -41681,7 +43498,88 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.6.t0",
+          "mn32:14.6.t1",
+          "mn32:14.6.t2",
+          "mn32:14.6.t3",
+          "mn32:14.6.t4",
+          "mn32:14.6.t5",
+          "mn32:14.6.t6",
+          "mn32:14.6.t7",
+          "mn32:14.6.t8",
+          "mn32:14.6.t9",
+          "mn32:14.6.t10",
+          "mn32:14.6.t11",
+          "mn32:14.6.t12",
+          "mn32:14.6.t13",
+          "mn32:14.6.t14",
+          "mn32:14.6.t15",
+          "mn32:14.6.t16",
+          "mn32:14.6.t17",
+          "mn32:14.6.t18",
+          "mn32:14.6.t19",
+          "mn32:14.6.t20",
+          "mn32:14.6.t21",
+          "mn32:14.6.t22",
+          "mn32:14.6.t23",
+          "mn32:14.6.t24",
+          "mn32:14.6.t25",
+          "mn32:14.6.t26",
+          "mn32:14.6.t27",
+          "mn32:14.6.t28",
+          "mn32:14.6.t29",
+          "mn32:14.6.t30",
+          "mn32:14.6.t31",
+          "mn32:14.6.t32",
+          "mn32:14.6.t33",
+          "mn32:14.6.t34",
+          "mn32:14.6.t35",
+          "mn32:14.6.t36",
+          "mn32:14.6.t37",
+          "mn32:14.6.t38",
+          "mn32:14.6.t39",
+          "mn32:14.6.t40",
+          "mn32:14.6.t41",
+          "mn32:14.6.t42",
+          "mn32:14.6.t43",
+          "mn32:14.6.t44",
+          "mn32:14.6.t45",
+          "mn32:14.6.t46",
+          "mn32:14.6.t47",
+          "mn32:14.6.t48",
+          "mn32:14.6.t49",
+          "mn32:14.6.t50",
+          "mn32:14.6.t51",
+          "mn32:14.6.t52",
+          "mn32:14.6.t53",
+          "mn32:14.6.t54",
+          "mn32:14.6.t55",
+          "mn32:14.6.t56",
+          "mn32:14.6.t57",
+          "mn32:14.6.t58",
+          "mn32:14.6.t59",
+          "mn32:14.6.t60",
+          "mn32:14.6.t61",
+          "mn32:14.6.t62",
+          "mn32:14.6.t63",
+          "mn32:14.6.t64",
+          "mn32:14.6.t65",
+          "mn32:14.6.t66",
+          "mn32:14.6.t67",
+          "mn32:14.6.t68",
+          "mn32:14.6.t69",
+          "mn32:14.6.t70",
+          "mn32:14.6.t71",
+          "mn32:14.6.t72",
+          "mn32:14.6.t73",
+          "mn32:14.6.t74"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，在此，有比丘自己是林住者，也稱揚林住之德；自己是乞食者，也稱揚乞食之德；自己是糞掃衣者，也稱揚糞掃衣之德；自己僅持三衣，也稱揚僅持三衣之德；自己少欲，也稱揚少欲之德；自己知足，也稱揚知足之德；自己遠離獨居，也稱揚遠離獨居之德；自己不與人雜處，也稱揚不雜處之德；自己精進，也稱揚精進之德；自己戒具足，也稱揚戒具足之德；自己定具足，也稱揚定具足之德；自己慧具足，也稱揚慧具足之德；自己解脫具足，也稱揚解脫具足之德；自己解脫知見具足，也稱揚解脫知見具足之德。"
+      }
     },
     {
       "segment_id": "mn32:14.7",
@@ -41856,7 +43754,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.7.t0",
+          "mn32:14.7.t1",
+          "mn32:14.7.t2",
+          "mn32:14.7.t3",
+          "mn32:14.7.t4",
+          "mn32:14.7.t5",
+          "mn32:14.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "像這樣的比丘，舍利弗學友，才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:14.8",
@@ -42017,7 +43928,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.8.t0",
+          "mn32:14.8.t1",
+          "mn32:14.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "善哉！善哉！舍利弗！"
+      }
     },
     {
       "segment_id": "mn32:14.9",
@@ -42232,7 +44152,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.9.t0",
+          "mn32:14.9.t1",
+          "mn32:14.9.t2",
+          "mn32:14.9.t3",
+          "mn32:14.9.t4",
+          "mn32:14.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "正如大迦葉會如此正確作答一般。"
+      }
     },
     {
       "segment_id": "mn32:14.10",
@@ -44913,7 +46845,101 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:14.10.t0",
+          "mn32:14.10.t1",
+          "mn32:14.10.t2",
+          "mn32:14.10.t3",
+          "mn32:14.10.t4",
+          "mn32:14.10.t5",
+          "mn32:14.10.t6",
+          "mn32:14.10.t7",
+          "mn32:14.10.t8",
+          "mn32:14.10.t9",
+          "mn32:14.10.t10",
+          "mn32:14.10.t11",
+          "mn32:14.10.t12",
+          "mn32:14.10.t13",
+          "mn32:14.10.t14",
+          "mn32:14.10.t15",
+          "mn32:14.10.t16",
+          "mn32:14.10.t17",
+          "mn32:14.10.t18",
+          "mn32:14.10.t19",
+          "mn32:14.10.t20",
+          "mn32:14.10.t21",
+          "mn32:14.10.t22",
+          "mn32:14.10.t23",
+          "mn32:14.10.t24",
+          "mn32:14.10.t25",
+          "mn32:14.10.t26",
+          "mn32:14.10.t27",
+          "mn32:14.10.t28",
+          "mn32:14.10.t29",
+          "mn32:14.10.t30",
+          "mn32:14.10.t31",
+          "mn32:14.10.t32",
+          "mn32:14.10.t33",
+          "mn32:14.10.t34",
+          "mn32:14.10.t35",
+          "mn32:14.10.t36",
+          "mn32:14.10.t37",
+          "mn32:14.10.t38",
+          "mn32:14.10.t39",
+          "mn32:14.10.t40",
+          "mn32:14.10.t41",
+          "mn32:14.10.t42",
+          "mn32:14.10.t43",
+          "mn32:14.10.t44",
+          "mn32:14.10.t45",
+          "mn32:14.10.t46",
+          "mn32:14.10.t47",
+          "mn32:14.10.t48",
+          "mn32:14.10.t49",
+          "mn32:14.10.t50",
+          "mn32:14.10.t51",
+          "mn32:14.10.t52",
+          "mn32:14.10.t53",
+          "mn32:14.10.t54",
+          "mn32:14.10.t55",
+          "mn32:14.10.t56",
+          "mn32:14.10.t57",
+          "mn32:14.10.t58",
+          "mn32:14.10.t59",
+          "mn32:14.10.t60",
+          "mn32:14.10.t61",
+          "mn32:14.10.t62",
+          "mn32:14.10.t63",
+          "mn32:14.10.t64",
+          "mn32:14.10.t65",
+          "mn32:14.10.t66",
+          "mn32:14.10.t67",
+          "mn32:14.10.t68",
+          "mn32:14.10.t69",
+          "mn32:14.10.t70",
+          "mn32:14.10.t71",
+          "mn32:14.10.t72",
+          "mn32:14.10.t73",
+          "mn32:14.10.t74",
+          "mn32:14.10.t75",
+          "mn32:14.10.t76",
+          "mn32:14.10.t77",
+          "mn32:14.10.t78",
+          "mn32:14.10.t79",
+          "mn32:14.10.t80",
+          "mn32:14.10.t81",
+          "mn32:14.10.t82",
+          "mn32:14.10.t83",
+          "mn32:14.10.t84",
+          "mn32:14.10.t85",
+          "mn32:14.10.t86",
+          "mn32:14.10.t87"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗，大迦葉確實自己是林住者，也稱揚林住之德；自己是乞食者，也稱揚乞食之德；自己是糞掃衣者，也稱揚糞掃衣之德；自己僅持三衣，也稱揚僅持三衣之德；自己少欲，也稱揚少欲之德；自己知足，也稱揚知足之德；自己遠離獨居，也稱揚遠離獨居之德；自己不與人雜處，也稱揚不雜處之德；自己精進，也稱揚精進之德；自己戒具足，也稱揚戒具足之德；自己定具足，也稱揚定具足之德；自己慧具足，也稱揚慧具足之德；自己解脫具足，也稱揚解脫具足之德；自己解脫知見具足，也稱揚解脫知見具足之德。"
+      }
     },
     {
       "segment_id": "mn32:15.1",
@@ -45199,7 +47225,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.1.t0",
+          "mn32:15.1.t1",
+          "mn32:15.1.t2",
+          "mn32:15.1.t3",
+          "mn32:15.1.t4",
+          "mn32:15.1.t5",
+          "mn32:15.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "世尊，如此說已，我便對尊者大目犍連說道："
+      }
     },
     {
       "segment_id": "mn32:15.2",
@@ -45555,7 +47594,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.2.t0",
+          "mn32:15.2.t1",
+          "mn32:15.2.t2",
+          "mn32:15.2.t3",
+          "mn32:15.2.t4",
+          "mn32:15.2.t5",
+          "mn32:15.2.t6",
+          "mn32:15.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，尊者大迦葉已隨其所長作答了。"
+      }
     },
     {
       "segment_id": "mn32:15.3",
@@ -45815,7 +47868,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.3.t0",
+          "mn32:15.3.t1",
+          "mn32:15.3.t2",
+          "mn32:15.3.t3",
+          "mn32:15.3.t4",
+          "mn32:15.3.t5",
+          "mn32:15.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "在此，我們現在請教尊者大目犍連……"
+      }
     },
     {
       "segment_id": "mn32:15.4",
@@ -45994,7 +48060,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.4.t0",
+          "mn32:15.4.t1",
+          "mn32:15.4.t2",
+          "mn32:15.4.t3",
+          "mn32:15.4.t4",
+          "mn32:15.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，怎樣的比丘才能使牛角娑羅林生輝呢？"
+      }
     },
     {
       "segment_id": "mn32:15.5",
@@ -46307,7 +48385,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.5.t0",
+          "mn32:15.5.t1",
+          "mn32:15.5.t2",
+          "mn32:15.5.t3",
+          "mn32:15.5.t4",
+          "mn32:15.5.t5",
+          "mn32:15.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "世尊，如此說已，尊者大目犍連對我說道："
+      }
     },
     {
       "segment_id": "mn32:15.6",
@@ -47181,7 +49272,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.6.t0",
+          "mn32:15.6.t1",
+          "mn32:15.6.t2",
+          "mn32:15.6.t3",
+          "mn32:15.6.t4",
+          "mn32:15.6.t5",
+          "mn32:15.6.t6",
+          "mn32:15.6.t7",
+          "mn32:15.6.t8",
+          "mn32:15.6.t9",
+          "mn32:15.6.t10",
+          "mn32:15.6.t11",
+          "mn32:15.6.t12",
+          "mn32:15.6.t13",
+          "mn32:15.6.t14",
+          "mn32:15.6.t15",
+          "mn32:15.6.t16",
+          "mn32:15.6.t17",
+          "mn32:15.6.t18",
+          "mn32:15.6.t19",
+          "mn32:15.6.t20",
+          "mn32:15.6.t21",
+          "mn32:15.6.t22"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，在此，有兩位比丘互相論說法義，彼此提出問題，被問及時皆如實解答而不滯礙，他們的談論如法地進行著。"
+      }
     },
     {
       "segment_id": "mn32:15.7",
@@ -47356,7 +49476,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.7.t0",
+          "mn32:15.7.t1",
+          "mn32:15.7.t2",
+          "mn32:15.7.t3",
+          "mn32:15.7.t4",
+          "mn32:15.7.t5",
+          "mn32:15.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "像這樣的比丘，舍利弗學友，才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:15.8",
@@ -47726,7 +49859,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.8.t0",
+          "mn32:15.8.t1",
+          "mn32:15.8.t2",
+          "mn32:15.8.t3",
+          "mn32:15.8.t4",
+          "mn32:15.8.t5",
+          "mn32:15.8.t6",
+          "mn32:15.8.t7",
+          "mn32:15.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "善哉！善哉！舍利弗，正如目犍連會如此正確作答一般。"
+      }
     },
     {
       "segment_id": "mn32:15.9",
@@ -47837,7 +49985,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:15.9.t0",
+          "mn32:15.9.t1",
+          "mn32:15.9.t2",
+          "mn32:15.9.t3",
+          "mn32:15.9.t4"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗，目犍連確實是說法者。"
+      }
     },
     {
       "segment_id": "mn32:16.1",
@@ -48071,7 +50230,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.1.t0",
+          "mn32:16.1.t1",
+          "mn32:16.1.t2",
+          "mn32:16.1.t3",
+          "mn32:16.1.t4",
+          "mn32:16.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "當這麼說時，尊者大目犍連對世尊如此說道："
+      }
     },
     {
       "segment_id": "mn32:16.2",
@@ -48255,7 +50426,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.2.t0",
+          "mn32:16.2.t1",
+          "mn32:16.2.t2",
+          "mn32:16.2.t3",
+          "mn32:16.2.t4",
+          "mn32:16.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "世尊，於是我便對尊者舍利弗說道："
+      }
     },
     {
       "segment_id": "mn32:16.3",
@@ -48571,7 +50754,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.3.t0",
+          "mn32:16.3.t1",
+          "mn32:16.3.t2",
+          "mn32:16.3.t3",
+          "mn32:16.3.t4",
+          "mn32:16.3.t5",
+          "mn32:16.3.t6",
+          "mn32:16.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，我們大家都已隨自己所長作答了。"
+      }
     },
     {
       "segment_id": "mn32:16.4",
@@ -48761,7 +50958,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.4.t0",
+          "mn32:16.4.t1",
+          "mn32:16.4.t2",
+          "mn32:16.4.t3",
+          "mn32:16.4.t4",
+          "mn32:16.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "在此，我們現在請教尊者舍利弗。"
+      }
     },
     {
       "segment_id": "mn32:16.5",
@@ -49316,7 +51525,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.5.t0",
+          "mn32:16.5.t1",
+          "mn32:16.5.t2",
+          "mn32:16.5.t3",
+          "mn32:16.5.t4",
+          "mn32:16.5.t5",
+          "mn32:16.5.t6",
+          "mn32:16.5.t7",
+          "mn32:16.5.t8",
+          "mn32:16.5.t9",
+          "mn32:16.5.t10",
+          "mn32:16.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗學友，牛角娑羅林優美宜人，月夜皎潔，娑羅樹皆已盛開，彷彿飄散著天界般的香氣。"
+      }
     },
     {
       "segment_id": "mn32:16.6",
@@ -49476,7 +51703,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.6.t0",
+          "mn32:16.6.t1",
+          "mn32:16.6.t2",
+          "mn32:16.6.t3",
+          "mn32:16.6.t4",
+          "mn32:16.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "怎樣的比丘，舍利弗學友，才能使牛角娑羅林生輝呢？"
+      }
     },
     {
       "segment_id": "mn32:16.7",
@@ -49789,7 +52028,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.7.t0",
+          "mn32:16.7.t1",
+          "mn32:16.7.t2",
+          "mn32:16.7.t3",
+          "mn32:16.7.t4",
+          "mn32:16.7.t5",
+          "mn32:16.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "世尊，如此說已，尊者舍利弗對我說道："
+      }
     },
     {
       "segment_id": "mn32:16.8",
@@ -50249,7 +52501,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.8.t0",
+          "mn32:16.8.t1",
+          "mn32:16.8.t2",
+          "mn32:16.8.t3",
+          "mn32:16.8.t4",
+          "mn32:16.8.t5",
+          "mn32:16.8.t6",
+          "mn32:16.8.t7",
+          "mn32:16.8.t8",
+          "mn32:16.8.t9",
+          "mn32:16.8.t10",
+          "mn32:16.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，在此，有比丘能自在駕馭其心，而不受心所支配。"
+      }
     },
     {
       "segment_id": "mn32:16.9",
@@ -50599,7 +52869,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.9.t0",
+          "mn32:16.9.t1",
+          "mn32:16.9.t2",
+          "mn32:16.9.t3",
+          "mn32:16.9.t4",
+          "mn32:16.9.t5",
+          "mn32:16.9.t6",
+          "mn32:16.9.t7",
+          "mn32:16.9.t8",
+          "mn32:16.9.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望在上午安住的禪定成就，他便能在上午安住於那種禪定成就。"
+      }
     },
     {
       "segment_id": "mn32:16.10",
@@ -50906,7 +53192,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.10.t0",
+          "mn32:16.10.t1",
+          "mn32:16.10.t2",
+          "mn32:16.10.t3",
+          "mn32:16.10.t4",
+          "mn32:16.10.t5",
+          "mn32:16.10.t6",
+          "mn32:16.10.t7",
+          "mn32:16.10.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望在中午安住的禪定成就，他便能在中午安住於那種禪定成就。"
+      }
     },
     {
       "segment_id": "mn32:16.11",
@@ -51213,7 +53514,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.11.t0",
+          "mn32:16.11.t1",
+          "mn32:16.11.t2",
+          "mn32:16.11.t3",
+          "mn32:16.11.t4",
+          "mn32:16.11.t5",
+          "mn32:16.11.t6",
+          "mn32:16.11.t7",
+          "mn32:16.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望在傍晚安住的禪定成就，他便能在傍晚安住於那種禪定成就。"
+      }
     },
     {
       "segment_id": "mn32:16.12",
@@ -51629,7 +53945,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.12.t0",
+          "mn32:16.12.t1",
+          "mn32:16.12.t2",
+          "mn32:16.12.t3",
+          "mn32:16.12.t4",
+          "mn32:16.12.t5",
+          "mn32:16.12.t6",
+          "mn32:16.12.t7",
+          "mn32:16.12.t8",
+          "mn32:16.12.t9",
+          "mn32:16.12.t10",
+          "mn32:16.12.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連學友，猶如國王或大臣有一衣箱，裝滿了各種顏色的衣布，"
+      }
     },
     {
       "segment_id": "mn32:16.13",
@@ -51980,7 +54314,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.13.t0",
+          "mn32:16.13.t1",
+          "mn32:16.13.t2",
+          "mn32:16.13.t3",
+          "mn32:16.13.t4",
+          "mn32:16.13.t5",
+          "mn32:16.13.t6",
+          "mn32:16.13.t7",
+          "mn32:16.13.t8",
+          "mn32:16.13.t9",
+          "mn32:16.13.t10"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望在上午穿著的那套衣服，他便能在上午穿上那套衣服；"
+      }
     },
     {
       "segment_id": "mn32:16.14",
@@ -52288,7 +54639,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.14.t0",
+          "mn32:16.14.t1",
+          "mn32:16.14.t2",
+          "mn32:16.14.t3",
+          "mn32:16.14.t4",
+          "mn32:16.14.t5",
+          "mn32:16.14.t6",
+          "mn32:16.14.t7",
+          "mn32:16.14.t8",
+          "mn32:16.14.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡他希望在中午穿著的那套衣服，他便能在中午穿上那套衣服。"
+      }
     },
     {
       "segment_id": "mn32:16.15",
@@ -52596,7 +54963,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.15.t0",
+          "mn32:16.15.t1",
+          "mn32:16.15.t2",
+          "mn32:16.15.t3",
+          "mn32:16.15.t4",
+          "mn32:16.15.t5",
+          "mn32:16.15.t6",
+          "mn32:16.15.t7",
+          "mn32:16.15.t8",
+          "mn32:16.15.t9"
+        ],
+        "review_status": "approved",
+        "content": "無論想在傍晚披上哪一套衣服，就披上那同一套衣服在傍晚穿著。"
+      }
     },
     {
       "segment_id": "mn32:16.16",
@@ -53096,7 +55479,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.16.t0",
+          "mn32:16.16.t1",
+          "mn32:16.16.t2",
+          "mn32:16.16.t3",
+          "mn32:16.16.t4",
+          "mn32:16.16.t5",
+          "mn32:16.16.t6",
+          "mn32:16.16.t7",
+          "mn32:16.16.t8",
+          "mn32:16.16.t9",
+          "mn32:16.16.t10",
+          "mn32:16.16.t11",
+          "mn32:16.16.t12",
+          "mn32:16.16.t13"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，學友目犍連啊，比丘能主宰心，而不受心所主宰。"
+      }
     },
     {
       "segment_id": "mn32:16.17",
@@ -53446,7 +55849,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.17.t0",
+          "mn32:16.17.t1",
+          "mn32:16.17.t2",
+          "mn32:16.17.t3",
+          "mn32:16.17.t4",
+          "mn32:16.17.t5",
+          "mn32:16.17.t6",
+          "mn32:16.17.t7",
+          "mn32:16.17.t8",
+          "mn32:16.17.t9"
+        ],
+        "review_status": "approved",
+        "content": "他想以哪種禪定成就安住於清晨，就以那種禪定成就安住於清晨。"
+      }
     },
     {
       "segment_id": "mn32:16.18",
@@ -53753,7 +56172,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.18.t0",
+          "mn32:16.18.t1",
+          "mn32:16.18.t2",
+          "mn32:16.18.t3",
+          "mn32:16.18.t4",
+          "mn32:16.18.t5",
+          "mn32:16.18.t6",
+          "mn32:16.18.t7",
+          "mn32:16.18.t8"
+        ],
+        "review_status": "approved",
+        "content": "想以哪種禪定成就安住於正午，就以那種禪定成就安住於正午。"
+      }
     },
     {
       "segment_id": "mn32:16.19",
@@ -54060,7 +56494,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.19.t0",
+          "mn32:16.19.t1",
+          "mn32:16.19.t2",
+          "mn32:16.19.t3",
+          "mn32:16.19.t4",
+          "mn32:16.19.t5",
+          "mn32:16.19.t6",
+          "mn32:16.19.t7",
+          "mn32:16.19.t8"
+        ],
+        "review_status": "approved",
+        "content": "想以哪種禪定成就安住於傍晚，就以那種禪定成就安住於傍晚。"
+      }
     },
     {
       "segment_id": "mn32:16.20",
@@ -54254,7 +56703,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.20.t0",
+          "mn32:16.20.t1",
+          "mn32:16.20.t2",
+          "mn32:16.20.t3",
+          "mn32:16.20.t4",
+          "mn32:16.20.t5",
+          "mn32:16.20.t7"
+        ],
+        "review_status": "approved",
+        "content": "學友目犍連啊，像這樣的比丘，才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:16.21",
@@ -54434,7 +56896,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.21.t0",
+          "mn32:16.21.t1",
+          "mn32:16.21.t2"
+        ],
+        "review_status": "approved",
+        "content": "善哉，善哉，目犍連！"
+      }
     },
     {
       "segment_id": "mn32:16.22",
@@ -54649,7 +57120,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.22.t0",
+          "mn32:16.22.t1",
+          "mn32:16.22.t2",
+          "mn32:16.22.t3",
+          "mn32:16.22.t4",
+          "mn32:16.22.t5"
+        ],
+        "review_status": "approved",
+        "content": "正如舍利弗如實回答時所會回答的那樣。"
+      }
     },
     {
       "segment_id": "mn32:16.23",
@@ -55094,7 +57577,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.23.t0",
+          "mn32:16.23.t1",
+          "mn32:16.23.t2",
+          "mn32:16.23.t3",
+          "mn32:16.23.t4",
+          "mn32:16.23.t5",
+          "mn32:16.23.t6",
+          "mn32:16.23.t7",
+          "mn32:16.23.t8",
+          "mn32:16.23.t9",
+          "mn32:16.23.t10",
+          "mn32:16.23.t11"
+        ],
+        "review_status": "approved",
+        "content": "目犍連啊，舍利弗能主宰心，而不受心所主宰。"
+      }
     },
     {
       "segment_id": "mn32:16.24",
@@ -55444,7 +57945,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.24.t0",
+          "mn32:16.24.t1",
+          "mn32:16.24.t2",
+          "mn32:16.24.t3",
+          "mn32:16.24.t4",
+          "mn32:16.24.t5",
+          "mn32:16.24.t6",
+          "mn32:16.24.t7",
+          "mn32:16.24.t8",
+          "mn32:16.24.t9"
+        ],
+        "review_status": "approved",
+        "content": "他想以哪種禪定成就安住於清晨，就以那種禪定成就安住於清晨。"
+      }
     },
     {
       "segment_id": "mn32:16.25",
@@ -55751,7 +58268,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.25.t0",
+          "mn32:16.25.t1",
+          "mn32:16.25.t2",
+          "mn32:16.25.t3",
+          "mn32:16.25.t4",
+          "mn32:16.25.t5",
+          "mn32:16.25.t6",
+          "mn32:16.25.t7",
+          "mn32:16.25.t8"
+        ],
+        "review_status": "approved",
+        "content": "想以哪種禪定成就安住於正午，就以那種禪定成就安住於正午。"
+      }
     },
     {
       "segment_id": "mn32:16.26",
@@ -56120,7 +58652,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:16.26.t0",
+          "mn32:16.26.t1",
+          "mn32:16.26.t2",
+          "mn32:16.26.t3",
+          "mn32:16.26.t4",
+          "mn32:16.26.t5",
+          "mn32:16.26.t6",
+          "mn32:16.26.t7",
+          "mn32:16.26.t8",
+          "mn32:16.26.t9"
+        ],
+        "review_status": "approved",
+        "content": "想以哪種禪定成就安住於傍晚，就以那種禪定成就安住於傍晚。"
+      }
     },
     {
       "segment_id": "mn32:17.1",
@@ -56354,7 +58902,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.1.t0",
+          "mn32:17.1.t1",
+          "mn32:17.1.t2",
+          "mn32:17.1.t3",
+          "mn32:17.1.t4",
+          "mn32:17.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，尊者舍利弗對世尊這麼說："
+      }
     },
     {
       "segment_id": "mn32:17.2",
@@ -56570,7 +59130,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.2.t0",
+          "mn32:17.2.t1",
+          "mn32:17.2.t2",
+          "mn32:17.2.t3",
+          "mn32:17.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "大德，究竟是誰說得好呢？"
+      }
     },
     {
       "segment_id": "mn32:17.3",
@@ -56817,7 +59388,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.3.t0",
+          "mn32:17.3.t1",
+          "mn32:17.3.t2",
+          "mn32:17.3.t3",
+          "mn32:17.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗啊，你們大家所說的，各就其道理而言，都說得好。"
+      }
     },
     {
       "segment_id": "mn32:17.4",
@@ -57036,7 +59618,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.4.t0",
+          "mn32:17.4.t1",
+          "mn32:17.4.t2",
+          "mn32:17.4.t3",
+          "mn32:17.4.t4",
+          "mn32:17.4.t5",
+          "mn32:17.4.t6",
+          "mn32:17.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "不過，也請你們聽聽我的看法：怎樣的比丘才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:17.5",
@@ -57410,7 +60006,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.5.t0",
+          "mn32:17.5.t1",
+          "mn32:17.5.t2",
+          "mn32:17.5.t3",
+          "mn32:17.5.t4",
+          "mn32:17.5.t5",
+          "mn32:17.5.t6",
+          "mn32:17.5.t7",
+          "mn32:17.5.t8",
+          "mn32:17.5.t9",
+          "mn32:17.5.t10",
+          "mn32:17.5.t11",
+          "mn32:17.5.t12",
+          "mn32:17.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗啊，在此，比丘於用餐之後，托缽歸來，盤腿而坐，端正其身，令正念現前，"
+      }
     },
     {
       "segment_id": "mn32:17.6",
@@ -57797,7 +60413,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.6.t0",
+          "mn32:17.6.t1",
+          "mn32:17.6.t2",
+          "mn32:17.6.t3",
+          "mn32:17.6.t4",
+          "mn32:17.6.t5",
+          "mn32:17.6.t6",
+          "mn32:17.6.t7",
+          "mn32:17.6.t8",
+          "mn32:17.6.t9",
+          "mn32:17.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "他心想：只要我的心尚未由不執取而從諸漏解脫，我就不解開這盤腿而坐。"
+      }
     },
     {
       "segment_id": "mn32:17.7",
@@ -57957,7 +60590,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.7.t0",
+          "mn32:17.7.t1",
+          "mn32:17.7.t2",
+          "mn32:17.7.t3",
+          "mn32:17.7.t4",
+          "mn32:17.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "舍利弗啊，像這樣的比丘，才能使牛角娑羅林生輝。"
+      }
     },
     {
       "segment_id": "mn32:17.8",
@@ -58044,7 +60689,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.8.t0",
+          "mn32:17.8.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這些話。"
+      }
     },
     {
       "segment_id": "mn32:17.9",
@@ -58411,7 +61064,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.9.t0",
+          "mn32:17.9.t1",
+          "mn32:17.9.t2",
+          "mn32:17.9.t3",
+          "mn32:17.9.t4",
+          "mn32:17.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "那些尊者們心滿意足，對世尊所說歡喜信受。"
+      }
     },
     {
       "segment_id": "mn32:17.10",
@@ -58564,7 +61229,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn32:17.10.t0",
+          "mn32:17.10.t1",
+          "mn32:17.10.t2"
+        ],
+        "review_status": "approved",
+        "content": "《牛角林大經》，第二經，終。"
+      }
     }
   ],
   "passages": [
@@ -58745,8 +61419,79 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn32:1.2",
+      "mn32:1.3",
+      "mn32:4.5",
+      "mn32:4.6",
+      "mn32:4.7",
+      "mn32:4.8",
+      "mn32:5.6",
+      "mn32:6.6",
+      "mn32:6.8",
+      "mn32:7.6",
+      "mn32:8.6",
+      "mn32:9.6",
+      "mn32:9.7",
+      "mn32:9.14",
+      "mn32:10.3",
+      "mn32:10.6",
+      "mn32:17.2",
+      "mn32:17.3",
+      "mn32:17.5",
+      "mn32:17.6",
+      "mn32:17.7",
+      "mn32:17.9"
+    ],
+    "review_status": "approved",
+    "content": "月圓布薩之夜，牛角娑羅林月光皎潔、娑羅花盛開如天界香氣。舍利弗、大目犍連、大迦葉、阿那律、離婆多、阿難等大弟子齊聚，舍利弗發問：怎樣的比丘能使此林增輝？眾人各依所長作答：阿難答以多聞善說法；離婆多答以樂於獨坐禪思；阿那律答以天眼遍觀千世界；大迦葉答以自身頭陀行並讚歎頭陀；大目犍連答以善論阿毘達磨、問答不滯；舍利弗答以能自在駕馭其心、隨欲安住諸禪。眾人同赴佛前稟告，佛陀肯定各答皆善，並補述：比丘食後宴坐、正念現前，立誓心未解脫諸漏終不起座——如此比丘，方能使牛角娑羅林增輝生光。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "六大弟子各展所長",
+      "sources": [
+        "mn32:4.7",
+        "mn32:6.6",
+        "mn32:7.6",
+        "mn32:8.6",
+        "mn32:9.6"
+      ],
+      "content": "舍利弗於月夜牛角娑羅林問：怎樣的比丘能使此林增輝？阿難以多聞受持、能為四眾善說法而根除隨眠作答；離婆多以樂於獨坐禪思、成就止觀作答；阿那律以清淨天眼遍觀千世界作答；大迦葉以自身奉行頭陀行（林住、乞食、糞掃衣等）並讚歎頭陀行者作答；大目犍連以善能論說深奧法義、問答不滯作答；舍利弗自己則以能自在駕馭其心、隨欲安住於各種禪定成就作答。六人所答各異，卻同顯僧團中修行成就的多元面貌。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "佛陀補述：理想比丘的修行相",
+      "sources": [
+        "mn32:17.2",
+        "mn32:17.3",
+        "mn32:17.5",
+        "mn32:17.6",
+        "mn32:17.7"
+      ],
+      "content": "眾尊者請佛裁決，佛言各答皆各有其理，並補充自己的看法：比丘於用餐托缽歸來後，盤腿而坐、端正其身，令正念現前，並立誓：若心尚未由不執取而從諸漏解脫，就不解開這盤坐。這樣專注一意、誓不中止修行直至解脫的比丘，才能使牛角娑羅林增輝。此答不否定前六位的回答，而是點出貫串一切法門的核心──對解脫的堅定志向。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "僧團多元中的統一：異答同歸",
+      "sources": [
+        "mn32:11.12",
+        "mn32:12.9",
+        "mn32:13.8",
+        "mn32:14.8",
+        "mn32:17.3"
+      ],
+      "content": "佛陀對六位大弟子的回答皆給予「善哉善哉」的肯定，說「你們大家所說的，各就其道理而言，都說得好」，顯示多聞、禪修、天眼、頭陀、論法、心自在等不同修行進路皆為正道。此經展現原始僧團中人才濟濟、風格各異卻同歸解脫的樣貌，也呈現弟子間相互推舉、謙遜請教、共同求法的僧伽倫理。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

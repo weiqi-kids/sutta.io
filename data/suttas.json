@@ -209,16 +209,16 @@
   },
   {
     "id": "mn32",
-    "title_pali": "MN32",
-    "title_zh": "mn32",
+    "title_pali": "Mahāgosiṅgasutta",
+    "title_zh": "牛角林大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
   },
   {
     "id": "mn33",
-    "title_pali": "MN33",
-    "title_zh": "mn33",
+    "title_pali": "Mahāgopālakasutta",
+    "title_zh": "牧牛者大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": false
@@ -265,8 +265,8 @@
   },
   {
     "id": "mn39",
-    "title_pali": "MN39",
-    "title_zh": "mn39",
+    "title_pali": "Mahāassapurasutta",
+    "title_zh": "馬邑大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -337,8 +337,8 @@
   },
   {
     "id": "mn8",
-    "title_pali": "MN8",
-    "title_zh": "mn8",
+    "title_pali": "Sallekhasutta",
+    "title_zh": "削減經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true

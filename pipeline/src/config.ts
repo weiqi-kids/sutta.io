@@ -60,4 +60,5 @@ export const SUTTA_TITLES: Record<string, { pali: string; zh: string; collection
   mn32: { pali: 'Mahāgosiṅgasutta', zh: '牛角林大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn33: { pali: 'Mahāgopālakasutta', zh: '牧牛者大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn39: { pali: 'Mahāassapurasutta', zh: '馬邑大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn8: { pali: 'Sallekhasutta', zh: '削減經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
 };

@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn8",
-    "title_pali": "MN8",
-    "title_zh": "mn8",
+    "title_pali": "Sallekhasutta",
+    "title_zh": "削減經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn8"
@@ -23949,7 +23949,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.21.t0",
           "mn8:12.21.t1",
@@ -23961,7 +23961,7 @@
           "mn8:12.21.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會是邪解脫者，而我們在此將會是正解脫者」——如是，磨除（自勉）應當修習。"
+        "content": "他人將懷有邪解脫，而我們在此將懷有正解脫——應如此修習削減。"
       }
     },
     {
@@ -24308,7 +24308,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.22.t0",
           "mn8:12.22.t1",
@@ -24320,7 +24320,7 @@
           "mn8:12.22.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會被惛沉睡眠所纏縛，而我們在此將會離惛沉睡眠」——如是，磨除應當修習。"
+        "content": "他人將陷於惛沉睡眠，而我們在此將遠離惛沉睡眠——應如此修習削減。"
       }
     },
     {
@@ -24667,7 +24667,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.23.t0",
           "mn8:12.23.t1",
@@ -24679,7 +24679,7 @@
           "mn8:12.23.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會傲慢自大，而我們在此將會不傲慢」——如是，磨除應當修習。"
+        "content": "他人將傲慢自負，而我們在此將不傲慢自負——應如此修習削減。"
       }
     },
     {
@@ -25026,7 +25026,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.24.t0",
           "mn8:12.24.t1",
@@ -25038,7 +25038,7 @@
           "mn8:12.24.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會是〔資料不足：vicikicchī〕，而我們在此將會是已越度疑者」——如是，磨除應當修習。"
+        "content": "他人將心懷疑惑，而我們在此將超越疑惑——應如此修習削減。"
       }
     },
     {
@@ -25385,7 +25385,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.25.t0",
           "mn8:12.25.t1",
@@ -25397,7 +25397,7 @@
           "mn8:12.25.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會易怒，而我們在此將會無瞋」——如是，磨除應當修習。"
+        "content": "他人將易怒忿恨，而我們在此將不易怒忿恨——應如此修習削減。"
       }
     },
     {
@@ -25744,7 +25744,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.26.t0",
           "mn8:12.26.t1",
@@ -25756,7 +25756,7 @@
           "mn8:12.26.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會懷恨抱怨，而我們在此將會不懷恨」——如是，磨除應當修習。"
+        "content": "他人將懷恨在心，而我們在此將不懷恨在心——應如此修習削減。"
       }
     },
     {
@@ -26103,7 +26103,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.27.t0",
           "mn8:12.27.t1",
@@ -26115,7 +26115,7 @@
           "mn8:12.27.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會誹謗覆蓋他人善德，而我們在此將會不誹謗」——如是，磨除應當修習。"
+        "content": "他人將抹煞他人的善行，而我們在此將不抹煞他人的善行——應如此修習削減。"
       }
     },
     {
@@ -26462,7 +26462,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.28.t0",
           "mn8:12.28.t1",
@@ -26474,7 +26474,7 @@
           "mn8:12.28.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會爭競好勝，而我們在此將會不爭競」——如是，磨除應當修習。"
+        "content": "他人將好與人爭勝，而我們在此將不好與人爭勝——應如此修習削減。"
       }
     },
     {
@@ -26821,7 +26821,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.29.t0",
           "mn8:12.29.t1",
@@ -26833,7 +26833,7 @@
           "mn8:12.29.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會嫉妒，而我們在此將會無嫉妒」——如是，磨除應當修習。"
+        "content": "他人將心懷嫉妒，而我們在此將不懷嫉妒——應如此修習削減。"
       }
     },
     {
@@ -27180,7 +27180,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.30.t0",
           "mn8:12.30.t1",
@@ -27192,7 +27192,7 @@
           "mn8:12.30.t8"
         ],
         "review_status": "approved",
-        "content": "「〔資料不足〕將會慳吝，而我們在此將會無慳吝」——如是，磨除應當修習。"
+        "content": "他人將慳吝小氣，而我們在此將不慳吝小氣——應如此修習削減。"
       }
     },
     {
@@ -27539,7 +27539,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.31.t0",
           "mn8:12.31.t1",
@@ -27551,7 +27551,7 @@
           "mn8:12.31.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是狡詐欺騙的；在此，我們應不狡詐、誠實」——此磨除應當奉行。"
+        "content": "他人將奸詐虛偽，而我們在此將誠實不奸詐——應如此修習削減。"
       }
     },
     {
@@ -27898,7 +27898,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.32.t0",
           "mn8:12.32.t1",
@@ -27910,7 +27910,7 @@
           "mn8:12.32.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是虛偽欺詐的；在此，我們應不虛偽、不欺詐」——此磨除應當奉行。"
+        "content": "他人將虛偽詐騙，而我們在此將不虛偽詐騙——應如此修習削減。"
       }
     },
     {
@@ -28257,7 +28257,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.33.t0",
           "mn8:12.33.t1",
@@ -28269,7 +28269,7 @@
           "mn8:12.33.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是固執頑硬的；在此，我們應不固執、不頑硬」——此磨除應當奉行。"
+        "content": "他人將剛愎頑固，而我們在此將不剛愎頑固——應如此修習削減。"
       }
     },
     {
@@ -28616,7 +28616,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.34.t0",
           "mn8:12.34.t1",
@@ -28628,7 +28628,7 @@
           "mn8:12.34.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是傲慢自負的；在此，我們應不傲慢、謙遜」——此磨除應當奉行。"
+        "content": "他人將我慢自負，而我們在此將不我慢、謙遜自持——應如此修習削減。"
       }
     },
     {
@@ -28975,7 +28975,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.35.t0",
           "mn8:12.35.t1",
@@ -28987,7 +28987,7 @@
           "mn8:12.35.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是難以教誨的；在此，我們應易於教誨、順從」——此磨除應當奉行。"
+        "content": "他人將難以勸誡，而我們在此將易於受教——應如此修習削減。"
       }
     },
     {
@@ -29334,7 +29334,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.36.t0",
           "mn8:12.36.t1",
@@ -29346,7 +29346,7 @@
           "mn8:12.36.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會有惡友相伴；在此，我們應與善友（善知識）為伴」——此磨除應當奉行。"
+        "content": "他人將親近惡友，而我們在此將親近善友——應如此修習削減。"
       }
     },
     {
@@ -29693,7 +29693,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.37.t0",
           "mn8:12.37.t1",
@@ -29705,7 +29705,7 @@
           "mn8:12.37.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是放逸疏忽的；在此，我們應不放逸、精勤謹慎」——此磨除應當奉行。"
+        "content": "他人將放逸懈怠，而我們在此將不放逸、謹慎自持——應如此修習削減。"
       }
     },
     {
@@ -30052,7 +30052,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.38.t0",
           "mn8:12.38.t1",
@@ -30064,7 +30064,7 @@
           "mn8:12.38.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是無信的；在此，我們應有信、虔信」——此磨除應當奉行。"
+        "content": "他人將沒有信心，而我們在此將具足信心——應如此修習削減。"
       }
     },
     {
@@ -30411,7 +30411,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.39.t0",
           "mn8:12.39.t1",
@@ -30423,7 +30423,7 @@
           "mn8:12.39.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是無慚的；在此，我們應有慚、有良知」——此磨除應當奉行。"
+        "content": "他人將無慚（不知羞恥），而我們在此將有慚（知恥自省）——應如此修習削減。"
       }
     },
     {
@@ -30770,7 +30770,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:12.40.t0",
           "mn8:12.40.t1",
@@ -30782,7 +30782,7 @@
           "mn8:12.40.t8"
         ],
         "review_status": "approved",
-        "content": "「（Pare，字義資料不足）將會是無愧的；在此，我們應有愧、畏懼過惡」——此磨除應當奉行。"
+        "content": "他人將無愧（不畏懼造惡），而我們在此將有愧（畏懼造惡）——應如此修習削減。"
       }
     },
     {
@@ -42728,7 +42728,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:14.5.t1",
           "mn8:14.5.t2",
@@ -42849,7 +42849,7 @@
           "mn8:14.5.t119"
         ],
         "review_status": "approved",
-        "content": "〔對具惛沉睡眠者，〕此人有遠離惛沉睡眠之道；對於掉舉之人，不掉舉是可出離之道；對於有疑之人，超越疑惑是可出離之道；對於憤怒之人，無憤怒是可出離之道；對於懷恨之人，無怨恨是可出離之道；對於毀謗之人，不毀謗是可出離之道；對於好爭之人，無競爭是可出離之道；對於嫉妒之人，無嫉妒是可出離之道；對於慳吝之人，不慳吝是可出離之道；對於狡詐之人，誠實是可出離之道；對於虛偽之人，坦誠是可出離之道；對於剛硬之人，柔和是可出離之道；對於傲慢之人，無傲慢是可出離之道；對於難以規勸之人，易於受教是可出離之道；對於近惡友之人，近善友是可出離之道；對於放逸之人，不放逸是可出離之道；對於無信之人，淨信是可出離之道；對於無慚之人，慚是可出離之道；對於無愧之人，〔愧〕是可出離之道（t92 資料不足）；對於寡聞之人，多聞是可出離之道；對於懈怠之人，發起精進是可出離之道；對於失念之人，念現前是可出離之道；對於愚癡之人，智慧圓滿是可出離之道；〔t115、t117 缺〕此人……是可出離之道。"
+        "content": "對於陷於惛沉睡眠的人而言，遠離惛沉睡眠便是迴避之道；對於傲慢自負的人而言，不傲慢自負便是迴避之道；對於心懷疑惑的人而言，超越疑惑便是迴避之道；對於易怒忿恨的人而言，不易怒忿恨便是迴避之道；對於懷恨在心的人而言，不懷恨在心便是迴避之道；對於抹煞他人善行的人而言，不抹煞他人善行便是迴避之道；對於好與人爭勝的人而言，不好與人爭勝便是迴避之道；對於心懷嫉妒的人而言，不懷嫉妒便是迴避之道；對於慳吝小氣的人而言，不慳吝、慷慨大方便是迴避之道；對於奸詐虛偽的人而言，誠實不奸詐便是迴避之道；對於虛偽詐騙的人而言，不虛偽詐騙、坦誠相待便是迴避之道；對於剛愎頑固的人而言，不剛愎、柔和隨和便是迴避之道；對於我慢自負的人而言，不我慢、謙遜自持便是迴避之道；對於難以勸誡的人而言，易於受教便是迴避之道；對於親近惡友的人而言，親近善友便是迴避之道；對於放逸懈怠的人而言，不放逸、謹慎自持便是迴避之道；對於沒有信心的人而言，具足信心便是迴避之道；對於無慚（不知羞恥）的人而言，有慚（知恥自省）便是迴避之道；對於無愧（不畏懼造惡）的人而言，有愧（畏懼造惡）便是迴避之道；對於寡聞少學的人而言，多聞廣學便是迴避之道；對於懈怠懶惰的人而言，發起精進便是迴避之道；對於失念健忘的人而言，正念現前便是迴避之道；對於愚昧無慧的人而言，成就智慧便是迴避之道；對於執取己見、緊抓不捨、難以捨棄己見的人而言，不執取己見、不緊抓不捨、易於捨棄己見，便是迴避之道。"
       }
     },
     {
@@ -52527,7 +52527,7 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:16.42.t0",
           "mn8:16.42.t1",
@@ -52536,7 +52536,7 @@
           "mn8:16.42.t4"
         ],
         "review_status": "approved",
-        "content": "對無愧的個人而言，〔ottappaṁ 字義資料不足〕是朝向般涅槃的。"
+        "content": "對於無愧的人而言，生起愧，便是趣向（煩惱）完全止息之道。"
       }
     },
     {
@@ -53262,14 +53262,14 @@
         }
       ],
       "vernacular_gloss": {
-        "generated_by": "claude-sonnet-4-6",
+        "generated_by": "claude-sonnet-5",
         "grounded_on": [
           "mn8:16.47.t1",
           "mn8:16.47.t3",
           "mn8:16.47.t4"
         ],
         "review_status": "approved",
-        "content": "（資料不足：本段僅提供 t1、t3、t4，缺開頭形容詞 t0 與主詞 t2，無法還原完整句義；依現有詞：〔某〕個人……是朝向般涅槃的。）"
+        "content": "對於執取己見、緊抓不捨、難以捨棄己見的人而言，不執取己見、不緊抓不捨、易於捨棄己見，便是趣向（煩惱）完全止息之道。"
       }
     },
     {
