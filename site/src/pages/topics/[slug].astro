@@ -62,13 +62,34 @@ const articleSchema = {
   publisher: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
   isAccessibleForFree: true,
 };
+// DefinedTerm（AEO/知識圖譜）：概念頁把「詞＋原典白話定義」宣告成可被 AI 引擎/featured
+// snippet 直接擷取的定義實體，強打「X 是什麼／X 意思」查詢意圖。定義取 L.definition（L2、
+// grounded on 原典），name 用不含括號羅馬化的純中文詞（提高與中文查詢的匹配）。
+const termName = L.title.replace(/（[^）]*）/g, '').trim() || L.title;
+const definedTermSchema = L.definition
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'DefinedTerm',
+      name: termName,
+      description: L.definition,
+      inDefinedTermSet: {
+        '@type': 'DefinedTermSet',
+        name: '原典研經庫・佛教概念',
+        url: 'https://sutta.io/topics/',
+      },
+      url: `https://sutta.io/topics/${topic.slug}/`,
+    }
+  : null;
+const topicSchema = definedTermSchema
+  ? [articleSchema, faqSchema, definedTermSchema]
+  : [articleSchema, faqSchema];
 ---
 
 <Base
   title={L.seo_title}
   description={L.seo_description}
   crumbs={crumbs}
-  extraSchema={[articleSchema, faqSchema]}
+  extraSchema={topicSchema}
 >
   <article class="topic">
     <h1>{L.question}</h1>
