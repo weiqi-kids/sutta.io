@@ -22,8 +22,10 @@ const { entry, usage, entity } = Astro.props as {
 };
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
-// 薄詞條（僅文法骨架、出現極少）標 noindex，集中 Google 抓取預算於有價值內容頁
-const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || Boolean(entry && entry.occurrences.length >= 3);
+// 只有「有白話用法摘要（L2）或人地事實體條目（DPPN）」的詞條才有差異化內容、值得索引；
+// 純出現連結（occ≥3 但無白話）仍是薄頁，一律 noindex，集中 Google 抓取預算與信任於真內容頁。
+// 判準與 astro.config.mjs 的 noindexLexKeys 必須同步（2026-07-05 由用戶定案收緊，砍掉 occ≥3 一支）。
+const indexable = Boolean(usage) || Boolean(entity?.summary?.length);
 const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
