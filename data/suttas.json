@@ -161,8 +161,8 @@
   },
   {
     "id": "mn27",
-    "title_pali": "MN27",
-    "title_zh": "mn27",
+    "title_pali": "Cūḷahatthipadopamasutta",
+    "title_zh": "象跡喻小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -177,8 +177,8 @@
   },
   {
     "id": "mn29",
-    "title_pali": "MN29",
-    "title_zh": "mn29",
+    "title_pali": "Mahāsāropamasutta",
+    "title_zh": "心材喻大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": false
@@ -193,8 +193,8 @@
   },
   {
     "id": "mn30",
-    "title_pali": "MN30",
-    "title_zh": "mn30",
+    "title_pali": "Cūḷasāropamasutta",
+    "title_zh": "心材喻小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": false
@@ -233,8 +233,8 @@
   },
   {
     "id": "mn35",
-    "title_pali": "MN35",
-    "title_zh": "mn35",
+    "title_pali": "Cūḷasaccakasutta",
+    "title_zh": "薩遮迦小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": false

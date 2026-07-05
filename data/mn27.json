@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn27",
-    "title_pali": "MN27",
-    "title_zh": "mn27",
+    "title_pali": "Cūḷahatthipadopamasutta",
+    "title_zh": "象跡喻小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn27"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:1.1.t0",
+          "mn27:1.1.t1",
+          "mn27:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn27:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:1.2.t0",
+          "mn27:1.2.t1",
+          "mn27:1.2.t2",
+          "mn27:1.2.t3",
+          "mn27:1.2.t4",
+          "mn27:1.2.t5",
+          "mn27:1.2.t6",
+          "mn27:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "有一時，世尊住在舍衛城祇樹給孤獨園。"
+      }
     },
     {
       "segment_id": "mn27:2.1",
@@ -762,7 +785,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.1.t0",
+          "mn27:2.1.t1",
+          "mn27:2.1.t2",
+          "mn27:2.1.t3",
+          "mn27:2.1.t4",
+          "mn27:2.1.t5",
+          "mn27:2.1.t6",
+          "mn27:2.1.t7",
+          "mn27:2.1.t8",
+          "mn27:2.1.t9",
+          "mn27:2.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "那時，遮努索尼婆羅門乘坐純白牝馬所駕的馬車，在正中午時分離開舍衛城。"
+      }
     },
     {
       "segment_id": "mn27:2.2",
@@ -1005,7 +1045,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.2.t0",
+          "mn27:2.2.t1",
+          "mn27:2.2.t2",
+          "mn27:2.2.t3",
+          "mn27:2.2.t4",
+          "mn27:2.2.t5",
+          "mn27:2.2.t6",
+          "mn27:2.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "遮努索尼婆羅門遠遠望見遊行者卑盧吒走來。"
+      }
     },
     {
       "segment_id": "mn27:2.3",
@@ -1117,7 +1171,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.3.t0",
+          "mn27:2.3.t1",
+          "mn27:2.3.t2",
+          "mn27:2.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "看見後，便對遊行者卑盧吒說道："
+      }
     },
     {
       "segment_id": "mn27:2.4",
@@ -1308,7 +1372,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.4.t0",
+          "mn27:2.4.t1",
+          "mn27:2.4.t2",
+          "mn27:2.4.t3",
+          "mn27:2.4.t4",
+          "mn27:2.4.t5",
+          "mn27:2.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "「哎，瓦恰亞那先生這是從哪裡來的呢，這正中午時分？」"
+      }
     },
     {
       "segment_id": "mn27:2.5",
@@ -1626,7 +1703,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.5.t0",
+          "mn27:2.5.t1",
+          "mn27:2.5.t2",
+          "mn27:2.5.t3",
+          "mn27:2.5.t4",
+          "mn27:2.5.t5",
+          "mn27:2.5.t6",
+          "mn27:2.5.t7",
+          "mn27:2.5.t8",
+          "mn27:2.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "「先生，我正是從沙門喬達摩那裡來。」"
+      }
     },
     {
       "segment_id": "mn27:2.6",
@@ -2076,7 +2169,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.6.t0",
+          "mn27:2.6.t1",
+          "mn27:2.6.t2",
+          "mn27:2.6.t3",
+          "mn27:2.6.t4",
+          "mn27:2.6.t5",
+          "mn27:2.6.t6",
+          "mn27:2.6.t7",
+          "mn27:2.6.t8",
+          "mn27:2.6.t9",
+          "mn27:2.6.t10"
+        ],
+        "review_status": "approved",
+        "content": "「瓦恰亞那先生對此有何看法？您認為沙門喬達摩智慧明達，是位有智慧的人吧？」"
+      }
     },
     {
       "segment_id": "mn27:2.7",
@@ -2313,7 +2423,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.7.t0",
+          "mn27:2.7.t1",
+          "mn27:2.7.t2",
+          "mn27:2.7.t3",
+          "mn27:2.7.t4",
+          "mn27:2.7.t5",
+          "mn27:2.7.t6",
+          "mn27:2.7.t7",
+          "mn27:2.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "「先生，我算什麼人，豈能知曉沙門喬達摩的智慧明達？」"
+      }
     },
     {
       "segment_id": "mn27:2.8",
@@ -2596,7 +2721,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.8.t0",
+          "mn27:2.8.t2",
+          "mn27:2.8.t3",
+          "mn27:2.8.t4",
+          "mn27:2.8.t5",
+          "mn27:2.8.t6",
+          "mn27:2.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "「唯有與他同等的人，才能知曉沙門喬達摩的智慧明達。」"
+      }
     },
     {
       "segment_id": "mn27:2.9",
@@ -2931,7 +3069,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.9.t0",
+          "mn27:2.9.t1",
+          "mn27:2.9.t2",
+          "mn27:2.9.t3",
+          "mn27:2.9.t4",
+          "mn27:2.9.t5",
+          "mn27:2.9.t6",
+          "mn27:2.9.t7",
+          "mn27:2.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "「瓦恰亞那先生，您這是在以崇高的讚辭稱讚沙門喬達摩啊。」"
+      }
     },
     {
       "segment_id": "mn27:2.10",
@@ -3114,7 +3267,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.10.t0",
+          "mn27:2.10.t1",
+          "mn27:2.10.t2",
+          "mn27:2.10.t3",
+          "mn27:2.10.t4",
+          "mn27:2.10.t5",
+          "mn27:2.10.t6",
+          "mn27:2.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "「先生，我算什麼人，豈能稱讚沙門喬達摩？」"
+      }
     },
     {
       "segment_id": "mn27:2.11",
@@ -3337,7 +3504,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.11.t0",
+          "mn27:2.11.t1",
+          "mn27:2.11.t2",
+          "mn27:2.11.t3",
+          "mn27:2.11.t4",
+          "mn27:2.11.t6"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者是受讚譽者所稱讚的，是天人中最為殊勝者。」"
+      }
     },
     {
       "segment_id": "mn27:2.12",
@@ -3667,7 +3846,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:2.12.t0",
+          "mn27:2.12.t1",
+          "mn27:2.12.t2",
+          "mn27:2.12.t3",
+          "mn27:2.12.t4",
+          "mn27:2.12.t5",
+          "mn27:2.12.t6",
+          "mn27:2.12.t7",
+          "mn27:2.12.t8",
+          "mn27:2.12.t9",
+          "mn27:2.12.t10"
+        ],
+        "review_status": "approved",
+        "content": "「瓦恰亞那先生，您是見到什麼理由，而對沙門喬達摩有如此深信呢？」"
+      }
     },
     {
       "segment_id": "mn27:3.1",
@@ -3808,7 +4004,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.1.t0",
+          "mn27:3.1.t1",
+          "mn27:3.1.t2",
+          "mn27:3.1.t3",
+          "mn27:3.1.t4",
+          "mn27:3.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "「先生，譬如善巧的獵象人進入象林，」"
+      }
     },
     {
       "segment_id": "mn27:3.2",
@@ -4194,7 +4402,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.2.t0",
+          "mn27:3.2.t1",
+          "mn27:3.2.t2",
+          "mn27:3.2.t3",
+          "mn27:3.2.t4",
+          "mn27:3.2.t5",
+          "mn27:3.2.t6",
+          "mn27:3.2.t7",
+          "mn27:3.2.t8",
+          "mn27:3.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "「他在象林中見到一個既長且深、又寬又廣大的象足跡，」"
+      }
     },
     {
       "segment_id": "mn27:3.3",
@@ -4273,7 +4497,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.3.t0",
+          "mn27:3.3.t1",
+          "mn27:3.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "「他便會得出結論：」"
+      }
     },
     {
       "segment_id": "mn27:3.4",
@@ -4448,7 +4681,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.4.t0",
+          "mn27:3.4.t1",
+          "mn27:3.4.t2",
+          "mn27:3.4.t3",
+          "mn27:3.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "「『這確實是一頭大象啊！』」"
+      }
     },
     {
       "segment_id": "mn27:3.5",
@@ -4815,7 +5059,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.5.t0",
+          "mn27:3.5.t1",
+          "mn27:3.5.t2",
+          "mn27:3.5.t3",
+          "mn27:3.5.t4",
+          "mn27:3.5.t5",
+          "mn27:3.5.t6",
+          "mn27:3.5.t7",
+          "mn27:3.5.t8",
+          "mn27:3.5.t9",
+          "mn27:3.5.t10",
+          "mn27:3.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "「先生，同樣地，自從我在沙門喬達摩身上見到四個依據之後，我便得出了結論：」"
+      }
     },
     {
       "segment_id": "mn27:3.6",
@@ -5123,7 +5385,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:3.6.t0",
+          "mn27:3.6.t1",
+          "mn27:3.6.t2",
+          "mn27:3.6.t3",
+          "mn27:3.6.t4",
+          "mn27:3.6.t5",
+          "mn27:3.6.t6",
+          "mn27:3.6.t7",
+          "mn27:3.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "「『世尊是正等正覺者，法是世尊所善說，僧伽是世尊善修行的聲聞弟子眾。』」"
+      }
     },
     {
       "segment_id": "mn27:4.1",
@@ -5179,7 +5456,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.1.t0",
+          "mn27:4.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "「是哪四個呢？」"
+      }
     },
     {
       "segment_id": "mn27:4.2",
@@ -5753,7 +6038,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.2.t0",
+          "mn27:4.2.t1",
+          "mn27:4.2.t2",
+          "mn27:4.2.t3",
+          "mn27:4.2.t4",
+          "mn27:4.2.t5",
+          "mn27:4.2.t6",
+          "mn27:4.2.t7",
+          "mn27:4.2.t8",
+          "mn27:4.2.t9",
+          "mn27:4.2.t10",
+          "mn27:4.2.t11",
+          "mn27:4.2.t12",
+          "mn27:4.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "「先生，在此，我見到一些精明、通曉他宗學說、猶如神射手的剎帝利智者，他們四處遊走，似乎正以自己的智辯，擊破他人的種種見解。」"
+      }
     },
     {
       "segment_id": "mn27:4.3",
@@ -5844,7 +6149,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.3.t0",
+          "mn27:4.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "「他們聽聞：」"
+      }
     },
     {
       "segment_id": "mn27:4.4",
@@ -6236,7 +6549,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.4.t0",
+          "mn27:4.4.t1",
+          "mn27:4.4.t2",
+          "mn27:4.4.t3",
+          "mn27:4.4.t4",
+          "mn27:4.4.t5",
+          "mn27:4.4.t6",
+          "mn27:4.4.t7",
+          "mn27:4.4.t8",
+          "mn27:4.4.t9",
+          "mn27:4.4.t11"
+        ],
+        "review_status": "approved",
+        "content": "「『沙門喬達摩將前往某某村莊或城鎮。』」"
+      }
     },
     {
       "segment_id": "mn27:4.5",
@@ -6389,7 +6719,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.5.t0",
+          "mn27:4.5.t1",
+          "mn27:4.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "「他們便構思出一個問題：」"
+      }
     },
     {
       "segment_id": "mn27:4.6",
@@ -6602,7 +6941,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.6.t0",
+          "mn27:4.6.t1",
+          "mn27:4.6.t2",
+          "mn27:4.6.t3",
+          "mn27:4.6.t4",
+          "mn27:4.6.t5",
+          "mn27:4.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "「『我們要去見沙門喬達摩，以這個問題請問他。』」"
+      }
     },
     {
       "segment_id": "mn27:4.7",
@@ -6882,7 +7234,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.7.t1",
+          "mn27:4.7.t2",
+          "mn27:4.7.t3",
+          "mn27:4.7.t4",
+          "mn27:4.7.t5",
+          "mn27:4.7.t6",
+          "mn27:4.7.t7",
+          "mn27:4.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "「『若他被我們如此問而如此作答，我們便要如此駁倒他的論說；』」"
+      }
     },
     {
       "segment_id": "mn27:4.8",
@@ -7194,7 +7560,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.8.t1",
+          "mn27:4.8.t2",
+          "mn27:4.8.t3",
+          "mn27:4.8.t4",
+          "mn27:4.8.t6",
+          "mn27:4.8.t7",
+          "mn27:4.8.t9"
+        ],
+        "review_status": "approved",
+        "content": "「『若他被我們如此問而如此作答，我們也要如此駁倒他的論說。』」"
+      }
     },
     {
       "segment_id": "mn27:4.9",
@@ -7285,7 +7664,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.9.t0",
+          "mn27:4.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "「他們聽聞：」"
+      }
     },
     {
       "segment_id": "mn27:4.10",
@@ -7677,7 +8064,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.10.t0",
+          "mn27:4.10.t1",
+          "mn27:4.10.t2",
+          "mn27:4.10.t3",
+          "mn27:4.10.t4",
+          "mn27:4.10.t5",
+          "mn27:4.10.t6",
+          "mn27:4.10.t7",
+          "mn27:4.10.t8",
+          "mn27:4.10.t9",
+          "mn27:4.10.t10",
+          "mn27:4.10.t11"
+        ],
+        "review_status": "approved",
+        "content": "「『沙門喬達摩已抵達某某村莊或城鎮。』」"
+      }
     },
     {
       "segment_id": "mn27:4.11",
@@ -7841,7 +8246,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.11.t0",
+          "mn27:4.11.t1",
+          "mn27:4.11.t2",
+          "mn27:4.11.t3",
+          "mn27:4.11.t4"
+        ],
+        "review_status": "approved",
+        "content": "「他們便前往沙門喬達摩所在之處。」"
+      }
     },
     {
       "segment_id": "mn27:4.12",
@@ -8147,7 +8563,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.12.t0",
+          "mn27:4.12.t1",
+          "mn27:4.12.t2",
+          "mn27:4.12.t3",
+          "mn27:4.12.t4",
+          "mn27:4.12.t5",
+          "mn27:4.12.t6",
+          "mn27:4.12.t7",
+          "mn27:4.12.t8"
+        ],
+        "review_status": "approved",
+        "content": "「沙門喬達摩以法談教示、勸導、鼓舞、令他們歡喜。」"
+      }
     },
     {
       "segment_id": "mn27:4.13",
@@ -8942,7 +9373,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.13.t0",
+          "mn27:4.13.t1",
+          "mn27:4.13.t2",
+          "mn27:4.13.t3",
+          "mn27:4.13.t4",
+          "mn27:4.13.t5",
+          "mn27:4.13.t6",
+          "mn27:4.13.t7",
+          "mn27:4.13.t8",
+          "mn27:4.13.t9",
+          "mn27:4.13.t10",
+          "mn27:4.13.t11",
+          "mn27:4.13.t12",
+          "mn27:4.13.t13",
+          "mn27:4.13.t14",
+          "mn27:4.13.t16",
+          "mn27:4.13.t17"
+        ],
+        "review_status": "approved",
+        "content": "「他們被沙門喬達摩以法談教示、勸導、鼓舞、令歡喜之後，竟連問題都不再問沙門喬達摩了，又哪裡還談得上駁倒他的論說呢？」"
+      }
     },
     {
       "segment_id": "mn27:4.14",
@@ -9079,7 +9533,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.14.t0",
+          "mn27:4.14.t1",
+          "mn27:4.14.t2",
+          "mn27:4.14.t3",
+          "mn27:4.14.t4"
+        ],
+        "review_status": "approved",
+        "content": "「他們反倒成了沙門喬達摩的弟子。」"
+      }
     },
     {
       "segment_id": "mn27:4.15",
@@ -9387,7 +9852,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.15.t0",
+          "mn27:4.15.t1",
+          "mn27:4.15.t2",
+          "mn27:4.15.t3",
+          "mn27:4.15.t4",
+          "mn27:4.15.t5",
+          "mn27:4.15.t6",
+          "mn27:4.15.t7",
+          "mn27:4.15.t8",
+          "mn27:4.15.t9"
+        ],
+        "review_status": "approved",
+        "content": "「先生，當我在沙門喬達摩身上見到這第一個依據時，我便得出了結論：」"
+      }
     },
     {
       "segment_id": "mn27:4.16",
@@ -9695,7 +10176,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:4.16.t0",
+          "mn27:4.16.t1",
+          "mn27:4.16.t2",
+          "mn27:4.16.t3",
+          "mn27:4.16.t4",
+          "mn27:4.16.t5",
+          "mn27:4.16.t6",
+          "mn27:4.16.t7",
+          "mn27:4.16.t8"
+        ],
+        "review_status": "approved",
+        "content": "「『世尊是正等正覺者，法是世尊所善說，僧伽是世尊善修行的聲聞弟子眾。』」"
+      }
     },
     {
       "segment_id": "mn27:5.1",
@@ -9925,7 +10421,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:5.1.t0",
+          "mn27:5.1.t2",
+          "mn27:5.1.t3",
+          "mn27:5.1.t4",
+          "mn27:5.1.t5",
+          "mn27:5.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "再者，尊者，我看見這裡有些婆羅門智者……"
+      }
     },
     {
       "segment_id": "mn27:6.1",
@@ -9956,7 +10464,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:6.1.t0"
+        ],
+        "review_status": "approved",
+        "content": "居士智者……"
+      }
     },
     {
       "segment_id": "mn27:6.2",
@@ -10032,7 +10547,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:6.2.t0"
+        ],
+        "review_status": "approved",
+        "content": "……"
+      }
     },
     {
       "segment_id": "mn27:7.1",
@@ -10466,7 +10988,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.1.t0",
+          "mn27:7.1.t1",
+          "mn27:7.1.t2",
+          "mn27:7.1.t3",
+          "mn27:7.1.t4",
+          "mn27:7.1.t5",
+          "mn27:7.1.t6",
+          "mn27:7.1.t7",
+          "mn27:7.1.t8",
+          "mn27:7.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "有些沙門智者，精明幹練，熟諳他人的論說，猶如能百步穿楊的射手，他們自認為能以智慧擊破他人的種種見解，到處遊走。"
+      }
     },
     {
       "segment_id": "mn27:7.2",
@@ -10557,7 +11095,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.2.t0",
+          "mn27:7.2.t1"
+        ],
+        "review_status": "approved",
+        "content": "他們聽聞："
+      }
     },
     {
       "segment_id": "mn27:7.3",
@@ -10949,7 +11495,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.3.t0",
+          "mn27:7.3.t1",
+          "mn27:7.3.t2",
+          "mn27:7.3.t3",
+          "mn27:7.3.t4",
+          "mn27:7.3.t5",
+          "mn27:7.3.t6",
+          "mn27:7.3.t7",
+          "mn27:7.3.t8",
+          "mn27:7.3.t9",
+          "mn27:7.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "『尊者，沙門喬達摩即將來到某某村莊或市鎮。』"
+      }
     },
     {
       "segment_id": "mn27:7.4",
@@ -11309,7 +11872,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.4.t0",
+          "mn27:7.4.t1",
+          "mn27:7.4.t2",
+          "mn27:7.4.t3",
+          "mn27:7.4.t4",
+          "mn27:7.4.t5",
+          "mn27:7.4.t6",
+          "mn27:7.4.t7",
+          "mn27:7.4.t8",
+          "mn27:7.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "他們便編造出這樣的問題：『我們要去見沙門喬達摩，向他提出這個問題；"
+      }
     },
     {
       "segment_id": "mn27:7.5",
@@ -11589,7 +12168,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.5.t1",
+          "mn27:7.5.t2",
+          "mn27:7.5.t3",
+          "mn27:7.5.t4",
+          "mn27:7.5.t5",
+          "mn27:7.5.t6",
+          "mn27:7.5.t7",
+          "mn27:7.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "若我們這樣問，他這樣回答，我們就要如此駁斥他的論說；"
+      }
     },
     {
       "segment_id": "mn27:7.6",
@@ -11901,7 +12494,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.6.t1",
+          "mn27:7.6.t2",
+          "mn27:7.6.t3",
+          "mn27:7.6.t4",
+          "mn27:7.6.t6",
+          "mn27:7.6.t7",
+          "mn27:7.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "若我們這樣問，他那樣回答，我們也要如此駁斥他的論說。』"
+      }
     },
     {
       "segment_id": "mn27:7.7",
@@ -12378,7 +12984,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.7.t0",
+          "mn27:7.7.t1",
+          "mn27:7.7.t2",
+          "mn27:7.7.t3",
+          "mn27:7.7.t4",
+          "mn27:7.7.t5",
+          "mn27:7.7.t6",
+          "mn27:7.7.t7",
+          "mn27:7.7.t8",
+          "mn27:7.7.t9",
+          "mn27:7.7.t10",
+          "mn27:7.7.t11",
+          "mn27:7.7.t12",
+          "mn27:7.7.t13"
+        ],
+        "review_status": "approved",
+        "content": "他們聽聞：『尊者，沙門喬達摩已經到了某某村莊或市鎮。』"
+      }
     },
     {
       "segment_id": "mn27:7.8",
@@ -12542,7 +13168,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.8.t0",
+          "mn27:7.8.t1",
+          "mn27:7.8.t2",
+          "mn27:7.8.t3",
+          "mn27:7.8.t4"
+        ],
+        "review_status": "approved",
+        "content": "他們便前往沙門喬達摩所在之處。"
+      }
     },
     {
       "segment_id": "mn27:7.9",
@@ -12848,7 +13485,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.9.t0",
+          "mn27:7.9.t1",
+          "mn27:7.9.t2",
+          "mn27:7.9.t3",
+          "mn27:7.9.t4",
+          "mn27:7.9.t5",
+          "mn27:7.9.t6",
+          "mn27:7.9.t7",
+          "mn27:7.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "沙門喬達摩以法語為他們開示、勸導、鼓舞、令他們歡喜。"
+      }
     },
     {
       "segment_id": "mn27:7.10",
@@ -13643,7 +14295,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.10.t0",
+          "mn27:7.10.t1",
+          "mn27:7.10.t2",
+          "mn27:7.10.t3",
+          "mn27:7.10.t4",
+          "mn27:7.10.t5",
+          "mn27:7.10.t6",
+          "mn27:7.10.t7",
+          "mn27:7.10.t8",
+          "mn27:7.10.t9",
+          "mn27:7.10.t10",
+          "mn27:7.10.t11",
+          "mn27:7.10.t12",
+          "mn27:7.10.t13",
+          "mn27:7.10.t14",
+          "mn27:7.10.t16",
+          "mn27:7.10.t17"
+        ],
+        "review_status": "approved",
+        "content": "他們被沙門喬達摩以法語開示、勸導、鼓舞、令生歡喜之後，竟連原先準備好的問題都不問了，又哪裡還會去駁斥他的論說呢？"
+      }
     },
     {
       "segment_id": "mn27:7.11",
@@ -13866,7 +14541,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.11.t0",
+          "mn27:7.11.t1",
+          "mn27:7.11.t2",
+          "mn27:7.11.t3",
+          "mn27:7.11.t4",
+          "mn27:7.11.t5",
+          "mn27:7.11.t6",
+          "mn27:7.11.t7"
+        ],
+        "review_status": "approved",
+        "content": "相反地，他們只是向沙門喬達摩請求允許，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn27:7.12",
@@ -13987,7 +14676,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.12.t0",
+          "mn27:7.12.t1",
+          "mn27:7.12.t2",
+          "mn27:7.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "沙門喬達摩便讓他們出家。"
+      }
     },
     {
       "segment_id": "mn27:7.13",
@@ -15187,7 +15886,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.13.t0",
+          "mn27:7.13.t1",
+          "mn27:7.13.t2",
+          "mn27:7.13.t3",
+          "mn27:7.13.t4",
+          "mn27:7.13.t5",
+          "mn27:7.13.t6",
+          "mn27:7.13.t7",
+          "mn27:7.13.t8",
+          "mn27:7.13.t9",
+          "mn27:7.13.t10",
+          "mn27:7.13.t11",
+          "mn27:7.13.t12",
+          "mn27:7.13.t13",
+          "mn27:7.13.t14",
+          "mn27:7.13.t15",
+          "mn27:7.13.t16",
+          "mn27:7.13.t17",
+          "mn27:7.13.t18",
+          "mn27:7.13.t19",
+          "mn27:7.13.t20",
+          "mn27:7.13.t21",
+          "mn27:7.13.t22",
+          "mn27:7.13.t23",
+          "mn27:7.13.t24"
+        ],
+        "review_status": "approved",
+        "content": "他們在那裡出家之後，獨居、不放逸、精勤、堅毅安住，不久便以自證智，於現法中親自證知、成就，並安住於良家子正確地由在家出家為無家者所欲求的、無上梵行之究竟目標。"
+      }
     },
     {
       "segment_id": "mn27:7.14",
@@ -15283,7 +16013,15 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.14.t0",
+          "mn27:7.14.t1"
+        ],
+        "review_status": "approved",
+        "content": "他們如此說道："
+      }
     },
     {
       "segment_id": "mn27:7.15",
@@ -15551,7 +16289,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.15.t0",
+          "mn27:7.15.t1",
+          "mn27:7.15.t2",
+          "mn27:7.15.t3",
+          "mn27:7.15.t4",
+          "mn27:7.15.t5",
+          "mn27:7.15.t6",
+          "mn27:7.15.t7"
+        ],
+        "review_status": "approved",
+        "content": "『尊者啊，我們幾乎迷失了自己！尊者啊，我們幾乎因此而墮落了！"
+      }
     },
     {
       "segment_id": "mn27:7.16",
@@ -16092,7 +16844,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.16.t0",
+          "mn27:7.16.t1",
+          "mn27:7.16.t2",
+          "mn27:7.16.t3",
+          "mn27:7.16.t4",
+          "mn27:7.16.t5",
+          "mn27:7.16.t6",
+          "mn27:7.16.t7",
+          "mn27:7.16.t8",
+          "mn27:7.16.t9",
+          "mn27:7.16.t10",
+          "mn27:7.16.t11",
+          "mn27:7.16.t12",
+          "mn27:7.16.t13"
+        ],
+        "review_status": "approved",
+        "content": "因為我們從前並非沙門，卻自稱是沙門；並非婆羅門，卻自稱是婆羅門；並非阿羅漢，卻自稱是阿羅漢。"
+      }
     },
     {
       "segment_id": "mn27:7.17",
@@ -16366,7 +17138,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.17.t0",
+          "mn27:7.17.t1",
+          "mn27:7.17.t2",
+          "mn27:7.17.t3",
+          "mn27:7.17.t4",
+          "mn27:7.17.t5",
+          "mn27:7.17.t6",
+          "mn27:7.17.t7",
+          "mn27:7.17.t8",
+          "mn27:7.17.t9"
+        ],
+        "review_status": "approved",
+        "content": "現在我們才真正是沙門，現在我們才真正是婆羅門，現在我們才真正是阿羅漢。』"
+      }
     },
     {
       "segment_id": "mn27:7.18",
@@ -16647,7 +17435,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.18.t0",
+          "mn27:7.18.t1",
+          "mn27:7.18.t2",
+          "mn27:7.18.t3",
+          "mn27:7.18.t4",
+          "mn27:7.18.t5",
+          "mn27:7.18.t6",
+          "mn27:7.18.t7",
+          "mn27:7.18.t8",
+          "mn27:7.18.t9"
+        ],
+        "review_status": "approved",
+        "content": "尊者，當我在沙門喬達摩身上見到這第四個跡象時，我便得出結論："
+      }
     },
     {
       "segment_id": "mn27:7.19",
@@ -16955,7 +17759,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.19.t0",
+          "mn27:7.19.t1",
+          "mn27:7.19.t2",
+          "mn27:7.19.t3",
+          "mn27:7.19.t4",
+          "mn27:7.19.t5",
+          "mn27:7.19.t6",
+          "mn27:7.19.t7",
+          "mn27:7.19.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，世尊所說之法已善說，世尊的聲聞僧伽善於修行道。』"
+      }
     },
     {
       "segment_id": "mn27:7.20",
@@ -17317,7 +18136,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.20.t0",
+          "mn27:7.20.t1",
+          "mn27:7.20.t2",
+          "mn27:7.20.t3",
+          "mn27:7.20.t4",
+          "mn27:7.20.t5",
+          "mn27:7.20.t6",
+          "mn27:7.20.t7",
+          "mn27:7.20.t8",
+          "mn27:7.20.t9",
+          "mn27:7.20.t10",
+          "mn27:7.20.t11"
+        ],
+        "review_status": "approved",
+        "content": "尊者，正是由於我在沙門喬達摩身上見到這四個跡象，我才得出結論："
+      }
     },
     {
       "segment_id": "mn27:7.21",
@@ -17625,7 +18462,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:7.21.t0",
+          "mn27:7.21.t1",
+          "mn27:7.21.t2",
+          "mn27:7.21.t3",
+          "mn27:7.21.t4",
+          "mn27:7.21.t5",
+          "mn27:7.21.t6",
+          "mn27:7.21.t7",
+          "mn27:7.21.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，世尊所說之法已善說，世尊的聲聞僧伽善於修行道。』"
+      }
     },
     {
       "segment_id": "mn27:8.1",
@@ -18206,7 +19058,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:8.1.t0",
+          "mn27:8.1.t1",
+          "mn27:8.1.t2",
+          "mn27:8.1.t3",
+          "mn27:8.1.t4",
+          "mn27:8.1.t5",
+          "mn27:8.1.t6",
+          "mn27:8.1.t7",
+          "mn27:8.1.t8",
+          "mn27:8.1.t9",
+          "mn27:8.1.t10",
+          "mn27:8.1.t11",
+          "mn27:8.1.t12",
+          "mn27:8.1.t13",
+          "mn27:8.1.t14",
+          "mn27:8.1.t15",
+          "mn27:8.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，遮奴蘇尼婆羅門便從純白牝馬所駕的馬車上下來，整理上衣偏袒一肩，朝世尊所在的方向合掌，三次發出以下的感嘆語："
+      }
     },
     {
       "segment_id": "mn27:8.2",
@@ -18454,7 +19329,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:8.2.t0",
+          "mn27:8.2.t1",
+          "mn27:8.2.t2",
+          "mn27:8.2.t3",
+          "mn27:8.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "『禮敬世尊、阿羅漢、正等正覺者！"
+      }
     },
     {
       "segment_id": "mn27:8.3",
@@ -18702,7 +19588,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:8.3.t0",
+          "mn27:8.3.t1",
+          "mn27:8.3.t2",
+          "mn27:8.3.t3",
+          "mn27:8.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "禮敬世尊、阿羅漢、正等正覺者！"
+      }
     },
     {
       "segment_id": "mn27:8.4",
@@ -18945,7 +19842,18 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:8.4.t0",
+          "mn27:8.4.t1",
+          "mn27:8.4.t2",
+          "mn27:8.4.t3",
+          "mn27:8.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "禮敬世尊、阿羅漢、正等正覺者！"
+      }
     },
     {
       "segment_id": "mn27:8.5",
@@ -19382,7 +20290,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:8.5.t0",
+          "mn27:8.5.t1",
+          "mn27:8.5.t2",
+          "mn27:8.5.t3",
+          "mn27:8.5.t4",
+          "mn27:8.5.t5",
+          "mn27:8.5.t6",
+          "mn27:8.5.t7",
+          "mn27:8.5.t8",
+          "mn27:8.5.t9",
+          "mn27:8.5.t10",
+          "mn27:8.5.t11",
+          "mn27:8.5.t12",
+          "mn27:8.5.t13",
+          "mn27:8.5.t14",
+          "mn27:8.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "但願我們有朝一日能與喬達摩尊者相會，但願能有某種交談的機會。』"
+      }
     },
     {
       "segment_id": "mn27:9.1",
@@ -19712,7 +20642,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.1.t0",
+          "mn27:9.1.t1",
+          "mn27:9.1.t2",
+          "mn27:9.1.t3",
+          "mn27:9.1.t4",
+          "mn27:9.1.t5",
+          "mn27:9.1.t6",
+          "mn27:9.1.t7",
+          "mn27:9.1.t8",
+          "mn27:9.1.t9",
+          "mn27:9.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "於是，遮奴蘇尼婆羅門便前往世尊之處，到了之後，與世尊互相問候。"
+      }
     },
     {
       "segment_id": "mn27:9.2",
@@ -19911,7 +20858,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.2.t0",
+          "mn27:9.2.t1",
+          "mn27:9.2.t2",
+          "mn27:9.2.t3",
+          "mn27:9.2.t4",
+          "mn27:9.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "互道友好、寒暄問候之後，便坐在一旁。"
+      }
     },
     {
       "segment_id": "mn27:9.3",
@@ -20347,7 +21306,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.3.t0",
+          "mn27:9.3.t1",
+          "mn27:9.3.t2",
+          "mn27:9.3.t3",
+          "mn27:9.3.t4",
+          "mn27:9.3.t5",
+          "mn27:9.3.t6",
+          "mn27:9.3.t7",
+          "mn27:9.3.t8",
+          "mn27:9.3.t9",
+          "mn27:9.3.t10",
+          "mn27:9.3.t11",
+          "mn27:9.3.t12",
+          "mn27:9.3.t13",
+          "mn27:9.3.t14"
+        ],
+        "review_status": "approved",
+        "content": "坐在一旁後，遮奴蘇尼婆羅門便將他與皮羅提卡遊行者之間所有的對話內容，全部稟告世尊。"
+      }
     },
     {
       "segment_id": "mn27:9.4",
@@ -20554,7 +21534,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.4.t0",
+          "mn27:9.4.t1",
+          "mn27:9.4.t2",
+          "mn27:9.4.t3",
+          "mn27:9.4.t4",
+          "mn27:9.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，世尊對遮奴蘇尼婆羅門說道："
+      }
     },
     {
       "segment_id": "mn27:9.5",
@@ -20746,7 +21738,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.5.t0",
+          "mn27:9.5.t1",
+          "mn27:9.5.t2",
+          "mn27:9.5.t3",
+          "mn27:9.5.t4",
+          "mn27:9.5.t5",
+          "mn27:9.5.t6",
+          "mn27:9.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "『婆羅門，光是這樣，象跡喻還不算詳盡圓滿。"
+      }
     },
     {
       "segment_id": "mn27:9.6",
@@ -20920,7 +21926,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.6.t0",
+          "mn27:9.6.t1",
+          "mn27:9.6.t2",
+          "mn27:9.6.t3",
+          "mn27:9.6.t4",
+          "mn27:9.6.t5",
+          "mn27:9.6.t6",
+          "mn27:9.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "不過，婆羅門，讓我告訴你象跡喻如何才算詳盡圓滿。"
+      }
     },
     {
       "segment_id": "mn27:9.7",
@@ -21120,7 +22140,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.7.t0",
+          "mn27:9.7.t1",
+          "mn27:9.7.t2",
+          "mn27:9.7.t3",
+          "mn27:9.7.t4",
+          "mn27:9.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "你要仔細聽、好好思惟，我來為你說。』"
+      }
     },
     {
       "segment_id": "mn27:9.8",
@@ -21350,7 +22382,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.8.t0",
+          "mn27:9.8.t1",
+          "mn27:9.8.t2",
+          "mn27:9.8.t3",
+          "mn27:9.8.t4",
+          "mn27:9.8.t5",
+          "mn27:9.8.t6",
+          "mn27:9.8.t7"
+        ],
+        "review_status": "approved",
+        "content": "「是的，尊者。」遮奴蘇尼婆羅門如此回答世尊。"
+      }
     },
     {
       "segment_id": "mn27:9.9",
@@ -21432,7 +22478,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:9.9.t0",
+          "mn27:9.9.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊如此說道："
+      }
     },
     {
       "segment_id": "mn27:10.1",
@@ -21538,7 +22592,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.1.t0",
+          "mn27:10.1.t1",
+          "mn27:10.1.t2",
+          "mn27:10.1.t3",
+          "mn27:10.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，譬如象跡追蹤者進入象林，"
+      }
     },
     {
       "segment_id": "mn27:10.2",
@@ -21924,7 +22989,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.2.t0",
+          "mn27:10.2.t1",
+          "mn27:10.2.t2",
+          "mn27:10.2.t3",
+          "mn27:10.2.t4",
+          "mn27:10.2.t5",
+          "mn27:10.2.t6",
+          "mn27:10.2.t7",
+          "mn27:10.2.t8",
+          "mn27:10.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "他會在象林中看見一個大象足跡，長度長、寬度也寬廣，"
+      }
     },
     {
       "segment_id": "mn27:10.3",
@@ -22112,7 +23193,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.3.t0",
+          "mn27:10.3.t1",
+          "mn27:10.3.t2",
+          "mn27:10.3.t3",
+          "mn27:10.3.t4",
+          "mn27:10.3.t5",
+          "mn27:10.3.t6",
+          "mn27:10.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "凡是善巧的象跡追蹤者，還不會就此下結論："
+      }
     },
     {
       "segment_id": "mn27:10.4",
@@ -22287,7 +23382,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.4.t0",
+          "mn27:10.4.t1",
+          "mn27:10.4.t2",
+          "mn27:10.4.t3",
+          "mn27:10.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "「這真是一頭大象啊！」"
+      }
     },
     {
       "segment_id": "mn27:10.5",
@@ -22503,7 +23609,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.5.t0",
+          "mn27:10.5.t1",
+          "mn27:10.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "這是什麼緣故呢？"
+      }
     },
     {
       "segment_id": "mn27:10.6",
@@ -23029,7 +24144,25 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.6.t0",
+          "mn27:10.6.t1",
+          "mn27:10.6.t2",
+          "mn27:10.6.t3",
+          "mn27:10.6.t4",
+          "mn27:10.6.t5",
+          "mn27:10.6.t6",
+          "mn27:10.6.t7",
+          "mn27:10.6.t8",
+          "mn27:10.6.t9",
+          "mn27:10.6.t10",
+          "mn27:10.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，因為象林中有一種名叫「矮象」的母象，牠們也有大足跡，這足跡可能就是牠們的。"
+      }
     },
     {
       "segment_id": "mn27:10.7",
@@ -23093,7 +24226,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.7.t0",
+          "mn27:10.7.t1"
+        ],
+        "review_status": "approved",
+        "content": "他便跟隨這足跡追蹤下去。"
+      }
     },
     {
       "segment_id": "mn27:10.8",
@@ -23615,7 +24756,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.8.t0",
+          "mn27:10.8.t1",
+          "mn27:10.8.t2",
+          "mn27:10.8.t3",
+          "mn27:10.8.t4",
+          "mn27:10.8.t5",
+          "mn27:10.8.t6",
+          "mn27:10.8.t7",
+          "mn27:10.8.t8",
+          "mn27:10.8.t9",
+          "mn27:10.8.t10",
+          "mn27:10.8.t11",
+          "mn27:10.8.t12"
+        ],
+        "review_status": "approved",
+        "content": "跟隨追蹤時，他在象林中看見一個大足跡，長度長、寬度也寬廣，並且有高處留下的摩擦痕跡，"
+      }
     },
     {
       "segment_id": "mn27:10.9",
@@ -23803,7 +24963,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.9.t0",
+          "mn27:10.9.t1",
+          "mn27:10.9.t2",
+          "mn27:10.9.t3",
+          "mn27:10.9.t4",
+          "mn27:10.9.t5",
+          "mn27:10.9.t6",
+          "mn27:10.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "凡是善巧的象跡追蹤者，還不會就此下結論："
+      }
     },
     {
       "segment_id": "mn27:10.10",
@@ -23978,7 +25152,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.10.t0",
+          "mn27:10.10.t1",
+          "mn27:10.10.t2",
+          "mn27:10.10.t3",
+          "mn27:10.10.t4"
+        ],
+        "review_status": "approved",
+        "content": "「這真是一頭大象啊！」"
+      }
     },
     {
       "segment_id": "mn27:10.11",
@@ -24194,7 +25379,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.11.t0",
+          "mn27:10.11.t1",
+          "mn27:10.11.t2"
+        ],
+        "review_status": "approved",
+        "content": "這是什麼緣故呢？"
+      }
     },
     {
       "segment_id": "mn27:10.12",
@@ -24799,7 +25993,26 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.12.t0",
+          "mn27:10.12.t1",
+          "mn27:10.12.t2",
+          "mn27:10.12.t3",
+          "mn27:10.12.t4",
+          "mn27:10.12.t5",
+          "mn27:10.12.t6",
+          "mn27:10.12.t7",
+          "mn27:10.12.t8",
+          "mn27:10.12.t9",
+          "mn27:10.12.t10",
+          "mn27:10.12.t11",
+          "mn27:10.12.t12"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，因為象林中有一種名叫「卡拉利卡」、牙齒間隙外露的高大母象，牠們也有大足跡，這足跡可能就是牠們的。"
+      }
     },
     {
       "segment_id": "mn27:10.13",
@@ -24863,7 +26076,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.13.t0",
+          "mn27:10.13.t1"
+        ],
+        "review_status": "approved",
+        "content": "他便跟隨這足跡追蹤下去。"
+      }
     },
     {
       "segment_id": "mn27:10.14",
@@ -25601,7 +26822,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.14.t0",
+          "mn27:10.14.t1",
+          "mn27:10.14.t2",
+          "mn27:10.14.t3",
+          "mn27:10.14.t4",
+          "mn27:10.14.t5",
+          "mn27:10.14.t6",
+          "mn27:10.14.t7",
+          "mn27:10.14.t8",
+          "mn27:10.14.t9",
+          "mn27:10.14.t10",
+          "mn27:10.14.t11",
+          "mn27:10.14.t12",
+          "mn27:10.14.t13",
+          "mn27:10.14.t14",
+          "mn27:10.14.t15",
+          "mn27:10.14.t16"
+        ],
+        "review_status": "approved",
+        "content": "跟隨追蹤時，他在象林中看見一個大足跡，長度長、寬度也寬廣，有高處留下的摩擦痕跡，也有高處被象牙刮劃過的痕跡，"
+      }
     },
     {
       "segment_id": "mn27:10.15",
@@ -25789,7 +27033,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.15.t0",
+          "mn27:10.15.t1",
+          "mn27:10.15.t2",
+          "mn27:10.15.t3",
+          "mn27:10.15.t4",
+          "mn27:10.15.t5",
+          "mn27:10.15.t6",
+          "mn27:10.15.t7"
+        ],
+        "review_status": "approved",
+        "content": "凡是善巧的象跡追蹤者，還不會就此下結論："
+      }
     },
     {
       "segment_id": "mn27:10.16",
@@ -25964,7 +27222,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.16.t0",
+          "mn27:10.16.t1",
+          "mn27:10.16.t2",
+          "mn27:10.16.t3",
+          "mn27:10.16.t4"
+        ],
+        "review_status": "approved",
+        "content": "「這真是一頭大象啊！」"
+      }
     },
     {
       "segment_id": "mn27:10.17",
@@ -26180,7 +27449,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.17.t0",
+          "mn27:10.17.t1",
+          "mn27:10.17.t2"
+        ],
+        "review_status": "approved",
+        "content": "這是什麼緣故呢？"
+      }
     },
     {
       "segment_id": "mn27:10.18",
@@ -26785,7 +28063,26 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.18.t0",
+          "mn27:10.18.t1",
+          "mn27:10.18.t2",
+          "mn27:10.18.t3",
+          "mn27:10.18.t4",
+          "mn27:10.18.t5",
+          "mn27:10.18.t6",
+          "mn27:10.18.t7",
+          "mn27:10.18.t8",
+          "mn27:10.18.t9",
+          "mn27:10.18.t10",
+          "mn27:10.18.t11",
+          "mn27:10.18.t12"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，因為象林中有一種名叫「卡涅魯卡」、有尖牙的高大母象，牠們也有大足跡，這足跡可能就是牠們的。"
+      }
     },
     {
       "segment_id": "mn27:10.19",
@@ -26849,7 +28146,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.19.t0",
+          "mn27:10.19.t1"
+        ],
+        "review_status": "approved",
+        "content": "他便跟隨這足跡追蹤下去。"
+      }
     },
     {
       "segment_id": "mn27:10.20",
@@ -27687,7 +28992,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.20.t0",
+          "mn27:10.20.t1",
+          "mn27:10.20.t2",
+          "mn27:10.20.t3",
+          "mn27:10.20.t4",
+          "mn27:10.20.t5",
+          "mn27:10.20.t6",
+          "mn27:10.20.t7",
+          "mn27:10.20.t8",
+          "mn27:10.20.t9",
+          "mn27:10.20.t10",
+          "mn27:10.20.t11",
+          "mn27:10.20.t12",
+          "mn27:10.20.t13",
+          "mn27:10.20.t14",
+          "mn27:10.20.t15",
+          "mn27:10.20.t16",
+          "mn27:10.20.t17",
+          "mn27:10.20.t18",
+          "mn27:10.20.t19"
+        ],
+        "review_status": "approved",
+        "content": "跟隨追蹤時，他在象林中看見一個大足跡，長度長、寬度也寬廣，有高處留下的摩擦痕跡，有高處被象牙刮劃過的痕跡，也有高處折斷的樹枝，"
+      }
     },
     {
       "segment_id": "mn27:10.21",
@@ -28368,7 +29699,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.21.t0",
+          "mn27:10.21.t1",
+          "mn27:10.21.t2",
+          "mn27:10.21.t3",
+          "mn27:10.21.t4",
+          "mn27:10.21.t5",
+          "mn27:10.21.t6",
+          "mn27:10.21.t7",
+          "mn27:10.21.t8",
+          "mn27:10.21.t9",
+          "mn27:10.21.t10",
+          "mn27:10.21.t11",
+          "mn27:10.21.t12",
+          "mn27:10.21.t13",
+          "mn27:10.21.t14"
+        ],
+        "review_status": "approved",
+        "content": "並且看見那頭大象本身，或在樹下，或在空地上，或行走、或站立、或坐著、或躺臥，"
+      }
     },
     {
       "segment_id": "mn27:10.22",
@@ -28447,7 +29799,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.22.t0",
+          "mn27:10.22.t1",
+          "mn27:10.22.t2"
+        ],
+        "review_status": "approved",
+        "content": "他便下結論："
+      }
     },
     {
       "segment_id": "mn27:10.23",
@@ -28611,7 +29972,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:10.23.t0",
+          "mn27:10.23.t1",
+          "mn27:10.23.t2",
+          "mn27:10.23.t3"
+        ],
+        "review_status": "approved",
+        "content": "「這就是那頭大象。」"
+      }
     },
     {
       "segment_id": "mn27:11.1",
@@ -29136,7 +30507,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:11.1.t0",
+          "mn27:11.1.t1",
+          "mn27:11.1.t2",
+          "mn27:11.1.t3",
+          "mn27:11.1.t4",
+          "mn27:11.1.t5",
+          "mn27:11.1.t6",
+          "mn27:11.1.t7",
+          "mn27:11.1.t8",
+          "mn27:11.1.t9",
+          "mn27:11.1.t10",
+          "mn27:11.1.t11",
+          "mn27:11.1.t12",
+          "mn27:11.1.t13",
+          "mn27:11.1.t14",
+          "mn27:11.1.t15",
+          "mn27:11.1.t16",
+          "mn27:11.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，同樣地，如來出現於世間，是阿羅漢、正等正覺者、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。"
+      }
     },
     {
       "segment_id": "mn27:11.2",
@@ -29615,7 +31010,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:11.2.t0",
+          "mn27:11.2.t1",
+          "mn27:11.2.t2",
+          "mn27:11.2.t3",
+          "mn27:11.2.t4",
+          "mn27:11.2.t5",
+          "mn27:11.2.t6",
+          "mn27:11.2.t7",
+          "mn27:11.2.t8",
+          "mn27:11.2.t9",
+          "mn27:11.2.t10",
+          "mn27:11.2.t11",
+          "mn27:11.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "他以自己的證智，親自體證這個世間——含天、含魔、含梵天，以及沙門婆羅門、天與人在內的眾生——而後加以宣說。"
+      }
     },
     {
       "segment_id": "mn27:11.3",
@@ -30135,7 +31549,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:11.3.t0",
+          "mn27:11.3.t1",
+          "mn27:11.3.t2",
+          "mn27:11.3.t3",
+          "mn27:11.3.t4",
+          "mn27:11.3.t5",
+          "mn27:11.3.t6",
+          "mn27:11.3.t7",
+          "mn27:11.3.t8",
+          "mn27:11.3.t9",
+          "mn27:11.3.t10",
+          "mn27:11.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "他教導法，初善、中善、後善，具義具文，開示圓滿清淨的梵行。"
+      }
     },
     {
       "segment_id": "mn27:12.1",
@@ -30602,7 +32034,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.1.t0",
+          "mn27:12.1.t1",
+          "mn27:12.1.t2",
+          "mn27:12.1.t3",
+          "mn27:12.1.t4",
+          "mn27:12.1.t5",
+          "mn27:12.1.t6",
+          "mn27:12.1.t7",
+          "mn27:12.1.t8",
+          "mn27:12.1.t9",
+          "mn27:12.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "居士，或居士之子，或出生於其他某個家庭的人，聽聞這個法。"
+      }
     },
     {
       "segment_id": "mn27:12.2",
@@ -30916,7 +32365,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.2.t0",
+          "mn27:12.2.t1",
+          "mn27:12.2.t2",
+          "mn27:12.2.t3",
+          "mn27:12.2.t4",
+          "mn27:12.2.t5",
+          "mn27:12.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "他聽聞這個法之後，對如來獲得信心。"
+      }
     },
     {
       "segment_id": "mn27:12.3",
@@ -31059,7 +32521,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.3.t0",
+          "mn27:12.3.t1",
+          "mn27:12.3.t2",
+          "mn27:12.3.t3",
+          "mn27:12.3.t4",
+          "mn27:12.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "他具足這樣獲得的信心之後，如此思惟："
+      }
     },
     {
       "segment_id": "mn27:12.4",
@@ -31187,7 +32661,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.4.t0",
+          "mn27:12.4.t1",
+          "mn27:12.4.t2",
+          "mn27:12.4.t3",
+          "mn27:12.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "「居家生活擁擠雜沓，如塵勞之道；出家生活則廣闊開放。"
+      }
     },
     {
       "segment_id": "mn27:12.5",
@@ -31575,7 +33060,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.5.t0",
+          "mn27:12.5.t1",
+          "mn27:12.5.t2",
+          "mn27:12.5.t3",
+          "mn27:12.5.t4",
+          "mn27:12.5.t5",
+          "mn27:12.5.t6",
+          "mn27:12.5.t7",
+          "mn27:12.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "住在家中，要修習完全圓滿、完全清淨、如磨亮貝殼般的梵行，並不容易。"
+      }
     },
     {
       "segment_id": "mn27:12.6",
@@ -31904,7 +33404,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.6.t0",
+          "mn27:12.6.t1",
+          "mn27:12.6.t2",
+          "mn27:12.6.t3",
+          "mn27:12.6.t4",
+          "mn27:12.6.t5",
+          "mn27:12.6.t6",
+          "mn27:12.6.t7",
+          "mn27:12.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "我何不剃除鬚髮，披上袈裟衣，從家出家，過無家的生活呢？」"
+      }
     },
     {
       "segment_id": "mn27:12.7",
@@ -32882,7 +34397,40 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:12.7.t0",
+          "mn27:12.7.t1",
+          "mn27:12.7.t2",
+          "mn27:12.7.t3",
+          "mn27:12.7.t4",
+          "mn27:12.7.t5",
+          "mn27:12.7.t6",
+          "mn27:12.7.t7",
+          "mn27:12.7.t8",
+          "mn27:12.7.t9",
+          "mn27:12.7.t10",
+          "mn27:12.7.t11",
+          "mn27:12.7.t12",
+          "mn27:12.7.t13",
+          "mn27:12.7.t14",
+          "mn27:12.7.t15",
+          "mn27:12.7.t16",
+          "mn27:12.7.t17",
+          "mn27:12.7.t18",
+          "mn27:12.7.t19",
+          "mn27:12.7.t20",
+          "mn27:12.7.t21",
+          "mn27:12.7.t22",
+          "mn27:12.7.t23",
+          "mn27:12.7.t24",
+          "mn27:12.7.t25",
+          "mn27:12.7.t26"
+        ],
+        "review_status": "approved",
+        "content": "後來，他捨棄或大或小的財富，捨棄或大或小的親族，剃除鬚髮，披上袈裟衣，從家出家，過無家的生活。"
+      }
     },
     {
       "segment_id": "mn27:13.1",
@@ -33358,7 +34906,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.1.t0",
+          "mn27:13.1.t1",
+          "mn27:13.1.t2",
+          "mn27:13.1.t3",
+          "mn27:13.1.t4",
+          "mn27:13.1.t5",
+          "mn27:13.1.t6",
+          "mn27:13.1.t7",
+          "mn27:13.1.t8",
+          "mn27:13.1.t9",
+          "mn27:13.1.t10",
+          "mn27:13.1.t11",
+          "mn27:13.1.t12",
+          "mn27:13.1.t13",
+          "mn27:13.1.t14",
+          "mn27:13.1.t15",
+          "mn27:13.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家之後，受持比丘的學處與生活規範，捨離殺生，遠離殺生，放下刀杖，有慚愧心，具悲愍心，憐愍一切眾生的福祉而住。"
+      }
     },
     {
       "segment_id": "mn27:13.2",
@@ -33725,7 +35296,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.2.t0",
+          "mn27:13.2.t1",
+          "mn27:13.2.t2",
+          "mn27:13.2.t3",
+          "mn27:13.2.t4",
+          "mn27:13.2.t5",
+          "mn27:13.2.t6",
+          "mn27:13.2.t7",
+          "mn27:13.2.t8",
+          "mn27:13.2.t9",
+          "mn27:13.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄偷盜，遠離偷盜，只取他人施與之物、只盼望他人施與之物，以不偷盜、清淨的自身安住。"
+      }
     },
     {
       "segment_id": "mn27:13.3",
@@ -34082,7 +35670,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.3.t0",
+          "mn27:13.3.t1",
+          "mn27:13.3.t2",
+          "mn27:13.3.t3",
+          "mn27:13.3.t4",
+          "mn27:13.3.t5",
+          "mn27:13.3.t6",
+          "mn27:13.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄非梵行，成為梵行者，遠離淫欲，離於淫欲這種凡俗之法。"
+      }
     },
     {
       "segment_id": "mn27:13.4",
@@ -34365,7 +35967,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.4.t0",
+          "mn27:13.4.t1",
+          "mn27:13.4.t2",
+          "mn27:13.4.t3",
+          "mn27:13.4.t4",
+          "mn27:13.4.t5",
+          "mn27:13.4.t6",
+          "mn27:13.4.t7",
+          "mn27:13.4.t8",
+          "mn27:13.4.t9",
+          "mn27:13.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄妄語，遠離妄語，說真實語、堅持真實，可信賴、可依靠，不欺誑世間。"
+      }
     },
     {
       "segment_id": "mn27:13.5",
@@ -35807,7 +37426,49 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.5.t0",
+          "mn27:13.5.t1",
+          "mn27:13.5.t2",
+          "mn27:13.5.t3",
+          "mn27:13.5.t4",
+          "mn27:13.5.t5",
+          "mn27:13.5.t6",
+          "mn27:13.5.t7",
+          "mn27:13.5.t8",
+          "mn27:13.5.t9",
+          "mn27:13.5.t10",
+          "mn27:13.5.t11",
+          "mn27:13.5.t12",
+          "mn27:13.5.t13",
+          "mn27:13.5.t14",
+          "mn27:13.5.t15",
+          "mn27:13.5.t16",
+          "mn27:13.5.t17",
+          "mn27:13.5.t18",
+          "mn27:13.5.t19",
+          "mn27:13.5.t20",
+          "mn27:13.5.t21",
+          "mn27:13.5.t22",
+          "mn27:13.5.t23",
+          "mn27:13.5.t24",
+          "mn27:13.5.t25",
+          "mn27:13.5.t26",
+          "mn27:13.5.t27",
+          "mn27:13.5.t28",
+          "mn27:13.5.t29",
+          "mn27:13.5.t30",
+          "mn27:13.5.t31",
+          "mn27:13.5.t32",
+          "mn27:13.5.t33",
+          "mn27:13.5.t34",
+          "mn27:13.5.t35"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄離間語，遠離離間語：不會聽了這裡的話而到別處去說，以離間這些人；也不會聽了別處的話而到這裡來說，以離間那些人。如此，他是分裂者的和解者，和睦者的成就者，樂於和合、喜好和合、欣悅於和合，說能促成和合的話。"
+      }
     },
     {
       "segment_id": "mn27:13.6",
@@ -36955,7 +38616,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.6.t0",
+          "mn27:13.6.t1",
+          "mn27:13.6.t2",
+          "mn27:13.6.t3",
+          "mn27:13.6.t4",
+          "mn27:13.6.t5",
+          "mn27:13.6.t6",
+          "mn27:13.6.t7",
+          "mn27:13.6.t8",
+          "mn27:13.6.t9",
+          "mn27:13.6.t10",
+          "mn27:13.6.t11",
+          "mn27:13.6.t12",
+          "mn27:13.6.t13",
+          "mn27:13.6.t14",
+          "mn27:13.6.t15",
+          "mn27:13.6.t16",
+          "mn27:13.6.t17",
+          "mn27:13.6.t18",
+          "mn27:13.6.t19",
+          "mn27:13.6.t20"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄粗惡語，遠離粗惡語：所說的話柔和、悅耳、可愛、動人心弦、文雅、為眾人所喜愛、為眾人所悅意，他說這樣的話。"
+      }
     },
     {
       "segment_id": "mn27:13.7",
@@ -37686,7 +39374,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.7.t0",
+          "mn27:13.7.t1",
+          "mn27:13.7.t2",
+          "mn27:13.7.t3",
+          "mn27:13.7.t4",
+          "mn27:13.7.t5",
+          "mn27:13.7.t6",
+          "mn27:13.7.t7",
+          "mn27:13.7.t8",
+          "mn27:13.7.t9",
+          "mn27:13.7.t10",
+          "mn27:13.7.t11",
+          "mn27:13.7.t12",
+          "mn27:13.7.t13",
+          "mn27:13.7.t14",
+          "mn27:13.7.t15",
+          "mn27:13.7.t16"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄雜穢語，遠離雜穢語：適時而說、如實而說、有意義而說、如法而說、如律而說，說有內涵、契合時機、有條理、有分寸、有意義的話。"
+      }
     },
     {
       "segment_id": "mn27:13.8",
@@ -37817,7 +39528,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.8.t0",
+          "mn27:13.8.t1",
+          "mn27:13.8.t2",
+          "mn27:13.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "他遠離損害種子與草木。"
+      }
     },
     {
       "segment_id": "mn27:13.9",
@@ -37935,7 +39656,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.9.t0",
+          "mn27:13.9.t1",
+          "mn27:13.9.t2",
+          "mn27:13.9.t3",
+          "mn27:13.9.t4"
+        ],
+        "review_status": "approved",
+        "content": "他一日一食，不食夜食，遠離非時食。"
+      }
     },
     {
       "segment_id": "mn27:13.10",
@@ -38023,7 +39755,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.10.t0",
+          "mn27:13.10.t1",
+          "mn27:13.10.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離觀看歌舞、音樂、戲劇表演。"
+      }
     },
     {
       "segment_id": "mn27:13.11",
@@ -38111,7 +39852,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.11.t0",
+          "mn27:13.11.t1",
+          "mn27:13.11.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離妝飾：佩戴花鬘、塗香、脂粉。"
+      }
     },
     {
       "segment_id": "mn27:13.12",
@@ -38199,7 +39949,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.12.t0",
+          "mn27:13.12.t1",
+          "mn27:13.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離高床大床。"
+      }
     },
     {
       "segment_id": "mn27:13.13",
@@ -38287,7 +40046,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.13.t0",
+          "mn27:13.13.t1",
+          "mn27:13.13.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受金銀。"
+      }
     },
     {
       "segment_id": "mn27:13.14",
@@ -38375,7 +40143,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.14.t0",
+          "mn27:13.14.t1",
+          "mn27:13.14.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受生穀。"
+      }
     },
     {
       "segment_id": "mn27:13.15",
@@ -38463,7 +40240,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.15.t0",
+          "mn27:13.15.t1",
+          "mn27:13.15.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受生肉。"
+      }
     },
     {
       "segment_id": "mn27:13.16",
@@ -38551,7 +40337,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.16.t0",
+          "mn27:13.16.t1",
+          "mn27:13.16.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受婦女少女。"
+      }
     },
     {
       "segment_id": "mn27:13.17",
@@ -38639,7 +40434,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.17.t0",
+          "mn27:13.17.t1",
+          "mn27:13.17.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受婢僕。"
+      }
     },
     {
       "segment_id": "mn27:13.18",
@@ -38727,7 +40531,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.18.t0",
+          "mn27:13.18.t1",
+          "mn27:13.18.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受羊隻。"
+      }
     },
     {
       "segment_id": "mn27:13.19",
@@ -38815,7 +40628,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.19.t0",
+          "mn27:13.19.t1",
+          "mn27:13.19.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受雞豬。"
+      }
     },
     {
       "segment_id": "mn27:13.20",
@@ -38903,7 +40725,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.20.t0",
+          "mn27:13.20.t1",
+          "mn27:13.20.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受象、牛、馬、騾。"
+      }
     },
     {
       "segment_id": "mn27:13.21",
@@ -38991,7 +40822,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.21.t0",
+          "mn27:13.21.t1",
+          "mn27:13.21.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離接受田地房產。"
+      }
     },
     {
       "segment_id": "mn27:13.22",
@@ -39079,7 +40919,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.22.t0",
+          "mn27:13.22.t1",
+          "mn27:13.22.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離從事使者、信差之類的差事。"
+      }
     },
     {
       "segment_id": "mn27:13.23",
@@ -39167,7 +41016,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.23.t0",
+          "mn27:13.23.t1",
+          "mn27:13.23.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離買賣交易。"
+      }
     },
     {
       "segment_id": "mn27:13.24",
@@ -39255,7 +41113,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.24.t0",
+          "mn27:13.24.t1",
+          "mn27:13.24.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離秤斗、成色、量器上的欺詐。"
+      }
     },
     {
       "segment_id": "mn27:13.25",
@@ -39343,7 +41210,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.25.t0",
+          "mn27:13.25.t1",
+          "mn27:13.25.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離賄賂、欺騙、詐欺、矯詐等不正當的手段。"
+      }
     },
     {
       "segment_id": "mn27:13.26",
@@ -39431,7 +41307,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:13.26.t0",
+          "mn27:13.26.t1",
+          "mn27:13.26.t2"
+        ],
+        "review_status": "approved",
+        "content": "他遠離砍殺、傷害、捆綁、埋伏搶劫、掠奪、強奪等暴力行為。"
+      }
     },
     {
       "segment_id": "mn27:14.1",
@@ -39821,7 +41706,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:14.1.t0",
+          "mn27:14.1.t1",
+          "mn27:14.1.t2",
+          "mn27:14.1.t3",
+          "mn27:14.1.t4",
+          "mn27:14.1.t5",
+          "mn27:14.1.t6",
+          "mn27:14.1.t7",
+          "mn27:14.1.t8",
+          "mn27:14.1.t9",
+          "mn27:14.1.t10",
+          "mn27:14.1.t11",
+          "mn27:14.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "他知足於護身之衣、養腹之食，無論去到哪裡，都只隨身攜帶這些而去。"
+      }
     },
     {
       "segment_id": "mn27:14.2",
@@ -40130,7 +42034,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:14.2.t0",
+          "mn27:14.2.t1",
+          "mn27:14.2.t2",
+          "mn27:14.2.t3",
+          "mn27:14.2.t4",
+          "mn27:14.2.t5",
+          "mn27:14.2.t6",
+          "mn27:14.2.t7",
+          "mn27:14.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "猶如有翼之鳥，無論飛向何處，都只帶著自己的雙翼而飛。"
+      }
     },
     {
       "segment_id": "mn27:14.3",
@@ -40532,7 +42451,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:14.3.t0",
+          "mn27:14.3.t1",
+          "mn27:14.3.t2",
+          "mn27:14.3.t3",
+          "mn27:14.3.t4",
+          "mn27:14.3.t5",
+          "mn27:14.3.t6",
+          "mn27:14.3.t7",
+          "mn27:14.3.t8",
+          "mn27:14.3.t9",
+          "mn27:14.3.t10",
+          "mn27:14.3.t11",
+          "mn27:14.3.t12",
+          "mn27:14.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，比丘知足於護身之衣、養腹之食，無論去到哪裡，都只隨身攜帶這些而去。"
+      }
     },
     {
       "segment_id": "mn27:14.4",
@@ -40762,7 +42701,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:14.4.t0",
+          "mn27:14.4.t1",
+          "mn27:14.4.t2",
+          "mn27:14.4.t3",
+          "mn27:14.4.t4",
+          "mn27:14.4.t5",
+          "mn27:14.4.t6",
+          "mn27:14.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "他具足此聖者的戒蘊，內心體驗到無過失之樂。"
+      }
     },
     {
       "segment_id": "mn27:15.1",
@@ -41091,7 +43044,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.1.t0",
+          "mn27:15.1.t1",
+          "mn27:15.1.t2",
+          "mn27:15.1.t3",
+          "mn27:15.1.t4",
+          "mn27:15.1.t5",
+          "mn27:15.1.t6",
+          "mn27:15.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "他以眼見色時，不執取相，也不執取細節。"
+      }
     },
     {
       "segment_id": "mn27:15.2",
@@ -41711,7 +43678,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.2.t0",
+          "mn27:15.2.t1",
+          "mn27:15.2.t2",
+          "mn27:15.2.t3",
+          "mn27:15.2.t4",
+          "mn27:15.2.t5",
+          "mn27:15.2.t6",
+          "mn27:15.2.t7",
+          "mn27:15.2.t8",
+          "mn27:15.2.t9",
+          "mn27:15.2.t10",
+          "mn27:15.2.t11",
+          "mn27:15.2.t12",
+          "mn27:15.2.t13",
+          "mn27:15.2.t14",
+          "mn27:15.2.t15",
+          "mn27:15.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "因為若放縱眼根而不加防護而住，將使貪欲、憂惱等惡不善法流入，因此他依循防護之道而行，守護眼根，於眼根修習防護。"
+      }
     },
     {
       "segment_id": "mn27:15.3",
@@ -41870,7 +43860,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.3.t0",
+          "mn27:15.3.t1",
+          "mn27:15.3.t2",
+          "mn27:15.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "以耳聞聲時……"
+      }
     },
     {
       "segment_id": "mn27:15.4",
@@ -41949,7 +43949,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.4.t0",
+          "mn27:15.4.t1",
+          "mn27:15.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "以鼻嗅香時，"
+      }
     },
     {
       "segment_id": "mn27:15.5",
@@ -42092,7 +44101,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.5.t0",
+          "mn27:15.5.t1",
+          "mn27:15.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "以舌嚐味時，"
+      }
     },
     {
       "segment_id": "mn27:15.6",
@@ -42217,7 +44235,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.6.t0",
+          "mn27:15.6.t1",
+          "mn27:15.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "以身觸所觸時，"
+      }
     },
     {
       "segment_id": "mn27:15.7",
@@ -42558,7 +44585,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.7.t0",
+          "mn27:15.7.t1",
+          "mn27:15.7.t2",
+          "mn27:15.7.t3",
+          "mn27:15.7.t4",
+          "mn27:15.7.t5",
+          "mn27:15.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "以意識法時，不執取相，也不執取細節。"
+      }
     },
     {
       "segment_id": "mn27:15.8",
@@ -43178,7 +45218,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.8.t0",
+          "mn27:15.8.t1",
+          "mn27:15.8.t2",
+          "mn27:15.8.t3",
+          "mn27:15.8.t4",
+          "mn27:15.8.t5",
+          "mn27:15.8.t6",
+          "mn27:15.8.t7",
+          "mn27:15.8.t8",
+          "mn27:15.8.t9",
+          "mn27:15.8.t10",
+          "mn27:15.8.t11",
+          "mn27:15.8.t12",
+          "mn27:15.8.t13",
+          "mn27:15.8.t14",
+          "mn27:15.8.t15",
+          "mn27:15.8.t16"
+        ],
+        "review_status": "approved",
+        "content": "因為意根若不受防護而住，將導致貪欲、憂惱等惡不善法流入，所以他修習防護，守護意根，於意根成就防護。"
+      }
     },
     {
       "segment_id": "mn27:15.9",
@@ -43408,7 +45471,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:15.9.t0",
+          "mn27:15.9.t1",
+          "mn27:15.9.t2",
+          "mn27:15.9.t3",
+          "mn27:15.9.t4",
+          "mn27:15.9.t5",
+          "mn27:15.9.t6",
+          "mn27:15.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "他具足此聖者的根律儀，內心感受到不雜染之樂。"
+      }
     },
     {
       "segment_id": "mn27:16.1",
@@ -45112,7 +47189,47 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:16.1.t0",
+          "mn27:16.1.t1",
+          "mn27:16.1.t2",
+          "mn27:16.1.t3",
+          "mn27:16.1.t4",
+          "mn27:16.1.t5",
+          "mn27:16.1.t6",
+          "mn27:16.1.t7",
+          "mn27:16.1.t8",
+          "mn27:16.1.t9",
+          "mn27:16.1.t10",
+          "mn27:16.1.t11",
+          "mn27:16.1.t12",
+          "mn27:16.1.t13",
+          "mn27:16.1.t14",
+          "mn27:16.1.t15",
+          "mn27:16.1.t16",
+          "mn27:16.1.t17",
+          "mn27:16.1.t18",
+          "mn27:16.1.t19",
+          "mn27:16.1.t20",
+          "mn27:16.1.t21",
+          "mn27:16.1.t22",
+          "mn27:16.1.t23",
+          "mn27:16.1.t24",
+          "mn27:16.1.t25",
+          "mn27:16.1.t26",
+          "mn27:16.1.t27",
+          "mn27:16.1.t28",
+          "mn27:16.1.t29",
+          "mn27:16.1.t30",
+          "mn27:16.1.t31",
+          "mn27:16.1.t32",
+          "mn27:16.1.t33"
+        ],
+        "review_status": "approved",
+        "content": "他在前進、返回時保持正知；在直視、環視時保持正知；在屈、伸肢體時保持正知；在披著大衣、持缽及衣時保持正知；在飲食、咀嚼、嘗味時保持正知；在大小便時保持正知；在行、住、坐、臥、醒、語、默時，皆保持正知。"
+      }
     },
     {
       "segment_id": "mn27:17.1",
@@ -45668,7 +47785,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:17.1.t0",
+          "mn27:17.1.t1",
+          "mn27:17.1.t2",
+          "mn27:17.1.t3",
+          "mn27:17.1.t4",
+          "mn27:17.1.t5",
+          "mn27:17.1.t6",
+          "mn27:17.1.t7",
+          "mn27:17.1.t8",
+          "mn27:17.1.t9",
+          "mn27:17.1.t10",
+          "mn27:17.1.t11",
+          "mn27:17.1.t12",
+          "mn27:17.1.t13",
+          "mn27:17.1.t14",
+          "mn27:17.1.t15",
+          "mn27:17.1.t16",
+          "mn27:17.1.t17",
+          "mn27:17.1.t18",
+          "mn27:17.1.t19",
+          "mn27:17.1.t20"
+        ],
+        "review_status": "approved",
+        "content": "他具足此聖者的戒蘊，具足此聖者的知足，具足此聖者的根律儀，具足此聖者的正念正知，"
+      }
     },
     {
       "segment_id": "mn27:17.2",
@@ -46078,7 +48222,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:17.2.t0",
+          "mn27:17.2.t1",
+          "mn27:17.2.t2",
+          "mn27:17.2.t3",
+          "mn27:17.2.t4",
+          "mn27:17.2.t5",
+          "mn27:17.2.t6",
+          "mn27:17.2.t7",
+          "mn27:17.2.t8",
+          "mn27:17.2.t9",
+          "mn27:17.2.t10",
+          "mn27:17.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "他前往僻靜的住處：林野、樹下、岩石、山谷、山洞、墳場、林間空地、露天處、稻草堆。"
+      }
     },
     {
       "segment_id": "mn27:18.1",
@@ -46440,7 +48602,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.1.t0",
+          "mn27:18.1.t1",
+          "mn27:18.1.t2",
+          "mn27:18.1.t3",
+          "mn27:18.1.t4",
+          "mn27:18.1.t5",
+          "mn27:18.1.t6",
+          "mn27:18.1.t7",
+          "mn27:18.1.t8",
+          "mn27:18.1.t9",
+          "mn27:18.1.t10",
+          "mn27:18.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "他於飯後、乞食歸來，結跏趺坐，端正其身，使正念現前。"
+      }
     },
     {
       "segment_id": "mn27:18.2",
@@ -46819,7 +48999,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.2.t0",
+          "mn27:18.2.t1",
+          "mn27:18.2.t2",
+          "mn27:18.2.t3",
+          "mn27:18.2.t4",
+          "mn27:18.2.t5",
+          "mn27:18.2.t6",
+          "mn27:18.2.t7",
+          "mn27:18.2.t8",
+          "mn27:18.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄對世間的貪欲，以離貪欲之心而住，令心從貪欲中清淨。"
+      }
     },
     {
       "segment_id": "mn27:18.3",
@@ -47102,7 +49298,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.3.t0",
+          "mn27:18.3.t1",
+          "mn27:18.3.t2",
+          "mn27:18.3.t3",
+          "mn27:18.3.t4",
+          "mn27:18.3.t5",
+          "mn27:18.3.t6",
+          "mn27:18.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "捨棄瞋恚，以無瞋之心而住，悲愍一切有情眾生的利益，令心從瞋恚中清淨。"
+      }
     },
     {
       "segment_id": "mn27:18.4",
@@ -47543,7 +49753,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.4.t0",
+          "mn27:18.4.t1",
+          "mn27:18.4.t2",
+          "mn27:18.4.t3",
+          "mn27:18.4.t4",
+          "mn27:18.4.t5",
+          "mn27:18.4.t6",
+          "mn27:18.4.t7",
+          "mn27:18.4.t8",
+          "mn27:18.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "捨棄惛沉睡眠，以離惛沉睡眠而住，具光明想，保持正念正知，令心從惛沉睡眠中清淨。"
+      }
     },
     {
       "segment_id": "mn27:18.5",
@@ -47833,7 +50059,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.5.t0",
+          "mn27:18.5.t1",
+          "mn27:18.5.t2",
+          "mn27:18.5.t3",
+          "mn27:18.5.t4",
+          "mn27:18.5.t5",
+          "mn27:18.5.t6",
+          "mn27:18.5.t7",
+          "mn27:18.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "捨棄掉舉惡作，不掉舉而住，內心寂靜，令心從掉舉惡作中清淨。"
+      }
     },
     {
       "segment_id": "mn27:18.6",
@@ -48275,7 +50516,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:18.6.t0",
+          "mn27:18.6.t1",
+          "mn27:18.6.t2",
+          "mn27:18.6.t3",
+          "mn27:18.6.t4",
+          "mn27:18.6.t5",
+          "mn27:18.6.t6",
+          "mn27:18.6.t7",
+          "mn27:18.6.t8",
+          "mn27:18.6.t9"
+        ],
+        "review_status": "approved",
+        "content": "捨棄疑，超越疑惑而住，於諸善法不再猶疑不決，令心從疑中清淨。"
+      }
     },
     {
       "segment_id": "mn27:19.1",
@@ -48659,7 +50916,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:19.1.t0",
+          "mn27:19.1.t1",
+          "mn27:19.1.t2",
+          "mn27:19.1.t3",
+          "mn27:19.1.t4",
+          "mn27:19.1.t5",
+          "mn27:19.1.t6",
+          "mn27:19.1.t7",
+          "mn27:19.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "他捨棄這五蓋——令心雜染、使慧力衰弱之物——"
+      }
     },
     {
       "segment_id": "mn27:19.2",
@@ -49299,7 +51571,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:19.2.t0",
+          "mn27:19.2.t1",
+          "mn27:19.2.t2",
+          "mn27:19.2.t3",
+          "mn27:19.2.t4",
+          "mn27:19.2.t5",
+          "mn27:19.2.t6",
+          "mn27:19.2.t7",
+          "mn27:19.2.t8",
+          "mn27:19.2.t9",
+          "mn27:19.2.t10",
+          "mn27:19.2.t11",
+          "mn27:19.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "遠離欲樂，遠離不善法，有尋有伺，具足由遠離而生的喜與樂，成就並安住於初禪。"
+      }
     },
     {
       "segment_id": "mn27:19.3",
@@ -49575,7 +51866,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:19.3.t0",
+          "mn27:19.3.t1",
+          "mn27:19.3.t2",
+          "mn27:19.3.t3",
+          "mn27:19.3.t4",
+          "mn27:19.3.t5",
+          "mn27:19.3.t6",
+          "mn27:19.3.t7",
+          "mn27:19.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為如來的足跡，如來所行經之處，如來所留下的印記。"
+      }
     },
     {
       "segment_id": "mn27:19.4",
@@ -49708,7 +52014,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:19.4.t0",
+          "mn27:19.4.t1",
+          "mn27:19.4.t2",
+          "mn27:19.4.t3",
+          "mn27:19.4.t4",
+          "mn27:19.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "但聖弟子尚不因此就下定論："
+      }
     },
     {
       "segment_id": "mn27:19.5",
@@ -50016,7 +52334,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:19.5.t0",
+          "mn27:19.5.t1",
+          "mn27:19.5.t2",
+          "mn27:19.5.t3",
+          "mn27:19.5.t4",
+          "mn27:19.5.t5",
+          "mn27:19.5.t6",
+          "mn27:19.5.t7",
+          "mn27:19.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:20.1",
@@ -50688,7 +53021,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:20.1.t0",
+          "mn27:20.1.t1",
+          "mn27:20.1.t2",
+          "mn27:20.1.t3",
+          "mn27:20.1.t4",
+          "mn27:20.1.t5",
+          "mn27:20.1.t6",
+          "mn27:20.1.t7",
+          "mn27:20.1.t8",
+          "mn27:20.1.t9",
+          "mn27:20.1.t10",
+          "mn27:20.1.t11",
+          "mn27:20.1.t12",
+          "mn27:20.1.t13",
+          "mn27:20.1.t14",
+          "mn27:20.1.t15",
+          "mn27:20.1.t16",
+          "mn27:20.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘由於尋、伺止息，內心澄淨，心一境性，無尋無伺，具足由定而生的喜與樂，成就並安住於第二禪。"
+      }
     },
     {
       "segment_id": "mn27:20.2",
@@ -50842,7 +53199,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:20.2.t0",
+          "mn27:20.2.t1",
+          "mn27:20.2.t2",
+          "mn27:20.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為……"
+      }
     },
     {
       "segment_id": "mn27:20.3",
@@ -50973,7 +53340,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:20.3.t0",
+          "mn27:20.3.t1",
+          "mn27:20.3.t2",
+          "mn27:20.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "『……僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:21.1",
@@ -52020,7 +54397,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:21.1.t0",
+          "mn27:21.1.t1",
+          "mn27:21.1.t2",
+          "mn27:21.1.t3",
+          "mn27:21.1.t4",
+          "mn27:21.1.t5",
+          "mn27:21.1.t6",
+          "mn27:21.1.t7",
+          "mn27:21.1.t8",
+          "mn27:21.1.t9",
+          "mn27:21.1.t10",
+          "mn27:21.1.t11",
+          "mn27:21.1.t12",
+          "mn27:21.1.t13",
+          "mn27:21.1.t14",
+          "mn27:21.1.t15",
+          "mn27:21.1.t16",
+          "mn27:21.1.t17",
+          "mn27:21.1.t18",
+          "mn27:21.1.t19",
+          "mn27:21.1.t20",
+          "mn27:21.1.t21",
+          "mn27:21.1.t22",
+          "mn27:21.1.t23",
+          "mn27:21.1.t24",
+          "mn27:21.1.t25",
+          "mn27:21.1.t26",
+          "mn27:21.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘由於喜的褪去，住於捨，保持正念正知，以身感受樂，如聖者所說：『住於捨、具念、樂住』，成就並安住於第三禪。"
+      }
     },
     {
       "segment_id": "mn27:21.2",
@@ -52174,7 +54585,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:21.2.t0",
+          "mn27:21.2.t1",
+          "mn27:21.2.t2",
+          "mn27:21.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為……"
+      }
     },
     {
       "segment_id": "mn27:21.3",
@@ -52305,7 +54726,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:21.3.t0",
+          "mn27:21.3.t1",
+          "mn27:21.3.t2",
+          "mn27:21.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "『……僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:22.1",
@@ -53051,7 +55482,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:22.1.t0",
+          "mn27:22.1.t1",
+          "mn27:22.1.t2",
+          "mn27:22.1.t3",
+          "mn27:22.1.t4",
+          "mn27:22.1.t5",
+          "mn27:22.1.t6",
+          "mn27:22.1.t7",
+          "mn27:22.1.t8",
+          "mn27:22.1.t9",
+          "mn27:22.1.t10",
+          "mn27:22.1.t11",
+          "mn27:22.1.t12",
+          "mn27:22.1.t13",
+          "mn27:22.1.t14",
+          "mn27:22.1.t15",
+          "mn27:22.1.t16",
+          "mn27:22.1.t17",
+          "mn27:22.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘由於捨斷樂、捨斷苦，先前的喜與憂已滅沒，不苦不樂，具足由捨而念清淨，成就並安住於第四禪。"
+      }
     },
     {
       "segment_id": "mn27:22.2",
@@ -53327,7 +55783,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:22.2.t0",
+          "mn27:22.2.t1",
+          "mn27:22.2.t2",
+          "mn27:22.2.t3",
+          "mn27:22.2.t4",
+          "mn27:22.2.t5",
+          "mn27:22.2.t6",
+          "mn27:22.2.t7",
+          "mn27:22.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為如來的足跡，如來所行經之處，如來所留下的印記。"
+      }
     },
     {
       "segment_id": "mn27:22.3",
@@ -53460,7 +55931,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:22.3.t0",
+          "mn27:22.3.t1",
+          "mn27:22.3.t2",
+          "mn27:22.3.t3",
+          "mn27:22.3.t4",
+          "mn27:22.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "但聖弟子尚不因此就下定論："
+      }
     },
     {
       "segment_id": "mn27:22.4",
@@ -53768,7 +56251,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:22.4.t0",
+          "mn27:22.4.t1",
+          "mn27:22.4.t2",
+          "mn27:22.4.t3",
+          "mn27:22.4.t4",
+          "mn27:22.4.t5",
+          "mn27:22.4.t6",
+          "mn27:22.4.t7",
+          "mn27:22.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:23.1",
@@ -54488,7 +56986,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:23.1.t0",
+          "mn27:23.1.t1",
+          "mn27:23.1.t2",
+          "mn27:23.1.t3",
+          "mn27:23.1.t4",
+          "mn27:23.1.t5",
+          "mn27:23.1.t6",
+          "mn27:23.1.t7",
+          "mn27:23.1.t8",
+          "mn27:23.1.t9",
+          "mn27:23.1.t10",
+          "mn27:23.1.t11",
+          "mn27:23.1.t12",
+          "mn27:23.1.t13",
+          "mn27:23.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "他如此在心得定、清淨、皎潔、無染、離垢、柔軟、堪任、安住、達到不動之後，將心導向宿命智。"
+      }
     },
     {
       "segment_id": "mn27:23.2",
@@ -54992,7 +57511,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:23.2.t0",
+          "mn27:23.2.t1",
+          "mn27:23.2.t2",
+          "mn27:23.2.t3",
+          "mn27:23.2.t4",
+          "mn27:23.2.t5",
+          "mn27:23.2.t6",
+          "mn27:23.2.t7",
+          "mn27:23.2.t8",
+          "mn27:23.2.t9",
+          "mn27:23.2.t10",
+          "mn27:23.2.t11",
+          "mn27:23.2.t12",
+          "mn27:23.2.t13",
+          "mn27:23.2.t14",
+          "mn27:23.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "他憶念種種前世，即：一生、二生……（乃至……），如是連同行相、細節，憶念種種前世。"
+      }
     },
     {
       "segment_id": "mn27:23.3",
@@ -55268,7 +57809,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:23.3.t0",
+          "mn27:23.3.t1",
+          "mn27:23.3.t2",
+          "mn27:23.3.t3",
+          "mn27:23.3.t4",
+          "mn27:23.3.t5",
+          "mn27:23.3.t6",
+          "mn27:23.3.t7",
+          "mn27:23.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為如來的足跡，如來所行經之處，如來所留下的印記。"
+      }
     },
     {
       "segment_id": "mn27:23.4",
@@ -55401,7 +57957,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:23.4.t0",
+          "mn27:23.4.t1",
+          "mn27:23.4.t2",
+          "mn27:23.4.t3",
+          "mn27:23.4.t4",
+          "mn27:23.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "但聖弟子尚不因此就下定論："
+      }
     },
     {
       "segment_id": "mn27:23.5",
@@ -55709,7 +58277,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:23.5.t0",
+          "mn27:23.5.t1",
+          "mn27:23.5.t2",
+          "mn27:23.5.t3",
+          "mn27:23.5.t4",
+          "mn27:23.5.t5",
+          "mn27:23.5.t6",
+          "mn27:23.5.t7",
+          "mn27:23.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:24.1",
@@ -56499,7 +59082,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:24.1.t0",
+          "mn27:24.1.t1",
+          "mn27:24.1.t2",
+          "mn27:24.1.t3",
+          "mn27:24.1.t4",
+          "mn27:24.1.t5",
+          "mn27:24.1.t6",
+          "mn27:24.1.t7",
+          "mn27:24.1.t8",
+          "mn27:24.1.t9",
+          "mn27:24.1.t10",
+          "mn27:24.1.t11",
+          "mn27:24.1.t12",
+          "mn27:24.1.t13",
+          "mn27:24.1.t14",
+          "mn27:24.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "他如此在心得定、清淨、皎潔、無染、離垢、柔軟、堪任、安住、達到不動之後，將心導向有情死生智。"
+      }
     },
     {
       "segment_id": "mn27:24.2",
@@ -56855,7 +59460,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:24.2.t0",
+          "mn27:24.2.t1",
+          "mn27:24.2.t2",
+          "mn27:24.2.t3",
+          "mn27:24.2.t4",
+          "mn27:24.2.t5",
+          "mn27:24.2.t6",
+          "mn27:24.2.t7",
+          "mn27:24.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "他以清淨、超越常人的天眼，……（乃至……），了知眾生依業流轉。"
+      }
     },
     {
       "segment_id": "mn27:24.3",
@@ -57131,7 +59751,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:24.3.t0",
+          "mn27:24.3.t1",
+          "mn27:24.3.t2",
+          "mn27:24.3.t3",
+          "mn27:24.3.t4",
+          "mn27:24.3.t5",
+          "mn27:24.3.t6",
+          "mn27:24.3.t7",
+          "mn27:24.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也被稱為如來的足跡，如來所行經之處，如來所留下的印記。"
+      }
     },
     {
       "segment_id": "mn27:24.4",
@@ -57264,7 +59899,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:24.4.t0",
+          "mn27:24.4.t1",
+          "mn27:24.4.t2",
+          "mn27:24.4.t3",
+          "mn27:24.4.t4",
+          "mn27:24.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "但聖弟子尚不因此就下定論："
+      }
     },
     {
       "segment_id": "mn27:24.5",
@@ -57572,7 +60219,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:24.5.t0",
+          "mn27:24.5.t1",
+          "mn27:24.5.t2",
+          "mn27:24.5.t3",
+          "mn27:24.5.t4",
+          "mn27:24.5.t5",
+          "mn27:24.5.t6",
+          "mn27:24.5.t7",
+          "mn27:24.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:25.1",
@@ -58335,7 +60997,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.1.t0",
+          "mn27:25.1.t1",
+          "mn27:25.1.t2",
+          "mn27:25.1.t3",
+          "mn27:25.1.t4",
+          "mn27:25.1.t5",
+          "mn27:25.1.t6",
+          "mn27:25.1.t7",
+          "mn27:25.1.t8",
+          "mn27:25.1.t9",
+          "mn27:25.1.t10",
+          "mn27:25.1.t11",
+          "mn27:25.1.t12",
+          "mn27:25.1.t13",
+          "mn27:25.1.t14",
+          "mn27:25.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "他的心如此得定、清淨、潔白、無瑕、離隨煩惱、柔軟、堪任、安住、達到不動之後，便將心導向漏盡智。"
+      }
     },
     {
       "segment_id": "mn27:25.2",
@@ -59109,7 +61793,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.2.t0",
+          "mn27:25.2.t1",
+          "mn27:25.2.t3",
+          "mn27:25.2.t4",
+          "mn27:25.2.t5",
+          "mn27:25.2.t6",
+          "mn27:25.2.t7",
+          "mn27:25.2.t8",
+          "mn27:25.2.t9",
+          "mn27:25.2.t10",
+          "mn27:25.2.t11",
+          "mn27:25.2.t12",
+          "mn27:25.2.t13",
+          "mn27:25.2.t14",
+          "mn27:25.2.t15",
+          "mn27:25.2.t16",
+          "mn27:25.2.t17",
+          "mn27:25.2.t18",
+          "mn27:25.2.t19",
+          "mn27:25.2.t20",
+          "mn27:25.2.t21"
+        ],
+        "review_status": "approved",
+        "content": "他如實了知『此是苦』，如實了知『此是苦集』，如實了知『此是苦滅』，如實了知『此是導向苦滅之道』。"
+      }
     },
     {
       "segment_id": "mn27:25.3",
@@ -59913,7 +62624,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.3.t0",
+          "mn27:25.3.t1",
+          "mn27:25.3.t2",
+          "mn27:25.3.t3",
+          "mn27:25.3.t4",
+          "mn27:25.3.t5",
+          "mn27:25.3.t6",
+          "mn27:25.3.t7",
+          "mn27:25.3.t8",
+          "mn27:25.3.t9",
+          "mn27:25.3.t10",
+          "mn27:25.3.t11",
+          "mn27:25.3.t12",
+          "mn27:25.3.t13",
+          "mn27:25.3.t14",
+          "mn27:25.3.t15",
+          "mn27:25.3.t16",
+          "mn27:25.3.t17",
+          "mn27:25.3.t18",
+          "mn27:25.3.t19",
+          "mn27:25.3.t20"
+        ],
+        "review_status": "approved",
+        "content": "他如實了知『此是漏』，如實了知『此是漏集』，如實了知『此是漏滅』，如實了知『此是導向漏滅之道』。"
+      }
     },
     {
       "segment_id": "mn27:25.4",
@@ -60189,7 +62927,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.4.t0",
+          "mn27:25.4.t1",
+          "mn27:25.4.t2",
+          "mn27:25.4.t3",
+          "mn27:25.4.t4",
+          "mn27:25.4.t5",
+          "mn27:25.4.t6",
+          "mn27:25.4.t7",
+          "mn27:25.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也稱為如來足跡，也稱為如來所踐之處，也稱為如來所踏之痕。"
+      }
     },
     {
       "segment_id": "mn27:25.5",
@@ -60432,7 +63185,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.5.t0",
+          "mn27:25.5.t1",
+          "mn27:25.5.t2",
+          "mn27:25.5.t3",
+          "mn27:25.5.t4",
+          "mn27:25.5.t5",
+          "mn27:25.5.t6",
+          "mn27:25.5.t7",
+          "mn27:25.5.t8",
+          "mn27:25.5.t9",
+          "mn27:25.5.t10",
+          "mn27:25.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "然而聖弟子尚未因此達到定論，而是正邁向定論："
+      }
     },
     {
       "segment_id": "mn27:25.6",
@@ -60740,7 +63511,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:25.6.t0",
+          "mn27:25.6.t1",
+          "mn27:25.6.t2",
+          "mn27:25.6.t3",
+          "mn27:25.6.t4",
+          "mn27:25.6.t5",
+          "mn27:25.6.t6",
+          "mn27:25.6.t7",
+          "mn27:25.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:26.1",
@@ -61289,7 +64075,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.1.t0",
+          "mn27:26.1.t1",
+          "mn27:26.1.t2",
+          "mn27:26.1.t3",
+          "mn27:26.1.t4",
+          "mn27:26.1.t5",
+          "mn27:26.1.t6",
+          "mn27:26.1.t7",
+          "mn27:26.1.t8",
+          "mn27:26.1.t9",
+          "mn27:26.1.t10",
+          "mn27:26.1.t11",
+          "mn27:26.1.t12",
+          "mn27:26.1.t13"
+        ],
+        "review_status": "approved",
+        "content": "當他如此知、如此見時，心從欲漏解脫，心從有漏解脫，心從無明漏解脫。"
+      }
     },
     {
       "segment_id": "mn27:26.2",
@@ -61448,7 +64254,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.2.t0",
+          "mn27:26.2.t1",
+          "mn27:26.2.t2",
+          "mn27:26.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "於解脫時，生起『已解脫』之智。"
+      }
     },
     {
       "segment_id": "mn27:26.3",
@@ -61959,7 +64775,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.3.t0",
+          "mn27:26.3.t1",
+          "mn27:26.3.t2",
+          "mn27:26.3.t3",
+          "mn27:26.3.t4",
+          "mn27:26.3.t5",
+          "mn27:26.3.t6",
+          "mn27:26.3.t8",
+          "mn27:26.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "了知：『生已盡，梵行已立，所作已作，不受後有。』"
+      }
     },
     {
       "segment_id": "mn27:26.4",
@@ -62235,7 +65066,22 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.4.t0",
+          "mn27:26.4.t1",
+          "mn27:26.4.t2",
+          "mn27:26.4.t3",
+          "mn27:26.4.t4",
+          "mn27:26.4.t5",
+          "mn27:26.4.t6",
+          "mn27:26.4.t7",
+          "mn27:26.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也稱為如來足跡，也稱為如來所踐之處，也稱為如來所踏之痕。"
+      }
     },
     {
       "segment_id": "mn27:26.5",
@@ -62384,7 +65230,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.5.t0",
+          "mn27:26.5.t1",
+          "mn27:26.5.t2",
+          "mn27:26.5.t3",
+          "mn27:26.5.t4",
+          "mn27:26.5.t5",
+          "mn27:26.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，至此，聖弟子便達到定論："
+      }
     },
     {
       "segment_id": "mn27:26.6",
@@ -62692,7 +65551,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.6.t0",
+          "mn27:26.6.t1",
+          "mn27:26.6.t2",
+          "mn27:26.6.t3",
+          "mn27:26.6.t4",
+          "mn27:26.6.t5",
+          "mn27:26.6.t6",
+          "mn27:26.6.t7",
+          "mn27:26.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『世尊是正等正覺者，法是世尊所善說，僧伽是善行道者。』"
+      }
     },
     {
       "segment_id": "mn27:26.7",
@@ -62894,7 +65768,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:26.7.t0",
+          "mn27:26.7.t1",
+          "mn27:26.7.t2",
+          "mn27:26.7.t3",
+          "mn27:26.7.t4",
+          "mn27:26.7.t5",
+          "mn27:26.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，至此，象跡喻便詳盡圓滿了。"
+      }
     },
     {
       "segment_id": "mn27:27.1",
@@ -63092,7 +65979,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.1.t0",
+          "mn27:27.1.t1",
+          "mn27:27.1.t2",
+          "mn27:27.1.t3",
+          "mn27:27.1.t4",
+          "mn27:27.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，遮奴蘇尼婆羅門對世尊如此說："
+      }
     },
     {
       "segment_id": "mn27:27.2",
@@ -63318,7 +66217,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.2.t0",
+          "mn27:27.2.t1",
+          "mn27:27.2.t2",
+          "mn27:27.2.t3",
+          "mn27:27.2.t4",
+          "mn27:27.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "太殊勝了，喬達摩尊者！太殊勝了，喬達摩尊者！"
+      }
     },
     {
       "segment_id": "mn27:27.3",
@@ -64207,7 +67118,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.3.t0",
+          "mn27:27.3.t1",
+          "mn27:27.3.t2",
+          "mn27:27.3.t3",
+          "mn27:27.3.t4",
+          "mn27:27.3.t5",
+          "mn27:27.3.t6",
+          "mn27:27.3.t7",
+          "mn27:27.3.t8",
+          "mn27:27.3.t9",
+          "mn27:27.3.t10",
+          "mn27:27.3.t11",
+          "mn27:27.3.t12",
+          "mn27:27.3.t13",
+          "mn27:27.3.t14",
+          "mn27:27.3.t15",
+          "mn27:27.3.t16",
+          "mn27:27.3.t17",
+          "mn27:27.3.t18",
+          "mn27:27.3.t20",
+          "mn27:27.3.t21",
+          "mn27:27.3.t22",
+          "mn27:27.3.t23",
+          "mn27:27.3.t24",
+          "mn27:27.3.t25",
+          "mn27:27.3.t26"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，猶如將翻覆的東西扶正，將遮蔽的東西打開，為迷路者指出道路，或在黑暗中舉起油燈，使有眼者得以見色──喬達摩尊者正是以種種方式闡明了法。"
+      }
     },
     {
       "segment_id": "mn27:27.4",
@@ -64454,7 +67397,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.4.t0",
+          "mn27:27.4.t1",
+          "mn27:27.4.t2",
+          "mn27:27.4.t3",
+          "mn27:27.4.t4",
+          "mn27:27.4.t5",
+          "mn27:27.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "我皈依喬達摩尊者、法與比丘僧伽。"
+      }
     },
     {
       "segment_id": "mn27:27.5",
@@ -64814,7 +67770,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.5.t0",
+          "mn27:27.5.t1",
+          "mn27:27.5.t2",
+          "mn27:27.5.t3",
+          "mn27:27.5.t4",
+          "mn27:27.5.t5",
+          "mn27:27.5.t6",
+          "mn27:27.5.t7",
+          "mn27:27.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "願喬達摩尊者記得我是優婆塞，從今日起終生皈依，直至命終。"
+      }
     },
     {
       "segment_id": "mn27:27.6",
@@ -64967,7 +67938,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn27:27.6.t0",
+          "mn27:27.6.t1",
+          "mn27:27.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "象跡喻小經第七經終。"
+      }
     }
   ],
   "passages": [
@@ -65181,8 +68161,84 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn27:2.1",
+      "mn27:2.12",
+      "mn27:3.1",
+      "mn27:3.5",
+      "mn27:9.5",
+      "mn27:9.6",
+      "mn27:10.3",
+      "mn27:10.6",
+      "mn27:10.23",
+      "mn27:11.1",
+      "mn27:12.2",
+      "mn27:13.1",
+      "mn27:14.1",
+      "mn27:15.1",
+      "mn27:16.1",
+      "mn27:18.2",
+      "mn27:19.2",
+      "mn27:19.4",
+      "mn27:20.1",
+      "mn27:21.1",
+      "mn27:22.1",
+      "mn27:23.1",
+      "mn27:24.1",
+      "mn27:25.2",
+      "mn27:26.1",
+      "mn27:26.3",
+      "mn27:26.5",
+      "mn27:27.4"
+    ],
+    "review_status": "approved",
+    "content": "遮奴蘇尼婆羅門遇遊行者盛讚喬達摩，遂以「象跡喻」道出信心由來：獵象人見林中大足跡，不遽斷為大象，因矮象等亦有相似足跡，須循跡追蹤至親見大象方能確認。世尊指出此喻猶未圓滿，遂開示完整版：良家子聞法生信出家，具足戒行、知足衣食、守護根門、正念正知，捨五蓋後次第成就初禪至四禪，繼證宿住隨念智、有情死生智、漏盡智，了知四聖諦，心從諸漏解脫，生起已解脫之智。世尊強調，即使證得四禪與三明，聖弟子仍只是見「如來足跡」，唯有漏盡解脫方為「親見大象」，方對三寶生不壞淨信。遮奴蘇尼聞法歡喜，皈依三寶，終身為優婆塞。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "象跡喻的意思",
+      "sources": [
+        "mn27:10.2",
+        "mn27:10.6",
+        "mn27:10.20",
+        "mn27:10.23"
+      ],
+      "content": "善巧的獵象人在林中見到又長又寬的大象足跡，並不會立刻斷定「這是大象」，因為林中的矮象、卡拉利卡、卡涅魯卡等母象也有相似的大足跡。他必須繼續循跡追蹤，看見高處的摩擦痕、象牙刮痕、折斷的樹枝，最後親眼見到大象本身在行、住、坐、臥，才能確認無疑。世尊借此比喻說明：見到如來的種種殊勝功德與教說，就像看到大足跡，還不足以斷定佛陀已究竟證悟，必須親自依法修行，一路追蹤下去，直到親證解脫，才是真正「見到大象」。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "漸次修行次第",
+      "sources": [
+        "mn27:12.2",
+        "mn27:13.1",
+        "mn27:15.1",
+        "mn27:19.2",
+        "mn27:22.1"
+      ],
+      "content": "居士聞法生信後，捨棄家財親族，剃除鬚髮出家；受持學處，遠離殺生、偷盜、非梵行、妄語等，具足聖者戒蘊；知足於衣食，猶如飛鳥只帶雙翼而行；守護六根，不執取相與細節；於行住坐臥皆保持正知；而後居於僻靜處，結跏趺坐，捨離五蓋，次第成就初禪、二禪、三禪、四禪；心得定清淨後，依序證得宿住隨念智、有情死生智，最後證漏盡智，如實了知四聖諦與漏、漏集、漏滅、漏滅道。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "何謂「親見大象」＝親證",
+      "sources": [
+        "mn27:19.4",
+        "mn27:22.3",
+        "mn27:25.5",
+        "mn27:26.5",
+        "mn27:26.6"
+      ],
+      "content": "世尊在說明初禪、四禪乃至宿住隨念智、有情死生智時，一再強調：這些都只稱為「如來的足跡、如來所行經之處、如來所留下的印記」，聖弟子尚不能就此斷定「世尊是正等正覺者」。唯有進一步證得漏盡智，如實了知四聖諦，心從欲漏、有漏、無明漏解脫，生起「已解脫」之智，了知「生已盡，梵行已立，所作已作，不受後有」，聖弟子至此才真正達到定論，對佛法僧生起不壞淨信——這才是「親見大象」本身，而非僅僅見到足跡。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

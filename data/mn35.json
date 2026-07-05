@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn35",
-    "title_pali": "MN35",
-    "title_zh": "mn35",
+    "title_pali": "Cūḷasaccakasutta",
+    "title_zh": "薩遮迦小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn35"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:1.1.t0",
+          "mn35:1.1.t1",
+          "mn35:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn35:1.2",
@@ -463,7 +472,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:1.2.t0",
+          "mn35:1.2.t1",
+          "mn35:1.2.t2",
+          "mn35:1.2.t3",
+          "mn35:1.2.t4",
+          "mn35:1.2.t5",
+          "mn35:1.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "有一次，世尊住在毘舍離大林重閣講堂。"
+      }
     },
     {
       "segment_id": "mn35:2.1",
@@ -739,7 +761,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:2.1.t0",
+          "mn35:2.1.t1",
+          "mn35:2.1.t2",
+          "mn35:2.1.t3",
+          "mn35:2.1.t4",
+          "mn35:2.1.t5",
+          "mn35:2.1.t6",
+          "mn35:2.1.t7",
+          "mn35:2.1.t8",
+          "mn35:2.1.t9",
+          "mn35:2.1.t10",
+          "mn35:2.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "那時，尼乾子薩遮迦住在毘舍離，是善於論辯的辯士、自負聰明的論師，受眾人尊崇推重。"
+      }
     },
     {
       "segment_id": "mn35:2.2",
@@ -937,7 +977,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:2.2.t0",
+          "mn35:2.2.t1",
+          "mn35:2.2.t2",
+          "mn35:2.2.t3",
+          "mn35:2.2.t4",
+          "mn35:2.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "他在毘舍離的集會中如此宣稱："
+      }
     },
     {
       "segment_id": "mn35:2.3",
@@ -1952,7 +2004,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:2.3.t0",
+          "mn35:2.3.t1",
+          "mn35:2.3.t2",
+          "mn35:2.3.t3",
+          "mn35:2.3.t4",
+          "mn35:2.3.t5",
+          "mn35:2.3.t6",
+          "mn35:2.3.t7",
+          "mn35:2.3.t8",
+          "mn35:2.3.t9",
+          "mn35:2.3.t10",
+          "mn35:2.3.t11",
+          "mn35:2.3.t12",
+          "mn35:2.3.t13",
+          "mn35:2.3.t14",
+          "mn35:2.3.t15",
+          "mn35:2.3.t16",
+          "mn35:2.3.t17",
+          "mn35:2.3.t18",
+          "mn35:2.3.t19",
+          "mn35:2.3.t20",
+          "mn35:2.3.t21",
+          "mn35:2.3.t22",
+          "mn35:2.3.t23",
+          "mn35:2.3.t24",
+          "mn35:2.3.t25",
+          "mn35:2.3.t26",
+          "mn35:2.3.t27",
+          "mn35:2.3.t28",
+          "mn35:2.3.t29"
+        ],
+        "review_status": "approved",
+        "content": "「我從未見過任何一位沙門或婆羅門——無論是擁有僧團的、擁有徒眾的、身為眾人導師的，乃至自稱阿羅漢、正等正覺者——只要與我展開論辯較量，能夠不動搖、不震盪、不顫慄，能夠不從腋下滲出汗水的。」"
+      }
     },
     {
       "segment_id": "mn35:2.4",
@@ -2560,7 +2648,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:2.4.t0",
+          "mn35:2.4.t2",
+          "mn35:2.4.t3",
+          "mn35:2.4.t4",
+          "mn35:2.4.t5",
+          "mn35:2.4.t6",
+          "mn35:2.4.t7",
+          "mn35:2.4.t8",
+          "mn35:2.4.t9",
+          "mn35:2.4.t10",
+          "mn35:2.4.t11",
+          "mn35:2.4.t12",
+          "mn35:2.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "「就算我拿一根沒有知覺的木柱來論辯較量，那根木柱一旦與我展開論辯，也會動搖、震盪、顫慄，」"
+      }
     },
     {
       "segment_id": "mn35:2.5",
@@ -2680,7 +2787,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:2.5.t0",
+          "mn35:2.5.t1",
+          "mn35:2.5.t2",
+          "mn35:2.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "「更何況是身而為人的呢？」"
+      }
     },
     {
       "segment_id": "mn35:3.1",
@@ -2935,7 +3052,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:3.1.t0",
+          "mn35:3.1.t1",
+          "mn35:3.1.t2",
+          "mn35:3.1.t3",
+          "mn35:3.1.t4",
+          "mn35:3.1.t5",
+          "mn35:3.1.t6",
+          "mn35:3.1.t7",
+          "mn35:3.1.t8",
+          "mn35:3.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "那時，尊者阿說示於清晨着衣持鉢，進入毘舍離城托鉢。"
+      }
     },
     {
       "segment_id": "mn35:3.2",
@@ -3285,7 +3418,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:3.2.t0",
+          "mn35:3.2.t1",
+          "mn35:3.2.t2",
+          "mn35:3.2.t3",
+          "mn35:3.2.t4",
+          "mn35:3.2.t5",
+          "mn35:3.2.t6",
+          "mn35:3.2.t7",
+          "mn35:3.2.t8",
+          "mn35:3.2.t9",
+          "mn35:3.2.t10",
+          "mn35:3.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "尼乾子薩遮迦在毘舍離散步經行時，遠遠望見尊者阿說示走來。"
+      }
     },
     {
       "segment_id": "mn35:3.3",
@@ -3535,7 +3686,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:3.3.t0",
+          "mn35:3.3.t1",
+          "mn35:3.3.t2",
+          "mn35:3.3.t3",
+          "mn35:3.3.t4",
+          "mn35:3.3.t5",
+          "mn35:3.3.t6",
+          "mn35:3.3.t7",
+          "mn35:3.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "見到後，便走向尊者阿說示所在之處，上前與尊者阿說示互相問候。"
+      }
     },
     {
       "segment_id": "mn35:3.4",
@@ -3892,7 +4058,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:3.4.t0",
+          "mn35:3.4.t1",
+          "mn35:3.4.t2",
+          "mn35:3.4.t3",
+          "mn35:3.4.t4",
+          "mn35:3.4.t5",
+          "mn35:3.4.t6",
+          "mn35:3.4.t7",
+          "mn35:3.4.t8",
+          "mn35:3.4.t9",
+          "mn35:3.4.t10",
+          "mn35:3.4.t11",
+          "mn35:3.4.t12",
+          "mn35:3.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "寒暄問候、互道情誼之後，他站在一旁。尼乾子薩遮迦站在一旁後，對尊者阿說示這麼說："
+      }
     },
     {
       "segment_id": "mn35:4.1",
@@ -4467,7 +4653,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.1.t0",
+          "mn35:4.1.t1",
+          "mn35:4.1.t2",
+          "mn35:4.1.t3",
+          "mn35:4.1.t4",
+          "mn35:4.1.t5",
+          "mn35:4.1.t6",
+          "mn35:4.1.t7",
+          "mn35:4.1.t8",
+          "mn35:4.1.t9",
+          "mn35:4.1.t10",
+          "mn35:4.1.t11",
+          "mn35:4.1.t12",
+          "mn35:4.1.t13",
+          "mn35:4.1.t14",
+          "mn35:4.1.t15",
+          "mn35:4.1.t16",
+          "mn35:4.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "「阿說示大德，沙門喬達摩是如何教導弟子的？沙門喬達摩對弟子們的教誨，大多是以什麼方式進行的？」"
+      }
     },
     {
       "segment_id": "mn35:4.2",
@@ -4941,7 +5151,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.2.t0",
+          "mn35:4.2.t1",
+          "mn35:4.2.t2",
+          "mn35:4.2.t3",
+          "mn35:4.2.t4",
+          "mn35:4.2.t5",
+          "mn35:4.2.t6",
+          "mn35:4.2.t7",
+          "mn35:4.2.t8",
+          "mn35:4.2.t9",
+          "mn35:4.2.t10",
+          "mn35:4.2.t11",
+          "mn35:4.2.t12",
+          "mn35:4.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，世尊是這樣教導弟子的：世尊對弟子們的教誨，大多是以這樣的方式進行的：」"
+      }
     },
     {
       "segment_id": "mn35:4.3",
@@ -5662,7 +5892,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.3.t0",
+          "mn35:4.3.t1",
+          "mn35:4.3.t2",
+          "mn35:4.3.t3",
+          "mn35:4.3.t4",
+          "mn35:4.3.t5",
+          "mn35:4.3.t6",
+          "mn35:4.3.t7",
+          "mn35:4.3.t8",
+          "mn35:4.3.t9",
+          "mn35:4.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，色是無常的，受是無常的，想是無常的，行是無常的，識是無常的。」"
+      }
     },
     {
       "segment_id": "mn35:4.4",
@@ -6383,7 +6630,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.4.t0",
+          "mn35:4.4.t1",
+          "mn35:4.4.t2",
+          "mn35:4.4.t3",
+          "mn35:4.4.t4",
+          "mn35:4.4.t5",
+          "mn35:4.4.t6",
+          "mn35:4.4.t7",
+          "mn35:4.4.t8",
+          "mn35:4.4.t9",
+          "mn35:4.4.t10"
+        ],
+        "review_status": "approved",
+        "content": "「諸比丘，色是無我的，受是無我的，想是無我的，行是無我的，識是無我的。」"
+      }
     },
     {
       "segment_id": "mn35:4.5",
@@ -6780,7 +7044,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.5.t0",
+          "mn35:4.5.t1",
+          "mn35:4.5.t2",
+          "mn35:4.5.t3",
+          "mn35:4.5.t4",
+          "mn35:4.5.t5",
+          "mn35:4.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "「一切諸行無常，一切法無我。」"
+      }
     },
     {
       "segment_id": "mn35:4.6",
@@ -7316,7 +7593,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.6.t0",
+          "mn35:4.6.t1",
+          "mn35:4.6.t2",
+          "mn35:4.6.t3",
+          "mn35:4.6.t4",
+          "mn35:4.6.t5",
+          "mn35:4.6.t6",
+          "mn35:4.6.t7",
+          "mn35:4.6.t8",
+          "mn35:4.6.t9",
+          "mn35:4.6.t10",
+          "mn35:4.6.t11",
+          "mn35:4.6.t12",
+          "mn35:4.6.t13",
+          "mn35:4.6.t14"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，世尊就是這樣教導弟子的，世尊對弟子們的教誨，大多是以這樣的方式進行的。」"
+      }
     },
     {
       "segment_id": "mn35:4.7",
@@ -7692,7 +7990,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.7.t0",
+          "mn35:4.7.t1",
+          "mn35:4.7.t2",
+          "mn35:4.7.t3",
+          "mn35:4.7.t4",
+          "mn35:4.7.t5",
+          "mn35:4.7.t6",
+          "mn35:4.7.t7",
+          "mn35:4.7.t8",
+          "mn35:4.7.t9",
+          "mn35:4.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "「阿說示大德，真是聽聞了不幸的事啊！我們竟聽到沙門喬達摩持有這樣的見解。」"
+      }
     },
     {
       "segment_id": "mn35:4.8",
@@ -8377,7 +8692,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:4.8.t0",
+          "mn35:4.8.t1",
+          "mn35:4.8.t2",
+          "mn35:4.8.t3",
+          "mn35:4.8.t4",
+          "mn35:4.8.t5",
+          "mn35:4.8.t6",
+          "mn35:4.8.t7",
+          "mn35:4.8.t8",
+          "mn35:4.8.t9",
+          "mn35:4.8.t10",
+          "mn35:4.8.t11",
+          "mn35:4.8.t12",
+          "mn35:4.8.t13",
+          "mn35:4.8.t14",
+          "mn35:4.8.t15",
+          "mn35:4.8.t16",
+          "mn35:4.8.t17",
+          "mn35:4.8.t18",
+          "mn35:4.8.t19",
+          "mn35:4.8.t21"
+        ],
+        "review_status": "approved",
+        "content": "「但願我們有朝一日、在某個時候，能與那位喬達摩尊者會面；但願能有某種交談的機會；但願我們能藉此擺脫那些惡見。」"
+      }
     },
     {
       "segment_id": "mn35:5.1",
@@ -8687,7 +9029,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.1.t0",
+          "mn35:5.1.t1",
+          "mn35:5.1.t2",
+          "mn35:5.1.t3",
+          "mn35:5.1.t4",
+          "mn35:5.1.t5",
+          "mn35:5.1.t6",
+          "mn35:5.1.t7",
+          "mn35:5.1.t8",
+          "mn35:5.1.t9",
+          "mn35:5.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "那時，大約五百位離車人正因某事聚集在議事廳中。"
+      }
     },
     {
       "segment_id": "mn35:5.2",
@@ -9059,7 +9418,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.2.t0",
+          "mn35:5.2.t1",
+          "mn35:5.2.t2",
+          "mn35:5.2.t3",
+          "mn35:5.2.t4",
+          "mn35:5.2.t5",
+          "mn35:5.2.t6",
+          "mn35:5.2.t7",
+          "mn35:5.2.t8",
+          "mn35:5.2.t9",
+          "mn35:5.2.t10",
+          "mn35:5.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "於是，尼乾子薩遮迦便前往那些離車人所在之處，抵達後對那些離車人這麼說："
+      }
     },
     {
       "segment_id": "mn35:5.3",
@@ -9383,7 +9760,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.3.t0",
+          "mn35:5.3.t1",
+          "mn35:5.3.t2",
+          "mn35:5.3.t3",
+          "mn35:5.3.t4",
+          "mn35:5.3.t5",
+          "mn35:5.3.t6",
+          "mn35:5.3.t7",
+          "mn35:5.3.t8",
+          "mn35:5.3.t9",
+          "mn35:5.3.t10",
+          "mn35:5.3.t11",
+          "mn35:5.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "「諸位離車賢者，請前來！諸位離車賢者，請前來！今天我將與沙門喬達摩展開一場論辯。」"
+      }
     },
     {
       "segment_id": "mn35:5.4",
@@ -10151,7 +10547,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.4.t0",
+          "mn35:5.4.t1",
+          "mn35:5.4.t2",
+          "mn35:5.4.t3",
+          "mn35:5.4.t4",
+          "mn35:5.4.t5",
+          "mn35:5.4.t6",
+          "mn35:5.4.t7",
+          "mn35:5.4.t8",
+          "mn35:5.4.t9",
+          "mn35:5.4.t10",
+          "mn35:5.4.t11",
+          "mn35:5.4.t12",
+          "mn35:5.4.t13",
+          "mn35:5.4.t14",
+          "mn35:5.4.t15",
+          "mn35:5.4.t16",
+          "mn35:5.4.t17",
+          "mn35:5.4.t18",
+          "mn35:5.4.t19",
+          "mn35:5.4.t20",
+          "mn35:5.4.t21",
+          "mn35:5.4.t22",
+          "mn35:5.4.t23",
+          "mn35:5.4.t24",
+          "mn35:5.4.t25"
+        ],
+        "review_status": "approved",
+        "content": "「如果沙門喬達摩對我所表明的立場，就如同他那位知名弟子——名叫阿說示的比丘——對我所表明的立場一樣，那麼，就好比一個強壯的男子抓住一隻長毛山羊的毛，把牠拖來拖去、拉扯不休一般，」"
+      }
     },
     {
       "segment_id": "mn35:5.5",
@@ -10382,7 +10810,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.5.t1",
+          "mn35:5.5.t2",
+          "mn35:5.5.t3",
+          "mn35:5.5.t4",
+          "mn35:5.5.t5",
+          "mn35:5.5.t6",
+          "mn35:5.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "「我也將如此在論辯中把沙門喬達摩拖來拖去、拉扯不休。」"
+      }
     },
     {
       "segment_id": "mn35:5.6",
@@ -10755,7 +11196,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.6.t0",
+          "mn35:5.6.t1",
+          "mn35:5.6.t2",
+          "mn35:5.6.t3",
+          "mn35:5.6.t4",
+          "mn35:5.6.t5",
+          "mn35:5.6.t6",
+          "mn35:5.6.t7",
+          "mn35:5.6.t8",
+          "mn35:5.6.t9",
+          "mn35:5.6.t10",
+          "mn35:5.6.t11",
+          "mn35:5.6.t12",
+          "mn35:5.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "「就如同一個強壯的釀酒工人，把一大張釀酒用的濾蓆放入深水池中，抓住蓆子的邊角，把它拖來拖去、拉扯不休一般，」"
+      }
     },
     {
       "segment_id": "mn35:5.7",
@@ -10986,7 +11447,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.7.t1",
+          "mn35:5.7.t2",
+          "mn35:5.7.t3",
+          "mn35:5.7.t4",
+          "mn35:5.7.t5",
+          "mn35:5.7.t6",
+          "mn35:5.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "「我也將如此在論辯中把沙門喬達摩拖來拖去、拉扯不休。」"
+      }
     },
     {
       "segment_id": "mn35:5.8",
@@ -11233,7 +11707,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.8.t0",
+          "mn35:5.8.t1",
+          "mn35:5.8.t2",
+          "mn35:5.8.t3",
+          "mn35:5.8.t4",
+          "mn35:5.8.t5",
+          "mn35:5.8.t6",
+          "mn35:5.8.t7",
+          "mn35:5.8.t8",
+          "mn35:5.8.t9"
+        ],
+        "review_status": "approved",
+        "content": "「就如同一個強壯的釀酒工人，抓住濾蓆邊緣的毛穗，把它抖動、抖落、拍打一般，」"
+      }
     },
     {
       "segment_id": "mn35:5.9",
@@ -11454,7 +11944,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.9.t1",
+          "mn35:5.9.t2",
+          "mn35:5.9.t3",
+          "mn35:5.9.t4",
+          "mn35:5.9.t5",
+          "mn35:5.9.t6",
+          "mn35:5.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "「我也將如此在論辯中把沙門喬達摩抖動、抖落、拍打。」"
+      }
     },
     {
       "segment_id": "mn35:5.10",
@@ -11762,7 +12265,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.10.t0",
+          "mn35:5.10.t1",
+          "mn35:5.10.t2",
+          "mn35:5.10.t3",
+          "mn35:5.10.t4",
+          "mn35:5.10.t5",
+          "mn35:5.10.t6",
+          "mn35:5.10.t7",
+          "mn35:5.10.t8",
+          "mn35:5.10.t9",
+          "mn35:5.10.t10"
+        ],
+        "review_status": "approved",
+        "content": "「就如同一頭六十歲的大象，潛入深水蓮池中，玩著一種名叫『洗麻』的遊戲一般，」"
+      }
     },
     {
       "segment_id": "mn35:5.11",
@@ -11987,7 +12507,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.11.t1",
+          "mn35:5.11.t2",
+          "mn35:5.11.t3",
+          "mn35:5.11.t4",
+          "mn35:5.11.t5",
+          "mn35:5.11.t6"
+        ],
+        "review_status": "approved",
+        "content": "「我也將如此，把沙門喬達摩當作『洗麻』遊戲一般地戲弄。」"
+      }
     },
     {
       "segment_id": "mn35:5.12",
@@ -12326,7 +12858,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:5.12.t0",
+          "mn35:5.12.t1",
+          "mn35:5.12.t2",
+          "mn35:5.12.t3",
+          "mn35:5.12.t4",
+          "mn35:5.12.t5",
+          "mn35:5.12.t6",
+          "mn35:5.12.t7",
+          "mn35:5.12.t8",
+          "mn35:5.12.t9",
+          "mn35:5.12.t10",
+          "mn35:5.12.t11",
+          "mn35:5.12.t13"
+        ],
+        "review_status": "approved",
+        "content": "「諸位離車賢者，請前來！諸位離車賢者，請前來！今天我將與沙門喬達摩展開一場論辯。」"
+      }
     },
     {
       "segment_id": "mn35:6.1",
@@ -12429,7 +12980,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:6.1.t0",
+          "mn35:6.1.t1",
+          "mn35:6.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "於是，有些離車人這麼說："
+      }
     },
     {
       "segment_id": "mn35:6.2",
@@ -12890,7 +13450,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:6.2.t0",
+          "mn35:6.2.t1",
+          "mn35:6.2.t2",
+          "mn35:6.2.t3",
+          "mn35:6.2.t4",
+          "mn35:6.2.t5",
+          "mn35:6.2.t6",
+          "mn35:6.2.t7",
+          "mn35:6.2.t8",
+          "mn35:6.2.t9",
+          "mn35:6.2.t10",
+          "mn35:6.2.t11",
+          "mn35:6.2.t12",
+          "mn35:6.2.t13",
+          "mn35:6.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "「究竟是沙門喬達摩會駁倒尼乾子薩遮迦的論點呢？還是尼乾子薩遮迦會駁倒沙門喬達摩的論點呢？」"
+      }
     },
     {
       "segment_id": "mn35:6.3",
@@ -13020,7 +13601,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:6.3.t0",
+          "mn35:6.3.t1",
+          "mn35:6.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "另有一些離車人這麼說："
+      }
     },
     {
       "segment_id": "mn35:6.4",
@@ -13624,7 +14214,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:6.4.t0",
+          "mn35:6.4.t1",
+          "mn35:6.4.t2",
+          "mn35:6.4.t3",
+          "mn35:6.4.t4",
+          "mn35:6.4.t5",
+          "mn35:6.4.t6",
+          "mn35:6.4.t7",
+          "mn35:6.4.t8",
+          "mn35:6.4.t9",
+          "mn35:6.4.t10",
+          "mn35:6.4.t11",
+          "mn35:6.4.t12",
+          "mn35:6.4.t13",
+          "mn35:6.4.t14",
+          "mn35:6.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "「尼乾子薩遮迦這個人，怎麼可能駁倒世尊的論點呢？反倒是世尊會駁倒尼乾子薩遮迦的論點吧！」"
+      }
     },
     {
       "segment_id": "mn35:6.5",
@@ -13927,7 +14539,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:6.5.t0",
+          "mn35:6.5.t1",
+          "mn35:6.5.t2",
+          "mn35:6.5.t3",
+          "mn35:6.5.t4",
+          "mn35:6.5.t5",
+          "mn35:6.5.t6",
+          "mn35:6.5.t7",
+          "mn35:6.5.t8",
+          "mn35:6.5.t9",
+          "mn35:6.5.t10"
+        ],
+        "review_status": "approved",
+        "content": "於是，尼乾子薩遮迦在大約五百位離車人的簇擁下，前往大林重閣講堂。"
+      }
     },
     {
       "segment_id": "mn35:7.1",
@@ -14165,7 +14794,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:7.1.t0",
+          "mn35:7.1.t1",
+          "mn35:7.1.t2",
+          "mn35:7.1.t3",
+          "mn35:7.1.t4",
+          "mn35:7.1.t5",
+          "mn35:7.1.t6",
+          "mn35:7.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "那時，有許多比丘正在空地上經行。"
+      }
     },
     {
       "segment_id": "mn35:7.2",
@@ -14555,7 +15198,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:7.2.t0",
+          "mn35:7.2.t1",
+          "mn35:7.2.t2",
+          "mn35:7.2.t3",
+          "mn35:7.2.t4",
+          "mn35:7.2.t5",
+          "mn35:7.2.t6",
+          "mn35:7.2.t7",
+          "mn35:7.2.t8",
+          "mn35:7.2.t9",
+          "mn35:7.2.t10",
+          "mn35:7.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "那時，尼乾陀之子薩遮迦來到那些比丘那裡，到了以後對那些比丘這麼說："
+      }
     },
     {
       "segment_id": "mn35:7.3",
@@ -14789,7 +15450,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:7.3.t0",
+          "mn35:7.3.t1",
+          "mn35:7.3.t2",
+          "mn35:7.3.t3",
+          "mn35:7.3.t4",
+          "mn35:7.3.t5",
+          "mn35:7.3.t6",
+          "mn35:7.3.t7",
+          "mn35:7.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "「尊者，喬達摩尊者現在住在哪裡呢？"
+      }
     },
     {
       "segment_id": "mn35:7.4",
@@ -15095,7 +15771,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:7.4.t0",
+          "mn35:7.4.t1",
+          "mn35:7.4.t2",
+          "mn35:7.4.t3",
+          "mn35:7.4.t4",
+          "mn35:7.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "我們想去拜見喬達摩尊者。」"
+      }
     },
     {
       "segment_id": "mn35:7.5",
@@ -15383,7 +16071,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:7.5.t0",
+          "mn35:7.5.t1",
+          "mn35:7.5.t2",
+          "mn35:7.5.t3",
+          "mn35:7.5.t4",
+          "mn35:7.5.t5",
+          "mn35:7.5.t6",
+          "mn35:7.5.t7",
+          "mn35:7.5.t8",
+          "mn35:7.5.t9"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，世尊已進入大林，坐在一棵樹下作晝日安住。」"
+      }
     },
     {
       "segment_id": "mn35:8.1",
@@ -15862,7 +16566,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:8.1.t0",
+          "mn35:8.1.t1",
+          "mn35:8.1.t2",
+          "mn35:8.1.t3",
+          "mn35:8.1.t4",
+          "mn35:8.1.t5",
+          "mn35:8.1.t6",
+          "mn35:8.1.t7",
+          "mn35:8.1.t8",
+          "mn35:8.1.t9",
+          "mn35:8.1.t10",
+          "mn35:8.1.t11",
+          "mn35:8.1.t12",
+          "mn35:8.1.t13",
+          "mn35:8.1.t14",
+          "mn35:8.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "那時，尼乾陀之子薩遮迦與離車族的大眾一同進入大林，來到世尊所在之處，到了以後與世尊互相問候。"
+      }
     },
     {
       "segment_id": "mn35:8.2",
@@ -16061,7 +16787,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:8.2.t0",
+          "mn35:8.2.t1",
+          "mn35:8.2.t2",
+          "mn35:8.2.t3",
+          "mn35:8.2.t4",
+          "mn35:8.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "互相問候、寒暄客套之後，便坐在一旁。"
+      }
     },
     {
       "segment_id": "mn35:8.3",
@@ -17256,7 +17994,49 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:8.3.t0",
+          "mn35:8.3.t1",
+          "mn35:8.3.t2",
+          "mn35:8.3.t3",
+          "mn35:8.3.t4",
+          "mn35:8.3.t5",
+          "mn35:8.3.t6",
+          "mn35:8.3.t7",
+          "mn35:8.3.t8",
+          "mn35:8.3.t9",
+          "mn35:8.3.t10",
+          "mn35:8.3.t11",
+          "mn35:8.3.t12",
+          "mn35:8.3.t13",
+          "mn35:8.3.t14",
+          "mn35:8.3.t15",
+          "mn35:8.3.t16",
+          "mn35:8.3.t17",
+          "mn35:8.3.t18",
+          "mn35:8.3.t19",
+          "mn35:8.3.t20",
+          "mn35:8.3.t21",
+          "mn35:8.3.t22",
+          "mn35:8.3.t23",
+          "mn35:8.3.t24",
+          "mn35:8.3.t25",
+          "mn35:8.3.t26",
+          "mn35:8.3.t27",
+          "mn35:8.3.t28",
+          "mn35:8.3.t29",
+          "mn35:8.3.t30",
+          "mn35:8.3.t31",
+          "mn35:8.3.t32",
+          "mn35:8.3.t33",
+          "mn35:8.3.t34",
+          "mn35:8.3.t35"
+        ],
+        "review_status": "approved",
+        "content": "那些離車族人當中，有的向世尊禮拜後坐在一旁；有的與世尊互相問候、寒暄客套後坐在一旁；有的向世尊合掌行禮後坐在一旁；有的在世尊面前報上姓名族姓後坐在一旁；有的則默然坐在一旁。"
+      }
     },
     {
       "segment_id": "mn35:9.1",
@@ -17395,7 +18175,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.1.t0",
+          "mn35:9.1.t1",
+          "mn35:9.1.t2",
+          "mn35:9.1.t3",
+          "mn35:9.1.t4",
+          "mn35:9.1.t5",
+          "mn35:9.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "尼乾陀之子薩遮迦坐在一旁後，對世尊這麼說："
+      }
     },
     {
       "segment_id": "mn35:9.2",
@@ -17834,7 +18627,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.2.t1",
+          "mn35:9.2.t2",
+          "mn35:9.2.t3",
+          "mn35:9.2.t4",
+          "mn35:9.2.t5",
+          "mn35:9.2.t6",
+          "mn35:9.2.t7",
+          "mn35:9.2.t8",
+          "mn35:9.2.t9",
+          "mn35:9.2.t10",
+          "mn35:9.2.t11",
+          "mn35:9.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "「我想請教喬達摩尊者一個問題，如果喬達摩尊者願意給我機會答覆的話。」"
+      }
     },
     {
       "segment_id": "mn35:9.3",
@@ -17956,7 +18767,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.3.t0",
+          "mn35:9.3.t1",
+          "mn35:9.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，你想問就問吧。」"
+      }
     },
     {
       "segment_id": "mn35:9.4",
@@ -18518,7 +19338,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.4.t0",
+          "mn35:9.4.t1",
+          "mn35:9.4.t2",
+          "mn35:9.4.t3",
+          "mn35:9.4.t4",
+          "mn35:9.4.t5",
+          "mn35:9.4.t6",
+          "mn35:9.4.t7",
+          "mn35:9.4.t8",
+          "mn35:9.4.t9",
+          "mn35:9.4.t10",
+          "mn35:9.4.t11",
+          "mn35:9.4.t12",
+          "mn35:9.4.t13",
+          "mn35:9.4.t14",
+          "mn35:9.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者是怎麼教導弟子的呢？喬達摩尊者對弟子們的教誡，大多是以怎樣的方式進行的呢？」"
+      }
     },
     {
       "segment_id": "mn35:9.5",
@@ -18993,7 +19835,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.5.t0",
+          "mn35:9.5.t1",
+          "mn35:9.5.t2",
+          "mn35:9.5.t3",
+          "mn35:9.5.t4",
+          "mn35:9.5.t5",
+          "mn35:9.5.t6",
+          "mn35:9.5.t7",
+          "mn35:9.5.t8",
+          "mn35:9.5.t9",
+          "mn35:9.5.t10",
+          "mn35:9.5.t11",
+          "mn35:9.5.t12",
+          "mn35:9.5.t13"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，我是這樣教導弟子的，我對弟子們的教誡，大多是以這樣的方式進行："
+      }
     },
     {
       "segment_id": "mn35:9.6",
@@ -19714,7 +20576,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.6.t0",
+          "mn35:9.6.t1",
+          "mn35:9.6.t2",
+          "mn35:9.6.t3",
+          "mn35:9.6.t4",
+          "mn35:9.6.t5",
+          "mn35:9.6.t6",
+          "mn35:9.6.t7",
+          "mn35:9.6.t8",
+          "mn35:9.6.t9",
+          "mn35:9.6.t10"
+        ],
+        "review_status": "approved",
+        "content": "『比丘們，色是無常的，受是無常的，想是無常的，行是無常的，識是無常的。』"
+      }
     },
     {
       "segment_id": "mn35:9.7",
@@ -20435,7 +21314,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.7.t0",
+          "mn35:9.7.t1",
+          "mn35:9.7.t2",
+          "mn35:9.7.t3",
+          "mn35:9.7.t4",
+          "mn35:9.7.t5",
+          "mn35:9.7.t6",
+          "mn35:9.7.t7",
+          "mn35:9.7.t8",
+          "mn35:9.7.t9",
+          "mn35:9.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "『比丘們，色是無我的，受是無我的，想是無我的，行是無我的，識是無我的。』"
+      }
     },
     {
       "segment_id": "mn35:9.8",
@@ -20832,7 +21728,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.8.t0",
+          "mn35:9.8.t1",
+          "mn35:9.8.t2",
+          "mn35:9.8.t3",
+          "mn35:9.8.t4",
+          "mn35:9.8.t5",
+          "mn35:9.8.t6"
+        ],
+        "review_status": "approved",
+        "content": "『一切諸行無常，一切法無我。』」"
+      }
     },
     {
       "segment_id": "mn35:9.9",
@@ -21369,7 +22278,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:9.9.t0",
+          "mn35:9.9.t1",
+          "mn35:9.9.t2",
+          "mn35:9.9.t3",
+          "mn35:9.9.t4",
+          "mn35:9.9.t5",
+          "mn35:9.9.t6",
+          "mn35:9.9.t7",
+          "mn35:9.9.t8",
+          "mn35:9.9.t9",
+          "mn35:9.9.t10",
+          "mn35:9.9.t11",
+          "mn35:9.9.t12",
+          "mn35:9.9.t13",
+          "mn35:9.9.t14"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，我就是這樣教導弟子的，我對弟子們的教誡，大多是以這樣的方式進行的。」"
+      }
     },
     {
       "segment_id": "mn35:10.1",
@@ -21577,7 +22507,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.1.t0",
+          "mn35:10.1.t1",
+          "mn35:10.1.t2",
+          "mn35:10.1.t3",
+          "mn35:10.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，我心中浮現一個譬喻。」"
+      }
     },
     {
       "segment_id": "mn35:10.2",
@@ -21821,7 +22762,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.2.t0",
+          "mn35:10.2.t1",
+          "mn35:10.2.t2",
+          "mn35:10.2.t3",
+          "mn35:10.2.t4",
+          "mn35:10.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "世尊說：「阿基韋沙那，說出來吧。」"
+      }
     },
     {
       "segment_id": "mn35:10.3",
@@ -22356,7 +23309,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.3.t0",
+          "mn35:10.3.t1",
+          "mn35:10.3.t2",
+          "mn35:10.3.t3",
+          "mn35:10.3.t4",
+          "mn35:10.3.t5",
+          "mn35:10.3.t6",
+          "mn35:10.3.t7",
+          "mn35:10.3.t8",
+          "mn35:10.3.t9",
+          "mn35:10.3.t10",
+          "mn35:10.3.t11",
+          "mn35:10.3.t12",
+          "mn35:10.3.t13",
+          "mn35:10.3.t14",
+          "mn35:10.3.t15"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，就像任何種子、草木若要生長、茁壯、繁茂，都必須依靠大地、立足於大地，"
+      }
     },
     {
       "segment_id": "mn35:10.4",
@@ -22526,7 +23501,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.4.t1",
+          "mn35:10.4.t2",
+          "mn35:10.4.t3",
+          "mn35:10.4.t4",
+          "mn35:10.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "這些種子、草木才能如此生長、茁壯、繁茂。"
+      }
     },
     {
       "segment_id": "mn35:10.5",
@@ -23143,7 +24129,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.5.t0",
+          "mn35:10.5.t1",
+          "mn35:10.5.t2",
+          "mn35:10.5.t3",
+          "mn35:10.5.t4",
+          "mn35:10.5.t5",
+          "mn35:10.5.t6",
+          "mn35:10.5.t7",
+          "mn35:10.5.t8",
+          "mn35:10.5.t9",
+          "mn35:10.5.t10",
+          "mn35:10.5.t11",
+          "mn35:10.5.t12",
+          "mn35:10.5.t13",
+          "mn35:10.5.t14",
+          "mn35:10.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "又如，喬達摩尊者，任何需要費力去做的工作，都必須依靠大地、立足於大地，"
+      }
     },
     {
       "segment_id": "mn35:10.6",
@@ -23328,7 +24336,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.6.t1",
+          "mn35:10.6.t2",
+          "mn35:10.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "這些費力的工作才能如此完成。"
+      }
     },
     {
       "segment_id": "mn35:10.7",
@@ -25510,7 +26527,63 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:10.7.t0",
+          "mn35:10.7.t1",
+          "mn35:10.7.t2",
+          "mn35:10.7.t3",
+          "mn35:10.7.t4",
+          "mn35:10.7.t5",
+          "mn35:10.7.t6",
+          "mn35:10.7.t7",
+          "mn35:10.7.t8",
+          "mn35:10.7.t9",
+          "mn35:10.7.t10",
+          "mn35:10.7.t11",
+          "mn35:10.7.t12",
+          "mn35:10.7.t13",
+          "mn35:10.7.t14",
+          "mn35:10.7.t15",
+          "mn35:10.7.t16",
+          "mn35:10.7.t17",
+          "mn35:10.7.t18",
+          "mn35:10.7.t19",
+          "mn35:10.7.t20",
+          "mn35:10.7.t21",
+          "mn35:10.7.t22",
+          "mn35:10.7.t23",
+          "mn35:10.7.t24",
+          "mn35:10.7.t25",
+          "mn35:10.7.t26",
+          "mn35:10.7.t27",
+          "mn35:10.7.t28",
+          "mn35:10.7.t29",
+          "mn35:10.7.t30",
+          "mn35:10.7.t31",
+          "mn35:10.7.t32",
+          "mn35:10.7.t33",
+          "mn35:10.7.t34",
+          "mn35:10.7.t35",
+          "mn35:10.7.t36",
+          "mn35:10.7.t37",
+          "mn35:10.7.t38",
+          "mn35:10.7.t39",
+          "mn35:10.7.t40",
+          "mn35:10.7.t41",
+          "mn35:10.7.t42",
+          "mn35:10.7.t43",
+          "mn35:10.7.t44",
+          "mn35:10.7.t45",
+          "mn35:10.7.t46",
+          "mn35:10.7.t47",
+          "mn35:10.7.t48",
+          "mn35:10.7.t49"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，喬達摩尊者，以色為自我的人，立足於色而造作福或非福；以受為自我的人，立足於受而造作福或非福；以想為自我的人，立足於想而造作福或非福；以行為自我的人，立足於行而造作福或非福；以識為自我的人，立足於識而造作福或非福。」"
+      }
     },
     {
       "segment_id": "mn35:11.1",
@@ -25638,7 +26711,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.1.t0",
+          "mn35:11.1.t1",
+          "mn35:11.1.t2",
+          "mn35:11.1.t3",
+          "mn35:11.1.t4"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，你不是這樣說的嗎："
+      }
     },
     {
       "segment_id": "mn35:11.2",
@@ -26719,7 +27803,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.2.t0",
+          "mn35:11.2.t1",
+          "mn35:11.2.t2",
+          "mn35:11.2.t3",
+          "mn35:11.2.t4",
+          "mn35:11.2.t5",
+          "mn35:11.2.t6",
+          "mn35:11.2.t7",
+          "mn35:11.2.t8",
+          "mn35:11.2.t9",
+          "mn35:11.2.t10",
+          "mn35:11.2.t11",
+          "mn35:11.2.t12",
+          "mn35:11.2.t13",
+          "mn35:11.2.t14",
+          "mn35:11.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "『色是我的自我，受是我的自我，想是我的自我，行是我的自我，識是我的自我』?"
+      }
     },
     {
       "segment_id": "mn35:11.3",
@@ -26853,7 +27959,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.3.t0",
+          "mn35:11.3.t1",
+          "mn35:11.3.t2",
+          "mn35:11.3.t3",
+          "mn35:11.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，我確實是這麼說的："
+      }
     },
     {
       "segment_id": "mn35:11.4",
@@ -28111,7 +29228,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.4.t0",
+          "mn35:11.4.t1",
+          "mn35:11.4.t2",
+          "mn35:11.4.t3",
+          "mn35:11.4.t4",
+          "mn35:11.4.t5",
+          "mn35:11.4.t6",
+          "mn35:11.4.t7",
+          "mn35:11.4.t8",
+          "mn35:11.4.t9",
+          "mn35:11.4.t10",
+          "mn35:11.4.t11",
+          "mn35:11.4.t12",
+          "mn35:11.4.t13",
+          "mn35:11.4.t14",
+          "mn35:11.4.t15",
+          "mn35:11.4.t16",
+          "mn35:11.4.t17",
+          "mn35:11.4.t18",
+          "mn35:11.4.t19"
+        ],
+        "review_status": "approved",
+        "content": "『色是我的自我，受是我的自我，想是我的自我，行是我的自我，識是我的自我』，而且這一大群人也是這麼認為的。」"
+      }
     },
     {
       "segment_id": "mn35:11.5",
@@ -28379,7 +29522,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.5.t0",
+          "mn35:11.5.t1",
+          "mn35:11.5.t2",
+          "mn35:11.5.t3",
+          "mn35:11.5.t4",
+          "mn35:11.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，這一大群人能為你做什麼呢？"
+      }
     },
     {
       "segment_id": "mn35:11.6",
@@ -28607,7 +29762,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.6.t0",
+          "mn35:11.6.t1",
+          "mn35:11.6.t2",
+          "mn35:11.6.t3",
+          "mn35:11.6.t4",
+          "mn35:11.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "來吧，阿基韋沙那，你自己解說你自己的主張吧。」"
+      }
     },
     {
       "segment_id": "mn35:11.7",
@@ -28741,7 +29908,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.7.t0",
+          "mn35:11.7.t1",
+          "mn35:11.7.t2",
+          "mn35:11.7.t3",
+          "mn35:11.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，我確實是這麼說的："
+      }
     },
     {
       "segment_id": "mn35:11.8",
@@ -29822,7 +31000,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:11.8.t0",
+          "mn35:11.8.t1",
+          "mn35:11.8.t2",
+          "mn35:11.8.t3",
+          "mn35:11.8.t4",
+          "mn35:11.8.t5",
+          "mn35:11.8.t6",
+          "mn35:11.8.t7",
+          "mn35:11.8.t8",
+          "mn35:11.8.t9",
+          "mn35:11.8.t10",
+          "mn35:11.8.t11",
+          "mn35:11.8.t12",
+          "mn35:11.8.t13",
+          "mn35:11.8.t14",
+          "mn35:11.8.t15"
+        ],
+        "review_status": "approved",
+        "content": "『色是我的自我，受是我的自我，想是我的自我，行是我的自我，識是我的自我』。」"
+      }
     },
     {
       "segment_id": "mn35:12.1",
@@ -30185,7 +31385,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.1.t0",
+          "mn35:12.1.t1",
+          "mn35:12.1.t2",
+          "mn35:12.1.t3",
+          "mn35:12.1.t4",
+          "mn35:12.1.t5",
+          "mn35:12.1.t6",
+          "mn35:12.1.t7",
+          "mn35:12.1.t8",
+          "mn35:12.1.t9",
+          "mn35:12.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "「那麼，阿基韋沙那，關於這一點我要反問你，你就照你認為合適的方式回答吧。"
+      }
     },
     {
       "segment_id": "mn35:12.2",
@@ -30361,7 +31578,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.2.t0",
+          "mn35:12.2.t1",
+          "mn35:12.2.t2",
+          "mn35:12.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何呢？"
+      }
     },
     {
       "segment_id": "mn35:12.3",
@@ -30677,7 +31904,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.3.t0",
+          "mn35:12.3.t1",
+          "mn35:12.3.t2",
+          "mn35:12.3.t3",
+          "mn35:12.3.t4",
+          "mn35:12.3.t5",
+          "mn35:12.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "一位已受灌頂的剎帝利國王，在自己所統治的領土內，是否能夠自在行使權力，"
+      }
     },
     {
       "segment_id": "mn35:12.4",
@@ -31366,7 +32606,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.4.t0",
+          "mn35:12.4.t1",
+          "mn35:12.4.t2",
+          "mn35:12.4.t3",
+          "mn35:12.4.t4",
+          "mn35:12.4.t5",
+          "mn35:12.4.t6",
+          "mn35:12.4.t7",
+          "mn35:12.4.t8",
+          "mn35:12.4.t9",
+          "mn35:12.4.t10",
+          "mn35:12.4.t11",
+          "mn35:12.4.t12",
+          "mn35:12.4.t13",
+          "mn35:12.4.t14",
+          "mn35:12.4.t15",
+          "mn35:12.4.t16",
+          "mn35:12.4.t17",
+          "mn35:12.4.t18",
+          "mn35:12.4.t20"
+        ],
+        "review_status": "approved",
+        "content": "處死應處死者、罰款應罰款者、放逐應放逐者呢？就像憍薩羅國波斯匿王那樣，或者像韋提希子摩揭陀王阿闍世那樣？」"
+      }
     },
     {
       "segment_id": "mn35:12.5",
@@ -31722,7 +32988,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.5.t0",
+          "mn35:12.5.t1",
+          "mn35:12.5.t2",
+          "mn35:12.5.t3",
+          "mn35:12.5.t4",
+          "mn35:12.5.t5",
+          "mn35:12.5.t6",
+          "mn35:12.5.t7",
+          "mn35:12.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，灌頂剎帝利王在自己所征服的國土中，是能運用自在之權的，"
+      }
     },
     {
       "segment_id": "mn35:12.6",
@@ -32396,7 +33677,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.6.t0",
+          "mn35:12.6.t1",
+          "mn35:12.6.t2",
+          "mn35:12.6.t3",
+          "mn35:12.6.t4",
+          "mn35:12.6.t5",
+          "mn35:12.6.t6",
+          "mn35:12.6.t7",
+          "mn35:12.6.t8",
+          "mn35:12.6.t9",
+          "mn35:12.6.t10",
+          "mn35:12.6.t11",
+          "mn35:12.6.t12",
+          "mn35:12.6.t13",
+          "mn35:12.6.t14",
+          "mn35:12.6.t15",
+          "mn35:12.6.t16",
+          "mn35:12.6.t17",
+          "mn35:12.6.t18",
+          "mn35:12.6.t19"
+        ],
+        "review_status": "approved",
+        "content": "可以處死應處死者、罰款應罰款者、驅逐應驅逐者——就像憍薩羅王波斯匿，或是摩揭陀王韋提希子阿闍世那樣。"
+      }
     },
     {
       "segment_id": "mn35:12.7",
@@ -32583,7 +33890,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.7.t0",
+          "mn35:12.7.t1",
+          "mn35:12.7.t2",
+          "mn35:12.7.t3",
+          "mn35:12.7.t4",
+          "mn35:12.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，即使是這些僧團、集會，"
+      }
     },
     {
       "segment_id": "mn35:12.8",
@@ -32714,7 +34033,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.8.t0",
+          "mn35:12.8.t1",
+          "mn35:12.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "也就是跋耆族、末羅族，"
+      }
     },
     {
       "segment_id": "mn35:12.9",
@@ -32891,7 +34219,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.9.t0",
+          "mn35:12.9.t1",
+          "mn35:12.9.t2",
+          "mn35:12.9.t3"
+        ],
+        "review_status": "approved",
+        "content": "在自己的國土中，也運用著自在之權，"
+      }
     },
     {
       "segment_id": "mn35:12.10",
@@ -33227,7 +34565,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.10.t0",
+          "mn35:12.10.t1",
+          "mn35:12.10.t2",
+          "mn35:12.10.t3",
+          "mn35:12.10.t4",
+          "mn35:12.10.t5",
+          "mn35:12.10.t6",
+          "mn35:12.10.t7",
+          "mn35:12.10.t8"
+        ],
+        "review_status": "approved",
+        "content": "可以處死應處死者、罰款應罰款者、驅逐應驅逐者。"
+      }
     },
     {
       "segment_id": "mn35:12.11",
@@ -33785,7 +35138,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.11.t0",
+          "mn35:12.11.t1",
+          "mn35:12.11.t2",
+          "mn35:12.11.t3",
+          "mn35:12.11.t4",
+          "mn35:12.11.t5",
+          "mn35:12.11.t6",
+          "mn35:12.11.t7",
+          "mn35:12.11.t8",
+          "mn35:12.11.t9",
+          "mn35:12.11.t10",
+          "mn35:12.11.t11",
+          "mn35:12.11.t12",
+          "mn35:12.11.t13",
+          "mn35:12.11.t14",
+          "mn35:12.11.t15"
+        ],
+        "review_status": "approved",
+        "content": "更何況灌頂剎帝利王，就像憍薩羅王波斯匿，或是摩揭陀王韋提希子阿闍世呢？"
+      }
     },
     {
       "segment_id": "mn35:12.12",
@@ -33916,7 +35291,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:12.12.t0",
+          "mn35:12.12.t1",
+          "mn35:12.12.t2",
+          "mn35:12.12.t3",
+          "mn35:12.12.t5"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，他是能運用此權的，而且理當運用。」"
+      }
     },
     {
       "segment_id": "mn35:13.1",
@@ -34092,7 +35478,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.1.t0",
+          "mn35:13.1.t1",
+          "mn35:13.1.t2",
+          "mn35:13.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，你認為如何？"
+      }
     },
     {
       "segment_id": "mn35:13.2",
@@ -34251,7 +35647,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.2.t0",
+          "mn35:13.2.t1",
+          "mn35:13.2.t2",
+          "mn35:13.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:13.3",
@@ -34724,7 +36130,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.3.t0",
+          "mn35:13.3.t1",
+          "mn35:13.3.t2",
+          "mn35:13.3.t3",
+          "mn35:13.3.t4",
+          "mn35:13.3.t5",
+          "mn35:13.3.t6",
+          "mn35:13.3.t7",
+          "mn35:13.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "『色是我』——你對那色，是否有這樣的自在之權："
+      }
     },
     {
       "segment_id": "mn35:13.4",
@@ -35170,7 +36591,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.4.t0",
+          "mn35:13.4.t1",
+          "mn35:13.4.t2",
+          "mn35:13.4.t3",
+          "mn35:13.4.t4",
+          "mn35:13.4.t5",
+          "mn35:13.4.t6",
+          "mn35:13.4.t7",
+          "mn35:13.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的色是這樣，願我的色不是那樣』？」"
+      }
     },
     {
       "segment_id": "mn35:13.5",
@@ -35331,7 +36767,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.5.t0",
+          "mn35:13.5.t1",
+          "mn35:13.5.t2",
+          "mn35:13.5.t3",
+          "mn35:13.5.t4",
+          "mn35:13.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說時，薩遮迦尼揵子沉默不語。"
+      }
     },
     {
       "segment_id": "mn35:13.6",
@@ -35533,7 +36981,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.6.t0",
+          "mn35:13.6.t1",
+          "mn35:13.6.t2",
+          "mn35:13.6.t3",
+          "mn35:13.6.t4",
+          "mn35:13.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "世尊第二次對薩遮迦尼揵子這樣說："
+      }
     },
     {
       "segment_id": "mn35:13.7",
@@ -35862,7 +37322,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.7.t0",
+          "mn35:13.7.t1",
+          "mn35:13.7.t2",
+          "mn35:13.7.t3",
+          "mn35:13.7.t4",
+          "mn35:13.7.t5",
+          "mn35:13.7.t6",
+          "mn35:13.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，你認為如何？你這樣說："
+      }
     },
     {
       "segment_id": "mn35:13.8",
@@ -36335,7 +37809,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.8.t0",
+          "mn35:13.8.t1",
+          "mn35:13.8.t2",
+          "mn35:13.8.t3",
+          "mn35:13.8.t4",
+          "mn35:13.8.t5",
+          "mn35:13.8.t6",
+          "mn35:13.8.t7",
+          "mn35:13.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "『色是我』——你對那色，是否有這樣的自在之權："
+      }
     },
     {
       "segment_id": "mn35:13.9",
@@ -36781,7 +38270,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.9.t0",
+          "mn35:13.9.t1",
+          "mn35:13.9.t2",
+          "mn35:13.9.t3",
+          "mn35:13.9.t4",
+          "mn35:13.9.t5",
+          "mn35:13.9.t6",
+          "mn35:13.9.t7",
+          "mn35:13.9.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的色是這樣，願我的色不是那樣』？」"
+      }
     },
     {
       "segment_id": "mn35:13.10",
@@ -36947,7 +38451,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.10.t0",
+          "mn35:13.10.t1",
+          "mn35:13.10.t2",
+          "mn35:13.10.t3",
+          "mn35:13.10.t4",
+          "mn35:13.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "薩遮迦尼揵子第二次沉默不語。"
+      }
     },
     {
       "segment_id": "mn35:13.11",
@@ -37089,7 +38605,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.11.t0",
+          "mn35:13.11.t1",
+          "mn35:13.11.t2",
+          "mn35:13.11.t3",
+          "mn35:13.11.t4",
+          "mn35:13.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "於是，世尊對薩遮迦尼揵子這樣說："
+      }
     },
     {
       "segment_id": "mn35:13.12",
@@ -37318,7 +38846,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.12.t0",
+          "mn35:13.12.t1",
+          "mn35:13.12.t2",
+          "mn35:13.12.t3",
+          "mn35:13.12.t4",
+          "mn35:13.12.t5",
+          "mn35:13.12.t6",
+          "mn35:13.12.t7"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，現在回答吧，現在不是你沉默的時候了。"
+      }
     },
     {
       "segment_id": "mn35:13.13",
@@ -37778,7 +39320,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:13.13.t0",
+          "mn35:13.13.t1",
+          "mn35:13.13.t2",
+          "mn35:13.13.t3",
+          "mn35:13.13.t4",
+          "mn35:13.13.t5",
+          "mn35:13.13.t6",
+          "mn35:13.13.t7",
+          "mn35:13.13.t8",
+          "mn35:13.13.t9",
+          "mn35:13.13.t10",
+          "mn35:13.13.t11",
+          "mn35:13.13.t12",
+          "mn35:13.13.t13",
+          "mn35:13.13.t14"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，任何人被如來如法問到第三次仍不回答，當場他的頭就會裂成七片。」"
+      }
     },
     {
       "segment_id": "mn35:14.1",
@@ -38311,7 +39874,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:14.1.t0",
+          "mn35:14.1.t1",
+          "mn35:14.1.t2",
+          "mn35:14.1.t3",
+          "mn35:14.1.t4",
+          "mn35:14.1.t5",
+          "mn35:14.1.t6",
+          "mn35:14.1.t7",
+          "mn35:14.1.t8",
+          "mn35:14.1.t9",
+          "mn35:14.1.t10",
+          "mn35:14.1.t11",
+          "mn35:14.1.t12",
+          "mn35:14.1.t13",
+          "mn35:14.1.t14",
+          "mn35:14.1.t15",
+          "mn35:14.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "當時，執金剛夜叉手持鐵製的金剛杵，那金剛杵熾燃、燒紅、發光，站在薩遮迦尼揵子上方的虛空中，"
+      }
     },
     {
       "segment_id": "mn35:14.2",
@@ -38748,7 +40334,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:14.2.t0",
+          "mn35:14.2.t1",
+          "mn35:14.2.t2",
+          "mn35:14.2.t3",
+          "mn35:14.2.t4",
+          "mn35:14.2.t5",
+          "mn35:14.2.t6",
+          "mn35:14.2.t7",
+          "mn35:14.2.t8",
+          "mn35:14.2.t9",
+          "mn35:14.2.t10",
+          "mn35:14.2.t11",
+          "mn35:14.2.t12",
+          "mn35:14.2.t14"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『如果這位薩遮迦尼揵子被世尊如法問到第三次仍不回答，我就當場把他的頭劈成七片。』"
+      }
     },
     {
       "segment_id": "mn35:14.3",
@@ -39057,7 +40663,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:14.3.t0",
+          "mn35:14.3.t1",
+          "mn35:14.3.t2",
+          "mn35:14.3.t3",
+          "mn35:14.3.t4",
+          "mn35:14.3.t5",
+          "mn35:14.3.t6",
+          "mn35:14.3.t7",
+          "mn35:14.3.t8",
+          "mn35:14.3.t9",
+          "mn35:14.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "而世尊看見了那執金剛夜叉，薩遮迦尼揵子也看見了。"
+      }
     },
     {
       "segment_id": "mn35:14.4",
@@ -39700,7 +41323,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:14.4.t0",
+          "mn35:14.4.t1",
+          "mn35:14.4.t2",
+          "mn35:14.4.t3",
+          "mn35:14.4.t4",
+          "mn35:14.4.t5",
+          "mn35:14.4.t6",
+          "mn35:14.4.t7",
+          "mn35:14.4.t8",
+          "mn35:14.4.t9",
+          "mn35:14.4.t10",
+          "mn35:14.4.t11",
+          "mn35:14.4.t12",
+          "mn35:14.4.t13",
+          "mn35:14.4.t14",
+          "mn35:14.4.t15",
+          "mn35:14.4.t16",
+          "mn35:14.4.t17"
+        ],
+        "review_status": "approved",
+        "content": "於是，薩遮迦尼揵子感到恐懼、驚懼、身毛豎立，只向世尊尋求庇護、只向世尊尋求藏身之所、只向世尊尋求皈依，對世尊這樣說："
+      }
     },
     {
       "segment_id": "mn35:14.5",
@@ -39898,7 +41545,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:14.5.t0",
+          "mn35:14.5.t1",
+          "mn35:14.5.t2",
+          "mn35:14.5.t3",
+          "mn35:14.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "「請喬達摩尊者問我，我會回答。」"
+      }
     },
     {
       "segment_id": "mn35:15.1",
@@ -40074,7 +41732,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:15.1.t0",
+          "mn35:15.1.t1",
+          "mn35:15.1.t2",
+          "mn35:15.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，你認為如何？"
+      }
     },
     {
       "segment_id": "mn35:15.2",
@@ -40233,7 +41901,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:15.2.t0",
+          "mn35:15.2.t1",
+          "mn35:15.2.t2",
+          "mn35:15.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:15.3",
@@ -40706,7 +42384,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:15.3.t0",
+          "mn35:15.3.t1",
+          "mn35:15.3.t2",
+          "mn35:15.3.t3",
+          "mn35:15.3.t4",
+          "mn35:15.3.t5",
+          "mn35:15.3.t6",
+          "mn35:15.3.t7",
+          "mn35:15.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "『色是我』——你對那色，是否有這樣的自在之權："
+      }
     },
     {
       "segment_id": "mn35:15.4",
@@ -41152,7 +42845,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:15.4.t0",
+          "mn35:15.4.t1",
+          "mn35:15.4.t2",
+          "mn35:15.4.t3",
+          "mn35:15.4.t4",
+          "mn35:15.4.t5",
+          "mn35:15.4.t6",
+          "mn35:15.4.t7",
+          "mn35:15.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的色是這樣，願我的色不是那樣』？」"
+      }
     },
     {
       "segment_id": "mn35:15.5",
@@ -41270,7 +42978,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:15.5.t0",
+          "mn35:15.5.t1",
+          "mn35:15.5.t2",
+          "mn35:15.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "「不，喬達摩尊者，並非如此。」"
+      }
     },
     {
       "segment_id": "mn35:16.1",
@@ -41321,7 +43039,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.1.t0",
+          "mn35:16.1.t1",
+          "mn35:16.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "「阿基韋沙那，好好思惟。"
+      }
     },
     {
       "segment_id": "mn35:16.2",
@@ -41402,7 +43129,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.2.t0",
+          "mn35:16.2.t1",
+          "mn35:16.2.t2",
+          "mn35:16.2.t3",
+          "mn35:16.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，思惟之後再回答。"
+      }
     },
     {
       "segment_id": "mn35:16.3",
@@ -41853,7 +43591,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.3.t0",
+          "mn35:16.3.t1",
+          "mn35:16.3.t2",
+          "mn35:16.3.t3",
+          "mn35:16.3.t4",
+          "mn35:16.3.t5",
+          "mn35:16.3.t6",
+          "mn35:16.3.t7",
+          "mn35:16.3.t8",
+          "mn35:16.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "你前面所說的與後面對不上，後面所說的與前面也對不上。"
+      }
     },
     {
       "segment_id": "mn35:16.4",
@@ -42029,7 +43783,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.4.t0",
+          "mn35:16.4.t1",
+          "mn35:16.4.t2",
+          "mn35:16.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何？"
+      }
     },
     {
       "segment_id": "mn35:16.5",
@@ -42188,7 +43952,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.5.t0",
+          "mn35:16.5.t1",
+          "mn35:16.5.t2",
+          "mn35:16.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:16.6",
@@ -42616,7 +44390,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.6.t0",
+          "mn35:16.6.t1",
+          "mn35:16.6.t2",
+          "mn35:16.6.t3",
+          "mn35:16.6.t4",
+          "mn35:16.6.t5",
+          "mn35:16.6.t6",
+          "mn35:16.6.t7",
+          "mn35:16.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『受是我』——你對那個受有自在嗎，"
+      }
     },
     {
       "segment_id": "mn35:16.7",
@@ -43062,7 +44851,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.7.t0",
+          "mn35:16.7.t1",
+          "mn35:16.7.t2",
+          "mn35:16.7.t3",
+          "mn35:16.7.t4",
+          "mn35:16.7.t5",
+          "mn35:16.7.t6",
+          "mn35:16.7.t7",
+          "mn35:16.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的受如此，願我的受不那樣』？"
+      }
     },
     {
       "segment_id": "mn35:16.8",
@@ -43180,7 +44984,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:16.8.t0",
+          "mn35:16.8.t1",
+          "mn35:16.8.t2",
+          "mn35:16.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:17.1",
@@ -43231,7 +45045,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.1.t0",
+          "mn35:17.1.t1",
+          "mn35:17.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你要仔細思惟。"
+      }
     },
     {
       "segment_id": "mn35:17.2",
@@ -43312,7 +45135,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.2.t0",
+          "mn35:17.2.t1",
+          "mn35:17.2.t2",
+          "mn35:17.2.t3",
+          "mn35:17.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，思惟清楚之後再回答。"
+      }
     },
     {
       "segment_id": "mn35:17.3",
@@ -43763,7 +45597,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.3.t0",
+          "mn35:17.3.t1",
+          "mn35:17.3.t2",
+          "mn35:17.3.t3",
+          "mn35:17.3.t4",
+          "mn35:17.3.t5",
+          "mn35:17.3.t6",
+          "mn35:17.3.t7",
+          "mn35:17.3.t8",
+          "mn35:17.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "你前面所說的與後面對不上，後面所說的也與前面對不上。"
+      }
     },
     {
       "segment_id": "mn35:17.4",
@@ -43939,7 +45789,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.4.t0",
+          "mn35:17.4.t1",
+          "mn35:17.4.t2",
+          "mn35:17.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，"
+      }
     },
     {
       "segment_id": "mn35:17.5",
@@ -44098,7 +45958,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.5.t0",
+          "mn35:17.5.t1",
+          "mn35:17.5.t2",
+          "mn35:17.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:17.6",
@@ -44526,7 +46396,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.6.t0",
+          "mn35:17.6.t1",
+          "mn35:17.6.t2",
+          "mn35:17.6.t3",
+          "mn35:17.6.t4",
+          "mn35:17.6.t5",
+          "mn35:17.6.t6",
+          "mn35:17.6.t7",
+          "mn35:17.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『想是我』——你對那個想有自在嗎，"
+      }
     },
     {
       "segment_id": "mn35:17.7",
@@ -44972,7 +46857,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.7.t0",
+          "mn35:17.7.t1",
+          "mn35:17.7.t2",
+          "mn35:17.7.t3",
+          "mn35:17.7.t4",
+          "mn35:17.7.t5",
+          "mn35:17.7.t6",
+          "mn35:17.7.t7",
+          "mn35:17.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的想如此，願我的想不那樣』？"
+      }
     },
     {
       "segment_id": "mn35:17.8",
@@ -45090,7 +46990,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:17.8.t0",
+          "mn35:17.8.t1",
+          "mn35:17.8.t2",
+          "mn35:17.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:18.1",
@@ -45141,7 +47051,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.1.t0",
+          "mn35:18.1.t1",
+          "mn35:18.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你要仔細思惟。"
+      }
     },
     {
       "segment_id": "mn35:18.2",
@@ -45222,7 +47141,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.2.t0",
+          "mn35:18.2.t1",
+          "mn35:18.2.t2",
+          "mn35:18.2.t3",
+          "mn35:18.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，思惟清楚之後再回答。"
+      }
     },
     {
       "segment_id": "mn35:18.3",
@@ -45673,7 +47603,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.3.t0",
+          "mn35:18.3.t1",
+          "mn35:18.3.t2",
+          "mn35:18.3.t3",
+          "mn35:18.3.t4",
+          "mn35:18.3.t5",
+          "mn35:18.3.t6",
+          "mn35:18.3.t7",
+          "mn35:18.3.t8",
+          "mn35:18.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "你前面所說的與後面對不上，後面所說的也與前面對不上。"
+      }
     },
     {
       "segment_id": "mn35:18.4",
@@ -45849,7 +47795,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.4.t0",
+          "mn35:18.4.t1",
+          "mn35:18.4.t2",
+          "mn35:18.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，"
+      }
     },
     {
       "segment_id": "mn35:18.5",
@@ -46008,7 +47964,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.5.t0",
+          "mn35:18.5.t1",
+          "mn35:18.5.t2",
+          "mn35:18.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:18.6",
@@ -46445,7 +48411,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.6.t0",
+          "mn35:18.6.t1",
+          "mn35:18.6.t2",
+          "mn35:18.6.t3",
+          "mn35:18.6.t4",
+          "mn35:18.6.t5",
+          "mn35:18.6.t6",
+          "mn35:18.6.t7",
+          "mn35:18.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『諸行是我』——你對那些行有自在嗎，"
+      }
     },
     {
       "segment_id": "mn35:18.7",
@@ -46886,7 +48867,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.7.t0",
+          "mn35:18.7.t1",
+          "mn35:18.7.t2",
+          "mn35:18.7.t3",
+          "mn35:18.7.t4",
+          "mn35:18.7.t5",
+          "mn35:18.7.t6",
+          "mn35:18.7.t7",
+          "mn35:18.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的諸行如此，願我的諸行不那樣』？"
+      }
     },
     {
       "segment_id": "mn35:18.8",
@@ -47004,7 +49000,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:18.8.t0",
+          "mn35:18.8.t1",
+          "mn35:18.8.t2",
+          "mn35:18.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:19.1",
@@ -47055,7 +49061,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.1.t0",
+          "mn35:19.1.t1",
+          "mn35:19.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你要仔細思惟。"
+      }
     },
     {
       "segment_id": "mn35:19.2",
@@ -47136,7 +49151,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.2.t0",
+          "mn35:19.2.t1",
+          "mn35:19.2.t2",
+          "mn35:19.2.t3",
+          "mn35:19.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，思惟清楚之後再回答。"
+      }
     },
     {
       "segment_id": "mn35:19.3",
@@ -47587,7 +49613,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.3.t0",
+          "mn35:19.3.t1",
+          "mn35:19.3.t2",
+          "mn35:19.3.t3",
+          "mn35:19.3.t4",
+          "mn35:19.3.t5",
+          "mn35:19.3.t6",
+          "mn35:19.3.t7",
+          "mn35:19.3.t8",
+          "mn35:19.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "你前面所說的與後面對不上，後面所說的也與前面對不上。"
+      }
     },
     {
       "segment_id": "mn35:19.4",
@@ -47763,7 +49805,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.4.t0",
+          "mn35:19.4.t1",
+          "mn35:19.4.t2",
+          "mn35:19.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，"
+      }
     },
     {
       "segment_id": "mn35:19.5",
@@ -47922,7 +49974,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.5.t0",
+          "mn35:19.5.t1",
+          "mn35:19.5.t2",
+          "mn35:19.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "你這樣說："
+      }
     },
     {
       "segment_id": "mn35:19.6",
@@ -48395,7 +50457,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.6.t0",
+          "mn35:19.6.t1",
+          "mn35:19.6.t2",
+          "mn35:19.6.t3",
+          "mn35:19.6.t4",
+          "mn35:19.6.t5",
+          "mn35:19.6.t6",
+          "mn35:19.6.t7",
+          "mn35:19.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "『識是我』——你對那個識有自在嗎，"
+      }
     },
     {
       "segment_id": "mn35:19.7",
@@ -48841,7 +50918,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.7.t0",
+          "mn35:19.7.t1",
+          "mn35:19.7.t2",
+          "mn35:19.7.t3",
+          "mn35:19.7.t4",
+          "mn35:19.7.t5",
+          "mn35:19.7.t6",
+          "mn35:19.7.t7",
+          "mn35:19.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "『願我的識如此，願我的識不那樣』？"
+      }
     },
     {
       "segment_id": "mn35:19.8",
@@ -48959,7 +51051,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:19.8.t0",
+          "mn35:19.8.t1",
+          "mn35:19.8.t2",
+          "mn35:19.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:20.1",
@@ -49010,7 +51112,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.1.t0",
+          "mn35:20.1.t1",
+          "mn35:20.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你要仔細思惟。"
+      }
     },
     {
       "segment_id": "mn35:20.2",
@@ -49091,7 +51202,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.2.t0",
+          "mn35:20.2.t1",
+          "mn35:20.2.t2",
+          "mn35:20.2.t3",
+          "mn35:20.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，思惟清楚之後再回答。"
+      }
     },
     {
       "segment_id": "mn35:20.3",
@@ -49542,7 +51664,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.3.t0",
+          "mn35:20.3.t1",
+          "mn35:20.3.t2",
+          "mn35:20.3.t3",
+          "mn35:20.3.t4",
+          "mn35:20.3.t5",
+          "mn35:20.3.t6",
+          "mn35:20.3.t7",
+          "mn35:20.3.t8",
+          "mn35:20.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "你前面所說的與後面對不上，後面所說的也與前面對不上。"
+      }
     },
     {
       "segment_id": "mn35:20.4",
@@ -49718,7 +51856,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.4.t0",
+          "mn35:20.4.t1",
+          "mn35:20.4.t2",
+          "mn35:20.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，"
+      }
     },
     {
       "segment_id": "mn35:20.5",
@@ -50036,7 +52184,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.5.t0",
+          "mn35:20.5.t1",
+          "mn35:20.5.t2",
+          "mn35:20.5.t3",
+          "mn35:20.5.t4",
+          "mn35:20.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "『色是常還是無常？』"
+      }
     },
     {
       "segment_id": "mn35:20.6",
@@ -50152,7 +52312,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.6.t0",
+          "mn35:20.6.t1",
+          "mn35:20.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "無常，喬達摩尊者。"
+      }
     },
     {
       "segment_id": "mn35:20.7",
@@ -50578,7 +52747,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.7.t0",
+          "mn35:20.7.t1",
+          "mn35:20.7.t2",
+          "mn35:20.7.t3",
+          "mn35:20.7.t4",
+          "mn35:20.7.t5",
+          "mn35:20.7.t6",
+          "mn35:20.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "『那無常的，是苦還是樂？』"
+      }
     },
     {
       "segment_id": "mn35:20.8",
@@ -50694,7 +52877,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.8.t0",
+          "mn35:20.8.t1",
+          "mn35:20.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "苦，喬達摩尊者。"
+      }
     },
     {
       "segment_id": "mn35:20.9",
@@ -51064,7 +53256,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.9.t0",
+          "mn35:20.9.t1",
+          "mn35:20.9.t2",
+          "mn35:20.9.t3",
+          "mn35:20.9.t4",
+          "mn35:20.9.t5",
+          "mn35:20.9.t6",
+          "mn35:20.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "那無常、苦、會變易之法，是否適合這樣看待它，"
+      }
     },
     {
       "segment_id": "mn35:20.10",
@@ -51376,7 +53582,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.10.t0",
+          "mn35:20.10.t1",
+          "mn35:20.10.t2",
+          "mn35:20.10.t3",
+          "mn35:20.10.t4",
+          "mn35:20.10.t5",
+          "mn35:20.10.t6"
+        ],
+        "review_status": "approved",
+        "content": "『這是我的、我就是這個、這是我的自我』？"
+      }
     },
     {
       "segment_id": "mn35:20.11",
@@ -51494,7 +53713,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.11.t0",
+          "mn35:20.11.t1",
+          "mn35:20.11.t2",
+          "mn35:20.11.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:20.12",
@@ -51670,7 +53899,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.12.t0",
+          "mn35:20.12.t1",
+          "mn35:20.12.t2",
+          "mn35:20.12.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，"
+      }
     },
     {
       "segment_id": "mn35:20.13",
@@ -51816,7 +54055,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.13.t0",
+          "mn35:20.13.t1"
+        ],
+        "review_status": "approved",
+        "content": "受……"
+      }
     },
     {
       "segment_id": "mn35:20.14",
@@ -51962,7 +54209,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.14.t0",
+          "mn35:20.14.t1"
+        ],
+        "review_status": "approved",
+        "content": "想……"
+      }
     },
     {
       "segment_id": "mn35:20.15",
@@ -52108,7 +54363,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.15.t0",
+          "mn35:20.15.t1"
+        ],
+        "review_status": "approved",
+        "content": "行……"
+      }
     },
     {
       "segment_id": "mn35:20.16",
@@ -52596,7 +54859,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.16.t0",
+          "mn35:20.16.t1",
+          "mn35:20.16.t2",
+          "mn35:20.16.t3",
+          "mn35:20.16.t4",
+          "mn35:20.16.t5",
+          "mn35:20.16.t6",
+          "mn35:20.16.t7",
+          "mn35:20.16.t8",
+          "mn35:20.16.t9"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何，『識是常還是無常？』"
+      }
     },
     {
       "segment_id": "mn35:20.17",
@@ -52712,7 +54991,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.17.t0",
+          "mn35:20.17.t1",
+          "mn35:20.17.t2"
+        ],
+        "review_status": "approved",
+        "content": "無常，喬達摩尊者。"
+      }
     },
     {
       "segment_id": "mn35:20.18",
@@ -53138,7 +55426,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.18.t0",
+          "mn35:20.18.t1",
+          "mn35:20.18.t2",
+          "mn35:20.18.t3",
+          "mn35:20.18.t4",
+          "mn35:20.18.t5",
+          "mn35:20.18.t6",
+          "mn35:20.18.t7"
+        ],
+        "review_status": "approved",
+        "content": "『那無常的，是苦還是樂？』"
+      }
     },
     {
       "segment_id": "mn35:20.19",
@@ -53254,7 +55556,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.19.t0",
+          "mn35:20.19.t1",
+          "mn35:20.19.t2"
+        ],
+        "review_status": "approved",
+        "content": "苦，喬達摩尊者。"
+      }
     },
     {
       "segment_id": "mn35:20.20",
@@ -53624,7 +55935,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.20.t0",
+          "mn35:20.20.t1",
+          "mn35:20.20.t2",
+          "mn35:20.20.t3",
+          "mn35:20.20.t4",
+          "mn35:20.20.t5",
+          "mn35:20.20.t6",
+          "mn35:20.20.t7"
+        ],
+        "review_status": "approved",
+        "content": "那無常、苦、會變易之法，是否適合這樣看待它，"
+      }
     },
     {
       "segment_id": "mn35:20.21",
@@ -53936,7 +56261,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.21.t0",
+          "mn35:20.21.t1",
+          "mn35:20.21.t2",
+          "mn35:20.21.t3",
+          "mn35:20.21.t4",
+          "mn35:20.21.t5",
+          "mn35:20.21.t6"
+        ],
+        "review_status": "approved",
+        "content": "『這是我的、我就是這個、這是我的自我』？"
+      }
     },
     {
       "segment_id": "mn35:20.22",
@@ -54054,7 +56392,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:20.22.t0",
+          "mn35:20.22.t1",
+          "mn35:20.22.t2",
+          "mn35:20.22.t3"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:21.1",
@@ -54230,7 +56578,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.1.t0",
+          "mn35:21.1.t1",
+          "mn35:21.1.t2",
+          "mn35:21.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何？"
+      }
     },
     {
       "segment_id": "mn35:21.2",
@@ -55443,7 +57801,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.2.t0",
+          "mn35:21.2.t1",
+          "mn35:21.2.t2",
+          "mn35:21.2.t3",
+          "mn35:21.2.t4",
+          "mn35:21.2.t5",
+          "mn35:21.2.t6",
+          "mn35:21.2.t7",
+          "mn35:21.2.t8",
+          "mn35:21.2.t9",
+          "mn35:21.2.t10",
+          "mn35:21.2.t11",
+          "mn35:21.2.t12",
+          "mn35:21.2.t13",
+          "mn35:21.2.t14",
+          "mn35:21.2.t15",
+          "mn35:21.2.t16",
+          "mn35:21.2.t17",
+          "mn35:21.2.t18",
+          "mn35:21.2.t19",
+          "mn35:21.2.t20",
+          "mn35:21.2.t21",
+          "mn35:21.2.t22",
+          "mn35:21.2.t23",
+          "mn35:21.2.t24",
+          "mn35:21.2.t25",
+          "mn35:21.2.t26",
+          "mn35:21.2.t27",
+          "mn35:21.2.t28",
+          "mn35:21.2.t30"
+        ],
+        "review_status": "approved",
+        "content": "凡是黏著於苦、深陷於苦、耽溺於苦，而如此看待：『這是我的、我就是這個、這是我的自我』的人，他能夠自己徹底了知苦，或摒棄苦而安住嗎？"
+      }
     },
     {
       "segment_id": "mn35:21.3",
@@ -55579,7 +57973,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.3.t0",
+          "mn35:21.3.t1",
+          "mn35:21.3.t2",
+          "mn35:21.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "怎麼可能呢，喬達摩尊者？"
+      }
     },
     {
       "segment_id": "mn35:21.4",
@@ -55759,7 +58163,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.4.t0",
+          "mn35:21.4.t1",
+          "mn35:21.4.t2",
+          "mn35:21.4.t3",
+          "mn35:21.4.t4"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，確實不是這樣。"
+      }
     },
     {
       "segment_id": "mn35:21.5",
@@ -55935,7 +58350,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.5.t0",
+          "mn35:21.5.t1",
+          "mn35:21.5.t2",
+          "mn35:21.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，你認為如何？"
+      }
     },
     {
       "segment_id": "mn35:21.6",
@@ -56419,7 +58844,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.6.t0",
+          "mn35:21.6.t1",
+          "mn35:21.6.t2",
+          "mn35:21.6.t3",
+          "mn35:21.6.t4",
+          "mn35:21.6.t5",
+          "mn35:21.6.t6",
+          "mn35:21.6.t7",
+          "mn35:21.6.t8",
+          "mn35:21.6.t9",
+          "mn35:21.6.t10"
+        ],
+        "review_status": "approved",
+        "content": "既然如此，你豈不是黏著於苦、深陷於苦、耽溺於苦，"
+      }
     },
     {
       "segment_id": "mn35:21.7",
@@ -56771,7 +59213,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.7.t0",
+          "mn35:21.7.t1",
+          "mn35:21.7.t2",
+          "mn35:21.7.t3",
+          "mn35:21.7.t4",
+          "mn35:21.7.t5",
+          "mn35:21.7.t6",
+          "mn35:21.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "而如此看待：『這是我的、我就是這個、這是我的自我』嗎？"
+      }
     },
     {
       "segment_id": "mn35:21.8",
@@ -56959,7 +59415,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.8.t0",
+          "mn35:21.8.t1",
+          "mn35:21.8.t2",
+          "mn35:21.8.t3",
+          "mn35:21.8.t4"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，怎麼會不是呢？"
+      }
     },
     {
       "segment_id": "mn35:21.9",
@@ -57087,7 +59554,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:21.9.t0",
+          "mn35:21.9.t1",
+          "mn35:21.9.t2",
+          "mn35:21.9.t3"
+        ],
+        "review_status": "approved",
+        "content": "正是如此，喬達摩尊者。"
+      }
     },
     {
       "segment_id": "mn35:22.1",
@@ -57455,7 +59932,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.1.t0",
+          "mn35:22.1.t1",
+          "mn35:22.1.t2",
+          "mn35:22.1.t3",
+          "mn35:22.1.t4",
+          "mn35:22.1.t5",
+          "mn35:22.1.t6",
+          "mn35:22.1.t7",
+          "mn35:22.1.t8",
+          "mn35:22.1.t9",
+          "mn35:22.1.t10",
+          "mn35:22.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，譬如有個人想要心材、尋求心材、四處尋覓心材，拿著鋒利的斧頭走進森林。"
+      }
     },
     {
       "segment_id": "mn35:22.2",
@@ -57740,7 +60235,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.2.t0",
+          "mn35:22.2.t1",
+          "mn35:22.2.t2",
+          "mn35:22.2.t3",
+          "mn35:22.2.t4",
+          "mn35:22.2.t5",
+          "mn35:22.2.t6",
+          "mn35:22.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "他在那裡看到一棵高大的芭蕉樹幹，筆直、新生、未曾彎曲。"
+      }
     },
     {
       "segment_id": "mn35:22.3",
@@ -58136,7 +60645,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.3.t0",
+          "mn35:22.3.t1",
+          "mn35:22.3.t2",
+          "mn35:22.3.t3",
+          "mn35:22.3.t4",
+          "mn35:22.3.t5",
+          "mn35:22.3.t6",
+          "mn35:22.3.t7",
+          "mn35:22.3.t8",
+          "mn35:22.3.t9",
+          "mn35:22.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "把它從根部砍斷，砍斷根部後，再從梢頂砍斷，砍斷梢頂後，把它的葉鞘一層一層剝開。"
+      }
     },
     {
       "segment_id": "mn35:22.4",
@@ -58364,7 +60890,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.4.t0",
+          "mn35:22.4.t1",
+          "mn35:22.4.t2",
+          "mn35:22.4.t3",
+          "mn35:22.4.t4",
+          "mn35:22.4.t5",
+          "mn35:22.4.t6",
+          "mn35:22.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "他在剝開葉鞘的過程中，連邊材都得不到，何況心材？"
+      }
     },
     {
       "segment_id": "mn35:22.5",
@@ -58756,7 +61296,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.5.t0",
+          "mn35:22.5.t1",
+          "mn35:22.5.t2",
+          "mn35:22.5.t3",
+          "mn35:22.5.t4",
+          "mn35:22.5.t5",
+          "mn35:22.5.t6",
+          "mn35:22.5.t7",
+          "mn35:22.5.t8",
+          "mn35:22.5.t9",
+          "mn35:22.5.t10",
+          "mn35:22.5.t11",
+          "mn35:22.5.t12"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，阿基韋沙那，你在自己的主張上被我盤問、追詰、責問時，顯得空洞、虛無、錯謬。"
+      }
     },
     {
       "segment_id": "mn35:22.6",
@@ -59127,7 +61686,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.6.t0",
+          "mn35:22.6.t1",
+          "mn35:22.6.t2",
+          "mn35:22.6.t3",
+          "mn35:22.6.t4",
+          "mn35:22.6.t5",
+          "mn35:22.6.t6",
+          "mn35:22.6.t7",
+          "mn35:22.6.t8"
+        ],
+        "review_status": "approved",
+        "content": "而且，阿基韋沙那，你確實曾在毘舍離的集會中說過這樣的話："
+      }
     },
     {
       "segment_id": "mn35:22.7",
@@ -60142,7 +62716,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.7.t0",
+          "mn35:22.7.t1",
+          "mn35:22.7.t2",
+          "mn35:22.7.t3",
+          "mn35:22.7.t4",
+          "mn35:22.7.t5",
+          "mn35:22.7.t6",
+          "mn35:22.7.t7",
+          "mn35:22.7.t8",
+          "mn35:22.7.t9",
+          "mn35:22.7.t10",
+          "mn35:22.7.t11",
+          "mn35:22.7.t12",
+          "mn35:22.7.t13",
+          "mn35:22.7.t14",
+          "mn35:22.7.t15",
+          "mn35:22.7.t16",
+          "mn35:22.7.t17",
+          "mn35:22.7.t18",
+          "mn35:22.7.t19",
+          "mn35:22.7.t20",
+          "mn35:22.7.t21",
+          "mn35:22.7.t22",
+          "mn35:22.7.t23",
+          "mn35:22.7.t24",
+          "mn35:22.7.t25",
+          "mn35:22.7.t26",
+          "mn35:22.7.t27",
+          "mn35:22.7.t28",
+          "mn35:22.7.t29"
+        ],
+        "review_status": "approved",
+        "content": "「我從未見過任何一位沙門或婆羅門——無論是擁有僧團的、擁有徒眾的、身為眾人導師的，乃至自稱阿羅漢、正等正覺者——只要與我展開論辯較量，能夠不動搖、不震盪、不顫慄，能夠不從腋下滲出汗水的。」"
+      }
     },
     {
       "segment_id": "mn35:22.8",
@@ -60750,7 +63360,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.8.t0",
+          "mn35:22.8.t2",
+          "mn35:22.8.t3",
+          "mn35:22.8.t4",
+          "mn35:22.8.t5",
+          "mn35:22.8.t6",
+          "mn35:22.8.t7",
+          "mn35:22.8.t8",
+          "mn35:22.8.t9",
+          "mn35:22.8.t10",
+          "mn35:22.8.t11",
+          "mn35:22.8.t12",
+          "mn35:22.8.t13"
+        ],
+        "review_status": "approved",
+        "content": "「就算我拿一根沒有知覺的木柱來論辯較量，那根木柱一旦與我展開論辯，也會動搖、震盪、顫慄，」"
+      }
     },
     {
       "segment_id": "mn35:22.9",
@@ -60870,7 +63499,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.9.t0",
+          "mn35:22.9.t1",
+          "mn35:22.9.t2",
+          "mn35:22.9.t4"
+        ],
+        "review_status": "approved",
+        "content": "「更何況是身而為人的呢？」"
+      }
     },
     {
       "segment_id": "mn35:22.10",
@@ -61215,7 +63854,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.10.t0",
+          "mn35:22.10.t1",
+          "mn35:22.10.t2",
+          "mn35:22.10.t3",
+          "mn35:22.10.t4",
+          "mn35:22.10.t5",
+          "mn35:22.10.t6",
+          "mn35:22.10.t7",
+          "mn35:22.10.t8",
+          "mn35:22.10.t9",
+          "mn35:22.10.t10",
+          "mn35:22.10.t11"
+        ],
+        "review_status": "approved",
+        "content": "然而，阿基韋沙那，你額頭上確實有一些汗珠滲出，浸透了上衣，滴落在地上。"
+      }
     },
     {
       "segment_id": "mn35:22.11",
@@ -61405,7 +64062,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.11.t0",
+          "mn35:22.11.t1",
+          "mn35:22.11.t2",
+          "mn35:22.11.t3",
+          "mn35:22.11.t4",
+          "mn35:22.11.t5",
+          "mn35:22.11.t6",
+          "mn35:22.11.t7",
+          "mn35:22.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "但阿基韋沙那，我現在身上卻沒有汗水。"
+      }
     },
     {
       "segment_id": "mn35:22.12",
@@ -61674,7 +64346,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.12.t0",
+          "mn35:22.12.t1",
+          "mn35:22.12.t2",
+          "mn35:22.12.t3",
+          "mn35:22.12.t4",
+          "mn35:22.12.t5",
+          "mn35:22.12.t6"
+        ],
+        "review_status": "approved",
+        "content": "於是，世尊在那次集會中，顯露出他金色的身軀。"
+      }
     },
     {
       "segment_id": "mn35:22.13",
@@ -61938,7 +64623,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:22.13.t0",
+          "mn35:22.13.t1",
+          "mn35:22.13.t2",
+          "mn35:22.13.t3",
+          "mn35:22.13.t4",
+          "mn35:22.13.t5",
+          "mn35:22.13.t6",
+          "mn35:22.13.t7",
+          "mn35:22.13.t8",
+          "mn35:22.13.t9",
+          "mn35:22.13.t10"
+        ],
+        "review_status": "approved",
+        "content": "如此說時，薩遮迦尼揵子沉默無語、羞愧沮喪、垂肩低頭、悶悶不樂、無言以對地坐著。"
+      }
     },
     {
       "segment_id": "mn35:23.1",
@@ -62366,7 +65068,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.1.t0",
+          "mn35:23.1.t1",
+          "mn35:23.1.t2",
+          "mn35:23.1.t3",
+          "mn35:23.1.t4",
+          "mn35:23.1.t5",
+          "mn35:23.1.t6",
+          "mn35:23.1.t7",
+          "mn35:23.1.t8",
+          "mn35:23.1.t9",
+          "mn35:23.1.t10",
+          "mn35:23.1.t11",
+          "mn35:23.1.t12",
+          "mn35:23.1.t13",
+          "mn35:23.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "於是，杜穆卡離車族之子見薩遮迦尼揵子沉默無語、羞愧沮喪、垂肩低頭、悶悶不樂、無言以對，便對世尊這樣說："
+      }
     },
     {
       "segment_id": "mn35:23.2",
@@ -62595,7 +65318,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.2.t0",
+          "mn35:23.2.t1",
+          "mn35:23.2.t2",
+          "mn35:23.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "世尊，我心中浮現一個譬喻。"
+      }
     },
     {
       "segment_id": "mn35:23.3",
@@ -62857,7 +65590,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.3.t0",
+          "mn35:23.3.t1",
+          "mn35:23.3.t2",
+          "mn35:23.3.t3",
+          "mn35:23.3.t4",
+          "mn35:23.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "世尊說：「杜姆佉，你儘管說吧。」"
+      }
     },
     {
       "segment_id": "mn35:23.4",
@@ -63284,7 +66029,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.4.t0",
+          "mn35:23.4.t1",
+          "mn35:23.4.t2",
+          "mn35:23.4.t3",
+          "mn35:23.4.t4",
+          "mn35:23.4.t5",
+          "mn35:23.4.t6",
+          "mn35:23.4.t7"
+        ],
+        "review_status": "approved",
+        "content": "尊者，譬如在村莊或市鎮附近有一座蓮池，"
+      }
     },
     {
       "segment_id": "mn35:23.5",
@@ -63325,7 +66084,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.5.t0",
+          "mn35:23.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "那裡有一隻螃蟹。"
+      }
     },
     {
       "segment_id": "mn35:23.6",
@@ -64507,7 +67274,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.6.t0",
+          "mn35:23.6.t1",
+          "mn35:23.6.t2",
+          "mn35:23.6.t3",
+          "mn35:23.6.t4",
+          "mn35:23.6.t5",
+          "mn35:23.6.t6",
+          "mn35:23.6.t7",
+          "mn35:23.6.t8",
+          "mn35:23.6.t9",
+          "mn35:23.6.t10",
+          "mn35:23.6.t11",
+          "mn35:23.6.t12",
+          "mn35:23.6.t13",
+          "mn35:23.6.t14",
+          "mn35:23.6.t15",
+          "mn35:23.6.t16",
+          "mn35:23.6.t17",
+          "mn35:23.6.t18",
+          "mn35:23.6.t19",
+          "mn35:23.6.t20",
+          "mn35:23.6.t21",
+          "mn35:23.6.t22",
+          "mn35:23.6.t23",
+          "mn35:23.6.t24",
+          "mn35:23.6.t25",
+          "mn35:23.6.t26",
+          "mn35:23.6.t27"
+        ],
+        "review_status": "approved",
+        "content": "尊者，這時有許多男孩或女孩從那村莊或市鎮出來，前往那蓮池，到了以後，潛入蓮池，把那隻螃蟹從水中撈起，放到旱地上。"
+      }
     },
     {
       "segment_id": "mn35:23.7",
@@ -65302,7 +68103,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.7.t0",
+          "mn35:23.7.t1",
+          "mn35:23.7.t2",
+          "mn35:23.7.t3",
+          "mn35:23.7.t4",
+          "mn35:23.7.t5",
+          "mn35:23.7.t6",
+          "mn35:23.7.t7",
+          "mn35:23.7.t8",
+          "mn35:23.7.t9",
+          "mn35:23.7.t10",
+          "mn35:23.7.t11",
+          "mn35:23.7.t12",
+          "mn35:23.7.t13",
+          "mn35:23.7.t14",
+          "mn35:23.7.t15",
+          "mn35:23.7.t16",
+          "mn35:23.7.t17",
+          "mn35:23.7.t18",
+          "mn35:23.7.t19",
+          "mn35:23.7.t20"
+        ],
+        "review_status": "approved",
+        "content": "尊者，那隻螃蟹無論伸出哪一隻螯，這些男孩或女孩就用木棒或石塊，把那隻螯截斷、打斷、打碎。"
+      }
     },
     {
       "segment_id": "mn35:23.8",
@@ -65884,7 +68712,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.8.t0",
+          "mn35:23.8.t1",
+          "mn35:23.8.t2",
+          "mn35:23.8.t3",
+          "mn35:23.8.t4",
+          "mn35:23.8.t5",
+          "mn35:23.8.t6",
+          "mn35:23.8.t7",
+          "mn35:23.8.t8",
+          "mn35:23.8.t9",
+          "mn35:23.8.t10",
+          "mn35:23.8.t11",
+          "mn35:23.8.t12",
+          "mn35:23.8.t13",
+          "mn35:23.8.t14",
+          "mn35:23.8.t15"
+        ],
+        "review_status": "approved",
+        "content": "尊者，就這樣，那隻螃蟹的所有螯都被截斷、打斷、打碎之後，就再也無法像從前那樣潛回那蓮池了。"
+      }
     },
     {
       "segment_id": "mn35:23.9",
@@ -66409,7 +69259,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.9.t0",
+          "mn35:23.9.t1",
+          "mn35:23.9.t2",
+          "mn35:23.9.t3",
+          "mn35:23.9.t4",
+          "mn35:23.9.t5",
+          "mn35:23.9.t6",
+          "mn35:23.9.t7",
+          "mn35:23.9.t8",
+          "mn35:23.9.t9",
+          "mn35:23.9.t10",
+          "mn35:23.9.t11",
+          "mn35:23.9.t12",
+          "mn35:23.9.t13",
+          "mn35:23.9.t14"
+        ],
+        "review_status": "approved",
+        "content": "尊者，同樣地，尼乾子薩遮迦的種種詭辯、狡辯與掙扎，也全都被世尊截斷、打斷、打碎了。"
+      }
     },
     {
       "segment_id": "mn35:23.10",
@@ -66712,7 +69583,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:23.10.t0",
+          "mn35:23.10.t1",
+          "mn35:23.10.t2",
+          "mn35:23.10.t3",
+          "mn35:23.10.t4",
+          "mn35:23.10.t5",
+          "mn35:23.10.t6",
+          "mn35:23.10.t7",
+          "mn35:23.10.t8",
+          "mn35:23.10.t9",
+          "mn35:23.10.t10",
+          "mn35:23.10.t11"
+        ],
+        "review_status": "approved",
+        "content": "尊者，尼乾子薩遮迦現在再也無法為了辯論而前來見世尊了。"
+      }
     },
     {
       "segment_id": "mn35:24.1",
@@ -66915,7 +69804,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.1.t0",
+          "mn35:24.1.t1",
+          "mn35:24.1.t2",
+          "mn35:24.1.t3",
+          "mn35:24.1.t4",
+          "mn35:24.1.t5",
+          "mn35:24.1.t6"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，尼乾子薩遮迦對離車青年杜姆佉這樣說："
+      }
     },
     {
       "segment_id": "mn35:24.2",
@@ -67485,7 +70387,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.2.t0",
+          "mn35:24.2.t1",
+          "mn35:24.2.t2",
+          "mn35:24.2.t3",
+          "mn35:24.2.t4",
+          "mn35:24.2.t5",
+          "mn35:24.2.t6",
+          "mn35:24.2.t7",
+          "mn35:24.2.t8",
+          "mn35:24.2.t9",
+          "mn35:24.2.t10",
+          "mn35:24.2.t11",
+          "mn35:24.2.t12",
+          "mn35:24.2.t13",
+          "mn35:24.2.t14",
+          "mn35:24.2.t15",
+          "mn35:24.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "「杜姆佉，你等一下！杜姆佉，你等一下！我們不是在跟你商討，我們是在跟喬達摩尊者商討。」"
+      }
     },
     {
       "segment_id": "mn35:24.3",
@@ -67717,7 +70642,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.3.t0",
+          "mn35:24.3.t1",
+          "mn35:24.3.t2",
+          "mn35:24.3.t4",
+          "mn35:24.3.t5",
+          "mn35:24.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，我們的，以及其他各種沙門婆羅門的言論，就都擱在一邊吧。」"
+      }
     },
     {
       "segment_id": "mn35:24.4",
@@ -67851,7 +70788,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.4.t0",
+          "mn35:24.4.t1",
+          "mn35:24.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "我想那只是胡言亂語罷了。"
+      }
     },
     {
       "segment_id": "mn35:24.5",
@@ -68189,7 +71135,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.5.t0",
+          "mn35:24.5.t1",
+          "mn35:24.5.t2",
+          "mn35:24.5.t3",
+          "mn35:24.5.t4",
+          "mn35:24.5.t5",
+          "mn35:24.5.t6",
+          "mn35:24.5.t7",
+          "mn35:24.5.t8",
+          "mn35:24.5.t9",
+          "mn35:24.5.t10",
+          "mn35:24.5.t11",
+          "mn35:24.5.t12",
+          "mn35:24.5.t13",
+          "mn35:24.5.t14",
+          "mn35:24.5.t15",
+          "mn35:24.5.t16"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者的聲聞弟子要到什麼程度，才算是奉行教誡、遵從訓誨、超越疑惑、遠離困惑、獲得無畏、不依賴他人，安住於導師的教法中呢？"
+      }
     },
     {
       "segment_id": "mn35:24.6",
@@ -69845,7 +72814,50 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.6.t0",
+          "mn35:24.6.t1",
+          "mn35:24.6.t2",
+          "mn35:24.6.t3",
+          "mn35:24.6.t4",
+          "mn35:24.6.t5",
+          "mn35:24.6.t6",
+          "mn35:24.6.t7",
+          "mn35:24.6.t8",
+          "mn35:24.6.t9",
+          "mn35:24.6.t10",
+          "mn35:24.6.t11",
+          "mn35:24.6.t12",
+          "mn35:24.6.t13",
+          "mn35:24.6.t14",
+          "mn35:24.6.t15",
+          "mn35:24.6.t16",
+          "mn35:24.6.t17",
+          "mn35:24.6.t18",
+          "mn35:24.6.t19",
+          "mn35:24.6.t20",
+          "mn35:24.6.t21",
+          "mn35:24.6.t22",
+          "mn35:24.6.t23",
+          "mn35:24.6.t24",
+          "mn35:24.6.t25",
+          "mn35:24.6.t26",
+          "mn35:24.6.t27",
+          "mn35:24.6.t28",
+          "mn35:24.6.t29",
+          "mn35:24.6.t30",
+          "mn35:24.6.t31",
+          "mn35:24.6.t32",
+          "mn35:24.6.t33",
+          "mn35:24.6.t34",
+          "mn35:24.6.t35",
+          "mn35:24.6.t36"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，在此，我的聲聞弟子對凡是任何色──無論是過去、未來、現在的，內在或外在的，粗或細的，低劣或殊勝的，遠的或近的──一切色，都如實以正確的智慧照見：『這不是我的，這不是我，這不是我的自我。』"
+      }
     },
     {
       "segment_id": "mn35:24.7",
@@ -70095,7 +73107,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.7.t0",
+          "mn35:24.7.t1",
+          "mn35:24.7.t2",
+          "mn35:24.7.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何受……"
+      }
     },
     {
       "segment_id": "mn35:24.8",
@@ -70345,7 +73367,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.8.t0",
+          "mn35:24.8.t1",
+          "mn35:24.8.t2",
+          "mn35:24.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何想……"
+      }
     },
     {
       "segment_id": "mn35:24.9",
@@ -70586,7 +73618,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.9.t0",
+          "mn35:24.9.t1",
+          "mn35:24.9.t2",
+          "mn35:24.9.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何行……"
+      }
     },
     {
       "segment_id": "mn35:24.10",
@@ -72172,7 +75214,46 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.10.t0",
+          "mn35:24.10.t1",
+          "mn35:24.10.t2",
+          "mn35:24.10.t3",
+          "mn35:24.10.t4",
+          "mn35:24.10.t5",
+          "mn35:24.10.t6",
+          "mn35:24.10.t7",
+          "mn35:24.10.t8",
+          "mn35:24.10.t9",
+          "mn35:24.10.t10",
+          "mn35:24.10.t11",
+          "mn35:24.10.t12",
+          "mn35:24.10.t13",
+          "mn35:24.10.t14",
+          "mn35:24.10.t15",
+          "mn35:24.10.t16",
+          "mn35:24.10.t17",
+          "mn35:24.10.t18",
+          "mn35:24.10.t19",
+          "mn35:24.10.t20",
+          "mn35:24.10.t21",
+          "mn35:24.10.t22",
+          "mn35:24.10.t23",
+          "mn35:24.10.t24",
+          "mn35:24.10.t25",
+          "mn35:24.10.t26",
+          "mn35:24.10.t27",
+          "mn35:24.10.t28",
+          "mn35:24.10.t29",
+          "mn35:24.10.t30",
+          "mn35:24.10.t31",
+          "mn35:24.10.t32"
+        ],
+        "review_status": "approved",
+        "content": "對凡是任何識──無論是過去、未來、現在的，內在或外在的，粗或細的，低劣或殊勝的，遠的或近的──一切識，都如實以正確的智慧照見：『這不是我的，這不是我，這不是我的自我。』"
+      }
     },
     {
       "segment_id": "mn35:24.11",
@@ -72498,7 +75579,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:24.11.t0",
+          "mn35:24.11.t1",
+          "mn35:24.11.t2",
+          "mn35:24.11.t3",
+          "mn35:24.11.t4",
+          "mn35:24.11.t5",
+          "mn35:24.11.t6",
+          "mn35:24.11.t7",
+          "mn35:24.11.t8",
+          "mn35:24.11.t9",
+          "mn35:24.11.t10",
+          "mn35:24.11.t11",
+          "mn35:24.11.t12",
+          "mn35:24.11.t13",
+          "mn35:24.11.t14"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，到這個程度，我的聲聞弟子就是奉行教誡、遵從訓誨、超越疑惑、遠離困惑、獲得無畏、不依賴他人，安住於導師的教法中了。"
+      }
     },
     {
       "segment_id": "mn35:25.1",
@@ -72824,7 +75926,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.1.t0",
+          "mn35:25.1.t1",
+          "mn35:25.1.t2",
+          "mn35:25.1.t3",
+          "mn35:25.1.t4",
+          "mn35:25.1.t5",
+          "mn35:25.1.t6",
+          "mn35:25.1.t7",
+          "mn35:25.1.t8",
+          "mn35:25.1.t9",
+          "mn35:25.1.t10",
+          "mn35:25.1.t11",
+          "mn35:25.1.t12",
+          "mn35:25.1.t13",
+          "mn35:25.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "那麼，喬達摩尊者，比丘要到什麼程度，才是阿羅漢──諸漏已盡、梵行已立、應作已作、已放下重擔、已達自利、有結已盡、以正智解脫的呢？"
+      }
     },
     {
       "segment_id": "mn35:25.2",
@@ -74565,7 +77688,52 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.2.t0",
+          "mn35:25.2.t1",
+          "mn35:25.2.t2",
+          "mn35:25.2.t3",
+          "mn35:25.2.t4",
+          "mn35:25.2.t5",
+          "mn35:25.2.t6",
+          "mn35:25.2.t7",
+          "mn35:25.2.t8",
+          "mn35:25.2.t9",
+          "mn35:25.2.t10",
+          "mn35:25.2.t11",
+          "mn35:25.2.t12",
+          "mn35:25.2.t13",
+          "mn35:25.2.t14",
+          "mn35:25.2.t15",
+          "mn35:25.2.t16",
+          "mn35:25.2.t17",
+          "mn35:25.2.t18",
+          "mn35:25.2.t19",
+          "mn35:25.2.t20",
+          "mn35:25.2.t21",
+          "mn35:25.2.t22",
+          "mn35:25.2.t23",
+          "mn35:25.2.t24",
+          "mn35:25.2.t25",
+          "mn35:25.2.t26",
+          "mn35:25.2.t27",
+          "mn35:25.2.t28",
+          "mn35:25.2.t29",
+          "mn35:25.2.t30",
+          "mn35:25.2.t31",
+          "mn35:25.2.t32",
+          "mn35:25.2.t33",
+          "mn35:25.2.t34",
+          "mn35:25.2.t35",
+          "mn35:25.2.t36",
+          "mn35:25.2.t37",
+          "mn35:25.2.t38"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，在此，比丘對凡是任何色──無論是過去、未來、現在的，內在或外在的，粗或細的，低劣或殊勝的，遠的或近的──一切色，如實以正確的智慧照見：『這不是我的，這不是我，這不是我的自我』之後，便不再執取，得到解脫。"
+      }
     },
     {
       "segment_id": "mn35:25.3",
@@ -74815,7 +77983,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.3.t0",
+          "mn35:25.3.t1",
+          "mn35:25.3.t2",
+          "mn35:25.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何受……"
+      }
     },
     {
       "segment_id": "mn35:25.4",
@@ -75065,7 +78243,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.4.t0",
+          "mn35:25.4.t1",
+          "mn35:25.4.t2",
+          "mn35:25.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何想……"
+      }
     },
     {
       "segment_id": "mn35:25.5",
@@ -75306,7 +78494,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.5.t0",
+          "mn35:25.5.t1",
+          "mn35:25.5.t2",
+          "mn35:25.5.t3"
+        ],
+        "review_status": "approved",
+        "content": "凡是任何行……"
+      }
     },
     {
       "segment_id": "mn35:25.6",
@@ -76992,7 +80190,49 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.6.t0",
+          "mn35:25.6.t1",
+          "mn35:25.6.t2",
+          "mn35:25.6.t3",
+          "mn35:25.6.t4",
+          "mn35:25.6.t5",
+          "mn35:25.6.t6",
+          "mn35:25.6.t7",
+          "mn35:25.6.t8",
+          "mn35:25.6.t9",
+          "mn35:25.6.t10",
+          "mn35:25.6.t11",
+          "mn35:25.6.t12",
+          "mn35:25.6.t13",
+          "mn35:25.6.t14",
+          "mn35:25.6.t15",
+          "mn35:25.6.t16",
+          "mn35:25.6.t17",
+          "mn35:25.6.t18",
+          "mn35:25.6.t19",
+          "mn35:25.6.t20",
+          "mn35:25.6.t21",
+          "mn35:25.6.t22",
+          "mn35:25.6.t23",
+          "mn35:25.6.t24",
+          "mn35:25.6.t25",
+          "mn35:25.6.t26",
+          "mn35:25.6.t27",
+          "mn35:25.6.t28",
+          "mn35:25.6.t29",
+          "mn35:25.6.t30",
+          "mn35:25.6.t31",
+          "mn35:25.6.t32",
+          "mn35:25.6.t33",
+          "mn35:25.6.t34",
+          "mn35:25.6.t35"
+        ],
+        "review_status": "approved",
+        "content": "對凡是任何識──無論是過去、未來、現在的，內在或外在的，粗或細的，低劣或殊勝的，遠的或近的──一切識，如實以正確的智慧照見：『這不是我的，這不是我，這不是我的自我』之後，便不再執取，得到解脫。"
+      }
     },
     {
       "segment_id": "mn35:25.7",
@@ -77296,7 +80536,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:25.7.t0",
+          "mn35:25.7.t1",
+          "mn35:25.7.t2",
+          "mn35:25.7.t3",
+          "mn35:25.7.t4",
+          "mn35:25.7.t5",
+          "mn35:25.7.t6",
+          "mn35:25.7.t7",
+          "mn35:25.7.t8",
+          "mn35:25.7.t9",
+          "mn35:25.7.t10",
+          "mn35:25.7.t11",
+          "mn35:25.7.t12"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，到這個程度，比丘就是阿羅漢──諸漏已盡、梵行已立、應作已作、已放下重擔、已達自利、有結已盡、以正智解脫的了。"
+      }
     },
     {
       "segment_id": "mn35:26.1",
@@ -77512,7 +80771,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:26.1.t0",
+          "mn35:26.1.t1",
+          "mn35:26.1.t2",
+          "mn35:26.1.t3",
+          "mn35:26.1.t4",
+          "mn35:26.1.t5",
+          "mn35:26.1.t6",
+          "mn35:26.1.t7",
+          "mn35:26.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，如此心解脫的比丘，具足三種無上。"
+      }
     },
     {
       "segment_id": "mn35:26.2",
@@ -77563,7 +80837,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:26.2.t0",
+          "mn35:26.2.t1",
+          "mn35:26.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "即：見的無上、行道的無上、解脫的無上。"
+      }
     },
     {
       "segment_id": "mn35:26.3",
@@ -77777,7 +81060,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:26.3.t0",
+          "mn35:26.3.t1",
+          "mn35:26.3.t2",
+          "mn35:26.3.t3",
+          "mn35:26.3.t4",
+          "mn35:26.3.t5",
+          "mn35:26.3.t6",
+          "mn35:26.3.t7",
+          "mn35:26.3.t8",
+          "mn35:26.3.t9",
+          "mn35:26.3.t10"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，如此心解脫的比丘，唯獨恭敬、尊重、崇敬、供養如來。"
+      }
     },
     {
       "segment_id": "mn35:26.4",
@@ -78997,7 +82297,43 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:26.4.t0",
+          "mn35:26.4.t1",
+          "mn35:26.4.t2",
+          "mn35:26.4.t3",
+          "mn35:26.4.t4",
+          "mn35:26.4.t5",
+          "mn35:26.4.t6",
+          "mn35:26.4.t7",
+          "mn35:26.4.t8",
+          "mn35:26.4.t9",
+          "mn35:26.4.t10",
+          "mn35:26.4.t11",
+          "mn35:26.4.t12",
+          "mn35:26.4.t13",
+          "mn35:26.4.t14",
+          "mn35:26.4.t15",
+          "mn35:26.4.t16",
+          "mn35:26.4.t17",
+          "mn35:26.4.t18",
+          "mn35:26.4.t19",
+          "mn35:26.4.t20",
+          "mn35:26.4.t21",
+          "mn35:26.4.t22",
+          "mn35:26.4.t23",
+          "mn35:26.4.t24",
+          "mn35:26.4.t25",
+          "mn35:26.4.t26",
+          "mn35:26.4.t27",
+          "mn35:26.4.t28",
+          "mn35:26.4.t30"
+        ],
+        "review_status": "approved",
+        "content": "〔他心想：〕世尊已覺悟，為了覺悟而說法；世尊已調伏，為了調伏而說法；世尊已寂靜，為了寂靜而說法；世尊已度越，為了度越而說法；世尊已般涅槃，為了般涅槃而說法。"
+      }
     },
     {
       "segment_id": "mn35:27.1",
@@ -79176,7 +82512,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.1.t0",
+          "mn35:27.1.t1",
+          "mn35:27.1.t2",
+          "mn35:27.1.t3",
+          "mn35:27.1.t4",
+          "mn35:27.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，尼乾子薩遮迦對世尊這樣說："
+      }
     },
     {
       "segment_id": "mn35:27.2",
@@ -79799,7 +83147,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.2.t0",
+          "mn35:27.2.t1",
+          "mn35:27.2.t2",
+          "mn35:27.2.t3",
+          "mn35:27.2.t4",
+          "mn35:27.2.t5",
+          "mn35:27.2.t6",
+          "mn35:27.2.t7",
+          "mn35:27.2.t8",
+          "mn35:27.2.t9",
+          "mn35:27.2.t10",
+          "mn35:27.2.t11",
+          "mn35:27.2.t12",
+          "mn35:27.2.t13"
+        ],
+        "review_status": "approved",
+        "content": "「喬達摩尊者，是我們魯莽、我們冒失，竟以為可以用辯論來攻難喬達摩尊者您啊！」"
+      }
     },
     {
       "segment_id": "mn35:27.3",
@@ -80295,7 +83663,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.3.t0",
+          "mn35:27.3.t1",
+          "mn35:27.3.t2",
+          "mn35:27.3.t3",
+          "mn35:27.3.t4",
+          "mn35:27.3.t5",
+          "mn35:27.3.t6",
+          "mn35:27.3.t7",
+          "mn35:27.3.t8",
+          "mn35:27.3.t9",
+          "mn35:27.3.t10",
+          "mn35:27.3.t11",
+          "mn35:27.3.t12",
+          "mn35:27.3.t13",
+          "mn35:27.3.t14",
+          "mn35:27.3.t15",
+          "mn35:27.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，觸犯一頭發情狂暴的大象，人或許還能安然無恙；但觸犯喬達摩尊者您，人絕不可能安然無恙。"
+      }
     },
     {
       "segment_id": "mn35:27.4",
@@ -80781,7 +84172,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.4.t0",
+          "mn35:27.4.t1",
+          "mn35:27.4.t2",
+          "mn35:27.4.t3",
+          "mn35:27.4.t4",
+          "mn35:27.4.t5",
+          "mn35:27.4.t6",
+          "mn35:27.4.t7",
+          "mn35:27.4.t8",
+          "mn35:27.4.t9",
+          "mn35:27.4.t10",
+          "mn35:27.4.t11",
+          "mn35:27.4.t12",
+          "mn35:27.4.t13",
+          "mn35:27.4.t14",
+          "mn35:27.4.t15",
+          "mn35:27.4.t16"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，觸犯一堆熊熊燃燒的烈火，人或許還能安然無恙；但觸犯喬達摩尊者您，人絕不可能安然無恙。"
+      }
     },
     {
       "segment_id": "mn35:27.5",
@@ -81267,7 +84681,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.5.t0",
+          "mn35:27.5.t1",
+          "mn35:27.5.t2",
+          "mn35:27.5.t3",
+          "mn35:27.5.t4",
+          "mn35:27.5.t5",
+          "mn35:27.5.t6",
+          "mn35:27.5.t7",
+          "mn35:27.5.t8",
+          "mn35:27.5.t9",
+          "mn35:27.5.t10",
+          "mn35:27.5.t11",
+          "mn35:27.5.t12",
+          "mn35:27.5.t13",
+          "mn35:27.5.t14",
+          "mn35:27.5.t15",
+          "mn35:27.5.t16"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊者，觸犯一條劇毒的毒蛇，人或許還能安然無恙；但觸犯喬達摩尊者您，人絕不可能安然無恙。"
+      }
     },
     {
       "segment_id": "mn35:27.6",
@@ -81890,7 +85327,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.6.t0",
+          "mn35:27.6.t1",
+          "mn35:27.6.t2",
+          "mn35:27.6.t3",
+          "mn35:27.6.t4",
+          "mn35:27.6.t5",
+          "mn35:27.6.t6",
+          "mn35:27.6.t7",
+          "mn35:27.6.t8",
+          "mn35:27.6.t9",
+          "mn35:27.6.t10",
+          "mn35:27.6.t11",
+          "mn35:27.6.t12",
+          "mn35:27.6.t13"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩大德啊，我們實在狂妄無禮，魯莽自負，才會認為可以用言辭與尊者喬達摩辯論冒犯。"
+      }
     },
     {
       "segment_id": "mn35:27.7",
@@ -82261,7 +85718,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.7.t0",
+          "mn35:27.7.t1",
+          "mn35:27.7.t2",
+          "mn35:27.7.t3",
+          "mn35:27.7.t4",
+          "mn35:27.7.t5",
+          "mn35:27.7.t6",
+          "mn35:27.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "願尊者喬達摩應允，明日與比丘僧團一同接受我的飯食供養。"
+      }
     },
     {
       "segment_id": "mn35:27.8",
@@ -82377,7 +85848,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:27.8.t0",
+          "mn35:27.8.t1",
+          "mn35:27.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "世尊以沉默應允了。"
+      }
     },
     {
       "segment_id": "mn35:28.1",
@@ -82709,7 +86189,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:28.1.t0",
+          "mn35:28.1.t1",
+          "mn35:28.1.t2",
+          "mn35:28.1.t3",
+          "mn35:28.1.t4",
+          "mn35:28.1.t5",
+          "mn35:28.1.t6",
+          "mn35:28.1.t7",
+          "mn35:28.1.t8",
+          "mn35:28.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "那時，尼乾陀之子薩遮迦知道世尊已經應允，便對那些離車人說道："
+      }
     },
     {
       "segment_id": "mn35:28.2",
@@ -83074,7 +86570,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:28.2.t0",
+          "mn35:28.2.t1",
+          "mn35:28.2.t2",
+          "mn35:28.2.t3",
+          "mn35:28.2.t4",
+          "mn35:28.2.t5",
+          "mn35:28.2.t6",
+          "mn35:28.2.t7",
+          "mn35:28.2.t8",
+          "mn35:28.2.t9",
+          "mn35:28.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸位離車賢士請聽我說，我已邀請沙門喬達摩明日與比丘僧團一同應供。"
+      }
     },
     {
       "segment_id": "mn35:28.3",
@@ -83307,7 +86820,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:28.3.t0",
+          "mn35:28.3.t1",
+          "mn35:28.3.t2",
+          "mn35:28.3.t3",
+          "mn35:28.3.t4",
+          "mn35:28.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "請你們送來你們認為適合的供品。"
+      }
     },
     {
       "segment_id": "mn35:29.1",
@@ -83724,7 +87249,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:29.1.t0",
+          "mn35:29.1.t1",
+          "mn35:29.1.t2",
+          "mn35:29.1.t3",
+          "mn35:29.1.t4",
+          "mn35:29.1.t5",
+          "mn35:29.1.t6",
+          "mn35:29.1.t7",
+          "mn35:29.1.t8",
+          "mn35:29.1.t9",
+          "mn35:29.1.t10",
+          "mn35:29.1.t11",
+          "mn35:29.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "那天夜裡過後，那些離車人便給尼乾陀之子薩遮迦送去約五百鍋飯食作為供養。"
+      }
     },
     {
       "segment_id": "mn35:29.2",
@@ -84196,7 +87740,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:29.2.t0",
+          "mn35:29.2.t1",
+          "mn35:29.2.t2",
+          "mn35:29.2.t3",
+          "mn35:29.2.t4",
+          "mn35:29.2.t5",
+          "mn35:29.2.t6",
+          "mn35:29.2.t7",
+          "mn35:29.2.t8",
+          "mn35:29.2.t9",
+          "mn35:29.2.t10",
+          "mn35:29.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "尼乾陀之子便在自己的園林中備妥精美的硬食與軟食，派人向世尊通報時間已到。"
+      }
     },
     {
       "segment_id": "mn35:29.3",
@@ -84340,7 +87902,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:29.3.t0",
+          "mn35:29.3.t1",
+          "mn35:29.3.t2",
+          "mn35:29.3.t3",
+          "mn35:29.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩大德，時間到了，飯食已經備妥。"
+      }
     },
     {
       "segment_id": "mn35:30.1",
@@ -84778,7 +88351,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.1.t0",
+          "mn35:30.1.t1",
+          "mn35:30.1.t2",
+          "mn35:30.1.t3",
+          "mn35:30.1.t4",
+          "mn35:30.1.t5",
+          "mn35:30.1.t6",
+          "mn35:30.1.t7",
+          "mn35:30.1.t8",
+          "mn35:30.1.t9",
+          "mn35:30.1.t10",
+          "mn35:30.1.t11",
+          "mn35:30.1.t12",
+          "mn35:30.1.t13",
+          "mn35:30.1.t14",
+          "mn35:30.1.t15",
+          "mn35:30.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "那時，世尊在上午著衣持缽，前往尼乾陀之子薩遮迦的園林；到了之後，便與比丘僧團一同在為他們準備好的座位上坐下。"
+      }
     },
     {
       "segment_id": "mn35:30.2",
@@ -85096,7 +88692,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.2.t0",
+          "mn35:30.2.t1",
+          "mn35:30.2.t2",
+          "mn35:30.2.t3",
+          "mn35:30.2.t4",
+          "mn35:30.2.t5",
+          "mn35:30.2.t6",
+          "mn35:30.2.t7",
+          "mn35:30.2.t8",
+          "mn35:30.2.t9",
+          "mn35:30.2.t10",
+          "mn35:30.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "尼乾陀之子薩遮迦便親手以精美的硬食與軟食，款待、供養以佛陀為首的比丘僧團，令他們飽足滿意。"
+      }
     },
     {
       "segment_id": "mn35:30.3",
@@ -85466,7 +89080,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.3.t0",
+          "mn35:30.3.t1",
+          "mn35:30.3.t2",
+          "mn35:30.3.t3",
+          "mn35:30.3.t4",
+          "mn35:30.3.t5",
+          "mn35:30.3.t6",
+          "mn35:30.3.t7",
+          "mn35:30.3.t8",
+          "mn35:30.3.t9",
+          "mn35:30.3.t10",
+          "mn35:30.3.t11",
+          "mn35:30.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "當世尊用完齋食、收回手離開缽後，尼乾陀之子薩遮迦便取一張矮座，坐在一旁。"
+      }
     },
     {
       "segment_id": "mn35:30.4",
@@ -85605,7 +89238,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.4.t0",
+          "mn35:30.4.t1",
+          "mn35:30.4.t2",
+          "mn35:30.4.t3",
+          "mn35:30.4.t4",
+          "mn35:30.4.t5",
+          "mn35:30.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "尼乾陀之子薩遮迦坐在一旁後，對世尊這樣說："
+      }
     },
     {
       "segment_id": "mn35:30.5",
@@ -86039,7 +89685,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.5.t0",
+          "mn35:30.5.t1",
+          "mn35:30.5.t2",
+          "mn35:30.5.t3",
+          "mn35:30.5.t4",
+          "mn35:30.5.t5",
+          "mn35:30.5.t6",
+          "mn35:30.5.t7",
+          "mn35:30.5.t8",
+          "mn35:30.5.t9",
+          "mn35:30.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩大德，願此次布施所生的功德與廣大福德，都能利益施主們的安樂。"
+      }
     },
     {
       "segment_id": "mn35:30.6",
@@ -86532,7 +90195,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.6.t0",
+          "mn35:30.6.t1",
+          "mn35:30.6.t2",
+          "mn35:30.6.t3",
+          "mn35:30.6.t4",
+          "mn35:30.6.t5",
+          "mn35:30.6.t6",
+          "mn35:30.6.t7",
+          "mn35:30.6.t8",
+          "mn35:30.6.t9",
+          "mn35:30.6.t10",
+          "mn35:30.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，凡是因遇到像這樣一位尚未離貪、尚未離瞋、尚未離癡的應供者而生起的功德，那將歸於施主。"
+      }
     },
     {
       "segment_id": "mn35:30.7",
@@ -87031,7 +90712,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.7.t0",
+          "mn35:30.7.t1",
+          "mn35:30.7.t2",
+          "mn35:30.7.t3",
+          "mn35:30.7.t4",
+          "mn35:30.7.t5",
+          "mn35:30.7.t6",
+          "mn35:30.7.t7",
+          "mn35:30.7.t8",
+          "mn35:30.7.t9",
+          "mn35:30.7.t10",
+          "mn35:30.7.t12"
+        ],
+        "review_status": "approved",
+        "content": "阿基韋沙那，而凡是因遇到像我這樣一位已離貪、已離瞋、已離癡的應供者而生起的功德，那將歸於你。"
+      }
     },
     {
       "segment_id": "mn35:30.8",
@@ -87166,7 +90865,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn35:30.8.t0",
+          "mn35:30.8.t1",
+          "mn35:30.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "薩遮迦小經，第五經，終。"
+      }
     }
   ],
   "passages": [
@@ -87584,8 +91292,89 @@
       "agama": null
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn35:2.3",
+      "mn35:2.4",
+      "mn35:4.3",
+      "mn35:4.4",
+      "mn35:9.6",
+      "mn35:9.7",
+      "mn35:11.2",
+      "mn35:11.4",
+      "mn35:12.3",
+      "mn35:12.4",
+      "mn35:12.5",
+      "mn35:13.3",
+      "mn35:13.5",
+      "mn35:13.13",
+      "mn35:14.1",
+      "mn35:14.4",
+      "mn35:15.5",
+      "mn35:16.3",
+      "mn35:20.9",
+      "mn35:20.10",
+      "mn35:20.11",
+      "mn35:21.6",
+      "mn35:21.8",
+      "mn35:22.5",
+      "mn35:22.10",
+      "mn35:22.12",
+      "mn35:23.7",
+      "mn35:23.9",
+      "mn35:27.2",
+      "mn35:27.7"
+    ],
+    "review_status": "approved",
+    "content": "尼乾子薩遮迦自負善辯，誇稱無人能與他論辯而不顫慄流汗，率五百離車人至大林重閣講堂向佛陀挑戰，主張色、受、想、行、識五蘊即是自我。佛陀以灌頂剎帝利王對國土有處死、罰款、放逐之自在權設問，反詰薩遮迦：既說五蘊是我，對五蘊可有『願如此、不願如彼』的自在？薩遮迦兩度沉默，經執金剛夜叉威嚇後被迫承認並無自在。佛陀續以三轉詰問，令其承認五蘊無常、苦、變易之法不應執為我，且執苦為我者無法離苦。薩遮迦理屈詞窮、汗流浹背，佛陀顯金色身，離車青年杜姆佉以螃蟹斷螯為喻。薩遮迦懺悔認輸，隔日設食供養佛陀與僧團。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "薩遮迦的主張錯在哪：五蘊即是我",
+      "sources": [
+        "mn35:9.6",
+        "mn35:9.7",
+        "mn35:11.2",
+        "mn35:11.4",
+        "mn35:11.5"
+      ],
+      "content": "薩遮迦向佛陀表明自己的立場：色、受、想、行、識這五蘊就是自我（mn35:11.2、11.4）。這是一種常見的「五蘊即我」的執取，把身心的各個組成當成恆常不變的主體。佛陀並未直接反駁，而是先確認薩遮迦是否真心如此主張，並提醒他「這一大群人的認同」不能代替他自己說明主張的內容（mn35:11.5、11.6），逼他親自為自己的見解負責，這也為後續的詰問鋪路。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "灌頂國王自在權之喻：若是我，該有自在",
+      "sources": [
+        "mn35:12.3",
+        "mn35:12.5",
+        "mn35:13.3",
+        "mn35:13.5",
+        "mn35:14.4",
+        "mn35:15.5"
+      ],
+      "content": "佛陀先問薩遮迦：受灌頂的剎帝利國王在自己國土內，能否自在地處死、罰款、放逐應受此刑者？薩遮迦答：能，而且理當如此（mn35:12.3～12.12）。佛陀隨即反問：你既說色是我，那麼你對於色，是否也有『願我的色如此、不願如此』的自在權？這一問直指要害——若五蘊真是「我」，理應像國王治理國土一樣能自在支配它，但薩遮迦對此兩度沉默以對（mn35:13.3、13.5），顯示他的主張經不起檢驗。最後在執金剛夜叉的威嚇下，他才被迫承認：對色並沒有這樣的自在（mn35:14.4、15.5）。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "五蘊非我的三轉檢驗：無常、苦、非我",
+      "sources": [
+        "mn35:20.9",
+        "mn35:20.10",
+        "mn35:20.11",
+        "mn35:21.2",
+        "mn35:21.6",
+        "mn35:21.8"
+      ],
+      "content": "佛陀進一步以三轉問答，逐一檢驗色、受、想、行、識：先問是常還是無常，薩遮迦答無常；再問無常者是苦還是樂，答苦；最後問這無常、苦、會變易之法，是否適合看作『這是我的、我就是這個、這是我的自我』，薩遮迦答不是（mn35:20.9～20.11）。佛陀再指出：凡是黏著於苦、把苦當作自我的人，不可能徹底了知苦或離苦而住（mn35:21.2、21.6），薩遮迦也不得不承認自己正是如此（mn35:21.8）。這套三轉檢驗顯示，五蘊既是無常變易之法，就不應被誤認為恆常自在的自我。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

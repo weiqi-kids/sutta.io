@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn29",
-    "title_pali": "MN29",
-    "title_zh": "mn29",
+    "title_pali": "Mahāsāropamasutta",
+    "title_zh": "心材喻大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn29"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:1.1.t0",
+          "mn29:1.1.t1",
+          "mn29:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn29:1.2",
@@ -532,7 +541,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:1.2.t0",
+          "mn29:1.2.t1",
+          "mn29:1.2.t2",
+          "mn29:1.2.t3",
+          "mn29:1.2.t4",
+          "mn29:1.2.t5",
+          "mn29:1.2.t6",
+          "mn29:1.2.t7",
+          "mn29:1.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "有一時，世尊住在王舍城的鷲峰山，提婆達多離去不久。"
+      }
     },
     {
       "segment_id": "mn29:1.3",
@@ -746,7 +770,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:1.3.t0",
+          "mn29:1.3.t1",
+          "mn29:1.3.t2",
+          "mn29:1.3.t3",
+          "mn29:1.3.t4",
+          "mn29:1.3.t5",
+          "mn29:1.3.t6"
+        ],
+        "review_status": "approved",
+        "content": "在那裡，世尊以提婆達多為由，召喚了比丘們："
+      }
     },
     {
       "segment_id": "mn29:2.1",
@@ -1017,7 +1054,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.1.t0",
+          "mn29:2.1.t1",
+          "mn29:2.1.t2",
+          "mn29:2.1.t3",
+          "mn29:2.1.t4",
+          "mn29:2.1.t5",
+          "mn29:2.1.t6",
+          "mn29:2.1.t7",
+          "mn29:2.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，在此有某位善男子，因信而從在家出家、進入無家生活。"
+      }
     },
     {
       "segment_id": "mn29:2.2",
@@ -1425,7 +1477,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.2.t0",
+          "mn29:2.2.t1",
+          "mn29:2.2.t2",
+          "mn29:2.2.t3",
+          "mn29:2.2.t4",
+          "mn29:2.2.t5",
+          "mn29:2.2.t6",
+          "mn29:2.2.t7",
+          "mn29:2.2.t8",
+          "mn29:2.2.t9",
+          "mn29:2.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "我為生、老、死，為愁、悲、苦、憂、惱所困，陷於苦、為苦所困。"
+      }
     },
     {
       "segment_id": "mn29:2.3",
@@ -1725,7 +1794,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.3.t0",
+          "mn29:2.3.t1",
+          "mn29:2.3.t2",
+          "mn29:2.3.t3",
+          "mn29:2.3.t4",
+          "mn29:2.3.t5",
+          "mn29:2.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。"
+      }
     },
     {
       "segment_id": "mn29:2.4",
@@ -1869,7 +1951,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.4.t0",
+          "mn29:2.4.t1",
+          "mn29:2.4.t2",
+          "mn29:2.4.t3",
+          "mn29:2.4.t4",
+          "mn29:2.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:2.5",
@@ -2012,7 +2106,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.5.t0",
+          "mn29:2.5.t1",
+          "mn29:2.5.t2",
+          "mn29:2.5.t3",
+          "mn29:2.5.t4",
+          "mn29:2.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那利養、恭敬與名聲而歡喜，心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:2.6",
@@ -2210,7 +2316,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.6.t0",
+          "mn29:2.6.t1",
+          "mn29:2.6.t2",
+          "mn29:2.6.t3",
+          "mn29:2.6.t4",
+          "mn29:2.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "他卻因那利養、恭敬與名聲而自舉、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:2.7",
@@ -2564,7 +2682,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.7.t0",
+          "mn29:2.7.t1",
+          "mn29:2.7.t2",
+          "mn29:2.7.t3",
+          "mn29:2.7.t4",
+          "mn29:2.7.t5",
+          "mn29:2.7.t6",
+          "mn29:2.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "我擁有利養、恭敬與名聲，而這些其他比丘卻沒沒無聞、無足輕重。"
+      }
     },
     {
       "segment_id": "mn29:2.8",
@@ -2857,7 +2989,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.8.t0",
+          "mn29:2.8.t1",
+          "mn29:2.8.t2",
+          "mn29:2.8.t3",
+          "mn29:2.8.t4",
+          "mn29:2.8.t5",
+          "mn29:2.8.t6",
+          "mn29:2.8.t7",
+          "mn29:2.8.t8",
+          "mn29:2.8.t9",
+          "mn29:2.8.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那利養、恭敬與名聲而陶醉、放逸、耽於放逸；放逸而住於苦。"
+      }
     },
     {
       "segment_id": "mn29:2.9",
@@ -3649,7 +3798,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.9.t0",
+          "mn29:2.9.t1",
+          "mn29:2.9.t2",
+          "mn29:2.9.t3",
+          "mn29:2.9.t4",
+          "mn29:2.9.t5",
+          "mn29:2.9.t6",
+          "mn29:2.9.t7",
+          "mn29:2.9.t8",
+          "mn29:2.9.t9",
+          "mn29:2.9.t10",
+          "mn29:2.9.t11",
+          "mn29:2.9.t12",
+          "mn29:2.9.t13",
+          "mn29:2.9.t14",
+          "mn29:2.9.t15",
+          "mn29:2.9.t16",
+          "mn29:2.9.t17",
+          "mn29:2.9.t18",
+          "mn29:2.9.t19",
+          "mn29:2.9.t20",
+          "mn29:2.9.t21",
+          "mn29:2.9.t22",
+          "mn29:2.9.t24",
+          "mn29:2.9.t25"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，猶如有人想求心材、尋求心材、為尋求心材而四處尋覓，在一棵挺立、具心材的大樹前，越過心材、越過邊材、越過樹皮、越過外皮，砍下枝葉拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:2.10",
@@ -3816,7 +3996,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.10.t0",
+          "mn29:2.10.t1",
+          "mn29:2.10.t2",
+          "mn29:2.10.t3",
+          "mn29:2.10.t4",
+          "mn29:2.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人見了那人，便會這樣說："
+      }
     },
     {
       "segment_id": "mn29:2.11",
@@ -4369,7 +4561,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.11.t0",
+          "mn29:2.11.t1",
+          "mn29:2.11.t2",
+          "mn29:2.11.t3",
+          "mn29:2.11.t4",
+          "mn29:2.11.t5",
+          "mn29:2.11.t6",
+          "mn29:2.11.t7",
+          "mn29:2.11.t8",
+          "mn29:2.11.t9",
+          "mn29:2.11.t10",
+          "mn29:2.11.t11",
+          "mn29:2.11.t12",
+          "mn29:2.11.t13",
+          "mn29:2.11.t14",
+          "mn29:2.11.t15",
+          "mn29:2.11.t16",
+          "mn29:2.11.t17"
+        ],
+        "review_status": "approved",
+        "content": "這位先生實在不認識心材，不認識邊材，不認識樹皮，不認識外皮，也不認識枝葉。"
+      }
     },
     {
       "segment_id": "mn29:2.12",
@@ -5285,7 +5501,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.12.t0",
+          "mn29:2.12.t1",
+          "mn29:2.12.t2",
+          "mn29:2.12.t3",
+          "mn29:2.12.t4",
+          "mn29:2.12.t5",
+          "mn29:2.12.t6",
+          "mn29:2.12.t7",
+          "mn29:2.12.t8",
+          "mn29:2.12.t9",
+          "mn29:2.12.t10",
+          "mn29:2.12.t11",
+          "mn29:2.12.t12",
+          "mn29:2.12.t13",
+          "mn29:2.12.t14",
+          "mn29:2.12.t15",
+          "mn29:2.12.t16",
+          "mn29:2.12.t17",
+          "mn29:2.12.t18",
+          "mn29:2.12.t19",
+          "mn29:2.12.t20",
+          "mn29:2.12.t21",
+          "mn29:2.12.t22",
+          "mn29:2.12.t23",
+          "mn29:2.12.t25",
+          "mn29:2.12.t26"
+        ],
+        "review_status": "approved",
+        "content": "這位想求心材、尋求心材、為尋求心材而四處尋覓的先生，就是這樣在一棵挺立、具心材的大樹前，越過心材、越過邊材、越過樹皮、越過外皮，砍下枝葉拿走離去，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:2.13",
@@ -5511,7 +5759,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.13.t1",
+          "mn29:2.13.t2",
+          "mn29:2.13.t3",
+          "mn29:2.13.t4",
+          "mn29:2.13.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是他該用心材完成的事，他將無法達成那目的。"
+      }
     },
     {
       "segment_id": "mn29:2.14",
@@ -5802,7 +6061,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.14.t0",
+          "mn29:2.14.t1",
+          "mn29:2.14.t2",
+          "mn29:2.14.t3",
+          "mn29:2.14.t4",
+          "mn29:2.14.t5",
+          "mn29:2.14.t6",
+          "mn29:2.14.t7",
+          "mn29:2.14.t8",
+          "mn29:2.14.t9"
+        ],
+        "review_status": "approved",
+        "content": "同樣的，比丘們，在此有某位善男子，因信而從在家出家、進入無家生活。"
+      }
     },
     {
       "segment_id": "mn29:2.15",
@@ -6210,7 +6485,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.15.t0",
+          "mn29:2.15.t1",
+          "mn29:2.15.t2",
+          "mn29:2.15.t3",
+          "mn29:2.15.t4",
+          "mn29:2.15.t5",
+          "mn29:2.15.t6",
+          "mn29:2.15.t7",
+          "mn29:2.15.t8",
+          "mn29:2.15.t9",
+          "mn29:2.15.t10"
+        ],
+        "review_status": "approved",
+        "content": "我為生、老、死，為愁、悲、苦、憂、惱所困，陷於苦、為苦所困。"
+      }
     },
     {
       "segment_id": "mn29:2.16",
@@ -6510,7 +6802,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.16.t0",
+          "mn29:2.16.t1",
+          "mn29:2.16.t2",
+          "mn29:2.16.t3",
+          "mn29:2.16.t4",
+          "mn29:2.16.t5",
+          "mn29:2.16.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。"
+      }
     },
     {
       "segment_id": "mn29:2.17",
@@ -6654,7 +6959,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.17.t0",
+          "mn29:2.17.t1",
+          "mn29:2.17.t2",
+          "mn29:2.17.t3",
+          "mn29:2.17.t4",
+          "mn29:2.17.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:2.18",
@@ -6797,7 +7114,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.18.t0",
+          "mn29:2.18.t1",
+          "mn29:2.18.t2",
+          "mn29:2.18.t3",
+          "mn29:2.18.t4",
+          "mn29:2.18.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那利養、恭敬與名聲而歡喜，心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:2.19",
@@ -7343,7 +7672,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.19.t0",
+          "mn29:2.19.t1",
+          "mn29:2.19.t2",
+          "mn29:2.19.t3",
+          "mn29:2.19.t4",
+          "mn29:2.19.t5",
+          "mn29:2.19.t6",
+          "mn29:2.19.t7",
+          "mn29:2.19.t8",
+          "mn29:2.19.t9",
+          "mn29:2.19.t10",
+          "mn29:2.19.t11",
+          "mn29:2.19.t12",
+          "mn29:2.19.t13"
+        ],
+        "review_status": "approved",
+        "content": "他卻因那利養、恭敬與名聲而自舉、輕蔑他人：我擁有利養、恭敬與名聲，而這些其他比丘卻沒沒無聞、無足輕重。"
+      }
     },
     {
       "segment_id": "mn29:2.20",
@@ -7636,7 +7985,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.20.t0",
+          "mn29:2.20.t1",
+          "mn29:2.20.t2",
+          "mn29:2.20.t3",
+          "mn29:2.20.t4",
+          "mn29:2.20.t5",
+          "mn29:2.20.t6",
+          "mn29:2.20.t7",
+          "mn29:2.20.t8",
+          "mn29:2.20.t9",
+          "mn29:2.20.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那利養、恭敬與名聲而陶醉、放逸、耽於放逸；放逸而住於苦。"
+      }
     },
     {
       "segment_id": "mn29:2.21",
@@ -7887,7 +8253,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.21.t0",
+          "mn29:2.21.t1",
+          "mn29:2.21.t2",
+          "mn29:2.21.t3",
+          "mn29:2.21.t4",
+          "mn29:2.21.t5",
+          "mn29:2.21.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這稱為比丘取了梵行的枝葉，"
+      }
     },
     {
       "segment_id": "mn29:2.22",
@@ -8001,7 +8380,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:2.22.t0",
+          "mn29:2.22.t1",
+          "mn29:2.22.t2",
+          "mn29:2.22.t3"
+        ],
+        "review_status": "approved",
+        "content": "並以此為滿足而停止。"
+      }
     },
     {
       "segment_id": "mn29:3.1",
@@ -8287,7 +8676,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.1.t0",
+          "mn29:3.1.t1",
+          "mn29:3.1.t2",
+          "mn29:3.1.t3",
+          "mn29:3.1.t4",
+          "mn29:3.1.t5",
+          "mn29:3.1.t6",
+          "mn29:3.1.t7",
+          "mn29:3.1.t8",
+          "mn29:3.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，在此有某位善男子，因信而從在家出家、進入無家生活。"
+      }
     },
     {
       "segment_id": "mn29:3.2",
@@ -8695,7 +9100,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.2.t0",
+          "mn29:3.2.t1",
+          "mn29:3.2.t2",
+          "mn29:3.2.t3",
+          "mn29:3.2.t4",
+          "mn29:3.2.t5",
+          "mn29:3.2.t6",
+          "mn29:3.2.t7",
+          "mn29:3.2.t8",
+          "mn29:3.2.t9",
+          "mn29:3.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "我為生、老、死，為愁、悲、苦、憂、惱所困，陷於苦、為苦所困。"
+      }
     },
     {
       "segment_id": "mn29:3.3",
@@ -8995,7 +9417,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.3.t0",
+          "mn29:3.3.t1",
+          "mn29:3.3.t2",
+          "mn29:3.3.t3",
+          "mn29:3.3.t4",
+          "mn29:3.3.t5",
+          "mn29:3.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。"
+      }
     },
     {
       "segment_id": "mn29:3.4",
@@ -9139,7 +9574,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.4.t0",
+          "mn29:3.4.t1",
+          "mn29:3.4.t2",
+          "mn29:3.4.t3",
+          "mn29:3.4.t4",
+          "mn29:3.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:3.5",
@@ -9312,7 +9759,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.5.t0",
+          "mn29:3.5.t1",
+          "mn29:3.5.t2",
+          "mn29:3.5.t3",
+          "mn29:3.5.t4",
+          "mn29:3.5.t5",
+          "mn29:3.5.t6",
+          "mn29:3.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因那利養、恭敬與名聲而歡喜，也不因此而心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:3.6",
@@ -9540,7 +10001,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.6.t0",
+          "mn29:3.6.t1",
+          "mn29:3.6.t2",
+          "mn29:3.6.t3",
+          "mn29:3.6.t4",
+          "mn29:3.6.t5",
+          "mn29:3.6.t6",
+          "mn29:3.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而自舉，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn29:3.7",
@@ -9738,7 +10213,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.7.t0",
+          "mn29:3.7.t1",
+          "mn29:3.7.t2",
+          "mn29:3.7.t3",
+          "mn29:3.7.t4",
+          "mn29:3.7.t5",
+          "mn29:3.7.t6",
+          "mn29:3.7.t7",
+          "mn29:3.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而陶醉、不放逸、不耽於放逸。"
+      }
     },
     {
       "segment_id": "mn29:3.8",
@@ -9824,7 +10314,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.8.t0",
+          "mn29:3.8.t1",
+          "mn29:3.8.t2",
+          "mn29:3.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "他不放逸，成就戒具足。"
+      }
     },
     {
       "segment_id": "mn29:3.9",
@@ -10022,7 +10522,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.9.t0",
+          "mn29:3.9.t1",
+          "mn29:3.9.t2",
+          "mn29:3.9.t3",
+          "mn29:3.9.t4",
+          "mn29:3.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而歡喜，心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:3.10",
@@ -10275,7 +10787,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.10.t0",
+          "mn29:3.10.t1",
+          "mn29:3.10.t2",
+          "mn29:3.10.t3",
+          "mn29:3.10.t4",
+          "mn29:3.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "他卻因那戒具足而自舉、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:3.11",
@@ -10680,7 +11204,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.11.t0",
+          "mn29:3.11.t1",
+          "mn29:3.11.t2",
+          "mn29:3.11.t3",
+          "mn29:3.11.t4",
+          "mn29:3.11.t5",
+          "mn29:3.11.t6",
+          "mn29:3.11.t7",
+          "mn29:3.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "我是持戒者、善法者，而這些其他比丘則是破戒者、惡法者。"
+      }
     },
     {
       "segment_id": "mn29:3.12",
@@ -11028,7 +11567,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.12.t0",
+          "mn29:3.12.t1",
+          "mn29:3.12.t2",
+          "mn29:3.12.t3",
+          "mn29:3.12.t4",
+          "mn29:3.12.t5",
+          "mn29:3.12.t6",
+          "mn29:3.12.t7",
+          "mn29:3.12.t8",
+          "mn29:3.12.t9",
+          "mn29:3.12.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而陶醉、放逸、耽於放逸；放逸而住於苦。"
+      }
     },
     {
       "segment_id": "mn29:3.13",
@@ -11771,7 +12327,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.13.t0",
+          "mn29:3.13.t1",
+          "mn29:3.13.t2",
+          "mn29:3.13.t3",
+          "mn29:3.13.t4",
+          "mn29:3.13.t5",
+          "mn29:3.13.t6",
+          "mn29:3.13.t7",
+          "mn29:3.13.t8",
+          "mn29:3.13.t9",
+          "mn29:3.13.t10",
+          "mn29:3.13.t11",
+          "mn29:3.13.t12",
+          "mn29:3.13.t13",
+          "mn29:3.13.t14",
+          "mn29:3.13.t15",
+          "mn29:3.13.t16",
+          "mn29:3.13.t17",
+          "mn29:3.13.t18",
+          "mn29:3.13.t19",
+          "mn29:3.13.t20",
+          "mn29:3.13.t22",
+          "mn29:3.13.t23"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，猶如有人想求心材、尋求心材、為尋求心材而四處尋覓，在一棵挺立、具心材的大樹前，越過心材、越過邊材、越過樹皮，砍下外皮拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:3.14",
@@ -11938,7 +12523,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.14.t0",
+          "mn29:3.14.t1",
+          "mn29:3.14.t2",
+          "mn29:3.14.t3",
+          "mn29:3.14.t4",
+          "mn29:3.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人見了那人，便會這樣說："
+      }
     },
     {
       "segment_id": "mn29:3.15",
@@ -12491,7 +13088,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.15.t0",
+          "mn29:3.15.t1",
+          "mn29:3.15.t2",
+          "mn29:3.15.t3",
+          "mn29:3.15.t4",
+          "mn29:3.15.t5",
+          "mn29:3.15.t6",
+          "mn29:3.15.t7",
+          "mn29:3.15.t8",
+          "mn29:3.15.t9",
+          "mn29:3.15.t10",
+          "mn29:3.15.t11",
+          "mn29:3.15.t12",
+          "mn29:3.15.t13",
+          "mn29:3.15.t14",
+          "mn29:3.15.t15",
+          "mn29:3.15.t16",
+          "mn29:3.15.t17"
+        ],
+        "review_status": "approved",
+        "content": "這位先生實在不認識心材，不認識邊材，不認識樹皮，不認識外皮，也不認識枝葉。"
+      }
     },
     {
       "segment_id": "mn29:3.16",
@@ -13358,7 +13979,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.16.t0",
+          "mn29:3.16.t1",
+          "mn29:3.16.t2",
+          "mn29:3.16.t3",
+          "mn29:3.16.t4",
+          "mn29:3.16.t5",
+          "mn29:3.16.t6",
+          "mn29:3.16.t7",
+          "mn29:3.16.t8",
+          "mn29:3.16.t9",
+          "mn29:3.16.t10",
+          "mn29:3.16.t11",
+          "mn29:3.16.t12",
+          "mn29:3.16.t13",
+          "mn29:3.16.t14",
+          "mn29:3.16.t15",
+          "mn29:3.16.t16",
+          "mn29:3.16.t17",
+          "mn29:3.16.t18",
+          "mn29:3.16.t19",
+          "mn29:3.16.t20",
+          "mn29:3.16.t21",
+          "mn29:3.16.t23",
+          "mn29:3.16.t24"
+        ],
+        "review_status": "approved",
+        "content": "這位想求心材、尋求心材、為尋求心材而四處尋覓的先生，就是這樣在一棵挺立、具心材的大樹前，越過心材、越過邊材、越過樹皮，砍下外皮拿走離去，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:3.17",
@@ -13584,7 +14235,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:3.17.t1",
+          "mn29:3.17.t2",
+          "mn29:3.17.t3",
+          "mn29:3.17.t4",
+          "mn29:3.17.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是他該用心材完成的事，他將無法達成那目的。"
+      }
     },
     {
       "segment_id": "mn29:4.1",
@@ -13875,7 +14537,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.1.t0",
+          "mn29:4.1.t1",
+          "mn29:4.1.t2",
+          "mn29:4.1.t3",
+          "mn29:4.1.t4",
+          "mn29:4.1.t5",
+          "mn29:4.1.t6",
+          "mn29:4.1.t7",
+          "mn29:4.1.t8",
+          "mn29:4.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "同樣的，比丘們，在此有某位善男子，因信而從在家出家、進入無家生活。"
+      }
     },
     {
       "segment_id": "mn29:4.2",
@@ -14283,7 +14961,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.2.t0",
+          "mn29:4.2.t1",
+          "mn29:4.2.t2",
+          "mn29:4.2.t3",
+          "mn29:4.2.t4",
+          "mn29:4.2.t5",
+          "mn29:4.2.t6",
+          "mn29:4.2.t7",
+          "mn29:4.2.t8",
+          "mn29:4.2.t9",
+          "mn29:4.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "我為生、老、死，為愁、悲、苦、憂、惱所困，陷於苦、為苦所困。"
+      }
     },
     {
       "segment_id": "mn29:4.3",
@@ -14583,7 +15278,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.3.t0",
+          "mn29:4.3.t1",
+          "mn29:4.3.t2",
+          "mn29:4.3.t3",
+          "mn29:4.3.t4",
+          "mn29:4.3.t5",
+          "mn29:4.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。"
+      }
     },
     {
       "segment_id": "mn29:4.4",
@@ -14727,7 +15435,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.4.t0",
+          "mn29:4.4.t1",
+          "mn29:4.4.t2",
+          "mn29:4.4.t3",
+          "mn29:4.4.t4",
+          "mn29:4.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:4.5",
@@ -14900,7 +15620,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.5.t0",
+          "mn29:4.5.t1",
+          "mn29:4.5.t2",
+          "mn29:4.5.t3",
+          "mn29:4.5.t4",
+          "mn29:4.5.t5",
+          "mn29:4.5.t6",
+          "mn29:4.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因那利養、恭敬與名聲而歡喜，也不因此而心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:4.6",
@@ -15128,7 +15862,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.6.t0",
+          "mn29:4.6.t1",
+          "mn29:4.6.t2",
+          "mn29:4.6.t3",
+          "mn29:4.6.t4",
+          "mn29:4.6.t5",
+          "mn29:4.6.t6",
+          "mn29:4.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而自舉，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn29:4.7",
@@ -15326,7 +16074,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.7.t0",
+          "mn29:4.7.t1",
+          "mn29:4.7.t2",
+          "mn29:4.7.t3",
+          "mn29:4.7.t4",
+          "mn29:4.7.t5",
+          "mn29:4.7.t6",
+          "mn29:4.7.t7",
+          "mn29:4.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而陶醉、不放逸、不耽於放逸。"
+      }
     },
     {
       "segment_id": "mn29:4.8",
@@ -15412,7 +16175,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.8.t0",
+          "mn29:4.8.t1",
+          "mn29:4.8.t2",
+          "mn29:4.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "他不放逸，成就戒具足。"
+      }
     },
     {
       "segment_id": "mn29:4.9",
@@ -15610,7 +16383,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.9.t0",
+          "mn29:4.9.t1",
+          "mn29:4.9.t2",
+          "mn29:4.9.t3",
+          "mn29:4.9.t4",
+          "mn29:4.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而歡喜，心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:4.10",
@@ -15863,7 +16648,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.10.t0",
+          "mn29:4.10.t1",
+          "mn29:4.10.t2",
+          "mn29:4.10.t3",
+          "mn29:4.10.t4",
+          "mn29:4.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "他卻因那戒具足而自舉、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:4.11",
@@ -16268,7 +17065,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.11.t0",
+          "mn29:4.11.t1",
+          "mn29:4.11.t2",
+          "mn29:4.11.t3",
+          "mn29:4.11.t4",
+          "mn29:4.11.t5",
+          "mn29:4.11.t6",
+          "mn29:4.11.t7",
+          "mn29:4.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "我是持戒者、善法者，而這些其他比丘則是破戒者、惡法者。"
+      }
     },
     {
       "segment_id": "mn29:4.12",
@@ -16616,7 +17428,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.12.t0",
+          "mn29:4.12.t1",
+          "mn29:4.12.t2",
+          "mn29:4.12.t3",
+          "mn29:4.12.t4",
+          "mn29:4.12.t5",
+          "mn29:4.12.t6",
+          "mn29:4.12.t7",
+          "mn29:4.12.t8",
+          "mn29:4.12.t9",
+          "mn29:4.12.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而陶醉、放逸、耽於放逸；放逸而住於苦。"
+      }
     },
     {
       "segment_id": "mn29:4.13",
@@ -16848,7 +17677,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.13.t0",
+          "mn29:4.13.t1",
+          "mn29:4.13.t2",
+          "mn29:4.13.t3",
+          "mn29:4.13.t4",
+          "mn29:4.13.t5",
+          "mn29:4.13.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這稱為比丘取了梵行的外皮，"
+      }
     },
     {
       "segment_id": "mn29:4.14",
@@ -16962,7 +17804,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.14.t0",
+          "mn29:4.14.t1",
+          "mn29:4.14.t2",
+          "mn29:4.14.t3"
+        ],
+        "review_status": "approved",
+        "content": "並以此為滿足而停止。"
+      }
     },
     {
       "segment_id": "mn29:4.15",
@@ -17248,7 +18100,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.15.t0",
+          "mn29:4.15.t1",
+          "mn29:4.15.t2",
+          "mn29:4.15.t3",
+          "mn29:4.15.t4",
+          "mn29:4.15.t5",
+          "mn29:4.15.t6",
+          "mn29:4.15.t7",
+          "mn29:4.15.t8",
+          "mn29:4.15.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，在此有某位善男子，因信而從在家出家、進入無家生活。"
+      }
     },
     {
       "segment_id": "mn29:4.16",
@@ -17656,7 +18524,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.16.t0",
+          "mn29:4.16.t1",
+          "mn29:4.16.t2",
+          "mn29:4.16.t3",
+          "mn29:4.16.t4",
+          "mn29:4.16.t5",
+          "mn29:4.16.t6",
+          "mn29:4.16.t7",
+          "mn29:4.16.t8",
+          "mn29:4.16.t9",
+          "mn29:4.16.t10"
+        ],
+        "review_status": "approved",
+        "content": "我為生、老、死，為愁、悲、苦、憂、惱所困，陷於苦、為苦所困。"
+      }
     },
     {
       "segment_id": "mn29:4.17",
@@ -17956,7 +18841,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.17.t0",
+          "mn29:4.17.t1",
+          "mn29:4.17.t2",
+          "mn29:4.17.t3",
+          "mn29:4.17.t4",
+          "mn29:4.17.t5",
+          "mn29:4.17.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。"
+      }
     },
     {
       "segment_id": "mn29:4.18",
@@ -18100,7 +18998,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.18.t0",
+          "mn29:4.18.t1",
+          "mn29:4.18.t2",
+          "mn29:4.18.t3",
+          "mn29:4.18.t4",
+          "mn29:4.18.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:4.19",
@@ -18273,7 +19183,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.19.t0",
+          "mn29:4.19.t1",
+          "mn29:4.19.t2",
+          "mn29:4.19.t3",
+          "mn29:4.19.t4",
+          "mn29:4.19.t5",
+          "mn29:4.19.t6",
+          "mn29:4.19.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因那利養、恭敬與名聲而歡喜，也不因此而心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:4.20",
@@ -18501,7 +19425,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.20.t0",
+          "mn29:4.20.t1",
+          "mn29:4.20.t2",
+          "mn29:4.20.t3",
+          "mn29:4.20.t4",
+          "mn29:4.20.t5",
+          "mn29:4.20.t6",
+          "mn29:4.20.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而自舉，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn29:4.21",
@@ -18779,7 +19717,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.21.t0",
+          "mn29:4.21.t1",
+          "mn29:4.21.t2",
+          "mn29:4.21.t3",
+          "mn29:4.21.t4",
+          "mn29:4.21.t5",
+          "mn29:4.21.t6",
+          "mn29:4.21.t7",
+          "mn29:4.21.t8",
+          "mn29:4.21.t9",
+          "mn29:4.21.t10",
+          "mn29:4.21.t11",
+          "mn29:4.21.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而陶醉、不放逸、不耽於放逸；他不放逸，成就戒具足。"
+      }
     },
     {
       "segment_id": "mn29:4.22",
@@ -19059,7 +20016,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.22.t0",
+          "mn29:4.22.t1",
+          "mn29:4.22.t2",
+          "mn29:4.22.t3",
+          "mn29:4.22.t4",
+          "mn29:4.22.t5",
+          "mn29:4.22.t6",
+          "mn29:4.22.t7",
+          "mn29:4.22.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而歡喜，但尚未心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:4.23",
@@ -19342,7 +20314,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.23.t0",
+          "mn29:4.23.t1",
+          "mn29:4.23.t2",
+          "mn29:4.23.t3",
+          "mn29:4.23.t4",
+          "mn29:4.23.t5",
+          "mn29:4.23.t6",
+          "mn29:4.23.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而自舉，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn29:4.24",
@@ -19595,7 +20581,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.24.t0",
+          "mn29:4.24.t1",
+          "mn29:4.24.t2",
+          "mn29:4.24.t3",
+          "mn29:4.24.t4",
+          "mn29:4.24.t5",
+          "mn29:4.24.t6",
+          "mn29:4.24.t7",
+          "mn29:4.24.t8"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而陶醉、不放逸、不耽於放逸。"
+      }
     },
     {
       "segment_id": "mn29:4.25",
@@ -19681,7 +20682,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.25.t0",
+          "mn29:4.25.t1",
+          "mn29:4.25.t2",
+          "mn29:4.25.t3"
+        ],
+        "review_status": "approved",
+        "content": "他不放逸，成就定具足。"
+      }
     },
     {
       "segment_id": "mn29:4.26",
@@ -19879,7 +20890,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.26.t0",
+          "mn29:4.26.t1",
+          "mn29:4.26.t2",
+          "mn29:4.26.t3",
+          "mn29:4.26.t4",
+          "mn29:4.26.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那定具足而歡喜，心滿意足。"
+      }
     },
     {
       "segment_id": "mn29:4.27",
@@ -20132,7 +21155,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.27.t0",
+          "mn29:4.27.t1",
+          "mn29:4.27.t2",
+          "mn29:4.27.t3",
+          "mn29:4.27.t4",
+          "mn29:4.27.t5"
+        ],
+        "review_status": "approved",
+        "content": "他卻因那定具足而自舉、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:4.28",
@@ -20482,7 +21517,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.28.t0",
+          "mn29:4.28.t1",
+          "mn29:4.28.t2",
+          "mn29:4.28.t3",
+          "mn29:4.28.t4",
+          "mn29:4.28.t5",
+          "mn29:4.28.t6",
+          "mn29:4.28.t7",
+          "mn29:4.28.t8"
+        ],
+        "review_status": "approved",
+        "content": "我心得定、心一境性，而這些其他比丘則心不得定、心散亂。"
+      }
     },
     {
       "segment_id": "mn29:4.29",
@@ -20830,7 +21880,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.29.t0",
+          "mn29:4.29.t1",
+          "mn29:4.29.t2",
+          "mn29:4.29.t3",
+          "mn29:4.29.t4",
+          "mn29:4.29.t5",
+          "mn29:4.29.t6",
+          "mn29:4.29.t7",
+          "mn29:4.29.t8",
+          "mn29:4.29.t9",
+          "mn29:4.29.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那定具足而陶醉、放逸、耽於放逸；放逸而住於苦。"
+      }
     },
     {
       "segment_id": "mn29:4.30",
@@ -21543,7 +22610,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.30.t0",
+          "mn29:4.30.t1",
+          "mn29:4.30.t2",
+          "mn29:4.30.t3",
+          "mn29:4.30.t4",
+          "mn29:4.30.t5",
+          "mn29:4.30.t6",
+          "mn29:4.30.t7",
+          "mn29:4.30.t8",
+          "mn29:4.30.t9",
+          "mn29:4.30.t10",
+          "mn29:4.30.t11",
+          "mn29:4.30.t12",
+          "mn29:4.30.t13",
+          "mn29:4.30.t14",
+          "mn29:4.30.t15",
+          "mn29:4.30.t16",
+          "mn29:4.30.t17",
+          "mn29:4.30.t18",
+          "mn29:4.30.t20",
+          "mn29:4.30.t21"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，猶如有人想求心材、尋求心材、為尋求心材而四處尋覓，在一棵挺立、具心材的大樹前，越過心材、越過邊材，砍下樹皮拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:4.31",
@@ -22257,7 +23351,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.31.t0",
+          "mn29:4.31.t1",
+          "mn29:4.31.t2",
+          "mn29:4.31.t3",
+          "mn29:4.31.t4",
+          "mn29:4.31.t5",
+          "mn29:4.31.t6",
+          "mn29:4.31.t7",
+          "mn29:4.31.t8",
+          "mn29:4.31.t9",
+          "mn29:4.31.t10",
+          "mn29:4.31.t11",
+          "mn29:4.31.t12",
+          "mn29:4.31.t13",
+          "mn29:4.31.t14",
+          "mn29:4.31.t15",
+          "mn29:4.31.t16",
+          "mn29:4.31.t17",
+          "mn29:4.31.t18",
+          "mn29:4.31.t19",
+          "mn29:4.31.t20",
+          "mn29:4.31.t21",
+          "mn29:4.31.t22",
+          "mn29:4.31.t23"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他，便會這樣說：「這位先生不識心材，不識邊材，不識樹皮，不識外皮，也不識枝葉。」"
+      }
     },
     {
       "segment_id": "mn29:4.32",
@@ -23094,7 +24218,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.32.t0",
+          "mn29:4.32.t1",
+          "mn29:4.32.t2",
+          "mn29:4.32.t3",
+          "mn29:4.32.t4",
+          "mn29:4.32.t5",
+          "mn29:4.32.t6",
+          "mn29:4.32.t7",
+          "mn29:4.32.t8",
+          "mn29:4.32.t9",
+          "mn29:4.32.t10",
+          "mn29:4.32.t11",
+          "mn29:4.32.t12",
+          "mn29:4.32.t13",
+          "mn29:4.32.t14",
+          "mn29:4.32.t15",
+          "mn29:4.32.t16",
+          "mn29:4.32.t17",
+          "mn29:4.32.t18",
+          "mn29:4.32.t19",
+          "mn29:4.32.t21",
+          "mn29:4.32.t22"
+        ],
+        "review_status": "approved",
+        "content": "就像這樣，這位先生為尋求心材、尋覓心材、遍尋心材而行，遇見一棵站立著、具有心材的大樹，卻越過心材、越過邊材，砍下樹皮拿了就走，以為那是心材。"
+      }
     },
     {
       "segment_id": "mn29:4.33",
@@ -23320,7 +24472,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.33.t1",
+          "mn29:4.33.t2",
+          "mn29:4.33.t3",
+          "mn29:4.33.t4",
+          "mn29:4.33.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是他該用心材完成的事，都將無法達成目的。"
+      }
     },
     {
       "segment_id": "mn29:4.34",
@@ -23611,7 +24774,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.34.t0",
+          "mn29:4.34.t1",
+          "mn29:4.34.t2",
+          "mn29:4.34.t3",
+          "mn29:4.34.t4",
+          "mn29:4.34.t5",
+          "mn29:4.34.t6",
+          "mn29:4.34.t7",
+          "mn29:4.34.t8",
+          "mn29:4.34.t9"
+        ],
+        "review_status": "approved",
+        "content": "正是這樣，比丘們，這裡有某位良家子出於信心，從在家出家、成為無家者，"
+      }
     },
     {
       "segment_id": "mn29:4.35",
@@ -24019,7 +25198,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.35.t0",
+          "mn29:4.35.t1",
+          "mn29:4.35.t2",
+          "mn29:4.35.t3",
+          "mn29:4.35.t4",
+          "mn29:4.35.t5",
+          "mn29:4.35.t6",
+          "mn29:4.35.t7",
+          "mn29:4.35.t8",
+          "mn29:4.35.t9",
+          "mn29:4.35.t10"
+        ],
+        "review_status": "approved",
+        "content": "心想：「我已沉溺於生、老、死、愁、悲、苦、憂、惱之中，深陷苦難、為苦所困，"
+      }
     },
     {
       "segment_id": "mn29:4.36",
@@ -24319,7 +25515,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.36.t0",
+          "mn29:4.36.t1",
+          "mn29:4.36.t2",
+          "mn29:4.36.t3",
+          "mn29:4.36.t4",
+          "mn29:4.36.t5",
+          "mn29:4.36.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能得知這整堆苦蘊的止息之道。」"
+      }
     },
     {
       "segment_id": "mn29:4.37",
@@ -24463,7 +25672,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.37.t0",
+          "mn29:4.37.t1",
+          "mn29:4.37.t2",
+          "mn29:4.37.t3",
+          "mn29:4.37.t4",
+          "mn29:4.37.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，獲得了利養、恭敬、名聲。"
+      }
     },
     {
       "segment_id": "mn29:4.38",
@@ -24636,7 +25857,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.38.t0",
+          "mn29:4.38.t1",
+          "mn29:4.38.t2",
+          "mn29:4.38.t3",
+          "mn29:4.38.t4",
+          "mn29:4.38.t5",
+          "mn29:4.38.t6",
+          "mn29:4.38.t7"
+        ],
+        "review_status": "approved",
+        "content": "他對這利養、恭敬、名聲並不感到滿意，也不覺得心願已圓滿，"
+      }
     },
     {
       "segment_id": "mn29:4.39",
@@ -24864,7 +26099,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.39.t0",
+          "mn29:4.39.t1",
+          "mn29:4.39.t2",
+          "mn29:4.39.t3",
+          "mn29:4.39.t4",
+          "mn29:4.39.t5",
+          "mn29:4.39.t6",
+          "mn29:4.39.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因這利養、恭敬、名聲而自我標榜，也不輕蔑他人；"
+      }
     },
     {
       "segment_id": "mn29:4.40",
@@ -25142,7 +26391,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.40.t0",
+          "mn29:4.40.t1",
+          "mn29:4.40.t2",
+          "mn29:4.40.t3",
+          "mn29:4.40.t4",
+          "mn29:4.40.t5",
+          "mn29:4.40.t6",
+          "mn29:4.40.t7",
+          "mn29:4.40.t8",
+          "mn29:4.40.t9",
+          "mn29:4.40.t10",
+          "mn29:4.40.t11",
+          "mn29:4.40.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因這利養、恭敬、名聲而沉醉、不放逸、不落入放逸，由於不放逸而成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn29:4.41",
@@ -25422,7 +26690,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.41.t0",
+          "mn29:4.41.t1",
+          "mn29:4.41.t2",
+          "mn29:4.41.t3",
+          "mn29:4.41.t4",
+          "mn29:4.41.t5",
+          "mn29:4.41.t6",
+          "mn29:4.41.t7",
+          "mn29:4.41.t8"
+        ],
+        "review_status": "approved",
+        "content": "他對這戒具足感到滿意，但心願尚未圓滿，"
+      }
     },
     {
       "segment_id": "mn29:4.42",
@@ -25705,7 +26988,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.42.t0",
+          "mn29:4.42.t1",
+          "mn29:4.42.t2",
+          "mn29:4.42.t3",
+          "mn29:4.42.t4",
+          "mn29:4.42.t5",
+          "mn29:4.42.t6",
+          "mn29:4.42.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因這戒具足而自我標榜，也不輕蔑他人；"
+      }
     },
     {
       "segment_id": "mn29:4.43",
@@ -26038,7 +27335,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.43.t0",
+          "mn29:4.43.t1",
+          "mn29:4.43.t2",
+          "mn29:4.43.t3",
+          "mn29:4.43.t4",
+          "mn29:4.43.t5",
+          "mn29:4.43.t6",
+          "mn29:4.43.t7",
+          "mn29:4.43.t8",
+          "mn29:4.43.t9",
+          "mn29:4.43.t10",
+          "mn29:4.43.t11",
+          "mn29:4.43.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因這戒具足而沉醉、不放逸、不落入放逸，由於不放逸而成就了定具足。"
+      }
     },
     {
       "segment_id": "mn29:4.44",
@@ -26236,7 +27552,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.44.t0",
+          "mn29:4.44.t1",
+          "mn29:4.44.t2",
+          "mn29:4.44.t3",
+          "mn29:4.44.t4",
+          "mn29:4.44.t5"
+        ],
+        "review_status": "approved",
+        "content": "他對這定具足感到滿意，心願也已圓滿，"
+      }
     },
     {
       "segment_id": "mn29:4.45",
@@ -26489,7 +27817,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.45.t0",
+          "mn29:4.45.t1",
+          "mn29:4.45.t2",
+          "mn29:4.45.t3",
+          "mn29:4.45.t4",
+          "mn29:4.45.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這定具足而自我標榜、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:4.46",
@@ -26839,7 +28179,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.46.t0",
+          "mn29:4.46.t1",
+          "mn29:4.46.t2",
+          "mn29:4.46.t3",
+          "mn29:4.46.t4",
+          "mn29:4.46.t5",
+          "mn29:4.46.t6",
+          "mn29:4.46.t7",
+          "mn29:4.46.t8"
+        ],
+        "review_status": "approved",
+        "content": "「我心已安定、專一，而這些其他比丘們心不安定、心思散亂。」"
+      }
     },
     {
       "segment_id": "mn29:4.47",
@@ -27187,7 +28542,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.47.t0",
+          "mn29:4.47.t1",
+          "mn29:4.47.t2",
+          "mn29:4.47.t3",
+          "mn29:4.47.t4",
+          "mn29:4.47.t5",
+          "mn29:4.47.t6",
+          "mn29:4.47.t7",
+          "mn29:4.47.t8",
+          "mn29:4.47.t9",
+          "mn29:4.47.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因這定具足而沉醉、放逸、落入放逸，由於放逸而住於苦中。"
+      }
     },
     {
       "segment_id": "mn29:4.48",
@@ -27465,7 +28837,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.48.t0",
+          "mn29:4.48.t1",
+          "mn29:4.48.t2",
+          "mn29:4.48.t3",
+          "mn29:4.48.t4",
+          "mn29:4.48.t5",
+          "mn29:4.48.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這稱為：比丘只取得了梵行的樹皮，"
+      }
     },
     {
       "segment_id": "mn29:4.49",
@@ -27579,7 +28964,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:4.49.t0",
+          "mn29:4.49.t1",
+          "mn29:4.49.t2",
+          "mn29:4.49.t3"
+        ],
+        "review_status": "approved",
+        "content": "就以此為終結、止步不前了。"
+      }
     },
     {
       "segment_id": "mn29:5.1",
@@ -27865,7 +29260,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.1.t0",
+          "mn29:5.1.t1",
+          "mn29:5.1.t2",
+          "mn29:5.1.t3",
+          "mn29:5.1.t4",
+          "mn29:5.1.t5",
+          "mn29:5.1.t6",
+          "mn29:5.1.t7",
+          "mn29:5.1.t8",
+          "mn29:5.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，這裡有某位比丘出於信心，從在家出家、成為無家者，"
+      }
     },
     {
       "segment_id": "mn29:5.2",
@@ -28273,7 +29684,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.2.t0",
+          "mn29:5.2.t1",
+          "mn29:5.2.t2",
+          "mn29:5.2.t3",
+          "mn29:5.2.t4",
+          "mn29:5.2.t5",
+          "mn29:5.2.t6",
+          "mn29:5.2.t7",
+          "mn29:5.2.t8",
+          "mn29:5.2.t9",
+          "mn29:5.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "心想：「我已沉溺於生、老、死、愁、悲、苦、憂、惱之中，深陷苦難、為苦所困，"
+      }
     },
     {
       "segment_id": "mn29:5.3",
@@ -28573,7 +30001,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.3.t0",
+          "mn29:5.3.t1",
+          "mn29:5.3.t2",
+          "mn29:5.3.t3",
+          "mn29:5.3.t4",
+          "mn29:5.3.t5",
+          "mn29:5.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能得知這整堆苦蘊的止息之道。」"
+      }
     },
     {
       "segment_id": "mn29:5.4",
@@ -28717,7 +30158,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.4.t0",
+          "mn29:5.4.t1",
+          "mn29:5.4.t2",
+          "mn29:5.4.t3",
+          "mn29:5.4.t4",
+          "mn29:5.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，獲得了利養、恭敬、名聲。"
+      }
     },
     {
       "segment_id": "mn29:5.5",
@@ -28890,7 +30343,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.5.t0",
+          "mn29:5.5.t1",
+          "mn29:5.5.t2",
+          "mn29:5.5.t3",
+          "mn29:5.5.t4",
+          "mn29:5.5.t5",
+          "mn29:5.5.t6",
+          "mn29:5.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他對這利養、恭敬、名聲並不感到滿意，也不覺得心願已圓滿，"
+      }
     },
     {
       "segment_id": "mn29:5.6",
@@ -29118,7 +30585,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.6.t0",
+          "mn29:5.6.t1",
+          "mn29:5.6.t2",
+          "mn29:5.6.t3",
+          "mn29:5.6.t4",
+          "mn29:5.6.t5",
+          "mn29:5.6.t6",
+          "mn29:5.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因這利養、恭敬、名聲而自我標榜，也不輕蔑他人；"
+      }
     },
     {
       "segment_id": "mn29:5.7",
@@ -29316,7 +30797,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.7.t0",
+          "mn29:5.7.t1",
+          "mn29:5.7.t2",
+          "mn29:5.7.t3",
+          "mn29:5.7.t4",
+          "mn29:5.7.t5",
+          "mn29:5.7.t6",
+          "mn29:5.7.t7",
+          "mn29:5.7.t8"
+        ],
+        "review_status": "approved",
+        "content": "他不因這利養、恭敬、名聲而沉醉、不放逸、不落入放逸。"
+      }
     },
     {
       "segment_id": "mn29:5.8",
@@ -29402,7 +30898,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.8.t0",
+          "mn29:5.8.t1",
+          "mn29:5.8.t2",
+          "mn29:5.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "由於不放逸，成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn29:5.9",
@@ -29682,7 +31188,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.9.t0",
+          "mn29:5.9.t1",
+          "mn29:5.9.t2",
+          "mn29:5.9.t3",
+          "mn29:5.9.t4",
+          "mn29:5.9.t5",
+          "mn29:5.9.t6",
+          "mn29:5.9.t7",
+          "mn29:5.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "他對這戒具足感到滿意，但心願尚未圓滿，"
+      }
     },
     {
       "segment_id": "mn29:5.10",
@@ -29965,7 +31486,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.10.t0",
+          "mn29:5.10.t1",
+          "mn29:5.10.t2",
+          "mn29:5.10.t3",
+          "mn29:5.10.t4",
+          "mn29:5.10.t5",
+          "mn29:5.10.t6",
+          "mn29:5.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因這戒具足而自我標榜，也不輕蔑他人；"
+      }
     },
     {
       "segment_id": "mn29:5.11",
@@ -30298,7 +31833,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.11.t0",
+          "mn29:5.11.t1",
+          "mn29:5.11.t2",
+          "mn29:5.11.t3",
+          "mn29:5.11.t4",
+          "mn29:5.11.t5",
+          "mn29:5.11.t6",
+          "mn29:5.11.t7",
+          "mn29:5.11.t8",
+          "mn29:5.11.t9",
+          "mn29:5.11.t10",
+          "mn29:5.11.t11",
+          "mn29:5.11.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因這戒具足而沉醉、不放逸、不落入放逸，由於不放逸而成就了定具足。"
+      }
     },
     {
       "segment_id": "mn29:5.12",
@@ -30578,7 +32132,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.12.t0",
+          "mn29:5.12.t1",
+          "mn29:5.12.t2",
+          "mn29:5.12.t3",
+          "mn29:5.12.t4",
+          "mn29:5.12.t5",
+          "mn29:5.12.t6",
+          "mn29:5.12.t7",
+          "mn29:5.12.t8"
+        ],
+        "review_status": "approved",
+        "content": "他對這定具足感到滿意，但心願尚未圓滿，"
+      }
     },
     {
       "segment_id": "mn29:5.13",
@@ -30861,7 +32430,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.13.t0",
+          "mn29:5.13.t1",
+          "mn29:5.13.t2",
+          "mn29:5.13.t3",
+          "mn29:5.13.t4",
+          "mn29:5.13.t5",
+          "mn29:5.13.t6",
+          "mn29:5.13.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因這定具足而自我標榜，也不輕蔑他人；"
+      }
     },
     {
       "segment_id": "mn29:5.14",
@@ -31213,7 +32796,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.14.t0",
+          "mn29:5.14.t1",
+          "mn29:5.14.t2",
+          "mn29:5.14.t3",
+          "mn29:5.14.t4",
+          "mn29:5.14.t5",
+          "mn29:5.14.t6",
+          "mn29:5.14.t7",
+          "mn29:5.14.t8",
+          "mn29:5.14.t9",
+          "mn29:5.14.t10",
+          "mn29:5.14.t11",
+          "mn29:5.14.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因這定具足而沉醉、不放逸、不落入放逸，由於不放逸而成就了知見。"
+      }
     },
     {
       "segment_id": "mn29:5.15",
@@ -31356,7 +32958,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.15.t0",
+          "mn29:5.15.t1",
+          "mn29:5.15.t2",
+          "mn29:5.15.t3",
+          "mn29:5.15.t4",
+          "mn29:5.15.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這知見而感到滿意，心願也已圓滿，"
+      }
     },
     {
       "segment_id": "mn29:5.16",
@@ -31554,7 +33168,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.16.t0",
+          "mn29:5.16.t1",
+          "mn29:5.16.t2",
+          "mn29:5.16.t3",
+          "mn29:5.16.t4",
+          "mn29:5.16.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這知見而自我標榜、輕蔑他人："
+      }
     },
     {
       "segment_id": "mn29:5.17",
@@ -31745,7 +33371,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.17.t0",
+          "mn29:5.17.t1",
+          "mn29:5.17.t2",
+          "mn29:5.17.t3"
+        ],
+        "review_status": "approved",
+        "content": "「我了知而見、安住著。」"
+      }
     },
     {
       "segment_id": "mn29:5.18",
@@ -32088,7 +33724,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.18.t0",
+          "mn29:5.18.t1",
+          "mn29:5.18.t2",
+          "mn29:5.18.t3",
+          "mn29:5.18.t4",
+          "mn29:5.18.t5",
+          "mn29:5.18.t6"
+        ],
+        "review_status": "approved",
+        "content": "而這些其他比丘，卻是不知不見而住。」"
+      }
     },
     {
       "segment_id": "mn29:5.19",
@@ -32381,7 +34030,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.19.t0",
+          "mn29:5.19.t1",
+          "mn29:5.19.t2",
+          "mn29:5.19.t3",
+          "mn29:5.19.t4",
+          "mn29:5.19.t5",
+          "mn29:5.19.t6",
+          "mn29:5.19.t7",
+          "mn29:5.19.t8",
+          "mn29:5.19.t9",
+          "mn29:5.19.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而沉醉、放逸，落入放逸；放逸之下，便住於苦。"
+      }
     },
     {
       "segment_id": "mn29:5.20",
@@ -33018,7 +34684,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.20.t0",
+          "mn29:5.20.t1",
+          "mn29:5.20.t2",
+          "mn29:5.20.t3",
+          "mn29:5.20.t4",
+          "mn29:5.20.t5",
+          "mn29:5.20.t6",
+          "mn29:5.20.t7",
+          "mn29:5.20.t8",
+          "mn29:5.20.t9",
+          "mn29:5.20.t10",
+          "mn29:5.20.t11",
+          "mn29:5.20.t12",
+          "mn29:5.20.t13",
+          "mn29:5.20.t14",
+          "mn29:5.20.t15",
+          "mn29:5.20.t16",
+          "mn29:5.20.t18",
+          "mn29:5.20.t19"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，譬如有人想求心材、尋求心材，為尋求心材而四處尋覓，他經過一棵聳立、具有心材的大樹，越過心材，砍下邊材帶走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:5.21",
@@ -33185,7 +34876,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.21.t0",
+          "mn29:5.21.t1",
+          "mn29:5.21.t2",
+          "mn29:5.21.t3",
+          "mn29:5.21.t4",
+          "mn29:5.21.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人見了，便會這樣說："
+      }
     },
     {
       "segment_id": "mn29:5.22",
@@ -33738,7 +35441,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.22.t0",
+          "mn29:5.22.t1",
+          "mn29:5.22.t2",
+          "mn29:5.22.t3",
+          "mn29:5.22.t4",
+          "mn29:5.22.t5",
+          "mn29:5.22.t6",
+          "mn29:5.22.t7",
+          "mn29:5.22.t8",
+          "mn29:5.22.t9",
+          "mn29:5.22.t10",
+          "mn29:5.22.t11",
+          "mn29:5.22.t12",
+          "mn29:5.22.t13",
+          "mn29:5.22.t14",
+          "mn29:5.22.t15",
+          "mn29:5.22.t16",
+          "mn29:5.22.t17"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生不識心材，不識邊材，不識樹皮，不識粗皮，也不識枝葉。"
+      }
     },
     {
       "segment_id": "mn29:5.23",
@@ -34499,7 +36226,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.23.t0",
+          "mn29:5.23.t1",
+          "mn29:5.23.t2",
+          "mn29:5.23.t3",
+          "mn29:5.23.t4",
+          "mn29:5.23.t5",
+          "mn29:5.23.t6",
+          "mn29:5.23.t7",
+          "mn29:5.23.t8",
+          "mn29:5.23.t9",
+          "mn29:5.23.t10",
+          "mn29:5.23.t11",
+          "mn29:5.23.t12",
+          "mn29:5.23.t13",
+          "mn29:5.23.t14",
+          "mn29:5.23.t15",
+          "mn29:5.23.t16",
+          "mn29:5.23.t17",
+          "mn29:5.23.t19",
+          "mn29:5.23.t20"
+        ],
+        "review_status": "approved",
+        "content": "確實，這位先生想求心材、尋求心材，為尋求心材而四處尋覓，他經過一棵聳立、具有心材的大樹，越過心材，砍下邊材帶走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn29:5.24",
@@ -34725,7 +36478,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.24.t1",
+          "mn29:5.24.t2",
+          "mn29:5.24.t3",
+          "mn29:5.24.t4",
+          "mn29:5.24.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是應以心材成就之事，他都無法達成其目的。』"
+      }
     },
     {
       "segment_id": "mn29:5.25",
@@ -35016,7 +36780,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.25.t0",
+          "mn29:5.25.t1",
+          "mn29:5.25.t2",
+          "mn29:5.25.t3",
+          "mn29:5.25.t4",
+          "mn29:5.25.t5",
+          "mn29:5.25.t6",
+          "mn29:5.25.t7",
+          "mn29:5.25.t8",
+          "mn29:5.25.t9"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，同樣地，這世上有一位善男子，因信而由在家出家，成為無家者。"
+      }
     },
     {
       "segment_id": "mn29:5.26",
@@ -35424,7 +37204,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.26.t0",
+          "mn29:5.26.t1",
+          "mn29:5.26.t2",
+          "mn29:5.26.t3",
+          "mn29:5.26.t4",
+          "mn29:5.26.t5",
+          "mn29:5.26.t6",
+          "mn29:5.26.t7",
+          "mn29:5.26.t8",
+          "mn29:5.26.t9",
+          "mn29:5.26.t10"
+        ],
+        "review_status": "approved",
+        "content": "「我為生、老、死、愁、悲、苦、憂、惱所困，陷於苦、為苦所迫。"
+      }
     },
     {
       "segment_id": "mn29:5.27",
@@ -35724,7 +37521,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.27.t0",
+          "mn29:5.27.t1",
+          "mn29:5.27.t2",
+          "mn29:5.27.t3",
+          "mn29:5.27.t4",
+          "mn29:5.27.t5",
+          "mn29:5.27.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。」"
+      }
     },
     {
       "segment_id": "mn29:5.28",
@@ -35868,7 +37678,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.28.t0",
+          "mn29:5.28.t1",
+          "mn29:5.28.t2",
+          "mn29:5.28.t3",
+          "mn29:5.28.t4",
+          "mn29:5.28.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:5.29",
@@ -36041,7 +37863,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.29.t0",
+          "mn29:5.29.t1",
+          "mn29:5.29.t2",
+          "mn29:5.29.t3",
+          "mn29:5.29.t4",
+          "mn29:5.29.t5",
+          "mn29:5.29.t6",
+          "mn29:5.29.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因那利養、恭敬與名聲而滿意，也不因此而心願圓滿。"
+      }
     },
     {
       "segment_id": "mn29:5.30",
@@ -36269,7 +38105,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.30.t0",
+          "mn29:5.30.t1",
+          "mn29:5.30.t2",
+          "mn29:5.30.t3",
+          "mn29:5.30.t4",
+          "mn29:5.30.t5",
+          "mn29:5.30.t6",
+          "mn29:5.30.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而自讚，也不毀謗他人。"
+      }
     },
     {
       "segment_id": "mn29:5.31",
@@ -36547,7 +38397,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.31.t0",
+          "mn29:5.31.t1",
+          "mn29:5.31.t2",
+          "mn29:5.31.t3",
+          "mn29:5.31.t4",
+          "mn29:5.31.t5",
+          "mn29:5.31.t6",
+          "mn29:5.31.t7",
+          "mn29:5.31.t8",
+          "mn29:5.31.t9",
+          "mn29:5.31.t10",
+          "mn29:5.31.t11",
+          "mn29:5.31.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而沉醉、不放逸，不落入放逸；不放逸之下，他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn29:5.32",
@@ -36827,7 +38696,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.32.t0",
+          "mn29:5.32.t1",
+          "mn29:5.32.t2",
+          "mn29:5.32.t3",
+          "mn29:5.32.t4",
+          "mn29:5.32.t5",
+          "mn29:5.32.t6",
+          "mn29:5.32.t7",
+          "mn29:5.32.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:5.33",
@@ -37110,7 +38994,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.33.t0",
+          "mn29:5.33.t1",
+          "mn29:5.33.t2",
+          "mn29:5.33.t3",
+          "mn29:5.33.t4",
+          "mn29:5.33.t5",
+          "mn29:5.33.t6",
+          "mn29:5.33.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而自讚，也不毀謗他人。"
+      }
     },
     {
       "segment_id": "mn29:5.34",
@@ -37443,7 +39341,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.34.t0",
+          "mn29:5.34.t1",
+          "mn29:5.34.t2",
+          "mn29:5.34.t3",
+          "mn29:5.34.t4",
+          "mn29:5.34.t5",
+          "mn29:5.34.t6",
+          "mn29:5.34.t7",
+          "mn29:5.34.t8",
+          "mn29:5.34.t9",
+          "mn29:5.34.t10",
+          "mn29:5.34.t11",
+          "mn29:5.34.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而沉醉、不放逸，不落入放逸；不放逸之下，他成就了定具足。"
+      }
     },
     {
       "segment_id": "mn29:5.35",
@@ -37723,7 +39640,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.35.t0",
+          "mn29:5.35.t1",
+          "mn29:5.35.t2",
+          "mn29:5.35.t3",
+          "mn29:5.35.t4",
+          "mn29:5.35.t5",
+          "mn29:5.35.t6",
+          "mn29:5.35.t7",
+          "mn29:5.35.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那定具足而滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:5.36",
@@ -38006,7 +39938,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.36.t0",
+          "mn29:5.36.t1",
+          "mn29:5.36.t2",
+          "mn29:5.36.t3",
+          "mn29:5.36.t4",
+          "mn29:5.36.t5",
+          "mn29:5.36.t6",
+          "mn29:5.36.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那定具足而自讚，也不毀謗他人。"
+      }
     },
     {
       "segment_id": "mn29:5.37",
@@ -38358,7 +40304,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.37.t0",
+          "mn29:5.37.t1",
+          "mn29:5.37.t2",
+          "mn29:5.37.t3",
+          "mn29:5.37.t4",
+          "mn29:5.37.t5",
+          "mn29:5.37.t6",
+          "mn29:5.37.t7",
+          "mn29:5.37.t8",
+          "mn29:5.37.t9",
+          "mn29:5.37.t10",
+          "mn29:5.37.t11",
+          "mn29:5.37.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那定具足而沉醉、不放逸，不落入放逸；不放逸之下，他成就了知見。"
+      }
     },
     {
       "segment_id": "mn29:5.38",
@@ -38501,7 +40466,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.38.t0",
+          "mn29:5.38.t1",
+          "mn29:5.38.t2",
+          "mn29:5.38.t3",
+          "mn29:5.38.t4",
+          "mn29:5.38.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而滿意，心願圓滿。"
+      }
     },
     {
       "segment_id": "mn29:5.39",
@@ -38699,7 +40676,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.39.t0",
+          "mn29:5.39.t1",
+          "mn29:5.39.t2",
+          "mn29:5.39.t3",
+          "mn29:5.39.t4",
+          "mn29:5.39.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而自讚，並毀謗他人："
+      }
     },
     {
       "segment_id": "mn29:5.40",
@@ -39227,7 +41216,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.40.t0",
+          "mn29:5.40.t1",
+          "mn29:5.40.t2",
+          "mn29:5.40.t3",
+          "mn29:5.40.t4",
+          "mn29:5.40.t5",
+          "mn29:5.40.t6",
+          "mn29:5.40.t7",
+          "mn29:5.40.t8",
+          "mn29:5.40.t9",
+          "mn29:5.40.t10"
+        ],
+        "review_status": "approved",
+        "content": "「我了知、照見而住，而這些其他比丘卻是不知不見而住。」"
+      }
     },
     {
       "segment_id": "mn29:5.41",
@@ -39520,7 +41526,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.41.t0",
+          "mn29:5.41.t1",
+          "mn29:5.41.t2",
+          "mn29:5.41.t3",
+          "mn29:5.41.t4",
+          "mn29:5.41.t5",
+          "mn29:5.41.t6",
+          "mn29:5.41.t7",
+          "mn29:5.41.t8",
+          "mn29:5.41.t9",
+          "mn29:5.41.t10"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而沉醉、放逸，落入放逸；放逸之下，便住於苦。"
+      }
     },
     {
       "segment_id": "mn29:5.42",
@@ -39762,7 +41785,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.42.t0",
+          "mn29:5.42.t1",
+          "mn29:5.42.t2",
+          "mn29:5.42.t3",
+          "mn29:5.42.t4",
+          "mn29:5.42.t5",
+          "mn29:5.42.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這稱為：這位比丘取了梵行的邊材，"
+      }
     },
     {
       "segment_id": "mn29:5.43",
@@ -39876,7 +41912,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:5.43.t0",
+          "mn29:5.43.t1",
+          "mn29:5.43.t2",
+          "mn29:5.43.t3"
+        ],
+        "review_status": "approved",
+        "content": "並以此為滿足而止步。"
+      }
     },
     {
       "segment_id": "mn29:6.1",
@@ -40162,7 +42208,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.1.t0",
+          "mn29:6.1.t1",
+          "mn29:6.1.t2",
+          "mn29:6.1.t3",
+          "mn29:6.1.t4",
+          "mn29:6.1.t5",
+          "mn29:6.1.t6",
+          "mn29:6.1.t7",
+          "mn29:6.1.t8",
+          "mn29:6.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，比丘們，這世上另有一位善男子，因信而由在家出家，成為無家者。"
+      }
     },
     {
       "segment_id": "mn29:6.2",
@@ -40570,7 +42632,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.2.t0",
+          "mn29:6.2.t1",
+          "mn29:6.2.t2",
+          "mn29:6.2.t3",
+          "mn29:6.2.t4",
+          "mn29:6.2.t5",
+          "mn29:6.2.t6",
+          "mn29:6.2.t7",
+          "mn29:6.2.t8",
+          "mn29:6.2.t9",
+          "mn29:6.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "「我為生、老、死、愁、悲、苦、憂、惱所困，陷於苦、為苦所迫。"
+      }
     },
     {
       "segment_id": "mn29:6.3",
@@ -40870,7 +42949,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.3.t0",
+          "mn29:6.3.t1",
+          "mn29:6.3.t2",
+          "mn29:6.3.t3",
+          "mn29:6.3.t4",
+          "mn29:6.3.t5",
+          "mn29:6.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能了知這整個苦蘊的止息之道。」"
+      }
     },
     {
       "segment_id": "mn29:6.4",
@@ -41014,7 +43106,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.4.t0",
+          "mn29:6.4.t1",
+          "mn29:6.4.t2",
+          "mn29:6.4.t3",
+          "mn29:6.4.t4",
+          "mn29:6.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn29:6.5",
@@ -41187,7 +43291,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.5.t0",
+          "mn29:6.5.t1",
+          "mn29:6.5.t2",
+          "mn29:6.5.t3",
+          "mn29:6.5.t4",
+          "mn29:6.5.t5",
+          "mn29:6.5.t6",
+          "mn29:6.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因那利養、恭敬與名聲而滿意，也不因此而心願圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.6",
@@ -41415,7 +43533,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.6.t0",
+          "mn29:6.6.t1",
+          "mn29:6.6.t2",
+          "mn29:6.6.t3",
+          "mn29:6.6.t4",
+          "mn29:6.6.t5",
+          "mn29:6.6.t6",
+          "mn29:6.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而自讚，也不毀謗他人。"
+      }
     },
     {
       "segment_id": "mn29:6.7",
@@ -41693,7 +43825,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.7.t0",
+          "mn29:6.7.t1",
+          "mn29:6.7.t2",
+          "mn29:6.7.t3",
+          "mn29:6.7.t4",
+          "mn29:6.7.t5",
+          "mn29:6.7.t6",
+          "mn29:6.7.t7",
+          "mn29:6.7.t8",
+          "mn29:6.7.t9",
+          "mn29:6.7.t10",
+          "mn29:6.7.t11",
+          "mn29:6.7.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那利養、恭敬與名聲而沉醉、不放逸，不落入放逸；不放逸之下，他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn29:6.8",
@@ -41973,7 +44124,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.8.t0",
+          "mn29:6.8.t1",
+          "mn29:6.8.t2",
+          "mn29:6.8.t3",
+          "mn29:6.8.t4",
+          "mn29:6.8.t5",
+          "mn29:6.8.t6",
+          "mn29:6.8.t7",
+          "mn29:6.8.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.9",
@@ -42256,7 +44422,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.9.t0",
+          "mn29:6.9.t1",
+          "mn29:6.9.t2",
+          "mn29:6.9.t3",
+          "mn29:6.9.t4",
+          "mn29:6.9.t5",
+          "mn29:6.9.t6",
+          "mn29:6.9.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而自讚，也不毀謗他人。"
+      }
     },
     {
       "segment_id": "mn29:6.10",
@@ -42589,7 +44769,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.10.t0",
+          "mn29:6.10.t1",
+          "mn29:6.10.t2",
+          "mn29:6.10.t3",
+          "mn29:6.10.t4",
+          "mn29:6.10.t5",
+          "mn29:6.10.t6",
+          "mn29:6.10.t7",
+          "mn29:6.10.t8",
+          "mn29:6.10.t9",
+          "mn29:6.10.t10",
+          "mn29:6.10.t11",
+          "mn29:6.10.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不因那戒具足而沉醉、不放逸，不落入放逸；不放逸之下，他成就了定具足。"
+      }
     },
     {
       "segment_id": "mn29:6.11",
@@ -42869,7 +45068,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.11.t0",
+          "mn29:6.11.t1",
+          "mn29:6.11.t2",
+          "mn29:6.11.t3",
+          "mn29:6.11.t4",
+          "mn29:6.11.t5",
+          "mn29:6.11.t6",
+          "mn29:6.11.t7",
+          "mn29:6.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那定具足而感到滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.12",
@@ -43152,7 +45366,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.12.t0",
+          "mn29:6.12.t1",
+          "mn29:6.12.t2",
+          "mn29:6.12.t3",
+          "mn29:6.12.t4",
+          "mn29:6.12.t5",
+          "mn29:6.12.t6",
+          "mn29:6.12.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那定具足而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.13",
@@ -43504,7 +45732,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.13.t0",
+          "mn29:6.13.t1",
+          "mn29:6.13.t2",
+          "mn29:6.13.t3",
+          "mn29:6.13.t4",
+          "mn29:6.13.t5",
+          "mn29:6.13.t6",
+          "mn29:6.13.t7",
+          "mn29:6.13.t8",
+          "mn29:6.13.t9",
+          "mn29:6.13.t10",
+          "mn29:6.13.t11",
+          "mn29:6.13.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那定具足而沉醉，不放逸，不落入放逸，保持不放逸而成就知見。"
+      }
     },
     {
       "segment_id": "mn29:6.14",
@@ -43729,7 +45976,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.14.t0",
+          "mn29:6.14.t1",
+          "mn29:6.14.t2",
+          "mn29:6.14.t3",
+          "mn29:6.14.t4",
+          "mn29:6.14.t5",
+          "mn29:6.14.t6",
+          "mn29:6.14.t7",
+          "mn29:6.14.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而感到滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.15",
@@ -43957,7 +46219,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.15.t0",
+          "mn29:6.15.t1",
+          "mn29:6.15.t2",
+          "mn29:6.15.t3",
+          "mn29:6.15.t4",
+          "mn29:6.15.t5",
+          "mn29:6.15.t6",
+          "mn29:6.15.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那知見而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.16",
@@ -44235,7 +46511,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.16.t0",
+          "mn29:6.16.t1",
+          "mn29:6.16.t2",
+          "mn29:6.16.t3",
+          "mn29:6.16.t4",
+          "mn29:6.16.t5",
+          "mn29:6.16.t6",
+          "mn29:6.16.t7",
+          "mn29:6.16.t8",
+          "mn29:6.16.t9",
+          "mn29:6.16.t10",
+          "mn29:6.16.t11",
+          "mn29:6.16.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那知見而沉醉，不放逸，不落入放逸，保持不放逸而成就不時解脫。"
+      }
     },
     {
       "segment_id": "mn29:6.17",
@@ -44549,7 +46844,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.17.t0",
+          "mn29:6.17.t1",
+          "mn29:6.17.t2",
+          "mn29:6.17.t3",
+          "mn29:6.17.t4",
+          "mn29:6.17.t5",
+          "mn29:6.17.t6",
+          "mn29:6.17.t7",
+          "mn29:6.17.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這是不可能的事，沒有這種情況：那比丘會從那不時解脫中退失。"
+      }
     },
     {
       "segment_id": "mn29:6.18",
@@ -45115,7 +47425,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.18.t0",
+          "mn29:6.18.t1",
+          "mn29:6.18.t2",
+          "mn29:6.18.t3",
+          "mn29:6.18.t4",
+          "mn29:6.18.t5",
+          "mn29:6.18.t6",
+          "mn29:6.18.t7",
+          "mn29:6.18.t8",
+          "mn29:6.18.t9",
+          "mn29:6.18.t10",
+          "mn29:6.18.t11",
+          "mn29:6.18.t12",
+          "mn29:6.18.t13",
+          "mn29:6.18.t14",
+          "mn29:6.18.t16",
+          "mn29:6.18.t17"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，猶如有人想要心材、尋求心材，為尋覓心材而四處尋訪，見到一棵挺立的大樹具有心材，便砍下、取走那心材，知道『這是心材』後便離去。"
+      }
     },
     {
       "segment_id": "mn29:6.19",
@@ -45282,7 +47615,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.19.t0",
+          "mn29:6.19.t1",
+          "mn29:6.19.t2",
+          "mn29:6.19.t3",
+          "mn29:6.19.t4",
+          "mn29:6.19.t5"
+        ],
+        "review_status": "approved",
+        "content": "有位明眼人見到他這樣做，便這麼說："
+      }
     },
     {
       "segment_id": "mn29:6.20",
@@ -45760,7 +48105,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.20.t0",
+          "mn29:6.20.t1",
+          "mn29:6.20.t2",
+          "mn29:6.20.t3",
+          "mn29:6.20.t4",
+          "mn29:6.20.t5",
+          "mn29:6.20.t6",
+          "mn29:6.20.t7",
+          "mn29:6.20.t8",
+          "mn29:6.20.t9",
+          "mn29:6.20.t10",
+          "mn29:6.20.t11",
+          "mn29:6.20.t12"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實認得心材，認得邊材，認得樹皮，認得外皮，認得枝葉。』"
+      }
     },
     {
       "segment_id": "mn29:6.21",
@@ -46450,7 +48814,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.21.t0",
+          "mn29:6.21.t1",
+          "mn29:6.21.t2",
+          "mn29:6.21.t3",
+          "mn29:6.21.t4",
+          "mn29:6.21.t5",
+          "mn29:6.21.t6",
+          "mn29:6.21.t7",
+          "mn29:6.21.t8",
+          "mn29:6.21.t9",
+          "mn29:6.21.t10",
+          "mn29:6.21.t11",
+          "mn29:6.21.t12",
+          "mn29:6.21.t13",
+          "mn29:6.21.t14",
+          "mn29:6.21.t15",
+          "mn29:6.21.t17",
+          "mn29:6.21.t18"
+        ],
+        "review_status": "approved",
+        "content": "確實如此，這位先生想要心材、尋求心材，為尋覓心材而四處尋訪，見到一棵挺立的大樹具有心材，便砍下、取走那心材而離去，知道『這是心材』。"
+      }
     },
     {
       "segment_id": "mn29:6.22",
@@ -46676,7 +49064,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.22.t1",
+          "mn29:6.22.t2",
+          "mn29:6.22.t3",
+          "mn29:6.22.t4",
+          "mn29:6.22.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是需要用心材製作的東西，他都能藉此達成目的。"
+      }
     },
     {
       "segment_id": "mn29:6.23",
@@ -46967,7 +49366,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.23.t0",
+          "mn29:6.23.t1",
+          "mn29:6.23.t2",
+          "mn29:6.23.t3",
+          "mn29:6.23.t4",
+          "mn29:6.23.t5",
+          "mn29:6.23.t6",
+          "mn29:6.23.t7",
+          "mn29:6.23.t8",
+          "mn29:6.23.t9"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，同樣地，這裡有某位善男子，因信而由在家出家、成為無家者，"
+      }
     },
     {
       "segment_id": "mn29:6.24",
@@ -47375,7 +49790,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.24.t0",
+          "mn29:6.24.t1",
+          "mn29:6.24.t2",
+          "mn29:6.24.t3",
+          "mn29:6.24.t4",
+          "mn29:6.24.t5",
+          "mn29:6.24.t6",
+          "mn29:6.24.t7",
+          "mn29:6.24.t8",
+          "mn29:6.24.t9",
+          "mn29:6.24.t10"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我為生、老、死，愁、悲、苦、憂、惱所困，深陷苦中，為苦所困，』"
+      }
     },
     {
       "segment_id": "mn29:6.25",
@@ -47675,7 +50107,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.25.t0",
+          "mn29:6.25.t1",
+          "mn29:6.25.t2",
+          "mn29:6.25.t3",
+          "mn29:6.25.t4",
+          "mn29:6.25.t5",
+          "mn29:6.25.t7"
+        ],
+        "review_status": "approved",
+        "content": "『但願能由此得知這整個苦蘊的止息之道。』"
+      }
     },
     {
       "segment_id": "mn29:6.26",
@@ -47819,7 +50264,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.26.t0",
+          "mn29:6.26.t1",
+          "mn29:6.26.t2",
+          "mn29:6.26.t3",
+          "mn29:6.26.t4",
+          "mn29:6.26.t5"
+        ],
+        "review_status": "approved",
+        "content": "他這樣出家之後，獲得了利養、恭敬與名聞。"
+      }
     },
     {
       "segment_id": "mn29:6.27",
@@ -47992,7 +50449,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.27.t0",
+          "mn29:6.27.t1",
+          "mn29:6.27.t2",
+          "mn29:6.27.t3",
+          "mn29:6.27.t4",
+          "mn29:6.27.t5",
+          "mn29:6.27.t6",
+          "mn29:6.27.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那利養、恭敬與名聞而滿意，也不會心願圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.28",
@@ -48220,7 +50691,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.28.t0",
+          "mn29:6.28.t1",
+          "mn29:6.28.t2",
+          "mn29:6.28.t3",
+          "mn29:6.28.t4",
+          "mn29:6.28.t5",
+          "mn29:6.28.t6",
+          "mn29:6.28.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那利養、恭敬與名聞而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.29",
@@ -48498,7 +50983,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.29.t0",
+          "mn29:6.29.t1",
+          "mn29:6.29.t2",
+          "mn29:6.29.t3",
+          "mn29:6.29.t4",
+          "mn29:6.29.t5",
+          "mn29:6.29.t6",
+          "mn29:6.29.t7",
+          "mn29:6.29.t8",
+          "mn29:6.29.t9",
+          "mn29:6.29.t10",
+          "mn29:6.29.t11",
+          "mn29:6.29.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那利養、恭敬與名聞而沉醉，不放逸，不落入放逸，保持不放逸而成就戒具足。"
+      }
     },
     {
       "segment_id": "mn29:6.30",
@@ -48778,7 +51282,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.30.t0",
+          "mn29:6.30.t1",
+          "mn29:6.30.t2",
+          "mn29:6.30.t3",
+          "mn29:6.30.t4",
+          "mn29:6.30.t5",
+          "mn29:6.30.t6",
+          "mn29:6.30.t7",
+          "mn29:6.30.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那戒具足而感到滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.31",
@@ -49061,7 +51580,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.31.t0",
+          "mn29:6.31.t1",
+          "mn29:6.31.t2",
+          "mn29:6.31.t3",
+          "mn29:6.31.t4",
+          "mn29:6.31.t5",
+          "mn29:6.31.t6",
+          "mn29:6.31.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那戒具足而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.32",
@@ -49394,7 +51927,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.32.t0",
+          "mn29:6.32.t1",
+          "mn29:6.32.t2",
+          "mn29:6.32.t3",
+          "mn29:6.32.t4",
+          "mn29:6.32.t5",
+          "mn29:6.32.t6",
+          "mn29:6.32.t7",
+          "mn29:6.32.t8",
+          "mn29:6.32.t9",
+          "mn29:6.32.t10",
+          "mn29:6.32.t11",
+          "mn29:6.32.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那戒具足而沉醉，不放逸，不落入放逸，保持不放逸而成就定具足。"
+      }
     },
     {
       "segment_id": "mn29:6.33",
@@ -49674,7 +52226,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.33.t0",
+          "mn29:6.33.t1",
+          "mn29:6.33.t2",
+          "mn29:6.33.t3",
+          "mn29:6.33.t4",
+          "mn29:6.33.t5",
+          "mn29:6.33.t6",
+          "mn29:6.33.t7",
+          "mn29:6.33.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那定具足而感到滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.34",
@@ -49957,7 +52524,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.34.t0",
+          "mn29:6.34.t1",
+          "mn29:6.34.t2",
+          "mn29:6.34.t3",
+          "mn29:6.34.t4",
+          "mn29:6.34.t5",
+          "mn29:6.34.t6",
+          "mn29:6.34.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那定具足而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.35",
@@ -50309,7 +52890,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.35.t0",
+          "mn29:6.35.t1",
+          "mn29:6.35.t2",
+          "mn29:6.35.t3",
+          "mn29:6.35.t4",
+          "mn29:6.35.t5",
+          "mn29:6.35.t6",
+          "mn29:6.35.t7",
+          "mn29:6.35.t8",
+          "mn29:6.35.t9",
+          "mn29:6.35.t10",
+          "mn29:6.35.t11",
+          "mn29:6.35.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那定具足而沉醉，不放逸，不落入放逸，保持不放逸而成就知見。"
+      }
     },
     {
       "segment_id": "mn29:6.36",
@@ -50534,7 +53134,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.36.t0",
+          "mn29:6.36.t1",
+          "mn29:6.36.t2",
+          "mn29:6.36.t3",
+          "mn29:6.36.t4",
+          "mn29:6.36.t5",
+          "mn29:6.36.t6",
+          "mn29:6.36.t7",
+          "mn29:6.36.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因那知見而感到滿意，但心願尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn29:6.37",
@@ -50762,7 +53377,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.37.t0",
+          "mn29:6.37.t1",
+          "mn29:6.37.t2",
+          "mn29:6.37.t3",
+          "mn29:6.37.t4",
+          "mn29:6.37.t5",
+          "mn29:6.37.t6",
+          "mn29:6.37.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那知見而自我誇耀，也不輕視他人。"
+      }
     },
     {
       "segment_id": "mn29:6.38",
@@ -51040,7 +53669,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.38.t0",
+          "mn29:6.38.t1",
+          "mn29:6.38.t2",
+          "mn29:6.38.t3",
+          "mn29:6.38.t4",
+          "mn29:6.38.t5",
+          "mn29:6.38.t6",
+          "mn29:6.38.t7",
+          "mn29:6.38.t8",
+          "mn29:6.38.t9",
+          "mn29:6.38.t10",
+          "mn29:6.38.t11",
+          "mn29:6.38.t12"
+        ],
+        "review_status": "approved",
+        "content": "他不會因那知見而沉醉，不放逸，不落入放逸，保持不放逸而成就不時解脫。"
+      }
     },
     {
       "segment_id": "mn29:6.39",
@@ -51354,7 +54002,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:6.39.t0",
+          "mn29:6.39.t1",
+          "mn29:6.39.t2",
+          "mn29:6.39.t3",
+          "mn29:6.39.t4",
+          "mn29:6.39.t5",
+          "mn29:6.39.t6",
+          "mn29:6.39.t7",
+          "mn29:6.39.t8"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這是不可能的事，沒有這種情況：那比丘會從那不時解脫中退失。"
+      }
     },
     {
       "segment_id": "mn29:7.1",
@@ -51722,7 +54385,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.1.t0",
+          "mn29:7.1.t1",
+          "mn29:7.1.t2",
+          "mn29:7.1.t3",
+          "mn29:7.1.t4",
+          "mn29:7.1.t5",
+          "mn29:7.1.t6",
+          "mn29:7.1.t7",
+          "mn29:7.1.t8",
+          "mn29:7.1.t9",
+          "mn29:7.1.t10",
+          "mn29:7.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，就是這樣：這梵行並非以利養、恭敬與名聞為利益，並非以戒具足為利益，並非以定具足為利益，也並非以知見為利益。"
+      }
     },
     {
       "segment_id": "mn29:7.2",
@@ -52035,7 +54716,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.2.t0",
+          "mn29:7.2.t1",
+          "mn29:7.2.t2",
+          "mn29:7.2.t3",
+          "mn29:7.2.t4",
+          "mn29:7.2.t5",
+          "mn29:7.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，而是這不動的心解脫——"
+      }
     },
     {
       "segment_id": "mn29:7.3",
@@ -52382,7 +55076,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.3.t1",
+          "mn29:7.3.t2",
+          "mn29:7.3.t3",
+          "mn29:7.3.t4",
+          "mn29:7.3.t5",
+          "mn29:7.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "比丘們，這梵行正是以此為目的，此即心材，此即究竟。"
+      }
     },
     {
       "segment_id": "mn29:7.4",
@@ -52469,7 +55175,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.4.t0",
+          "mn29:7.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊說了這番話。"
+      }
     },
     {
       "segment_id": "mn29:7.5",
@@ -52818,7 +55532,19 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.5.t0",
+          "mn29:7.5.t1",
+          "mn29:7.5.t2",
+          "mn29:7.5.t3",
+          "mn29:7.5.t4",
+          "mn29:7.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘心生歡喜，對世尊所說的話歡喜信受。"
+      }
     },
     {
       "segment_id": "mn29:7.6",
@@ -52935,7 +55661,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn29:7.6.t0",
+          "mn29:7.6.t1",
+          "mn29:7.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "《心材喻大經》第九經，終。"
+      }
     }
   ],
   "passages": [
@@ -53161,8 +55896,87 @@
       "agama": null
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn29:1.2",
+      "mn29:1.3",
+      "mn29:2.1",
+      "mn29:2.4",
+      "mn29:2.5",
+      "mn29:2.6",
+      "mn29:2.8",
+      "mn29:2.9",
+      "mn29:2.21",
+      "mn29:3.8",
+      "mn29:3.10",
+      "mn29:3.13",
+      "mn29:4.13",
+      "mn29:4.25",
+      "mn29:4.30",
+      "mn29:4.48",
+      "mn29:5.14",
+      "mn29:5.20",
+      "mn29:5.42",
+      "mn29:6.16",
+      "mn29:6.17",
+      "mn29:6.18",
+      "mn29:6.39",
+      "mn29:7.1",
+      "mn29:7.2",
+      "mn29:7.3"
+    ],
+    "review_status": "approved",
+    "content": "世尊在王舍城靈鷲山，因提婆達多離去不久對比丘們說法。佛陀以尋求心材為喻：有人入林尋覓樹心，卻誤把枝葉、外皮、樹皮、邊材當作心材取走，終究無法成辦心材該辦之事。同樣地，善男子因苦出家修行，若因利養恭敬名聲便自滿自舉、輕蔑他人、放逸，如同取走枝葉；若因成就戒、成就定而自滿放逸，各如取走外皮、樹皮；若因成就知見而自滿自舉、放逸，如同取走邊材。唯有每一層次都不自滿、不放逸而繼續前行，成就不退失的心解脫，才真正取得心材。梵行的目的與究竟，不在利養、戒、定、知見本身，而在那不動的心解脫。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "心材喻：枝葉、外皮、樹皮、邊材、心材各喻何事",
+      "sources": [
+        "mn29:2.9",
+        "mn29:3.13",
+        "mn29:4.30",
+        "mn29:5.20",
+        "mn29:6.18"
+      ],
+      "content": "佛陀以入林求心材為喻：不識心材的人會依序誤取枝葉、外皮、樹皮、邊材而歸，以為已得心材。對應到修行歷程，枝葉喻利養、恭敬與名聲，外皮喻戒具足，樹皮喻定具足，邊材喻知見；這四者由外而內雖漸趨核心，但都不是心材本身。唯有識得心材的人才會越過這四層，直接取走心材，凡是該用心材成辦的事都能達成。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "為何不以利養、戒、定、知見為滿足",
+      "sources": [
+        "mn29:3.8",
+        "mn29:3.10",
+        "mn29:3.12",
+        "mn29:4.25",
+        "mn29:4.27",
+        "mn29:5.14",
+        "mn29:5.16",
+        "mn29:5.39"
+      ],
+      "content": "經中反覆呈現同一結構：善男子出家後獲得利養恭敬名聲，若因此自滿、自舉輕蔑他人、耽於放逸，便停在枝葉上；即使不因利養而自滿，轉而成就戒具足，若又因戒而自滿放逸，便停在外皮上；同樣地，成就定具足後若自滿放逸，便停在樹皮上；成就知見後若自滿自舉、放逸，便停在邊材上。每一層次都可能重演同樣的自滿與自舉，唯有持續不因任何已得成就而止步，才能不落入放逸而住於苦。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "不動的心解脫：梵行真正的心材與究竟",
+      "sources": [
+        "mn29:6.16",
+        "mn29:6.17",
+        "mn29:6.39",
+        "mn29:7.1",
+        "mn29:7.2",
+        "mn29:7.3"
+      ],
+      "content": "唯有在利養恭敬名聲、戒具足、定具足、知見上都不自滿、不自舉、不放逸，繼續向前，才能成就經中所稱的「不時解脫」，比丘一旦得此便沒有退失的可能，正如取得真正心材的人凡事皆能成辦。世尊最後總結：這梵行並非以利養恭敬名聲為利益，並非以戒具足、定具足或知見為利益，而是以那不動的心解脫為依歸；此即梵行的心材，此即究竟。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

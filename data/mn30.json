@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn30",
-    "title_pali": "MN30",
-    "title_zh": "mn30",
+    "title_pali": "Cūḷasāropamasutta",
+    "title_zh": "心材喻小經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn30"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:1.1.t0",
+          "mn30:1.1.t1",
+          "mn30:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn30:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:1.2.t0",
+          "mn30:1.2.t1",
+          "mn30:1.2.t2",
+          "mn30:1.2.t3",
+          "mn30:1.2.t4",
+          "mn30:1.2.t5",
+          "mn30:1.2.t6",
+          "mn30:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "有一時，世尊住在舍衛城祇樹給孤獨園。"
+      }
     },
     {
       "segment_id": "mn30:2.1",
@@ -817,7 +840,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.1.t0",
+          "mn30:2.1.t1",
+          "mn30:2.1.t2",
+          "mn30:2.1.t3",
+          "mn30:2.1.t4",
+          "mn30:2.1.t5",
+          "mn30:2.1.t6",
+          "mn30:2.1.t7",
+          "mn30:2.1.t8",
+          "mn30:2.1.t9",
+          "mn30:2.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "那時，賓伽羅柯車婆羅門來到世尊所在之處，到了之後，與世尊互相問候。"
+      }
     },
     {
       "segment_id": "mn30:2.2",
@@ -1149,7 +1189,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.2.t0",
+          "mn30:2.2.t1",
+          "mn30:2.2.t2",
+          "mn30:2.2.t3",
+          "mn30:2.2.t4",
+          "mn30:2.2.t5",
+          "mn30:2.2.t6",
+          "mn30:2.2.t7",
+          "mn30:2.2.t8",
+          "mn30:2.2.t9",
+          "mn30:2.2.t10",
+          "mn30:2.2.t11",
+          "mn30:2.2.t12"
+        ],
+        "review_status": "approved",
+        "content": "互相問候寒暄、禮貌交談完畢後，便坐在一旁。賓伽羅柯車婆羅門坐在一旁後，對世尊如此說道："
+      }
     },
     {
       "segment_id": "mn30:2.3",
@@ -1746,7 +1805,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.3.t0",
+          "mn30:2.3.t1",
+          "mn30:2.3.t2",
+          "mn30:2.3.t3",
+          "mn30:2.3.t4",
+          "mn30:2.3.t5",
+          "mn30:2.3.t6",
+          "mn30:2.3.t7",
+          "mn30:2.3.t8",
+          "mn30:2.3.t9",
+          "mn30:2.3.t10",
+          "mn30:2.3.t11"
+        ],
+        "review_status": "approved",
+        "content": "喬達摩尊師，凡是那些擁有僧團、擁有徒眾、身為徒眾之師、有名望、享盛譽、自稱為教派創始人、受眾人推崇為賢善的沙門婆羅門，"
+      }
     },
     {
       "segment_id": "mn30:2.4",
@@ -1992,7 +2069,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.4.t0",
+          "mn30:2.4.t1",
+          "mn30:2.4.t2",
+          "mn30:2.4.t3",
+          "mn30:2.4.t4",
+          "mn30:2.4.t5",
+          "mn30:2.4.t6",
+          "mn30:2.4.t7",
+          "mn30:2.4.t8",
+          "mn30:2.4.t9",
+          "mn30:2.4.t10",
+          "mn30:2.4.t11",
+          "mn30:2.4.t12"
+        ],
+        "review_status": "approved",
+        "content": "也就是：富蘭那迦葉、末伽梨瞿舍利、阿耆多翅舍欽婆羅、婆浮陀迦旃那、散若耶毘羅胝子、尼乾陀若提子，"
+      }
     },
     {
       "segment_id": "mn30:2.5",
@@ -2437,7 +2533,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.5.t0",
+          "mn30:2.5.t1",
+          "mn30:2.5.t2",
+          "mn30:2.5.t3",
+          "mn30:2.5.t4",
+          "mn30:2.5.t5",
+          "mn30:2.5.t6",
+          "mn30:2.5.t7",
+          "mn30:2.5.t8",
+          "mn30:2.5.t9",
+          "mn30:2.5.t11"
+        ],
+        "review_status": "approved",
+        "content": "他們是否都如自己所宣稱的那樣證悟了呢？還是全都沒有證悟？或者其中有些人證悟了，有些人沒有證悟呢？"
+      }
     },
     {
       "segment_id": "mn30:2.6",
@@ -2493,7 +2606,16 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.6.t0",
+          "mn30:2.6.t1",
+          "mn30:2.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，夠了，這個問題就此打住吧。"
+      }
     },
     {
       "segment_id": "mn30:2.7",
@@ -2918,7 +3040,24 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.7.t0",
+          "mn30:2.7.t1",
+          "mn30:2.7.t2",
+          "mn30:2.7.t3",
+          "mn30:2.7.t4",
+          "mn30:2.7.t5",
+          "mn30:2.7.t6",
+          "mn30:2.7.t7",
+          "mn30:2.7.t8",
+          "mn30:2.7.t9",
+          "mn30:2.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "他們是否都如自己所宣稱的那樣證悟了呢？還是全都沒有證悟？或者其中有些人證悟了，有些人沒有證悟呢？"
+      }
     },
     {
       "segment_id": "mn30:2.8",
@@ -3094,7 +3233,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.8.t0",
+          "mn30:2.8.t1",
+          "mn30:2.8.t2",
+          "mn30:2.8.t3"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，我要為你說法，"
+      }
     },
     {
       "segment_id": "mn30:2.9",
@@ -3294,7 +3443,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.9.t0",
+          "mn30:2.9.t1",
+          "mn30:2.9.t2",
+          "mn30:2.9.t3",
+          "mn30:2.9.t4",
+          "mn30:2.9.t6"
+        ],
+        "review_status": "approved",
+        "content": "你且諦聽，善加思惟，我要開始說了。"
+      }
     },
     {
       "segment_id": "mn30:2.10",
@@ -3505,7 +3666,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.10.t0",
+          "mn30:2.10.t1",
+          "mn30:2.10.t2",
+          "mn30:2.10.t3",
+          "mn30:2.10.t4",
+          "mn30:2.10.t5",
+          "mn30:2.10.t6",
+          "mn30:2.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "賓伽羅柯車婆羅門回答世尊：「是，尊者。」"
+      }
     },
     {
       "segment_id": "mn30:2.11",
@@ -3587,7 +3762,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:2.11.t0",
+          "mn30:2.11.t1"
+        ],
+        "review_status": "approved",
+        "content": "世尊如此說道："
+      }
     },
     {
       "segment_id": "mn30:3.1",
@@ -4379,7 +4562,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:3.1.t0",
+          "mn30:3.1.t1",
+          "mn30:3.1.t2",
+          "mn30:3.1.t3",
+          "mn30:3.1.t4",
+          "mn30:3.1.t5",
+          "mn30:3.1.t6",
+          "mn30:3.1.t7",
+          "mn30:3.1.t8",
+          "mn30:3.1.t9",
+          "mn30:3.1.t10",
+          "mn30:3.1.t11",
+          "mn30:3.1.t12",
+          "mn30:3.1.t13",
+          "mn30:3.1.t14",
+          "mn30:3.1.t15",
+          "mn30:3.1.t16",
+          "mn30:3.1.t17",
+          "mn30:3.1.t18",
+          "mn30:3.1.t19",
+          "mn30:3.1.t20",
+          "mn30:3.1.t21",
+          "mn30:3.1.t22",
+          "mn30:3.1.t24",
+          "mn30:3.1.t25"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，譬如有個人想要心材、尋求心材、到處尋覓心材，他走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材、越過樹皮、越過外皮，砍下枝葉，拿了就走，以為『這就是心材』。"
+      }
     },
     {
       "segment_id": "mn30:3.2",
@@ -4546,7 +4760,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:3.2.t0",
+          "mn30:3.2.t1",
+          "mn30:3.2.t2",
+          "mn30:3.2.t3",
+          "mn30:3.2.t4",
+          "mn30:3.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他這樣，便會如此說："
+      }
     },
     {
       "segment_id": "mn30:3.3",
@@ -5099,7 +5325,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:3.3.t0",
+          "mn30:3.3.t1",
+          "mn30:3.3.t2",
+          "mn30:3.3.t3",
+          "mn30:3.3.t4",
+          "mn30:3.3.t5",
+          "mn30:3.3.t6",
+          "mn30:3.3.t7",
+          "mn30:3.3.t8",
+          "mn30:3.3.t9",
+          "mn30:3.3.t10",
+          "mn30:3.3.t11",
+          "mn30:3.3.t12",
+          "mn30:3.3.t13",
+          "mn30:3.3.t14",
+          "mn30:3.3.t15",
+          "mn30:3.3.t16",
+          "mn30:3.3.t17"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實不認得心材，不認得邊材，不認得樹皮，不認得外皮，也不認得枝葉，"
+      }
     },
     {
       "segment_id": "mn30:3.4",
@@ -6015,7 +6265,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:3.4.t0",
+          "mn30:3.4.t1",
+          "mn30:3.4.t2",
+          "mn30:3.4.t3",
+          "mn30:3.4.t4",
+          "mn30:3.4.t5",
+          "mn30:3.4.t6",
+          "mn30:3.4.t7",
+          "mn30:3.4.t8",
+          "mn30:3.4.t9",
+          "mn30:3.4.t10",
+          "mn30:3.4.t11",
+          "mn30:3.4.t12",
+          "mn30:3.4.t13",
+          "mn30:3.4.t14",
+          "mn30:3.4.t15",
+          "mn30:3.4.t16",
+          "mn30:3.4.t17",
+          "mn30:3.4.t18",
+          "mn30:3.4.t19",
+          "mn30:3.4.t20",
+          "mn30:3.4.t21",
+          "mn30:3.4.t22",
+          "mn30:3.4.t23",
+          "mn30:3.4.t25",
+          "mn30:3.4.t26"
+        ],
+        "review_status": "approved",
+        "content": "所以這位先生，想要心材、尋求心材、到處尋覓心材，走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材、越過樹皮、越過外皮，砍下枝葉，拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn30:3.5",
@@ -6241,7 +6523,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:3.5.t1",
+          "mn30:3.5.t2",
+          "mn30:3.5.t3",
+          "mn30:3.5.t4",
+          "mn30:3.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "然而，凡是要用心材才能成就的事，他都無法藉此達成目的。』"
+      }
     },
     {
       "segment_id": "mn30:4.1",
@@ -7051,7 +7344,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:4.1.t0",
+          "mn30:4.1.t1",
+          "mn30:4.1.t2",
+          "mn30:4.1.t3",
+          "mn30:4.1.t4",
+          "mn30:4.1.t5",
+          "mn30:4.1.t6",
+          "mn30:4.1.t7",
+          "mn30:4.1.t8",
+          "mn30:4.1.t9",
+          "mn30:4.1.t10",
+          "mn30:4.1.t11",
+          "mn30:4.1.t12",
+          "mn30:4.1.t13",
+          "mn30:4.1.t14",
+          "mn30:4.1.t15",
+          "mn30:4.1.t16",
+          "mn30:4.1.t17",
+          "mn30:4.1.t18",
+          "mn30:4.1.t19",
+          "mn30:4.1.t20",
+          "mn30:4.1.t21",
+          "mn30:4.1.t22",
+          "mn30:4.1.t24",
+          "mn30:4.1.t25"
+        ],
+        "review_status": "approved",
+        "content": "又譬如，婆羅門，有個人想要心材、尋求心材、到處尋覓心材，他走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材、越過樹皮，砍下外皮，拿了就走，以為『這就是心材』。"
+      }
     },
     {
       "segment_id": "mn30:4.2",
@@ -7218,7 +7542,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:4.2.t0",
+          "mn30:4.2.t1",
+          "mn30:4.2.t2",
+          "mn30:4.2.t3",
+          "mn30:4.2.t4",
+          "mn30:4.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他這樣，便會如此說："
+      }
     },
     {
       "segment_id": "mn30:4.3",
@@ -7771,7 +8107,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:4.3.t0",
+          "mn30:4.3.t1",
+          "mn30:4.3.t2",
+          "mn30:4.3.t3",
+          "mn30:4.3.t4",
+          "mn30:4.3.t5",
+          "mn30:4.3.t6",
+          "mn30:4.3.t7",
+          "mn30:4.3.t8",
+          "mn30:4.3.t9",
+          "mn30:4.3.t10",
+          "mn30:4.3.t11",
+          "mn30:4.3.t12",
+          "mn30:4.3.t13",
+          "mn30:4.3.t14",
+          "mn30:4.3.t15",
+          "mn30:4.3.t16",
+          "mn30:4.3.t17"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實不認得心材，不認得邊材，不認得樹皮，不認得外皮，也不認得枝葉，"
+      }
     },
     {
       "segment_id": "mn30:4.4",
@@ -8638,7 +8998,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:4.4.t0",
+          "mn30:4.4.t1",
+          "mn30:4.4.t2",
+          "mn30:4.4.t3",
+          "mn30:4.4.t4",
+          "mn30:4.4.t5",
+          "mn30:4.4.t6",
+          "mn30:4.4.t7",
+          "mn30:4.4.t8",
+          "mn30:4.4.t9",
+          "mn30:4.4.t10",
+          "mn30:4.4.t11",
+          "mn30:4.4.t12",
+          "mn30:4.4.t13",
+          "mn30:4.4.t14",
+          "mn30:4.4.t15",
+          "mn30:4.4.t16",
+          "mn30:4.4.t17",
+          "mn30:4.4.t18",
+          "mn30:4.4.t19",
+          "mn30:4.4.t20",
+          "mn30:4.4.t21",
+          "mn30:4.4.t23",
+          "mn30:4.4.t24"
+        ],
+        "review_status": "approved",
+        "content": "所以這位先生，想要心材、尋求心材、到處尋覓心材，走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材、越過樹皮，砍下外皮，拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn30:4.5",
@@ -8864,7 +9254,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:4.5.t1",
+          "mn30:4.5.t2",
+          "mn30:4.5.t3",
+          "mn30:4.5.t4",
+          "mn30:4.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "然而，凡是要用心材才能成就的事，他都無法藉此達成目的。』"
+      }
     },
     {
       "segment_id": "mn30:5.1",
@@ -9644,7 +10045,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:5.1.t0",
+          "mn30:5.1.t1",
+          "mn30:5.1.t2",
+          "mn30:5.1.t3",
+          "mn30:5.1.t4",
+          "mn30:5.1.t5",
+          "mn30:5.1.t6",
+          "mn30:5.1.t7",
+          "mn30:5.1.t8",
+          "mn30:5.1.t9",
+          "mn30:5.1.t10",
+          "mn30:5.1.t11",
+          "mn30:5.1.t12",
+          "mn30:5.1.t13",
+          "mn30:5.1.t14",
+          "mn30:5.1.t15",
+          "mn30:5.1.t16",
+          "mn30:5.1.t17",
+          "mn30:5.1.t18",
+          "mn30:5.1.t19",
+          "mn30:5.1.t20",
+          "mn30:5.1.t22",
+          "mn30:5.1.t23"
+        ],
+        "review_status": "approved",
+        "content": "又譬如，婆羅門，有個人想要心材、尋求心材、到處尋覓心材，他走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材，砍下樹皮，拿了就走，以為『這就是心材』。"
+      }
     },
     {
       "segment_id": "mn30:5.2",
@@ -9811,7 +10241,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:5.2.t0",
+          "mn30:5.2.t1",
+          "mn30:5.2.t2",
+          "mn30:5.2.t3",
+          "mn30:5.2.t4",
+          "mn30:5.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他這樣，便會如此說："
+      }
     },
     {
       "segment_id": "mn30:5.3",
@@ -10364,7 +10806,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:5.3.t0",
+          "mn30:5.3.t1",
+          "mn30:5.3.t2",
+          "mn30:5.3.t3",
+          "mn30:5.3.t4",
+          "mn30:5.3.t5",
+          "mn30:5.3.t6",
+          "mn30:5.3.t7",
+          "mn30:5.3.t8",
+          "mn30:5.3.t9",
+          "mn30:5.3.t10",
+          "mn30:5.3.t11",
+          "mn30:5.3.t12",
+          "mn30:5.3.t13",
+          "mn30:5.3.t14",
+          "mn30:5.3.t15",
+          "mn30:5.3.t16",
+          "mn30:5.3.t17"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實不認得心材，不認得邊材，不認得樹皮，不認得外皮，也不認得枝葉，"
+      }
     },
     {
       "segment_id": "mn30:5.4",
@@ -11201,7 +11667,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:5.4.t0",
+          "mn30:5.4.t1",
+          "mn30:5.4.t2",
+          "mn30:5.4.t3",
+          "mn30:5.4.t4",
+          "mn30:5.4.t5",
+          "mn30:5.4.t6",
+          "mn30:5.4.t7",
+          "mn30:5.4.t8",
+          "mn30:5.4.t9",
+          "mn30:5.4.t10",
+          "mn30:5.4.t11",
+          "mn30:5.4.t12",
+          "mn30:5.4.t13",
+          "mn30:5.4.t14",
+          "mn30:5.4.t15",
+          "mn30:5.4.t16",
+          "mn30:5.4.t17",
+          "mn30:5.4.t18",
+          "mn30:5.4.t19",
+          "mn30:5.4.t21",
+          "mn30:5.4.t22"
+        ],
+        "review_status": "approved",
+        "content": "所以這位先生，想要心材、尋求心材、到處尋覓心材，走到一棵佇立著、具有心材的大樹前，越過心材、越過邊材，砍下樹皮，拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn30:5.5",
@@ -11427,7 +11921,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:5.5.t1",
+          "mn30:5.5.t2",
+          "mn30:5.5.t3",
+          "mn30:5.5.t4",
+          "mn30:5.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "然而，凡是要用心材才能成就的事，他都無法藉此達成目的。』"
+      }
     },
     {
       "segment_id": "mn30:6.1",
@@ -12131,7 +12636,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:6.1.t0",
+          "mn30:6.1.t1",
+          "mn30:6.1.t2",
+          "mn30:6.1.t3",
+          "mn30:6.1.t4",
+          "mn30:6.1.t5",
+          "mn30:6.1.t6",
+          "mn30:6.1.t7",
+          "mn30:6.1.t8",
+          "mn30:6.1.t9",
+          "mn30:6.1.t10",
+          "mn30:6.1.t11",
+          "mn30:6.1.t12",
+          "mn30:6.1.t13",
+          "mn30:6.1.t14",
+          "mn30:6.1.t15",
+          "mn30:6.1.t16",
+          "mn30:6.1.t17",
+          "mn30:6.1.t18",
+          "mn30:6.1.t20",
+          "mn30:6.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "又譬如，婆羅門，有個人想要心材、尋求心材、到處尋覓心材，他走到一棵佇立著、具有心材的大樹前，越過心材，砍下邊材，拿了就走，以為『這就是心材』。"
+      }
     },
     {
       "segment_id": "mn30:6.2",
@@ -12298,7 +12830,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:6.2.t0",
+          "mn30:6.2.t1",
+          "mn30:6.2.t2",
+          "mn30:6.2.t3",
+          "mn30:6.2.t4",
+          "mn30:6.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他這樣，便會如此說："
+      }
     },
     {
       "segment_id": "mn30:6.3",
@@ -12851,7 +13395,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:6.3.t0",
+          "mn30:6.3.t1",
+          "mn30:6.3.t2",
+          "mn30:6.3.t3",
+          "mn30:6.3.t4",
+          "mn30:6.3.t5",
+          "mn30:6.3.t6",
+          "mn30:6.3.t7",
+          "mn30:6.3.t8",
+          "mn30:6.3.t9",
+          "mn30:6.3.t10",
+          "mn30:6.3.t11",
+          "mn30:6.3.t12",
+          "mn30:6.3.t13",
+          "mn30:6.3.t14",
+          "mn30:6.3.t15",
+          "mn30:6.3.t16",
+          "mn30:6.3.t17"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實不認得心材，不認得邊材，不認得樹皮，不認得外皮，也不認得枝葉，"
+      }
     },
     {
       "segment_id": "mn30:6.4",
@@ -13612,7 +14180,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:6.4.t0",
+          "mn30:6.4.t1",
+          "mn30:6.4.t2",
+          "mn30:6.4.t3",
+          "mn30:6.4.t4",
+          "mn30:6.4.t5",
+          "mn30:6.4.t6",
+          "mn30:6.4.t7",
+          "mn30:6.4.t8",
+          "mn30:6.4.t9",
+          "mn30:6.4.t10",
+          "mn30:6.4.t11",
+          "mn30:6.4.t12",
+          "mn30:6.4.t13",
+          "mn30:6.4.t14",
+          "mn30:6.4.t15",
+          "mn30:6.4.t16",
+          "mn30:6.4.t17",
+          "mn30:6.4.t19",
+          "mn30:6.4.t20"
+        ],
+        "review_status": "approved",
+        "content": "所以這位先生，想要心材、尋求心材、到處尋覓心材，走到一棵佇立著、具有心材的大樹前，越過心材，砍下邊材，拿了就走，以為那就是心材。"
+      }
     },
     {
       "segment_id": "mn30:6.5",
@@ -13838,7 +14432,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:6.5.t1",
+          "mn30:6.5.t2",
+          "mn30:6.5.t3",
+          "mn30:6.5.t4",
+          "mn30:6.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "然而，凡是要用心材才能成就的事，他都無法藉此達成目的。』"
+      }
     },
     {
       "segment_id": "mn30:7.1",
@@ -14471,7 +15076,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:7.1.t0",
+          "mn30:7.1.t1",
+          "mn30:7.1.t2",
+          "mn30:7.1.t3",
+          "mn30:7.1.t4",
+          "mn30:7.1.t5",
+          "mn30:7.1.t6",
+          "mn30:7.1.t7",
+          "mn30:7.1.t8",
+          "mn30:7.1.t9",
+          "mn30:7.1.t10",
+          "mn30:7.1.t11",
+          "mn30:7.1.t12",
+          "mn30:7.1.t13",
+          "mn30:7.1.t14",
+          "mn30:7.1.t15",
+          "mn30:7.1.t16",
+          "mn30:7.1.t18",
+          "mn30:7.1.t19"
+        ],
+        "review_status": "approved",
+        "content": "又譬如，婆羅門，有個人想要心材、尋求心材、到處尋覓心材，他走到一棵佇立著、具有心材的大樹前，正是砍下心材，拿了就走，清楚知道『這就是心材』。"
+      }
     },
     {
       "segment_id": "mn30:7.2",
@@ -14638,7 +15268,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:7.2.t0",
+          "mn30:7.2.t1",
+          "mn30:7.2.t2",
+          "mn30:7.2.t3",
+          "mn30:7.2.t4",
+          "mn30:7.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "有眼力的人看見他這樣，便會如此說："
+      }
     },
     {
       "segment_id": "mn30:7.3",
@@ -15116,7 +15758,26 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:7.3.t0",
+          "mn30:7.3.t1",
+          "mn30:7.3.t2",
+          "mn30:7.3.t3",
+          "mn30:7.3.t4",
+          "mn30:7.3.t5",
+          "mn30:7.3.t6",
+          "mn30:7.3.t7",
+          "mn30:7.3.t8",
+          "mn30:7.3.t9",
+          "mn30:7.3.t10",
+          "mn30:7.3.t11",
+          "mn30:7.3.t12"
+        ],
+        "review_status": "approved",
+        "content": "『這位先生確實認得心材，認得邊材，認得樹皮，認得外皮，也認得枝葉。』"
+      }
     },
     {
       "segment_id": "mn30:7.4",
@@ -15806,7 +16467,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:7.4.t0",
+          "mn30:7.4.t1",
+          "mn30:7.4.t2",
+          "mn30:7.4.t3",
+          "mn30:7.4.t4",
+          "mn30:7.4.t5",
+          "mn30:7.4.t6",
+          "mn30:7.4.t7",
+          "mn30:7.4.t8",
+          "mn30:7.4.t9",
+          "mn30:7.4.t10",
+          "mn30:7.4.t11",
+          "mn30:7.4.t12",
+          "mn30:7.4.t13",
+          "mn30:7.4.t14",
+          "mn30:7.4.t15",
+          "mn30:7.4.t17",
+          "mn30:7.4.t18"
+        ],
+        "review_status": "approved",
+        "content": "確實，就像這樣，這位追求心材、尋求心材、為尋覓心材而遊行的人，面對一棵佇立著、具足心材的大樹，就只砍下心材本身，帶著它離去，心裡明白：『這是心材。』"
+      }
     },
     {
       "segment_id": "mn30:7.5",
@@ -16032,7 +16717,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:7.5.t1",
+          "mn30:7.5.t2",
+          "mn30:7.5.t3",
+          "mn30:7.5.t4",
+          "mn30:7.5.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是他要用心材成就的事，那事他都能達成。"
+      }
     },
     {
       "segment_id": "mn30:8.1",
@@ -16323,7 +17019,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.1.t0",
+          "mn30:8.1.t1",
+          "mn30:8.1.t2",
+          "mn30:8.1.t3",
+          "mn30:8.1.t4",
+          "mn30:8.1.t5",
+          "mn30:8.1.t6",
+          "mn30:8.1.t7",
+          "mn30:8.1.t8",
+          "mn30:8.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，同樣地，這世上有某人以信心，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn30:8.2",
@@ -16731,7 +17443,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.2.t0",
+          "mn30:8.2.t1",
+          "mn30:8.2.t2",
+          "mn30:8.2.t3",
+          "mn30:8.2.t4",
+          "mn30:8.2.t5",
+          "mn30:8.2.t6",
+          "mn30:8.2.t7",
+          "mn30:8.2.t8",
+          "mn30:8.2.t9",
+          "mn30:8.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我為生、老、死、愁、悲、苦、憂、惱所困，陷於苦、為苦所迫。』"
+      }
     },
     {
       "segment_id": "mn30:8.3",
@@ -17031,7 +17760,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.3.t0",
+          "mn30:8.3.t1",
+          "mn30:8.3.t2",
+          "mn30:8.3.t3",
+          "mn30:8.3.t4",
+          "mn30:8.3.t5",
+          "mn30:8.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "『但願能證得這整堆苦聚的止息！』"
+      }
     },
     {
       "segment_id": "mn30:8.4",
@@ -17175,7 +17917,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.4.t0",
+          "mn30:8.4.t1",
+          "mn30:8.4.t2",
+          "mn30:8.4.t3",
+          "mn30:8.4.t4",
+          "mn30:8.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，便獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn30:8.5",
@@ -17318,7 +18072,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.5.t0",
+          "mn30:8.5.t1",
+          "mn30:8.5.t2",
+          "mn30:8.5.t3",
+          "mn30:8.5.t4",
+          "mn30:8.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這利養、恭敬與名聲而心生歡喜、志願圓滿。"
+      }
     },
     {
       "segment_id": "mn30:8.6",
@@ -17516,7 +18282,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.6.t0",
+          "mn30:8.6.t1",
+          "mn30:8.6.t2",
+          "mn30:8.6.t3",
+          "mn30:8.6.t4",
+          "mn30:8.6.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這利養、恭敬與名聲而自我讚揚、輕視他人。"
+      }
     },
     {
       "segment_id": "mn30:8.7",
@@ -17870,7 +18648,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.7.t0",
+          "mn30:8.7.t1",
+          "mn30:8.7.t2",
+          "mn30:8.7.t3",
+          "mn30:8.7.t4",
+          "mn30:8.7.t5",
+          "mn30:8.7.t6",
+          "mn30:8.7.t7"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我有利養、恭敬與名聲，其餘那些比丘卻沒沒無聞、無足輕重。』"
+      }
     },
     {
       "segment_id": "mn30:8.8",
@@ -18596,7 +19388,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.8.t0",
+          "mn30:8.8.t1",
+          "mn30:8.8.t2",
+          "mn30:8.8.t3",
+          "mn30:8.8.t4",
+          "mn30:8.8.t5",
+          "mn30:8.8.t6",
+          "mn30:8.8.t7",
+          "mn30:8.8.t8",
+          "mn30:8.8.t9",
+          "mn30:8.8.t10",
+          "mn30:8.8.t11",
+          "mn30:8.8.t12",
+          "mn30:8.8.t13",
+          "mn30:8.8.t14",
+          "mn30:8.8.t15",
+          "mn30:8.8.t16",
+          "mn30:8.8.t17",
+          "mn30:8.8.t18",
+          "mn30:8.8.t19",
+          "mn30:8.8.t20"
+        ],
+        "review_status": "approved",
+        "content": "他因這利養、恭敬與名聲而感到滿足，對於那些比這更高、更殊勝的法，不生起意欲，也不精進以求親證，反而懈怠鬆散。"
+      }
     },
     {
       "segment_id": "mn30:8.9",
@@ -19431,7 +20250,39 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.9.t0",
+          "mn30:8.9.t1",
+          "mn30:8.9.t2",
+          "mn30:8.9.t3",
+          "mn30:8.9.t4",
+          "mn30:8.9.t5",
+          "mn30:8.9.t6",
+          "mn30:8.9.t7",
+          "mn30:8.9.t8",
+          "mn30:8.9.t9",
+          "mn30:8.9.t10",
+          "mn30:8.9.t11",
+          "mn30:8.9.t12",
+          "mn30:8.9.t13",
+          "mn30:8.9.t14",
+          "mn30:8.9.t15",
+          "mn30:8.9.t16",
+          "mn30:8.9.t17",
+          "mn30:8.9.t18",
+          "mn30:8.9.t19",
+          "mn30:8.9.t20",
+          "mn30:8.9.t21",
+          "mn30:8.9.t22",
+          "mn30:8.9.t23",
+          "mn30:8.9.t25",
+          "mn30:8.9.t26"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，就像那位追求心材、尋求心材、為尋覓心材而遊行的人，面對一棵佇立著、具足心材的大樹，越過心材、越過邊材、越過樹皮、越過外皮，砍下枝葉，帶著它離去，心想：『這是心材』——"
+      }
     },
     {
       "segment_id": "mn30:8.10",
@@ -19632,7 +20483,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.10.t1",
+          "mn30:8.10.t2",
+          "mn30:8.10.t3",
+          "mn30:8.10.t4",
+          "mn30:8.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "凡是他要用心材成就的事，那事他將無法達成。"
+      }
     },
     {
       "segment_id": "mn30:8.11",
@@ -19757,7 +20619,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:8.11.t0",
+          "mn30:8.11.t1",
+          "mn30:8.11.t2",
+          "mn30:8.11.t3",
+          "mn30:8.11.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，我說這種人正如此人一般。"
+      }
     },
     {
       "segment_id": "mn30:9.1",
@@ -20043,7 +20916,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.1.t0",
+          "mn30:9.1.t1",
+          "mn30:9.1.t2",
+          "mn30:9.1.t3",
+          "mn30:9.1.t4",
+          "mn30:9.1.t5",
+          "mn30:9.1.t6",
+          "mn30:9.1.t7",
+          "mn30:9.1.t8",
+          "mn30:9.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，再者，這世上有某人以信心，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn30:9.2",
@@ -20451,7 +21340,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.2.t0",
+          "mn30:9.2.t1",
+          "mn30:9.2.t2",
+          "mn30:9.2.t3",
+          "mn30:9.2.t4",
+          "mn30:9.2.t5",
+          "mn30:9.2.t6",
+          "mn30:9.2.t7",
+          "mn30:9.2.t8",
+          "mn30:9.2.t9",
+          "mn30:9.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我為生、老、死、愁、悲、苦、憂、惱所困，陷於苦、為苦所迫。』"
+      }
     },
     {
       "segment_id": "mn30:9.3",
@@ -20751,7 +21657,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.3.t0",
+          "mn30:9.3.t1",
+          "mn30:9.3.t2",
+          "mn30:9.3.t3",
+          "mn30:9.3.t4",
+          "mn30:9.3.t5",
+          "mn30:9.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "『但願能證得這整堆苦聚的止息！』"
+      }
     },
     {
       "segment_id": "mn30:9.4",
@@ -20895,7 +21814,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.4.t0",
+          "mn30:9.4.t1",
+          "mn30:9.4.t2",
+          "mn30:9.4.t3",
+          "mn30:9.4.t4",
+          "mn30:9.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，便獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn30:9.5",
@@ -21068,7 +21999,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.5.t0",
+          "mn30:9.5.t1",
+          "mn30:9.5.t2",
+          "mn30:9.5.t3",
+          "mn30:9.5.t4",
+          "mn30:9.5.t5",
+          "mn30:9.5.t6",
+          "mn30:9.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因這利養、恭敬與名聲而心生歡喜、志願圓滿。"
+      }
     },
     {
       "segment_id": "mn30:9.6",
@@ -21296,7 +22241,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.6.t0",
+          "mn30:9.6.t1",
+          "mn30:9.6.t2",
+          "mn30:9.6.t3",
+          "mn30:9.6.t4",
+          "mn30:9.6.t5",
+          "mn30:9.6.t6",
+          "mn30:9.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因這利養、恭敬與名聲而自我讚揚、輕視他人。"
+      }
     },
     {
       "segment_id": "mn30:9.7",
@@ -21992,7 +22951,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.7.t0",
+          "mn30:9.7.t1",
+          "mn30:9.7.t2",
+          "mn30:9.7.t3",
+          "mn30:9.7.t4",
+          "mn30:9.7.t5",
+          "mn30:9.7.t6",
+          "mn30:9.7.t7",
+          "mn30:9.7.t8",
+          "mn30:9.7.t9",
+          "mn30:9.7.t10",
+          "mn30:9.7.t11",
+          "mn30:9.7.t12",
+          "mn30:9.7.t13",
+          "mn30:9.7.t14",
+          "mn30:9.7.t15",
+          "mn30:9.7.t16",
+          "mn30:9.7.t17",
+          "mn30:9.7.t18"
+        ],
+        "review_status": "approved",
+        "content": "而且，對於那些比利養、恭敬、名聲更高、更殊勝的法，他生起意欲、努力精進以求親證，勤奮不懈、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:9.8",
@@ -22071,7 +23055,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.8.t0",
+          "mn30:9.8.t1",
+          "mn30:9.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn30:9.9",
@@ -22269,7 +23262,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.9.t0",
+          "mn30:9.9.t1",
+          "mn30:9.9.t2",
+          "mn30:9.9.t3",
+          "mn30:9.9.t4",
+          "mn30:9.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這戒具足而心生歡喜、志願圓滿。"
+      }
     },
     {
       "segment_id": "mn30:9.10",
@@ -22522,7 +23527,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.10.t0",
+          "mn30:9.10.t1",
+          "mn30:9.10.t2",
+          "mn30:9.10.t3",
+          "mn30:9.10.t4",
+          "mn30:9.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這戒具足而自我讚揚、輕視他人。"
+      }
     },
     {
       "segment_id": "mn30:9.11",
@@ -22927,7 +23944,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.11.t0",
+          "mn30:9.11.t1",
+          "mn30:9.11.t2",
+          "mn30:9.11.t3",
+          "mn30:9.11.t4",
+          "mn30:9.11.t5",
+          "mn30:9.11.t6",
+          "mn30:9.11.t7",
+          "mn30:9.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我持戒、具善法，其餘那些比丘卻破戒、行惡法。』"
+      }
     },
     {
       "segment_id": "mn30:9.12",
@@ -23690,7 +24722,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.12.t0",
+          "mn30:9.12.t1",
+          "mn30:9.12.t2",
+          "mn30:9.12.t3",
+          "mn30:9.12.t4",
+          "mn30:9.12.t5",
+          "mn30:9.12.t6",
+          "mn30:9.12.t7",
+          "mn30:9.12.t8",
+          "mn30:9.12.t9",
+          "mn30:9.12.t10",
+          "mn30:9.12.t11",
+          "mn30:9.12.t12",
+          "mn30:9.12.t13",
+          "mn30:9.12.t14",
+          "mn30:9.12.t15",
+          "mn30:9.12.t16",
+          "mn30:9.12.t17",
+          "mn30:9.12.t18",
+          "mn30:9.12.t19",
+          "mn30:9.12.t20"
+        ],
+        "review_status": "approved",
+        "content": "他因這戒具足而感到滿足，對於那些比這更高、更殊勝的法，不生起意欲，也不精進以求親證，反而懈怠鬆散。"
+      }
     },
     {
       "segment_id": "mn30:9.13",
@@ -24476,7 +25535,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.13.t0",
+          "mn30:9.13.t1",
+          "mn30:9.13.t2",
+          "mn30:9.13.t3",
+          "mn30:9.13.t4",
+          "mn30:9.13.t5",
+          "mn30:9.13.t6",
+          "mn30:9.13.t7",
+          "mn30:9.13.t8",
+          "mn30:9.13.t9",
+          "mn30:9.13.t10",
+          "mn30:9.13.t11",
+          "mn30:9.13.t12",
+          "mn30:9.13.t13",
+          "mn30:9.13.t14",
+          "mn30:9.13.t15",
+          "mn30:9.13.t16",
+          "mn30:9.13.t17",
+          "mn30:9.13.t18",
+          "mn30:9.13.t19",
+          "mn30:9.13.t20",
+          "mn30:9.13.t21",
+          "mn30:9.13.t23",
+          "mn30:9.13.t24"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，就像那位追求心材、尋求心材、為尋覓心材而遊行的人，面對一棵佇立著、具足心材的大樹，越過心材、越過邊材，砍下樹皮、外皮，帶著它離去，心想：『這是心材』——"
+      }
     },
     {
       "segment_id": "mn30:9.14",
@@ -24677,7 +25766,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.14.t1",
+          "mn30:9.14.t2",
+          "mn30:9.14.t3",
+          "mn30:9.14.t4",
+          "mn30:9.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "凡是他要用心材成就的事，那事他將無法達成。"
+      }
     },
     {
       "segment_id": "mn30:9.15",
@@ -24802,7 +25902,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:9.15.t0",
+          "mn30:9.15.t1",
+          "mn30:9.15.t2",
+          "mn30:9.15.t3",
+          "mn30:9.15.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，我說這種人正如此人一般。"
+      }
     },
     {
       "segment_id": "mn30:10.1",
@@ -25088,7 +26199,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.1.t0",
+          "mn30:10.1.t1",
+          "mn30:10.1.t2",
+          "mn30:10.1.t3",
+          "mn30:10.1.t4",
+          "mn30:10.1.t5",
+          "mn30:10.1.t6",
+          "mn30:10.1.t7",
+          "mn30:10.1.t8",
+          "mn30:10.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門啊，再者，這世上有某人以信心，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn30:10.2",
@@ -25496,7 +26623,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.2.t0",
+          "mn30:10.2.t1",
+          "mn30:10.2.t2",
+          "mn30:10.2.t3",
+          "mn30:10.2.t4",
+          "mn30:10.2.t5",
+          "mn30:10.2.t6",
+          "mn30:10.2.t7",
+          "mn30:10.2.t8",
+          "mn30:10.2.t9",
+          "mn30:10.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "（心想：）『我為生、老、死、愁、悲、苦、憂、惱所困，陷於苦、為苦所迫。』"
+      }
     },
     {
       "segment_id": "mn30:10.3",
@@ -25796,7 +26940,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.3.t0",
+          "mn30:10.3.t1",
+          "mn30:10.3.t2",
+          "mn30:10.3.t3",
+          "mn30:10.3.t4",
+          "mn30:10.3.t5",
+          "mn30:10.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "『但願能證得這整堆苦聚的止息！』"
+      }
     },
     {
       "segment_id": "mn30:10.4",
@@ -25940,7 +27097,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.4.t0",
+          "mn30:10.4.t1",
+          "mn30:10.4.t2",
+          "mn30:10.4.t3",
+          "mn30:10.4.t4",
+          "mn30:10.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，便獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn30:10.5",
@@ -26113,7 +27282,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.5.t0",
+          "mn30:10.5.t1",
+          "mn30:10.5.t2",
+          "mn30:10.5.t3",
+          "mn30:10.5.t4",
+          "mn30:10.5.t5",
+          "mn30:10.5.t6",
+          "mn30:10.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因這利養、恭敬與名聲而心生歡喜、志願圓滿。"
+      }
     },
     {
       "segment_id": "mn30:10.6",
@@ -26341,7 +27524,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.6.t0",
+          "mn30:10.6.t1",
+          "mn30:10.6.t2",
+          "mn30:10.6.t3",
+          "mn30:10.6.t4",
+          "mn30:10.6.t5",
+          "mn30:10.6.t6",
+          "mn30:10.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因這利養、恭敬與名聲而自我讚揚、輕視他人。"
+      }
     },
     {
       "segment_id": "mn30:10.7",
@@ -27037,7 +28234,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.7.t0",
+          "mn30:10.7.t1",
+          "mn30:10.7.t2",
+          "mn30:10.7.t3",
+          "mn30:10.7.t4",
+          "mn30:10.7.t5",
+          "mn30:10.7.t6",
+          "mn30:10.7.t7",
+          "mn30:10.7.t8",
+          "mn30:10.7.t9",
+          "mn30:10.7.t10",
+          "mn30:10.7.t11",
+          "mn30:10.7.t12",
+          "mn30:10.7.t13",
+          "mn30:10.7.t14",
+          "mn30:10.7.t15",
+          "mn30:10.7.t16",
+          "mn30:10.7.t17",
+          "mn30:10.7.t18"
+        ],
+        "review_status": "approved",
+        "content": "而且，對於那些比利養、恭敬、名聲更高、更殊勝的法，他生起意欲、努力精進以求親證，勤奮不懈、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:10.8",
@@ -27116,7 +28338,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.8.t0",
+          "mn30:10.8.t1",
+          "mn30:10.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn30:10.9",
@@ -27396,7 +28627,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.9.t0",
+          "mn30:10.9.t1",
+          "mn30:10.9.t2",
+          "mn30:10.9.t3",
+          "mn30:10.9.t4",
+          "mn30:10.9.t5",
+          "mn30:10.9.t6",
+          "mn30:10.9.t7",
+          "mn30:10.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因這戒具足而心生歡喜，但意向尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn30:10.10",
@@ -27679,7 +28925,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.10.t0",
+          "mn30:10.10.t1",
+          "mn30:10.10.t2",
+          "mn30:10.10.t3",
+          "mn30:10.10.t4",
+          "mn30:10.10.t5",
+          "mn30:10.10.t6",
+          "mn30:10.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因這戒具足而自我誇耀，也不會輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:10.11",
@@ -28412,7 +29672,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.11.t0",
+          "mn30:10.11.t1",
+          "mn30:10.11.t2",
+          "mn30:10.11.t3",
+          "mn30:10.11.t4",
+          "mn30:10.11.t5",
+          "mn30:10.11.t6",
+          "mn30:10.11.t7",
+          "mn30:10.11.t8",
+          "mn30:10.11.t9",
+          "mn30:10.11.t10",
+          "mn30:10.11.t11",
+          "mn30:10.11.t12",
+          "mn30:10.11.t13",
+          "mn30:10.11.t14",
+          "mn30:10.11.t15",
+          "mn30:10.11.t16",
+          "mn30:10.11.t17",
+          "mn30:10.11.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於戒具足之外那些更殊勝、更微妙的法，他生起意欲，努力精進以求親證，行事不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:10.12",
@@ -28491,7 +29776,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.12.t0",
+          "mn30:10.12.t1",
+          "mn30:10.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了定具足。"
+      }
     },
     {
       "segment_id": "mn30:10.13",
@@ -28689,7 +29983,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.13.t0",
+          "mn30:10.13.t1",
+          "mn30:10.13.t2",
+          "mn30:10.13.t3",
+          "mn30:10.13.t4",
+          "mn30:10.13.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這定具足而心生歡喜，意向已然圓滿。"
+      }
     },
     {
       "segment_id": "mn30:10.14",
@@ -28942,7 +30248,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.14.t0",
+          "mn30:10.14.t1",
+          "mn30:10.14.t2",
+          "mn30:10.14.t3",
+          "mn30:10.14.t4",
+          "mn30:10.14.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這定具足而自我誇耀，輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:10.15",
@@ -29292,7 +30610,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.15.t0",
+          "mn30:10.15.t1",
+          "mn30:10.15.t2",
+          "mn30:10.15.t3",
+          "mn30:10.15.t4",
+          "mn30:10.15.t5",
+          "mn30:10.15.t6",
+          "mn30:10.15.t7",
+          "mn30:10.15.t8"
+        ],
+        "review_status": "approved",
+        "content": "『我心已定、心一境性，而這些其他比丘卻心不定、心念散亂。』"
+      }
     },
     {
       "segment_id": "mn30:10.16",
@@ -30055,7 +31388,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.16.t0",
+          "mn30:10.16.t1",
+          "mn30:10.16.t2",
+          "mn30:10.16.t3",
+          "mn30:10.16.t4",
+          "mn30:10.16.t5",
+          "mn30:10.16.t6",
+          "mn30:10.16.t7",
+          "mn30:10.16.t8",
+          "mn30:10.16.t9",
+          "mn30:10.16.t10",
+          "mn30:10.16.t11",
+          "mn30:10.16.t12",
+          "mn30:10.16.t13",
+          "mn30:10.16.t14",
+          "mn30:10.16.t15",
+          "mn30:10.16.t16",
+          "mn30:10.16.t17",
+          "mn30:10.16.t18",
+          "mn30:10.16.t19",
+          "mn30:10.16.t20"
+        ],
+        "review_status": "approved",
+        "content": "對於定具足之外那些更殊勝、更微妙的法，他不生起意欲，不努力精進以求親證，行事懈怠、鬆散。"
+      }
     },
     {
       "segment_id": "mn30:10.17",
@@ -30811,7 +32171,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.17.t0",
+          "mn30:10.17.t1",
+          "mn30:10.17.t2",
+          "mn30:10.17.t3",
+          "mn30:10.17.t4",
+          "mn30:10.17.t5",
+          "mn30:10.17.t6",
+          "mn30:10.17.t7",
+          "mn30:10.17.t8",
+          "mn30:10.17.t9",
+          "mn30:10.17.t10",
+          "mn30:10.17.t11",
+          "mn30:10.17.t12",
+          "mn30:10.17.t13",
+          "mn30:10.17.t14",
+          "mn30:10.17.t15",
+          "mn30:10.17.t16",
+          "mn30:10.17.t17",
+          "mn30:10.17.t18",
+          "mn30:10.17.t19",
+          "mn30:10.17.t21",
+          "mn30:10.17.t22"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，就好比有個想要心材、尋求心材、四處尋覓心材的人，來到一棵佇立著、具有心材的大樹前，卻越過心材、越過邊材，砍下樹皮取走，心想：『這就是心材。』"
+      }
     },
     {
       "segment_id": "mn30:10.18",
@@ -31012,7 +32400,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.18.t1",
+          "mn30:10.18.t2",
+          "mn30:10.18.t3",
+          "mn30:10.18.t4",
+          "mn30:10.18.t5"
+        ],
+        "review_status": "approved",
+        "content": "凡是應以心材製作之事，他都無法藉此成就其目的。"
+      }
     },
     {
       "segment_id": "mn30:10.19",
@@ -31137,7 +32536,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:10.19.t0",
+          "mn30:10.19.t1",
+          "mn30:10.19.t2",
+          "mn30:10.19.t3",
+          "mn30:10.19.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，我說這個人正如此譬喻。"
+      }
     },
     {
       "segment_id": "mn30:11.1",
@@ -31423,7 +32833,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.1.t0",
+          "mn30:11.1.t1",
+          "mn30:11.1.t2",
+          "mn30:11.1.t3",
+          "mn30:11.1.t4",
+          "mn30:11.1.t5",
+          "mn30:11.1.t6",
+          "mn30:11.1.t7",
+          "mn30:11.1.t8",
+          "mn30:11.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，再者，這裡有某人懷著信心，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn30:11.2",
@@ -31674,7 +33100,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.2.t0",
+          "mn30:11.2.t1",
+          "mn30:11.2.t2",
+          "mn30:11.2.t3",
+          "mn30:11.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "『我沉溺於生、老、死……。』"
+      }
     },
     {
       "segment_id": "mn30:11.3",
@@ -31772,7 +33209,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.3.t0",
+          "mn30:11.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "『……或許能了知苦盡之道。』"
+      }
     },
     {
       "segment_id": "mn30:11.4",
@@ -31916,7 +33361,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.4.t0",
+          "mn30:11.4.t1",
+          "mn30:11.4.t2",
+          "mn30:11.4.t3",
+          "mn30:11.4.t4",
+          "mn30:11.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家之後，獲得了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn30:11.5",
@@ -32089,7 +33546,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.5.t0",
+          "mn30:11.5.t1",
+          "mn30:11.5.t2",
+          "mn30:11.5.t3",
+          "mn30:11.5.t4",
+          "mn30:11.5.t5",
+          "mn30:11.5.t6",
+          "mn30:11.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因這利養、恭敬與名聲而心生歡喜，意向也未圓滿。"
+      }
     },
     {
       "segment_id": "mn30:11.6",
@@ -32317,7 +33788,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.6.t0",
+          "mn30:11.6.t1",
+          "mn30:11.6.t2",
+          "mn30:11.6.t3",
+          "mn30:11.6.t4",
+          "mn30:11.6.t5",
+          "mn30:11.6.t6",
+          "mn30:11.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因這利養、恭敬與名聲而自我誇耀，也不會輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:11.7",
@@ -33013,7 +34498,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.7.t0",
+          "mn30:11.7.t1",
+          "mn30:11.7.t2",
+          "mn30:11.7.t3",
+          "mn30:11.7.t4",
+          "mn30:11.7.t5",
+          "mn30:11.7.t6",
+          "mn30:11.7.t7",
+          "mn30:11.7.t8",
+          "mn30:11.7.t9",
+          "mn30:11.7.t10",
+          "mn30:11.7.t11",
+          "mn30:11.7.t12",
+          "mn30:11.7.t13",
+          "mn30:11.7.t14",
+          "mn30:11.7.t15",
+          "mn30:11.7.t16",
+          "mn30:11.7.t17",
+          "mn30:11.7.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於利養、恭敬與名聲之外那些更殊勝、更微妙的法，他生起意欲，努力精進以求親證，行事不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:11.8",
@@ -33092,7 +34602,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.8.t0",
+          "mn30:11.8.t1",
+          "mn30:11.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn30:11.9",
@@ -33372,7 +34891,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.9.t0",
+          "mn30:11.9.t1",
+          "mn30:11.9.t2",
+          "mn30:11.9.t3",
+          "mn30:11.9.t4",
+          "mn30:11.9.t5",
+          "mn30:11.9.t6",
+          "mn30:11.9.t7",
+          "mn30:11.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因這戒具足而心生歡喜，但意向尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn30:11.10",
@@ -33655,7 +35189,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.10.t0",
+          "mn30:11.10.t1",
+          "mn30:11.10.t2",
+          "mn30:11.10.t3",
+          "mn30:11.10.t4",
+          "mn30:11.10.t5",
+          "mn30:11.10.t6",
+          "mn30:11.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因這戒具足而自我誇耀，也不會輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:11.11",
@@ -34388,7 +35936,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.11.t0",
+          "mn30:11.11.t1",
+          "mn30:11.11.t2",
+          "mn30:11.11.t3",
+          "mn30:11.11.t4",
+          "mn30:11.11.t5",
+          "mn30:11.11.t6",
+          "mn30:11.11.t7",
+          "mn30:11.11.t8",
+          "mn30:11.11.t9",
+          "mn30:11.11.t10",
+          "mn30:11.11.t11",
+          "mn30:11.11.t12",
+          "mn30:11.11.t13",
+          "mn30:11.11.t14",
+          "mn30:11.11.t15",
+          "mn30:11.11.t16",
+          "mn30:11.11.t17",
+          "mn30:11.11.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於戒具足之外那些更殊勝、更微妙的法，他生起意欲，努力精進以求親證，行事不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:11.12",
@@ -34467,7 +36040,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.12.t0",
+          "mn30:11.12.t1",
+          "mn30:11.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了定具足。"
+      }
     },
     {
       "segment_id": "mn30:11.13",
@@ -34747,7 +36329,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.13.t0",
+          "mn30:11.13.t1",
+          "mn30:11.13.t2",
+          "mn30:11.13.t3",
+          "mn30:11.13.t4",
+          "mn30:11.13.t5",
+          "mn30:11.13.t6",
+          "mn30:11.13.t7",
+          "mn30:11.13.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因這定具足而心生歡喜，但意向尚未圓滿。"
+      }
     },
     {
       "segment_id": "mn30:11.14",
@@ -35030,7 +36627,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.14.t0",
+          "mn30:11.14.t1",
+          "mn30:11.14.t2",
+          "mn30:11.14.t3",
+          "mn30:11.14.t4",
+          "mn30:11.14.t5",
+          "mn30:11.14.t6",
+          "mn30:11.14.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不會因這定具足而自我誇耀，也不會輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:11.15",
@@ -35763,7 +37374,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.15.t0",
+          "mn30:11.15.t1",
+          "mn30:11.15.t2",
+          "mn30:11.15.t3",
+          "mn30:11.15.t4",
+          "mn30:11.15.t5",
+          "mn30:11.15.t6",
+          "mn30:11.15.t7",
+          "mn30:11.15.t8",
+          "mn30:11.15.t9",
+          "mn30:11.15.t10",
+          "mn30:11.15.t11",
+          "mn30:11.15.t12",
+          "mn30:11.15.t13",
+          "mn30:11.15.t14",
+          "mn30:11.15.t15",
+          "mn30:11.15.t16",
+          "mn30:11.15.t17",
+          "mn30:11.15.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於定具足之外那些更殊勝、更微妙的法，他生起意欲，努力精進以求親證，行事不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:11.16",
@@ -35861,7 +37497,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.16.t0",
+          "mn30:11.16.t1",
+          "mn30:11.16.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了知見。"
+      }
     },
     {
       "segment_id": "mn30:11.17",
@@ -36004,7 +37649,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.17.t0",
+          "mn30:11.17.t1",
+          "mn30:11.17.t2",
+          "mn30:11.17.t3",
+          "mn30:11.17.t4",
+          "mn30:11.17.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這知見而心生歡喜，意向已然圓滿。"
+      }
     },
     {
       "segment_id": "mn30:11.18",
@@ -36202,7 +37859,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.18.t0",
+          "mn30:11.18.t1",
+          "mn30:11.18.t2",
+          "mn30:11.18.t3",
+          "mn30:11.18.t4",
+          "mn30:11.18.t5"
+        ],
+        "review_status": "approved",
+        "content": "他因這知見而自我誇耀，輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:11.19",
@@ -36730,7 +38399,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.19.t0",
+          "mn30:11.19.t1",
+          "mn30:11.19.t2",
+          "mn30:11.19.t3",
+          "mn30:11.19.t4",
+          "mn30:11.19.t5",
+          "mn30:11.19.t6",
+          "mn30:11.19.t7",
+          "mn30:11.19.t8",
+          "mn30:11.19.t9",
+          "mn30:11.19.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我安住於知、見之中，而這些其他比丘卻安住於不知、不見。』"
+      }
     },
     {
       "segment_id": "mn30:11.20",
@@ -37456,7 +39142,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.20.t0",
+          "mn30:11.20.t1",
+          "mn30:11.20.t2",
+          "mn30:11.20.t3",
+          "mn30:11.20.t4",
+          "mn30:11.20.t5",
+          "mn30:11.20.t6",
+          "mn30:11.20.t7",
+          "mn30:11.20.t8",
+          "mn30:11.20.t9",
+          "mn30:11.20.t10",
+          "mn30:11.20.t11",
+          "mn30:11.20.t12",
+          "mn30:11.20.t13",
+          "mn30:11.20.t14",
+          "mn30:11.20.t15",
+          "mn30:11.20.t16",
+          "mn30:11.20.t17",
+          "mn30:11.20.t18",
+          "mn30:11.20.t19",
+          "mn30:11.20.t20"
+        ],
+        "review_status": "approved",
+        "content": "對於知見之外那些更殊勝、更微妙的法，他不生起意欲，不努力精進以求親證，行事懈怠、鬆散。"
+      }
     },
     {
       "segment_id": "mn30:11.21",
@@ -38136,7 +39849,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.21.t0",
+          "mn30:11.21.t1",
+          "mn30:11.21.t2",
+          "mn30:11.21.t3",
+          "mn30:11.21.t4",
+          "mn30:11.21.t5",
+          "mn30:11.21.t6",
+          "mn30:11.21.t7",
+          "mn30:11.21.t8",
+          "mn30:11.21.t9",
+          "mn30:11.21.t10",
+          "mn30:11.21.t11",
+          "mn30:11.21.t12",
+          "mn30:11.21.t13",
+          "mn30:11.21.t14",
+          "mn30:11.21.t15",
+          "mn30:11.21.t16",
+          "mn30:11.21.t17",
+          "mn30:11.21.t19",
+          "mn30:11.21.t20"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，就好比有個想要心材、尋求心材、四處尋覓心材的人，來到一棵佇立著、具有心材的大樹前，卻越過心材，砍下邊材取走，心想：『這就是心材。』"
+      }
     },
     {
       "segment_id": "mn30:11.22",
@@ -38337,7 +40076,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.22.t1",
+          "mn30:11.22.t2",
+          "mn30:11.22.t3",
+          "mn30:11.22.t4",
+          "mn30:11.22.t5"
+        ],
+        "review_status": "approved",
+        "content": "凡是應以心材製作之事，他都無法藉此成就其目的。"
+      }
     },
     {
       "segment_id": "mn30:11.23",
@@ -38462,7 +40212,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:11.23.t0",
+          "mn30:11.23.t1",
+          "mn30:11.23.t2",
+          "mn30:11.23.t3",
+          "mn30:11.23.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，我說這個人正如此譬喻。"
+      }
     },
     {
       "segment_id": "mn30:12.1",
@@ -38748,7 +40509,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.1.t0",
+          "mn30:12.1.t1",
+          "mn30:12.1.t2",
+          "mn30:12.1.t3",
+          "mn30:12.1.t4",
+          "mn30:12.1.t5",
+          "mn30:12.1.t6",
+          "mn30:12.1.t7",
+          "mn30:12.1.t8",
+          "mn30:12.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，再者，這裡有某人懷著信心，從在家出家、成為無家者。"
+      }
     },
     {
       "segment_id": "mn30:12.2",
@@ -39156,7 +40933,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.2.t0",
+          "mn30:12.2.t1",
+          "mn30:12.2.t2",
+          "mn30:12.2.t3",
+          "mn30:12.2.t4",
+          "mn30:12.2.t5",
+          "mn30:12.2.t6",
+          "mn30:12.2.t7",
+          "mn30:12.2.t8",
+          "mn30:12.2.t9",
+          "mn30:12.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "『我為生、老、死、愁、悲、苦、憂、惱所困，沉溺於苦、為苦所迫。』"
+      }
     },
     {
       "segment_id": "mn30:12.3",
@@ -39456,7 +41250,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.3.t0",
+          "mn30:12.3.t1",
+          "mn30:12.3.t2",
+          "mn30:12.3.t3",
+          "mn30:12.3.t4",
+          "mn30:12.3.t5",
+          "mn30:12.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "但願能由此徹知這整個苦蘊的止息。"
+      }
     },
     {
       "segment_id": "mn30:12.4",
@@ -39600,7 +41407,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.4.t0",
+          "mn30:12.4.t1",
+          "mn30:12.4.t2",
+          "mn30:12.4.t3",
+          "mn30:12.4.t4",
+          "mn30:12.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "他如此出家後，生起了利養、恭敬與名聲。"
+      }
     },
     {
       "segment_id": "mn30:12.5",
@@ -39773,7 +41592,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.5.t0",
+          "mn30:12.5.t1",
+          "mn30:12.5.t2",
+          "mn30:12.5.t3",
+          "mn30:12.5.t4",
+          "mn30:12.5.t5",
+          "mn30:12.5.t6",
+          "mn30:12.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "他並不因此利養、恭敬與名聲而歡喜，也不因此而志得意滿。"
+      }
     },
     {
       "segment_id": "mn30:12.6",
@@ -40001,7 +41834,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.6.t0",
+          "mn30:12.6.t1",
+          "mn30:12.6.t2",
+          "mn30:12.6.t3",
+          "mn30:12.6.t4",
+          "mn30:12.6.t5",
+          "mn30:12.6.t6",
+          "mn30:12.6.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因此利養、恭敬與名聲而自我讚揚，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:12.7",
@@ -40697,7 +42544,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.7.t0",
+          "mn30:12.7.t1",
+          "mn30:12.7.t2",
+          "mn30:12.7.t3",
+          "mn30:12.7.t4",
+          "mn30:12.7.t5",
+          "mn30:12.7.t6",
+          "mn30:12.7.t7",
+          "mn30:12.7.t8",
+          "mn30:12.7.t9",
+          "mn30:12.7.t10",
+          "mn30:12.7.t11",
+          "mn30:12.7.t12",
+          "mn30:12.7.t13",
+          "mn30:12.7.t14",
+          "mn30:12.7.t15",
+          "mn30:12.7.t16",
+          "mn30:12.7.t17",
+          "mn30:12.7.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於比利養、恭敬、名聲更殊勝、更微妙的其他法，他生起意欲、努力精進，行持不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:12.8",
@@ -40776,7 +42648,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.8.t0",
+          "mn30:12.8.t1",
+          "mn30:12.8.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了戒具足。"
+      }
     },
     {
       "segment_id": "mn30:12.9",
@@ -41056,7 +42937,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.9.t0",
+          "mn30:12.9.t1",
+          "mn30:12.9.t2",
+          "mn30:12.9.t3",
+          "mn30:12.9.t4",
+          "mn30:12.9.t5",
+          "mn30:12.9.t6",
+          "mn30:12.9.t7",
+          "mn30:12.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因此戒具足而歡喜，但尚未志得意滿。"
+      }
     },
     {
       "segment_id": "mn30:12.10",
@@ -41339,7 +43235,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.10.t0",
+          "mn30:12.10.t1",
+          "mn30:12.10.t2",
+          "mn30:12.10.t3",
+          "mn30:12.10.t4",
+          "mn30:12.10.t5",
+          "mn30:12.10.t6",
+          "mn30:12.10.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因此戒具足而自我讚揚，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:12.11",
@@ -42072,7 +43982,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.11.t0",
+          "mn30:12.11.t1",
+          "mn30:12.11.t2",
+          "mn30:12.11.t3",
+          "mn30:12.11.t4",
+          "mn30:12.11.t5",
+          "mn30:12.11.t6",
+          "mn30:12.11.t7",
+          "mn30:12.11.t8",
+          "mn30:12.11.t9",
+          "mn30:12.11.t10",
+          "mn30:12.11.t11",
+          "mn30:12.11.t12",
+          "mn30:12.11.t13",
+          "mn30:12.11.t14",
+          "mn30:12.11.t15",
+          "mn30:12.11.t16",
+          "mn30:12.11.t17",
+          "mn30:12.11.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於比戒具足更殊勝、更微妙的其他法，他生起意欲、努力精進，行持不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:12.12",
@@ -42151,7 +44086,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.12.t0",
+          "mn30:12.12.t1",
+          "mn30:12.12.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了定具足。"
+      }
     },
     {
       "segment_id": "mn30:12.13",
@@ -42431,7 +44375,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.13.t0",
+          "mn30:12.13.t1",
+          "mn30:12.13.t2",
+          "mn30:12.13.t3",
+          "mn30:12.13.t4",
+          "mn30:12.13.t5",
+          "mn30:12.13.t6",
+          "mn30:12.13.t7",
+          "mn30:12.13.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因此定具足而歡喜，但尚未志得意滿。"
+      }
     },
     {
       "segment_id": "mn30:12.14",
@@ -42714,7 +44673,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.14.t0",
+          "mn30:12.14.t1",
+          "mn30:12.14.t2",
+          "mn30:12.14.t3",
+          "mn30:12.14.t4",
+          "mn30:12.14.t5",
+          "mn30:12.14.t6",
+          "mn30:12.14.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因此定具足而自我讚揚，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:12.15",
@@ -43447,7 +45420,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.15.t0",
+          "mn30:12.15.t1",
+          "mn30:12.15.t2",
+          "mn30:12.15.t3",
+          "mn30:12.15.t4",
+          "mn30:12.15.t5",
+          "mn30:12.15.t6",
+          "mn30:12.15.t7",
+          "mn30:12.15.t8",
+          "mn30:12.15.t9",
+          "mn30:12.15.t10",
+          "mn30:12.15.t11",
+          "mn30:12.15.t12",
+          "mn30:12.15.t13",
+          "mn30:12.15.t14",
+          "mn30:12.15.t15",
+          "mn30:12.15.t16",
+          "mn30:12.15.t17",
+          "mn30:12.15.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於比定具足更殊勝、更微妙的其他法，他生起意欲、努力精進，行持不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:12.16",
@@ -43545,7 +45543,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.16.t0",
+          "mn30:12.16.t1",
+          "mn30:12.16.t2"
+        ],
+        "review_status": "approved",
+        "content": "他成就了知見。"
+      }
     },
     {
       "segment_id": "mn30:12.17",
@@ -43770,7 +45777,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.17.t0",
+          "mn30:12.17.t1",
+          "mn30:12.17.t2",
+          "mn30:12.17.t3",
+          "mn30:12.17.t4",
+          "mn30:12.17.t5",
+          "mn30:12.17.t6",
+          "mn30:12.17.t7",
+          "mn30:12.17.t8"
+        ],
+        "review_status": "approved",
+        "content": "他因此知見而歡喜，但尚未志得意滿。"
+      }
     },
     {
       "segment_id": "mn30:12.18",
@@ -43998,7 +46020,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.18.t0",
+          "mn30:12.18.t1",
+          "mn30:12.18.t2",
+          "mn30:12.18.t3",
+          "mn30:12.18.t4",
+          "mn30:12.18.t5",
+          "mn30:12.18.t6",
+          "mn30:12.18.t7"
+        ],
+        "review_status": "approved",
+        "content": "他不因此知見而自我讚揚，也不輕蔑他人。"
+      }
     },
     {
       "segment_id": "mn30:12.19",
@@ -44694,7 +46730,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.19.t0",
+          "mn30:12.19.t1",
+          "mn30:12.19.t2",
+          "mn30:12.19.t3",
+          "mn30:12.19.t4",
+          "mn30:12.19.t5",
+          "mn30:12.19.t6",
+          "mn30:12.19.t7",
+          "mn30:12.19.t8",
+          "mn30:12.19.t9",
+          "mn30:12.19.t10",
+          "mn30:12.19.t11",
+          "mn30:12.19.t12",
+          "mn30:12.19.t13",
+          "mn30:12.19.t14",
+          "mn30:12.19.t15",
+          "mn30:12.19.t16",
+          "mn30:12.19.t17",
+          "mn30:12.19.t18"
+        ],
+        "review_status": "approved",
+        "content": "對於比知見更殊勝、更微妙的其他法，他生起意欲、努力精進，行持不懈怠、不鬆散。"
+      }
     },
     {
       "segment_id": "mn30:12.20",
@@ -45028,7 +47089,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:12.20.t0",
+          "mn30:12.20.t1",
+          "mn30:12.20.t2",
+          "mn30:12.20.t3",
+          "mn30:12.20.t4",
+          "mn30:12.20.t5",
+          "mn30:12.20.t6",
+          "mn30:12.20.t7",
+          "mn30:12.20.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，那麼比知見更殊勝、更微妙的法是哪些呢？"
+      }
     },
     {
       "segment_id": "mn30:13.1",
@@ -45723,7 +47799,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:13.1.t0",
+          "mn30:13.1.t1",
+          "mn30:13.1.t2",
+          "mn30:13.1.t3",
+          "mn30:13.1.t4",
+          "mn30:13.1.t5",
+          "mn30:13.1.t6",
+          "mn30:13.1.t7",
+          "mn30:13.1.t8",
+          "mn30:13.1.t9",
+          "mn30:13.1.t10",
+          "mn30:13.1.t11",
+          "mn30:13.1.t12",
+          "mn30:13.1.t13",
+          "mn30:13.1.t14",
+          "mn30:13.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，於此，比丘離諸欲、離諸不善法，有尋有伺，具足由遠離而生的喜與樂，成就初禪而住。"
+      }
     },
     {
       "segment_id": "mn30:13.2",
@@ -45934,7 +48032,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:13.2.t0",
+          "mn30:13.2.t1",
+          "mn30:13.2.t2",
+          "mn30:13.2.t3",
+          "mn30:13.2.t4",
+          "mn30:13.2.t5",
+          "mn30:13.2.t6",
+          "mn30:13.2.t7",
+          "mn30:13.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:14.1",
@@ -46606,7 +48719,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:14.1.t0",
+          "mn30:14.1.t1",
+          "mn30:14.1.t2",
+          "mn30:14.1.t3",
+          "mn30:14.1.t4",
+          "mn30:14.1.t5",
+          "mn30:14.1.t6",
+          "mn30:14.1.t7",
+          "mn30:14.1.t8",
+          "mn30:14.1.t9",
+          "mn30:14.1.t10",
+          "mn30:14.1.t11",
+          "mn30:14.1.t12",
+          "mn30:14.1.t13",
+          "mn30:14.1.t14",
+          "mn30:14.1.t15",
+          "mn30:14.1.t16",
+          "mn30:14.1.t17"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘尋伺止息，內心澄淨，心念專一，無尋無伺，具足由定而生的喜與樂，成就第二禪而住。"
+      }
     },
     {
       "segment_id": "mn30:14.2",
@@ -46817,7 +48954,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:14.2.t0",
+          "mn30:14.2.t1",
+          "mn30:14.2.t2",
+          "mn30:14.2.t3",
+          "mn30:14.2.t4",
+          "mn30:14.2.t5",
+          "mn30:14.2.t6",
+          "mn30:14.2.t7",
+          "mn30:14.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:15.1",
@@ -47864,7 +50016,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:15.1.t0",
+          "mn30:15.1.t1",
+          "mn30:15.1.t2",
+          "mn30:15.1.t3",
+          "mn30:15.1.t4",
+          "mn30:15.1.t5",
+          "mn30:15.1.t6",
+          "mn30:15.1.t7",
+          "mn30:15.1.t8",
+          "mn30:15.1.t9",
+          "mn30:15.1.t10",
+          "mn30:15.1.t11",
+          "mn30:15.1.t12",
+          "mn30:15.1.t13",
+          "mn30:15.1.t14",
+          "mn30:15.1.t15",
+          "mn30:15.1.t16",
+          "mn30:15.1.t17",
+          "mn30:15.1.t18",
+          "mn30:15.1.t19",
+          "mn30:15.1.t20",
+          "mn30:15.1.t21",
+          "mn30:15.1.t22",
+          "mn30:15.1.t23",
+          "mn30:15.1.t24",
+          "mn30:15.1.t25",
+          "mn30:15.1.t26",
+          "mn30:15.1.t27"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘離喜，住於捨，具念、正知，以身感受樂，如聖者所說：『捨而具念，安住於樂』，成就第三禪而住。"
+      }
     },
     {
       "segment_id": "mn30:15.2",
@@ -48075,7 +50261,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:15.2.t0",
+          "mn30:15.2.t1",
+          "mn30:15.2.t2",
+          "mn30:15.2.t3",
+          "mn30:15.2.t4",
+          "mn30:15.2.t5",
+          "mn30:15.2.t6",
+          "mn30:15.2.t7",
+          "mn30:15.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:16.1",
@@ -48821,7 +51022,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:16.1.t0",
+          "mn30:16.1.t1",
+          "mn30:16.1.t2",
+          "mn30:16.1.t3",
+          "mn30:16.1.t4",
+          "mn30:16.1.t5",
+          "mn30:16.1.t6",
+          "mn30:16.1.t7",
+          "mn30:16.1.t8",
+          "mn30:16.1.t9",
+          "mn30:16.1.t10",
+          "mn30:16.1.t11",
+          "mn30:16.1.t12",
+          "mn30:16.1.t13",
+          "mn30:16.1.t14",
+          "mn30:16.1.t15",
+          "mn30:16.1.t16",
+          "mn30:16.1.t17",
+          "mn30:16.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘由於捨斷樂、捨斷苦，先前的喜悅與憂惱已滅沒，成就不苦不樂、捨念清淨的第四禪而住。"
+      }
     },
     {
       "segment_id": "mn30:16.2",
@@ -49032,7 +51258,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:16.2.t0",
+          "mn30:16.2.t1",
+          "mn30:16.2.t2",
+          "mn30:16.2.t3",
+          "mn30:16.2.t4",
+          "mn30:16.2.t5",
+          "mn30:16.2.t6",
+          "mn30:16.2.t7",
+          "mn30:16.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:17.1",
@@ -49497,7 +51738,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:17.1.t0",
+          "mn30:17.1.t1",
+          "mn30:17.1.t2",
+          "mn30:17.1.t3",
+          "mn30:17.1.t4",
+          "mn30:17.1.t5",
+          "mn30:17.1.t6",
+          "mn30:17.1.t7",
+          "mn30:17.1.t8",
+          "mn30:17.1.t9",
+          "mn30:17.1.t10",
+          "mn30:17.1.t11",
+          "mn30:17.1.t12",
+          "mn30:17.1.t13",
+          "mn30:17.1.t14",
+          "mn30:17.1.t15",
+          "mn30:17.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘超越一切色想，滅沒有對想，不作意種種想，『虛空無邊』，成就空無邊處而住。"
+      }
     },
     {
       "segment_id": "mn30:17.2",
@@ -49708,7 +51972,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:17.2.t0",
+          "mn30:17.2.t1",
+          "mn30:17.2.t2",
+          "mn30:17.2.t3",
+          "mn30:17.2.t4",
+          "mn30:17.2.t5",
+          "mn30:17.2.t6",
+          "mn30:17.2.t7",
+          "mn30:17.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:18.1",
@@ -50019,7 +52298,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:18.1.t0",
+          "mn30:18.1.t1",
+          "mn30:18.1.t2",
+          "mn30:18.1.t3",
+          "mn30:18.1.t4",
+          "mn30:18.1.t5",
+          "mn30:18.1.t6",
+          "mn30:18.1.t7",
+          "mn30:18.1.t9",
+          "mn30:18.1.t10",
+          "mn30:18.1.t11",
+          "mn30:18.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘超越一切空無邊處，『識無邊』，成就識無邊處而住。"
+      }
     },
     {
       "segment_id": "mn30:18.2",
@@ -50230,7 +52527,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:18.2.t0",
+          "mn30:18.2.t1",
+          "mn30:18.2.t2",
+          "mn30:18.2.t3",
+          "mn30:18.2.t4",
+          "mn30:18.2.t5",
+          "mn30:18.2.t6",
+          "mn30:18.2.t7",
+          "mn30:18.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:19.1",
@@ -50514,7 +52826,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:19.1.t0",
+          "mn30:19.1.t1",
+          "mn30:19.1.t2",
+          "mn30:19.1.t3",
+          "mn30:19.1.t4",
+          "mn30:19.1.t5",
+          "mn30:19.1.t6",
+          "mn30:19.1.t7",
+          "mn30:19.1.t9",
+          "mn30:19.1.t10",
+          "mn30:19.1.t11",
+          "mn30:19.1.t12"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘超越一切識無邊處，『無所有』，成就無所有處而住。"
+      }
     },
     {
       "segment_id": "mn30:19.2",
@@ -50725,7 +53055,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:19.2.t0",
+          "mn30:19.2.t1",
+          "mn30:19.2.t2",
+          "mn30:19.2.t3",
+          "mn30:19.2.t4",
+          "mn30:19.2.t5",
+          "mn30:19.2.t6",
+          "mn30:19.2.t7",
+          "mn30:19.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:20.1",
@@ -50944,7 +53289,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:20.1.t0",
+          "mn30:20.1.t1",
+          "mn30:20.1.t2",
+          "mn30:20.1.t3",
+          "mn30:20.1.t4",
+          "mn30:20.1.t5",
+          "mn30:20.1.t6",
+          "mn30:20.1.t7",
+          "mn30:20.1.t8",
+          "mn30:20.1.t9"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘超越一切無所有處，成就非想非非想處而住。"
+      }
     },
     {
       "segment_id": "mn30:20.2",
@@ -51155,7 +53516,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:20.2.t0",
+          "mn30:20.2.t1",
+          "mn30:20.2.t2",
+          "mn30:20.2.t3",
+          "mn30:20.2.t4",
+          "mn30:20.2.t5",
+          "mn30:20.2.t6",
+          "mn30:20.2.t7",
+          "mn30:20.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:21.1",
@@ -51639,7 +54015,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:21.1.t0",
+          "mn30:21.1.t1",
+          "mn30:21.1.t2",
+          "mn30:21.1.t3",
+          "mn30:21.1.t4",
+          "mn30:21.1.t5",
+          "mn30:21.1.t6",
+          "mn30:21.1.t7",
+          "mn30:21.1.t8",
+          "mn30:21.1.t9",
+          "mn30:21.1.t10",
+          "mn30:21.1.t11",
+          "mn30:21.1.t12",
+          "mn30:21.1.t13",
+          "mn30:21.1.t14",
+          "mn30:21.1.t15"
+        ],
+        "review_status": "approved",
+        "content": "再者，婆羅門，比丘超越一切非想非非想處，成就想受滅而住；此人以慧照見，諸漏已盡。"
+      }
     },
     {
       "segment_id": "mn30:21.2",
@@ -51850,7 +54248,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:21.2.t0",
+          "mn30:21.2.t1",
+          "mn30:21.2.t2",
+          "mn30:21.2.t3",
+          "mn30:21.2.t4",
+          "mn30:21.2.t5",
+          "mn30:21.2.t6",
+          "mn30:21.2.t7",
+          "mn30:21.2.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這也是比知見更殊勝、更微妙的法。"
+      }
     },
     {
       "segment_id": "mn30:21.3",
@@ -52184,7 +54597,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:21.3.t0",
+          "mn30:21.3.t1",
+          "mn30:21.3.t2",
+          "mn30:21.3.t3",
+          "mn30:21.3.t4",
+          "mn30:21.3.t5",
+          "mn30:21.3.t6",
+          "mn30:21.3.t7",
+          "mn30:21.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這些法比知見更為殊勝、更為精妙。"
+      }
     },
     {
       "segment_id": "mn30:22.1",
@@ -52793,7 +55221,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:22.1.t0",
+          "mn30:22.1.t1",
+          "mn30:22.1.t2",
+          "mn30:22.1.t3",
+          "mn30:22.1.t4",
+          "mn30:22.1.t5",
+          "mn30:22.1.t6",
+          "mn30:22.1.t7",
+          "mn30:22.1.t8",
+          "mn30:22.1.t9",
+          "mn30:22.1.t10",
+          "mn30:22.1.t11",
+          "mn30:22.1.t12",
+          "mn30:22.1.t13",
+          "mn30:22.1.t14",
+          "mn30:22.1.t15",
+          "mn30:22.1.t17",
+          "mn30:22.1.t18"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，就像有人想求心材、尋求心材，為尋求心材而四處遊走，見一棵挺立、具備心材的大樹，便只砍取心材，知道『這就是心材』而離去。"
+      }
     },
     {
       "segment_id": "mn30:22.2",
@@ -52994,7 +55446,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:22.2.t1",
+          "mn30:22.2.t2",
+          "mn30:22.2.t3",
+          "mn30:22.2.t4",
+          "mn30:22.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "凡是他想用心材完成之事，都能因此達成目的。"
+      }
     },
     {
       "segment_id": "mn30:22.3",
@@ -53119,7 +55582,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:22.3.t0",
+          "mn30:22.3.t1",
+          "mn30:22.3.t2",
+          "mn30:22.3.t3",
+          "mn30:22.3.t4"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，我說這個人正是如此的譬喻。"
+      }
     },
     {
       "segment_id": "mn30:23.1",
@@ -53487,7 +55961,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:23.1.t0",
+          "mn30:23.1.t1",
+          "mn30:23.1.t2",
+          "mn30:23.1.t3",
+          "mn30:23.1.t4",
+          "mn30:23.1.t5",
+          "mn30:23.1.t6",
+          "mn30:23.1.t7",
+          "mn30:23.1.t8",
+          "mn30:23.1.t9",
+          "mn30:23.1.t10",
+          "mn30:23.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，就是這樣，這梵行並非以利養、恭敬、名聲為利益，並非以戒具足為利益，並非以定具足為利益，並非以知見為利益。"
+      }
     },
     {
       "segment_id": "mn30:23.2",
@@ -53800,7 +56292,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:23.2.t0",
+          "mn30:23.2.t1",
+          "mn30:23.2.t2",
+          "mn30:23.2.t3",
+          "mn30:23.2.t4",
+          "mn30:23.2.t5",
+          "mn30:23.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，而這不動的心解脫，"
+      }
     },
     {
       "segment_id": "mn30:23.3",
@@ -54147,7 +56652,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:23.3.t1",
+          "mn30:23.3.t2",
+          "mn30:23.3.t3",
+          "mn30:23.3.t4",
+          "mn30:23.3.t5",
+          "mn30:23.3.t7"
+        ],
+        "review_status": "approved",
+        "content": "婆羅門，這才是梵行的目的，這才是心材，這才是究竟。"
+      }
     },
     {
       "segment_id": "mn30:24.1",
@@ -54326,7 +56843,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:24.1.t0",
+          "mn30:24.1.t1",
+          "mn30:24.1.t2",
+          "mn30:24.1.t3",
+          "mn30:24.1.t4",
+          "mn30:24.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "如此說已，賓伽羅柯車婆羅門對世尊如此說："
+      }
     },
     {
       "segment_id": "mn30:24.2",
@@ -54622,7 +57151,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:24.2.t0",
+          "mn30:24.2.t1",
+          "mn30:24.2.t2",
+          "mn30:24.2.t3",
+          "mn30:24.2.t4",
+          "mn30:24.2.t5",
+          "mn30:24.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "太殊勝了，喬達摩尊者！太殊勝了，喬達摩尊者！……"
+      }
     },
     {
       "segment_id": "mn30:24.3",
@@ -54982,7 +57524,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:24.3.t0",
+          "mn30:24.3.t1",
+          "mn30:24.3.t2",
+          "mn30:24.3.t3",
+          "mn30:24.3.t4",
+          "mn30:24.3.t5",
+          "mn30:24.3.t6",
+          "mn30:24.3.t7",
+          "mn30:24.3.t9"
+        ],
+        "review_status": "approved",
+        "content": "願喬達摩尊者記得我是優婆塞，從今日起，終身皈依。"
+      }
     },
     {
       "segment_id": "mn30:24.4",
@@ -55108,7 +57665,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:24.4.t0",
+          "mn30:24.4.t1",
+          "mn30:24.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "《心材喻小經》，第十，終。"
+      }
     },
     {
       "segment_id": "mn30:24.5",
@@ -55178,7 +57744,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:24.5.t0",
+          "mn30:24.5.t1",
+          "mn30:24.5.t2"
+        ],
+        "review_status": "approved",
+        "content": "《譬喻品》，第三，終。"
+      }
     },
     {
       "segment_id": "mn30:25.0",
@@ -55204,7 +57779,14 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:25.0.t0"
+        ],
+        "review_status": "approved",
+        "content": "其攝頌："
+      }
     },
     {
       "segment_id": "mn30:25.1",
@@ -55255,7 +57837,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:25.1.t0",
+          "mn30:25.1.t1"
+        ],
+        "review_status": "approved",
+        "content": "摩利耶頗求那與阿利吒之名（指MN21、MN22），"
+      }
     },
     {
       "segment_id": "mn30:25.2",
@@ -55335,7 +57925,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:25.2.t0",
+          "mn30:25.2.t1",
+          "mn30:25.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "安陀林、迦提富訥（指MN24）、飼料（指MN25），"
+      }
     },
     {
       "segment_id": "mn30:25.3",
@@ -55356,7 +57955,14 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:25.3.t0"
+        ],
+        "review_status": "approved",
+        "content": "拉西、迦內魯、大象之名（指MN26、MN27、MN28），"
+      }
     },
     {
       "segment_id": "mn30:25.4",
@@ -55407,7 +58013,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn30:25.4.t0",
+          "mn30:25.4.t1",
+          "mn30:25.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "心材喻（指MN29），再者為賓伽羅柯車（即本經）。"
+      }
     }
   ],
   "passages": [
@@ -55723,8 +58338,84 @@
       "agama": null
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn30:2.3",
+      "mn30:2.4",
+      "mn30:2.5",
+      "mn30:2.6",
+      "mn30:2.8",
+      "mn30:3.1",
+      "mn30:3.5",
+      "mn30:8.1",
+      "mn30:8.4",
+      "mn30:8.8",
+      "mn30:8.11",
+      "mn30:9.1",
+      "mn30:9.9",
+      "mn30:9.15",
+      "mn30:10.12",
+      "mn30:10.19",
+      "mn30:11.16",
+      "mn30:11.23",
+      "mn30:12.20",
+      "mn30:21.1",
+      "mn30:22.1",
+      "mn30:22.2",
+      "mn30:23.1",
+      "mn30:23.2",
+      "mn30:23.3",
+      "mn30:24.2",
+      "mn30:24.3"
+    ],
+    "review_status": "approved",
+    "content": "賓伽羅柯車婆羅門問佛，當時六師外道（富蘭那迦葉、末伽梨瞿舍利等）是否皆如自稱般證悟、或全未證悟、或有證有不證。佛不評斷他人修證高下，只說「這個問題就此打住」，改以「求心材」為喻說法：善男子以信出家，若因獲得利養恭敬名聲便心生歡喜、自滿懈怠，如同誤把枝葉當心材；若止步於戒具足、定具足、乃至知見便自滿放逸，則如同誤把樹皮、外皮或邊材當心材，皆非梵行真正核心。唯有繼續精進、證得不動的心解脫，才是梵行的目的、心材與究竟。經末並說四禪、四無色定、想受滅次第為比知見更殊勝微妙之法。賓伽羅柯車聞法歡喜讚歎，願盡形壽皈依為優婆塞。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "佛為何不直接評斷六師外道",
+      "sources": [
+        "mn30:2.3",
+        "mn30:2.5",
+        "mn30:2.6",
+        "mn30:2.8"
+      ],
+      "content": "賓伽羅柯車婆羅門詢問佛陀，六師外道是否皆如自稱般證悟。佛陀回答「婆羅門，夠了，這個問題就此打住吧」，並未評斷他人修證高下，而是改以「求心材」的譬喻說法，將焦點從外部評斷他人轉向反省自身修行的核心何在。這反映佛陀教法的一貫立場：不涉入他宗教義優劣的爭辯，而是引導提問者回頭檢視自己如何辨別真偽核心的修行原則。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "心材喻的四個層次：利養恭敬、戒、定、知見",
+      "sources": [
+        "mn30:8.1",
+        "mn30:8.9",
+        "mn30:9.9",
+        "mn30:10.12",
+        "mn30:11.16",
+        "mn30:11.21"
+      ],
+      "content": "佛以尋求心材為喻，說明善男子出家修行途中可能止步的四個階段：因獲得利養、恭敬、名聲而自滿懈怠，如同砍取枝葉便當作心材；成就戒具足便自滿，如同砍取外皮或樹皮；成就定具足便自滿，如同砍取邊材；乃至成就知見便自滿，仍如同誤把邊材當心材。每一階段若自我讚揚、輕視他人、不再求更殊勝之法，皆無法達成修行真正的目的。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "不動的心解脫才是梵行的心材與究竟",
+      "sources": [
+        "mn30:21.1",
+        "mn30:23.1",
+        "mn30:23.2",
+        "mn30:23.3",
+        "mn30:24.3"
+      ],
+      "content": "佛陀說明，比知見更殊勝微妙之法，是依序而上的四禪、四無色定，乃至想受滅、諸漏已盡。而梵行真正的核心，並非利養恭敬名聲、戒具足、定具足或知見，而是「不動的心解脫」——唯此才是梵行的目的、心材與究竟。賓伽羅柯車婆羅門聞法後心生歡喜、讚歎，願盡形壽皈依為優婆塞。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",
