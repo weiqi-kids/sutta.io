@@ -25,6 +25,7 @@
    - 目標 JSON 結構（照 content/topics/ 既有檔；review_status 一律 `"draft"`）
    - 引文鐵則：**quotes 只填 segment_ids 絕不抄原文**（build 期 resolveTopicQuote 解析，查無即 build 失敗）；每 section ≤2 組、每組 ≤4 連續段
    - 台灣繁中、不裁決教義、大乘關係並陳；FAQ 4–5 條對準真實搜尋意圖
+   - **結構深度須對齊既有家族（2026-07-05 定案）**：新頁的節數、正文總字數、FAQ 數不可明顯低於現有 topics 家族中位數（zh 正文約 1850 字、5 節、5 條 FAQ 為基準；有 definition＋mahayana_note）。定位差異（如 AEO answer-first、長尾角度）可改變**寫法**，但**深度骨架要一致**，否則讀者會覺得該頁比兄弟頁單薄、不完整。**唯一例外＝材料真的不足**：grounding 撐不到中位數時，寧可短而不灌水（T2 優先於字數），並在回報明講「材料上限到此」。快速比對指令：`for f in content/topics/*.json; do python3 -c "import json,sys;d=json.load(open(sys.argv[1]))['zh'];print(sum(len(''.join(s.get('paragraphs',[]))) for s in d['sections']), sys.argv[1])" $f; done | sort -n`
    - ⚠️ agent 有權且應該糾正派工簡報的錯誤假設（實例：mn22 "ānando"=喜悅非人名；DPPN 節錄無目犍連死亡記載）——寧可回報材料不支持，不可硬寫
 3. **正規化＋驗證**：`node scripts/topics-normalize.mjs && node scripts/validate-topics.mjs`
    （normalize 容錯 agent 的 body→paragraphs 偏差；validate 查結構＋segment 防捏造）。
