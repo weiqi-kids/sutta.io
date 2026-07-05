@@ -1,0 +1,346 @@
+{
+  "slug": "sense-pleasures-danger",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-05",
+  "zh": {
+    "title": "為什麼佛教說慾望（五欲）帶來痛苦",
+    "seo_title": "為什麼佛教說慾望帶來痛苦？《大苦蘊經》MN13 的五欲過患與出離",
+    "seo_description": "佛教不是叫人壓抑慾望，而是如實檢驗它。《大苦蘊經》（MN 13）用「甘味—過患—出離」三段論分析五欲：欲樂確實有樂味，但代價是為謀生受寒熱飢渴、求不得而憂苦、守財失財、爭訟鬥毆、拿刀盾投入戰場、犯罪受罰。出離不是自我折磨，而是「調伏欲貪、捨斷欲貪」。同一把尺也用來檢驗「色」與「受」。",
+    "question": "佛教為什麼說慾望（五欲）會帶來痛苦？",
+    "definition": "佛教並不否認欲樂是樂——《大苦蘊經》（MN 13）承認眼耳鼻舌身所對的可意對象確實生起「樂與悅意」，這叫欲的「甘味」（assāda）。它說欲帶來痛苦，指的是欲的「過患」（ādīnava）：為了追逐、守護、爭奪這些欲樂，人要受盡謀生之苦、求不得之苦、失去之苦，乃至鬥毆、戰爭、犯罪受罰、墮惡趣。佛陀給的出路不是壓抑或自我折磨，而是「出離」（nissaraṇa）——於欲中調伏、捨斷對欲的貪求。這套「甘味—過患—出離」的檢驗法，MN 13 同樣套用在「色」與「受」上，是一套通用的觀察工具。",
+    "sections": [
+      {
+        "heading": "五欲指哪五個？先承認欲樂確實是樂（甘味 assāda）",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:7.2",
+              "mn13:7.3",
+              "mn13:7.4"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:7.9",
+              "mn13:7.10"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "「五欲」在《大苦蘊經》裡指的是「五種欲的功德（kāmaguṇa）」，也就是透過五個感官門通向的五類可意對象：眼所識的色、耳所識的聲、鼻所識的香、舌所識的味、身所識的觸。經文特別形容這些對象是「可意的、可愛的、合意的、可親的、與欲相應的、令人染著的」——換句話說，五欲不是抽象的貪念，而是實實在在誘人的看、聽、聞、嚐、觸的享受。要注意的是，佛教講的「五欲」是指這五類感官對象本身，不能簡化成後世常說的「財色名食睡」那一套。",
+          "值得先講清楚一件常被誤解的事：佛陀並沒有一開口就說欲是壞的。他先問「欲的甘味（assāda）是什麼」，並如實回答——凡是依這五欲功德而生起的「樂與悅意」，這就是欲的甘味。也就是說，經文承認欲樂本身確實會帶來快樂，這一點不否認、不淡化。整部經的分析正是建立在這個誠實的起點上：正因為欲真的有樂味，人才會被它勾住，接下來才要看清它的代價。這種「先承認樂味、再檢視過患」的方法，就是 MN 13 說服力的來源。"
+        ]
+      },
+      {
+        "heading": "欲的過患（一）：追財、守財、失財之苦",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:8.2",
+              "mn13:8.3",
+              "mn13:8.4",
+              "mn13:8.5"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:10.4",
+              "mn13:10.5",
+              "mn13:10.6",
+              "mn13:10.7"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "接著佛陀問「欲的過患（ādīnava）是什麼」，並給出全網競品幾乎都沒呈現、極其具體的原典畫面。他從最日常的地方講起：一個人為了謀生，靠算術、記帳、計算、農耕、經商、牧牛、射箭、當差辦事等各種技藝討生活，於是「面對寒冷、面對炎熱，被虻、蚊、風吹、日曬、爬蟲叮咬所苦，因飢渴而幾乎喪命」。經文反覆用同一句話定調：這是「當下可見」的苦，是「以欲為因、以欲為緣、以欲為本、正是因欲」而堆積起來的苦蘊。這裡的重點是：受苦的不是別人強加的，而是為了追逐欲樂自己招來的。",
+          "更狠的是「求不得」與「守不住」兩重苦。若這樣拼命努力、財富卻做不成，人就「憂愁、疲憊、悲嘆、捶胸號泣，陷入迷惘」，嘆「我的努力真是白費了」。就算財富到手也不得安寧——為了不讓國王抽走、盜賊偷走、大火燒掉、大水沖走、不肖繼承人拿走，人得日夜守護、心生憂苦；而一旦財富真的被奪走，他又「憂愁、疲憊、捶胸號泣」，哀嘆「那本來是我的，如今沒有了」。從得不到的焦慮，到守著的恐懼，再到失去的悲痛——欲樂承諾的快樂，一路都被這些過患抵銷。這正是佛教說「慾望帶來痛苦」的第一層具體意思。"
+        ]
+      },
+      {
+        "heading": "欲的過患（二）：從爭吵、戰爭到犯罪受罰",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:11.1",
+              "mn13:11.2",
+              "mn13:11.3",
+              "mn13:11.4"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:12.1",
+              "mn13:12.2",
+              "mn13:12.3",
+              "mn13:12.4"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "過患不只停在個人得失，MN 13 接著把鏡頭拉大，讓我們看見欲如何一步步升級成暴力。同樣「以欲為因」，人與人開始爭鬥：國王與國王爭、剎帝利與剎帝利爭、婆羅門之間爭、居士之間爭，甚至母子相爭、父子相爭、兄弟姊妹相爭、朋友反目。爭到最後，「他們互相用拳頭、用土塊、用棍棒、用武器攻擊」，於是「遭受死亡，或近乎死亡之苦」。經文把家庭失和到街頭鬥毆，都追溯到同一個根：對欲的貪求。",
+          "再往上升級就是戰爭。經文描寫得像戰場實況：人們「拿起刀盾、張弓持箭，投入兩軍對陣的戰場，在箭矢飛射、長矛投擲、劍光閃耀之中」廝殺，結果「被箭射穿、被長矛刺穿、被利劍斬首」，同樣「遭受死亡，乃至瀕死之苦」。經文接著還列出破門行竊、攔路搶劫、侵犯他人妻室等犯罪，以及隨之而來被王法施以酷刑的下場，並指出以身、語、意行惡者身壞命終會墮入惡趣——這是欲的「後世過患」。這一連串從飢渴、憂惱、鬥毆、戰場到牢獄與惡趣的畫面，就是《大苦蘊經》最有力、也最常被引用的段落：它不是抽象地說「欲是苦」，而是把欲一路推到底，讓你親眼看到代價。"
+        ]
+      },
+      {
+        "heading": "出離（nissaraṇa）：調伏欲貪，不是壓抑或禁慾苦行",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:16.1",
+              "mn13:16.2"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:17.2"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "看清過患之後，佛陀給的出路是「出離」（nissaraṇa）。它的定義非常精確，也很容易被誤讀——經文說：「凡於諸欲中對欲貪（chandarāga）的調伏、欲貪的捨斷，這就是諸欲的出離。」請注意，被捨斷的是「欲貪」，也就是那股抓取、黏著、非要不可的渴求，而不是感官本身、也不是用蠻力去壓制或折磨自己。佛教講的出離，重點在鬆開對欲的貪執，而非把欲樂當敵人硬壓下去；後面談「受」時甚至用禪定之樂為例，可見這條路要導向的是更清淨的安樂，不是自虐。",
+          "為什麼非得走這條路不可？經文給了一個關鍵判準：唯有如實了知欲的甘味是甘味、過患是過患、出離是出離的人，才可能真正「遍知（parijānāti）」欲，也才有資格引導別人；反過來說，看不清這三面的人，連自己都無法真正看透欲。這說明佛教對治慾望的方法不是「因為欲很可怕所以逃避」，而是「因為徹底看清了甘味與過患的全貌，貪求才會自然鬆手」。禁慾式的壓抑跳過了『看清』這一步，並不是經文所說的出離。"
+        ]
+      },
+      {
+        "heading": "一頁看懂《大苦蘊經》：同一把尺也量「色」與「受」",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:18.1",
+              "mn13:18.2"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:36.1",
+              "mn13:36.2"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "很多人以為《大苦蘊經》只是一篇「嚇阻慾望」的說教，其實它教的是一套通用的檢驗法。同一組「甘味—過患—出離」三個問題，佛陀在講完五欲之後，原封不動地又套用在「色（rūpa，此處指美好的形色、外貌）」與「受（vedanā，感受）」上。就色而言，甘味是青春容顏之美——經文舉一位十五、六歲少女容光煥發的美麗為例；過患則是同一個人隨後老、病、死去，乃至陳屍荒野、白骨散落的景象；出離同樣是「於色中調伏欲貪、捨斷欲貪」。",
+          "就「受」而言，經文的處理最能顯出這套方法的普遍性：受的甘味被舉為禪定之樂（初禪到四禪那種不惱害自他的清淨感受），而受的過患講得極簡潔——「凡受都是無常的、苦的、會變易的，這就是受的過患」；出離依然是「於受中調伏欲貪、捨斷欲貪」。可見這部經真正教的，不只是「別貪五欲」，而是一把可以量遍一切經驗的尺：任何讓你動心的東西，都可以問它三個問題——它的樂在哪裡？它的代價是什麼？怎樣才能不被它綁住？看懂這三問，就看懂了整部《大苦蘊經》。"
+        ]
+      }
+    ],
+    "mahayana_note": "本頁只呈現巴利《大苦蘊經》（MN 13）中「甘味—過患—出離」的用法與立場。後世佛教對「欲」與「出離」有更廣的開展：部派與大乘論書細分欲界貪、色界貪等煩惱層次；大乘一方面以菩薩「不住生死、不住涅槃」與「煩惱即菩提」等說法，強調不必厭離世間而在其中度眾，另一方面也發展出淨土、密教等種種法門處理欲與貪的轉化。這些是對原始教法的後續詮釋與發展，與本經「調伏欲貪、捨斷欲貪」的樸素定義並不完全等同；本頁不做跨傳統的裁決，僅如實呈現巴利經文所說。",
+    "faq": [
+      {
+        "q": "佛教為什麼說慾望是苦？",
+        "a": "《大苦蘊經》（MN 13）的回答分兩步：先承認欲樂確實有「甘味」，也就是依五種感官對象而生起的樂與悅意；再指出欲的「過患」——為了得到、守住、爭奪這些欲樂，人要受謀生的寒熱飢渴、求不得的憂惱、失去的悲痛，乃至鬥毆、戰爭、犯罪受罰與墮惡趣。所以佛教說慾望是苦，不是說快感不存在，而是說欲樂承諾的快樂被它帶來的代價大幅抵銷；看清這筆帳，貪求才會鬆手。"
+      },
+      {
+        "q": "五欲指哪五個？是「財色名食睡」嗎？",
+        "a": "依《大苦蘊經》，「五欲」指的是「五種欲的功德」，即眼所識的色、耳所識的聲、鼻所識的香、舌所識的味、身所識的觸——這五類「可意、可愛、令人染著」的感官對象。它指的是五個感官門所對的享受，而不是後世通俗常說的「財、色、名、食、睡」。財、名等在本經是被歸到「追逐欲樂的過患」裡（例如為財受苦、守財失財），與感官對象本身是不同層次。"
+      },
+      {
+        "q": "《大苦蘊經》（MN 13）在講什麼？",
+        "a": "《大苦蘊經》（Mahādukkhakkhandha Sutta, MN 13）記載外道自稱對「欲」的教法和佛陀一樣，佛陀便指出真正的差別在於能不能如實回答三個問題：欲的甘味（assāda）、過患（ādīnava）、出離（nissaraṇa）各是什麼。全經用這三段論依次分析「欲」「色」「受」，其中對欲之過患的描寫——從謀生辛勞、求不得、守財失財，到爭訟、戰爭、犯罪受罰——尤其具體生動，是理解佛教如何看待慾望最重要的原典之一。"
+      },
+      {
+        "q": "佛教是要人禁慾嗎？出離就是壓抑慾望嗎？",
+        "a": "依經文，出離（nissaraṇa）的定義是「於諸欲中對欲貪的調伏、欲貪的捨斷」——被放下的是那股抓取、黏著的貪求，而不是用蠻力壓制感官或折磨自己。經文談「受」的甘味時甚至以禪定之樂為例，顯示這條路導向的是更清淨的安樂，而非自虐式的苦行。所以嚴格說，本經教的是「調伏欲貪」，這既不是縱慾，也不等於一般理解的壓抑或禁慾苦行；關鍵在先如實看清欲的甘味與過患，貪求才會自然鬆開。"
+      },
+      {
+        "q": "既然欲有樂味，為什麼還要出離？",
+        "a": "正因為欲確有樂味，人才容易只看見樂、看不見代價。《大苦蘊經》的作法是把甘味與過患一起攤開對照：短暫的感官之樂，換來的是謀生之苦、求不得之苦、失去之苦，乃至鬥毆、戰爭與牢獄之災。經文並指出，唯有同時如實了知甘味、過患、出離三者的人，才能真正「遍知」欲、不被它牽著走。出離不是因為害怕而逃避，而是看清全貌後，貪求自然失去抓力。"
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "letting-go",
+      "dependent-origination",
+      "five-aggregates"
+    ],
+    "related_suttas": [
+      "mn13"
+    ],
+    "related_lexicon": [
+      "kama",
+      "assada",
+      "adinava",
+      "nissarana"
+    ]
+  },
+  "en": {
+    "title": "Why Buddhism Says Sensual Desire Leads to Suffering",
+    "seo_title": "Why Does Buddhism Say Desire Causes Suffering? Sense Pleasures in MN 13",
+    "seo_description": "Buddhism does not tell you to repress desire; it examines it honestly. The Great Discourse on the Mass of Suffering (MN 13) analyzes sense pleasures with a three-part test—gratification, danger, escape: sensual pleasure is real, but its price is toil, frustration, guarding and losing wealth, quarrels, war, crime, and punishment. Escape means removing and abandoning desire for pleasure, not self-torture. The same test also measures form and feeling.",
+    "question": "Why does Buddhism say sensual desire leads to suffering?",
+    "definition": "Buddhism does not deny that sense pleasures feel good. The Great Discourse on the Mass of Suffering (MN 13) grants that agreeable sights, sounds, smells, tastes, and touches do give rise to \"pleasure and gladness\"—this is the \"gratification\" (assāda) of sensual pleasures. When it says desire leads to suffering, it means the \"danger\" (ādīnava): in order to pursue, guard, and fight over these pleasures, people undergo the pain of earning a living, of not getting what they want, of losing what they had—up to brawls, war, crime with its punishments, and bad rebirth. The way out the Buddha offers is not repression or self-torture but \"escape\" (nissaraṇa)—the removal and abandoning of desire-and-lust for those pleasures. MN 13 applies this same gratification–danger–escape test to \"form\" and \"feeling\" as well; it is a general tool of examination.",
+    "sections": [
+      {
+        "heading": "What are the five sense pleasures? First, admit the pleasure is real (assāda)",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:7.2",
+              "mn13:7.3",
+              "mn13:7.4"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:7.9",
+              "mn13:7.10"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "In this discourse, the \"five sense pleasures\" are the \"five strands of sensual pleasure\" (kāmaguṇa): the five kinds of agreeable objects reached through the five sense doors—forms cognized by the eye, sounds by the ear, smells by the nose, tastes by the tongue, and tangibles by the body. The text calls these objects \"wished for, desirable, agreeable, likeable, connected with sensual pleasure, and enticing.\" In other words, sensual desire here is not an abstract greed but the very concrete allure of seeing, hearing, smelling, tasting, and touching. Note that in the suttas \"sense pleasures\" means these five classes of sense objects themselves, not the later popular list of \"wealth, sex, fame, food, and sleep.\"",
+          "One commonly misunderstood point should be settled first: the Buddha does not open by calling desire bad. He first asks, \"What is the gratification (assāda) of sensual pleasures?\" and answers honestly—whatever pleasure and gladness arise dependent on these five strands, that is their gratification. That is, the text grants that sense pleasure really does feel good; this is neither denied nor downplayed. The whole analysis is built on this honest starting point: precisely because desire genuinely gratifies, people get hooked by it, and only then does the text go on to expose its cost. This method—admit the pleasure first, then examine the danger—is the source of MN 13's persuasive power."
+        ]
+      },
+      {
+        "heading": "The danger (one): the pain of gaining, guarding, and losing wealth",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:8.2",
+              "mn13:8.3",
+              "mn13:8.4",
+              "mn13:8.5"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:10.4",
+              "mn13:10.5",
+              "mn13:10.6",
+              "mn13:10.7"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "The Buddha then asks, \"What is the danger (ādīnava) of sensual pleasures?\" and gives a strikingly concrete picture that almost no competing summary preserves. He starts from the most ordinary place: to make a living, a person plies a trade—accounting, calculation, farming, trade, cattle-keeping, archery, government service, or some craft—and so is \"exposed to cold, exposed to heat, injured by the touch of gadflies, mosquitoes, wind, sun, and creeping things, dying of hunger and thirst.\" The text keeps returning to the same refrain: this is a suffering \"visible here and now,\" a mass of suffering \"with sensual pleasures as the cause, source, basis—simply because of sensual pleasures.\" The point is that this suffering is not imposed by others; it is drawn down on oneself in pursuit of sensual pleasure.",
+          "Harsher still are the twin pains of \"not getting\" and \"not keeping.\" If a person strives like this and the wealth still does not come, he \"sorrows, grieves, laments, beats his breast weeping, and falls into confusion,\" moaning that his effort was wasted. And even if the wealth is won, there is no peace—to keep kings from seizing it, thieves from stealing it, fire from burning it, water from sweeping it away, and unloved heirs from taking it, he must guard it with anxiety day and night; and when the wealth is in fact lost, he again \"sorrows, grieves, beats his breast weeping,\" lamenting, \"What was mine is now no more.\" From the anxiety of not having, to the fear of holding on, to the grief of loss—the happiness sensual pleasure promises is cancelled out at every stage by these dangers. This is the first concrete sense in which Buddhism says desire brings suffering."
+        ]
+      },
+      {
+        "heading": "The danger (two): from quarrels and war to crime and punishment",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:11.1",
+              "mn13:11.2",
+              "mn13:11.3",
+              "mn13:11.4"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:12.1",
+              "mn13:12.2",
+              "mn13:12.3",
+              "mn13:12.4"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "The danger does not stop at personal gain and loss. MN 13 pulls the camera back to show how desire escalates, step by step, into violence. Again \"with sensual pleasures as the cause,\" people begin to fight: kings quarrel with kings, nobles with nobles, brahmins among themselves, householders among themselves—even mother with son, father with son, brother with brother and sister, friend with friend. In the end \"they attack one another with fists, with clods, with sticks, with weapons,\" and so \"incur death or deadly suffering.\" The text traces everything from family discord to street brawling back to a single root: craving for sensual pleasure.",
+          "The next level up is war. The description reads like a battlefield report: people \"take up sword and shield, strap on bow and quiver, and charge into massed battle, amid flying arrows, hurled spears, and flashing swords,\" only to be \"pierced by arrows, pierced by spears, beheaded by swords,\" again \"incurring death or deadly suffering.\" The text then lists crimes—housebreaking, plunder, robbery on the highway, adultery—and the torture and execution that kings inflict on those caught, adding that those who do wrong in body, speech, and mind are reborn in a bad destination after death: this is the danger of sensual pleasures \"in the life to come.\" This cascade—from hunger and grief, through brawls and battle, to prison and hell—is the most forceful and most quotable passage of the discourse: it does not say abstractly that \"desire is suffering\" but pushes desire all the way to its end so you can see the price with your own eyes."
+        ]
+      },
+      {
+        "heading": "Escape (nissaraṇa): removing desire-and-lust, not repression or asceticism",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:16.1",
+              "mn13:16.2"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:17.2"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "After the danger is seen clearly, the way out the Buddha offers is \"escape\" (nissaraṇa). Its definition is very precise and easily misread. The text says: \"The removal of desire-and-lust (chandarāga), the abandoning of desire-and-lust for sensual pleasures—this is the escape from sensual pleasures.\" Note that what is abandoned is desire-and-lust—the grasping, sticky, must-have craving—not the senses themselves, and not by forcibly suppressing or torturing oneself. The Buddhist escape is about loosening the grip of craving on pleasure, not treating pleasure as an enemy to be crushed; indeed, when the discourse turns to \"feeling\" it uses the bliss of meditative absorption as its example of gratification, showing that this path aims at a purer happiness, not self-mortification.",
+          "Why must one take this path? The text gives a key criterion: only those who understand, as it really is, the gratification of desire as gratification, its danger as danger, and its escape as escape can truly \"fully understand\" (parijānāti) desire and are qualified to guide others; conversely, those who cannot see all three sides cannot see through desire even for themselves. This shows that the Buddhist way of handling desire is not \"avoid it because it is frightening\" but \"once its gratification and danger are seen in full, the craving lets go of itself.\" Ascetic repression skips the step of \"seeing clearly\" and is not the escape the text describes."
+        ]
+      },
+      {
+        "heading": "The whole of MN 13 on one page: the same test measures form and feeling",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn13:18.1",
+              "mn13:18.2"
+            ],
+            "sutta": "mn13"
+          },
+          {
+            "segment_ids": [
+              "mn13:36.1",
+              "mn13:36.2"
+            ],
+            "sutta": "mn13"
+          }
+        ],
+        "paragraphs": [
+          "Many take MN 13 to be merely a sermon meant to scare people off desire, but what it actually teaches is a general method of examination. The same three questions—gratification, danger, escape—that the Buddha applies to sensual pleasures he then applies, unchanged, to \"form\" (rūpa, here bodily beauty and appearance) and to \"feeling\" (vedanā). For form, the gratification is the beauty of youth—the text gives the example of a girl of fifteen or sixteen at the height of her radiance; the danger is the same person seen later aged, sick, and dead, even as a corpse cast in the charnel ground and scattered bones; and the escape is again \"the removal and abandoning of desire-and-lust for form.\"",
+          "For feeling, the discourse's handling best reveals how general the method is: the gratification of feeling is given as the bliss of meditative absorption (the pure, non-harming feeling of the first through fourth jhānas), while its danger is stated with utmost brevity—\"whatever is felt is impermanent, suffering, and subject to change; this is the danger of feeling\"—and the escape is once more \"the removal and abandoning of desire-and-lust for feeling.\" So what this discourse really teaches is not only \"do not crave the five sense pleasures\" but a measuring stick for all experience: of anything that moves the heart, one can ask three questions—where is its pleasure, what is its cost, and how does one avoid being bound by it? Grasp these three questions and you have grasped the whole of the Great Discourse on the Mass of Suffering."
+        ]
+      }
+    ],
+    "mahayana_note": "This page presents only the usage and stance of the gratification–danger–escape scheme as found in the Pali Great Discourse on the Mass of Suffering (MN 13). Later Buddhism developed the treatment of desire and escape much further: Abhidharma and Mahāyāna treatises distinguish layers of craving such as sensual-realm lust and form-realm lust; Mahāyāna, on one hand, with teachings like the bodhisattva \"abiding in neither saṃsāra nor nirvāṇa\" and \"the defilements are themselves awakening,\" emphasizes working within the world to liberate beings rather than recoiling from it, and on the other develops Pure Land, tantric, and other methods for transforming desire and craving. These are later interpretations and developments and are not simply identical to this discourse's plain definition of \"removing and abandoning desire-and-lust\"; this page does not adjudicate across traditions and reports only what the Pali text says.",
+    "faq": [
+      {
+        "q": "Why does Buddhism say desire is suffering?",
+        "a": "MN 13 answers in two steps. First it grants that sense pleasures have \"gratification\"—the pleasure and gladness that arise dependent on the five kinds of sense objects. Then it points to their \"danger\": in order to obtain, guard, and fight over these pleasures, people endure the cold, heat, hunger and thirst of earning a living, the distress of not getting what they want, the grief of loss, and even brawls, war, crime with punishment, and bad rebirth. So when Buddhism says desire is suffering, it is not denying that pleasure exists; it is saying the happiness desire promises is heavily offset by the cost it brings. Once that account is seen clearly, craving lets go."
+      },
+      {
+        "q": "What are the five sense pleasures? Are they \"wealth, sex, fame, food, sleep\"?",
+        "a": "According to MN 13, the \"five sense pleasures\" are the \"five strands of sensual pleasure\": forms cognized by the eye, sounds by the ear, smells by the nose, tastes by the tongue, and tangibles by the body—these five classes of \"agreeable, likeable, enticing\" sense objects. It refers to the enjoyments met at the five sense doors, not the later popular list of \"wealth, sex, fame, food, and sleep.\" Wealth and fame appear in this discourse under the \"danger of pursuing pleasure\" (for example, suffering for wealth and losing it), a different level from the sense objects themselves."
+      },
+      {
+        "q": "What is the Great Discourse on the Mass of Suffering (MN 13) about?",
+        "a": "The Great Discourse on the Mass of Suffering (Mahādukkhakkhandha Sutta, MN 13) records wanderers of other sects claiming their teaching on \"desire\" is the same as the Buddha's. The Buddha points out that the real difference is whether one can answer, as it really is, three questions: what are the gratification (assāda), the danger (ādīnava), and the escape (nissaraṇa) of desire? The whole discourse applies this three-part analysis in turn to \"desire,\" \"form,\" and \"feeling.\" Its depiction of the danger of desire—from the toil of earning a living, frustration, and losing wealth, to quarrels, war, and crime with punishment—is especially concrete and vivid, making it one of the most important source texts for how Buddhism regards desire."
+      },
+      {
+        "q": "Does Buddhism require celibacy or abstinence? Is escape just repressing desire?",
+        "a": "By the text, escape (nissaraṇa) is defined as \"the removal and abandoning of desire-and-lust for sensual pleasures\"—what is let go is the grasping, sticky craving, not the forcible suppression of the senses or the torture of oneself. When the discourse discusses the gratification of \"feeling,\" it even gives the bliss of meditative absorption as its example, showing that the path aims at a purer happiness, not self-mortifying asceticism. So strictly speaking, this discourse teaches \"removing desire-and-lust\": this is neither indulgence nor the ordinary notion of repression or ascetic abstinence. The key is that only after honestly seeing the gratification and danger of desire does the craving loosen of itself."
+      },
+      {
+        "q": "If desire has gratification, why escape from it at all?",
+        "a": "Precisely because desire really is gratifying, people tend to see only the pleasure and miss the cost. MN 13's approach is to lay gratification and danger side by side: fleeting sensory pleasure is paid for with the pain of earning a living, of not getting what one wants, of loss, and even brawls, war, and imprisonment. The text adds that only those who understand all three—gratification, danger, and escape—as they really are can truly \"fully understand\" desire and not be led around by it. Escape is not fleeing out of fear; once the full picture is seen, craving simply loses its grip."
+      }
+    ],
+    "related_topics": [
+      "four-noble-truths",
+      "letting-go",
+      "dependent-origination",
+      "five-aggregates"
+    ],
+    "related_suttas": [
+      "mn13"
+    ],
+    "related_lexicon": [
+      "kama",
+      "assada",
+      "adinava",
+      "nissarana"
+    ]
+  }
+}

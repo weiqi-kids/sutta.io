@@ -343,6 +343,19 @@
       "last_action": "launch(draft)",
       "last_action_date": "2026-07-05",
       "note": "情境化第二批・一切漏經 MN2 七斷法"
+    },
+    {
+      "keyword": "為什麼佛教說慾望帶來痛苦",
+      "tier": 5,
+      "url": "https://sutta.io/topics/sense-pleasures-danger/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第三批・大苦蘊經 MN13・AEO 被引用路線"
     }
   ],
   "pages": {
@@ -388,7 +401,9 @@
     "https://sutta.io/topics/five-hindrances/": "unknown",
     "https://sutta.io/en/topics/five-hindrances/": "unknown",
     "https://sutta.io/topics/letting-go/": "unknown",
-    "https://sutta.io/en/topics/letting-go/": "unknown"
+    "https://sutta.io/en/topics/letting-go/": "unknown",
+    "https://sutta.io/topics/sense-pleasures-danger/": "unknown",
+    "https://sutta.io/en/topics/sense-pleasures-danger/": "unknown"
   },
   "sitemap_watch": {
     "baseline_date": "2026-07-05",
