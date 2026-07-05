@@ -2,7 +2,8 @@
   "meta": {
     "updated": "2026-07-04",
     "launched": "2026-07-03",
-    "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md"
+    "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md",
+    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md"
   },
   "keywords": [
     {
