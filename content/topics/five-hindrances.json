@@ -1,0 +1,340 @@
+{
+  "slug": "five-hindrances",
+  "review_status": "draft",
+  "generated_by": "claude-fable-5",
+  "date": "2026-07-05",
+  "zh": {
+    "title": "五蓋（pañca nīvaraṇa）",
+    "seo_title": "五蓋是什麼？從《蟻垤經》的蟻丘謎語看禪修的五種障礙",
+    "seo_description": "五蓋（貪欲、瞋恚、惛沉睡眠、掉舉惡作、疑）是禪修的五種障礙。本頁不做列點式定義，而依巴利《蟻垤經》（蟻丘經，MN 23）的「蟻丘謎語」逐一解讀：天神深夜出謎，佛陀解謎——篩子＝五蓋、門閂＝無明、岔路＝疑、龜＝五取蘊，最後以精進（挖掘）與智慧（鐵鍬）一層層掘除，直到見那伽（解脫者）。",
+    "question": "佛教說的「五蓋」是什麼？在《蟻垤經》裡怎麼講？",
+    "definition": "五蓋（pañca nīvaraṇa）指遮蔽、障礙心的五種狀態：貪欲蓋、瞋恚蓋、惛沉睡眠蓋、掉舉惡作蓋、疑蓋，是禪修（尤其入定）的主要障礙。在《蟻垤經》（MN 23）裡，佛陀把五蓋比喻為「篩子」——挖掘身心這座「蟻丘」時挖出、必須「舉起、捨棄」的一件障礙物，與門閂（無明）、岔路（疑）、龜（五取蘊）等並列，用精進（挖掘）與智慧（鐵鍬）一層層掘除。",
+    "sections": [
+      {
+        "heading": "蟻垤經在講什麼：深夜天神的一則謎語",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:1.4"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:2.1",
+              "mn23:2.2",
+              "mn23:2.3"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "《蟻垤經》（巴利 Vammikasutta，MN 23，音譯亦作「蟻丘經」）的場景，是尊者鳩摩羅迦葉住在安陀林時，某個深夜有一位容光燦爛的天神照亮整片林子、走到他面前，丟給他一則謎語。天神說：這座「蟻丘」夜間冒煙、白晝燃燒；有位婆羅門吩咐一個聰慧的人「不斷挖吧，取上鐵鍬」。於是挖掘者一鏟一鏟往下，陸續挖出門閂、青蛙、岔路、篩子、龜、屠宰場、肉塊，最後見到一條那伽（大龍）。",
+          "天神留下這串問題，要迦葉拿去問佛陀——因為除了如來與如來的弟子，沒有人能解得了。整部經因此是一個「謎語＋解謎」的結構：先由天神把一連串意象拋出來，再由佛陀逐一揭曉每個意象各自代表什麼修行上的障礙。五蓋並不是這則謎語的全部，只是被挖出來的其中一物；但正因為它被放進這串意象裡，我們才有機會用「故事」而不是「條列」來認識它。"
+        ]
+      },
+      {
+        "heading": "解謎的鑰匙：蟻丘＝身體，鐵鍬＝智慧，挖掘＝精進",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.1"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.6",
+              "mn23:4.7",
+              "mn23:4.8",
+              "mn23:4.9"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "隔天迦葉把整串問題帶到佛陀面前，佛陀逐一拆解。首先，「蟻丘」不是別的，正是這具由四大（地、水、火、風）組成、父母所生、靠飯食堆疊起來、本質無常、終將擦拭揉按而後敗壞的身體。夜間的「冒煙」，是白天做過的事到了夜裡反覆思量、盤算；白晝的「燃燒」，則是夜裡盤算過後、白天以身、語、意付諸行動——身心就這樣日夜悶燒。這座冒煙燃燒的蟻丘，說的就是我們自己。",
+          "至於謎語裡的角色與工具，佛陀也一一對號：「婆羅門」是阿羅漢、正自覺者（也就是佛陀自己）；「聰慧者／善慧者」是還在學的比丘；「鐵鍬」是聖者的智慧（paññā）；「挖掘」則是策勵起來的精進。合起來看，這是一幅清楚的圖像：一位有學的比丘，依著佛陀的指示，拿智慧當工具、以精進為動作，向自己身心的深處一層層開挖。接下來挖出的每一樣東西，都是擋在路上、需要被認出並清掉的障礙。"
+        ]
+      },
+      {
+        "heading": "一層層挖出的障礙：門閂＝無明、青蛙＝憤怒、岔路＝疑",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.10",
+              "mn23:4.11",
+              "mn23:4.12"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.16",
+              "mn23:4.17",
+              "mn23:4.18"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "挖掘者往下掘，第一件挖出的是「門閂」——佛陀說那是「無明」，所以口訣是「拔起門閂，捨棄無明」。再往下是一隻脹起的「青蛙」，對應「憤怒與煩惱」（kodhūpāyāsa），於是「拔去青蛙，捨棄憤怒」。接著挖到一個「岔路」，佛陀點明那是「疑」（vicikicchā）——像走到分岔口不知該走哪一條的猶豫不決，「移開岔路，捨棄疑」。",
+          "每挖出一物，句式都一樣：先辨認它是哪一種障礙，再叫人「舉起它、捨棄它」，然後重複那句「繼續挖吧，聰慧者，帶著工具前行」。謎語從頭到尾不是要人把挖出來的東西收藏起來，而是要人認出、然後丟掉，一層比一層更深地清。特別值得留意的是這裡的「岔路＝疑」：這個「疑」，等一下還會在「五蓋」的清單裡再出現一次——謎語先讓它單獨露臉，再把它收進更完整的一組障礙裡。"
+        ]
+      },
+      {
+        "heading": "篩子＝五蓋：這一頁的核心",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:2.19",
+              "mn23:2.20",
+              "mn23:2.21"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.19",
+              "mn23:4.20",
+              "mn23:4.21"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "在謎語的敘事裡，挖掘者帶著工具繼續往下，挖到了一個「篩子」；婆羅門一樣吩咐：「移開那篩子，繼續挖。」到了佛陀解謎時，這個篩子的謎底才揭曉——佛陀直接說：篩子，正是「五蓋」（pañca nīvaraṇa）的代稱，並逐一點名：貪欲蓋、瞋恚蓋、惛沉睡眠蓋、掉舉惡作蓋、疑蓋。口訣照舊：「舉起篩子，捨棄五蓋。」",
+          "這五樣之所以叫「蓋」，是因為它們像蓋子一樣罩住、遮蔽心，讓心靜不下來、也看不清楚，因此是禪修入定路上的主要障礙。前一層挖出的「岔路」所對應的「疑」，這時正好是五蓋的第五個（疑蓋）——同一個障礙，先以「岔路」單獨現身，再被收進「篩子＝五蓋」這份更完整的清單裡。在整幅開挖圖像中，五蓋是擋在更深處（五取蘊、乃至解脫者）之前、必須先舉起清掉的一關。要說明的是，經文只給出「篩子＝五蓋」的對應，以及「舉起＝捨離」的指令，並沒有進一步解釋為什麼選「篩子」這個意象；我們也不替經文補上這個理由。"
+        ]
+      },
+      {
+        "heading": "篩子之後：龜＝五取蘊，直到那伽（解脫者）",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.23",
+              "mn23:4.24",
+              "mn23:4.25"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.38",
+              "mn23:4.39"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "清掉篩子（五蓋）之後，挖掘者繼續往下。再挖出的是一隻「龜」——佛陀說那是「五取蘊」：色取蘊、受取蘊、想取蘊、行取蘊、識取蘊，於是「舉起龜，捨棄五取蘊」。更深處還有「屠宰場」對應「五欲功德」（眼耳鼻舌身所接觸、令人染著的五種感官對象），以及「肉塊」對應「喜與貪」（nandīrāga），一樣都是「舉起、捨棄」。",
+          "最後掘到底時，見到的是一條「那伽」（大龍）——佛陀說那是「漏盡的比丘」，也就是煩惱已盡的解脫者。對這一位，指令不再是「舉起、捨棄」，而是掉轉過來：「讓那伽安住，別打擾牠，應向牠頂禮。」整則謎語於是有了明確的方向：從最表層那座日夜悶燒的身體，往下依序清掉無明、憤怒、疑、五蓋、五取蘊、五欲、喜貪，一路挖到那位無可再挖、只堪禮敬的解脫者。放在這條路線上看，五蓋是必須跨過、卻還不是終點的一關——這也正是《蟻垤經》看待五蓋的獨特位置：不是孤立的一張清單，而是一整趟開挖過程裡的一層。"
+        ]
+      }
+    ],
+    "mahayana_note": "五蓋（貪欲、瞋恚、惛沉睡眠、掉舉惡作、疑）這份清單為南傳、部派與大乘所共有，普遍出現在各系的禪修與止觀論述中，被視為修定的共同障礙。漢傳也常見「五蓋」「除五蓋」之說，止觀與坐禪傳統沿用這組障礙、並各自發展出對治的方法與次第。本頁只呈現巴利《蟻垤經》（MN 23）裡「篩子＝五蓋」這一則比喻及其上下文，不介入各傳統對五蓋逐一對治法的細部詮釋，也不對各家說法做高下裁決。",
+    "faq": [
+      {
+        "q": "五蓋是哪五個？",
+        "a": "依《蟻垤經》佛陀的點名，五蓋（pañca nīvaraṇa）是：貪欲蓋、瞋恚蓋、惛沉睡眠蓋、掉舉惡作蓋、疑蓋。它們被稱為「蓋」，是因為像蓋子一樣遮住心、讓心無法安定與看清，因此是禪修入定的主要障礙。若想看五蓋在四念處「法隨觀」中如何被逐項觀察，可參本站的〈念處實修〉主題頁；本頁則專講《蟻垤經》用「篩子」比喻五蓋的這則故事。"
+      },
+      {
+        "q": "《蟻垤經》（蟻丘經）在講什麼？",
+        "a": "《蟻垤經》（Vammikasutta，MN 23）是一則謎語＋解謎的經。深夜有天神來到尊者鳩摩羅迦葉面前，出了一連串謎題：一座夜間冒煙、白晝燃燒的「蟻丘」，被人拿鐵鍬不斷挖掘，陸續挖出門閂、青蛙、岔路、篩子、龜、屠宰場、肉塊，最後見到一條那伽。佛陀替他一一解謎：蟻丘是這具身體，鐵鍬是智慧，挖掘是精進，而挖出的各物分別是無明、憤怒、疑、五蓋、五取蘊、五欲、喜貪等障礙，最深處的那伽則是解脫者。"
+      },
+      {
+        "q": "為什麼五蓋被比喻成「篩子」？",
+        "a": "《蟻垤經》只明白給出對應關係——「篩子」就是「五蓋」的代稱，並配上口訣「舉起篩子，捨棄五蓋」——但經文本身並沒有解釋為什麼挑「篩子」這個意象。所以嚴格依原典，我們只能說五蓋在這則謎語裡以篩子作象徵、是要被舉起丟掉的一層障礙；至於篩子與五蓋之間更細的比喻理由，經文沒有展開，本頁也不替它補寫。"
+      },
+      {
+        "q": "打坐時昏沉、掉舉怎麼辦？",
+        "a": "昏沉（惛沉睡眠蓋）和掉舉（掉舉惡作蓋）正是五蓋裡的兩個。《蟻垤經》給的方向是把五蓋當作一整層障礙來處理：以「挖掘」（精進）為動作、以「鐵鍬」（智慧）為工具，把這層篩子「舉起、捨棄」。不過這則謎語並沒有逐一開出對治每一蓋的具體技巧；想找針對個別蓋的觀察與對治方法，可參〈念處實修〉裡五蓋隨觀的部分。"
+      },
+      {
+        "q": "《蟻垤經》這則謎語的完整謎底是什麼？",
+        "a": "依佛陀的解答：蟻丘＝這具四大所成的身體；夜間冒煙＝夜裡反覆思量白天的事；白晝燃燒＝白天以身語意付諸行動；婆羅門＝如來（正自覺者）；聰慧者＝有學比丘；鐵鍬＝聖慧；挖掘＝精進；門閂＝無明；青蛙＝憤怒煩惱；岔路＝疑；篩子＝五蓋；龜＝五取蘊；屠宰場＝五欲功德；肉塊＝喜與貪；那伽（大龍）＝漏盡的解脫比丘。除了最後的那伽是「安住、禮敬」，其餘每一物都配著「舉起、捨棄」的口訣。"
+      }
+    ],
+    "related_topics": [
+      "satipatthana-practice",
+      "five-aggregates",
+      "vipassana"
+    ],
+    "related_suttas": [
+      "mn23"
+    ],
+    "related_lexicon": [
+      "nivarana",
+      "kamacchanda",
+      "vicikiccha",
+      "avijja"
+    ]
+  },
+  "en": {
+    "title": "The Five Hindrances (pañca nīvaraṇa)",
+    "seo_title": "What Are the Five Hindrances? The Anthill Riddle of the Vammika Sutta (MN 23)",
+    "seo_description": "The five hindrances (sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, doubt) are the classic obstacles to meditation. Rather than a bullet list, this page reads the \"anthill riddle\" of the Pali Vammika Sutta (MN 23): a deity's riddle, decoded by the Buddha—the sieve is the five hindrances, the bar is ignorance, the fork is doubt, the tortoise is the five aggregates—dug out layer by layer with energy (digging) and wisdom (the knife), until one reaches the naga (the liberated one).",
+    "question": "What are the \"five hindrances\" in Buddhism, and how does the Vammika Sutta present them?",
+    "definition": "The five hindrances (pañca nīvaraṇa) are five states that veil and obstruct the mind: sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt—the principal obstacles to meditation, and especially to concentration. In the Vammika Sutta (MN 23) the Buddha likens the five hindrances to a \"sieve\": one obstacle dug up while excavating the anthill of body-and-mind, to be \"lifted out and abandoned,\" set alongside the bar (ignorance), the fork in the road (doubt), the tortoise (the five aggregates), and dug out layer by layer with energy (digging) and wisdom (the knife).",
+    "sections": [
+      {
+        "heading": "What the Vammika Sutta is about: a deity's late-night riddle",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:1.4"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:2.1",
+              "mn23:2.2",
+              "mn23:2.3"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "The setting of the Vammika Sutta (Pali Vammikasutta, MN 23, \"the Anthill Discourse\") is this: while the venerable Kumārakassapa is staying in the Blind Men's Grove, one night a radiant deity lights up the whole grove, comes to him, and drops a riddle in his lap. This \"anthill,\" the deity says, smokes by night and blazes by day; a brahmin tells a wise man, \"Dig on without stopping—take up the knife.\" So the digger goes down, spadeful by spadeful, turning up in turn a bar, a toad, a fork in the road, a sieve, a tortoise, a slaughterhouse, a lump of meat, and finally a nāga (a great dragon-serpent).",
+          "The deity leaves this string of questions for Kumārakassapa to put to the Buddha—for no one but the Tathāgata and his disciples can solve them. The whole discourse is therefore a riddle-and-solution structure: the deity throws out a sequence of images, and the Buddha reveals, one by one, what obstacle on the path each image stands for. The five hindrances are not the whole riddle, only one thing that is dug up; but precisely because they are set within this string of images, we get to meet them as a story rather than as a list."
+        ]
+      },
+      {
+        "heading": "The key to the riddle: the anthill is the body, the knife is wisdom, digging is energy",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.1"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.6",
+              "mn23:4.7",
+              "mn23:4.8",
+              "mn23:4.9"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "The next day Kumārakassapa brings the whole string of questions to the Buddha, who unpacks it item by item. First, the \"anthill\" is nothing other than this very body—made of the four great elements (earth, water, fire, air), born of mother and father, built up from boiled rice and porridge, impermanent by nature, and destined to be rubbed and worn down and finally to break up. The \"smoke by night\" is thinking over and turning about by night the things done during the day; the \"blaze by day\" is acting during the day, by body, speech, and mind, on what was mulled over at night—body-and-mind smouldering around the clock. This smoking, blazing anthill is us.",
+          "As for the riddle's characters and tools, the Buddha matches each in turn: the \"brahmin\" is the arahant, the fully awakened one (the Buddha himself); the \"wise one / clever man\" is a monk still in training; the \"knife\" is noble wisdom (paññā); and \"digging\" is the arousing of energy. Put together, it is a clear picture: a monk in training, following the Buddha's instruction, takes wisdom as his tool and energy as his action, and digs down layer by layer into the depths of his own body-and-mind. Everything he then unearths is an obstacle standing in the way, to be recognized and cleared out."
+        ]
+      },
+      {
+        "heading": "Obstacles dug up layer by layer: the bar is ignorance, the toad is anger, the fork is doubt",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.10",
+              "mn23:4.11",
+              "mn23:4.12"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.16",
+              "mn23:4.17",
+              "mn23:4.18"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "As the digger goes down, the first thing turned up is a \"bar\" (a bolt)—which the Buddha says is \"ignorance,\" so the refrain runs: \"Lift out the bar, abandon ignorance.\" Deeper down is a swollen \"toad,\" standing for \"anger and vexation\" (kodhūpāyāsa): \"lift out the toad, abandon anger.\" Then he digs up a \"fork in the road,\" which the Buddha identifies as \"doubt\" (vicikicchā)—the wavering of someone who reaches a fork and cannot tell which way to go: \"lift out the fork, abandon doubt.\"",
+          "With each thing dug up the pattern is the same: first recognize which obstacle it is, then be told to \"lift it out and abandon it,\" then repeat the line \"dig on, wise one, take up your tool and go.\" From beginning to end the riddle is not asking anyone to collect what is unearthed, but to recognize it and then throw it away, clearing deeper with each layer. Worth noting here is the \"fork = doubt\": this same doubt will appear once more in the list of the five hindrances—the riddle lets it show its face alone first, then folds it into a fuller set of obstacles."
+        ]
+      },
+      {
+        "heading": "The sieve is the five hindrances: the heart of this page",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:2.19",
+              "mn23:2.20",
+              "mn23:2.21"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.19",
+              "mn23:4.20",
+              "mn23:4.21"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "In the narrative of the riddle, the digger takes up his tool and goes on down until he strikes a \"sieve\"; the brahmin, as before, says, \"Lift out the sieve, dig on.\" It is only when the Buddha solves the riddle that the sieve's meaning is revealed—he says plainly: the sieve is the designation for the \"five hindrances\" (pañca nīvaraṇa), and names them one by one: the hindrance of sensual desire, of ill will, of dullness-and-drowsiness, of restlessness-and-remorse, and of doubt. The refrain is unchanged: \"Lift out the sieve, abandon the five hindrances.\"",
+          "These five are called \"hindrances\" (literally coverings) because they cover and veil the mind like a lid, so that it cannot settle and cannot see clearly—hence they are the principal obstacles on the way into concentration. The \"doubt\" answered by the \"fork\" one layer up is now, precisely, the fifth of the five hindrances: the same obstacle appears first alone as the \"fork,\" then is gathered into the fuller list of \"the sieve = the five hindrances.\" In the whole excavation picture, the five hindrances are one layer that must be lifted out and cleared before what lies deeper (the five aggregates, and further down the liberated one). It should be said that the text gives only the correspondence \"sieve = five hindrances\" and the instruction \"lift out = abandon\"; it does not go on to explain why the image of a \"sieve\" was chosen, and we do not supply that reason on the text's behalf."
+        ]
+      },
+      {
+        "heading": "After the sieve: the tortoise is the five aggregates, down to the nāga (the liberated one)",
+        "quotes": [
+          {
+            "segment_ids": [
+              "mn23:4.23",
+              "mn23:4.24",
+              "mn23:4.25"
+            ],
+            "sutta": "mn23"
+          },
+          {
+            "segment_ids": [
+              "mn23:4.38",
+              "mn23:4.39"
+            ],
+            "sutta": "mn23"
+          }
+        ],
+        "paragraphs": [
+          "After the sieve (the five hindrances) is cleared, the digger keeps going. Next he turns up a \"tortoise\"—which the Buddha says is the \"five aggregates subject to clinging\": the form-, feeling-, perception-, formations-, and consciousness-aggregates of clinging, so \"lift out the tortoise, abandon the five aggregates of clinging.\" Deeper still are a \"slaughterhouse\" standing for the \"five cords of sensual pleasure\" (the alluring objects of the five senses that provoke attachment) and a \"lump of meat\" standing for \"delight-and-lust\" (nandīrāga)—each, likewise, to be \"lifted out and abandoned.\"",
+          "At the very bottom of the dig, what he meets is a \"nāga\" (a great dragon-serpent)—which the Buddha says is \"the taint-free monk,\" the liberated one whose defilements are exhausted. For this one the instruction is no longer \"lift out and abandon\" but its reverse: \"Let the nāga stand, do not disturb it, pay homage to it.\" The whole riddle thus has a clear direction: from the surface—that body smouldering day and night—down through ignorance, anger, doubt, the five hindrances, the five aggregates of clinging, the five cords of sense pleasure, and delight-and-lust, all the way to the one who can be dug no further and can only be revered. Placed on this route, the five hindrances are a layer that must be crossed but is not the destination—and this is exactly the distinctive position the Vammika Sutta gives them: not an isolated list, but one stratum in a whole excavation."
+        ]
+      }
+    ],
+    "mahayana_note": "The list of the five hindrances (sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, doubt) is shared across the Theravāda, the early schools, and Mahāyāna, appearing widely in the meditation and calm-and-insight literature of each as common obstacles to concentration. East Asian Buddhism likewise speaks of \"the five hindrances\" and \"removing the five hindrances,\" and its calm-abiding and seated-meditation traditions take over this set of obstacles while developing their own methods and stages for countering them. This page presents only the single simile \"sieve = five hindrances\" from the Pali Vammika Sutta (MN 23) and its context; it does not enter into the detailed antidote schemes of the various traditions, nor rank one account above another.",
+    "faq": [
+      {
+        "q": "What are the five hindrances?",
+        "a": "By the Buddha's own naming in the Vammika Sutta, the five hindrances (pañca nīvaraṇa) are: sensual desire, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt. They are called \"hindrances\" because, like a lid, they cover the mind and keep it from settling and seeing clearly, and so are the principal obstacles to meditative concentration. To see how the five hindrances are examined one by one under the fourth foundation of mindfulness (mindfulness of dhammas), see this site's page on satipatthana practice; this page focuses on the story in which the Vammika Sutta likens the five hindrances to a \"sieve.\""
+      },
+      {
+        "q": "What is the Vammika Sutta (the Anthill Discourse) about?",
+        "a": "The Vammika Sutta (MN 23) is a riddle-and-solution discourse. One night a deity comes to the venerable Kumārakassapa and poses a string of riddles: an \"anthill\" that smokes by night and blazes by day is dug into with a knife, turning up in turn a bar, a toad, a fork in the road, a sieve, a tortoise, a slaughterhouse, and a lump of meat, until a nāga is reached. The Buddha solves each: the anthill is this body, the knife is wisdom, digging is energy, and the things dug up are ignorance, anger, doubt, the five hindrances, the five aggregates of clinging, the five cords of sense pleasure, and delight-and-lust; the nāga at the deepest point is the liberated one."
+      },
+      {
+        "q": "Why are the five hindrances likened to a \"sieve\"?",
+        "a": "The Vammika Sutta gives only the correspondence—the \"sieve\" is the designation for the \"five hindrances,\" paired with the refrain \"lift out the sieve, abandon the five hindrances\"—but the text itself does not explain why the image of a sieve was chosen. So, keeping strictly to the source, all we can say is that in this riddle the five hindrances are symbolized by a sieve, a layer of obstacle to be lifted out and thrown away; as for any finer reason connecting sieve and hindrances, the text does not spell it out, and this page does not fill it in on the text's behalf."
+      },
+      {
+        "q": "What can I do about drowsiness and restlessness in meditation?",
+        "a": "Drowsiness (the dullness-and-drowsiness hindrance) and restlessness (the restlessness-and-remorse hindrance) are two of the five hindrances. The direction the Vammika Sutta gives is to treat the five hindrances as one whole layer of obstacle: with \"digging\" (energy) as the action and the \"knife\" (wisdom) as the tool, lift this sieve out and abandon it. This riddle, however, does not lay out specific techniques for countering each hindrance one by one; for observation and antidotes aimed at individual hindrances, see the section on contemplating the five hindrances in the satipatthana practice page."
+      },
+      {
+        "q": "What is the complete solution to the Vammika Sutta's riddle?",
+        "a": "By the Buddha's answers: the anthill = this body made of the four elements; smoke by night = mulling over by night the day's affairs; blaze by day = acting by day through body, speech, and mind; the brahmin = the Tathāgata (the fully awakened one); the wise one = a monk in training; the knife = noble wisdom; digging = energy; the bar = ignorance; the toad = anger and vexation; the fork in the road = doubt; the sieve = the five hindrances; the tortoise = the five aggregates of clinging; the slaughterhouse = the five cords of sense pleasure; the lump of meat = delight-and-lust; the nāga (great dragon-serpent) = the taint-free, liberated monk. Except for the nāga at the end, which is to be \"left standing and revered,\" every item comes with the refrain \"lift out and abandon.\""
+      }
+    ],
+    "related_topics": [
+      "satipatthana-practice",
+      "five-aggregates",
+      "vipassana"
+    ],
+    "related_suttas": [
+      "mn23"
+    ],
+    "related_lexicon": [
+      "nivarana",
+      "kamacchanda",
+      "vicikiccha",
+      "avijja"
+    ]
+  }
+}
