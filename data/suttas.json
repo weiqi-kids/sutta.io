@@ -169,8 +169,8 @@
   },
   {
     "id": "mn28",
-    "title_pali": "MN28",
-    "title_zh": "mn28",
+    "title_pali": "Mahāhatthipadopamasutta",
+    "title_zh": "象跡喻大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -241,8 +241,8 @@
   },
   {
     "id": "mn36",
-    "title_pali": "MN36",
-    "title_zh": "mn36",
+    "title_pali": "Mahāsaccakasutta",
+    "title_zh": "薩遮迦大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -257,8 +257,8 @@
   },
   {
     "id": "mn38",
-    "title_pali": "MN38",
-    "title_zh": "mn38",
+    "title_pali": "Mahātaṇhāsaṅkhayasutta",
+    "title_zh": "愛盡大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "hasParallel": true
@@ -349,14 +349,6 @@
     "title_zh": "正見經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
-    "hasParallel": true
-  },
-  {
-    "id": "sn56.11",
-    "title_pali": "Dhammacakkappavattanasutta",
-    "title_zh": "轉法輪經",
-    "collection": "Saṃyutta Nikāya",
-    "collection_zh": "相應部",
     "hasParallel": true
   }
 ]

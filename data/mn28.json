@@ -1,8 +1,8 @@
 {
   "sutta": {
     "id": "mn28",
-    "title_pali": "MN28",
-    "title_zh": "mn28",
+    "title_pali": "Mahāhatthipadopamasutta",
+    "title_zh": "象跡喻大經",
     "collection": "Majjhima Nikāya",
     "collection_zh": "中部",
     "source": "suttacentral:mn28"
@@ -167,7 +167,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.1.t0",
+          "mn28:1.1.t1",
+          "mn28:1.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "如是我聞。"
+      }
     },
     {
       "segment_id": "mn28:1.2",
@@ -506,7 +515,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.2.t0",
+          "mn28:1.2.t1",
+          "mn28:1.2.t2",
+          "mn28:1.2.t3",
+          "mn28:1.2.t4",
+          "mn28:1.2.t5",
+          "mn28:1.2.t6",
+          "mn28:1.2.t7"
+        ],
+        "review_status": "approved",
+        "content": "一時，世尊住在舍衛城祇樹給孤獨園。"
+      }
     },
     {
       "segment_id": "mn28:1.3",
@@ -704,7 +727,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.3.t0",
+          "mn28:1.3.t1",
+          "mn28:1.3.t2",
+          "mn28:1.3.t3",
+          "mn28:1.3.t4",
+          "mn28:1.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "那時，尊者舍利弗召喚諸比丘："
+      }
     },
     {
       "segment_id": "mn28:1.4",
@@ -765,7 +800,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.4.t0",
+          "mn28:1.4.t1",
+          "mn28:1.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "「諸位法友！」"
+      }
     },
     {
       "segment_id": "mn28:1.5",
@@ -1049,7 +1093,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.5.t0",
+          "mn28:1.5.t1",
+          "mn28:1.5.t2",
+          "mn28:1.5.t3",
+          "mn28:1.5.t4",
+          "mn28:1.5.t5",
+          "mn28:1.5.t6",
+          "mn28:1.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘回答尊者舍利弗：「法友！」"
+      }
     },
     {
       "segment_id": "mn28:1.6",
@@ -1155,7 +1213,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:1.6.t0",
+          "mn28:1.6.t1",
+          "mn28:1.6.t2"
+        ],
+        "review_status": "approved",
+        "content": "尊者舍利弗如此說："
+      }
     },
     {
       "segment_id": "mn28:2.1",
@@ -1636,7 +1703,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:2.1.t0",
+          "mn28:2.1.t1",
+          "mn28:2.1.t2",
+          "mn28:2.1.t3",
+          "mn28:2.1.t4",
+          "mn28:2.1.t5",
+          "mn28:2.1.t6",
+          "mn28:2.1.t7",
+          "mn28:2.1.t8",
+          "mn28:2.1.t9",
+          "mn28:2.1.t10",
+          "mn28:2.1.t11",
+          "mn28:2.1.t12",
+          "mn28:2.1.t13",
+          "mn28:2.1.t14",
+          "mn28:2.1.t15",
+          "mn28:2.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "「諸位法友，猶如一切走獸的種種足跡，都可攝入象跡之中，象跡因其巨大，被稱為其中最勝者，"
+      }
     },
     {
       "segment_id": "mn28:2.2",
@@ -2036,7 +2126,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:2.2.t0",
+          "mn28:2.2.t1",
+          "mn28:2.2.t2",
+          "mn28:2.2.t3",
+          "mn28:2.2.t4",
+          "mn28:2.2.t5",
+          "mn28:2.2.t6",
+          "mn28:2.2.t7",
+          "mn28:2.2.t8",
+          "mn28:2.2.t9",
+          "mn28:2.2.t10",
+          "mn28:2.2.t11"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，諸位法友，凡是一切善法，都攝入四聖諦之中。"
+      }
     },
     {
       "segment_id": "mn28:2.3",
@@ -2101,7 +2209,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:2.3.t0",
+          "mn28:2.3.t1"
+        ],
+        "review_status": "approved",
+        "content": "是哪四種呢？"
+      }
     },
     {
       "segment_id": "mn28:2.4",
@@ -2449,7 +2565,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:2.4.t0",
+          "mn28:2.4.t1",
+          "mn28:2.4.t2",
+          "mn28:2.4.t3",
+          "mn28:2.4.t4",
+          "mn28:2.4.t5",
+          "mn28:2.4.t6",
+          "mn28:2.4.t7",
+          "mn28:2.4.t8"
+        ],
+        "review_status": "approved",
+        "content": "苦聖諦、苦集聖諦、苦滅聖諦、導向苦滅之道聖諦。"
+      }
     },
     {
       "segment_id": "mn28:3.1",
@@ -2580,7 +2711,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:3.1.t0",
+          "mn28:3.1.t1",
+          "mn28:3.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是苦聖諦呢？"
+      }
     },
     {
       "segment_id": "mn28:3.2",
@@ -3306,7 +3446,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:3.2.t0",
+          "mn28:3.2.t1",
+          "mn28:3.2.t2",
+          "mn28:3.2.t3",
+          "mn28:3.2.t4",
+          "mn28:3.2.t5",
+          "mn28:3.2.t6",
+          "mn28:3.2.t7",
+          "mn28:3.2.t8",
+          "mn28:3.2.t9",
+          "mn28:3.2.t10",
+          "mn28:3.2.t11",
+          "mn28:3.2.t12",
+          "mn28:3.2.t13",
+          "mn28:3.2.t14",
+          "mn28:3.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "生是苦，老是苦，死是苦，愁、悲、苦、憂、惱是苦，所求不得也是苦；簡而言之，五取蘊就是苦。"
+      }
     },
     {
       "segment_id": "mn28:3.3",
@@ -3400,7 +3562,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:3.3.t0",
+          "mn28:3.3.t1",
+          "mn28:3.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是五取蘊呢？"
+      }
     },
     {
       "segment_id": "mn28:3.4",
@@ -3502,7 +3673,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:3.4.t0",
+          "mn28:3.4.t1",
+          "mn28:3.4.t2",
+          "mn28:3.4.t3",
+          "mn28:3.4.t4",
+          "mn28:3.4.t5"
+        ],
+        "review_status": "approved",
+        "content": "即是：色取蘊、受取蘊、想取蘊、行取蘊、識取蘊。"
+      }
     },
     {
       "segment_id": "mn28:4.1",
@@ -3558,7 +3741,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:4.1.t0",
+          "mn28:4.1.t1",
+          "mn28:4.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是色取蘊呢？"
+      }
     },
     {
       "segment_id": "mn28:4.2",
@@ -3851,7 +4043,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:4.2.t0",
+          "mn28:4.2.t1",
+          "mn28:4.2.t2",
+          "mn28:4.2.t3",
+          "mn28:4.2.t4",
+          "mn28:4.2.t5",
+          "mn28:4.2.t6"
+        ],
+        "review_status": "approved",
+        "content": "是四大界，以及依四大界而有的色。"
+      }
     },
     {
       "segment_id": "mn28:5.1",
@@ -4006,7 +4211,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:5.1.t0",
+          "mn28:5.1.t1",
+          "mn28:5.1.t2",
+          "mn28:5.1.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是四大界呢？"
+      }
     },
     {
       "segment_id": "mn28:5.2",
@@ -4112,7 +4327,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:5.2.t0",
+          "mn28:5.2.t1",
+          "mn28:5.2.t2",
+          "mn28:5.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "地界、水界、火界、風界。"
+      }
     },
     {
       "segment_id": "mn28:6.1",
@@ -4197,7 +4422,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.1.t0",
+          "mn28:6.1.t1",
+          "mn28:6.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是地界呢？"
+      }
     },
     {
       "segment_id": "mn28:6.2",
@@ -4398,7 +4632,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.2.t0",
+          "mn28:6.2.t1",
+          "mn28:6.2.t2",
+          "mn28:6.2.t3",
+          "mn28:6.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "地界可以是內在的，也可以是外在的。"
+      }
     },
     {
       "segment_id": "mn28:6.3",
@@ -4553,7 +4798,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.3.t0",
+          "mn28:6.3.t1",
+          "mn28:6.3.t2",
+          "mn28:6.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，什麼是內地界呢？"
+      }
     },
     {
       "segment_id": "mn28:6.4",
@@ -4883,7 +5138,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.4.t0",
+          "mn28:6.4.t1",
+          "mn28:6.4.t2",
+          "mn28:6.4.t3",
+          "mn28:6.4.t4",
+          "mn28:6.4.t5",
+          "mn28:6.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是內在的、個別的、堅硬的、粗澀的、被執取的，即是："
+      }
     },
     {
       "segment_id": "mn28:6.5",
@@ -6251,7 +6519,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.5.t0",
+          "mn28:6.5.t1",
+          "mn28:6.5.t2",
+          "mn28:6.5.t3",
+          "mn28:6.5.t4",
+          "mn28:6.5.t5",
+          "mn28:6.5.t6",
+          "mn28:6.5.t7",
+          "mn28:6.5.t8",
+          "mn28:6.5.t9",
+          "mn28:6.5.t10",
+          "mn28:6.5.t11",
+          "mn28:6.5.t12",
+          "mn28:6.5.t13",
+          "mn28:6.5.t14",
+          "mn28:6.5.t15",
+          "mn28:6.5.t16",
+          "mn28:6.5.t17",
+          "mn28:6.5.t18",
+          "mn28:6.5.t19",
+          "mn28:6.5.t20",
+          "mn28:6.5.t21",
+          "mn28:6.5.t22",
+          "mn28:6.5.t23",
+          "mn28:6.5.t24",
+          "mn28:6.5.t25",
+          "mn28:6.5.t26",
+          "mn28:6.5.t27"
+        ],
+        "review_status": "approved",
+        "content": "髮、毛、爪、齒、皮、肉、筋、骨、骨髓、腎、心、肝、肋膜、脾、肺、腸、腸間膜、胃中物、糞便，或任何其他內在的、個別的、堅硬的、粗澀的、被執取之物。"
+      }
     },
     {
       "segment_id": "mn28:6.6",
@@ -6442,7 +6744,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.6.t0",
+          "mn28:6.6.t1",
+          "mn28:6.6.t2",
+          "mn28:6.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，這就稱為內地界。"
+      }
     },
     {
       "segment_id": "mn28:6.7",
@@ -6896,7 +7208,23 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.7.t0",
+          "mn28:6.7.t1",
+          "mn28:6.7.t2",
+          "mn28:6.7.t3",
+          "mn28:6.7.t4",
+          "mn28:6.7.t5",
+          "mn28:6.7.t6",
+          "mn28:6.7.t7",
+          "mn28:6.7.t8",
+          "mn28:6.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡是內地界，以及外地界，這都只是地界而已。"
+      }
     },
     {
       "segment_id": "mn28:6.8",
@@ -7382,7 +7710,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.8.t0",
+          "mn28:6.8.t1",
+          "mn28:6.8.t2",
+          "mn28:6.8.t3",
+          "mn28:6.8.t4",
+          "mn28:6.8.t5",
+          "mn28:6.8.t6",
+          "mn28:6.8.t7",
+          "mn28:6.8.t8",
+          "mn28:6.8.t9",
+          "mn28:6.8.t10",
+          "mn28:6.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "『這不是我的，我不是這個，這不是我的自我』：應當如此以正慧如實觀之。"
+      }
     },
     {
       "segment_id": "mn28:6.9",
@@ -7722,7 +8068,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:6.9.t0",
+          "mn28:6.9.t1",
+          "mn28:6.9.t2",
+          "mn28:6.9.t3",
+          "mn28:6.9.t4",
+          "mn28:6.9.t5",
+          "mn28:6.9.t6",
+          "mn28:6.9.t7",
+          "mn28:6.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "如此以正慧如實見已，便厭離地界，於地界令心離貪。"
+      }
     },
     {
       "segment_id": "mn28:7.1",
@@ -8002,7 +8363,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:7.1.t0",
+          "mn28:7.1.t1",
+          "mn28:7.1.t2",
+          "mn28:7.1.t3",
+          "mn28:7.1.t4",
+          "mn28:7.1.t5",
+          "mn28:7.1.t6",
+          "mn28:7.1.t7",
+          "mn28:7.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，有這樣的時候，外水界會動盪。"
+      }
     },
     {
       "segment_id": "mn28:7.2",
@@ -8292,7 +8668,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:7.2.t0",
+          "mn28:7.2.t1",
+          "mn28:7.2.t2",
+          "mn28:7.2.t3",
+          "mn28:7.2.t4",
+          "mn28:7.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "在那個時候，外地界便會消失。"
+      }
     },
     {
       "segment_id": "mn28:7.3",
@@ -8872,7 +9260,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:7.3.t0",
+          "mn28:7.3.t1",
+          "mn28:7.3.t2",
+          "mn28:7.3.t3",
+          "mn28:7.3.t4",
+          "mn28:7.3.t5",
+          "mn28:7.3.t6",
+          "mn28:7.3.t7",
+          "mn28:7.3.t8",
+          "mn28:7.3.t9",
+          "mn28:7.3.t10",
+          "mn28:7.3.t11",
+          "mn28:7.3.t12",
+          "mn28:7.3.t13",
+          "mn28:7.3.t14",
+          "mn28:7.3.t15"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，這外地界如此巨大，尚且會顯現出無常性，會顯現出壞滅之法性，會顯現出消逝之法性，會顯現出變易之法性，"
+      }
     },
     {
       "segment_id": "mn28:7.4",
@@ -9470,7 +9880,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:7.4.t0",
+          "mn28:7.4.t1",
+          "mn28:7.4.t2",
+          "mn28:7.4.t3",
+          "mn28:7.4.t4",
+          "mn28:7.4.t5",
+          "mn28:7.4.t6",
+          "mn28:7.4.t7",
+          "mn28:7.4.t8",
+          "mn28:7.4.t10",
+          "mn28:7.4.t11",
+          "mn28:7.4.t12",
+          "mn28:7.4.t13",
+          "mn28:7.4.t14",
+          "mn28:7.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "更何況這由渴愛所執取、僅存短暫的身體，又哪來『我』、『我的』或『我是』呢？其實這裡根本沒有這回事。"
+      }
     },
     {
       "segment_id": "mn28:8.1",
@@ -9739,7 +10170,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.1.t0",
+          "mn28:8.1.t1",
+          "mn28:8.1.t2",
+          "mn28:8.1.t3",
+          "mn28:8.1.t4",
+          "mn28:8.1.t5",
+          "mn28:8.1.t6",
+          "mn28:8.1.t7",
+          "mn28:8.1.t8",
+          "mn28:8.1.t9",
+          "mn28:8.1.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸位法友，如果有人辱罵、毀謗、激怒、惱害那位比丘，他便如此了知："
+      }
     },
     {
       "segment_id": "mn28:8.2",
@@ -10092,7 +10540,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.2.t0",
+          "mn28:8.2.t1",
+          "mn28:8.2.t2",
+          "mn28:8.2.t3",
+          "mn28:8.2.t4",
+          "mn28:8.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "我生起了這由耳觸所生的苦受，"
+      }
     },
     {
       "segment_id": "mn28:8.3",
@@ -10290,7 +10750,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.3.t0",
+          "mn28:8.3.t1",
+          "mn28:8.3.t2",
+          "mn28:8.3.t3",
+          "mn28:8.3.t4",
+          "mn28:8.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "而這是緣生的，並非無因而生。"
+      }
     },
     {
       "segment_id": "mn28:8.4",
@@ -10391,7 +10863,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.4.t0",
+          "mn28:8.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "緣於什麼呢？"
+      }
     },
     {
       "segment_id": "mn28:8.5",
@@ -10437,7 +10917,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.5.t0",
+          "mn28:8.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "緣觸。"
+      }
     },
     {
       "segment_id": "mn28:8.6",
@@ -11008,7 +11496,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.6.t0",
+          "mn28:8.6.t1",
+          "mn28:8.6.t2",
+          "mn28:8.6.t3",
+          "mn28:8.6.t4",
+          "mn28:8.6.t5",
+          "mn28:8.6.t6",
+          "mn28:8.6.t7",
+          "mn28:8.6.t8",
+          "mn28:8.6.t9",
+          "mn28:8.6.t10",
+          "mn28:8.6.t11",
+          "mn28:8.6.t12",
+          "mn28:8.6.t13",
+          "mn28:8.6.t14",
+          "mn28:8.6.t15"
+        ],
+        "review_status": "approved",
+        "content": "他看見『觸是無常的』，看見『受是無常的』，看見『想是無常的』，看見『諸行是無常的』，看見『識是無常的』。"
+      }
     },
     {
       "segment_id": "mn28:8.7",
@@ -11229,7 +11739,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:8.7.t0",
+          "mn28:8.7.t1",
+          "mn28:8.7.t2",
+          "mn28:8.7.t3",
+          "mn28:8.7.t4",
+          "mn28:8.7.t5",
+          "mn28:8.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "他的心因此只以『界』為所緣，躍入其中、變得清淨、安住不動、堅定信解。"
+      }
     },
     {
       "segment_id": "mn28:9.1",
@@ -11527,7 +12050,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.1.t0",
+          "mn28:9.1.t1",
+          "mn28:9.1.t2",
+          "mn28:9.1.t3",
+          "mn28:9.1.t4",
+          "mn28:9.1.t5",
+          "mn28:9.1.t6",
+          "mn28:9.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若這位比丘因此被他人用不悅意、不合意、不稱心的言語對待，"
+      }
     },
     {
       "segment_id": "mn28:9.2",
@@ -11613,7 +12150,17 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.2.t0",
+          "mn28:9.2.t1",
+          "mn28:9.2.t2",
+          "mn28:9.2.t3"
+        ],
+        "review_status": "approved",
+        "content": "以手掌拍打、以石塊投擲、以棍棒毆打、以刀劍砍刺，"
+      }
     },
     {
       "segment_id": "mn28:9.3",
@@ -11692,7 +12239,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.3.t0",
+          "mn28:9.3.t1",
+          "mn28:9.3.t2"
+        ],
+        "review_status": "approved",
+        "content": "他便如此了知："
+      }
     },
     {
       "segment_id": "mn28:9.4",
@@ -12151,7 +12707,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.4.t0",
+          "mn28:9.4.t1",
+          "mn28:9.4.t2",
+          "mn28:9.4.t3",
+          "mn28:9.4.t4",
+          "mn28:9.4.t5",
+          "mn28:9.4.t6",
+          "mn28:9.4.t7",
+          "mn28:9.4.t8",
+          "mn28:9.4.t9",
+          "mn28:9.4.t10",
+          "mn28:9.4.t11",
+          "mn28:9.4.t12",
+          "mn28:9.4.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這身體本來就是這樣的性質，落在這樣性質的身體上，難免會有手掌的接觸、石塊的接觸、棍棒的接觸、刀劍的接觸落下來。』"
+      }
     },
     {
       "segment_id": "mn28:9.5",
@@ -12348,7 +12924,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.5.t0",
+          "mn28:9.5.t1",
+          "mn28:9.5.t2",
+          "mn28:9.5.t3",
+          "mn28:9.5.t4"
+        ],
+        "review_status": "approved",
+        "content": "世尊在《鋸喻教誡》中曾這樣說過："
+      }
     },
     {
       "segment_id": "mn28:9.6",
@@ -12934,7 +13521,31 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.6.t0",
+          "mn28:9.6.t1",
+          "mn28:9.6.t2",
+          "mn28:9.6.t3",
+          "mn28:9.6.t4",
+          "mn28:9.6.t5",
+          "mn28:9.6.t6",
+          "mn28:9.6.t7",
+          "mn28:9.6.t8",
+          "mn28:9.6.t9",
+          "mn28:9.6.t10",
+          "mn28:9.6.t11",
+          "mn28:9.6.t12",
+          "mn28:9.6.t13",
+          "mn28:9.6.t14",
+          "mn28:9.6.t15",
+          "mn28:9.6.t16",
+          "mn28:9.6.t17"
+        ],
+        "review_status": "approved",
+        "content": "『諸比丘，即使盜賊以雙柄鋸將人的肢節一一鋸斷，若因此而心生污穢，此人就不是奉行我教法之人。』"
+      }
     },
     {
       "segment_id": "mn28:9.7",
@@ -13714,7 +14325,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.7.t0",
+          "mn28:9.7.t1",
+          "mn28:9.7.t2",
+          "mn28:9.7.t3",
+          "mn28:9.7.t4",
+          "mn28:9.7.t5",
+          "mn28:9.7.t6",
+          "mn28:9.7.t7",
+          "mn28:9.7.t8",
+          "mn28:9.7.t9",
+          "mn28:9.7.t10",
+          "mn28:9.7.t11",
+          "mn28:9.7.t12",
+          "mn28:9.7.t13",
+          "mn28:9.7.t14",
+          "mn28:9.7.t15"
+        ],
+        "review_status": "approved",
+        "content": "『我的精進將會奮起而不鬆懈，正念現前而不散亂，身將輕安而不躁動，心將專注而一境。』"
+      }
     },
     {
       "segment_id": "mn28:9.8",
@@ -14234,7 +14867,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:9.8.t0",
+          "mn28:9.8.t1",
+          "mn28:9.8.t2",
+          "mn28:9.8.t3",
+          "mn28:9.8.t4",
+          "mn28:9.8.t5",
+          "mn28:9.8.t6",
+          "mn28:9.8.t7",
+          "mn28:9.8.t8",
+          "mn28:9.8.t9",
+          "mn28:9.8.t10",
+          "mn28:9.8.t11",
+          "mn28:9.8.t12",
+          "mn28:9.8.t13",
+          "mn28:9.8.t14",
+          "mn28:9.8.t16"
+        ],
+        "review_status": "approved",
+        "content": "『現在，就任由這身體承受手掌的接觸、石塊的接觸、棍棒的接觸、刀劍的接觸吧，因為這正是奉行諸佛教法之道。』"
+      }
     },
     {
       "segment_id": "mn28:10.1",
@@ -14857,7 +15512,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.1.t0",
+          "mn28:10.1.t1",
+          "mn28:10.1.t2",
+          "mn28:10.1.t3",
+          "mn28:10.1.t4",
+          "mn28:10.1.t5",
+          "mn28:10.1.t6",
+          "mn28:10.1.t7",
+          "mn28:10.1.t8",
+          "mn28:10.1.t9",
+          "mn28:10.1.t10",
+          "mn28:10.1.t11",
+          "mn28:10.1.t12",
+          "mn28:10.1.t13",
+          "mn28:10.1.t14",
+          "mn28:10.1.t15",
+          "mn28:10.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧，而依於善法的捨心仍無法安立，"
+      }
     },
     {
       "segment_id": "mn28:10.2",
@@ -14985,7 +15663,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.2.t0",
+          "mn28:10.2.t1",
+          "mn28:10.2.t2",
+          "mn28:10.2.t3",
+          "mn28:10.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "他便因此而生起悚懼，陷入激動不安。"
+      }
     },
     {
       "segment_id": "mn28:10.3",
@@ -15627,7 +16316,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.3.t0",
+          "mn28:10.3.t1",
+          "mn28:10.3.t2",
+          "mn28:10.3.t3",
+          "mn28:10.3.t4",
+          "mn28:10.3.t5",
+          "mn28:10.3.t6",
+          "mn28:10.3.t7",
+          "mn28:10.3.t8",
+          "mn28:10.3.t9",
+          "mn28:10.3.t10",
+          "mn28:10.3.t11",
+          "mn28:10.3.t12",
+          "mn28:10.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "『這對我來說是損失，不是獲益；這對我來說是不善得，不是善得，』"
+      }
     },
     {
       "segment_id": "mn28:10.4",
@@ -16294,7 +17003,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.4.t0",
+          "mn28:10.4.t1",
+          "mn28:10.4.t2",
+          "mn28:10.4.t3",
+          "mn28:10.4.t4",
+          "mn28:10.4.t5",
+          "mn28:10.4.t6",
+          "mn28:10.4.t7",
+          "mn28:10.4.t8",
+          "mn28:10.4.t9",
+          "mn28:10.4.t10",
+          "mn28:10.4.t11",
+          "mn28:10.4.t12",
+          "mn28:10.4.t13",
+          "mn28:10.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "『因為我如此憶念佛、如此憶念法、如此憶念僧，依於善法的捨心卻仍無法安立。』"
+      }
     },
     {
       "segment_id": "mn28:10.5",
@@ -16463,7 +17193,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.5.t0",
+          "mn28:10.5.t1",
+          "mn28:10.5.t2",
+          "mn28:10.5.t3",
+          "mn28:10.5.t4",
+          "mn28:10.5.t5",
+          "mn28:10.5.t6",
+          "mn28:10.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，猶如媳婦看見公公時，便心生悚懼、陷入激動不安，"
+      }
     },
     {
       "segment_id": "mn28:10.6",
@@ -17253,7 +17997,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.6.t0",
+          "mn28:10.6.t1",
+          "mn28:10.6.t2",
+          "mn28:10.6.t3",
+          "mn28:10.6.t4",
+          "mn28:10.6.t5",
+          "mn28:10.6.t6",
+          "mn28:10.6.t7",
+          "mn28:10.6.t8",
+          "mn28:10.6.t9",
+          "mn28:10.6.t10",
+          "mn28:10.6.t11",
+          "mn28:10.6.t12",
+          "mn28:10.6.t13",
+          "mn28:10.6.t14",
+          "mn28:10.6.t15",
+          "mn28:10.6.t16",
+          "mn28:10.6.t17",
+          "mn28:10.6.t18",
+          "mn28:10.6.t19",
+          "mn28:10.6.t20",
+          "mn28:10.6.t21",
+          "mn28:10.6.t22",
+          "mn28:10.6.t23"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧，而依於善法的捨心仍無法安立，他便因此而生起悚懼，陷入激動不安。"
+      }
     },
     {
       "segment_id": "mn28:10.7",
@@ -18556,7 +19330,42 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.7.t0",
+          "mn28:10.7.t1",
+          "mn28:10.7.t2",
+          "mn28:10.7.t3",
+          "mn28:10.7.t4",
+          "mn28:10.7.t5",
+          "mn28:10.7.t6",
+          "mn28:10.7.t7",
+          "mn28:10.7.t8",
+          "mn28:10.7.t9",
+          "mn28:10.7.t10",
+          "mn28:10.7.t11",
+          "mn28:10.7.t12",
+          "mn28:10.7.t13",
+          "mn28:10.7.t14",
+          "mn28:10.7.t15",
+          "mn28:10.7.t16",
+          "mn28:10.7.t17",
+          "mn28:10.7.t18",
+          "mn28:10.7.t19",
+          "mn28:10.7.t20",
+          "mn28:10.7.t21",
+          "mn28:10.7.t22",
+          "mn28:10.7.t23",
+          "mn28:10.7.t24",
+          "mn28:10.7.t25",
+          "mn28:10.7.t26",
+          "mn28:10.7.t27",
+          "mn28:10.7.t29"
+        ],
+        "review_status": "approved",
+        "content": "『這對我來說是損失，不是獲益；這對我來說是不善得，不是善得，因為我如此憶念佛、如此憶念法、如此憶念僧，依於善法的捨心卻仍無法安立。』"
+      }
     },
     {
       "segment_id": "mn28:10.8",
@@ -19271,7 +20080,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.8.t0",
+          "mn28:10.8.t1",
+          "mn28:10.8.t2",
+          "mn28:10.8.t3",
+          "mn28:10.8.t4",
+          "mn28:10.8.t5",
+          "mn28:10.8.t6",
+          "mn28:10.8.t7",
+          "mn28:10.8.t8",
+          "mn28:10.8.t9",
+          "mn28:10.8.t10",
+          "mn28:10.8.t11",
+          "mn28:10.8.t12",
+          "mn28:10.8.t13",
+          "mn28:10.8.t14",
+          "mn28:10.8.t15",
+          "mn28:10.8.t16",
+          "mn28:10.8.t17",
+          "mn28:10.8.t18",
+          "mn28:10.8.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧，依於善法的捨心因而安立，他便因此心生歡喜。"
+      }
     },
     {
       "segment_id": "mn28:10.9",
@@ -19429,7 +20264,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:10.9.t0",
+          "mn28:10.9.t1",
+          "mn28:10.9.t2",
+          "mn28:10.9.t3",
+          "mn28:10.9.t4",
+          "mn28:10.9.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，單只到這個程度，這位比丘就已經成就了很多。"
+      }
     },
     {
       "segment_id": "mn28:11.1",
@@ -19514,7 +20361,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.1.t0",
+          "mn28:11.1.t1",
+          "mn28:11.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，什麼是水界呢？"
+      }
     },
     {
       "segment_id": "mn28:11.2",
@@ -19715,7 +20571,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.2.t0",
+          "mn28:11.2.t1",
+          "mn28:11.2.t2",
+          "mn28:11.2.t3",
+          "mn28:11.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "水界可分為內水界與外水界。"
+      }
     },
     {
       "segment_id": "mn28:11.3",
@@ -19870,7 +20737,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.3.t0",
+          "mn28:11.3.t1",
+          "mn28:11.3.t2",
+          "mn28:11.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，什麼是內水界呢？"
+      }
     },
     {
       "segment_id": "mn28:11.4",
@@ -20182,7 +21059,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.4.t0",
+          "mn28:11.4.t1",
+          "mn28:11.4.t2",
+          "mn28:11.4.t3",
+          "mn28:11.4.t4",
+          "mn28:11.4.t5",
+          "mn28:11.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是屬於自身內在、個人所有、屬水、性質如水而被執取者，也就是："
+      }
     },
     {
       "segment_id": "mn28:11.5",
@@ -21084,7 +21974,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.5.t0",
+          "mn28:11.5.t1",
+          "mn28:11.5.t2",
+          "mn28:11.5.t3",
+          "mn28:11.5.t4",
+          "mn28:11.5.t5",
+          "mn28:11.5.t6",
+          "mn28:11.5.t7",
+          "mn28:11.5.t8",
+          "mn28:11.5.t9",
+          "mn28:11.5.t10",
+          "mn28:11.5.t11",
+          "mn28:11.5.t12",
+          "mn28:11.5.t13",
+          "mn28:11.5.t14",
+          "mn28:11.5.t15",
+          "mn28:11.5.t16",
+          "mn28:11.5.t17",
+          "mn28:11.5.t18",
+          "mn28:11.5.t19",
+          "mn28:11.5.t20"
+        ],
+        "review_status": "approved",
+        "content": "膽汁、痰、膿、血、汗、脂肪、淚、油脂、唾液、鼻涕、關節滑液、尿液，或其他任何屬於自身內在、個人所有、屬水、性質如水而被執取之物。"
+      }
     },
     {
       "segment_id": "mn28:11.6",
@@ -21275,7 +22192,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.6.t0",
+          "mn28:11.6.t1",
+          "mn28:11.6.t2",
+          "mn28:11.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，這就稱為內水界。"
+      }
     },
     {
       "segment_id": "mn28:11.7",
@@ -21729,7 +22656,23 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.7.t0",
+          "mn28:11.7.t1",
+          "mn28:11.7.t2",
+          "mn28:11.7.t3",
+          "mn28:11.7.t4",
+          "mn28:11.7.t5",
+          "mn28:11.7.t6",
+          "mn28:11.7.t7",
+          "mn28:11.7.t8",
+          "mn28:11.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "無論是內水界或外水界，兩者其實都只是水界而已。"
+      }
     },
     {
       "segment_id": "mn28:11.8",
@@ -22215,7 +23158,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.8.t0",
+          "mn28:11.8.t1",
+          "mn28:11.8.t2",
+          "mn28:11.8.t3",
+          "mn28:11.8.t4",
+          "mn28:11.8.t5",
+          "mn28:11.8.t6",
+          "mn28:11.8.t7",
+          "mn28:11.8.t8",
+          "mn28:11.8.t9",
+          "mn28:11.8.t10",
+          "mn28:11.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "『這不是我的，這不是我，這不是我的自我』——應當以正確的智慧，如實這樣去觀照。"
+      }
     },
     {
       "segment_id": "mn28:11.9",
@@ -22555,7 +23516,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:11.9.t0",
+          "mn28:11.9.t1",
+          "mn28:11.9.t2",
+          "mn28:11.9.t3",
+          "mn28:11.9.t4",
+          "mn28:11.9.t5",
+          "mn28:11.9.t6",
+          "mn28:11.9.t7",
+          "mn28:11.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "如此以正確的智慧如實觀照之後，便會對水界感到厭離，使心對水界不再染著。"
+      }
     },
     {
       "segment_id": "mn28:12.1",
@@ -22835,7 +23811,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.1.t0",
+          "mn28:12.1.t1",
+          "mn28:12.1.t2",
+          "mn28:12.1.t3",
+          "mn28:12.1.t4",
+          "mn28:12.1.t5",
+          "mn28:12.1.t6",
+          "mn28:12.1.t7",
+          "mn28:12.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，有這樣的時候：外水界會發生劇烈變動，"
+      }
     },
     {
       "segment_id": "mn28:12.2",
@@ -23176,7 +24167,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.2.t0",
+          "mn28:12.2.t1",
+          "mn28:12.2.t2",
+          "mn28:12.2.t3",
+          "mn28:12.2.t4",
+          "mn28:12.2.t5",
+          "mn28:12.2.t6",
+          "mn28:12.2.t7",
+          "mn28:12.2.t8",
+          "mn28:12.2.t9",
+          "mn28:12.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "沖走村莊、沖走市鎮、沖走城市、沖走國土、沖走地區。"
+      }
     },
     {
       "segment_id": "mn28:12.3",
@@ -24043,7 +25051,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.3.t0",
+          "mn28:12.3.t1",
+          "mn28:12.3.t2",
+          "mn28:12.3.t3",
+          "mn28:12.3.t4",
+          "mn28:12.3.t5",
+          "mn28:12.3.t6",
+          "mn28:12.3.t7",
+          "mn28:12.3.t8",
+          "mn28:12.3.t9",
+          "mn28:12.3.t10",
+          "mn28:12.3.t11",
+          "mn28:12.3.t12",
+          "mn28:12.3.t13",
+          "mn28:12.3.t14",
+          "mn28:12.3.t15",
+          "mn28:12.3.t16",
+          "mn28:12.3.t17",
+          "mn28:12.3.t18",
+          "mn28:12.3.t19",
+          "mn28:12.3.t20",
+          "mn28:12.3.t21",
+          "mn28:12.3.t22",
+          "mn28:12.3.t23",
+          "mn28:12.3.t24",
+          "mn28:12.3.t25",
+          "mn28:12.3.t26",
+          "mn28:12.3.t27"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，有這樣的時候：大海之水會下降一百由旬、下降兩百由旬、下降三百由旬、下降四百由旬、下降五百由旬、下降六百由旬、下降七百由旬。"
+      }
     },
     {
       "segment_id": "mn28:12.4",
@@ -25001,7 +26043,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.4.t0",
+          "mn28:12.4.t1",
+          "mn28:12.4.t2",
+          "mn28:12.4.t3",
+          "mn28:12.4.t4",
+          "mn28:12.4.t5",
+          "mn28:12.4.t6",
+          "mn28:12.4.t7",
+          "mn28:12.4.t8",
+          "mn28:12.4.t9",
+          "mn28:12.4.t10",
+          "mn28:12.4.t11",
+          "mn28:12.4.t12",
+          "mn28:12.4.t13",
+          "mn28:12.4.t14",
+          "mn28:12.4.t15",
+          "mn28:12.4.t16",
+          "mn28:12.4.t17",
+          "mn28:12.4.t18",
+          "mn28:12.4.t19",
+          "mn28:12.4.t20",
+          "mn28:12.4.t21",
+          "mn28:12.4.t22",
+          "mn28:12.4.t23",
+          "mn28:12.4.t24",
+          "mn28:12.4.t25",
+          "mn28:12.4.t26",
+          "mn28:12.4.t27"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，有這樣的時候：大海之水只剩七棵多羅樹高、六棵多羅樹高、五棵、四棵、三棵、兩棵、一棵多羅樹高。"
+      }
     },
     {
       "segment_id": "mn28:12.5",
@@ -25969,7 +27045,41 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.5.t0",
+          "mn28:12.5.t1",
+          "mn28:12.5.t2",
+          "mn28:12.5.t3",
+          "mn28:12.5.t4",
+          "mn28:12.5.t5",
+          "mn28:12.5.t6",
+          "mn28:12.5.t7",
+          "mn28:12.5.t8",
+          "mn28:12.5.t9",
+          "mn28:12.5.t10",
+          "mn28:12.5.t11",
+          "mn28:12.5.t12",
+          "mn28:12.5.t13",
+          "mn28:12.5.t14",
+          "mn28:12.5.t15",
+          "mn28:12.5.t16",
+          "mn28:12.5.t17",
+          "mn28:12.5.t18",
+          "mn28:12.5.t19",
+          "mn28:12.5.t20",
+          "mn28:12.5.t21",
+          "mn28:12.5.t22",
+          "mn28:12.5.t23",
+          "mn28:12.5.t24",
+          "mn28:12.5.t25",
+          "mn28:12.5.t26",
+          "mn28:12.5.t27"
+        ],
+        "review_status": "approved",
+        "content": "大海之水只剩七人身高、六人身高、五人、四人、三人、兩人、一人身高。"
+      }
     },
     {
       "segment_id": "mn28:12.6",
@@ -26600,7 +27710,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.6.t0",
+          "mn28:12.6.t1",
+          "mn28:12.6.t2",
+          "mn28:12.6.t3",
+          "mn28:12.6.t4",
+          "mn28:12.6.t5",
+          "mn28:12.6.t6",
+          "mn28:12.6.t7",
+          "mn28:12.6.t8",
+          "mn28:12.6.t9",
+          "mn28:12.6.t10",
+          "mn28:12.6.t11",
+          "mn28:12.6.t12",
+          "mn28:12.6.t13",
+          "mn28:12.6.t14",
+          "mn28:12.6.t15",
+          "mn28:12.6.t16",
+          "mn28:12.6.t17",
+          "mn28:12.6.t18"
+        ],
+        "review_status": "approved",
+        "content": "大海之水只剩半人身高、只到腰部、只到膝蓋、只到腳踝的深度。"
+      }
     },
     {
       "segment_id": "mn28:12.7",
@@ -26919,7 +28054,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.7.t0",
+          "mn28:12.7.t1",
+          "mn28:12.7.t2",
+          "mn28:12.7.t3",
+          "mn28:12.7.t4",
+          "mn28:12.7.t5",
+          "mn28:12.7.t6",
+          "mn28:12.7.t7",
+          "mn28:12.7.t8",
+          "mn28:12.7.t9",
+          "mn28:12.7.t10"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，有這樣的時候：大海之水甚至少到連沾濕一節指節都不夠。"
+      }
     },
     {
       "segment_id": "mn28:12.8",
@@ -27499,7 +28651,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:12.8.t0",
+          "mn28:12.8.t1",
+          "mn28:12.8.t2",
+          "mn28:12.8.t3",
+          "mn28:12.8.t4",
+          "mn28:12.8.t5",
+          "mn28:12.8.t6",
+          "mn28:12.8.t7",
+          "mn28:12.8.t8",
+          "mn28:12.8.t9",
+          "mn28:12.8.t10",
+          "mn28:12.8.t11",
+          "mn28:12.8.t12",
+          "mn28:12.8.t13",
+          "mn28:12.8.t14",
+          "mn28:12.8.t15"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，如此浩大的外水界尚且如此，其無常的本質將會顯現、其終將耗盡的本質將會顯現、其終將消亡的本質將會顯現、其終將變異的本質將會顯現。"
+      }
     },
     {
       "segment_id": "mn28:13.1",
@@ -28167,7 +29341,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:13.1.t0",
+          "mn28:13.1.t1",
+          "mn28:13.1.t2",
+          "mn28:13.1.t3",
+          "mn28:13.1.t4",
+          "mn28:13.1.t5",
+          "mn28:13.1.t6",
+          "mn28:13.1.t7",
+          "mn28:13.1.t8",
+          "mn28:13.1.t10",
+          "mn28:13.1.t11",
+          "mn28:13.1.t12",
+          "mn28:13.1.t13",
+          "mn28:13.1.t14",
+          "mn28:13.1.t15",
+          "mn28:13.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "然而，對於這只是短暫存留、被渴愛所執取的身體，哪來『我』、『我所』、『我是』之想？他確實不會生起這樣的想法……"
+      }
     },
     {
       "segment_id": "mn28:14.1",
@@ -28882,7 +30078,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:14.1.t0",
+          "mn28:14.1.t1",
+          "mn28:14.1.t2",
+          "mn28:14.1.t3",
+          "mn28:14.1.t4",
+          "mn28:14.1.t5",
+          "mn28:14.1.t6",
+          "mn28:14.1.t7",
+          "mn28:14.1.t8",
+          "mn28:14.1.t9",
+          "mn28:14.1.t10",
+          "mn28:14.1.t11",
+          "mn28:14.1.t12",
+          "mn28:14.1.t13",
+          "mn28:14.1.t14",
+          "mn28:14.1.t15",
+          "mn28:14.1.t16",
+          "mn28:14.1.t17",
+          "mn28:14.1.t18",
+          "mn28:14.1.t19"
+        ],
+        "review_status": "approved",
+        "content": "賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧，依止於善法的捨便得以安住，他因此心生歡喜。"
+      }
     },
     {
       "segment_id": "mn28:15.1",
@@ -29040,7 +30262,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:15.1.t0",
+          "mn28:15.1.t1",
+          "mn28:15.1.t2",
+          "mn28:15.1.t3",
+          "mn28:15.1.t4",
+          "mn28:15.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "賢友，僅僅到這個程度，這位比丘所做的已經很多了。"
+      }
     },
     {
       "segment_id": "mn28:16.1",
@@ -29125,7 +30359,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.1.t0",
+          "mn28:16.1.t1",
+          "mn28:16.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "賢友，什麼是火界呢？"
+      }
     },
     {
       "segment_id": "mn28:16.2",
@@ -29326,7 +30569,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.2.t0",
+          "mn28:16.2.t1",
+          "mn28:16.2.t2",
+          "mn28:16.2.t3",
+          "mn28:16.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "火界可分為內火界與外火界。"
+      }
     },
     {
       "segment_id": "mn28:16.3",
@@ -29481,7 +30735,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.3.t0",
+          "mn28:16.3.t1",
+          "mn28:16.3.t2",
+          "mn28:16.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "賢友，什麼是內火界呢？"
+      }
     },
     {
       "segment_id": "mn28:16.4",
@@ -29802,7 +31066,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.4.t0",
+          "mn28:16.4.t1",
+          "mn28:16.4.t2",
+          "mn28:16.4.t3",
+          "mn28:16.4.t4",
+          "mn28:16.4.t5",
+          "mn28:16.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是內在、個人所有、屬火、火性、被執取的，也就是："
+      }
     },
     {
       "segment_id": "mn28:16.5",
@@ -30630,7 +31907,37 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.5.t0",
+          "mn28:16.5.t1",
+          "mn28:16.5.t2",
+          "mn28:16.5.t3",
+          "mn28:16.5.t4",
+          "mn28:16.5.t5",
+          "mn28:16.5.t6",
+          "mn28:16.5.t7",
+          "mn28:16.5.t8",
+          "mn28:16.5.t9",
+          "mn28:16.5.t10",
+          "mn28:16.5.t11",
+          "mn28:16.5.t12",
+          "mn28:16.5.t13",
+          "mn28:16.5.t14",
+          "mn28:16.5.t15",
+          "mn28:16.5.t16",
+          "mn28:16.5.t17",
+          "mn28:16.5.t18",
+          "mn28:16.5.t19",
+          "mn28:16.5.t20",
+          "mn28:16.5.t21",
+          "mn28:16.5.t22",
+          "mn28:16.5.t23"
+        ],
+        "review_status": "approved",
+        "content": "藉此而發熱者、藉此而衰老者、藉此而燃燒者、藉此使所食、所飲、所嚼、所嚐者順利消化者，以及其他任何內在、個人所有、屬火、火性、被執取的（種種），"
+      }
     },
     {
       "segment_id": "mn28:16.6",
@@ -30821,7 +32128,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.6.t0",
+          "mn28:16.6.t1",
+          "mn28:16.6.t2",
+          "mn28:16.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "賢友，這稱為內火界。"
+      }
     },
     {
       "segment_id": "mn28:16.7",
@@ -31275,7 +32592,23 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.7.t0",
+          "mn28:16.7.t1",
+          "mn28:16.7.t2",
+          "mn28:16.7.t3",
+          "mn28:16.7.t4",
+          "mn28:16.7.t5",
+          "mn28:16.7.t6",
+          "mn28:16.7.t7",
+          "mn28:16.7.t8",
+          "mn28:16.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡內火界與外火界，這些都只是火界而已。"
+      }
     },
     {
       "segment_id": "mn28:16.8",
@@ -31761,7 +33094,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.8.t0",
+          "mn28:16.8.t1",
+          "mn28:16.8.t2",
+          "mn28:16.8.t3",
+          "mn28:16.8.t4",
+          "mn28:16.8.t5",
+          "mn28:16.8.t6",
+          "mn28:16.8.t7",
+          "mn28:16.8.t8",
+          "mn28:16.8.t9",
+          "mn28:16.8.t10",
+          "mn28:16.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "應以正確的智慧如實見到：『這不是我的，這不是我，這不是我的自我。』"
+      }
     },
     {
       "segment_id": "mn28:16.9",
@@ -32101,7 +33452,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:16.9.t0",
+          "mn28:16.9.t1",
+          "mn28:16.9.t2",
+          "mn28:16.9.t3",
+          "mn28:16.9.t4",
+          "mn28:16.9.t5",
+          "mn28:16.9.t6",
+          "mn28:16.9.t7",
+          "mn28:16.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "如此以正確的智慧如實見到之後，便厭離火界，使心於火界離染。"
+      }
     },
     {
       "segment_id": "mn28:17.1",
@@ -32381,7 +33747,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.1.t0",
+          "mn28:17.1.t1",
+          "mn28:17.1.t2",
+          "mn28:17.1.t3",
+          "mn28:17.1.t4",
+          "mn28:17.1.t5",
+          "mn28:17.1.t6",
+          "mn28:17.1.t7",
+          "mn28:17.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實有這樣的時候：外火界會被擾動。"
+      }
     },
     {
       "segment_id": "mn28:17.2",
@@ -32672,7 +34053,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.2.t0",
+          "mn28:17.2.t1",
+          "mn28:17.2.t2",
+          "mn28:17.2.t3",
+          "mn28:17.2.t4",
+          "mn28:17.2.t5",
+          "mn28:17.2.t6",
+          "mn28:17.2.t7",
+          "mn28:17.2.t8",
+          "mn28:17.2.t9",
+          "mn28:17.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "它燒毀村莊，燒毀市鎮，燒毀城市，燒毀國土，燒毀地區。"
+      }
     },
     {
       "segment_id": "mn28:17.3",
@@ -33236,7 +34634,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.3.t0",
+          "mn28:17.3.t1",
+          "mn28:17.3.t2",
+          "mn28:17.3.t3",
+          "mn28:17.3.t4",
+          "mn28:17.3.t5",
+          "mn28:17.3.t6",
+          "mn28:17.3.t7",
+          "mn28:17.3.t8",
+          "mn28:17.3.t9",
+          "mn28:17.3.t10",
+          "mn28:17.3.t11",
+          "mn28:17.3.t12",
+          "mn28:17.3.t13",
+          "mn28:17.3.t14"
+        ],
+        "review_status": "approved",
+        "content": "它遇到綠地邊緣、道路邊緣、岩石邊緣、水域邊緣，或優美的地面，便因無燃料而熄滅。"
+      }
     },
     {
       "segment_id": "mn28:17.4",
@@ -33513,7 +34932,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.4.t0",
+          "mn28:17.4.t1",
+          "mn28:17.4.t2",
+          "mn28:17.4.t3",
+          "mn28:17.4.t4",
+          "mn28:17.4.t5",
+          "mn28:17.4.t6",
+          "mn28:17.4.t7",
+          "mn28:17.4.t8",
+          "mn28:17.4.t9"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實也有這樣的時候：人們甚至用雞毛、用碎筋屑來尋求火種。"
+      }
     },
     {
       "segment_id": "mn28:17.5",
@@ -34093,7 +35528,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.5.t0",
+          "mn28:17.5.t1",
+          "mn28:17.5.t2",
+          "mn28:17.5.t3",
+          "mn28:17.5.t4",
+          "mn28:17.5.t5",
+          "mn28:17.5.t6",
+          "mn28:17.5.t7",
+          "mn28:17.5.t8",
+          "mn28:17.5.t9",
+          "mn28:17.5.t10",
+          "mn28:17.5.t11",
+          "mn28:17.5.t12",
+          "mn28:17.5.t13",
+          "mn28:17.5.t14",
+          "mn28:17.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "賢友，即使是如此巨大的外火界，其無常性尚且將會顯現，其壞滅性、消逝性、變異性也將顯現，"
+      }
     },
     {
       "segment_id": "mn28:17.6",
@@ -34619,7 +36076,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:17.6.t0",
+          "mn28:17.6.t1",
+          "mn28:17.6.t2",
+          "mn28:17.6.t3",
+          "mn28:17.6.t4",
+          "mn28:17.6.t5",
+          "mn28:17.6.t6",
+          "mn28:17.6.t7",
+          "mn28:17.6.t8",
+          "mn28:17.6.t10",
+          "mn28:17.6.t11"
+        ],
+        "review_status": "approved",
+        "content": "更何況這只是短暫存留、被渴愛所執取的身體，哪來『我』、『我所』、『我是』之想？"
+      }
     },
     {
       "segment_id": "mn28:18-20.1",
@@ -35476,7 +36950,38 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:18-20.1.t0",
+          "mn28:18-20.1.t1",
+          "mn28:18-20.1.t2",
+          "mn28:18-20.1.t3",
+          "mn28:18-20.1.t4",
+          "mn28:18-20.1.t5",
+          "mn28:18-20.1.t6",
+          "mn28:18-20.1.t7",
+          "mn28:18-20.1.t8",
+          "mn28:18-20.1.t9",
+          "mn28:18-20.1.t10",
+          "mn28:18-20.1.t11",
+          "mn28:18-20.1.t12",
+          "mn28:18-20.1.t13",
+          "mn28:18-20.1.t14",
+          "mn28:18-20.1.t15",
+          "mn28:18-20.1.t16",
+          "mn28:18-20.1.t17",
+          "mn28:18-20.1.t18",
+          "mn28:18-20.1.t19",
+          "mn28:18-20.1.t20",
+          "mn28:18-20.1.t21",
+          "mn28:18-20.1.t22",
+          "mn28:18-20.1.t23",
+          "mn28:18-20.1.t24"
+        ],
+        "review_status": "approved",
+        "content": "他確實不會生起這樣的想法……賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧，依止於善法的捨便得以安住，他因此心生歡喜。"
+      }
     },
     {
       "segment_id": "mn28:18-20.2",
@@ -35634,7 +37139,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:18-20.2.t0",
+          "mn28:18-20.2.t1",
+          "mn28:18-20.2.t2",
+          "mn28:18-20.2.t3",
+          "mn28:18-20.2.t4",
+          "mn28:18-20.2.t5"
+        ],
+        "review_status": "approved",
+        "content": "賢友，僅僅到這個程度，這位比丘所做的已經很多了。"
+      }
     },
     {
       "segment_id": "mn28:21.1",
@@ -35719,7 +37236,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.1.t0",
+          "mn28:21.1.t1",
+          "mn28:21.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "賢友，什麼是風界呢？"
+      }
     },
     {
       "segment_id": "mn28:21.2",
@@ -35920,7 +37446,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.2.t0",
+          "mn28:21.2.t1",
+          "mn28:21.2.t2",
+          "mn28:21.2.t3",
+          "mn28:21.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "風界可分為內風界與外風界。"
+      }
     },
     {
       "segment_id": "mn28:21.3",
@@ -36075,7 +37612,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.3.t0",
+          "mn28:21.3.t1",
+          "mn28:21.3.t2",
+          "mn28:21.3.t3"
+        ],
+        "review_status": "approved",
+        "content": "賢友，什麼是內風界呢？"
+      }
     },
     {
       "segment_id": "mn28:21.4",
@@ -36405,7 +37952,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.4.t0",
+          "mn28:21.4.t1",
+          "mn28:21.4.t2",
+          "mn28:21.4.t3",
+          "mn28:21.4.t4",
+          "mn28:21.4.t5",
+          "mn28:21.4.t6"
+        ],
+        "review_status": "approved",
+        "content": "凡是內在、個人所有、屬風、風性、被執取的，也就是："
+      }
     },
     {
       "segment_id": "mn28:21.5",
@@ -37566,7 +39126,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.5.t0",
+          "mn28:21.5.t1",
+          "mn28:21.5.t2",
+          "mn28:21.5.t3",
+          "mn28:21.5.t4",
+          "mn28:21.5.t5",
+          "mn28:21.5.t6",
+          "mn28:21.5.t7",
+          "mn28:21.5.t8",
+          "mn28:21.5.t9",
+          "mn28:21.5.t10",
+          "mn28:21.5.t11",
+          "mn28:21.5.t12",
+          "mn28:21.5.t13",
+          "mn28:21.5.t14",
+          "mn28:21.5.t15",
+          "mn28:21.5.t16",
+          "mn28:21.5.t17",
+          "mn28:21.5.t18",
+          "mn28:21.5.t19",
+          "mn28:21.5.t20",
+          "mn28:21.5.t21"
+        ],
+        "review_status": "approved",
+        "content": "上行風、下行風、腹中風、腸中風、循行四肢之風、入息、出息，以及其他任何內在、個人所有、屬風、風性、被執取的（種種），"
+      }
     },
     {
       "segment_id": "mn28:21.6",
@@ -37757,7 +39345,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.6.t0",
+          "mn28:21.6.t1",
+          "mn28:21.6.t2",
+          "mn28:21.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "賢友，這稱為內風界。"
+      }
     },
     {
       "segment_id": "mn28:21.7",
@@ -38211,7 +39809,23 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.7.t0",
+          "mn28:21.7.t1",
+          "mn28:21.7.t2",
+          "mn28:21.7.t3",
+          "mn28:21.7.t4",
+          "mn28:21.7.t5",
+          "mn28:21.7.t6",
+          "mn28:21.7.t7",
+          "mn28:21.7.t8",
+          "mn28:21.7.t9"
+        ],
+        "review_status": "approved",
+        "content": "凡內風界與外風界，這些都只是風界而已。"
+      }
     },
     {
       "segment_id": "mn28:21.8",
@@ -38697,7 +40311,25 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.8.t0",
+          "mn28:21.8.t1",
+          "mn28:21.8.t2",
+          "mn28:21.8.t3",
+          "mn28:21.8.t4",
+          "mn28:21.8.t5",
+          "mn28:21.8.t6",
+          "mn28:21.8.t7",
+          "mn28:21.8.t8",
+          "mn28:21.8.t9",
+          "mn28:21.8.t10",
+          "mn28:21.8.t11"
+        ],
+        "review_status": "approved",
+        "content": "應以正確的智慧如實見到：『這不是我的，這不是我，這不是我的自我。』"
+      }
     },
     {
       "segment_id": "mn28:21.9",
@@ -39037,7 +40669,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:21.9.t0",
+          "mn28:21.9.t1",
+          "mn28:21.9.t2",
+          "mn28:21.9.t3",
+          "mn28:21.9.t4",
+          "mn28:21.9.t5",
+          "mn28:21.9.t6",
+          "mn28:21.9.t7",
+          "mn28:21.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "如此以正確的智慧如實見到之後，便厭離風界，使心於風界離染。"
+      }
     },
     {
       "segment_id": "mn28:22.1",
@@ -39317,7 +40964,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:22.1.t0",
+          "mn28:22.1.t1",
+          "mn28:22.1.t2",
+          "mn28:22.1.t3",
+          "mn28:22.1.t4",
+          "mn28:22.1.t5",
+          "mn28:22.1.t6",
+          "mn28:22.1.t7",
+          "mn28:22.1.t8"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實有這樣的時候：外風界會被擾動。"
+      }
     },
     {
       "segment_id": "mn28:22.2",
@@ -39658,7 +41320,24 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:22.2.t0",
+          "mn28:22.2.t1",
+          "mn28:22.2.t2",
+          "mn28:22.2.t3",
+          "mn28:22.2.t4",
+          "mn28:22.2.t5",
+          "mn28:22.2.t6",
+          "mn28:22.2.t7",
+          "mn28:22.2.t8",
+          "mn28:22.2.t9",
+          "mn28:22.2.t10"
+        ],
+        "review_status": "approved",
+        "content": "它捲走村莊，捲走市鎮，捲走城市，捲走國土，捲走地區。"
+      }
     },
     {
       "segment_id": "mn28:22.3",
@@ -40220,7 +41899,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:22.3.t0",
+          "mn28:22.3.t1",
+          "mn28:22.3.t2",
+          "mn28:22.3.t3",
+          "mn28:22.3.t4",
+          "mn28:22.3.t5",
+          "mn28:22.3.t6",
+          "mn28:22.3.t7",
+          "mn28:22.3.t8",
+          "mn28:22.3.t9",
+          "mn28:22.3.t10",
+          "mn28:22.3.t11",
+          "mn28:22.3.t12",
+          "mn28:22.3.t13",
+          "mn28:22.3.t14",
+          "mn28:22.3.t15",
+          "mn28:22.3.t16"
+        ],
+        "review_status": "approved",
+        "content": "賢友，確實也有這樣的時候：在夏季最後一個月，人們甚至用扇子、用搧風的用具來尋求一絲風，就連屋簷下的茅草也不見晃動。"
+      }
     },
     {
       "segment_id": "mn28:22.4",
@@ -40800,7 +42502,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:22.4.t0",
+          "mn28:22.4.t1",
+          "mn28:22.4.t2",
+          "mn28:22.4.t3",
+          "mn28:22.4.t4",
+          "mn28:22.4.t5",
+          "mn28:22.4.t6",
+          "mn28:22.4.t7",
+          "mn28:22.4.t8",
+          "mn28:22.4.t9",
+          "mn28:22.4.t10",
+          "mn28:22.4.t11",
+          "mn28:22.4.t12",
+          "mn28:22.4.t13",
+          "mn28:22.4.t14",
+          "mn28:22.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "賢友，即使是如此巨大的外風界，其無常性尚且將會顯現，其壞滅性、消逝性、變異性也將顯現，"
+      }
     },
     {
       "segment_id": "mn28:22.5",
@@ -41398,7 +43122,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:22.5.t0",
+          "mn28:22.5.t1",
+          "mn28:22.5.t2",
+          "mn28:22.5.t3",
+          "mn28:22.5.t4",
+          "mn28:22.5.t5",
+          "mn28:22.5.t6",
+          "mn28:22.5.t7",
+          "mn28:22.5.t8",
+          "mn28:22.5.t10",
+          "mn28:22.5.t11",
+          "mn28:22.5.t12",
+          "mn28:22.5.t13",
+          "mn28:22.5.t14",
+          "mn28:22.5.t15"
+        ],
+        "review_status": "approved",
+        "content": "更何況這只是短暫存留、被渴愛所執取的身體，哪來『我』、『我所』、『我是』之想？他確實不會生起這樣的想法。"
+      }
     },
     {
       "segment_id": "mn28:23.1",
@@ -41594,7 +43339,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.1.t0",
+          "mn28:23.1.t1",
+          "mn28:23.1.t2",
+          "mn28:23.1.t3",
+          "mn28:23.1.t4",
+          "mn28:23.1.t5",
+          "mn28:23.1.t6",
+          "mn28:23.1.t7"
+        ],
+        "review_status": "approved",
+        "content": "賢友，若有他人辱罵、譭謗、激怒、惱害這位比丘，"
+      }
     },
     {
       "segment_id": "mn28:23.2",
@@ -42108,7 +43867,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.2.t0",
+          "mn28:23.2.t1",
+          "mn28:23.2.t2",
+          "mn28:23.2.t3",
+          "mn28:23.2.t4",
+          "mn28:23.2.t5",
+          "mn28:23.2.t6",
+          "mn28:23.2.t7",
+          "mn28:23.2.t8",
+          "mn28:23.2.t9"
+        ],
+        "review_status": "approved",
+        "content": "他如此了知：『我生起了這由耳觸所生的苦受。』"
+      }
     },
     {
       "segment_id": "mn28:23.3",
@@ -42306,7 +44081,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.3.t0",
+          "mn28:23.3.t1",
+          "mn28:23.3.t2",
+          "mn28:23.3.t3",
+          "mn28:23.3.t4",
+          "mn28:23.3.t5"
+        ],
+        "review_status": "approved",
+        "content": "而它確實是有所緣而生，並非無緣而生。"
+      }
     },
     {
       "segment_id": "mn28:23.4",
@@ -42407,7 +44194,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.4.t0",
+          "mn28:23.4.t1"
+        ],
+        "review_status": "approved",
+        "content": "緣於什麼呢？"
+      }
     },
     {
       "segment_id": "mn28:23.5",
@@ -42453,7 +44248,15 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.5.t0",
+          "mn28:23.5.t1"
+        ],
+        "review_status": "approved",
+        "content": "緣於觸。"
+      }
     },
     {
       "segment_id": "mn28:23.6",
@@ -43056,7 +44859,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.6.t0",
+          "mn28:23.6.t1",
+          "mn28:23.6.t2",
+          "mn28:23.6.t3",
+          "mn28:23.6.t4",
+          "mn28:23.6.t5",
+          "mn28:23.6.t6",
+          "mn28:23.6.t7",
+          "mn28:23.6.t8",
+          "mn28:23.6.t9",
+          "mn28:23.6.t10",
+          "mn28:23.6.t11",
+          "mn28:23.6.t12",
+          "mn28:23.6.t13",
+          "mn28:23.6.t14",
+          "mn28:23.6.t15"
+        ],
+        "review_status": "approved",
+        "content": "他也照見：這觸是無常的；照見：諸受是無常的；照見：諸想是無常的；照見：諸行是無常的；照見：識是無常的。"
+      }
     },
     {
       "segment_id": "mn28:23.7",
@@ -43277,7 +45102,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:23.7.t0",
+          "mn28:23.7.t1",
+          "mn28:23.7.t2",
+          "mn28:23.7.t3",
+          "mn28:23.7.t4",
+          "mn28:23.7.t5",
+          "mn28:23.7.t6"
+        ],
+        "review_status": "approved",
+        "content": "他的心便唯以此界為所緣而趣入、澄淨、安住、勝解。"
+      }
     },
     {
       "segment_id": "mn28:24.1",
@@ -43655,7 +45493,25 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:24.1.t0",
+          "mn28:24.1.t1",
+          "mn28:24.1.t2",
+          "mn28:24.1.t3",
+          "mn28:24.1.t4",
+          "mn28:24.1.t5",
+          "mn28:24.1.t6",
+          "mn28:24.1.t7",
+          "mn28:24.1.t8",
+          "mn28:24.1.t9",
+          "mn28:24.1.t10",
+          "mn28:24.1.t11"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若他人以令人不悅、不可愛、不合意的方式對待這位比丘——甚至用手掌接觸、用土塊接觸、用棍棒接觸、用刀劍接觸——"
+      }
     },
     {
       "segment_id": "mn28:24.2",
@@ -44187,7 +46043,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:24.2.t0",
+          "mn28:24.2.t1",
+          "mn28:24.2.t2",
+          "mn28:24.2.t3",
+          "mn28:24.2.t4",
+          "mn28:24.2.t5",
+          "mn28:24.2.t6",
+          "mn28:24.2.t7",
+          "mn28:24.2.t8",
+          "mn28:24.2.t9",
+          "mn28:24.2.t10",
+          "mn28:24.2.t11",
+          "mn28:24.2.t12",
+          "mn28:24.2.t13",
+          "mn28:24.2.t14",
+          "mn28:24.2.t15",
+          "mn28:24.2.t16"
+        ],
+        "review_status": "approved",
+        "content": "他便如此了知：『這身確實是如此性質，在這如是性質的身上，掌觸也會發生，石觸也會發生，杖觸也會發生，刀觸也會發生。』"
+      }
     },
     {
       "segment_id": "mn28:24.3",
@@ -44964,7 +46843,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:24.3.t0",
+          "mn28:24.3.t1",
+          "mn28:24.3.t2",
+          "mn28:24.3.t3",
+          "mn28:24.3.t4",
+          "mn28:24.3.t5",
+          "mn28:24.3.t6",
+          "mn28:24.3.t7",
+          "mn28:24.3.t8",
+          "mn28:24.3.t9",
+          "mn28:24.3.t10",
+          "mn28:24.3.t11",
+          "mn28:24.3.t12",
+          "mn28:24.3.t13",
+          "mn28:24.3.t14",
+          "mn28:24.3.t15",
+          "mn28:24.3.t16",
+          "mn28:24.3.t17",
+          "mn28:24.3.t18",
+          "mn28:24.3.t19",
+          "mn28:24.3.t20",
+          "mn28:24.3.t21",
+          "mn28:24.3.t22"
+        ],
+        "review_status": "approved",
+        "content": "世尊確實在《鋸喻經》的教誡中曾這樣說過：『諸比丘，即使盜賊、匪徒用雙柄鋸把你們的肢體一節節鋸斷，若因此而心生瞋恨，那人便不是奉行我教法的人。』"
+      }
     },
     {
       "segment_id": "mn28:24.4",
@@ -45744,7 +47652,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:24.4.t0",
+          "mn28:24.4.t1",
+          "mn28:24.4.t2",
+          "mn28:24.4.t3",
+          "mn28:24.4.t4",
+          "mn28:24.4.t5",
+          "mn28:24.4.t6",
+          "mn28:24.4.t7",
+          "mn28:24.4.t8",
+          "mn28:24.4.t9",
+          "mn28:24.4.t10",
+          "mn28:24.4.t11",
+          "mn28:24.4.t12",
+          "mn28:24.4.t13",
+          "mn28:24.4.t14",
+          "mn28:24.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "我當精進奮發、不懈怠，念現前、不忘失，身輕安、不躁動，心專一、得等持。"
+      }
     },
     {
       "segment_id": "mn28:24.5",
@@ -46264,7 +48194,29 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:24.5.t0",
+          "mn28:24.5.t1",
+          "mn28:24.5.t2",
+          "mn28:24.5.t3",
+          "mn28:24.5.t4",
+          "mn28:24.5.t5",
+          "mn28:24.5.t6",
+          "mn28:24.5.t7",
+          "mn28:24.5.t8",
+          "mn28:24.5.t9",
+          "mn28:24.5.t10",
+          "mn28:24.5.t11",
+          "mn28:24.5.t12",
+          "mn28:24.5.t13",
+          "mn28:24.5.t14",
+          "mn28:24.5.t16"
+        ],
+        "review_status": "approved",
+        "content": "如今就隨它去吧，在這身上，掌觸儘管發生，石觸儘管發生，杖觸儘管發生，刀觸儘管發生，因為這正是在奉行諸佛的教法。"
+      }
     },
     {
       "segment_id": "mn28:25.1",
@@ -46887,7 +48839,30 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.1.t0",
+          "mn28:25.1.t1",
+          "mn28:25.1.t2",
+          "mn28:25.1.t3",
+          "mn28:25.1.t4",
+          "mn28:25.1.t5",
+          "mn28:25.1.t6",
+          "mn28:25.1.t7",
+          "mn28:25.1.t8",
+          "mn28:25.1.t9",
+          "mn28:25.1.t10",
+          "mn28:25.1.t11",
+          "mn28:25.1.t12",
+          "mn28:25.1.t13",
+          "mn28:25.1.t14",
+          "mn28:25.1.t15",
+          "mn28:25.1.t16"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧伽，而依止於善的捨仍無法安住，"
+      }
     },
     {
       "segment_id": "mn28:25.2",
@@ -47015,7 +48990,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.2.t0",
+          "mn28:25.2.t1",
+          "mn28:25.2.t2",
+          "mn28:25.2.t3",
+          "mn28:25.2.t4"
+        ],
+        "review_status": "approved",
+        "content": "他便因此而生起悚懼，陷入怵惕。"
+      }
     },
     {
       "segment_id": "mn28:25.3",
@@ -47657,7 +49643,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.3.t0",
+          "mn28:25.3.t1",
+          "mn28:25.3.t2",
+          "mn28:25.3.t3",
+          "mn28:25.3.t4",
+          "mn28:25.3.t5",
+          "mn28:25.3.t6",
+          "mn28:25.3.t7",
+          "mn28:25.3.t8",
+          "mn28:25.3.t9",
+          "mn28:25.3.t10",
+          "mn28:25.3.t11",
+          "mn28:25.3.t12",
+          "mn28:25.3.t13"
+        ],
+        "review_status": "approved",
+        "content": "我真是無所得，而非有所得；我真是不善得，而非善得。"
+      }
     },
     {
       "segment_id": "mn28:25.4",
@@ -48324,7 +50330,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.4.t0",
+          "mn28:25.4.t1",
+          "mn28:25.4.t2",
+          "mn28:25.4.t3",
+          "mn28:25.4.t4",
+          "mn28:25.4.t5",
+          "mn28:25.4.t6",
+          "mn28:25.4.t7",
+          "mn28:25.4.t8",
+          "mn28:25.4.t9",
+          "mn28:25.4.t10",
+          "mn28:25.4.t11",
+          "mn28:25.4.t12",
+          "mn28:25.4.t13",
+          "mn28:25.4.t15"
+        ],
+        "review_status": "approved",
+        "content": "因為當我如此憶念佛、如此憶念法、如此憶念僧伽時，依止於善的捨竟無法安住。"
+      }
     },
     {
       "segment_id": "mn28:25.5",
@@ -48493,7 +50520,21 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.5.t0",
+          "mn28:25.5.t1",
+          "mn28:25.5.t2",
+          "mn28:25.5.t3",
+          "mn28:25.5.t4",
+          "mn28:25.5.t5",
+          "mn28:25.5.t6",
+          "mn28:25.5.t7"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，猶如媳婦見到公公，便生起悚懼，陷入怵惕，"
+      }
     },
     {
       "segment_id": "mn28:25.6",
@@ -49161,7 +51202,32 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.6.t0",
+          "mn28:25.6.t1",
+          "mn28:25.6.t2",
+          "mn28:25.6.t3",
+          "mn28:25.6.t4",
+          "mn28:25.6.t5",
+          "mn28:25.6.t6",
+          "mn28:25.6.t7",
+          "mn28:25.6.t8",
+          "mn28:25.6.t9",
+          "mn28:25.6.t10",
+          "mn28:25.6.t11",
+          "mn28:25.6.t12",
+          "mn28:25.6.t13",
+          "mn28:25.6.t14",
+          "mn28:25.6.t15",
+          "mn28:25.6.t16",
+          "mn28:25.6.t17",
+          "mn28:25.6.t18"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧伽，而依止於善的捨仍無法安住，"
+      }
     },
     {
       "segment_id": "mn28:25.7",
@@ -49289,7 +51355,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.7.t0",
+          "mn28:25.7.t1",
+          "mn28:25.7.t2",
+          "mn28:25.7.t3",
+          "mn28:25.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "他便因此而生起悚懼，陷入怵惕。"
+      }
     },
     {
       "segment_id": "mn28:25.8",
@@ -49931,7 +52008,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.8.t0",
+          "mn28:25.8.t1",
+          "mn28:25.8.t2",
+          "mn28:25.8.t3",
+          "mn28:25.8.t4",
+          "mn28:25.8.t5",
+          "mn28:25.8.t6",
+          "mn28:25.8.t7",
+          "mn28:25.8.t8",
+          "mn28:25.8.t9",
+          "mn28:25.8.t10",
+          "mn28:25.8.t11",
+          "mn28:25.8.t12",
+          "mn28:25.8.t13"
+        ],
+        "review_status": "approved",
+        "content": "我真是無所得，而非有所得；我真是不善得，而非善得。"
+      }
     },
     {
       "segment_id": "mn28:25.9",
@@ -50598,7 +52695,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.9.t0",
+          "mn28:25.9.t1",
+          "mn28:25.9.t2",
+          "mn28:25.9.t3",
+          "mn28:25.9.t4",
+          "mn28:25.9.t5",
+          "mn28:25.9.t6",
+          "mn28:25.9.t7",
+          "mn28:25.9.t8",
+          "mn28:25.9.t9",
+          "mn28:25.9.t10",
+          "mn28:25.9.t11",
+          "mn28:25.9.t12",
+          "mn28:25.9.t13",
+          "mn28:25.9.t15"
+        ],
+        "review_status": "approved",
+        "content": "因為當我如此憶念佛、如此憶念法、如此憶念僧伽時，依止於善的捨竟無法安住。"
+      }
     },
     {
       "segment_id": "mn28:25.10",
@@ -51313,7 +53431,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.10.t0",
+          "mn28:25.10.t1",
+          "mn28:25.10.t2",
+          "mn28:25.10.t3",
+          "mn28:25.10.t4",
+          "mn28:25.10.t5",
+          "mn28:25.10.t6",
+          "mn28:25.10.t7",
+          "mn28:25.10.t8",
+          "mn28:25.10.t9",
+          "mn28:25.10.t10",
+          "mn28:25.10.t11",
+          "mn28:25.10.t12",
+          "mn28:25.10.t13",
+          "mn28:25.10.t14",
+          "mn28:25.10.t15",
+          "mn28:25.10.t16",
+          "mn28:25.10.t17",
+          "mn28:25.10.t18",
+          "mn28:25.10.t19"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若這位比丘如此憶念佛、如此憶念法、如此憶念僧伽，而依止於善的捨得以安住，他便因此而心生歡喜。"
+      }
     },
     {
       "segment_id": "mn28:25.11",
@@ -51471,7 +53615,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:25.11.t0",
+          "mn28:25.11.t1",
+          "mn28:25.11.t2",
+          "mn28:25.11.t3",
+          "mn28:25.11.t4",
+          "mn28:25.11.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，僅只如此，這位比丘便已成就良多。"
+      }
     },
     {
       "segment_id": "mn28:26.1",
@@ -51819,7 +53975,27 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:26.1.t0",
+          "mn28:26.1.t1",
+          "mn28:26.1.t2",
+          "mn28:26.1.t3",
+          "mn28:26.1.t4",
+          "mn28:26.1.t5",
+          "mn28:26.1.t6",
+          "mn28:26.1.t7",
+          "mn28:26.1.t8",
+          "mn28:26.1.t9",
+          "mn28:26.1.t10",
+          "mn28:26.1.t11",
+          "mn28:26.1.t13",
+          "mn28:26.1.t14"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，猶如依靠木材、依靠藤蔓、依靠茅草、依靠泥土，空間被圍繞起來，便稱之為『房舍』，"
+      }
     },
     {
       "segment_id": "mn28:26.2",
@@ -52215,7 +54391,28 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:26.2.t0",
+          "mn28:26.2.t1",
+          "mn28:26.2.t2",
+          "mn28:26.2.t3",
+          "mn28:26.2.t4",
+          "mn28:26.2.t5",
+          "mn28:26.2.t6",
+          "mn28:26.2.t7",
+          "mn28:26.2.t8",
+          "mn28:26.2.t9",
+          "mn28:26.2.t10",
+          "mn28:26.2.t11",
+          "mn28:26.2.t12",
+          "mn28:26.2.t14",
+          "mn28:26.2.t15"
+        ],
+        "review_status": "approved",
+        "content": "同樣地，諸位賢友，依靠骨、依靠筋、依靠肉、依靠皮，空間被圍繞起來，便稱之為『色（身）』。"
+      }
     },
     {
       "segment_id": "mn28:27.1",
@@ -52818,7 +55015,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:27.1.t1",
+          "mn28:27.1.t2",
+          "mn28:27.1.t3",
+          "mn28:27.1.t4",
+          "mn28:27.1.t5",
+          "mn28:27.1.t6",
+          "mn28:27.1.t7",
+          "mn28:27.1.t8",
+          "mn28:27.1.t9",
+          "mn28:27.1.t10",
+          "mn28:27.1.t11",
+          "mn28:27.1.t12",
+          "mn28:27.1.t13",
+          "mn28:27.1.t14",
+          "mn28:27.1.t15",
+          "mn28:27.1.t16",
+          "mn28:27.1.t17",
+          "mn28:27.1.t18",
+          "mn28:27.1.t19",
+          "mn28:27.1.t20",
+          "mn28:27.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若內在的眼未壞，而外在的色境未進入視野範圍，也沒有與之相應的作意生起，那麼與之相應的識類便尚且不會顯現。"
+      }
     },
     {
       "segment_id": "mn28:27.2",
@@ -53406,7 +55630,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:27.2.t1",
+          "mn28:27.2.t2",
+          "mn28:27.2.t3",
+          "mn28:27.2.t4",
+          "mn28:27.2.t5",
+          "mn28:27.2.t6",
+          "mn28:27.2.t7",
+          "mn28:27.2.t8",
+          "mn28:27.2.t9",
+          "mn28:27.2.t10",
+          "mn28:27.2.t11",
+          "mn28:27.2.t12",
+          "mn28:27.2.t13",
+          "mn28:27.2.t14",
+          "mn28:27.2.t15",
+          "mn28:27.2.t16",
+          "mn28:27.2.t17",
+          "mn28:27.2.t18",
+          "mn28:27.2.t19",
+          "mn28:27.2.t20"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，若內在的眼未壞，外在的色境進入了視野範圍，但沒有與之相應的作意生起，那麼與之相應的識類便尚且不會顯現。"
+      }
     },
     {
       "segment_id": "mn28:27.3",
@@ -53994,7 +56244,34 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:27.3.t0",
+          "mn28:27.3.t1",
+          "mn28:27.3.t2",
+          "mn28:27.3.t3",
+          "mn28:27.3.t5",
+          "mn28:27.3.t6",
+          "mn28:27.3.t7",
+          "mn28:27.3.t8",
+          "mn28:27.3.t9",
+          "mn28:27.3.t10",
+          "mn28:27.3.t11",
+          "mn28:27.3.t12",
+          "mn28:27.3.t13",
+          "mn28:27.3.t14",
+          "mn28:27.3.t15",
+          "mn28:27.3.t16",
+          "mn28:27.3.t17",
+          "mn28:27.3.t18",
+          "mn28:27.3.t19",
+          "mn28:27.3.t20",
+          "mn28:27.3.t21"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，而當內在的眼未壞，外在的色境進入視野範圍，且有與之相應的作意生起時，如此，與之相應的識類便會顯現。"
+      }
     },
     {
       "segment_id": "mn28:28.1",
@@ -55522,7 +57799,48 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.1.t0",
+          "mn28:28.1.t1",
+          "mn28:28.1.t2",
+          "mn28:28.1.t3",
+          "mn28:28.1.t4",
+          "mn28:28.1.t5",
+          "mn28:28.1.t6",
+          "mn28:28.1.t7",
+          "mn28:28.1.t8",
+          "mn28:28.1.t9",
+          "mn28:28.1.t10",
+          "mn28:28.1.t11",
+          "mn28:28.1.t12",
+          "mn28:28.1.t13",
+          "mn28:28.1.t14",
+          "mn28:28.1.t15",
+          "mn28:28.1.t16",
+          "mn28:28.1.t17",
+          "mn28:28.1.t18",
+          "mn28:28.1.t19",
+          "mn28:28.1.t20",
+          "mn28:28.1.t21",
+          "mn28:28.1.t22",
+          "mn28:28.1.t23",
+          "mn28:28.1.t24",
+          "mn28:28.1.t25",
+          "mn28:28.1.t26",
+          "mn28:28.1.t27",
+          "mn28:28.1.t28",
+          "mn28:28.1.t29",
+          "mn28:28.1.t30",
+          "mn28:28.1.t31",
+          "mn28:28.1.t32",
+          "mn28:28.1.t33",
+          "mn28:28.1.t34"
+        ],
+        "review_status": "approved",
+        "content": "如此生起者所有的色，即歸屬於色取蘊；如此生起者所有的受，即歸屬於受取蘊；如此生起者所有的想，即歸屬於想取蘊；如此生起者所有的諸行，即歸屬於行取蘊；如此生起者所有的識，即歸屬於識取蘊。"
+      }
     },
     {
       "segment_id": "mn28:28.2",
@@ -55601,7 +57919,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.2.t0",
+          "mn28:28.2.t1",
+          "mn28:28.2.t2"
+        ],
+        "review_status": "approved",
+        "content": "他便如此了知："
+      }
     },
     {
       "segment_id": "mn28:28.3",
@@ -55815,7 +58142,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.3.t0",
+          "mn28:28.3.t1",
+          "mn28:28.3.t2",
+          "mn28:28.3.t3",
+          "mn28:28.3.t4",
+          "mn28:28.3.t5",
+          "mn28:28.3.t6",
+          "mn28:28.3.t7",
+          "mn28:28.3.t8"
+        ],
+        "review_status": "approved",
+        "content": "『原來如此，這五取蘊便是這樣聚集、會合、結合而成的。』"
+      }
     },
     {
       "segment_id": "mn28:28.4",
@@ -55987,7 +58329,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.4.t0",
+          "mn28:28.4.t1",
+          "mn28:28.4.t2",
+          "mn28:28.4.t3"
+        ],
+        "review_status": "approved",
+        "content": "世尊確實曾這樣說過："
+      }
     },
     {
       "segment_id": "mn28:28.5",
@@ -56185,7 +58537,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.5.t0",
+          "mn28:28.5.t1",
+          "mn28:28.5.t2",
+          "mn28:28.5.t3",
+          "mn28:28.5.t4",
+          "mn28:28.5.t5"
+        ],
+        "review_status": "approved",
+        "content": "見緣起者，即見法；"
+      }
     },
     {
       "segment_id": "mn28:28.6",
@@ -56445,7 +58809,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.6.t0",
+          "mn28:28.6.t1",
+          "mn28:28.6.t2",
+          "mn28:28.6.t3",
+          "mn28:28.6.t4",
+          "mn28:28.6.t5",
+          "mn28:28.6.t6"
+        ],
+        "review_status": "approved",
+        "content": "見法者，即見緣起。"
+      }
     },
     {
       "segment_id": "mn28:28.7",
@@ -56601,7 +58978,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.7.t0",
+          "mn28:28.7.t1",
+          "mn28:28.7.t3",
+          "mn28:28.7.t4"
+        ],
+        "review_status": "approved",
+        "content": "而這五取蘊，正是緣起而生的。"
+      }
     },
     {
       "segment_id": "mn28:28.8",
@@ -56852,7 +59239,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.8.t0",
+          "mn28:28.8.t1",
+          "mn28:28.8.t2",
+          "mn28:28.8.t3",
+          "mn28:28.8.t4",
+          "mn28:28.8.t5",
+          "mn28:28.8.t6",
+          "mn28:28.8.t7",
+          "mn28:28.8.t8",
+          "mn28:28.8.t9"
+        ],
+        "review_status": "approved",
+        "content": "對這五取蘊的欲求、耽著、傾戀、執著，即是苦之集。"
+      }
     },
     {
       "segment_id": "mn28:28.9",
@@ -57079,7 +59482,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.9.t0",
+          "mn28:28.9.t1",
+          "mn28:28.9.t2",
+          "mn28:28.9.t3",
+          "mn28:28.9.t4",
+          "mn28:28.9.t5",
+          "mn28:28.9.t6",
+          "mn28:28.9.t7",
+          "mn28:28.9.t8"
+        ],
+        "review_status": "approved",
+        "content": "對這五取蘊調伏欲貪、斷除欲貪，即是苦之滅。"
+      }
     },
     {
       "segment_id": "mn28:28.10",
@@ -57237,7 +59655,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:28.10.t0",
+          "mn28:28.10.t1",
+          "mn28:28.10.t2",
+          "mn28:28.10.t3",
+          "mn28:28.10.t4",
+          "mn28:28.10.t5"
+        ],
+        "review_status": "approved",
+        "content": "諸位賢友，僅只如此，這位比丘便已成就良多。"
+      }
     },
     {
       "segment_id": "mn28:29-30.1",
@@ -57455,7 +59885,18 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:29-30.1.t1",
+          "mn28:29-30.1.t2",
+          "mn28:29-30.1.t3",
+          "mn28:29-30.1.t4",
+          "mn28:29-30.1.t5"
+        ],
+        "review_status": "approved",
+        "content": "賢友，若內在的耳根不壞……"
+      }
     },
     {
       "segment_id": "mn28:31-32.1",
@@ -57553,7 +59994,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:31-32.1.t0",
+          "mn28:31-32.1.t1",
+          "mn28:31-32.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "鼻根不壞。"
+      }
     },
     {
       "segment_id": "mn28:33-34.1",
@@ -57714,7 +60164,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:33-34.1.t0",
+          "mn28:33-34.1.t1",
+          "mn28:33-34.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "舌根不壞。"
+      }
     },
     {
       "segment_id": "mn28:35-36.1",
@@ -57820,7 +60279,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:35-36.1.t0",
+          "mn28:35-36.1.t1",
+          "mn28:35-36.1.t2"
+        ],
+        "review_status": "approved",
+        "content": "身根不壞。"
+      }
     },
     {
       "segment_id": "mn28:37.1",
@@ -58363,7 +60831,33 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:37.1.t0",
+          "mn28:37.1.t1",
+          "mn28:37.1.t2",
+          "mn28:37.1.t3",
+          "mn28:37.1.t4",
+          "mn28:37.1.t5",
+          "mn28:37.1.t6",
+          "mn28:37.1.t7",
+          "mn28:37.1.t8",
+          "mn28:37.1.t9",
+          "mn28:37.1.t10",
+          "mn28:37.1.t11",
+          "mn28:37.1.t12",
+          "mn28:37.1.t13",
+          "mn28:37.1.t14",
+          "mn28:37.1.t15",
+          "mn28:37.1.t16",
+          "mn28:37.1.t17",
+          "mn28:37.1.t18",
+          "mn28:37.1.t19"
+        ],
+        "review_status": "approved",
+        "content": "意根不壞，外在諸法未落入(意根的)範圍，且沒有相應的作意，如此便尚無相應那一類識的顯現。"
+      }
     },
     {
       "segment_id": "mn28:38.1",
@@ -58973,7 +61467,35 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.1.t0",
+          "mn28:38.1.t1",
+          "mn28:38.1.t2",
+          "mn28:38.1.t3",
+          "mn28:38.1.t4",
+          "mn28:38.1.t5",
+          "mn28:38.1.t6",
+          "mn28:38.1.t7",
+          "mn28:38.1.t8",
+          "mn28:38.1.t9",
+          "mn28:38.1.t10",
+          "mn28:38.1.t11",
+          "mn28:38.1.t12",
+          "mn28:38.1.t13",
+          "mn28:38.1.t14",
+          "mn28:38.1.t15",
+          "mn28:38.1.t16",
+          "mn28:38.1.t17",
+          "mn28:38.1.t18",
+          "mn28:38.1.t19",
+          "mn28:38.1.t20",
+          "mn28:38.1.t21"
+        ],
+        "review_status": "approved",
+        "content": "賢友，若內在的意根不壞，外在諸法進入(其)範圍，但沒有相應的作意，如此便尚無相應那一類識的顯現。"
+      }
     },
     {
       "segment_id": "mn28:38.2",
@@ -59583,7 +62105,36 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.2.t0",
+          "mn28:38.2.t1",
+          "mn28:38.2.t2",
+          "mn28:38.2.t3",
+          "mn28:38.2.t4",
+          "mn28:38.2.t5",
+          "mn28:38.2.t6",
+          "mn28:38.2.t7",
+          "mn28:38.2.t8",
+          "mn28:38.2.t9",
+          "mn28:38.2.t10",
+          "mn28:38.2.t11",
+          "mn28:38.2.t12",
+          "mn28:38.2.t13",
+          "mn28:38.2.t14",
+          "mn28:38.2.t15",
+          "mn28:38.2.t16",
+          "mn28:38.2.t17",
+          "mn28:38.2.t18",
+          "mn28:38.2.t19",
+          "mn28:38.2.t20",
+          "mn28:38.2.t21",
+          "mn28:38.2.t22"
+        ],
+        "review_status": "approved",
+        "content": "賢友，然而當內在的意根不壞，外在諸法進入(其)範圍，且有相應的作意，如此便有相應那一類識的顯現。"
+      }
     },
     {
       "segment_id": "mn28:38.3",
@@ -61111,7 +63662,48 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.3.t0",
+          "mn28:38.3.t1",
+          "mn28:38.3.t2",
+          "mn28:38.3.t3",
+          "mn28:38.3.t4",
+          "mn28:38.3.t5",
+          "mn28:38.3.t6",
+          "mn28:38.3.t7",
+          "mn28:38.3.t8",
+          "mn28:38.3.t9",
+          "mn28:38.3.t10",
+          "mn28:38.3.t11",
+          "mn28:38.3.t12",
+          "mn28:38.3.t13",
+          "mn28:38.3.t14",
+          "mn28:38.3.t15",
+          "mn28:38.3.t16",
+          "mn28:38.3.t17",
+          "mn28:38.3.t18",
+          "mn28:38.3.t19",
+          "mn28:38.3.t20",
+          "mn28:38.3.t21",
+          "mn28:38.3.t22",
+          "mn28:38.3.t23",
+          "mn28:38.3.t24",
+          "mn28:38.3.t25",
+          "mn28:38.3.t26",
+          "mn28:38.3.t27",
+          "mn28:38.3.t28",
+          "mn28:38.3.t29",
+          "mn28:38.3.t30",
+          "mn28:38.3.t31",
+          "mn28:38.3.t32",
+          "mn28:38.3.t33",
+          "mn28:38.3.t34"
+        ],
+        "review_status": "approved",
+        "content": "如此存在的色，即歸屬於色取蘊；如此存在的受，即歸屬於受取蘊；如此存在的想，即歸屬於想取蘊；如此存在的諸行，即歸屬於行取蘊；如此存在的識，即歸屬於識取蘊。"
+      }
     },
     {
       "segment_id": "mn28:38.4",
@@ -61190,7 +63782,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.4.t0",
+          "mn28:38.4.t1",
+          "mn28:38.4.t2"
+        ],
+        "review_status": "approved",
+        "content": "他如此了知："
+      }
     },
     {
       "segment_id": "mn28:38.5",
@@ -61404,7 +64005,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.5.t0",
+          "mn28:38.5.t1",
+          "mn28:38.5.t2",
+          "mn28:38.5.t3",
+          "mn28:38.5.t4",
+          "mn28:38.5.t5",
+          "mn28:38.5.t6",
+          "mn28:38.5.t7",
+          "mn28:38.5.t8"
+        ],
+        "review_status": "approved",
+        "content": "『原來，這五取蘊正是這樣聚合、集結、會合而成的。』"
+      }
     },
     {
       "segment_id": "mn28:38.6",
@@ -61576,7 +64192,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.6.t0",
+          "mn28:38.6.t1",
+          "mn28:38.6.t2",
+          "mn28:38.6.t3"
+        ],
+        "review_status": "approved",
+        "content": "而這是世尊所說的："
+      }
     },
     {
       "segment_id": "mn28:38.7",
@@ -61774,7 +64400,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.7.t0",
+          "mn28:38.7.t1",
+          "mn28:38.7.t2",
+          "mn28:38.7.t3",
+          "mn28:38.7.t4",
+          "mn28:38.7.t5"
+        ],
+        "review_status": "approved",
+        "content": "見緣起者即見法，"
+      }
     },
     {
       "segment_id": "mn28:38.8",
@@ -62034,7 +64672,20 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.8.t0",
+          "mn28:38.8.t1",
+          "mn28:38.8.t2",
+          "mn28:38.8.t3",
+          "mn28:38.8.t4",
+          "mn28:38.8.t5",
+          "mn28:38.8.t6"
+        ],
+        "review_status": "approved",
+        "content": "見法者即見緣起。"
+      }
     },
     {
       "segment_id": "mn28:38.9",
@@ -62190,7 +64841,17 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.9.t0",
+          "mn28:38.9.t1",
+          "mn28:38.9.t3",
+          "mn28:38.9.t4"
+        ],
+        "review_status": "approved",
+        "content": "而這五取蘊，正是緣起而生的。"
+      }
     },
     {
       "segment_id": "mn28:38.10",
@@ -62441,7 +65102,23 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.10.t0",
+          "mn28:38.10.t1",
+          "mn28:38.10.t2",
+          "mn28:38.10.t3",
+          "mn28:38.10.t4",
+          "mn28:38.10.t5",
+          "mn28:38.10.t6",
+          "mn28:38.10.t7",
+          "mn28:38.10.t8",
+          "mn28:38.10.t9"
+        ],
+        "review_status": "approved",
+        "content": "對這五取蘊懷有欲求、耽戀、愛著、執取，這就是苦的集。"
+      }
     },
     {
       "segment_id": "mn28:38.11",
@@ -62668,7 +65345,22 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.11.t0",
+          "mn28:38.11.t1",
+          "mn28:38.11.t2",
+          "mn28:38.11.t3",
+          "mn28:38.11.t4",
+          "mn28:38.11.t5",
+          "mn28:38.11.t6",
+          "mn28:38.11.t7",
+          "mn28:38.11.t8"
+        ],
+        "review_status": "approved",
+        "content": "對這五取蘊調伏欲貪、斷除欲貪，這就是苦的滅。"
+      }
     },
     {
       "segment_id": "mn28:38.12",
@@ -62851,7 +65543,19 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.12.t0",
+          "mn28:38.12.t1",
+          "mn28:38.12.t2",
+          "mn28:38.12.t3",
+          "mn28:38.12.t4",
+          "mn28:38.12.t6"
+        ],
+        "review_status": "approved",
+        "content": "賢友，僅只如此，比丘便已成就許多了。"
+      }
     },
     {
       "segment_id": "mn28:38.13",
@@ -62962,7 +65666,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.13.t0",
+          "mn28:38.13.t1",
+          "mn28:38.13.t2"
+        ],
+        "review_status": "approved",
+        "content": "尊者舍利弗說了這些話。"
+      }
     },
     {
       "segment_id": "mn28:38.14",
@@ -63336,7 +66049,20 @@
           ]
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.14.t0",
+          "mn28:38.14.t1",
+          "mn28:38.14.t2",
+          "mn28:38.14.t3",
+          "mn28:38.14.t4",
+          "mn28:38.14.t5",
+          "mn28:38.14.t6"
+        ],
+        "review_status": "approved",
+        "content": "那些比丘們對尊者舍利弗所說的話心生歡喜，並表示隨喜。"
+      }
     },
     {
       "segment_id": "mn28:38.15",
@@ -63462,7 +66188,16 @@
           "deconstruction": null
         }
       ],
-      "vernacular_gloss": null
+      "vernacular_gloss": {
+        "generated_by": "claude-sonnet-5",
+        "grounded_on": [
+          "mn28:38.15.t0",
+          "mn28:38.15.t1",
+          "mn28:38.15.t2"
+        ],
+        "review_status": "approved",
+        "content": "《象跡喻大經》第八經，終。"
+      }
     }
   ],
   "passages": [
@@ -63641,8 +66376,106 @@
       }
     }
   ],
-  "summary": null,
-  "study_cards": [],
+  "summary": {
+    "generated_by": "claude-sonnet-5",
+    "grounded_on": [
+      "mn28:2.1",
+      "mn28:2.2",
+      "mn28:2.4",
+      "mn28:3.2",
+      "mn28:3.4",
+      "mn28:4.2",
+      "mn28:5.2",
+      "mn28:6.7",
+      "mn28:6.8",
+      "mn28:6.9",
+      "mn28:7.3",
+      "mn28:7.4",
+      "mn28:8.6",
+      "mn28:8.7",
+      "mn28:9.6",
+      "mn28:9.8",
+      "mn28:12.8",
+      "mn28:17.5",
+      "mn28:22.4",
+      "mn28:26.1",
+      "mn28:26.2",
+      "mn28:27.3",
+      "mn28:28.1",
+      "mn28:28.3",
+      "mn28:28.5",
+      "mn28:28.6",
+      "mn28:28.7",
+      "mn28:28.8",
+      "mn28:28.9"
+    ],
+    "review_status": "approved",
+    "content": "本經是尊者舍利弗對諸比丘的說法。他先以象跡為喻：一切走獸足跡皆可攝入象跡之中，同樣地，一切善法皆攝入四聖諦。接著他說明苦聖諦即是五取蘊——色、受、想、行、識取蘊，其中色取蘊由地、水、火、風四界及依四界而有的色所構成。舍利弗逐一分析地、水、火、風四界，指出無論內在（身體構成）或外在（世界現象），皆同屬一界，終將顯現無常、壞滅、變異之性，故不應執為我、我所、我是。他並示範比丘遭逢辱罵、毆打等逆境時，如何以四界無我之觀照與憶念佛法僧，安立捨心而不動搖。最後說明六根、六境、作意和合而生識，五取蘊由此聚合而成；並引世尊之語「見緣起即見法，見法即見緣起」，指出對五取蘊的欲貪耽著即是苦集，調伏斷除欲貪即是苦滅。"
+  },
+  "study_cards": [
+    {
+      "card_id": "c1",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "象跡喻：一切善法攝入四聖諦",
+      "sources": [
+        "mn28:2.1",
+        "mn28:2.2",
+        "mn28:2.4",
+        "mn28:3.2"
+      ],
+      "content": "舍利弗以走獸足跡皆可攝入象跡為喻，說明一切善法皆攝入四聖諦——苦聖諦、苦集聖諦、苦滅聖諦、導向苦滅之道聖諦。這是全經的總綱，其後內容便是對苦聖諦（五取蘊）的詳細開展，說明佛法修學可以一以貫之地收攝於四諦架構之中。"
+    },
+    {
+      "card_id": "c2",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "四界的觀照：內外同一，無常非我",
+      "sources": [
+        "mn28:6.7",
+        "mn28:6.8",
+        "mn28:6.9",
+        "mn28:7.3",
+        "mn28:7.4",
+        "mn28:12.8",
+        "mn28:17.5",
+        "mn28:22.4"
+      ],
+      "content": "舍利弗逐一分析地、水、火、風四界：每一界都有內在（如身體的骨肉、體液、體溫、氣息）與外在（如大地、江海、野火、狂風）之分，但內外其實都只是同一界而已。即使外在四界如此巨大恆常，也會顯現無常、壞滅、消逝、變異之性，何況這由渴愛所執取、短暫存留的身體，更不應執以為我、我所、我是。以此正慧如實觀照，便能對四界厭離、離貪。"
+    },
+    {
+      "card_id": "c3",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "逆境安忍：以四界無我作意，憶念三寶安立捨心",
+      "sources": [
+        "mn28:8.6",
+        "mn28:8.7",
+        "mn28:9.6",
+        "mn28:9.8"
+      ],
+      "content": "當比丘遭他人辱罵，乃至拳打、石擊、棍毆、刀傷時，應如此了知：耳觸所生的苦受是緣觸而生，並非無因，觸、受、想、行、識皆是無常，使心唯以界為所緣而清淨安住；並憶起世尊於《鋸喻經》的教誡：即使被鋸截肢節亦不應心生瞋恨，應精進、正念、身心安穩地承受。若依此憶念佛法僧仍無法安立捨心，應知這是損失而生悚懼；若能安立捨心，便心生歡喜，如此已是成就良多。"
+    },
+    {
+      "card_id": "c4",
+      "generated_by": "claude-sonnet-5",
+      "review_status": "approved",
+      "title": "六根緣起與五取蘊：見緣起即見法",
+      "sources": [
+        "mn28:26.1",
+        "mn28:26.2",
+        "mn28:27.3",
+        "mn28:28.1",
+        "mn28:28.3",
+        "mn28:28.5",
+        "mn28:28.6",
+        "mn28:28.7",
+        "mn28:28.8",
+        "mn28:28.9"
+      ],
+      "content": "舍利弗說明色身猶如依木材、藤蔓、茅草、泥土圍成的房舍，是依骨、筋、肉、皮圍繞空間而成。當根、境、作意三者和合，相應的識便會生起，由此生起的色、受、想、行、識即分別歸屬五取蘊，五取蘊便是如此聚合而成。他引世尊之語「見緣起者即見法，見法者即見緣起」，指出五取蘊正是緣起而生；對五取蘊的欲求耽著即是苦之集，調伏斷除欲貪即是苦之滅。"
+    }
+  ],
   "manifest": {
     "dpd": "v0.4.20260531",
     "cbeta": "CBETA 2024.R1",

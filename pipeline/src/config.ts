@@ -49,4 +49,15 @@ export const SUTTA_TITLES: Record<string, { pali: string; zh: string; collection
   mn141: { pali: 'Saccavibhaṅgasutta', zh: '諦分別經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   // SN 單經先行（2026-07-03 拍板）：轉法輪經 ↔ 雜阿含379
   'sn56.11': { pali: 'Dhammacakkappavattanasutta', zh: '轉法輪經', collection: 'Saṃyutta Nikāya', collection_zh: '相應部' },
+  // L2_BACKFILL（2026-07-05）：補完 10 部有經無白話的經，一併補標題
+  mn28: { pali: 'Mahāhatthipadopamasutta', zh: '象跡喻大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn36: { pali: 'Mahāsaccakasutta', zh: '薩遮迦大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn38: { pali: 'Mahātaṇhāsaṅkhayasutta', zh: '愛盡大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn27: { pali: 'Cūḷahatthipadopamasutta', zh: '象跡喻小經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn29: { pali: 'Mahāsāropamasutta', zh: '心材喻大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn30: { pali: 'Cūḷasāropamasutta', zh: '心材喻小經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn35: { pali: 'Cūḷasaccakasutta', zh: '薩遮迦小經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn32: { pali: 'Mahāgosiṅgasutta', zh: '牛角林大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn33: { pali: 'Mahāgopālakasutta', zh: '牧牛者大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn39: { pali: 'Mahāassapurasutta', zh: '馬邑大經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
 };
