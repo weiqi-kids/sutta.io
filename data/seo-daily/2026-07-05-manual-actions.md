@@ -33,3 +33,11 @@
 收錄推送：3 新頁 zh+en 6 URL＋/topics/ 已 index-ping（7/7）；sitemap 已重新提交（204）。
 
 **給大腦層**：新 3 頁 review_status=draft（頁面標「人工校稿中」），**大腦層勿動其解說內文、勿自行轉 approved**（慣例 C1）；待用戶校稿。記分板已加 3 詞（S0，tier 5）＋6 頁。
+
+## 情境化第二批（同日續，draft 待校稿）
+
+- five-hindrances 五蓋 → MN23 蟻垤經（蟻丘謎語敘事，避開 satipatthana-practice 列點式重複）
+- letting-go 放下執著/煩惱 → MN2 一切漏經（七種斷除法；誠實框定 āsava≠口語執著，用欲尋/瞋恚尋/渴愛橋接）
+- 4 URL 已 index-ping；既有 6 頁補反向 related_topics。記分板加 2 詞＋4 頁。
+- 情境化累計上線 5 頁（第一批 3＋第二批 2）；候選 sense-pleasures-danger/mn13 因 SERP 過硬暫緩（見 scratchpad/situational-topics.md）。
+- ⚠️ 部署插曲：第二批 push 後 GitHub Pages deploy 步驟一度 "Deployment failed, try again later."（build 成功、純 Pages 基礎設施暫時性錯誤），`gh run rerun --failed` 重跑即成功；非程式問題。
