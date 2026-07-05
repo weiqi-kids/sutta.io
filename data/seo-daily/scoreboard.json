@@ -317,6 +317,32 @@
       "last_action": "launch(draft)",
       "last_action_date": "2026-07-05",
       "note": "情境化第一批・鋸喻經 MN21"
+    },
+    {
+      "keyword": "五蓋是什麼",
+      "tier": 5,
+      "url": "https://sutta.io/topics/five-hindrances/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第二批・蟻垤經 MN23 謎語角度"
+    },
+    {
+      "keyword": "放下執著 佛教",
+      "tier": 5,
+      "url": "https://sutta.io/topics/letting-go/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第二批・一切漏經 MN2 七斷法"
     }
   ],
   "pages": {
@@ -358,7 +384,11 @@
     "https://sutta.io/topics/calming-angry-thoughts/": "unknown",
     "https://sutta.io/en/topics/calming-angry-thoughts/": "unknown",
     "https://sutta.io/topics/facing-criticism/": "unknown",
-    "https://sutta.io/en/topics/facing-criticism/": "unknown"
+    "https://sutta.io/en/topics/facing-criticism/": "unknown",
+    "https://sutta.io/topics/five-hindrances/": "unknown",
+    "https://sutta.io/en/topics/five-hindrances/": "unknown",
+    "https://sutta.io/topics/letting-go/": "unknown",
+    "https://sutta.io/en/topics/letting-go/": "unknown"
   },
   "sitemap_watch": {
     "baseline_date": "2026-07-05",
