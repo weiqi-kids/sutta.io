@@ -359,9 +359,9 @@
     }
   ],
   "pages": {
-    "https://sutta.io/topics/anapanasati/": "URL is unknown to Google",
+    "https://sutta.io/topics/anapanasati/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/anapanasati/": "unknown",
-    "https://sutta.io/topics/anatta/": "URL is unknown to Google",
+    "https://sutta.io/topics/anatta/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/anatta/": "unknown",
     "https://sutta.io/topics/dependent-origination/": "unknown",
     "https://sutta.io/en/topics/dependent-origination/": "unknown",
@@ -377,12 +377,12 @@
     "https://sutta.io/en/topics/sati/": "unknown",
     "https://sutta.io/topics/satipatthana/": "unknown",
     "https://sutta.io/en/topics/satipatthana/": "unknown",
-    "https://sutta.io/topics/satipatthana-practice/": "URL is unknown to Google",
+    "https://sutta.io/topics/satipatthana-practice/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/satipatthana-practice/": "unknown",
     "https://sutta.io/topics/vipassana/": "unknown",
     "https://sutta.io/en/topics/vipassana/": "unknown",
-    "https://sutta.io/agama/": "URL is unknown to Google",
-    "https://sutta.io/nikaya/": "URL is unknown to Google",
+    "https://sutta.io/agama/": "Submitted and indexed",
+    "https://sutta.io/nikaya/": "Discovered - currently not indexed",
     "https://sutta.io/read/sn56.11/": "unknown",
     "https://sutta.io/topics/marana/": "unknown",
     "https://sutta.io/en/topics/marana/": "unknown",
@@ -409,8 +409,14 @@
     "baseline_date": "2026-07-05",
     "baseline_submitted": 11030,
     "target_submitted": 227,
-    "current_submitted": null,
+    "current_submitted": 11120,
     "note": "2026-07-05 sitemap 大瘦身：砍萬計薄字典頁（noindex 對齊＋門檻收緊 usage∪entity）。追 Google 端 submitted 由 11030→~227＝已重抓（好事勿誤報頁面掉），到位後追 coverage 首個 indexed。資料來源：當日 JSON index.sitemaps[].submitted。",
-    "observations": []
+    "observations": [
+      {
+        "date": "2026-07-05",
+        "submitted": 11120,
+        "note": "當日 JSON 於 12:00 UTC 收集，早於下午 sitemap 瘦身程式碼部署與 GSC 重新提交（見 2026-07-05-manual-actions.md），故仍近基準值，屬預期中的抓取延遲，非異常。預期 07-06 起開始收斂。"
+      }
+    ]
   }
 }
