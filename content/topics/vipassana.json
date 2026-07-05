@@ -1,8 +1,8 @@
 {
   "slug": "vipassana",
-  "review_status": "approved",
+  "review_status": "draft",
   "generated_by": "claude-fable-5",
-  "date": "2026-07-03",
+  "date": "2026-07-05",
   "zh": {
     "title": "內觀（vipassanā）",
     "seo_title": "內觀是什麼？vipassanā 在巴利原典中的意思（不只是十日課程）",
@@ -76,6 +76,33 @@
         ]
       },
       {
+        "heading": "觀生滅，落實在五蘊上",
+        "paragraphs": [
+          "前一節那句「隨觀生起、隨觀滅去、隨觀生滅」，並不是身念處專有的話——它是一句貫穿四念處的定型句，在受、心、法每一處的每一節末尾都同樣重複。換句話說，「觀生滅」不是只觀呼吸或身體，而是對當下一切身心現象一致地看見它們的生與滅。",
+          "這個「生滅」在法念處的五取蘊一節被講得最具體。《念處經》要修行者就五蘊一項一項地看：「如是色、如是色之集、如是色之滅」，受、想、行、識亦然。觀的對象因此不是抽象的「無常」二字，而是色如何生起又如何滅去、受如何生起又如何滅去——把「生滅」還原到五蘊這些可以被直接經驗的項目上。",
+          "這正說明了為什麼經典總把「觀」與四念處、五蘊綁在一起講：所謂如實看見，就是在身、受、心、法與五蘊上，一次次看見生起與滅去，而不是外求一個特別的境界。觀的細膩與深度，都落在這些平常的所緣裡。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:38.4",
+              "mn10:38.5",
+              "mn10:38.6",
+              "mn10:38.7"
+            ],
+            "lead": "法念處的五取蘊——就每一蘊看見它的集起與滅去："
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:33.2"
+            ],
+            "lead": "同一句生滅隨觀的定型句也收束受念處："
+          }
+        ]
+      },
+      {
         "heading": "觀不孤起：與念、定的關係",
         "paragraphs": [
           "在經典的次第中，「觀」不是一個可以單獨抽出來操作的動作，它以念（sati，持續不忘失的覺知）為前提，並與定（samādhi）相互增上。《入出息念經》給出一條清楚的因果鏈：入出息念修習多修習，能令四念處圓滿；四念處圓滿七覺支；七覺支圓滿明與解脫。觀慧（明）是這條鏈的成熟果實，而不是起點的技巧。",
@@ -101,6 +128,31 @@
             "lead": "觀以念與正知為前提："
           }
         ]
+      },
+      {
+        "heading": "觀的導向：厭離、離貪、解脫",
+        "paragraphs": [
+          "觀生滅不是終點，而是有方向的。《入出息念經》十六勝行的最後一組，把「隨觀」明確地指向無常、離欲、滅、捨遣——看見生滅之後，心自然傾向於鬆手，而不是抓取。同一部經談七覺支的修習時，也一再說這修習「依遠離、依離欲、依滅，趣向捨」。「觀」從頭到尾都朝著放下的方向走。",
+          "《蛇喻經》（MN22）把這條路線講成一串清楚的次第：多聞的聖弟子如實看見五蘊之後，對色、受、想、行、識生起厭離；「厭離則離貪，由離貪而解脫」，於解脫時生起「已解脫」之智。厭離、離貪、解脫——這是「觀」如實看見無常之後，經典所描述的成熟走向。",
+          "因此，若問「觀」最終要把人帶到哪裡，經文的答案不是某種特殊體驗，而是對身心的鬆綁：看清生滅，減卻貪愛，趨向自在。這也補全了本頁一開始所說「觀是慧的那一面」的意思——它的價值，正在於它所導向的解脫。"
+        ],
+        "quotes": [
+          {
+            "sutta": "mn22",
+            "segment_ids": [
+              "mn22:28.1",
+              "mn22:29.1"
+            ],
+            "lead": "從如實看見到厭離、離貪、解脫："
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": [
+              "mn118:42.7"
+            ],
+            "lead": "覺支的修習皆傾向遠離、離欲、滅、捨："
+          }
+        ]
       }
     ],
     "mahayana_note": "今日大眾熟悉的「內觀課程」，多源自十九世紀末以降緬甸的內觀復興運動。雷迪西亞多（Ledi Sayadaw）推動在家眾學習教理與禪修，其法脈經烏巴慶（U Ba Khin）傳至葛印卡（S. N. Goenka），發展出以觀察全身感受為特色、在全球廣設中心的十日課程系統。另一主要法脈出自馬哈希西亞多（Mahasi Sayadaw），以觀照腹部起伏並在心中標記為方法，深刻影響東南亞與西方的內觀禪修中心。這些現代體系皆自承以四念處為依據，於入手處與方法編排上各有抉擇。本站依巴利原典呈現「觀」的原貌，供對照參考，不評騭高下。",
@@ -120,6 +172,10 @@
       {
         "q": "內觀危險嗎？",
         "a": "就經典的呈現而言，觀從不孤立進行：它以戒為基礎、與止並行，修行的次第本身就包含喜、輕安、樂、定等身心安定的環節，並以捨（平等心）貫穿。經文也提醒，這條路以念與正知為前提。就常識而言，任何密集禪修對於有特定身心狀況的人，宜在合格指導下循序進行——這是一般性的提醒，不是醫療建議。"
+      },
+      {
+        "q": "經典裡有「內觀」這個法門嗎？",
+        "a": "就本頁所依的《念處經》（MN10）與《入出息念經》（MN118）而言，vipassanā（內觀）這個詞並未作為某個獨立法門的名字出現。經典是以「隨觀」（anupassanā）與觀生滅、觀無常的定型句，來呈現「觀」的實際內容；承載這份內容的具體修法，是四念處。後世（註釋書傳統與現代各禪修體系）所說的「修內觀」，其操作核心即源於這些段落；但把它理解成佛陀另外編排的一套專門技術，並不符合原典的用語。這一點無損於「觀」的重要——它始終是慧學不可或缺的一面，只是不宜當成一個獨立門派的專名。"
       }
     ],
     "related_topics": [
@@ -130,7 +186,8 @@
     ],
     "related_suttas": [
       "mn10",
-      "mn118"
+      "mn118",
+      "mn22"
     ],
     "related_lexicon": []
   },
@@ -207,6 +264,33 @@
         ]
       },
       {
+        "heading": "Grounding Arising and Passing in the Five Aggregates",
+        "paragraphs": [
+          "That refrain — 'contemplating arising, contemplating vanishing, contemplating both arising and vanishing' — is not peculiar to the body. It is a formula that runs through all four foundations, repeated at the close of each section on feelings, mind, and dhammas as well. In other words, watching arising and passing is not confined to the breath or the body; it is the same clear seeing applied evenhandedly to whatever body-and-mind phenomenon is present.",
+          "This 'arising and passing' is spelled out most concretely in the section of dhamma-contemplation on the five aggregates. MN 10 has the practitioner examine each aggregate in turn: 'such is form, such is the arising of form, such is the passing of form,' and likewise for feeling, perception, formations, and consciousness. The object of insight is therefore not the abstract word 'impermanence' but how form actually arises and passes, how feeling actually arises and passes — impermanence returned to the concrete, experienceable items of the five aggregates.",
+          "This is exactly why the suttas keep tying insight to the four foundations and the five aggregates: seeing things as they are means, again and again, watching arising and passing in body, feelings, mind, dhammas, and the aggregates — not reaching outward for a special state. The subtlety and depth of insight lie within these ordinary objects."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:38.4",
+              "mn10:38.5",
+              "mn10:38.6",
+              "mn10:38.7"
+            ],
+            "lead": "The five aggregates in dhamma-contemplation — seeing each aggregate's arising and passing:"
+          },
+          {
+            "sutta": "mn10",
+            "segment_ids": [
+              "mn10:33.2"
+            ],
+            "lead": "The same refrain on arising and passing also closes the contemplation of feelings:"
+          }
+        ]
+      },
+      {
         "heading": "Insight Does Not Stand Alone: Mindfulness and Concentration",
         "paragraphs": [
           "In the graduated path of the suttas, insight is not a maneuver that can be extracted and performed on its own. It presupposes mindfulness (sati, sustained unforgetful awareness) and grows together with concentration (samādhi). MN 118 lays out an explicit causal chain: mindfulness of breathing, developed and cultivated, fulfills the four foundations of mindfulness; these fulfill the seven awakening factors; and these fulfill true knowledge and liberation. Insight-knowledge is the ripened fruit of this chain, not a starting technique.",
@@ -232,6 +316,31 @@
             "lead": "Insight presupposes mindfulness and clear comprehension:"
           }
         ]
+      },
+      {
+        "heading": "Where Insight Leads: Disenchantment, Dispassion, Release",
+        "paragraphs": [
+          "Watching arising and passing is not an end in itself; it has a direction. The final tetrad of MN 118's sixteen steps points contemplation explicitly toward impermanence, dispassion, cessation, and relinquishment — having seen arising and passing, the mind naturally inclines to let go rather than to grasp. The same discourse, describing the cultivation of the seven awakening factors, says again and again that this cultivation is 'dependent on seclusion, dependent on dispassion, dependent on cessation, ripening in letting go.' From start to finish, insight moves in the direction of release.",
+          "The Alagaddūpamasutta (MN 22) states the trajectory as a clear sequence: having seen the five aggregates as they are, the learned noble disciple grows disenchanted with form, feeling, perception, formations, and consciousness; 'through disenchantment he becomes dispassionate; through dispassion he is liberated; and in liberation there arises the knowledge that he is liberated.' Disenchantment, dispassion, liberation — this is the mature trajectory the suttas describe once insight has clearly seen impermanence.",
+          "So if we ask where insight is finally meant to lead, the answer of the texts is not some special experience but a loosening of the grip on body and mind: seeing arising and passing clearly, thinning out craving, inclining toward freedom. This completes what the page said at the outset — that insight is the wisdom side of practice — for its value lies precisely in the release it points toward."
+        ],
+        "quotes": [
+          {
+            "sutta": "mn22",
+            "segment_ids": [
+              "mn22:28.1",
+              "mn22:29.1"
+            ],
+            "lead": "From seeing as it is to disenchantment, dispassion, and liberation:"
+          },
+          {
+            "sutta": "mn118",
+            "segment_ids": [
+              "mn118:42.7"
+            ],
+            "lead": "The awakening factors are cultivated inclining toward seclusion, dispassion, cessation, and letting go:"
+          }
+        ]
       }
     ],
     "mahayana_note": "The 'vipassana courses' most people encounter today descend from the Burmese insight-meditation revival that began in the late nineteenth century. Ledi Sayadaw (1846–1923) encouraged lay people to study doctrine and meditate; his lineage passed through U Ba Khin (1899–1971) to S. N. Goenka (1924–2013), whose ten-day course system, characterized by systematic scanning of bodily sensations, now operates centers worldwide. A second major lineage stems from Mahasi Sayadaw (1904–1982), whose method of observing the rise and fall of the abdomen with mental noting shaped insight-meditation centers across South and Southeast Asia and deeply influenced the Western insight meditation movement. All of these modern systems present themselves as grounded in the four foundations of mindfulness, while making their own choices of entry point and method. This site presents the canonical picture of insight as it stands in the Pali texts, for comparison and reference, without ranking one lineage above another.",
@@ -251,6 +360,10 @@
       {
         "q": "Is vipassana dangerous?",
         "a": "As the suttas present it, insight never proceeds in isolation: it rests on virtue, runs alongside calm, and the path itself passes through stages of ease — rapture, tranquility, happiness, concentration — held together by equanimity. The texts also make mindfulness and clear comprehension prerequisites throughout. As a matter of common sense, intensive retreat practice is best undertaken gradually and with qualified guidance for anyone with particular physical or mental health conditions — a general observation, not medical advice."
+      },
+      {
+        "q": "Is there a 'vipassana technique' in the suttas?",
+        "a": "In the two discourses this page draws on — MN 10 and MN 118 — the word vipassanā does not appear as the name of a standalone technique. The suttas convey the working content of insight through the language of contemplation (anupassanā) and the refrains on arising, passing, and impermanence; the concrete practice that carries this content is satipaṭṭhāna, the four foundations of mindfulness. When later tradition — commentarial and modern alike — speaks of 'practicing vipassana,' its operational core originates in these passages; but taking it to be a separate technique the Buddha set out by that name does not match the usage of the texts. None of this diminishes the importance of insight — it remains an indispensable dimension of wisdom — it simply should not be treated as the proper name of a separate school."
       }
     ],
     "related_topics": [
@@ -261,7 +374,8 @@
     ],
     "related_suttas": [
       "mn10",
-      "mn118"
+      "mn118",
+      "mn22"
     ],
     "related_lexicon": []
   }
