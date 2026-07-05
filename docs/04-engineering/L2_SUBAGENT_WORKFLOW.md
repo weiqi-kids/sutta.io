@@ -47,6 +47,13 @@ node scripts/l2-batch-merge.mjs <id> /tmp/out-<id>-1.json
 - 研經卡：1–3 張，寫進 `study_cards` 陣列（card_id/title/content/sources/review_status）。
 （格式參考既有完整經，如 `data/mn10.json`。）
 
+**去 AI 味守則（概要/研經卡必守，2026-07-05 加入）**：白話走嚴格 grounded 直譯本就不易有 AI 腔，但概要/研經卡是敘述文，須主動避免：
+- 禁用套話：「不僅…更是」「值得注意的是」「總的來說／綜上」「展現了／體現了／彰顯」「啟示／提醒我們」「本經旨在」「無論是…還是」。
+- 不用「本經是…的說法」框架句開場，直接進內容；結尾不另加拔高小結。
+- 不自造「並非…並非…而是」「此即…此即」對仗來收束（照抄經文原排比句除外）。
+- 句子長短交錯、破折號與頓號堆疊節制；具體（誰對誰說什麼、什麼喻、得什麼）優於抽象大詞。
+仍守 grounded、不發揮、不裁決教義、台灣繁中。可複用 `/tmp/summary-antiai-instructions.md` 當共用規則檔。
+
 ### 6. 背景脈絡（J-2/J-3，選配）
 `content/context/<id>.json`（緣起，從 nidāna 結構化）、`content/entities/<id>.json`（人地事專名，occ_segment 須驗證）。格式見既有檔。
 
