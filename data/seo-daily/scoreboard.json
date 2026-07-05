@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated": "2026-07-04",
+    "updated": "2026-07-05",
     "launched": "2026-07-03",
     "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md",
-    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md"
+    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md ｜2026-07-05 情境化主題頁第一批 3 頁上線（draft 待校稿）＋sitemap 11120→227 收斂＋主題頁加 DefinedTerm。"
   },
   "keywords": [
     {
@@ -278,6 +278,45 @@
       "last_action": "launch",
       "last_action_date": "2026-07-03",
       "note": "第四梯隊 A 組"
+    },
+    {
+      "keyword": "面對恐懼 佛教",
+      "tier": 5,
+      "url": "https://sutta.io/topics/facing-fear/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第一批・怖駭經 MN4"
+    },
+    {
+      "keyword": "負面念頭 停不下來",
+      "tier": 5,
+      "url": "https://sutta.io/topics/calming-angry-thoughts/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第一批・息止尋念經 MN20"
+    },
+    {
+      "keyword": "被批評 毀謗 怎麼辦",
+      "tier": 5,
+      "url": "https://sutta.io/topics/facing-criticism/",
+      "state": "S0",
+      "state_since": "2026-07-05",
+      "impr_7d": 0,
+      "clicks_7d": 0,
+      "best_pos": null,
+      "last_action": "launch(draft)",
+      "last_action_date": "2026-07-05",
+      "note": "情境化第一批・鋸喻經 MN21"
     }
   ],
   "pages": {
@@ -313,6 +352,12 @@
     "https://sutta.io/topics/ananda/": "unknown",
     "https://sutta.io/en/topics/ananda/": "unknown",
     "https://sutta.io/topics/reading-guide/": "unknown",
-    "https://sutta.io/en/topics/reading-guide/": "unknown"
+    "https://sutta.io/en/topics/reading-guide/": "unknown",
+    "https://sutta.io/topics/facing-fear/": "unknown",
+    "https://sutta.io/en/topics/facing-fear/": "unknown",
+    "https://sutta.io/topics/calming-angry-thoughts/": "unknown",
+    "https://sutta.io/en/topics/calming-angry-thoughts/": "unknown",
+    "https://sutta.io/topics/facing-criticism/": "unknown",
+    "https://sutta.io/en/topics/facing-criticism/": "unknown"
   }
 }
