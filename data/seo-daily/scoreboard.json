@@ -359,5 +359,13 @@
     "https://sutta.io/en/topics/calming-angry-thoughts/": "unknown",
     "https://sutta.io/topics/facing-criticism/": "unknown",
     "https://sutta.io/en/topics/facing-criticism/": "unknown"
+  },
+  "sitemap_watch": {
+    "baseline_date": "2026-07-05",
+    "baseline_submitted": 11030,
+    "target_submitted": 227,
+    "current_submitted": null,
+    "note": "2026-07-05 sitemap 大瘦身：砍萬計薄字典頁（noindex 對齊＋門檻收緊 usage∪entity）。追 Google 端 submitted 由 11030→~227＝已重抓（好事勿誤報頁面掉），到位後追 coverage 首個 indexed。資料來源：當日 JSON index.sitemaps[].submitted。",
+    "observations": []
   }
 }
