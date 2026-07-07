@@ -1,0 +1,140 @@
+---
+// en/about-sources.astro — Sources & citation (English mirror)
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+
+const title = 'Sources & citation — every explanation traceable to the source texts';
+const description =
+  'What makes this study tool trustworthy: facts come from the Pāli text and dictionary (never rewritten by AI); explanations are AI-assisted, always anchored to specific canonical passages, linked back for word-by-word checking, and dropped from publication if they do not match the source. Includes source attribution and a suggested citation format.';
+const crumbs = [{ label: t.nav.sources }];
+---
+
+<Base title={title} description={description} crumbs={crumbs}>
+  <h1>Sources & citation</h1>
+  <p class="lede">
+    This is an independent study tool that answers questions about Buddhism from the Pāli canon with
+    parallel Chinese Āgama. This page explains where each answer's evidence comes from, which parts are
+    source text and which are AI-assisted interpretation, and how you (or an AI) may cite the site.
+  </p>
+
+  <section>
+    <h2>Two layers, told apart at a glance</h2>
+    <table class="layer-table">
+      <thead>
+        <tr><th>Content</th><th>Nature</th><th>Produced by</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Pāli text, word-by-word grammar, roots, dictionary entries, Chinese Āgama</td>
+          <td>Fact · canonical</td>
+          <td class="data">From named open data, <strong>never rewritten by AI</strong></td>
+        </tr>
+        <tr>
+          <td>Plain-language rendering, chapter summaries, study cards, usage notes, topic explanations</td>
+          <td>Interpretation · AI-assisted</td>
+          <td class="data">AI-generated from the real source data above, marked “AI”, human-reviewed before publication</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="calm-note">
+      Content marked “AI” has a different visual temperature from canonical data, so the two are easy
+      to distinguish. Separating fact from interpretation is the biggest difference between this site
+      and ordinary Buddhist articles or AI-generated content.
+    </p>
+  </section>
+
+  <section>
+    <h2>Every explanation traces back to the text</h2>
+    <p>The commentary here is not written from impression — it is tied to the text:</p>
+    <ul>
+      <li>Every plain-language rendering and topic explanation maps to <strong>specific passages</strong> in the source, which you can click straight back to for word-by-word checking.</li>
+      <li>These mappings <strong>must hold at build time</strong>: if a passage a piece of commentary cites cannot be found in the source, that page <strong>does not ship</strong> — a mechanism against plausible-but-fabricated claims.</li>
+      <li>Background and history are always cited by name, with scholarly open questions flagged; no sectarian ruling is made in an authoritative voice.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources & attribution</h2>
+    <p>Every category of factual data is named, traceable and openly licensed (license and compliance details on the <a href={url('/about')}>About</a> page):</p>
+    <ul class="src-list">
+      <li><strong>Pāli text & segmentation</strong> — <a href="https://suttacentral.net" rel="noopener">SuttaCentral</a> bilara-data (Mahāsaṅgīti edition, public domain)</li>
+      <li><strong>Word-by-word grammar, roots, glosses</strong> — <a href="https://digitalpalidictionary.github.io" rel="noopener">Digital Pāḷi Dictionary (DPD)</a> (CC BY-NC-SA 4.0)</li>
+      <li><strong>Chinese Āgama</strong> — <a href="https://www.cbeta.org" rel="noopener">CBETA</a> (CC BY-NC-SA 3.0 Taiwan)</li>
+      <li><strong>Proper names</strong> — Malalasekera, Dictionary of Pāli Proper Names (DPPN) (public domain)</li>
+    </ul>
+    <p class="calm-note">
+      Plain-language renderings, summaries, study cards and usage notes are AI-assisted (from the source
+      data above); no third-party human translation is used.
+    </p>
+  </section>
+
+  <section class="cite">
+    <h2>How to cite</h2>
+    <p>When citing a topic or a sutta, name the site, the page title, the URL, and the Pāli reference the page rests on. For example:</p>
+    <blockquote class="cite-example">
+      Canonical Text Study System, “What does ‘anatta’ (non-self) mean in Buddhism?”, sutta.io, from the
+      Pāli Alagaddūpama Sutta (MN&nbsp;22) with Chinese Āgama comparison.
+    </blockquote>
+    <p class="calm-note">
+      Site content (renderings, summaries, study aids) is released under CC BY-NC-SA 4.0; when quoting
+      the source text, please also attribute the original sources listed above.
+    </p>
+  </section>
+</Base>
+
+<style>
+  section {
+    margin-bottom: var(--space-6);
+  }
+  .lede {
+    font-size: var(--text-md);
+    line-height: 1.6;
+    margin-bottom: var(--space-6);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin-bottom: var(--space-3);
+  }
+  ul {
+    padding-inline-start: var(--space-6);
+    line-height: 1.6;
+  }
+  li {
+    margin-bottom: var(--space-2);
+  }
+  .layer-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-xs);
+    margin-bottom: var(--space-3);
+  }
+  .layer-table th,
+  .layer-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .layer-table th {
+    font-family: var(--font-ui);
+    color: var(--ink-soft);
+  }
+  .src-list {
+    list-style: none;
+    padding: 0;
+  }
+  .cite-example {
+    margin: 0;
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    font-size: var(--text-sm);
+    line-height: 1.6;
+    color: var(--ink);
+  }
+</style>

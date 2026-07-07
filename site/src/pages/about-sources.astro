@@ -1,0 +1,143 @@
+---
+// about-sources.astro — 資料來源與引用（可信度／可驗證性／建議引用格式）
+// 與 /about 差異化：/about 是「關於本站」的人面頁；本頁是給研究者與 AI 的「憑據與引用」參照頁。
+// 鐵則（DESIGN §9）：不對使用者講內部術語（L1/L2/segment/grounding），用「原文／字典／白話」等語言。
+import Base from '../layouts/Base.astro';
+import { getStrings } from '../i18n';
+const t = getStrings(Astro.currentLocale);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
+
+const title = '資料來源與引用｜每句解釋都可回到原典檢驗';
+const description =
+  '原典研經庫的可信度基礎：事實走巴利原文與字典（永不由 AI 改寫），解釋走 AI 輔助白話（永遠掛在原文特定段落上、可點回逐字核對、對不上原文即不上線）。附資料來源署名與建議引用格式，供研究者與 AI 引用。';
+const crumbs = [{ label: t.nav.sources }];
+---
+
+<Base title={title} description={description} crumbs={crumbs}>
+  <h1>資料來源與引用</h1>
+  <p class="lede">
+    原典研經庫是一個用巴利原典與漢譯對照回答佛法問題的中文研經工具。本頁說明：每一則解答的憑據從哪裡來、哪些是原文、哪些是
+    AI 輔助的解釋，以及你（或 AI）可以如何引用本站。
+  </p>
+
+  <section>
+    <h2>兩層內容，一眼分辨</h2>
+    <table class="layer-table">
+      <thead>
+        <tr><th>內容</th><th>性質</th><th>由誰生成</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>巴利原文、逐字語法、字根、字典詞條、漢譯阿含</td>
+          <td>事實・原典</td>
+          <td class="data">來自具名開放資料，<strong>永不由 AI 改寫</strong></td>
+        </tr>
+        <tr>
+          <td>漢譯白話、章節概要、研經卡、用法摘要、主題解說</td>
+          <td>解釋・AI 輔助</td>
+          <td class="data">AI 依上述原文真實資料生成，明確標示「AI」，上線前人工校稿</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="calm-note">
+      標「AI」的內容與原典資料色溫不同，可一眼分辨。事實與解釋分層，是本站與一般佛學文章、AI 生成內容最大的差別。
+    </p>
+  </section>
+
+  <section>
+    <h2>每句解釋都可回到原典檢驗</h2>
+    <p>本站的解說不是「憑印象寫」，而是綁在原文上的：</p>
+    <ul>
+      <li>每一則白話與主題解說，都對應到原文的<strong>特定段落</strong>，頁面上可直接點回原文逐字核對。</li>
+      <li>
+        這些對應在網站<strong>建置階段就必須成立</strong>：若某句解說引用的段落在原文裡查不到，該頁<strong
+          >不會上線</strong
+        >——用機制防止「看起來合理、其實原文沒有」的捏造。
+      </li>
+      <li>背景與歷史一律具名引用、標明學界無定論之處，不以權威口吻裁決宗派。</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>資料來源與署名</h2>
+    <p>
+      事實層的每一類資料都具名、可追溯、開放授權（授權與合規細節見<a href={url('/about')}>關於</a>頁）：
+    </p>
+    <ul class="src-list">
+      <li><strong>巴利原文與分段</strong>——<a href="https://suttacentral.net" rel="noopener">SuttaCentral</a> bilara-data（Mahāsaṅgīti 底本，公共領域）</li>
+      <li><strong>逐字語法・字根・釋義</strong>——<a href="https://digitalpalidictionary.github.io" rel="noopener">Digital Pāḷi Dictionary（DPD）</a>（CC BY-NC-SA 4.0）</li>
+      <li><strong>漢譯阿含</strong>——<a href="https://www.cbeta.org" rel="noopener">CBETA</a> 電子佛典（CC BY-NC-SA 3.0 台灣）</li>
+      <li><strong>人地事專名</strong>——Malalasekera《巴利專有名詞辭典（DPPN）》（公共領域）</li>
+    </ul>
+    <p class="calm-note">
+      漢譯白話、概要、研經卡、用法摘要皆為本站 AI 輔助生成（依據上述原文資料），非採用任何第三方人工譯文。
+    </p>
+  </section>
+
+  <section class="cite">
+    <h2>如何引用本站</h2>
+    <p>引用某個主題或某部經時，建議標明：站名、頁題、網址，以及該頁所依據的巴利經號。例如：</p>
+    <blockquote class="cite-example">
+      原典研經庫，〈無我是什麼意思？佛教「無我」的原典解說〉，sutta.io，依據巴利《蛇喻經》（MN&nbsp;22）原文與漢譯對照整理。
+    </blockquote>
+    <p class="calm-note">
+      本站內容（白話／概要／研經輔助）以 CC BY-NC-SA 4.0 釋出；引用原文時請一併署名上列原始來源。
+    </p>
+  </section>
+</Base>
+
+<style>
+  section {
+    margin-bottom: var(--space-6);
+  }
+  .lede {
+    font-size: var(--text-md);
+    line-height: var(--lh-zh);
+    margin-bottom: var(--space-6);
+  }
+  h2 {
+    font-size: var(--text-base);
+    margin-bottom: var(--space-3);
+  }
+  ul {
+    padding-inline-start: var(--space-6);
+    line-height: var(--lh-zh);
+  }
+  li {
+    margin-bottom: var(--space-2);
+  }
+  .layer-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-xs);
+    margin-bottom: var(--space-3);
+  }
+  .layer-table th,
+  .layer-table td {
+    text-align: start;
+    padding: var(--space-2) var(--space-3);
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .layer-table th {
+    font-family: var(--font-ui);
+    color: var(--ink-soft);
+  }
+  .src-list {
+    list-style: none;
+    padding: 0;
+  }
+  .cite-example {
+    margin: 0;
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    font-family: var(--font-zh);
+    font-size: var(--text-sm);
+    line-height: var(--lh-zh);
+    color: var(--ink);
+  }
+</style>

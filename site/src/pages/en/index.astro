@@ -2,24 +2,46 @@
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { listSuttas } from '../../lib/data';
+import { listSuttas, listTopics } from '../../lib/data';
+import { pickTopics, HOME_FEATURED_QUESTIONS } from '../../lib/questionMap';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => `${base}/en${p}` || '/en';
 const suttas = listSuttas();
 // 精選一部代表經作為閱讀入口示範（SITE_IA §4）
 const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
+const askQuestions = pickTopics(listTopics(), HOME_FEATURED_QUESTIONS);
 ---
 
 <Base title={undefined}>
   <section class="hero">
     <h1 class="hero-title">{t.site.name}</h1>
-    <p class="hero-tagline">{t.site.tagline}</p>
+    <p class="hero-value">{t.home.valueLine}</p>
+    <p class="hero-tagline calm-note">{t.site.tagline}</p>
     <p class="unofficial calm-note">
       {t.site.unofficial}・<a href={url('/about')}>{t.nav.about}</a>
     </p>
   </section>
 
+  {
+    askQuestions.length > 0 && (
+      <section class="ask" aria-labelledby="ask-h">
+        <h2 id="ask-h" class="ask-h">{t.home.askTitle}</h2>
+        <ul class="ask-list">
+          {askQuestions.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>{tp.en.question}</a>
+            </li>
+          ))}
+        </ul>
+        <a class="ask-more" href={url('/questions')}>
+          {t.home.askMore} →
+        </a>
+      </section>
+    )
+  }
+
+  <p class="tools-label calm-note">{t.home.toolsLabel}</p>
   <nav class="entries" aria-label="主要入口">
     <a class="entry" href={url('/browse')}>
       <span class="entry-label">{t.home.browseCollection}</span>
@@ -59,15 +81,54 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
     font-size: var(--size-title);
     margin: 0 0 var(--space-2);
   }
+  .hero-value {
+    font-size: var(--text-md);
+    color: var(--ink);
+    line-height: 1.5;
+    margin: 0 0 var(--space-2);
+  }
   .hero-tagline {
-    color: var(--ink-soft);
     margin: 0 0 var(--space-3);
+  }
+  .ask {
+    margin: var(--space-6) 0;
+  }
+  .ask-h {
+    font-size: var(--text-base);
+    margin: 0 0 var(--space-3);
+  }
+  .ask-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-3);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2) var(--space-4);
+  }
+  .ask-list a {
+    display: block;
+    padding: var(--space-2) 0;
+    font-size: var(--text-sm);
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .ask-list a:hover {
+    color: var(--thread);
+  }
+  .ask-more {
+    font-family: var(--font-ui);
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .tools-label {
+    margin: var(--space-8) 0 var(--space-2);
   }
   .entries {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: var(--space-3);
-    margin: var(--space-6) 0;
+    margin: 0 0 var(--space-6);
   }
   .entry {
     display: flex;
@@ -111,6 +172,9 @@ const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
   }
   @media (max-width: 640px) {
     .entries {
+      grid-template-columns: 1fr;
+    }
+    .ask-list {
       grid-template-columns: 1fr;
     }
   }

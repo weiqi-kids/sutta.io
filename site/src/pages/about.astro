@@ -3,6 +3,8 @@ import Base from '../layouts/Base.astro';
 import { getStrings } from '../i18n';
 const t = getStrings(Astro.currentLocale);
 const crumbs = [{ label: t.nav.about }];
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}${p}` || '/';
 ---
 
 <Base title={t.about.title} description={t.about.desc} crumbs={crumbs}>
@@ -62,6 +64,9 @@ const crumbs = [{ label: t.nav.about }];
       漢譯白話、概要、研經卡、用法摘要、策展重排為本站 AI 輔助生成（依據上述原文資料），<strong
         >非採用任何第三方人工譯文</strong
       >，故無第三方譯文授權牽涉。世界總覽頁的學界陳述具名引用見該頁參考文獻。
+    </p>
+    <p class="calm-note">
+      每一則解答如何回到原典檢驗、以及建議的引用格式，見<a href={url('/about-sources')}>資料來源與引用</a>。
     </p>
   </section>
 

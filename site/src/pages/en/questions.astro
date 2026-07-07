@@ -1,0 +1,143 @@
+---
+// en/questions.astro — Dhamma question map (English mirror)
+import Base from '../../layouts/Base.astro';
+import { getStrings } from '../../i18n';
+const t = getStrings(Astro.currentLocale);
+import { listTopics } from '../../lib/data';
+import { groupTopics } from '../../lib/questionMap';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+const { groups, leftover } = groupTopics(listTopics());
+const abs = (p: string) => new URL(url(p), Astro.site ?? 'https://sutta.io').href;
+
+const title = 'Dhamma question map — start from your question, answered from the source texts';
+const description =
+  'What is non-self? How is satipaṭṭhāna practised? How does Buddhism view death, or actually let go of attachment? Common questions grouped by core teaching, meditation, everyday struggles and people — each answered from Pāli canonical passages with parallel plain-language rendering, every explanation anchored to verifiable text.';
+const crumbs = [{ label: t.nav.questions }];
+
+const allItems = [...groups.flatMap((g) => g.items), ...leftover];
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Dhamma question map',
+  description:
+    'Common questions about Buddhism, each linking to a topic answered from Pāli canonical passages with parallel plain-language rendering.',
+  numberOfItems: allItems.length,
+  itemListElement: allItems.map((tp, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: tp.en.question,
+    url: abs(`/topics/${tp.slug}`),
+  })),
+};
+---
+
+<Base title={title} description={description} crumbs={crumbs} extraSchema={itemListSchema}>
+  <h1>Dhamma question map</h1>
+  <p class="intro">
+    You don't need to know sutta numbers or read Pāli first — <strong>start from your question</strong>. Each
+    one is answered from <strong>the source texts themselves</strong>: a one-sentence definition, then
+    canonical passages unpacked step by step, every quote linking to the full text for word-by-word
+    verification. Commentary is AI-written from real textual data and clearly labelled; facts always
+    return to the canon and dictionary.
+  </p>
+
+  {
+    groups.map((g) => (
+      <section class="qgroup" aria-labelledby={`g-${g.id}`}>
+        <h2 id={`g-${g.id}`} class="qgroup-h">
+          {g.en}
+        </h2>
+        <ul class="qlist">
+          {g.items.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.en.question}</span>
+                <span class="def">{tp.en.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  {
+    leftover.length > 0 && (
+      <section class="qgroup" aria-labelledby="g-more">
+        <h2 id="g-more" class="qgroup-h">
+          More topics
+        </h2>
+        <ul class="qlist">
+          {leftover.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.en.question}</span>
+                <span class="def">{tp.en.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {allItems.length === 0 && <p class="calm-note">Topic pages are in production.</p>}
+
+  <p class="foot calm-note">
+    Want the full catalogue by topic? Go to <a href={url('/topics')}>Topics</a>. For where each answer's
+    data comes from and how to cite it, see <a href={url('/about-sources')}>Sources & citation</a>.
+  </p>
+</Base>
+
+<style>
+  .intro {
+    margin-bottom: var(--space-6);
+    line-height: 1.6;
+  }
+  .qgroup {
+    margin-bottom: var(--space-6);
+  }
+  .qgroup-h {
+    font-size: var(--text-base);
+    padding-bottom: var(--space-2);
+    margin-bottom: var(--space-2);
+    border-bottom: 1px solid var(--rule);
+  }
+  .qlist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .qlist li {
+    border-bottom: 1px solid var(--rule);
+  }
+  .qlist a {
+    display: block;
+    padding: var(--space-3) var(--space-1);
+    text-decoration: none;
+  }
+  .qlist a:hover .q {
+    color: var(--thread);
+  }
+  .q {
+    display: block;
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: var(--space-1);
+  }
+  .def {
+    display: block;
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+    line-height: 1.6;
+  }
+  .foot {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+    line-height: 1.6;
+  }
+</style>
