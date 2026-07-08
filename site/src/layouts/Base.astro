@@ -38,6 +38,8 @@ interface Props {
   extraSchema?: object | object[];
   /** 內容單薄頁（如無用法摘要的字頁）設 noindex,follow，集中抓取預算到真內容頁 */
   noindex?: boolean;
+  /** 每頁專屬 OG 金句卡（分享到 LINE/FB 的圖）；未給則用全站通用圖 */
+  ogImage?: string;
 }
 const {
   title,
@@ -47,6 +49,7 @@ const {
   wide = false,
   extraSchema,
   noindex = false,
+  ogImage,
 } = Astro.props;
 const buildDate = new Date().toISOString().slice(0, 10);
 const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
@@ -57,7 +60,7 @@ const url = (p: string) => `${base}${lp}${p}` || '/';
 // hreflang 互連（同頁的另一語系）
 const zhHref = 'https://sutta.io' + Astro.url.pathname.replace(/^\/en(\/|$)/, '/');
 const enHref = 'https://sutta.io' + (Astro.url.pathname.startsWith('/en') ? Astro.url.pathname : '/en' + (Astro.url.pathname === '/' ? '/' : Astro.url.pathname));
-const ogImage = 'https://sutta.io/og.png';
+const ogImageUrl = ogImage ?? 'https://sutta.io/og.png';
 // Schema.org（GEO：讓 AI 理解這是一個「系統/工具」實體）
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -144,13 +147,13 @@ const breadcrumbSchema =
     <meta property="og:title" content={ogTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content={ogImage} />
+    <meta property="og:image" content={ogImageUrl} />
     <meta property="og:locale" content={locale === 'en' ? 'en_US' : 'zh_TW'} />
     {/* Twitter */}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={ogTitle} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image" content={ogImageUrl} />
 
     {/* Schema.org JSON-LD（SEO + GEO：AI 理解為研經系統實體） */}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />

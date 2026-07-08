@@ -1,0 +1,98 @@
+---
+// 一鍵分享：手機叫原生分享（分享 URL 時 LINE/FB/Threads 會自動展開該頁 og 金句卡）；
+// 桌機無 navigator.share 時複製「文字＋連結」到剪貼簿並提示。附「下載金句卡」。
+interface Props {
+  /** 分享時帶的一句話（通常是該頁的問題/金句） */
+  text: string;
+  /** 該頁正式網址 */
+  url: string;
+  /** 金句卡 PNG 網址（可下載） */
+  cardUrl?: string;
+  /** 引導語 */
+  prompt?: string;
+}
+const { text, url, cardUrl, prompt = '覺得有幫助？分享給正需要的人' } = Astro.props;
+---
+
+<aside class="share-bar" data-share-text={text} data-share-url={url}>
+  <span class="share-prompt">{prompt}</span>
+  <div class="share-actions">
+    <button type="button" class="share-btn" data-share>
+      <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"/><line x1="15.4" y1="6.5" x2="8.6" y2="10.5"/></svg>
+      分享這篇
+    </button>
+    {cardUrl && <a class="share-dl" href={cardUrl} download>下載金句卡</a>}
+  </div>
+  <span class="share-toast" role="status" aria-live="polite" hidden>已複製連結，可貼到 LINE／FB</span>
+</aside>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.share-bar').forEach((bar) => {
+    const btn = bar.querySelector<HTMLButtonElement>('[data-share]');
+    const toast = bar.querySelector<HTMLElement>('.share-toast');
+    const text = bar.dataset.shareText || '';
+    const url = bar.dataset.shareUrl || location.href;
+    btn?.addEventListener('click', async () => {
+      if (navigator.share) {
+        try { await navigator.share({ title: '原典研經庫', text, url }); } catch { /* 使用者取消 */ }
+      } else {
+        try {
+          await navigator.clipboard.writeText(`${text}\n${url}`);
+          if (toast) { toast.hidden = false; setTimeout(() => (toast.hidden = true), 2600); }
+        } catch { /* 剪貼簿不可用 */ }
+      }
+    });
+  });
+</script>
+
+<style>
+  .share-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+    margin: 2.5rem 0 0.5rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    background: var(--surface);
+  }
+  .share-prompt {
+    font-family: var(--font-ui, sans-serif);
+    font-size: var(--text-sm, 1.125rem);
+    color: var(--ink-soft);
+    margin-right: auto;
+  }
+  .share-actions { display: flex; align-items: center; gap: 0.75rem; }
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.55rem 1.1rem;
+    border: none;
+    border-radius: 999px;
+    background: var(--thread);
+    color: var(--paper);
+    font-family: var(--font-ui, sans-serif);
+    font-size: var(--text-xs, 1rem);
+    font-weight: 600;
+    cursor: pointer;
+    transition: filter 0.15s ease;
+  }
+  .share-btn:hover { filter: brightness(1.08); }
+  .share-btn:focus-visible { outline: 2px solid var(--thread); outline-offset: 2px; }
+  .share-dl {
+    font-family: var(--font-ui, sans-serif);
+    font-size: var(--text-xs, 1rem);
+    color: var(--ink-soft);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .share-dl:hover { color: var(--ink); }
+  .share-toast {
+    flex-basis: 100%;
+    font-family: var(--font-ui, sans-serif);
+    font-size: var(--text-xs, 1rem);
+    color: var(--thread);
+  }
+</style>

@@ -3,6 +3,7 @@
 // 信任界線：解說＝L2（AI 生成、掛 AI 標示、冷灰材質）；引文＝L1（segment_id 於 build 期
 // 自 data/ 解析，查無即 build 失敗），深連結回研經頁可逐字檢驗。
 import Base from '../../layouts/Base.astro';
+import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listTopics, getTopic, resolveTopicQuote, getSutta, suttaSeoTitle } from '../../lib/data';
@@ -90,6 +91,7 @@ const topicSchema = definedTermSchema
   description={L.seo_description}
   crumbs={crumbs}
   extraSchema={topicSchema}
+  ogImage={`https://sutta.io/og/topics/${topic.slug}.png`}
 >
   <article class="topic">
     <h1>{L.question}</h1>
@@ -202,6 +204,11 @@ const topicSchema = definedTermSchema
         </section>
       )
     }
+    <ShareButton
+      text={L.question}
+      url={`https://sutta.io/topics/${topic.slug}/`}
+      cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
+    />
   </article>
 </Base>
 

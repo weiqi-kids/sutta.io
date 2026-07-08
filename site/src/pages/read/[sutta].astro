@@ -1,6 +1,9 @@
 ---
+import fs from 'node:fs';
+import path from 'node:path';
 import Base from '../../layouts/Base.astro';
 import StudyPage from '../../components/study/StudyPage';
+import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle } from '../../lib/data';
@@ -25,6 +28,10 @@ if (!fixture) {
 }
 
 const preview = isPreviewSutta(fixture);
+// 每頁專屬分享金句卡（僅在該經有產卡時使用，缺概要的經 fallback 通用圖）
+const ogCard = fs.existsSync(path.join(process.cwd(), 'public/og/read', `${suttaId}.png`))
+  ? `https://sutta.io/og/read/${suttaId}.png`
+  : undefined;
 const context = getSuttaContext(suttaId!);
 const entities = getEntitiesForSutta(suttaId!);
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
@@ -100,6 +107,8 @@ if (dateModified) {
   preview={preview}
   wide={true}
   extraSchema={articleSchema}
+  ogImage={ogCard}
 >
   <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} l3Api={l3Api} lang={Astro.currentLocale} />
+  {ogCard && <ShareButton text={suttaSeoTitle(fixture, 'zh')} url={pageUrl} cardUrl={ogCard} />}
 </Base>
