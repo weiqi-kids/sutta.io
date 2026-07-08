@@ -1,75 +1,75 @@
 {
   "meta": {
-    "updated": "2026-07-07",
+    "updated": "2026-07-08",
     "launched": "2026-07-03",
     "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md",
-    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md ｜2026-07-05 情境化主題頁第一批 3 頁上線（draft 待校稿）＋sitemap 11120→227 收斂＋主題頁加 DefinedTerm。｜2026-07-06 大腦層執行失敗（觸發 weekly usage limit，fallback 保底 Slack 已發），當天無 actions.md，非資料異常。｜2026-07-07 里程碑：sitemap submitted 11120→238（已收斂到位，貼近 227 目標）；追蹤的 topics/read 頁全數轉 Submitted and indexed（anatta 補上最後一塊，anapanasati/satipatthana-practice/nikaya 已於 07-06 轉入）。"
+    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md ｜2026-07-05 情境化主題頁第一批 3 頁上線（draft 待校稿）＋sitemap 11120→227 收斂＋主題頁加 DefinedTerm。｜2026-07-06 大腦層執行失敗（觸發 weekly usage limit，fallback 保底 Slack 已發），當天無 actions.md，非資料異常。｜2026-07-07 里程碑：sitemap submitted 11120→238（已收斂到位，貼近 227 目標）；追蹤的 topics/read 頁全數轉 Submitted and indexed（anatta 補上最後一塊，anapanasati/satipatthana-practice/nikaya 已於 07-06 轉入）。｜2026-07-08：sitemap submitted 維持 238（穩定，非單日波動）；bhavant 已連續 8 天(07-01~07-08)在英文字典頁 striking-distance 0 clicks，但其 title/description 已於 07-01 由共用模板改版動過（commit 60e2f65，當時即以此詞為例），14 天冷卻至 07-15 前不得再改，本日不動；pamitā 今日跌出 striking-distance 名單，候選作廢。目標詞記分板修正：6 頁確認收錄，對應 7 個關鍵字（含共用 anapanasati 頁的安般念/觀呼吸兩詞）由 S0 轉 S1：尼柯耶 中文、中阿含經白話、安般念、四念處的修行方法、無我 佛教、念處經、觀呼吸。"
   },
   "keywords": [
     {
       "keyword": "尼柯耶 中文",
       "tier": 1,
       "url": "https://sutta.io/nikaya/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "中阿含經白話",
       "tier": 1,
       "url": "https://sutta.io/agama/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "安般念",
       "tier": 1,
       "url": "https://sutta.io/topics/anapanasati/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "四念處的修行方法",
       "tier": 1,
       "url": "https://sutta.io/topics/satipatthana-practice/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "無我 佛教",
       "tier": 1,
       "url": "https://sutta.io/topics/anatta/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "四念處是什麼",
@@ -140,14 +140,14 @@
       "keyword": "念處經",
       "tier": 2,
       "url": "https://sutta.io/read/mn10/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "正念 佛教",
@@ -179,14 +179,14 @@
       "keyword": "觀呼吸",
       "tier": 3,
       "url": "https://sutta.io/topics/anapanasati/",
-      "state": "S0",
-      "state_since": "2026-07-03",
+      "state": "S1",
+      "state_since": "2026-07-08",
       "impr_7d": 0,
       "clicks_7d": 0,
       "best_pos": null,
       "last_action": "launch",
       "last_action_date": "2026-07-03",
-      "note": ""
+      "note": "頁面已確認收錄(coverage=Submitted and indexed)，轉入 S1 零曝光觀察期"
     },
     {
       "keyword": "內觀是什麼",
@@ -427,6 +427,11 @@
         "date": "2026-07-07",
         "submitted": 238,
         "note": "里程碑：submitted 收斂到位（11120→238，貼近 227 目標）。同日 anatta 補上最後一塊轉為 Submitted and indexed，追蹤的 8 個重點頁（/、/topics/、/agama/、/nikaya/、anapanasati、satipatthana-practice、anatta、/read/mn10/）全數 Submitted and indexed。"
+      },
+      {
+        "date": "2026-07-08",
+        "submitted": 238,
+        "note": "與 07-07 持平，維持收斂到位；lexicon/en 頁新增進入 coverage 已收錄清單。"
       }
     ]
   }
