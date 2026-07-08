@@ -50,11 +50,11 @@ const { text, url, cardUrl, prompt = '覺得有幫助？分享給正需要的人
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.75rem 1rem;
-    margin: 2.5rem 0 0.5rem;
-    padding: 1rem 1.25rem;
+    gap: var(--space-3) var(--space-4);
+    margin: var(--space-6) 0 var(--space-2);
+    padding: var(--space-4);
     border: 1px solid var(--rule);
-    border-radius: 12px;
+    border-radius: var(--radius);
     background: var(--surface);
   }
   .share-prompt {
@@ -67,10 +67,10 @@ const { text, url, cardUrl, prompt = '覺得有幫助？分享給正需要的人
   .share-btn {
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.55rem 1.1rem;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
     border: none;
-    border-radius: 999px;
+    border-radius: var(--radius);
     background: var(--thread);
     color: var(--paper);
     font-family: var(--font-ui, sans-serif);

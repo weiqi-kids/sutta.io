@@ -7,19 +7,27 @@ interface EntityLink {
   name_pali: string;
   name_zh?: string;
 }
+interface TopicLink {
+  slug: string;
+  title: string;
+  question: string;
+}
 interface Props {
   suttaId: string;
   context: SuttaContextData | null;
   hasAgama: boolean;
   entities: EntityLink[];
+  topics?: TopicLink[];
   baseUrl: string;
 }
 
-// SITE_IA §6 研經頁「相關」交叉引用區（可摺疊）：此經背景(L1) + 阿含對照註 + 其他語言平行 + 人地事連結。
-export default function RelatedPanel({ suttaId, context, hasAgama, entities, baseUrl }: Props) {
+// SITE_IA §6 研經頁「相關」交叉引用區（可摺疊）：此經談到的主題 + 此經背景(L1) + 阿含對照註 + 其他語言平行 + 人地事連結。
+export default function RelatedPanel({ suttaId, context, hasAgama, entities, topics = [], baseUrl }: Props) {
   const t = useI18n();
   const [open, setOpen] = useState(false);
   const url = (p: string) => `${baseUrl}${p}` || '/';
+  // 「本經談到的主題」反向鏈改由 read/[sutta].astro 靜態渲染（可被爬取），此處不重複。
+  void topics;
   const hasAnything = context || hasAgama || entities.length > 0;
   if (!hasAnything) return null;
 

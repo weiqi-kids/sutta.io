@@ -100,6 +100,7 @@ if (dateModified) {
   preview={preview}
   wide={true}
   extraSchema={articleSchema}
+  noindex={true}
 >
   <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} l3Api={l3Api} lang={Astro.currentLocale} />
 </Base>

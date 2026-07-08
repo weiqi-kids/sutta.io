@@ -13,6 +13,16 @@ const crumbs = [{ label: t.nav.browse }];
 
 <Base title={t.browse.title} description={t.browse.desc} crumbs={crumbs} preview={anyPreview}>
   <h1>{t.browse.title}・{t.browse.collectionMN}</h1>
+  <nav class="collection-views" aria-label="經藏視圖">
+    <a href={url('/nikaya')}>
+      <span class="cv-label">{t.nav.nikaya}</span>
+      <span class="cv-sub calm-note">五部尼柯耶與中文譯本現況</span>
+    </a>
+    <a href={url('/agama')}>
+      <span class="cv-label">{t.nav.agama}</span>
+      <span class="cv-sub calm-note">中阿含 ↔ 中部 對照，直達漢譯原文</span>
+    </a>
+  </nav>
   <table class="browse-table">
     <thead>
       <tr>
@@ -44,10 +54,38 @@ const crumbs = [{ label: t.nav.browse }];
 </Base>
 
 <style>
+  .collection-views {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+  .collection-views a {
+    flex: 1 1 240px;
+    display: block;
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    background: var(--surface);
+    text-decoration: none;
+  }
+  .collection-views a:hover {
+    border-color: var(--thread);
+  }
+  .cv-label {
+    display: block;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: var(--space-1);
+  }
+  .cv-sub {
+    display: block;
+    font-size: var(--text-sm);
+  }
   .browse-table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: var(--space-4);
+    margin-top: var(--space-6);
     font-size: var(--text-sm);
   }
   .browse-table th,

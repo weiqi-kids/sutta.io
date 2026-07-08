@@ -1,72 +1,136 @@
 ---
-// topics/index.astro — 主題研經目錄
+// topics/index.astro — 主題研經（唯一概念入口；併入舊 /questions 的分類問題地圖）
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listTopics } from '../../lib/data';
+import { groupTopics } from '../../lib/questionMap';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
-const topics = listTopics();
+const abs = (p: string) => new URL(url(p), Astro.site ?? 'https://sutta.io').href;
+const { groups, leftover } = groupTopics(listTopics());
+const allItems = [...groups.flatMap((g) => g.items), ...leftover];
 
-const title = '主題研經｜用原典回答佛法核心問題';
+const title = '主題研經｜從你的問題出發，用原典回答';
 const description =
-  '四念處怎麼修？安般念是什麼？無我是什麼意思？每個主題以巴利原典段落與白話對照直接回答——每一句解釋都掛在可檢驗的經文上。';
+  '無我是什麼？四念處怎麼修？佛教怎麼看死亡、怎麼放下執著？常見佛法問題依核心教義、禪修實踐、生活煩惱、人物入門分類，每一題都連到以巴利原典段落與白話對照直接回答的主題頁。';
 const crumbs = [{ label: t.nav.topics }];
+
+// ItemList schema（GEO：讓 AI 讀成「一組佛法問題 → 各自的原典解答」）
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: '主題研經・佛法問題地圖',
+  description: '常見佛法問題，各連到以巴利原典段落與白話對照回答的主題頁。',
+  numberOfItems: allItems.length,
+  itemListElement: allItems.map((tp, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: tp.zh.question,
+    url: abs(`/topics/${tp.slug}`),
+  })),
+};
 ---
 
-<Base title={title} description={description} crumbs={crumbs}>
+<Base title={title} description={description} crumbs={crumbs} extraSchema={itemListSchema}>
   <h1>主題研經</h1>
   <p class="intro">
-    每個主題鎖定一個問題，用<strong>原典本身</strong>回答：先給一句話定義，再引巴利原文與白話對照逐項展開，
-    每段引文都可點入全文逐字檢驗。解說由 AI 依站內經文真實資料撰寫並明確標示。
+    不必先懂經號或巴利字——<strong>從你想問的問題開始</strong>。每一題都用原典本身回答：一句話定義，再引巴利原文與白話對照，每段引文都可點入全文逐字檢驗。
   </p>
 
-  <ul class="topic-list">
-    {
-      topics.map((tp) => (
-        <li>
-          <a href={url(`/topics/${tp.slug}`)}>
-            <span class="topic-q">{tp.zh.question}</span>
-            <span class="topic-def">{tp.zh.definition}</span>
-          </a>
-        </li>
-      ))
-    }
-  </ul>
-  {topics.length === 0 && <p class="calm-note">主題頁製作中，即將上線。</p>}
+  {
+    groups.map((g) => (
+      <section class="qgroup" aria-labelledby={`g-${g.id}`}>
+        <h2 id={`g-${g.id}`} class="qgroup-h">{g.zh}</h2>
+        <ul class="qlist">
+          {g.items.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.zh.question}</span>
+                <span class="def">{tp.zh.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  {
+    leftover.length > 0 && (
+      <section class="qgroup" aria-labelledby="g-more">
+        <h2 id="g-more" class="qgroup-h">更多主題</h2>
+        <ul class="qlist">
+          {leftover.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.zh.question}</span>
+                <span class="def">{tp.zh.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {allItems.length === 0 && <p class="calm-note">主題頁製作中，即將上線。</p>}
+
+  <p class="foot calm-note">
+    想知道每則解答背後的資料來源與引用方式，見<a href={url('/about-sources')}>資料來源與引用</a>。
+  </p>
 </Base>
 
 <style>
   .intro {
     margin-bottom: var(--space-6);
+    line-height: var(--lh-zh);
+    color: var(--ink-soft);
   }
-  .topic-list {
+  .qgroup {
+    margin-bottom: var(--space-6);
+  }
+  .qgroup-h {
+    font-size: var(--text-base);
+    padding-bottom: var(--space-2);
+    margin-bottom: var(--space-2);
+    border-bottom: 1px solid var(--rule);
+  }
+  .qlist {
     list-style: none;
     padding: 0;
     margin: 0;
   }
-  .topic-list li {
+  .qlist li {
     border-bottom: 1px solid var(--rule);
   }
-  .topic-list a {
+  .qlist a {
     display: block;
-    padding: var(--space-4) var(--space-2);
+    padding: var(--space-3) var(--space-1);
     text-decoration: none;
   }
-  .topic-list a:hover .topic-q {
+  .qlist a:hover .q {
     color: var(--thread);
   }
-  .topic-q {
+  .q {
     display: block;
+    font-family: var(--font-zh);
     font-size: var(--text-base);
     font-weight: 600;
     color: var(--ink);
     margin-bottom: var(--space-1);
   }
-  .topic-def {
+  .def {
     display: block;
     font-size: var(--text-sm);
     color: var(--ink-soft);
+    line-height: var(--lh-zh);
+  }
+  .foot {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+    line-height: var(--lh-zh);
   }
 </style>

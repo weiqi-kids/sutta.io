@@ -96,17 +96,36 @@ const topicSchema = definedTermSchema
   <article class="topic">
     <h1>{L.question}</h1>
 
-    <p class="definition">{L.definition}</p>
+    <p class="answer-box">{L.definition}</p>
 
-    <p class="ai-notice">
+    <p class="ai-notice-line calm-note">
       <span class="prov-badge prov-ai">AI</span>
-      本頁解說由 AI 依站內經文真實資料撰寫{topic.review_status === 'draft' && '，人工校稿中'}；
-      標「原文」之引文皆為正典，可點入全文逐字檢驗。發現錯誤請由頁尾回報勘誤。
+      解說由 AI 依站內經文生成、引文皆正典可逐字檢驗{topic.review_status === 'draft' && '（校稿中）'}——<a href={url('/about-sources')}>如何查證</a>
     </p>
 
     {
-      sectionsResolved.map((sec) => (
-        <section class="topic-section">
+      sectionsResolved.length > 1 && (
+        <nav class="topic-toc" aria-label="本頁重點">
+          <span class="toc-label calm-note">本頁重點</span>
+          <ul>
+            {sectionsResolved.map((sec, i) => (
+              <li>
+                <a href={`#sec-${i}`}>{sec.heading}</a>
+              </li>
+            ))}
+            {L.faq.length > 0 && (
+              <li>
+                <a href="#faq">常見問題</a>
+              </li>
+            )}
+          </ul>
+        </nav>
+      )
+    }
+
+    {
+      sectionsResolved.map((sec, i) => (
+        <section class="topic-section" id={`sec-${i}`}>
           <h2>{sec.heading}</h2>
           {sec.paragraphs.map((p) => (
             <p class="explain">{p}</p>
@@ -139,26 +158,28 @@ const topicSchema = definedTermSchema
 
     {
       L.mahayana_note && (
-        <section class="topic-section">
-          <h2>與大乘詮釋的關係</h2>
+        <details class="topic-fold">
+          <summary>與大乘詮釋的關係</summary>
           <p class="explain">{L.mahayana_note}</p>
-        </section>
+        </details>
       )
     }
 
-    <section class="topic-section">
-      <h2>常見問題</h2>
-      <dl class="faq">
-        {
-          L.faq.map((f) => (
-            <Fragment>
-              <dt>{f.q}</dt>
-              <dd>{f.a}</dd>
-            </Fragment>
-          ))
-        }
-      </dl>
-    </section>
+    {
+      L.faq.length > 0 && (
+        <section class="topic-section faq-section" id="faq">
+          <h2>常見問題</h2>
+          <div class="faq">
+            {L.faq.map((f) => (
+              <details class="faq-item">
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )
+    }
 
     {
       (relatedSuttas.length > 0 || relatedTopics.length > 0 || (L.related_lexicon ?? []).length > 0) && (
@@ -189,8 +210,8 @@ const topicSchema = definedTermSchema
 
     {
       externalResources.length > 0 && (
-        <section class="topic-section external-resources">
-          <h2>延伸資源</h2>
+        <details class="topic-fold external-resources">
+          <summary>延伸資源（站外工具）</summary>
           <p class="external-note">
             以下為站外第三方工具，非本站內容，與正典引文的查證標準無關，僅供有興趣的讀者參考。
           </p>
@@ -201,7 +222,7 @@ const topicSchema = definedTermSchema
               </li>
             ))}
           </ul>
-        </section>
+        </details>
       )
     }
     <ShareButton
@@ -217,26 +238,82 @@ const topicSchema = definedTermSchema
     font-size: var(--text-xl);
     margin-bottom: var(--space-4);
   }
-  .definition {
+  /* answer-first：一句直答放大、置頂、當頁面主角 */
+  .answer-box {
+    font-family: var(--font-zh);
     font-size: var(--text-md);
     line-height: var(--lh-zh);
-    padding: var(--space-4);
+    padding: var(--space-4) var(--space-5);
     background: var(--surface);
-    border-left: 3px solid var(--thread);
+    border-inline-start: 4px solid var(--thread);
     border-radius: var(--radius);
-    margin-bottom: var(--space-4);
+    margin-bottom: var(--space-3);
+    color: var(--ink);
   }
-  .ai-notice {
+  /* AI 標示壓成一行、安靜 */
+  .ai-notice-line {
     font-size: var(--text-xs);
-    color: var(--margin);
-    background: var(--margin-bg);
-    border-left: 2px solid var(--margin);
-    padding: var(--space-2) var(--space-3);
-    border-radius: var(--radius);
-    margin-bottom: var(--space-6);
+    margin: 0 0 var(--space-5);
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    flex-wrap: wrap;
   }
+  .ai-notice-line a {
+    color: var(--margin);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .ai-notice-line a:hover { color: var(--thread); }
+  /* 錨點目錄：先掃標題再下潛（漸進揭露的載體） */
+  .topic-toc {
+    margin: 0 0 var(--space-6);
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    background: var(--paper);
+  }
+  .topic-toc .toc-label {
+    display: block;
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    margin-bottom: var(--space-2);
+  }
+  .topic-toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-4);
+  }
+  .topic-toc a {
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+  .topic-toc a:hover { color: var(--thread); }
+  /* 次要內容摺疊：預設收合，減視覺重量、不減內容 */
+  .topic-fold {
+    margin: var(--space-4) 0;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--space-3);
+  }
+  .topic-fold > summary {
+    font-family: var(--font-zh);
+    font-weight: 600;
+    font-size: var(--text-base);
+    cursor: pointer;
+    color: var(--ink);
+    list-style: none;
+  }
+  .topic-fold > summary::before { content: '＋ '; color: var(--ink-soft); }
+  .topic-fold[open] > summary::before { content: '－ '; }
+  .topic-fold > summary::-webkit-details-marker { display: none; }
+  .topic-fold > *:not(summary) { margin-top: var(--space-3); }
   .topic-section {
     margin-bottom: var(--space-6);
+    scroll-margin-top: var(--space-6);
   }
   h2 {
     font-size: var(--text-base);
@@ -289,14 +366,26 @@ const topicSchema = definedTermSchema
   .quote-src a:hover {
     color: var(--thread);
   }
-  .faq dt {
-    font-weight: 600;
-    margin-top: var(--space-4);
+  .faq-item {
+    border-bottom: 1px solid var(--rule);
+    padding: var(--space-3) 0;
   }
-  .faq dd {
+  .faq-item > summary {
+    font-family: var(--font-zh);
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--ink);
+    list-style: none;
+  }
+  .faq-item > summary::before { content: '＋ '; color: var(--ink-soft); }
+  .faq-item[open] > summary::before { content: '－ '; }
+  .faq-item > summary::-webkit-details-marker { display: none; }
+  .faq-item > p {
     margin: var(--space-2) 0 0;
     color: var(--ink-soft);
+    line-height: var(--lh-zh);
   }
+  .faq-section { scroll-margin-top: var(--space-6); }
   .related ul {
     line-height: 2;
   }

@@ -1,74 +1,88 @@
 ---
-// en/topics/index.astro — Topic index (English mirror)
+// en/topics/index.astro — Topics hub (merges former /questions map)
 import Base from '../../../layouts/Base.astro';
 import { getStrings } from '../../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listTopics } from '../../../lib/data';
+import { groupTopics } from '../../../lib/questionMap';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}/en${p}` || '/en';
-const topics = listTopics();
+const abs = (p: string) => new URL(url(p), Astro.site ?? 'https://sutta.io').href;
+const { groups, leftover } = groupTopics(listTopics());
+const allItems = [...groups.flatMap((g) => g.items), ...leftover];
 
-const title = 'Topics — core Buddhist questions answered from the source texts';
+const title = 'Study by Topic — questions answered from the Pāli canon';
 const description =
-  'How is satipaṭṭhāna practised? What is ānāpānassati? What does non-self mean? Each topic answers one question directly from Pāli canonical passages — every explanation anchored to verifiable text.';
+  'What is non-self? How do you practise the four foundations of mindfulness? Common Dhamma questions grouped by core teachings, meditation, everyday struggles and people — each answered from Pāli passages with word-by-word rendering.';
 const crumbs = [{ label: t.nav.topics }];
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Study by Topic',
+  numberOfItems: allItems.length,
+  itemListElement: allItems.map((tp, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: tp.en.question,
+    url: abs(`/topics/${tp.slug}`),
+  })),
+};
 ---
 
-<Base title={title} description={description} crumbs={crumbs}>
-  <h1>Topics</h1>
+<Base title={title} description={description} crumbs={crumbs} extraSchema={itemListSchema}>
+  <h1>Study by Topic</h1>
   <p class="intro">
-    Each topic takes one question and answers it from <strong>the source texts themselves</strong>:
-    a one-sentence definition, then canonical passages unpacked step by step — every quote links to
-    the full text for word-by-word verification. Commentary is AI-written from real textual data
-    and clearly labelled.
+    Start from the question you have. Each topic answers from the source texts themselves: a one-line
+    definition, then Pāli with word-by-word rendering — every quote links into the full sutta.
   </p>
 
-  <ul class="topic-list">
-    {
-      topics.map((tp) => (
-        <li>
-          <a href={url(`/topics/${tp.slug}`)}>
-            <span class="topic-q">{tp.en.question}</span>
-            <span class="topic-def">{tp.en.definition}</span>
-          </a>
-        </li>
-      ))
-    }
-  </ul>
-  {topics.length === 0 && <p class="calm-note">Topic pages are in production.</p>}
+  {
+    groups.map((g) => (
+      <section class="qgroup" aria-labelledby={`g-${g.id}`}>
+        <h2 id={`g-${g.id}`} class="qgroup-h">{g.en}</h2>
+        <ul class="qlist">
+          {g.items.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.en.question}</span>
+                <span class="def">{tp.en.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  {
+    leftover.length > 0 && (
+      <section class="qgroup" aria-labelledby="g-more">
+        <h2 id="g-more" class="qgroup-h">More topics</h2>
+        <ul class="qlist">
+          {leftover.map((tp) => (
+            <li>
+              <a href={url(`/topics/${tp.slug}`)}>
+                <span class="q">{tp.en.question}</span>
+                <span class="def">{tp.en.definition}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
 </Base>
 
 <style>
-  .intro {
-    margin-bottom: var(--space-6);
-  }
-  .topic-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  .topic-list li {
-    border-bottom: 1px solid var(--rule);
-  }
-  .topic-list a {
-    display: block;
-    padding: var(--space-4) var(--space-2);
-    text-decoration: none;
-  }
-  .topic-list a:hover .topic-q {
-    color: var(--thread);
-  }
-  .topic-q {
-    display: block;
-    font-size: var(--text-base);
-    font-weight: 600;
-    color: var(--ink);
-    margin-bottom: var(--space-1);
-  }
-  .topic-def {
-    display: block;
-    font-size: var(--text-sm);
-    color: var(--ink-soft);
-  }
+  .intro { margin-bottom: var(--space-6); line-height: var(--lh-zh); color: var(--ink-soft); }
+  .qgroup { margin-bottom: var(--space-6); }
+  .qgroup-h { font-size: var(--text-base); padding-bottom: var(--space-2); margin-bottom: var(--space-2); border-bottom: 1px solid var(--rule); }
+  .qlist { list-style: none; padding: 0; margin: 0; }
+  .qlist li { border-bottom: 1px solid var(--rule); }
+  .qlist a { display: block; padding: var(--space-3) var(--space-1); text-decoration: none; }
+  .qlist a:hover .q { color: var(--thread); }
+  .q { display: block; font-size: var(--text-base); font-weight: 600; color: var(--ink); margin-bottom: var(--space-1); }
+  .def { display: block; font-size: var(--text-sm); color: var(--ink-soft); line-height: var(--lh-zh); }
 </style>

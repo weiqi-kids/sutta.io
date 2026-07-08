@@ -6,7 +6,7 @@ import StudyPage from '../../components/study/StudyPage';
 import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle } from '../../lib/data';
+import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle, getTopicsForSutta } from '../../lib/data';
 
 export function getStaticPaths() {
   const suttas = listSuttas();
@@ -34,6 +34,7 @@ const ogCard = fs.existsSync(path.join(process.cwd(), 'public/og/read', `${sutta
   : undefined;
 const context = getSuttaContext(suttaId!);
 const entities = getEntitiesForSutta(suttaId!);
+const relatedTopics = getTopicsForSutta(suttaId!, Astro.currentLocale === 'en' ? 'en' : 'zh');
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
@@ -109,6 +110,58 @@ if (dateModified) {
   extraSchema={articleSchema}
   ogImage={ogCard}
 >
-  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} l3Api={l3Api} lang={Astro.currentLocale} />
-  {ogCard && <ShareButton text={suttaSeoTitle(fixture, 'zh')} url={pageUrl} cardUrl={ogCard} />}
+  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} topics={relatedTopics} l3Api={l3Api} lang={Astro.currentLocale} />
+  {
+    (relatedTopics.length > 0 || ogCard) && (
+      <div class="container">
+        <div class="measure">
+          {relatedTopics.length > 0 && (
+            <nav class="read-topics" aria-label={t.study.relatedTopics}>
+              <span class="rt-label calm-note">{t.study.relatedTopics}</span>
+              <ul>
+                {relatedTopics.map((tp) => (
+                  <li>
+                    <a href={`${base}/topics/${tp.slug}`}>{tp.question}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
+          {ogCard && <ShareButton text={suttaSeoTitle(fixture, 'zh')} url={pageUrl} cardUrl={ogCard} />}
+        </div>
+      </div>
+    )
+  }
+
+  <style>
+    .read-topics {
+      margin: var(--space-6) 0 0;
+      padding: var(--space-4);
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+    .read-topics .rt-label {
+      display: block;
+      font-family: var(--font-ui);
+      font-size: var(--text-xs);
+      margin-bottom: var(--space-2);
+    }
+    .read-topics ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-1) var(--space-4);
+    }
+    .read-topics a {
+      font-family: var(--font-zh);
+      font-size: var(--text-sm);
+      text-decoration: none;
+    }
+    .read-topics a:hover {
+      color: var(--thread);
+    }
+  </style>
 </Base>

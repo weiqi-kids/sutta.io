@@ -4,7 +4,9 @@ import Base from '../layouts/Base.astro';
 import { getStrings } from '../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listSuttas, getSutta, agamaRefOf, suttaIsComplete } from '../lib/data';
+import { agamaBySuttaId } from '../lib/agama';
 
+const agamaMap = agamaBySuttaId();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
 
@@ -92,7 +94,23 @@ const itemListSchema = {
             <td>
               <a href={url(`/read/${r.id}`)}>{r.title_zh}</a>
             </td>
-            <td>{r.agamaRef ?? '—（無對應傳本）'}</td>
+            <td>
+              {r.agamaRef ? (
+                <>
+                  {r.agamaRef}
+                  {agamaMap.has(r.id) && (
+                    <>
+                      {' · '}
+                      <a class="ma-link" href={url(`/agama/${agamaMap.get(r.id)!.maId}`)}>
+                        {t.agamaPage.viewOriginal}
+                      </a>
+                    </>
+                  )}
+                </>
+              ) : (
+                '—（無對應傳本）'
+              )}
+            </td>
           </tr>
         ))
       }

@@ -24,6 +24,8 @@ const noindexLexKeys = new Set(
 );
 // filter 收到完整 URL；比對 /lexicon/<key>（含 /en/）的解碼 key 是否在排除集
 const keepInSitemap = (page) => {
+  // /en/read/*（英文殼包中文內容）已 noindex，不進 sitemap，避免矛盾訊號、集中中文抓取預算。
+  if (/\/en\/read\//.test(page)) return false;
   const m = page.match(/\/lexicon\/([^/]+)\/?$/);
   if (!m) return true; // 非詞條頁一律保留
   try {
@@ -40,6 +42,11 @@ export default defineConfig({
   base: '/',
   trailingSlash: 'ignore',
   output: 'static',
+  // /questions 已於 2026-07-08 併入 /topics（分類問題地圖）；保留舊 URL 可達，導向新 hub。
+  redirects: {
+    '/questions': '/topics',
+    '/en/questions': '/en/topics',
+  },
   // D-9：繁中為預設（根路徑），英文 UI 於 /en/。內容維持多語。
   i18n: {
     defaultLocale: 'zh-Hant',

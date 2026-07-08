@@ -216,6 +216,30 @@ export function listTopics(): TopicData[] {
 export function getTopic(slug: string): TopicData | null {
   return listTopics().find((t) => t.slug === slug) ?? null;
 }
+
+export interface TopicBackLink {
+  slug: string;
+  title: string;
+  question: string;
+}
+/**
+ * 反向索引：一部經 → 引用/相關它的主題頁清單（修概念↔經文單向斷鏈）。
+ * 來源＝各 topic 的 related_suttas ∪ 各 section 引文的 quote.sutta（build 期反轉）。
+ */
+export function getTopicsForSutta(suttaId: string, locale: 'zh' | 'en' = 'zh'): TopicBackLink[] {
+  const out: TopicBackLink[] = [];
+  for (const t of listTopics()) {
+    const L = t[locale];
+    const refs = new Set<string>([
+      ...(L.related_suttas ?? []),
+      ...L.sections.flatMap((sec) => (sec.quotes ?? []).map((q) => q.sutta)),
+    ]);
+    if (refs.has(suttaId)) {
+      out.push({ slug: t.slug, title: L.title, question: L.question });
+    }
+  }
+  return out;
+}
 export interface ResolvedQuoteSegment {
   segment_id: string;
   pali: string;

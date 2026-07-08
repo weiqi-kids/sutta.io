@@ -5,9 +5,19 @@ const t = getStrings(Astro.currentLocale);
 const crumbs = [{ label: t.nav.about }];
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}${p}` || '/';
+// 常見問題（自首頁遷入，收斂首頁單一目標）；FAQPage schema 供 AEO/精選摘要。
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: t.home.faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
 ---
 
-<Base title={t.about.title} description={t.about.desc} crumbs={crumbs}>
+<Base title={t.about.title} description={t.about.desc} crumbs={crumbs} extraSchema={faqSchema}>
   <h1>{t.about.title}</h1>
 
   <section>
@@ -89,6 +99,18 @@ const url = (p: string) => `${base}${p}` || '/';
         >解釋走 AI 輔助層（白話／概要／研經卡），且每一次都以原文真實語法為依據，上線前人工校稿</strong
       >。背景與歷史一律具名引用、標明無定論之處。
     </p>
+  </section>
+
+  <section aria-label="常見問題">
+    <h2>{t.home.faqTitle}</h2>
+    <dl class="about-faq">
+      {t.home.faq.map((f) => (
+        <Fragment>
+          <dt>{f.q}</dt>
+          <dd>{f.a}</dd>
+        </Fragment>
+      ))}
+    </dl>
   </section>
 
   <section class="dedication" aria-label="迴向">

@@ -192,12 +192,10 @@ const breadcrumbSchema =
           ☰
         </button>
         <nav class="site-nav" id="site-nav" aria-label="主導覽">
-          <a href={url('/questions')}>{t.nav.questions}</a>
           <a href={url('/topics')}>{t.nav.topics}</a>
           <a href={url('/browse')}>{t.nav.browse}</a>
-          <a href={url('/search')}>{t.nav.search}</a>
           <a href={url('/lexicon')}>{t.nav.lexicon}</a>
-          <a href={url('/world')}>{t.nav.world}</a>
+          <a href={url('/search')}>{t.nav.search}</a>
           <a href={url('/about')}>{t.nav.about}</a>
           <a class="lang-switch" href={altHref} hreflang={locale === 'en' ? 'zh-Hant' : 'en'}>{altLabel}</a>
           <button id="theme-toggle" type="button" title={t.nav.theme} aria-label={t.nav.theme}>
@@ -234,9 +232,8 @@ const breadcrumbSchema =
           <span class="footer-tagline">{t.site.tagline}</span>
         </div>
         <nav class="footer-links" aria-label="頁尾導覽">
-          <a href={url('/questions')}>{t.nav.questions}</a>
-          <a href={url('/browse')}>{t.nav.browse}</a>
           <a href={url('/topics')}>{t.nav.topics}</a>
+          <a href={url('/browse')}>{t.nav.browse}</a>
           <a href={url('/agama')}>{t.nav.agama}</a>
           <a href={url('/nikaya')}>{t.nav.nikaya}</a>
           <a href={url('/search')}>{t.nav.search}</a>

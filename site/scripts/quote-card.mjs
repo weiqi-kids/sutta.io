@@ -24,6 +24,8 @@ function wrapCJK(text, fontSize, maxWidth, maxLines) {
   return lines;
 }
 
+// 色盤＝design-tokens 的鏡像（canvas 讀不到 CSS 變數，只能內嵌 hex）。單一來源在 design/design-tokens.css，
+// 改 token 時同步這裡：paper≈--paper、ink≈--ink、bar(warm)≈--thread、bar(cool)≈--prov-scholarly、rule≈--rule、soft≈--ink-soft。
 const PALETTE = {
   // 暖＝正典（研經頁）；沿用 design-tokens 骨色系
   warm: { paper: '#E9E0CC', bar: '#B06A1F', ink: '#2A2622', soft: '#6B6358', rule: '#D8CFB9' },

@@ -24,13 +24,14 @@ interface Props {
   baseUrl: string;
   context?: SuttaContextData | null;
   entities?: EntityLink[];
+  topics?: { slug: string; title: string; question: string }[];
   l3Api?: string;
   lang?: string;
 }
 
 type Tab = 'pali' | 'chinese' | 'study';
 
-export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], l3Api = '', lang }: Props) {
+export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], topics = [], l3Api = '', lang }: Props) {
   const t = getStrings(lang);
   const { sutta, segments, passages, summary, study_cards } = fixture;
   const hasAgama = passages.some((p) => p.agama != null);
@@ -206,7 +207,7 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
     <I18nProvider lang={lang}>
       <div className="study-page">
         {header}
-        <RelatedPanel suttaId={sutta.id} context={context} hasAgama={hasAgama} entities={entities} baseUrl={baseUrl} />
+        <RelatedPanel suttaId={sutta.id} context={context} hasAgama={hasAgama} entities={entities} topics={topics} baseUrl={baseUrl} />
         {columns}
         {selectedToken && anchorRect && (
           <DpdPopover token={selectedToken} anchorRect={anchorRect} onClose={() => setSelectedToken(null)} />

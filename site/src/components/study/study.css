@@ -381,6 +381,22 @@
   font-family: var(--font-ui);
   font-size: var(--text-xs);
 }
+/* 本經談到的主題（反向鏈：經文層→概念層） */
+.related-topics {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.related-topics li {
+  margin-bottom: var(--space-1);
+}
+.related-topics a {
+  font-family: var(--font-zh);
+  text-decoration: none;
+}
+.related-topics a:hover {
+  color: var(--thread);
+}
 
 /* ---- 手機頁籤 / 平板抽屜 ---- */
 .study-tabs {

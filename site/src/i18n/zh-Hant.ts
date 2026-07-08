@@ -98,6 +98,7 @@ export const t = {
     otherParallels: '其他語言平行',
     viewOnSC: '在 SuttaCentral 查看平行對照 →',
     relatedEntities: '人・地・事',
+    relatedTopics: '本經談到的主題',
     provCanonical: '正典',
   },
   dpd: {
@@ -207,6 +208,29 @@ export const t = {
     backHome: '回首頁',
     aiContentNote: '標示「AI」的內容由模型依據原文資料生成，已校稿；與正典資料色溫不同，可一眼分辨。',
     previewBanner: '技術原型：部分資料為示意，正式資料管線就緒後替換。',
+  },
+  // 中阿含自有落地頁（/agama/[maId]）。純顯示 CBETA 漢譯正文＋深連結對應中部白話。
+  agamaPage: {
+    maPrefix: '中阿含第',
+    maMid: '經《',
+    maSuffix: '》',
+    mnPrefix: '第',
+    mnSuffix: '經',
+    listSep: '、',
+    descA: '這是《中阿含經》第',
+    descB: '經的漢譯原文，對應巴利《中部》',
+    descC: '，可讀逐句白話對照。',
+    ledeA: '這是《中阿含經》第',
+    ledeB: '經的漢譯原文，對應巴利《中部》',
+    ledeC: '。下方是完整漢譯正文，並可前往對應中部經讀逐句白話對照。',
+    ctaLabel: '讀對應中部白話',
+    ctaLead: '讀白話',
+    originalHeading: '中阿含漢譯原文',
+    srcNoteA: '原文出處：',
+    srcNoteB: '（大正藏 T26，取自 CBETA，CC BY-NC-SA 3.0 TW；經文原樣呈現，未經改動）',
+    footA: '想讀逐句白話對照？前往',
+    footB: '的研經頁。',
+    viewOriginal: '看中阿含原文',
   },
 } as const;
 

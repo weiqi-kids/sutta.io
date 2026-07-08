@@ -12,19 +12,10 @@ const suttas = listSuttas();
 const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
 // 問題入口：跨類精選常見佛法問題，第一屏就以「提問」承接使用者與 AI（AEO/GEO）
 const askQuestions = pickTopics(listTopics(), HOME_FEATURED_QUESTIONS);
-// FAQPage schema（AEO：利於精選摘要/AI 直接引用）
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: t.home.faq.map((f) => ({
-    '@type': 'Question',
-    name: f.q,
-    acceptedAnswer: { '@type': 'Answer', text: f.a },
-  })),
-};
+// 首頁收斂為單一目標（一個問題／一部經）；常見問題（FAQ）與其 FAQPage schema 移至 /about。
 ---
 
-<Base title={undefined} extraSchema={faqSchema}>
+<Base title={undefined}>
   <section class="hero">
     <h1 class="hero-title">{t.site.name}</h1>
     <p class="hero-value">{t.home.valueLine}</p>
@@ -45,7 +36,7 @@ const faqSchema = {
             </li>
           ))}
         </ul>
-        <a class="ask-more" href={url('/questions')}>
+        <a class="ask-more" href={url('/topics')}>
           {t.home.askMore} →
         </a>
       </section>
@@ -58,9 +49,6 @@ const faqSchema = {
       <span class="entry-label">{t.home.browseCollection}</span>
       <span class="entry-sub calm-note">{t.browse.collectionMN}</span>
     </a>
-    <a class="entry" href={url('/topics')}>
-      <span class="entry-label">{t.home.topicsEntry}</span>
-    </a>
     <a class="entry" href={url('/search')}>
       <span class="entry-label">{t.home.searchEntry}</span>
     </a>
@@ -71,18 +59,6 @@ const faqSchema = {
       <span class="entry-label">{t.home.worldEntry}</span>
     </a>
   </nav>
-
-  <section class="faq">
-    <h2>{t.home.faqTitle}</h2>
-    {
-      t.home.faq.map((f) => (
-        <details class="faq-item">
-          <summary>{f.q}</summary>
-          <p>{f.a}</p>
-        </details>
-      ))
-    }
-  </section>
 
   {
     featured && (

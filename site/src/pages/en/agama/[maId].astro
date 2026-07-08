@@ -1,0 +1,174 @@
+---
+// en/agama/[maId].astro — Madhyama Āgama landing page (mirror of /agama/[maId]).
+// Displays the Chinese Āgama source text + deep link to the paired Majjhima Nikāya study page.
+// The source text is Chinese, so the English mirror is noindex (does not compete for search).
+import Base from '../../../layouts/Base.astro';
+import { getStrings } from '../../../i18n';
+import { listAgama, agamaParagraphs, type AgamaEntry } from '../../../lib/agama';
+
+const t = getStrings(Astro.currentLocale);
+const g = t.agamaPage;
+
+export function getStaticPaths() {
+  return listAgama().map((e) => ({ params: { maId: e.maId }, props: { entry: e } }));
+}
+
+interface Props {
+  entry: AgamaEntry;
+}
+const { entry } = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/en';
+
+const paragraphs = agamaParagraphs(entry.text);
+const mnList = entry.suttas.map((s) => `${g.mnPrefix}${s.n}${g.mnSuffix}`).join(g.listSep);
+
+const title = `${g.maPrefix}${entry.maNum}${g.maMid}${entry.maTitle}${g.maSuffix}`;
+const description = `${g.descA}${entry.maNum}${g.descB}${mnList}${g.descC}`;
+const crumbs = [
+  { label: t.nav.agama, href: url('/agama') },
+  { label: title },
+];
+---
+
+<Base title={title} description={description} crumbs={crumbs} noindex={true}>
+  <article class="ma-page">
+    <h1>{title}</h1>
+    <p class="lede">
+      {g.ledeA}{entry.maNum}{g.ledeB}{mnList}{g.ledeC}
+    </p>
+
+    <nav class="cta" aria-label={g.ctaLabel}>
+      {
+        entry.suttas.map((s) => (
+          <a class="cta-link" href={url(`/read/${s.id}`)}>
+            <span class="cta-lead">{g.ctaLead}</span>
+            <span class="cta-title">
+              {s.title_pali}
+              <span class="cta-meta">
+                {g.mnPrefix}
+                {s.n}
+                {g.mnSuffix}・{s.title_zh}
+              </span>
+            </span>
+            <span class="cta-arrow" aria-hidden="true">→</span>
+          </a>
+        ))
+      }
+    </nav>
+
+    <h2 class="src-heading">{g.originalHeading}</h2>
+    <p class="src-note">{g.srcNoteA}<span class="ref">{entry.ref}</span>{g.srcNoteB}</p>
+    <div class="hanwen" lang="zh-Hant">
+      {paragraphs.map((p) => <p>{p}</p>)}
+    </div>
+
+    <p class="foot-cta">
+      {g.footA}
+      {
+        entry.suttas.map((s, i) => (
+          <Fragment>
+            {i > 0 && g.listSep}
+            <a href={url(`/read/${s.id}`)}>{s.title_pali}</a>
+          </Fragment>
+        ))
+      }
+      {g.footB}
+    </p>
+  </article>
+</Base>
+
+<style>
+  .ma-page {
+    max-width: 42rem;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: var(--text-xl);
+    line-height: 1.3;
+    margin-bottom: var(--space-3);
+  }
+  .lede {
+    color: var(--ink-soft);
+    font-size: var(--text-sm);
+    margin-bottom: var(--space-6);
+  }
+  .cta {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    margin-bottom: var(--space-8);
+  }
+  .cta-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .cta-link:hover {
+    border-color: var(--thread);
+  }
+  .cta-lead {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+  .cta-title {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    font-size: var(--text-base);
+  }
+  .cta-meta {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-top: 2px;
+  }
+  .cta-arrow {
+    color: var(--thread);
+    font-size: var(--text-lg);
+  }
+  .src-heading {
+    font-size: var(--text-base);
+    margin: 0 0 var(--space-2);
+    padding-bottom: var(--space-1);
+    border-bottom: 1px solid var(--rule);
+  }
+  .src-note {
+    font-family: var(--font-ui);
+    font-size: var(--text-xs);
+    color: var(--ink-soft);
+    margin-bottom: var(--space-4);
+  }
+  .src-note .ref {
+    color: var(--ink);
+  }
+  .hanwen {
+    font-family: var(--font-zh);
+    font-size: var(--size-zh);
+    line-height: var(--lh-zh);
+    color: var(--ink);
+  }
+  .hanwen p {
+    margin: 0 0 var(--space-4);
+    text-indent: 2em;
+  }
+  .foot-cta {
+    margin-top: var(--space-8);
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--rule);
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+  }
+  .foot-cta a {
+    color: var(--thread);
+  }
+</style>
