@@ -21,7 +21,7 @@ const TOPIC = {
   'letting-go':           { kicker: '怎麼放下執著', quote: '佛陀不是只說「放下」，而是給出七種依情境選用的做法', source: '《一切漏經》中部 2' },
   'sense-pleasures-danger':{ kicker: '慾望為何帶來痛苦', quote: '佛陀給的出路不是壓抑或自我折磨，而是「出離」', source: '《大苦蘊經》中部 13' },
   'anatta':               { kicker: '無我是什麼意思', quote: '色、受、想、行、識等一切可經驗的現象皆無常、會變易', source: '《蛇喻經》中部 22' },
-  'anapanasati':          { kicker: '安般念是什麼', quote: '說明它修習圓滿時能次第成就四念處、七覺支，乃至明與解脫', source: '《入出息念經》中部 118' },
+  'anapanasati':          { kicker: '安般念是什麼', quote: '先安頓身體與呼吸，再處理感受、調御內心，最後以觀慧透視現象的本質', source: '《入出息念經》中部 118' },
   'satipatthana-practice':{ kicker: '四念處怎麼修', quote: '以精勤、正知、具念，如實隨觀當下的經驗，捨除對世間的貪憂', source: '《念處經》中部 10' },
   'satipatthana':         { kicker: '四念處是什麼', quote: '念的四種安住處：身、受、心、法', source: '《念處經》中部 10' },
   'sati':                 { kicker: '正念是什麼', quote: '正念（sati）本義是「憶念、不忘失」，指讓心對當前所緣持續現前的能力', source: '正念・sati' },
