@@ -40,12 +40,12 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
   const [hoveredSegmentId, setHoveredSegmentId] = useState<string | null>(null);
   const [selectedToken, setSelectedToken] = useState<PaliToken | null>(null);
   const [anchorRect, setAnchorRect] = useState<DOMRect | null>(null);
-  const [glossLayerVisible, setGlossLayerVisible] = useState(false);
+  const [glossLayerVisible, setGlossLayerVisible] = useState(true);
   const [agamaVisible, setAgamaVisible] = useState(false);
   const [glossHighlightTokenIds, setGlossHighlightTokenIds] = useState<Set<string>>(new Set());
 
   const mode = useLayoutMode();
-  const [tab, setTab] = useState<Tab>('pali'); // 巴利永遠是手機預設頁籤
+  const [tab, setTab] = useState<Tab>('chinese'); // 手機預設漢譯（白話）——中文讀者的核心內容，不預設藏
   const [drawerOpen, setDrawerOpen] = useState(false);
 
   // 衍生：hover 優先於 active（contract §2）
