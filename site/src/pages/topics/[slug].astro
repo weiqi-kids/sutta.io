@@ -104,6 +104,24 @@ const topicSchema = definedTermSchema ? [articleSchema, faqSchema, definedTermSc
   <article class="topic-tabbed">
     <h1>{headline}</h1>
 
+    {/* 金句卡＝常駐主角：永遠直接顯示於標題下、分頁上，切分頁不消失 */}
+    <figure class="qcard-fig">
+      <img
+        class="qcard"
+        src={`/og/topics/${topic.slug}.png`}
+        width="1200"
+        height="630"
+        alt={`金句：${lede}`}
+        loading="eager"
+      />
+    </figure>
+    <ShareButton
+      text={L.question}
+      url={`https://sutta.io/topics/${topic.slug}/`}
+      cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
+      prompt="喜歡這句？"
+    />
+
     <div class="ttabs" data-ttabs>
       <div class="ttab-bar" role="tablist" aria-label={headline}>
         <button class="ttab is-active" type="button" role="tab" aria-selected="true" data-tab="ov">概覽</button>
@@ -123,22 +141,6 @@ const topicSchema = definedTermSchema ? [articleSchema, faqSchema, definedTermSc
       <div class="ttab-panels">
         {/* 概覽：金句卡＋分享＋一句直答＋讀原經 */}
         <section class="tpanel is-active" data-panel="ov" role="tabpanel">
-          <figure class="qcard-fig">
-            <img
-              class="qcard"
-              src={`/og/topics/${topic.slug}.png`}
-              width="1200"
-              height="630"
-              alt={`金句：${lede}`}
-              loading="eager"
-            />
-          </figure>
-          <ShareButton
-            text={L.question}
-            url={`https://sutta.io/topics/${topic.slug}/`}
-            cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
-            prompt="喜歡這句？"
-          />
           <p class="lede">{lede}</p>
           {primaryRead && (
             <a class="read-cta" href={url(`/read/${primaryRead.id}`)}>讀原經全文《{primaryRead.label}》 →</a>
