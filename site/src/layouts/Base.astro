@@ -21,7 +21,14 @@ const altLabel = locale === 'en' ? '中' : 'EN';
 // 分析 / 站長驗證（env 閘控；未設則不載入，預設零追蹤）
 const ga4Id = import.meta.env.PUBLIC_GA4_ID ?? '';
 const gscToken = import.meta.env.PUBLIC_GSC_VERIFICATION ?? '';
-const canonical = new URL(Astro.url.pathname, 'https://sutta.io').href;
+// trailingSlash:'ignore' 讓 GH Pages 對 /read/mn22 與 /read/mn22/ 都回 200（同一 dist/read/mn22/index.html），
+// 若各自以請求路徑自我宣告 canonical，Google 會把兩個變體都當獨立頁收錄（連續多日 GSC 觀測到的重複索引）。
+// sitemap 一律輸出含斜線版本，故 canonical 統一補齊斜線與其對齊，把訊號收斂成單一頁。
+const canonicalPath =
+  Astro.url.pathname === '/' || Astro.url.pathname.endsWith('/')
+    ? Astro.url.pathname
+    : `${Astro.url.pathname}/`;
+const canonical = new URL(canonicalPath, 'https://sutta.io').href;
 
 export interface Crumb {
   label: string;
