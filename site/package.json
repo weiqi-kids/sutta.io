@@ -6,7 +6,7 @@
   "scripts": {
     "predev": "node ./scripts/copy-data.mjs",
     "dev": "astro dev",
-    "prebuild": "node ./scripts/copy-data.mjs",
+    "prebuild": "node ./scripts/copy-data.mjs && node ./scripts/check-tokens.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
