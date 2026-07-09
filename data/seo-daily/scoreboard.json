@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updated": "2026-07-08",
+    "updated": "2026-07-09",
     "launched": "2026-07-03",
     "protocol": "docs/04-engineering/SEO_EXPECTATIONS.md",
-    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md ｜2026-07-05 情境化主題頁第一批 3 頁上線（draft 待校稿）＋sitemap 11120→227 收斂＋主題頁加 DefinedTerm。｜2026-07-06 大腦層執行失敗（觸發 weekly usage limit，fallback 保底 Slack 已發），當天無 actions.md，非資料異常。｜2026-07-07 里程碑：sitemap submitted 11120→238（已收斂到位，貼近 227 目標）；追蹤的 topics/read 頁全數轉 Submitted and indexed（anatta 補上最後一塊，anapanasati/satipatthana-practice/nikaya 已於 07-06 轉入）。｜2026-07-08：sitemap submitted 維持 238（穩定，非單日波動）；bhavant 已連續 8 天(07-01~07-08)在英文字典頁 striking-distance 0 clicks，但其 title/description 已於 07-01 由共用模板改版動過（commit 60e2f65，當時即以此詞為例），14 天冷卻至 07-15 前不得再改，本日不動；pamitā 今日跌出 striking-distance 名單，候選作廢。目標詞記分板修正：6 頁確認收錄，對應 7 個關鍵字（含共用 anapanasati 頁的安般念/觀呼吸兩詞）由 S0 轉 S1：尼柯耶 中文、中阿含經白話、安般念、四念處的修行方法、無我 佛教、念處經、觀呼吸。"
+    "note": "2026-07-05 手動：35 URL 已全數 Indexing API 提交＋sitemap 重提交（SA 已升 siteOwner，API 可用）。D+3 ping 已提前完成，勿重複。詳見 2026-07-05-manual-actions.md ｜2026-07-05 情境化主題頁第一批 3 頁上線（draft 待校稿）＋sitemap 11120→227 收斂＋主題頁加 DefinedTerm。｜2026-07-06 大腦層執行失敗（觸發 weekly usage limit，fallback 保底 Slack 已發），當天無 actions.md，非資料異常。｜2026-07-07 里程碑：sitemap submitted 11120→238（已收斂到位，貼近 227 目標）；追蹤的 topics/read 頁全數轉 Submitted and indexed（anatta 補上最後一塊，anapanasati/satipatthana-practice/nikaya 已於 07-06 轉入）。｜2026-07-08：sitemap submitted 維持 238（穩定，非單日波動）；bhavant 已連續 8 天(07-01~07-08)在英文字典頁 striking-distance 0 clicks，但其 title/description 已於 07-01 由共用模板改版動過（commit 60e2f65，當時即以此詞為例），14 天冷卻至 07-15 前不得再改，本日不動；pamitā 今日跌出 striking-distance 名單，候選作廢。目標詞記分板修正：6 頁確認收錄，對應 7 個關鍵字（含共用 anapanasati 頁的安般念/觀呼吸兩詞）由 S0 轉 S1：尼柯耶 中文、中阿含經白話、安般念、四念處的修行方法、無我 佛教、念處經、觀呼吸。｜2026-07-09：sitemap submitted 238→242（正常小幅波動，非異常）；bhavant 今天跌出 strikingDistance 名單（本身仍在 14 天冷卻期至 07-15，無論如何本日不可動，此為觀察記錄非動作）；16 目標詞今日仍全數無曝光（S0/S1 未變）；D+7（07-10）24 新頁收錄率檢查點明天到期，尚未到期。"
   },
   "keywords": [
     {
@@ -409,7 +409,7 @@
     "baseline_date": "2026-07-05",
     "baseline_submitted": 11030,
     "target_submitted": 227,
-    "current_submitted": 238,
+    "current_submitted": 242,
     "milestone_reached_date": "2026-07-07",
     "note": "2026-07-05 sitemap 大瘦身：砍萬計薄字典頁（noindex 對齊＋門檻收緊 usage∪entity）。追 Google 端 submitted 由 11030→~227＝已重抓（好事勿誤報頁面掉），到位後追 coverage 首個 indexed。資料來源：當日 JSON index.sitemaps[].submitted。2026-07-07：已收斂到位（238，貼近 227 目標，多出 11 筆可能為 /en/ 鏡像等，非異常）；換取的收錄回升已開始出現，見下方 observations。",
     "observations": [
@@ -432,6 +432,11 @@
         "date": "2026-07-08",
         "submitted": 238,
         "note": "與 07-07 持平，維持收斂到位；lexicon/en 頁新增進入 coverage 已收錄清單。"
+      },
+      {
+        "date": "2026-07-09",
+        "submitted": 242,
+        "note": "238→242，小幅波動（+4），仍貼近 227 目標區間，非異常。追蹤的 8+2 個重點頁今天在 coverage 中仍全數維持 Submitted and indexed。"
       }
     ]
   }
