@@ -91,6 +91,7 @@ code,
 }
 .measure {
   max-width: 68ch;
+  margin-inline: auto; /* 閱讀欄置中，避免寬螢幕右半大片空白 */
 }
 
 /* ---- L2 材質語言（全站一致；DESIGN §4 / COMPONENT_STATES） ---- */
