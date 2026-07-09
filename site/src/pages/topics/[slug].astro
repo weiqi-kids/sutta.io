@@ -40,6 +40,11 @@ const relatedTopics = (L.related_topics ?? [])
   .filter(Boolean) as { slug: string; label: string; question: string }[];
 const externalResources = L.external_resources ?? [];
 
+// 一頁卡：只秀一句直答（definition 首句）＋金句卡＋讀原經 CTA；長文收進「深入研讀」摺疊。
+const firstSentence = L.definition.split('。')[0];
+const lede = firstSentence ? firstSentence + '。' : L.definition;
+const primaryRead = relatedSuttas[0] ?? null;
+
 const crumbs = [{ label: t.nav.topics, href: `${base}/topics` }, { label: L.title }];
 
 const faqSchema = {
@@ -93,36 +98,40 @@ const topicSchema = definedTermSchema
   extraSchema={topicSchema}
   ogImage={`https://sutta.io/og/topics/${topic.slug}.png`}
 >
-  <article class="topic">
+  <article class="topic-card">
     <h1>{L.question}</h1>
 
-    <p class="answer-box">{L.definition}</p>
+    <figure class="qcard-fig">
+      <img
+        class="qcard"
+        src={`/og/topics/${topic.slug}.png`}
+        width="1200"
+        height="630"
+        alt={`金句：${lede}`}
+        loading="eager"
+      />
+    </figure>
 
-    <p class="ai-notice-line calm-note">
-      <span class="prov-badge prov-ai">AI</span>
-      解說由 AI 依站內經文生成、引文皆正典可逐字檢驗{topic.review_status === 'draft' && '（校稿中）'}——<a href={url('/about-sources')}>如何查證</a>
-    </p>
+    <ShareButton
+      text={L.question}
+      url={`https://sutta.io/topics/${topic.slug}/`}
+      cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
+      prompt="喜歡這句？"
+    />
+
+    <p class="lede">{lede}</p>
 
     {
-      sectionsResolved.length > 1 && (
-        <nav class="topic-toc" aria-label="本頁重點">
-          <span class="toc-label calm-note">本頁重點</span>
-          <ul>
-            {sectionsResolved.map((sec, i) => (
-              <li>
-                <a href={`#sec-${i}`}>{sec.heading}</a>
-              </li>
-            ))}
-            {L.faq.length > 0 && (
-              <li>
-                <a href="#faq">常見問題</a>
-              </li>
-            )}
-          </ul>
-        </nav>
+      primaryRead && (
+        <a class="read-cta" href={url(`/read/${primaryRead.id}`)}>
+          讀原經全文《{primaryRead.label}》 →
+        </a>
       )
     }
 
+    <details class="deep">
+      <summary>深入研讀：原文段落、解說與常見問題</summary>
+      <div class="deep-body">
     {
       sectionsResolved.map((sec, i) => (
         <section class="topic-section" id={`sec-${i}`}>
@@ -225,74 +234,66 @@ const topicSchema = definedTermSchema
         </details>
       )
     }
-    <ShareButton
-      text={L.question}
-      url={`https://sutta.io/topics/${topic.slug}/`}
-      cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
-    />
+      </div>
+    </details>
   </article>
 </Base>
 
 <style>
-  .topic h1 {
+  /* 一頁卡：預設約一個視窗高，口語標題＋金句卡為主角，長文收進「深入研讀」 */
+  .topic-card h1 {
     font-size: var(--text-xl);
-    margin-bottom: var(--space-4);
-  }
-  /* answer-first：一句直答放大、置頂、當頁面主角 */
-  .answer-box {
-    font-family: var(--font-zh);
-    font-size: var(--text-md);
-    line-height: var(--lh-zh);
-    padding: var(--space-4) var(--space-5);
-    background: var(--surface);
-    border-inline-start: 4px solid var(--thread);
-    border-radius: var(--radius);
-    margin-bottom: var(--space-3);
+    line-height: 1.3;
+    margin: var(--space-2) 0 var(--space-4);
     color: var(--ink);
   }
-  /* AI 標示壓成一行、安靜 */
-  .ai-notice-line {
-    font-size: var(--text-xs);
-    margin: 0 0 var(--space-5);
-    display: flex;
-    align-items: center;
-    gap: var(--space-2);
-    flex-wrap: wrap;
+  .qcard-fig {
+    margin: 0 0 var(--space-3);
   }
-  .ai-notice-line a {
-    color: var(--margin);
-    text-decoration: underline;
-    text-underline-offset: 2px;
-  }
-  .ai-notice-line a:hover { color: var(--thread); }
-  /* 錨點目錄：先掃標題再下潛（漸進揭露的載體） */
-  .topic-toc {
-    margin: 0 0 var(--space-6);
-    padding: var(--space-3) var(--space-4);
+  .qcard {
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    height: auto;
     border: 1px solid var(--rule);
     border-radius: var(--radius);
-    background: var(--paper);
   }
-  .topic-toc .toc-label {
-    display: block;
-    font-family: var(--font-ui);
-    font-size: var(--text-xs);
-    margin-bottom: var(--space-2);
+  .lede {
+    font-family: var(--font-zh);
+    font-size: var(--text-base);
+    line-height: var(--lh-zh);
+    color: var(--ink);
+    margin: var(--space-4) 0 var(--space-3);
   }
-  .topic-toc ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--space-1) var(--space-4);
-  }
-  .topic-toc a {
-    font-size: var(--text-sm);
-    color: var(--ink-soft);
+  .read-cta {
+    display: inline-block;
+    font-family: var(--font-zh);
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--thread);
     text-decoration: none;
   }
-  .topic-toc a:hover { color: var(--thread); }
+  .read-cta:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  /* 深入研讀：全部長文收在此，預設收合＝首屏一頁高；內容仍在 DOM（AEO/SEO 讀得到） */
+  .deep {
+    margin-top: var(--space-6);
+    border-top: 1px solid var(--rule);
+    padding-top: var(--space-3);
+  }
+  .deep > summary {
+    font-family: var(--font-ui);
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+    cursor: pointer;
+    list-style: none;
+  }
+  .deep > summary::before { content: '▸ '; }
+  .deep[open] > summary::before { content: '▾ '; }
+  .deep > summary::-webkit-details-marker { display: none; }
+  .deep-body { margin-top: var(--space-5); }
   /* 次要內容摺疊：預設收合，減視覺重量、不減內容 */
   .topic-fold {
     margin: var(--space-4) 0;
@@ -313,9 +314,8 @@ const topicSchema = definedTermSchema
   .topic-fold > *:not(summary) { margin-top: var(--space-3); }
   .topic-section {
     margin-bottom: var(--space-6);
-    scroll-margin-top: var(--space-6);
   }
-  h2 {
+  .deep-body h2 {
     font-size: var(--text-base);
     margin: var(--space-6) 0 var(--space-3);
     padding-bottom: var(--space-1);

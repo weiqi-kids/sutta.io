@@ -187,7 +187,7 @@
   font-style: normal;
 }
 .no-agama-hint {
-  font-size: 0.88em;
+  font-size: var(--text-sm);
 }
 .col-empty {
   padding: var(--space-3);
