@@ -146,6 +146,11 @@ const faqSchema = {
     border-bottom: 1px solid var(--rule);
     vertical-align: top;
   }
+  /* Nikāya 名保持單行（Dīgha Nikāya 不折兩行） */
+  .nikaya-table th:first-child,
+  .nikaya-table td:first-child {
+    white-space: nowrap;
+  }
   .nikaya-table th {
     font-family: var(--font-ui);
     font-size: var(--text-xs);
