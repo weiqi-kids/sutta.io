@@ -168,6 +168,11 @@ const faqSchema = {
     border-bottom: 1px solid var(--rule);
     vertical-align: top;
   }
+  /* 「部名」欄短詞不直排折行 */
+  .nikaya-table th:first-child,
+  .nikaya-table td:first-child {
+    white-space: nowrap;
+  }
   .nikaya-table th {
     font-family: var(--font-ui);
     font-size: var(--text-xs);

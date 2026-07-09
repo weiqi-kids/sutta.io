@@ -121,6 +121,11 @@ const crumbs = [{ label: t.nav.sources }];
     border-bottom: 1px solid var(--rule);
     vertical-align: top;
   }
+  /* 「性質」欄短詞不直排折行 */
+  .layer-table th:nth-child(2),
+  .layer-table td:nth-child(2) {
+    white-space: nowrap;
+  }
   .layer-table th {
     font-family: var(--font-ui);
     color: var(--ink-soft);
