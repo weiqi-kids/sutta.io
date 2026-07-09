@@ -56,7 +56,6 @@ export function renderQuoteCard({ kicker, quote, source, tone = 'warm' }) {
     <rect width="${W}" height="${H}" fill="${c.paper}"/>
     <rect x="0" y="0" width="14" height="${H}" fill="${c.bar}"/>
     <text x="${x}" y="98" font-family="Noto Sans CJK TC" font-size="30" letter-spacing="6" fill="${c.bar}">${esc(kicker)}</text>
-    <text x="${x - 4}" y="${startY - qSize * 0.86}" font-family="Noto Serif CJK TC" font-size="120" font-weight="700" fill="${c.rule}">「</text>
     ${quoteSvg}
     <line x1="${x}" y1="${H - 94}" x2="${x + 300}" y2="${H - 94}" stroke="${c.rule}" stroke-width="2"/>
     <text x="${x}" y="${H - 48}" font-family="Noto Sans CJK TC" font-size="28" fill="${c.soft}">${esc(source)}　·　sutta.io</text>
