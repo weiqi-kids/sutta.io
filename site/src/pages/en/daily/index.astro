@@ -1,0 +1,104 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getStrings } from '../../../i18n';
+import DailyVerseCard from '../../../components/DailyVerseCard.astro';
+import ShareButton from '../../../components/ShareButton.astro';
+import { allVerses, verseForDate } from '../../../lib/dailyVerse';
+
+const t = getStrings(Astro.currentLocale);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (p: string) => `${base}/en${p}` || '/';
+
+const verses = allVerses();
+const today = verseForDate(new Date(), verses);
+const ogImage = today ? `https://sutta.io/og/daily/${today.slug}.png` : undefined;
+---
+
+<Base title={t.daily.pageTitle} description={t.daily.intro} ogImage={ogImage}>
+  <section class="daily-head measure">
+    <h1>{t.daily.pageTitle}</h1>
+    <p class="daily-intro calm-note">{t.daily.intro}</p>
+  </section>
+
+  {
+    today ? (
+      <div class="measure">
+        <DailyVerseCard
+          verse={today}
+          base={base}
+          lang="en"
+          variant="page"
+          label={t.daily.homeCardLabel}
+          sourceLabel={t.daily.sourceLabel}
+          readMore={t.daily.readMore}
+        />
+        {ogImage && (
+          <ShareButton
+            text={`${today.pali} —— ${today.title_pali}`}
+            url="https://sutta.io/en/daily/"
+            cardUrl={ogImage}
+            prompt={t.daily.sharePrompt}
+            lang="en"
+          />
+        )}
+      </div>
+    ) : (
+      <p class="measure calm-note">{t.daily.empty}</p>
+    )
+  }
+
+  {
+    verses.length > 0 && (
+      <section class="daily-all measure" aria-labelledby="all-h">
+        <h2 id="all-h">{t.daily.allTitle}</h2>
+        <p class="calm-note">{t.daily.allIntro}</p>
+        <ul class="verse-list">
+          {verses.map((v) => (
+            <li>
+              <p class="vl-pali" lang="pi">{v.pali}</p>
+              <p class="vl-zh">{v.zh}</p>
+              <a class="vl-src" href={url(`${v.href}`)}>
+                {v.title_pali}｜{v.segment_id}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Base>
+
+<style>
+  .daily-head { margin-top: var(--space-6); }
+  .daily-head h1 { font-family: var(--font-zh); font-size: var(--size-title); margin: 0 0 var(--space-3); }
+  .daily-intro { font-size: var(--text-base); }
+  .daily-all { margin-top: var(--space-8); }
+  .daily-all h2 { font-family: var(--font-zh); font-size: var(--text-xl); margin: 0 0 var(--space-2); }
+  .verse-list { list-style: none; padding: 0; margin: var(--space-6) 0 0; }
+  .verse-list li {
+    padding: var(--space-4) 0;
+    border-top: 1px solid var(--rule);
+  }
+  .vl-pali {
+    font-family: var(--font-pali);
+    font-size: var(--size-pali);
+    line-height: 1.55;
+    color: var(--ink);
+    margin: 0 0 var(--space-2);
+  }
+  .vl-zh {
+    font-family: var(--font-zh);
+    font-size: var(--size-zh);
+    line-height: 1.7;
+    color: var(--ink);
+    margin: 0 0 var(--space-2);
+  }
+  .vl-src {
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+    color: var(--ink-soft);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .vl-src:hover { color: var(--ink); }
+</style>

@@ -4,10 +4,13 @@ import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listSuttas, listTopics } from '../../lib/data';
 import { pickTopics, HOME_FEATURED_QUESTIONS } from '../../lib/questionMap';
+import DailyVerseCard from '../../components/DailyVerseCard.astro';
+import { todaysVerse } from '../../lib/dailyVerse';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (p: string) => `${base}/en${p}` || '/en';
 const suttas = listSuttas();
+const daily = todaysVerse();
 // 精選一部代表經作為閱讀入口示範（SITE_IA §4）
 const featured = suttas.find((s) => s.reviewed && !s.isPreview) ?? suttas[0];
 const askQuestions = pickTopics(listTopics(), HOME_FEATURED_QUESTIONS);
@@ -38,6 +41,19 @@ const askQuestions = pickTopics(listTopics(), HOME_FEATURED_QUESTIONS);
           {t.home.askMore} →
         </a>
       </section>
+    )
+  }
+
+  {
+    daily && (
+      <DailyVerseCard
+        verse={daily}
+        base={base}
+        lang="en"
+        label={t.daily.homeCardLabel}
+        sourceLabel={t.daily.sourceLabel}
+        readMore={t.daily.readMore}
+      />
     )
   }
 

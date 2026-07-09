@@ -28,6 +28,18 @@ export const t = {
     about: '關於',
     errata: '回報勘誤',
     theme: '深淺主題',
+    daily: '今日一句',
+  },
+  daily: {
+    pageTitle: '今日一句',
+    intro: '每天一則巴利原典金句。讀一句，回到經典本身。',
+    homeCardLabel: '今日一句',
+    sourceLabel: '出處',
+    readMore: '讀這部經',
+    allTitle: '金句集',
+    allIntro: '池中所有金句，每日輪替一則於首頁。',
+    sharePrompt: '這句話對你有幫助？分享出去',
+    empty: '金句集整理中，敬請期待。',
   },
   home: {
     enterReading: '開始閱讀',

@@ -87,5 +87,29 @@ for (const [id, meta] of Object.entries(suttas)) {
   ok++;
 }
 
+// —— 今日一句：池中每則生一張卡（白話逐字取自 data，天然守防捏造）——
+const DAILY_POOL = path.join(ROOT, 'content/daily/verses.json');
+if (fs.existsSync(DAILY_POOL)) {
+  ensureDir(path.join(OUT_DIR, 'daily'));
+  const pool = JSON.parse(fs.readFileSync(DAILY_POOL, 'utf8'));
+  for (const e of pool) {
+    const dfile = path.join(DATA_DIR, `${e.sutta}.json`);
+    if (!fs.existsSync(dfile)) { console.warn(`… 今日一句 ${e.segment_id}：無 ${e.sutta} 資料，跳過`); continue; }
+    const d = JSON.parse(fs.readFileSync(dfile, 'utf8'));
+    const seg = (d.segments || []).find((s) => s.segment_id === e.segment_id);
+    const vg = seg?.vernacular_gloss;
+    if (!vg || vg.review_status !== 'approved' || !vg.content) {
+      console.warn(`… 今日一句 ${e.segment_id}：白話缺或未校稿，跳過`); continue;
+    }
+    const nameZh = d.sutta?.title_zh || '';
+    const coll = d.sutta?.collection_zh || d.sutta?.collection || '';
+    const source = nameZh ? `《${nameZh}》${coll}` : coll;
+    const slug = e.segment_id.replace(/[:.]/g, '-');
+    const png = renderQuoteCard({ kicker: e.kicker || '今日一句', quote: vg.content, source, tone: 'warm' });
+    fs.writeFileSync(path.join(OUT_DIR, 'daily', `${slug}.png`), png);
+    ok++;
+  }
+}
+
 console.log(`OG 卡產生完成：${ok} 張${fail ? `，${fail} 張失敗` : ''}`);
 if (fail) process.exit(1);

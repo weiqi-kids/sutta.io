@@ -1,0 +1,100 @@
+---
+// 今日一句卡：Pali 原文為主、漢譯白話為輔、出處深連該經該段。
+// 首頁（variant='home'，含區段標題）與 /daily 頁（variant='page'，大圖）共用。
+import type { DailyVerse } from '../lib/dailyVerse';
+interface Props {
+  verse: DailyVerse;
+  base: string;
+  lang?: string;
+  /** home：首頁嵌入卡；page：/daily 主視覺 */
+  variant?: 'home' | 'page';
+  label: string;
+  sourceLabel: string;
+  readMore: string;
+}
+const { verse, base, lang, variant = 'home', label, sourceLabel, readMore } = Astro.props;
+const en = lang === 'en';
+const lp = en ? '/en' : '';
+const href = `${base}${lp}${verse.href}`;
+const dailyHref = `${base}${lp}/daily/`;
+const source = `《${verse.title_zh}》${verse.collection_zh}`;
+const Tag = variant === 'home' ? 'h2' : 'p';
+---
+
+<article class={`daily-card daily-${variant}`}>
+  <Tag class="daily-kicker">
+    {variant === 'home' ? <a href={dailyHref}>{label}</a> : label}
+    <span class="daily-sep">·</span>
+    <span class="daily-topic">{verse.kicker}</span>
+  </Tag>
+  <p class="daily-pali" lang="pi">{verse.pali}</p>
+  <p class="daily-zh">{verse.zh}</p>
+  <p class="daily-source">
+    <span class="daily-source-label">{sourceLabel}</span>
+    <a href={href}>{source}｜{verse.segment_id}</a>
+    <span class="daily-sep">·</span>
+    <a class="daily-readmore" href={href}>{readMore} →</a>
+  </p>
+</article>
+
+<style>
+  .daily-card {
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--thread);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: var(--space-6);
+    margin: var(--space-8) 0;
+  }
+  .daily-kicker {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-4);
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    color: var(--thread);
+  }
+  .daily-kicker a { color: inherit; text-decoration: none; }
+  .daily-kicker a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .daily-topic { color: var(--ink-soft); font-weight: 400; letter-spacing: 0.04em; }
+  .daily-sep { color: var(--ink-soft); }
+  .daily-pali {
+    font-family: var(--font-pali);
+    font-size: var(--size-pali);
+    line-height: 1.6;
+    color: var(--ink);
+    margin: 0 0 var(--space-4);
+  }
+  .daily-zh {
+    font-family: var(--font-zh);
+    font-size: var(--size-zh);
+    line-height: 1.75;
+    color: var(--ink);
+    margin: 0 0 var(--space-4);
+  }
+  .daily-source {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-2);
+    margin: 0;
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+    color: var(--ink-soft);
+  }
+  .daily-source-label { letter-spacing: 0.1em; }
+  .daily-source a { color: var(--ink-soft); text-decoration: underline; text-underline-offset: 3px; }
+  .daily-source a:hover { color: var(--ink); }
+  .daily-readmore { color: var(--thread) !important; }
+
+  /* /daily 主視覺：字級加大 */
+  .daily-page {
+    padding: var(--space-8) var(--space-6);
+  }
+  .daily-page .daily-pali { font-size: var(--text-lg); }
+  .daily-page .daily-zh { font-size: var(--text-md); }
+</style>

@@ -26,6 +26,18 @@ export const en: Strings = {
     about: 'About',
     errata: 'Report an error',
     theme: 'Light / dark',
+    daily: 'Daily Verse',
+  },
+  daily: {
+    pageTitle: 'Daily Verse',
+    intro: 'One verse from the Pāli canon each day. Read a line, return to the source.',
+    homeCardLabel: 'Daily verse',
+    sourceLabel: 'Source',
+    readMore: 'Read this sutta',
+    allTitle: 'Verse collection',
+    allIntro: 'The full pool; one verse rotates onto the homepage each day.',
+    sharePrompt: 'Did this speak to you? Share it',
+    empty: 'The verse collection is being curated. Check back soon.',
   },
   home: {
     enterReading: 'Start reading',

@@ -6,6 +6,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # 每日重建：讓「今日一句」在台北換日後自動輪替，不依賴當天是否有新內容 push。
+  # UTC 16:30 ＝台北 00:30；選句以台北時區年積日決定（site/src/lib/dailyVerse.ts）。
+  schedule:
+    - cron: '30 16 * * *'
 
 permissions:
   contents: read
