@@ -1,12 +1,12 @@
 ---
-// topics/[slug].astro — 主題研經頁（概念頁系統；docs/04-engineering/SEO_KEYWORDS.md）
-// 信任界線：解說＝L2（AI 生成、掛 AI 標示、冷灰材質）；引文＝L1（segment_id 於 build 期
-// 自 data/ 解析，查無即 build 失敗），深連結回研經頁可逐字檢驗。
+// topics/[slug].astro — 主題頁（分頁式：概覽＋各段落各一分頁＋常見問題，每頁約一視窗、不捲）。
+// 信任界線：解說＝L2（已校稿，只重排不改字）；引文＝L1（segment_id build 期解析，查無即失敗）。
 import Base from '../../layouts/Base.astro';
 import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 import { listTopics, getTopic, resolveTopicQuote, getSutta, suttaSeoTitle } from '../../lib/data';
+import { QUESTION_CATEGORIES } from '../../lib/questionMap';
 
 export function getStaticPaths() {
   return listTopics().map((tp) => ({ params: { slug: tp.slug } }));
@@ -38,14 +38,26 @@ const relatedTopics = (L.related_topics ?? [])
     return tp ? { slug: sl, label: tp.zh.title, question: tp.zh.question } : null;
   })
   .filter(Boolean) as { slug: string; label: string; question: string }[];
-const externalResources = L.external_resources ?? [];
 
-// 一頁卡：只秀一句直答（definition 首句）＋金句卡＋讀原經 CTA；長文收進「深入研讀」摺疊。
+// 一句直答（definition 首句）＋讀原經 CTA。
 const firstSentence = L.definition.split('。')[0];
 const lede = firstSentence ? firstSentence + '。' : L.definition;
 const primaryRead = relatedSuttas[0] ?? null;
 
-const crumbs = [{ label: t.nav.topics, href: `${base}/topics` }, { label: L.title }];
+// 標題依「屬性」不同講法：人物→純名字；生活煩惱→日常問句；教義/實踐→概念詞。
+const PERSON = new Set(['ananda', 'sariputta', 'moggallana']);
+const cat = QUESTION_CATEGORIES.find((c) => c.slugs.includes(topic.slug))?.id;
+let headline: string;
+if (PERSON.has(topic.slug)) {
+  headline = L.title.replace(/^原典中的/, '').replace(/的一生$/, '').trim();
+} else if (cat === 'life') {
+  headline = L.question;
+} else {
+  headline = L.title.replace(/（[^）]*）/g, '').split('：')[0].trim();
+}
+const shortTab = (h: string) => h.split(/[：（(]/)[0].trim();
+
+const crumbs = [{ label: t.nav.topics, href: `${base}/topics` }, { label: headline }];
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -68,9 +80,6 @@ const articleSchema = {
   publisher: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
   isAccessibleForFree: true,
 };
-// DefinedTerm（AEO/知識圖譜）：概念頁把「詞＋原典白話定義」宣告成可被 AI 引擎/featured
-// snippet 直接擷取的定義實體，強打「X 是什麼／X 意思」查詢意圖。定義取 L.definition（L2、
-// grounded on 原典），name 用不含括號羅馬化的純中文詞（提高與中文查詢的匹配）。
 const termName = L.title.replace(/（[^）]*）/g, '').trim() || L.title;
 const definedTermSchema = L.definition
   ? {
@@ -78,17 +87,11 @@ const definedTermSchema = L.definition
       '@type': 'DefinedTerm',
       name: termName,
       description: L.definition,
-      inDefinedTermSet: {
-        '@type': 'DefinedTermSet',
-        name: '原典研經庫・佛教概念',
-        url: 'https://sutta.io/topics/',
-      },
+      inDefinedTermSet: { '@type': 'DefinedTermSet', name: '原典研經庫・佛教概念', url: 'https://sutta.io/topics/' },
       url: `https://sutta.io/topics/${topic.slug}/`,
     }
   : null;
-const topicSchema = definedTermSchema
-  ? [articleSchema, faqSchema, definedTermSchema]
-  : [articleSchema, faqSchema];
+const topicSchema = definedTermSchema ? [articleSchema, faqSchema, definedTermSchema] : [articleSchema, faqSchema];
 ---
 
 <Base
@@ -98,155 +101,178 @@ const topicSchema = definedTermSchema
   extraSchema={topicSchema}
   ogImage={`https://sutta.io/og/topics/${topic.slug}.png`}
 >
-  <article class="topic-card">
-    <h1>{L.question}</h1>
+  <article class="topic-tabbed">
+    <h1>{headline}</h1>
 
-    <figure class="qcard-fig">
-      <img
-        class="qcard"
-        src={`/og/topics/${topic.slug}.png`}
-        width="1200"
-        height="630"
-        alt={`金句：${lede}`}
-        loading="eager"
-      />
-    </figure>
-
-    <ShareButton
-      text={L.question}
-      url={`https://sutta.io/topics/${topic.slug}/`}
-      cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
-      prompt="喜歡這句？"
-    />
-
-    <p class="lede">{lede}</p>
-
-    {
-      primaryRead && (
-        <a class="read-cta" href={url(`/read/${primaryRead.id}`)}>
-          讀原經全文《{primaryRead.label}》 →
-        </a>
-      )
-    }
-
-    <details class="deep">
-      <summary>深入研讀：原文段落、解說與常見問題</summary>
-      <div class="deep-body">
-    {
-      sectionsResolved.map((sec, i) => (
-        <section class="topic-section" id={`sec-${i}`}>
-          <h2>{sec.heading}</h2>
-          {sec.paragraphs.map((p) => (
-            <p class="explain">{p}</p>
-          ))}
-          {sec.resolvedQuotes.map((q) => (
-            <figure class="quote">
-              {q.lead && <figcaption class="quote-lead">{q.lead}</figcaption>}
-              {q.segments.map((seg) => (
-                <div class="quote-seg">
-                  {seg.pali && (
-                    <p class="quote-pali" lang="pi">
-                      {seg.pali}
-                    </p>
-                  )}
-                  {seg.vernacular && <p class="quote-vern">{seg.vernacular}</p>}
-                </div>
-              ))}
-              <figcaption class="quote-src">
-                原文出處：
-                <a href={url(`/read/${q.sutta}${q.href_fragment}`)}>
-                  《{q.sutta_title_zh}》（<span lang="pi">{q.sutta_title_pali}</span>，{q.sutta.toUpperCase()}）
-                </a>
-                ・白話為 AI 逐段生成
-              </figcaption>
-            </figure>
-          ))}
-        </section>
-      ))
-    }
-
-    {
-      L.mahayana_note && (
-        <details class="topic-fold">
-          <summary>與大乘詮釋的關係</summary>
-          <p class="explain">{L.mahayana_note}</p>
-        </details>
-      )
-    }
-
-    {
-      L.faq.length > 0 && (
-        <section class="topic-section faq-section" id="faq">
-          <h2>常見問題</h2>
-          <div class="faq">
-            {L.faq.map((f) => (
-              <details class="faq-item">
-                <summary>{f.q}</summary>
-                <p>{f.a}</p>
-              </details>
-            ))}
-          </div>
-        </section>
-      )
-    }
-
-    {
-      (relatedSuttas.length > 0 || relatedTopics.length > 0 || (L.related_lexicon ?? []).length > 0) && (
-        <section class="topic-section related">
-          <h2>繼續研讀</h2>
-          <ul>
-            {relatedSuttas.map((s) => (
-              <li>
-                讀全文：<a href={url(`/read/${s.id}`)}>{s.label}</a>
-              </li>
-            ))}
-            {relatedTopics.map((tp) => (
-              <li>
-                相關主題：<a href={url(`/topics/${tp.slug}`)}>{tp.question}</a>
-              </li>
-            ))}
-            {(L.related_lexicon ?? []).map((k) => (
-              <li>
-                字典：<a href={url(`/lexicon/${k}`)} lang="pi">
-                  {k}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )
-    }
-
-    {
-      externalResources.length > 0 && (
-        <details class="topic-fold external-resources">
-          <summary>延伸資源（站外工具）</summary>
-          <p class="external-note">
-            以下為站外第三方工具，非本站內容，與正典引文的查證標準無關，僅供有興趣的讀者參考。
-          </p>
-          <ul>
-            {externalResources.map((r) => (
-              <li>
-                <a href={r.url} rel="noopener">{r.label}</a>——{r.desc}
-              </li>
-            ))}
-          </ul>
-        </details>
-      )
-    }
+    <div class="ttabs" data-ttabs>
+      <div class="ttab-bar" role="tablist" aria-label={headline}>
+        <button class="ttab is-active" type="button" role="tab" aria-selected="true" data-tab="ov">概覽</button>
+        {sectionsResolved.map((sec, i) => (
+          <button class="ttab" type="button" role="tab" aria-selected="false" data-tab={`s${i}`}>
+            {shortTab(sec.heading)}
+          </button>
+        ))}
+        {L.mahayana_note && (
+          <button class="ttab" type="button" role="tab" aria-selected="false" data-tab="mhy">與大乘</button>
+        )}
+        {L.faq.length > 0 && (
+          <button class="ttab" type="button" role="tab" aria-selected="false" data-tab="faq">常見問題</button>
+        )}
       </div>
-    </details>
+
+      <div class="ttab-panels">
+        {/* 概覽：金句卡＋分享＋一句直答＋讀原經 */}
+        <section class="tpanel is-active" data-panel="ov" role="tabpanel">
+          <figure class="qcard-fig">
+            <img
+              class="qcard"
+              src={`/og/topics/${topic.slug}.png`}
+              width="1200"
+              height="630"
+              alt={`金句：${lede}`}
+              loading="eager"
+            />
+          </figure>
+          <ShareButton
+            text={L.question}
+            url={`https://sutta.io/topics/${topic.slug}/`}
+            cardUrl={`https://sutta.io/og/topics/${topic.slug}.png`}
+            prompt="喜歡這句？"
+          />
+          <p class="lede">{lede}</p>
+          {primaryRead && (
+            <a class="read-cta" href={url(`/read/${primaryRead.id}`)}>讀原經全文《{primaryRead.label}》 →</a>
+          )}
+          {relatedTopics.length > 0 && (
+            <p class="rel-strip">
+              <span class="rel-label">相關：</span>
+              {relatedTopics.map((tp, i) => (
+                <>
+                  {i > 0 && '・'}
+                  <a href={url(`/topics/${tp.slug}`)}>{tp.label.replace(/（[^）]*）/g, '')}</a>
+                </>
+              ))}
+            </p>
+          )}
+        </section>
+
+        {/* 各段落各一分頁 */}
+        {sectionsResolved.map((sec, i) => (
+          <section class="tpanel" data-panel={`s${i}`} role="tabpanel">
+            <h2>{sec.heading}</h2>
+            {sec.paragraphs.map((p) => (
+              <p class="explain">{p}</p>
+            ))}
+            {sec.resolvedQuotes.map((q) => (
+              <figure class="quote">
+                {q.lead && <figcaption class="quote-lead">{q.lead}</figcaption>}
+                {q.segments.map((seg) => (
+                  <div class="quote-seg">
+                    {seg.pali && <p class="quote-pali" lang="pi">{seg.pali}</p>}
+                    {seg.vernacular && <p class="quote-vern">{seg.vernacular}</p>}
+                  </div>
+                ))}
+                <figcaption class="quote-src">
+                  原文出處：
+                  <a href={url(`/read/${q.sutta}${q.href_fragment}`)}>
+                    《{q.sutta_title_zh}》（<span lang="pi">{q.sutta_title_pali}</span>，{q.sutta.toUpperCase()}）
+                  </a>
+                </figcaption>
+              </figure>
+            ))}
+          </section>
+        ))}
+
+        {L.mahayana_note && (
+          <section class="tpanel" data-panel="mhy" role="tabpanel">
+            <h2>與大乘詮釋的關係</h2>
+            <p class="explain">{L.mahayana_note}</p>
+          </section>
+        )}
+
+        {L.faq.length > 0 && (
+          <section class="tpanel" data-panel="faq" role="tabpanel">
+            {L.faq.map((f) => (
+              <div class="faq-item">
+                <h3>{f.q}</h3>
+                <p>{f.a}</p>
+              </div>
+            ))}
+          </section>
+        )}
+      </div>
+    </div>
   </article>
 </Base>
 
+<script>
+  // 分頁：預設全部堆疊（無 JS 也可讀）；JS 開啟後切成一次一頁、不捲。
+  document.querySelectorAll<HTMLElement>('[data-ttabs]').forEach((box) => {
+    box.classList.add('js-tabs');
+    const tabs = Array.from(box.querySelectorAll<HTMLButtonElement>('.ttab'));
+    const panels = Array.from(box.querySelectorAll<HTMLElement>('.tpanel'));
+    const show = (key: string) => {
+      tabs.forEach((t) => {
+        const on = t.dataset.tab === key;
+        t.classList.toggle('is-active', on);
+        t.setAttribute('aria-selected', on ? 'true' : 'false');
+      });
+      panels.forEach((p) => p.classList.toggle('is-active', p.dataset.panel === key));
+      box.scrollIntoView({ block: 'nearest' });
+    };
+    tabs.forEach((t) => t.addEventListener('click', () => t.dataset.tab && show(t.dataset.tab)));
+  });
+</script>
+
 <style>
-  /* 一頁卡：預設約一個視窗高，口語標題＋金句卡為主角，長文收進「深入研讀」 */
-  .topic-card h1 {
+  .topic-tabbed h1 {
     font-size: var(--text-xl);
     line-height: 1.3;
     margin: var(--space-2) 0 var(--space-4);
     color: var(--ink);
   }
+  /* 分頁標籤列（可橫向捲，標籤本身不換行） */
+  .ttab-bar {
+    display: flex;
+    gap: var(--space-1);
+    overflow-x: auto;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--space-5);
+    scrollbar-width: thin;
+  }
+  .ttab {
+    flex: 0 0 auto;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    font-family: var(--font-ui);
+    font-size: var(--text-sm);
+    color: var(--ink-soft);
+    padding: var(--space-2) var(--space-3);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .ttab.is-active {
+    color: var(--ink);
+    border-bottom-color: var(--thread);
+  }
+  .ttab:hover {
+    color: var(--ink);
+  }
+  /* 無 JS：所有分頁堆疊可讀（優雅降級）。有 JS：一次只顯示一頁。 */
+  .js-tabs .tpanel {
+    display: none;
+  }
+  .js-tabs .tpanel.is-active {
+    display: block;
+  }
+  .tpanel + .tpanel {
+    margin-top: var(--space-8);
+  }
+  .js-tabs .tpanel + .tpanel {
+    margin-top: 0;
+  }
+  /* 概覽 */
   .qcard-fig {
     margin: 0 0 var(--space-3);
   }
@@ -277,59 +303,40 @@ const topicSchema = definedTermSchema
     text-decoration: underline;
     text-underline-offset: 3px;
   }
-  /* 深入研讀：全部長文收在此，預設收合＝首屏一頁高；內容仍在 DOM（AEO/SEO 讀得到） */
-  .deep {
-    margin-top: var(--space-6);
-    border-top: 1px solid var(--rule);
+  .rel-strip {
+    margin-top: var(--space-5);
     padding-top: var(--space-3);
-  }
-  .deep > summary {
-    font-family: var(--font-ui);
+    border-top: 1px solid var(--rule);
     font-size: var(--text-sm);
     color: var(--ink-soft);
-    cursor: pointer;
-    list-style: none;
   }
-  .deep > summary::before { content: '▸ '; }
-  .deep[open] > summary::before { content: '▾ '; }
-  .deep > summary::-webkit-details-marker { display: none; }
-  .deep-body { margin-top: var(--space-5); }
-  /* 次要內容摺疊：預設收合，減視覺重量、不減內容 */
-  .topic-fold {
-    margin: var(--space-4) 0;
-    border-top: 1px solid var(--rule);
-    padding-top: var(--space-3);
+  .rel-strip .rel-label {
+    font-family: var(--font-ui);
   }
-  .topic-fold > summary {
-    font-family: var(--font-zh);
-    font-weight: 600;
-    font-size: var(--text-base);
-    cursor: pointer;
+  .rel-strip a {
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+  .rel-strip a:hover {
+    color: var(--thread);
+  }
+  /* 段落分頁 */
+  .tpanel h2 {
+    font-size: var(--text-lg);
+    margin: 0 0 var(--space-4);
     color: var(--ink);
-    list-style: none;
-  }
-  .topic-fold > summary::before { content: '＋ '; color: var(--ink-soft); }
-  .topic-fold[open] > summary::before { content: '－ '; }
-  .topic-fold > summary::-webkit-details-marker { display: none; }
-  .topic-fold > *:not(summary) { margin-top: var(--space-3); }
-  .topic-section {
-    margin-bottom: var(--space-6);
-  }
-  .deep-body h2 {
-    font-size: var(--text-base);
-    margin: var(--space-6) 0 var(--space-3);
-    padding-bottom: var(--space-1);
-    border-bottom: 1px solid var(--rule);
   }
   .explain {
     color: var(--ink);
+    font-size: var(--size-zh);
+    line-height: var(--lh-zh);
     margin-bottom: var(--space-3);
   }
   .quote {
     margin: var(--space-4) 0;
     padding: var(--space-4);
     background: var(--paper);
-    border-left: 3px solid var(--prov-canonical);
+    border-inline-start: 3px solid var(--prov-canonical);
     border-radius: var(--radius);
   }
   .quote-lead {
@@ -366,45 +373,21 @@ const topicSchema = definedTermSchema
   .quote-src a:hover {
     color: var(--thread);
   }
+  /* 常見問題分頁 */
   .faq-item {
-    border-bottom: 1px solid var(--rule);
     padding: var(--space-3) 0;
+    border-bottom: 1px solid var(--rule);
   }
-  .faq-item > summary {
+  .faq-item h3 {
     font-family: var(--font-zh);
+    font-size: var(--text-base);
     font-weight: 600;
-    cursor: pointer;
     color: var(--ink);
-    list-style: none;
+    margin: 0 0 var(--space-2);
   }
-  .faq-item > summary::before { content: '＋ '; color: var(--ink-soft); }
-  .faq-item[open] > summary::before { content: '－ '; }
-  .faq-item > summary::-webkit-details-marker { display: none; }
-  .faq-item > p {
-    margin: var(--space-2) 0 0;
+  .faq-item p {
+    margin: 0;
     color: var(--ink-soft);
     line-height: var(--lh-zh);
-  }
-  .faq-section { scroll-margin-top: var(--space-6); }
-  .related ul {
-    line-height: 2;
-  }
-  .related a {
-    text-decoration: none;
-  }
-  .related a:hover {
-    color: var(--thread);
-  }
-  .external-resources {
-    border-top: 1px solid var(--rule);
-    padding-top: var(--space-4);
-  }
-  .external-note {
-    font-size: var(--text-xs);
-    color: var(--ink-soft);
-    margin-bottom: var(--space-2);
-  }
-  .external-resources ul {
-    line-height: 1.8;
   }
 </style>
