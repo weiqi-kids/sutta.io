@@ -8,7 +8,7 @@ import DailyVerseCard from '../components/DailyVerseCard.astro';
 import { todaysVerse } from '../lib/dailyVerse';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => `${base}${p.endsWith('/') ? p : `${p}/`}` || '/';
 const suttas = listSuttas();
 const daily = todaysVerse();
 // 精選一部代表經作為閱讀入口示範（SITE_IA §4）

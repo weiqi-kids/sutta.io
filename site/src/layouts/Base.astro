@@ -63,7 +63,8 @@ const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
 const ogTitle = title ? `${title}｜${t.site.name}` : t.site.ogTitle;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lp = locale === 'en' ? '/en' : '';
-const url = (p: string) => `${base}${lp}${p}` || '/';
+// 站內導覽連結一律補齊斜線，與 canonicalPath／sitemap 的正典形式對齊（同一批 canonical 收斂修正）
+const url = (p: string) => `${base}${lp}${p.endsWith('/') ? p : `${p}/`}` || '/';
 // hreflang 互連（同頁的另一語系）
 const zhHref = 'https://sutta.io' + Astro.url.pathname.replace(/^\/en(\/|$)/, '/');
 const enHref = 'https://sutta.io' + (Astro.url.pathname.startsWith('/en') ? Astro.url.pathname : '/en' + (Astro.url.pathname === '/' ? '/' : Astro.url.pathname));
