@@ -18,7 +18,11 @@ if (!topic) return Astro.redirect('/404');
 const L = topic.zh;
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => {
+  const [path, hash] = p.split('#');
+  const withSlash = path.endsWith('/') ? path : `${path}/`;
+  return `${base}${withSlash}${hash ? `#${hash}` : ''}` || '/';
+};
 
 // 引文於 build 期解析（防捏造：任何 segment_id 不存在都會讓 build 失敗）
 const sectionsResolved = L.sections.map((sec) => ({
