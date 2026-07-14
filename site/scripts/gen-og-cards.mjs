@@ -15,10 +15,10 @@ const OUT_DIR = path.join(HERE, '..', 'public/og');   // site/public/og
 // 主題頁精選金句（kicker＝讀者的問題脈絡；quote＝逐字取自該頁 definition/段落；source＝經名）。
 // quote 會在下方強制檢查為該頁文字的連續子字串。
 const TOPIC = {
-  'facing-fear':          { kicker: '害怕、恐懼的時候', quote: '維持當下那個姿勢、不改變、不逃開，直到把恐懼驅除', source: '《怖駭經》中部 4' },
+  'facing-fear':          { kicker: '害怕、恐懼的時候', quote: '維持那個姿勢，不換、不逃，一直待到把它看透、驅除為止', source: '《怖駭經》中部 4' },
   'calming-angry-thoughts':{ kicker: '負面念頭停不下來', quote: '由溫和到強硬層層遞進，前一個方法奏效就不必用到後面，終點是對自己的念頭得自在', source: '《息止尋念經》中部 20' },
-  'facing-criticism':     { kicker: '被批評、毀謗時', quote: '我的心不會改變，也不會說出惡語；我將懷著慈心、關懷對方福祉而住，不懷瞋恨', source: '《鋸喻經》中部 21' },
-  'letting-go':           { kicker: '怎麼放下執著', quote: '佛陀不是只說「放下」，而是給出七種依情境選用的做法', source: '《一切漏經》中部 2' },
+  'facing-criticism':     { kicker: '被批評、毀謗時', quote: '心不改變、不出惡語、懷慈心而住', source: '《鋸喻經》中部 21' },
+  'letting-go':           { kicker: '怎麼放下執著、煩惱', quote: '不是壓住念頭，也不是斷絕感情，而是先認出眼前的煩惱屬於哪一類，再選對應的手段', source: '《一切漏經》中部 2' },
   'sense-pleasures-danger':{ kicker: '慾望為何帶來痛苦', quote: '佛陀給的出路不是壓抑或自我折磨，而是「出離」', source: '《大苦蘊經》中部 13' },
   'anatta':               { kicker: '無我是什麼意思', quote: '色、受、想、行、識等一切可經驗的現象皆無常、會變易', source: '《蛇喻經》中部 22' },
   'anapanasati':          { kicker: '安般念是什麼', quote: '先安頓身體與呼吸，再處理感受、調御內心，最後以觀慧透視現象的本質', source: '《入出息念經》中部 118' },
