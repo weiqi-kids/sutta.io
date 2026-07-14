@@ -40,6 +40,7 @@ export const DPD_DOWNLOAD_URL = `https://github.com/digitalpalidictionary/dpd-db
 // 經的中文/巴利標題（V1 小集，手動對照表；之後可由 SC suttaplex 補）
 export const SUTTA_TITLES: Record<string, { pali: string; zh: string; collection: string; collection_zh: string }> = {
   mn10: { pali: 'Satipaṭṭhānasutta', zh: '念處經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
+  mn87: { pali: 'Piyajātikasutta', zh: '愛生經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   mn1: { pali: 'Mūlapariyāyasutta', zh: '根本法門經', collection: 'Majjhima Nikāya', collection_zh: '中部' },
   // 手動批次 A（2026-06-22）：策展名經，漢譯平行紮實
   mn2: { pali: 'Sabbāsavasutta', zh: '一切漏經', collection: 'Majjhima Nikāya', collection_zh: '中部' },

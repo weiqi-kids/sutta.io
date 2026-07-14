@@ -30,7 +30,7 @@ const TOPIC = {
   'dependent-origination':{ kicker: '十二因緣是什麼', quote: '前支集起則後支集起，前支滅盡則後支滅盡', source: '緣起・十二因緣' },
   'five-aggregates':      { kicker: '五蘊是什麼', quote: '對這五者的執取——五取蘊——簡言之即是苦', source: '五蘊・pañcakkhandhā' },
   'five-hindrances':      { kicker: '五蓋是什麼', quote: '遮蔽、障礙心的五種狀態：貪欲蓋、瞋恚蓋、惛沉睡眠蓋、掉舉惡作蓋、疑蓋', source: '《蟻垤經》中部 23' },
-  'marana':               { kicker: '佛教怎麼看死亡', quote: '死不是一條線的終點，而是有條件的緣起環節', source: '死亡觀・maraṇa' },
+  'marana':               { kicker: '至親離世、走不出來時', quote: '悲傷之所以這麼重，正因為那個人對你這麼重要', source: '《愛生經》中部 87' },
   'vipassana':            { kicker: '內觀是什麼', quote: '指如實觀見身心現象的生起與滅去', source: '內觀・vipassanā' },
   'reading-guide':        { kicker: '巴利經典入門', quote: '巴利經典入門不必按經號從頭讀：依目的選起點更有效', source: '入門指南' },
   'ananda':               { kicker: '阿難是誰', quote: '此後二十五年常隨佛陀身邊，參與眾多開示', source: '原典中的阿難' },
