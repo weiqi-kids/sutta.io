@@ -7,19 +7,23 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 
 // sitemap 與頁面 noindex 對齊：薄詞條頁（lexicon/[key].astro 標 noindex 者）不該進 sitemap，
-// 否則對 Google 送出「sitemap 說收錄／meta 說 noindex」的矛盾訊號、且以千計的薄詞條稀釋抓取
-// 預算與信任。這裡複製 lexicon/[key].astro 的 indexable 判準（usage OR entity.summary），算出
-// 「應 noindex」的鍵集合，於 sitemap filter 排除其 zh/en 兩版。改判準時兩處要同步。
+// 否則對 Google 送出「sitemap 說收錄／meta 說 noindex」的矛盾訊號。這裡複製 lexicon/[key].astro 的
+// indexable 判準（usage ／ entity.summary ／ DPD gloss+occ≥門檻），算出「應 noindex」的鍵集合，
+// 於 sitemap filter 排除其 zh/en 兩版。改判準時兩處要同步（含 LEX_OCC_MIN 值）。
+// 2026-07-14：7-05「只認 L2 白話」過嚴（僅 28 詞達標→deindex 99% 字典頁，含幾乎全部曝光詞），回調為此。
 const DATA_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'data');
 const readJson = (f) => (existsSync(f) ? JSON.parse(readFileSync(f, 'utf-8')) : {});
 const _lex = readJson(join(DATA_DIR, 'lexicon.json'));
 const _usage = readJson(join(DATA_DIR, 'usage.json'));
 const _ent = readJson(join(DATA_DIR, 'entities.json'));
+const LEX_OCC_MIN = 8; // 字典頁索引門檻：有 DPD gloss 且出現次數≥此值＝正當字典條目、可索引。與 lexicon/[key].astro 同步。
 const noindexLexKeys = new Set(
   [...new Set([...Object.keys(_lex), ...Object.keys(_ent)])].filter((k) => {
     const hasUsage = Boolean(_usage[k]);
     const hasEntity = Boolean(_ent[k]?.summary?.length);
-    return !(hasUsage || hasEntity); // 無白話用法摘要且無實體條目＝薄詞條＝noindex＝不進 sitemap
+    const e = _lex[k];
+    const hasDict = Boolean(e?.gloss && String(e.gloss).trim()) && (e?.occurrences?.length ?? 0) >= LEX_OCC_MIN;
+    return !(hasUsage || hasEntity || hasDict); // 空殼（無白話/無實體/DPD內容不足）＝noindex＝不進 sitemap
   }),
 );
 // filter 收到完整 URL；比對 /lexicon/<key>（含 /en/）的解碼 key 是否在排除集

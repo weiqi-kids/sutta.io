@@ -26,10 +26,13 @@ const url = (p: string) => {
   const withSlash = path.endsWith('/') ? path : `${path}/`;
   return `${base}${withSlash}${hash ? `#${hash}` : ''}` || '/';
 };
-// 只有「有白話用法摘要（L2）或人地事實體條目（DPPN）」的詞條才有差異化內容、值得索引；
-// 純出現連結（occ≥3 但無白話）仍是薄頁，一律 noindex，集中 Google 抓取預算與信任於真內容頁。
-// 判準與 astro.config.mjs 的 noindexLexKeys 必須同步（2026-07-05 由用戶定案收緊，砍掉 occ≥3 一支）。
-const indexable = Boolean(usage) || Boolean(entity?.summary?.length);
+// 值得索引者：有白話用法摘要（L2）／人地事實體條目（DPPN）／或有 DPD 釋義且出現次數≥門檻的正當字典條目。
+// 真正的空殼頁（無釋義或出現過少）才 noindex，集中抓取預算於真內容頁。判準與 astro.config.mjs 的 noindexLexKeys 必須同步。
+// 2026-07-14：7-05 只認 L2 白話（僅 28 詞達標）過嚴，deindex 了 5,409 個含 DPD 釋義+出處的正當字典頁、
+// 連同幾乎全部在拿 GSC 曝光的查詞頁；回調為「gloss + occ≥門檻」，保守起步 occ≥8（約 1,318 頁）。
+const LEX_OCC_MIN = 8;
+const hasDict = Boolean(entry?.gloss && String(entry.gloss).trim()) && (entry?.occurrences?.length ?? 0) >= LEX_OCC_MIN;
+const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || hasDict;
 const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
