@@ -385,6 +385,18 @@ export function getLexicon(): Record<string, LexiconEntry> {
   return readJsonIfExists<Record<string, LexiconEntry>>(path.join(DATA_DIR, 'lexicon.json')) ?? {};
 }
 
+// 主題 → 已驗證的 Wikidata/維基百科實體連結（GEO：供 schema.org sameAs 讓答案引擎正確錨定實體）。
+let _entityLinksCache: Record<string, { wikidata?: string; wp_zh?: string; wp_en?: string } | null> | null = null;
+export function getEntityLinkUrls(slug: string): string[] {
+  if (!_entityLinksCache) {
+    _entityLinksCache = readJsonIfExists<Record<string, { wikidata?: string; wp_zh?: string; wp_en?: string } | null>>(
+      path.join(CONTENT_DIR, 'seo/entity-links.json'),
+    ) ?? {};
+  }
+  const e = _entityLinksCache[slug];
+  return e ? [e.wikidata, e.wp_zh, e.wp_en].filter((u): u is string => Boolean(u)) : [];
+}
+
 // 巴利詞的精簡中文詞義（L2，由 DPD 英文 gloss 直譯／專名/詞彙表/L2用法彙整）。中文站用它取代英文 gloss 當「詞義」。
 let _zhGlossCache: Record<string, string> | null = null;
 export function getZhGloss(key: string): string {

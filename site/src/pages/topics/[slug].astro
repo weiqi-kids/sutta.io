@@ -5,7 +5,7 @@ import Base from '../../layouts/Base.astro';
 import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { listTopics, getTopic, resolveTopicQuote, getSutta, suttaSeoTitle } from '../../lib/data';
+import { listTopics, getTopic, resolveTopicQuote, getSutta, suttaSeoTitle, getEntityLinkUrls } from '../../lib/data';
 import { QUESTION_CATEGORIES } from '../../lib/questionMap';
 
 export function getStaticPaths() {
@@ -72,6 +72,8 @@ const faqSchema = {
     acceptedAnswer: { '@type': 'Answer', text: f.a },
   })),
 };
+const termName = L.title.replace(/（[^）]*）/g, '').trim() || L.title;
+const sameAsUrls = getEntityLinkUrls(topic.slug);
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -83,8 +85,11 @@ const articleSchema = {
   author: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
   publisher: { '@type': 'Organization', name: '原典研經庫', url: 'https://sutta.io/' },
   isAccessibleForFree: true,
+  // AEO：標出「一句直答」供答案引擎/語音助手擷取
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['h1', '.lede'] },
+  // GEO：把本頁主題錨定到已驗證的 Wikidata/維基實體，讓答案引擎正確辨識並引用
+  ...(sameAsUrls.length ? { about: { '@type': 'Thing', name: termName, sameAs: sameAsUrls } } : {}),
 };
-const termName = L.title.replace(/（[^）]*）/g, '').trim() || L.title;
 const definedTermSchema = L.definition
   ? {
       '@context': 'https://schema.org',
@@ -93,6 +98,7 @@ const definedTermSchema = L.definition
       description: L.definition,
       inDefinedTermSet: { '@type': 'DefinedTermSet', name: '原典研經庫・佛教概念', url: 'https://sutta.io/topics/' },
       url: `https://sutta.io/topics/${topic.slug}/`,
+      ...(sameAsUrls.length ? { sameAs: sameAsUrls } : {}),
     }
   : null;
 const topicSchema = definedTermSchema ? [articleSchema, faqSchema, definedTermSchema] : [articleSchema, faqSchema];

@@ -1,4 +1,29 @@
+# 原典研經庫 sutta.io — 全站開放檢索。獨立研經工具，內容具名來源、開放授權。
+# AI 答案引擎（AEO/GEO）：明確歡迎抓取與引用；引用規範見 /llms.txt。
+
 User-agent: *
+Allow: /
+
+# —— AI 答案引擎/助手爬蟲：明確放行（訓練、檢索、即時瀏覽） ——
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://sutta.io/sitemap-index.xml

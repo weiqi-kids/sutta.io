@@ -1,0 +1,83 @@
+{
+  "ananda": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28988",
+    "wp_zh": "https://zh.wikipedia.org/wiki/阿难",
+    "wp_en": "https://en.wikipedia.org/wiki/Ānanda"
+  },
+  "anapanasati": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2123673",
+    "wp_zh": "https://zh.wikipedia.org/wiki/安那般那念",
+    "wp_en": "https://en.wikipedia.org/wiki/Anapanasati"
+  },
+  "anatta": {
+    "wikidata": "https://www.wikidata.org/wiki/Q488506",
+    "wp_zh": "https://zh.wikipedia.org/wiki/非我",
+    "wp_en": "https://en.wikipedia.org/wiki/Anattā"
+  },
+  "calming-angry-thoughts": null,
+  "dependent-origination": {
+    "wikidata": "https://www.wikidata.org/wiki/Q522046",
+    "wp_zh": "https://zh.wikipedia.org/wiki/缘起",
+    "wp_en": "https://en.wikipedia.org/wiki/Pratītyasamutpāda"
+  },
+  "facing-criticism": null,
+  "facing-fear": null,
+  "five-aggregates": {
+    "wikidata": "https://www.wikidata.org/wiki/Q747858",
+    "wp_zh": "https://zh.wikipedia.org/wiki/蘊",
+    "wp_en": "https://en.wikipedia.org/wiki/Skandha"
+  },
+  "five-hindrances": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1393073",
+    "wp_zh": "https://zh.wikipedia.org/wiki/五盖",
+    "wp_en": "https://en.wikipedia.org/wiki/Five_hindrances"
+  },
+  "four-noble-truths": {
+    "wikidata": "https://www.wikidata.org/wiki/Q169010",
+    "wp_zh": "https://zh.wikipedia.org/wiki/四谛",
+    "wp_en": "https://en.wikipedia.org/wiki/Four_Noble_Truths"
+  },
+  "letting-go": null,
+  "marana": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17058937",
+    "wp_zh": "https://zh.wikipedia.org/wiki/死随念",
+    "wp_en": "https://en.wikipedia.org/wiki/Maraṇasati"
+  },
+  "moggallana": {
+    "wikidata": "https://www.wikidata.org/wiki/Q379814",
+    "wp_zh": "https://zh.wikipedia.org/wiki/目犍連",
+    "wp_en": "https://en.wikipedia.org/wiki/Maudgalyayana"
+  },
+  "noble-eightfold-path": {
+    "wikidata": "https://www.wikidata.org/wiki/Q185514",
+    "wp_zh": "https://zh.wikipedia.org/wiki/八聖道分",
+    "wp_en": "https://en.wikipedia.org/wiki/Noble_Eightfold_Path"
+  },
+  "reading-guide": null,
+  "sariputta": {
+    "wikidata": "https://www.wikidata.org/wiki/Q320142",
+    "wp_zh": "https://zh.wikipedia.org/wiki/舍利弗",
+    "wp_en": "https://en.wikipedia.org/wiki/Śāriputra"
+  },
+  "sati": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17011276",
+    "wp_zh": "https://zh.wikipedia.org/wiki/念_(佛教)",
+    "wp_en": "https://en.wikipedia.org/wiki/Sati_(Buddhism)"
+  },
+  "satipatthana": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2585596",
+    "wp_zh": "https://zh.wikipedia.org/wiki/四念住",
+    "wp_en": "https://en.wikipedia.org/wiki/Satipatthana"
+  },
+  "satipatthana-practice": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2585596",
+    "wp_zh": "https://zh.wikipedia.org/wiki/四念住",
+    "wp_en": "https://en.wikipedia.org/wiki/Satipatthana"
+  },
+  "sense-pleasures-danger": null,
+  "vipassana": {
+    "wikidata": "https://www.wikidata.org/wiki/Q676262",
+    "wp_zh": "https://zh.wikipedia.org/wiki/觀_(佛教)",
+    "wp_en": "https://en.wikipedia.org/wiki/Vipassanā"
+  }
+}
