@@ -153,6 +153,8 @@ export const t = {
     grammar: '文法',
     forms: '變化形',
     occurrences: '全藏出現',
+    inSuttas: '在經文裡',
+    readFull: '讀整段開示 →',
     usageSummary: '用法摘要',
     noUsageSummary: '暫無用法摘要',
     entity: '專名',

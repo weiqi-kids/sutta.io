@@ -151,6 +151,8 @@ export const en: Strings = {
     grammar: 'Grammar',
     forms: 'Inflected forms',
     occurrences: 'Occurrences',
+    inSuttas: 'In the suttas',
+    readFull: 'Read the full passage →',
     usageSummary: 'Usage summary',
     noUsageSummary: 'No usage summary yet',
     entity: 'Proper name',

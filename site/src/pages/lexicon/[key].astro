@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getUsage, getEntity, getAllEntityKeys } from '../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys, resolveOccurrencePassages } from '../../lib/data';
 import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
@@ -32,6 +32,8 @@ const url = (p: string) => {
 // 連同幾乎全部在拿 GSC 曝光的查詞頁；回調為「gloss + occ≥門檻」，保守起步 occ≥8（約 1,318 頁）。
 const LEX_OCC_MIN = 8;
 const hasDict = Boolean(entry?.gloss && String(entry.gloss).trim()) && (entry?.occurrences?.length ?? 0) >= LEX_OCC_MIN;
+// 字典漏斗：把前幾筆出處解析成「詞活在經文裡」的段落，把查詞導向閱讀（build 期解析、原句可查證）。
+const passages = entry ? resolveOccurrencePassages(entry.occurrences, 3) : [];
 const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || hasDict;
 const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
@@ -175,6 +177,22 @@ const provLabel: Record<Provenance, string> = {
     </section>
     )}
 
+    {/* 在經文裡（字典漏斗：詞活在原句裡＋一鍵讀整段，把查詞導向閱讀） */}
+    {passages.length > 0 && (
+      <section class="lex-section">
+        <h2>{t.lexicon.inSuttas}</h2>
+        <ul class="lex-passages">
+          {passages.map((p) => (
+            <li class="lex-passage">
+              <p class="lp-pali" lang="pi">{p.pali}</p>
+              <p class="lp-zh">{p.zh}</p>
+              <a class="lp-read" href={url(`/read/${p.sutta}#${p.seg}`)}>《{p.title_zh}》{p.seg}・{t.lexicon.readFull}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
     {/* 全藏出現（concordance，L1） */}
     {entry && (
       <section class="lex-section">
@@ -252,6 +270,39 @@ const provLabel: Record<Provenance, string> = {
     border-color: var(--thread);
     color: var(--ink);
   }
+  .lex-passages {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+  .lex-passage {
+    border-left: 3px solid var(--thread);
+    padding: var(--space-2) 0 var(--space-2) var(--space-4);
+  }
+  .lp-pali {
+    font-family: var(--font-pali);
+    font-size: var(--size-pali);
+    line-height: 1.55;
+    color: var(--ink);
+    margin: 0 0 var(--space-2);
+  }
+  .lp-zh {
+    font-family: var(--font-zh);
+    font-size: var(--size-zh);
+    line-height: 1.7;
+    color: var(--ink);
+    margin: 0 0 var(--space-2);
+  }
+  .lp-read {
+    font-family: var(--font-ui);
+    font-size: var(--size-label);
+    color: var(--thread);
+    text-decoration: none;
+  }
+  .lp-read:hover { text-decoration: underline; text-underline-offset: 3px; }
   .usage-l2 {
     padding: var(--space-3);
     border-radius: var(--radius);

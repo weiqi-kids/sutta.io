@@ -25,11 +25,46 @@ function readJsonIfExists<T>(file: string): T | null {
 }
 
 /** 讀單部經預建 JSON。data/ 優先，退回 fixtures/（邊界 fixture mn1）。 */
+// build 期跨數千字典頁會重複讀同幾部經，memoize 避免每頁重讀/重解析大 JSON。
+const _suttaCache = new Map<string, SuttaFixture | null>();
 export function getSutta(id: string): SuttaFixture | null {
-  return (
+  if (_suttaCache.has(id)) return _suttaCache.get(id)!;
+  const s =
     readJsonIfExists<SuttaFixture>(path.join(DATA_DIR, `${id}.json`)) ??
-    readJsonIfExists<SuttaFixture>(path.join(FIXTURES_DIR, `${id}.json`))
-  );
+    readJsonIfExists<SuttaFixture>(path.join(FIXTURES_DIR, `${id}.json`));
+  _suttaCache.set(id, s);
+  return s;
+}
+
+export interface OccurrencePassage {
+  seg: string;
+  sutta: string;
+  pali: string;
+  zh: string;
+  title_zh: string;
+}
+
+/** 字典漏斗：把出處（{seg,sutta}）解析成「詞活在經文裡」的段落（Pali＋已校稿白話），供字典頁把查詞導向閱讀。
+ *  只收 Pali 可組且白話 approved 的段；同段去重；最多 limit 筆。全部出處都源自本地語料，故必解析得到。 */
+export function resolveOccurrencePassages(
+  occurrences: { seg: string; sutta: string }[],
+  limit = 3,
+): OccurrencePassage[] {
+  const out: OccurrencePassage[] = [];
+  const seen = new Set<string>();
+  for (const o of occurrences) {
+    if (out.length >= limit) break;
+    if (seen.has(o.seg)) continue;
+    seen.add(o.seg);
+    const s = getSutta(o.sutta);
+    const seg = s?.segments.find((x) => x.segment_id === o.seg);
+    const vg = seg?.vernacular_gloss;
+    if (!s || !seg || !vg || vg.review_status !== 'approved' || !vg.content) continue;
+    const pali = seg.pali_tokens.map((tk) => tk.surface).join(' ').trim();
+    if (!pali) continue;
+    out.push({ seg: o.seg, sutta: o.sutta, pali, zh: vg.content, title_zh: s.sutta.title_zh });
+  }
+  return out;
 }
 
 export interface BrowseEntry {
