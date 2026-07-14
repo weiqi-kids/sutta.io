@@ -4,7 +4,7 @@ import { getStrings } from '../i18n';
 const t = getStrings(Astro.currentLocale);
 const crumbs = [{ label: t.nav.about }];
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => `${base}${p.endsWith('/') ? p : `${p}/`}` || '/';
 // 常見問題（自首頁遷入，收斂首頁單一目標）；FAQPage schema 供 AEO/精選摘要。
 const faqSchema = {
   '@context': 'https://schema.org',
