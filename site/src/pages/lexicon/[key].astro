@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getUsage, getEntity, getAllEntityKeys, resolveOccurrencePassages } from '../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys, resolveOccurrencePassages, getZhGloss } from '../../lib/data';
 import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
@@ -38,8 +38,9 @@ const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || hasDict;
 const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
-// 每詞條專屬 title/description（原為全站共用同一句，曝光高點擊低；改用 entry.gloss / entity.name_zh 這類既有資料組出對應查詢字詞的專屬敘述）
-const meaning = entity?.name_zh ?? entry?.gloss ?? '';
+// 每詞條專屬 title/description。中文站的「詞義」一律用中文來源（專名中文名／L2 中文詞義），
+// 2026-07-14 起不再以英文 DPD gloss 冒充中文詞義（英文 gloss 只留在下方「文法」區、標明 DPD 來源）。
+const meaning = entity?.name_zh || getZhGloss(key!) || '';
 const pageTitle = meaning ? `${headword}（${meaning}）｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
 const pageDesc = meaning ? `${headword}，意為「${meaning}」。${t.lexicon.desc}` : `${headword}｜${t.lexicon.desc}`;
 const definedTermSchema = {
@@ -64,6 +65,7 @@ const provLabel: Record<Provenance, string> = {
       {entity && <span class="lex-kind calm-note">{t.lexicon.entity}・{entity.name_zh}</span>}
       {entry?.root && <span class="lex-root data" lang="pi">{entry.root}</span>}
     </header>
+    {meaning && !entity && <p class="lex-meaning">{meaning}</p>}
 
     {/* 專名詞條（DPPN，四級出處；CONTEXT B / LEXICON §6） */}
     {entity && (
@@ -223,6 +225,12 @@ const provLabel: Record<Provenance, string> = {
   }
   .lex-root {
     color: var(--ink-soft);
+  }
+  .lex-meaning {
+    font-family: var(--font-zh);
+    font-size: var(--text-lg);
+    color: var(--ink);
+    margin: var(--space-3) 0 0;
   }
   .lex-section {
     margin: var(--space-6) 0;

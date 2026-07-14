@@ -385,6 +385,15 @@ export function getLexicon(): Record<string, LexiconEntry> {
   return readJsonIfExists<Record<string, LexiconEntry>>(path.join(DATA_DIR, 'lexicon.json')) ?? {};
 }
 
+// 巴利詞的精簡中文詞義（L2，由 DPD 英文 gloss 直譯／專名/詞彙表/L2用法彙整）。中文站用它取代英文 gloss 當「詞義」。
+let _zhGlossCache: Record<string, string> | null = null;
+export function getZhGloss(key: string): string {
+  if (!_zhGlossCache) {
+    _zhGlossCache = readJsonIfExists<Record<string, string>>(path.join(DATA_DIR, 'lexicon-zh-gloss.json')) ?? {};
+  }
+  return _zhGlossCache[key] ?? '';
+}
+
 export interface UsageData {
   generated_by: string;
   review_status: string;
