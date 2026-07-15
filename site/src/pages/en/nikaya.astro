@@ -6,7 +6,7 @@ const t = getStrings(Astro.currentLocale);
 import { listSuttas, getSutta, suttaIsComplete } from '../../lib/data';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}/en${p}` || '/en';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}/en${s}${h ? `#${h}` : ''}` || '/en'; };
 const doneCount = listSuttas().filter((s) => {
   const fx = getSutta(s.id);
   return fx && suttaIsComplete(fx);

@@ -5,7 +5,7 @@ import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}/en${p}` || '/en';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}/en${s}${h ? `#${h}` : ''}` || '/en'; };
 
 const title = 'Sources & citation — every explanation traceable to the source texts';
 const description =

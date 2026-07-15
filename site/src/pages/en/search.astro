@@ -7,7 +7,7 @@ import { getAllCurated, getSutta } from '../../lib/data';
 const crumbs = [{ label: t.nav.search }];
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}${s}${h ? `#${h}` : ''}` || '/'; };
 const curated = getAllCurated();
 // 段落片段（顯示策展結果用）
 const segText = (sutta: string, seg: string) => {

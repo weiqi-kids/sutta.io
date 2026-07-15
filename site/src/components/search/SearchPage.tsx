@@ -21,7 +21,7 @@ interface Result {
 
 export default function SearchPage({ baseUrl, l3Api = '', lang }: Props) {
   const t = getStrings(lang);
-  const url = (p: string) => `${baseUrl}${p}` || '/';
+  const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${baseUrl}${s}${h ? `#${h}` : ''}` || '/'; };
   const dataUrl = (f: string) => `${baseUrl}/data/${f}`;
 
   const [query, setQuery] = useState('');

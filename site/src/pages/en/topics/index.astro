@@ -7,7 +7,7 @@ import { listTopics } from '../../../lib/data';
 import { groupTopics } from '../../../lib/questionMap';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}/en${p}` || '/en';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}/en${s}${h ? `#${h}` : ''}` || '/en'; };
 const abs = (p: string) => new URL(url(p), Astro.site ?? 'https://sutta.io').href;
 const { groups, leftover } = groupTopics(listTopics());
 const allItems = [...groups.flatMap((g) => g.items), ...leftover];

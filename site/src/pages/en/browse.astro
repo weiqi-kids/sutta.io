@@ -5,7 +5,7 @@ const t = getStrings(Astro.currentLocale);
 import { listSuttas } from '../../lib/data';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}${s}${h ? `#${h}` : ''}` || '/'; };
 const suttas = listSuttas();
 const anyPreview = suttas.some((s) => s.isPreview);
 const crumbs = [{ label: t.nav.browse }];

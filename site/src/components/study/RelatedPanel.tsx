@@ -25,7 +25,7 @@ interface Props {
 export default function RelatedPanel({ suttaId, context, hasAgama, entities, topics = [], baseUrl }: Props) {
   const t = useI18n();
   const [open, setOpen] = useState(false);
-  const url = (p: string) => `${baseUrl}${p}` || '/';
+  const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${baseUrl}${s}${h ? `#${h}` : ''}` || '/'; };
   // 「本經談到的主題」反向鏈改由 read/[sutta].astro 靜態渲染（可被爬取），此處不重複。
   void topics;
   const hasAnything = context || hasAgama || entities.length > 0;

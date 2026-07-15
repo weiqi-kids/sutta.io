@@ -7,7 +7,7 @@ import { getStrings } from '../i18n';
 const t = getStrings(Astro.currentLocale);
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}${p}` || '/';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}${s}${h ? `#${h}` : ''}` || '/'; };
 
 const title = '資料來源與引用｜每句解釋都可回到原典檢驗';
 const description =

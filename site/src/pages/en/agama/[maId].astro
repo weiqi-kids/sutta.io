@@ -19,7 +19,7 @@ interface Props {
 const { entry } = Astro.props;
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const url = (p: string) => `${base}/en${p}` || '/en';
+const url = (p: string) => { const [q, h] = p.split('#'); const s = q.endsWith('/') ? q : `${q}/`; return `${base}/en${s}${h ? `#${h}` : ''}` || '/en'; };
 
 const paragraphs = agamaParagraphs(entry.text);
 const mnList = entry.suttas.map((s) => `${g.mnPrefix}${s.n}${g.mnSuffix}`).join(g.listSep);
