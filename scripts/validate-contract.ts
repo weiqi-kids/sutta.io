@@ -168,8 +168,46 @@ for (const dir of SUTTA_DIRS) {
   }
 }
 
+// ---- 跨經連結（data/xrefs.json）：每個深連目標 sutta/segment 必存在（防斷鏈，比照主題引文的防捏造護欄）----
+function validateXrefs() {
+  const xf = path.join(ROOT, 'data', 'xrefs.json');
+  if (!fs.existsSync(xf)) return; // 尚未產生（可選檔）
+  let x: any;
+  try {
+    x = JSON.parse(fs.readFileSync(xf, 'utf-8'));
+  } catch (e) {
+    return fail('data/xrefs.json', `JSON 解析失敗：${(e as Error).message}`);
+  }
+  // 建 sutta_id → Set(segment_id)
+  const segsOf = new Map<string, Set<string>>();
+  const dataDir = path.join(ROOT, 'data');
+  for (const f of fs.readdirSync(dataDir)) {
+    if (!f.endsWith('.json') || NON_SUTTA.test(f.replace(/\.json$/, '')) || f === 'xrefs.json') continue;
+    try {
+      const s = JSON.parse(fs.readFileSync(path.join(dataDir, f), 'utf-8'));
+      if (s?.sutta?.id && Array.isArray(s.segments)) {
+        segsOf.set(s.sutta.id, new Set(s.segments.map((seg: any) => seg.segment_id)));
+      }
+    } catch { /* 形狀由上方主迴圈驗；此處只取 segment 清單 */ }
+  }
+  const hasSeg = (sid: string, seg: string) => segsOf.get(sid)?.has(seg) ?? false;
+  for (const [id, entry] of Object.entries<any>(x)) {
+    if (!segsOf.has(id)) { fail('data/xrefs.json', `指向不存在的經：${id}`); continue; }
+    for (const p of entry.pericopes ?? []) {
+      if (!hasSeg(id, p.anchor)) fail('data/xrefs.json', `${id} pericope 錨點不存在：${p.anchor}`);
+      for (const t of p.targets ?? []) {
+        if (!hasSeg(t.sutta, t.seg)) fail('data/xrefs.json', `${id} 段落註深連斷鏈：${t.sutta} ${t.seg}`);
+      }
+    }
+    for (const par of entry.parallels ?? []) {
+      if (!segsOf.has(par.sutta)) fail('data/xrefs.json', `${id} 相關經文指向不存在的經：${par.sutta}`);
+    }
+  }
+}
+validateXrefs();
+
 if (errors > 0) {
   console.error(`\n契約層驗證失敗：${errors} 處（共驗 ${count} 份產物）。`);
   process.exit(1);
 }
-console.log(`✓ 契約層驗證通過（${count} 份產物，形狀 + 不變量全綠）。`);
+console.log(`✓ 契約層驗證通過（${count} 份產物 + 跨經連結，形狀 + 不變量全綠）。`);
