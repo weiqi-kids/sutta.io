@@ -30,7 +30,7 @@ const entities = getEntitiesForSutta(suttaId!);
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
-  { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse` },
+  { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse/` },
   { label: fixture.sutta.title_zh },
 ];
 
@@ -85,7 +85,7 @@ const articleSchema: Record<string, unknown> = {
   author: organization,
   publisher: organization,
   isAccessibleForFree: true,
-  license: 'https://sutta.io/about',
+  license: 'https://sutta.io/about/',
   citation,
 };
 if (dateModified) {

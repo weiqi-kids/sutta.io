@@ -38,7 +38,7 @@ const relatedTopics = getTopicsForSutta(suttaId!, Astro.currentLocale === 'en' ?
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
-  { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse` },
+  { label: fixture.sutta.collection_zh ?? fixture.sutta.collection, href: `${base}/browse/` },
   { label: fixture.sutta.title_zh },
 ];
 
@@ -93,7 +93,7 @@ const articleSchema: Record<string, unknown> = {
   author: organization,
   publisher: organization,
   isAccessibleForFree: true,
-  license: 'https://sutta.io/about',
+  license: 'https://sutta.io/about/',
   citation,
 };
 if (dateModified) {
@@ -121,7 +121,7 @@ if (dateModified) {
               <ul>
                 {relatedTopics.map((tp) => (
                   <li>
-                    <a href={`${base}/topics/${tp.slug}`}>{tp.question}</a>
+                    <a href={`${base}/topics/${tp.slug}/`}>{tp.question}</a>
                   </li>
                 ))}
               </ul>
