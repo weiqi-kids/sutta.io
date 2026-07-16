@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useState } from 'react';
-import type { PaliToken, SuttaFixture } from '@tipitaka/contracts';
+import { useCallback, useEffect, useMemo, useState } from 'react';
+import type { PaliToken, SuttaFixture, PericopeNote } from '@tipitaka/contracts';
 import { getStrings } from '../../i18n';
 import { I18nProvider } from '../../i18n/react';
 import { useLayoutMode } from './useBreakpoint';
@@ -25,13 +25,14 @@ interface Props {
   context?: SuttaContextData | null;
   entities?: EntityLink[];
   topics?: { slug: string; title: string; question: string }[];
+  pericopes?: PericopeNote[];
   l3Api?: string;
   lang?: string;
 }
 
 type Tab = 'pali' | 'chinese' | 'study';
 
-export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], topics = [], l3Api = '', lang }: Props) {
+export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = null, entities = [], topics = [], pericopes = [], l3Api = '', lang }: Props) {
   const t = getStrings(lang);
   const { sutta, segments, passages, summary, study_cards } = fixture;
   const hasAgama = passages.some((p) => p.agama != null);
@@ -52,6 +53,13 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
   const highlightedSegmentId = hoveredSegmentId ?? activeSegmentId;
 
   const url = useCallback((p: string) => `${baseUrl}${p}` || '/', [baseUrl]);
+
+  // 段落級跨經連結：anchor segment_id → 註解（此段亦見於…）
+  const notesByAnchor = useMemo(() => {
+    const m: Record<string, PericopeNote> = {};
+    for (const n of pericopes) m[n.anchor] = n;
+    return m;
+  }, [pericopes]);
 
   // 深連結：#segmentId → 捲動 + 高亮（SITE_IA §2/§7）
   useEffect(() => {
@@ -100,6 +108,8 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
       onSegmentHover={setHoveredSegmentId}
       onSegmentActivate={(id) => setActiveSegmentId((cur) => (cur === id ? null : id))}
       onGlossHover={onGlossHover}
+      notesByAnchor={notesByAnchor}
+      baseUrl={baseUrl}
     />
   );
   const studyCol = <StudyColumn summary={summary} studyCards={study_cards} />;

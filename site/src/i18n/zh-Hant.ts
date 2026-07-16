@@ -111,6 +111,11 @@ export const t = {
     viewOnSC: '在 SuttaCentral 查看平行對照 →',
     relatedEntities: '人・地・事',
     relatedTopics: '本經談到的主題',
+    relatedSuttas: '相關經文',
+    relatedSuttasHint: '與本經有平行對應的其他經（依 SuttaCentral 對照）',
+    parallelFull: '全平行',
+    alsoAppearsIn: '此段開示也見於',
+    passagesLabel: '段',
     provCanonical: '正典',
   },
   dpd: {

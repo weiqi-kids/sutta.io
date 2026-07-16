@@ -43,6 +43,9 @@ run pnpm -C generation exec tsx src/publish-clean.ts "$NEXT"
 # 4. 重建索引 + 嵌入（全經）
 run env SUTTAS="$ALL" pnpm -C pipeline exec tsx src/run.ts --only=index
 run env SUTTAS="$ALL" pnpm -C pipeline exec tsx src/run.ts --only=embed
+# 4b. 重算跨經連結（段落級公式段 + SC 平行經；需 pipeline/.cache/sc-parallels.json，本機有）
+#     → data/xrefs.json 提交進 repo，CI 純消費（勿放進 site prebuild：CI 無 cache 會清空 L2）
+run node scripts/build-xrefs.mjs
 # 5. 驗證（契約 + golden + 金鑰）
 run pnpm exec tsx scripts/validate-contract.ts
 run pnpm exec tsx scripts/validate-golden.ts

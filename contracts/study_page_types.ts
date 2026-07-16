@@ -141,6 +141,45 @@ export interface SuttaFixture {
 }
 
 // ---------------------------------------------------------------------------
+// 1b. 跨經連結（衍生資料，非 SuttaFixture 的一部分）
+//
+//    由 scripts/build-xrefs.mjs 於 build 期算出，寫 data/xrefs.json，研經頁消費。
+//    兩層皆「可驗證、零 AI 臆測」：
+//      pericopes ＝ 同一段巴利經文（逐字正規化相同）在多部站內經重複出現的公式段（段落級註）。
+//      parallels ＝ SuttaCentral parallels.json 標記、且站內存在的平行經（經級）。
+//    所有 seg/sutta 皆源自本地語料，故深連結必解析得到（防捏造）。
+// ---------------------------------------------------------------------------
+
+/** 段落註的一個目標經（深連到該經對應段）。 */
+export interface CrossRefTarget {
+  sutta: string;      // 目標經 id
+  seg: string;        // 目標經內對應 segment_id（深連錨點）
+  title_zh: string;
+}
+
+/** 段落級「此段亦見於…」註解，錨於本經某 segment。 */
+export interface PericopeNote {
+  anchor: string;              // 本經 segment_id（註解掛此處）
+  segCount: number;            // 此組共享公式涵蓋幾段
+  overflow: number;            // targets 截斷後尚有幾部未列
+  targets: CrossRefTarget[];
+}
+
+/** 經級平行經（SuttaCentral parallels，過濾站內）。 */
+export interface ParallelSutta {
+  sutta: string;
+  full: boolean;               // true=全平行、false=部分平行
+  title_zh: string;
+  title_pali: string;
+}
+
+/** 單經的跨經連結資料（data/xrefs.json 的一筆）。 */
+export interface SuttaCrossRefs {
+  pericopes: PericopeNote[];
+  parallels: ParallelSutta[];
+}
+
+// ---------------------------------------------------------------------------
 // 2. 共用狀態（全部 lift 到 <StudyPage>）
 //
 //    狀態擁有權原則（§2.2）：跨欄同步的唯一真相來源放在 StudyPage，

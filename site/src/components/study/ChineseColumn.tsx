@@ -1,4 +1,4 @@
-import type { Segment, Passage } from '@tipitaka/contracts';
+import type { Segment, Passage, PericopeNote } from '@tipitaka/contracts';
 import { useI18n } from '../../i18n/react';
 
 interface Props {
@@ -10,6 +10,8 @@ interface Props {
   onSegmentHover: (id: string | null) => void;
   onSegmentActivate: (id: string | null) => void;
   onGlossHover: (tokenIds: string[] | null) => void;
+  notesByAnchor?: Record<string, PericopeNote>;
+  baseUrl?: string;
 }
 
 // 欄 B：兩塊分離（DATA_PIPELINE §1）。
@@ -24,8 +26,12 @@ export default function ChineseColumn({
   onSegmentHover,
   onSegmentActivate,
   onGlossHover,
+  notesByAnchor = {},
+  baseUrl = '',
 }: Props) {
   const t = useI18n();
+  // 深連結：/read/<id>/#<seg>（沿用站內 trailing-slash 慣例）
+  const xrefUrl = (sutta: string, seg: string) => `${baseUrl}/read/${sutta}/#${seg}`;
   return (
     <div className="col col-chinese">
       <h2 className="col-head">{t.study.colChinese}</h2>
@@ -37,6 +43,7 @@ export default function ChineseColumn({
             const g = seg.vernacular_gloss;
             if (!g) return null; // 無白話則該列不渲染（§2.3）
             const hl = seg.segment_id === highlightedSegmentId;
+            const note = notesByAnchor[seg.segment_id];
             return (
               <div
                 key={seg.segment_id}
@@ -56,6 +63,26 @@ export default function ChineseColumn({
                   {g.review_status === 'draft' && <span className="draft-mark">{t.study.draftMark}</span>}
                   <span className="gloss-text">{g.content}</span>
                 </div>
+                {note && (
+                  // 段落級跨經連結（可驗證：同一段巴利公式逐字亦見於他經）——click 不冒泡到選段
+                  <div className="xref-note" onClick={(e) => e.stopPropagation()}>
+                    <span className="xref-label calm-note">
+                      ↗ {t.study.alsoAppearsIn}
+                      {note.segCount > 1 && (
+                        <span className="xref-span">（{note.segCount} {t.study.passagesLabel}）</span>
+                      )}
+                    </span>{' '}
+                    {note.targets.map((tg, i) => (
+                      <span key={tg.sutta}>
+                        {i > 0 && '、'}
+                        <a className="xref-link" href={xrefUrl(tg.sutta, tg.seg)}>
+                          {tg.title_zh}
+                        </a>
+                      </span>
+                    ))}
+                    {note.overflow > 0 && <span className="calm-note"> 等</span>}
+                  </div>
+                )}
               </div>
             );
           })}

@@ -7,6 +7,7 @@ import type {
   SuttaFixture,
   Segment,
   Passage,
+  SuttaCrossRefs,
 } from '@tipitaka/contracts';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -310,6 +311,19 @@ export function resolveTopicQuote(ref: TopicQuoteRef): ResolvedQuote {
     lead: ref.lead,
     segments,
   };
+}
+
+// ---- 跨經連結（build-xrefs.mjs 產物 data/xrefs.json；研經頁段落註 + 相關經文區塊） ----
+let _xrefsCache: Record<string, SuttaCrossRefs> | null | undefined;
+function allCrossRefs(): Record<string, SuttaCrossRefs> {
+  if (_xrefsCache === undefined) {
+    _xrefsCache = readJsonIfExists<Record<string, SuttaCrossRefs>>(path.join(DATA_DIR, 'xrefs.json'));
+  }
+  return _xrefsCache ?? {};
+}
+/** 單經跨經連結（無則 pericopes/parallels 皆空陣列）。 */
+export function getCrossRefs(id: string): SuttaCrossRefs {
+  return allCrossRefs()[id] ?? { pericopes: [], parallels: [] };
 }
 
 /** 衍生：segment_id → 它所屬的 passage（阿含對照掛在 passage）。 */

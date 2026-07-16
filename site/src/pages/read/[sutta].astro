@@ -6,7 +6,7 @@ import StudyPage from '../../components/study/StudyPage';
 import ShareButton from '../../components/ShareButton.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle, getTopicsForSutta } from '../../lib/data';
+import { listSuttas, getSutta, isPreviewSutta, getSuttaContext, getEntitiesForSutta, suttaSeoTitle, getTopicsForSutta, getCrossRefs } from '../../lib/data';
 
 export function getStaticPaths() {
   const suttas = listSuttas();
@@ -35,6 +35,7 @@ const ogCard = fs.existsSync(path.join(process.cwd(), 'public/og/read', `${sutta
 const context = getSuttaContext(suttaId!);
 const entities = getEntitiesForSutta(suttaId!);
 const relatedTopics = getTopicsForSutta(suttaId!, Astro.currentLocale === 'en' ? 'en' : 'zh');
+const xrefs = getCrossRefs(suttaId!);
 const l3Api = (import.meta.env.PUBLIC_L3_API ?? '').replace(/\/$/, '');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const crumbs = [
@@ -110,11 +111,28 @@ if (dateModified) {
   extraSchema={articleSchema}
   ogImage={ogCard}
 >
-  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} topics={relatedTopics} l3Api={l3Api} lang={Astro.currentLocale} />
+  <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} topics={relatedTopics} pericopes={xrefs.pericopes} l3Api={l3Api} lang={Astro.currentLocale} />
   {
-    (relatedTopics.length > 0 || ogCard) && (
+    (relatedTopics.length > 0 || xrefs.parallels.length > 0 || ogCard) && (
       <div class="container">
         <div class="measure">
+          {xrefs.parallels.length > 0 && (
+            <nav class="read-parallels" aria-label={t.study.relatedSuttas}>
+              <span class="rt-label calm-note">{t.study.relatedSuttas}</span>
+              <p class="rp-hint calm-note">{t.study.relatedSuttasHint}</p>
+              <ul>
+                {xrefs.parallels.map((p) => (
+                  <li>
+                    <a href={`${base}/read/${p.sutta}/`}>
+                      <span lang="pi" class="rp-pali">{p.title_pali}</span>
+                      <span class="rp-zh">{p.title_zh}</span>
+                    </a>
+                    {p.full && <span class="rp-full calm-note">{t.study.parallelFull}</span>}
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
           {relatedTopics.length > 0 && (
             <nav class="read-topics" aria-label={t.study.relatedTopics}>
               <span class="rt-label calm-note">{t.study.relatedTopics}</span>
@@ -134,6 +152,52 @@ if (dateModified) {
   }
 
   <style>
+    .read-parallels {
+      margin: var(--space-6) 0 0;
+      padding: var(--space-4);
+      border: 1px solid var(--rule);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+    .read-parallels .rt-label {
+      display: block;
+      font-family: var(--font-ui);
+      font-size: var(--text-xs);
+      margin-bottom: var(--space-1);
+    }
+    .read-parallels .rp-hint {
+      font-size: var(--text-2xs);
+      margin: 0 0 var(--space-3);
+    }
+    .read-parallels ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-2);
+    }
+    .read-parallels a {
+      text-decoration: none;
+      display: inline-flex;
+      align-items: baseline;
+      gap: var(--space-2);
+    }
+    .read-parallels a:hover .rp-zh {
+      color: var(--thread);
+    }
+    .read-parallels .rp-pali {
+      font-family: var(--font-pali);
+      font-size: var(--text-sm);
+      color: var(--ink);
+    }
+    .read-parallels .rp-zh {
+      font-family: var(--font-zh);
+      font-size: var(--text-sm);
+    }
+    .read-parallels .rp-full {
+      font-size: var(--text-2xs);
+    }
     .read-topics {
       margin: var(--space-6) 0 0;
       padding: var(--space-4);

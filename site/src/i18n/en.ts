@@ -109,6 +109,11 @@ export const en: Strings = {
     viewOnSC: 'View parallels on SuttaCentral →',
     relatedEntities: 'People · Places · Events',
     relatedTopics: 'Topics this sutta covers',
+    relatedSuttas: 'Related suttas',
+    relatedSuttasHint: 'Other suttas paralleling this one (per SuttaCentral)',
+    parallelFull: 'full parallel',
+    alsoAppearsIn: 'This passage also appears in',
+    passagesLabel: 'seg.',
     provCanonical: 'canonical',
   },
   dpd: {
