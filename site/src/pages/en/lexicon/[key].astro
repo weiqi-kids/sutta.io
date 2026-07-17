@@ -32,7 +32,11 @@ const noindex = !indexable;
 const headword = entity?.name_pali ?? entry?.lemma ?? key;
 const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headword ?? '' }];
 // Per-term title/description (was one generic sentence shared site-wide — high impressions, zero clicks; now built from existing entry.gloss / entity.name_zh so each page matches its own query terms)
-const meaning = entity?.name_zh ?? entry?.gloss ?? '';
+// Entities with a proper-noun gloss (e.g. "name of a forest near Bārāṇasī") use that in English rather than
+// entity.name_zh, which produced mixed-language titles like "Isipatana (仙人墮處) ｜ Lexicon" on an English-locale page.
+// Entities whose gloss is the common-word meaning (e.g. ananda → "happiness; joy") keep name_zh since "name of" doesn't match.
+const properNounGloss = entry?.gloss && /^name of\b/i.test(entry.gloss) ? entry.gloss : null;
+const meaning = properNounGloss ?? entity?.name_zh ?? entry?.gloss ?? '';
 const pageTitle = meaning ? `${headword} (${meaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
 const pageDesc = meaning ? `${headword}, meaning "${meaning}". ${t.lexicon.desc}` : `${headword}｜${t.lexicon.desc}`;
 const definedTermSchema = {
