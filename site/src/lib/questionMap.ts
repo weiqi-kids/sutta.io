@@ -54,6 +54,8 @@ export const QUESTION_CATEGORIES: QCategory[] = [
 ];
 
 // 首頁「你想問的是——」精選：跨類挑高流量、初學者最常問的題目。
+// facing-fear／facing-criticism 與 letting-go／marana 同屬情境垂直對比實驗（四情境同日上線）,
+// 四者須等量曝光才是公平對照組,故一併列入,不獨漏兩項。
 export const HOME_FEATURED_QUESTIONS = [
   'anatta',
   'five-aggregates',
@@ -63,6 +65,8 @@ export const HOME_FEATURED_QUESTIONS = [
   'letting-go',
   'calming-angry-thoughts',
   'marana',
+  'facing-fear',
+  'facing-criticism',
 ];
 
 /** 把主題清單依 QUESTION_CATEGORIES 分桶；未歸類者回傳於 leftover，供「更多主題」呈現。 */
