@@ -1,0 +1,528 @@
+{
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T12:00:02.832Z",
+  "ga4": {
+    "range": "7daysAgo..yesterday",
+    "sessions": 1,
+    "users": 1,
+    "views": 1,
+    "avgDurationSec": 0,
+    "taiwanOrganicSessions": 0,
+    "channels": [
+      {
+        "channel": "Direct",
+        "sessions": 1
+      }
+    ],
+    "topPages": [
+      {
+        "path": "/",
+        "views": 1
+      }
+    ]
+  },
+  "gsc": {
+    "range": "2026-07-09..2026-07-16",
+    "totals": {
+      "clicks": 0,
+      "impressions": 54,
+      "ctr": 0,
+      "position": 45.51851851851852
+    },
+    "topQueries": [
+      {
+        "query": "anatta",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 93
+      },
+      {
+        "query": "anatta buddhism",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 89.25
+      },
+      {
+        "query": "anatta definition",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 100
+      },
+      {
+        "query": "anatta meaning",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 90.5
+      },
+      {
+        "query": "annata buddhism",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+      },
+      {
+        "query": "annica meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 96
+      },
+      {
+        "query": "buddhism sati",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 82.5
+      },
+      {
+        "query": "iskapatna",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "query": "khippa",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+      },
+      {
+        "query": "kusala",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 92
+      },
+      {
+        "query": "sacca",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+      },
+      {
+        "query": "soka meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98
+      },
+      {
+        "query": "tathāgata",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+      },
+      {
+        "query": "what is anatta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+      },
+      {
+        "query": "四念處",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 142
+      }
+    ],
+    "topPages": [
+      {
+        "page": "https://sutta.io/en/browse/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/abhassara/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/abhisangi/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 4
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/disvana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/isipatana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/katama/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kusala/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 92
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/nigantha/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 48
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 90.3076923076923
+      },
+      {
+        "page": "https://sutta.io/en/topics/sati",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 69
+      },
+      {
+        "page": "https://sutta.io/en/topics/sati/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+      },
+      {
+        "page": "https://sutta.io/en/topics/vipassana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 83
+      },
+      {
+        "page": "https://sutta.io/lexicon/",
+        "clicks": 0,
+        "impressions": 17,
+        "ctr": 0,
+        "position": 7.294117647058823
+      },
+      {
+        "page": "https://sutta.io/lexicon/anicca",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 96
+      },
+      {
+        "page": "https://sutta.io/lexicon/catumasini/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/lexicon/khippa/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+      },
+      {
+        "page": "https://sutta.io/lexicon/sacca",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+      },
+      {
+        "page": "https://sutta.io/lexicon/soka",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98
+      },
+      {
+        "page": "https://sutta.io/lexicon/tathagata/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+      },
+      {
+        "page": "https://sutta.io/lexicon/tathagatappavedita/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 48
+      },
+      {
+        "page": "https://sutta.io/topics/sati",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/topics/satipatthana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 142
+      }
+    ],
+    "pageQueryCross": [
+      {
+        "page": "https://sutta.io/en/lexicon/isipatana/",
+        "query": "iskapatna",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kusala/",
+        "query": "kusala",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 92
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 93
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta buddhism",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 89.25
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta definition",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 100
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta meaning",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 90.5
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "annata buddhism",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "what is anatta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+      },
+      {
+        "page": "https://sutta.io/en/topics/sati",
+        "query": "buddhism sati",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 82.5
+      },
+      {
+        "page": "https://sutta.io/lexicon/anicca",
+        "query": "annica meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 96
+      },
+      {
+        "page": "https://sutta.io/lexicon/khippa/",
+        "query": "khippa",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+      },
+      {
+        "page": "https://sutta.io/lexicon/sacca",
+        "query": "sacca",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+      },
+      {
+        "page": "https://sutta.io/lexicon/soka",
+        "query": "soka meaning",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98
+      },
+      {
+        "page": "https://sutta.io/lexicon/tathagata/",
+        "query": "tathāgata",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+      },
+      {
+        "page": "https://sutta.io/topics/satipatthana/",
+        "query": "四念處",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 142
+      }
+    ],
+    "strikingDistance": [
+      {
+        "page": "https://sutta.io/en/lexicon/isipatana/",
+        "query": "iskapatna",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      }
+    ],
+    "highImpZeroClick": [
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 93
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "query": "anatta buddhism",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 89.25
+      }
+    ]
+  },
+  "index": {
+    "sitemaps": [
+      {
+        "path": "https://sutta.io/sitemap-index.xml",
+        "submitted": 2856,
+        "errors": "0",
+        "warnings": "0"
+      }
+    ],
+    "coverage": [
+      {
+        "url": "https://sutta.io/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-18T08:50:52Z"
+      },
+      {
+        "url": "https://sutta.io/topics/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-09T00:35:50Z"
+      },
+      {
+        "url": "https://sutta.io/topics/anapanasati/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-15T11:40:49Z"
+      },
+      {
+        "url": "https://sutta.io/topics/satipatthana-practice/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-09T15:12:48Z"
+      },
+      {
+        "url": "https://sutta.io/topics/anatta/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-09T18:06:17Z"
+      },
+      {
+        "url": "https://sutta.io/agama/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-03T18:02:50Z"
+      },
+      {
+        "url": "https://sutta.io/nikaya/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-12T08:39:35Z"
+      },
+      {
+        "url": "https://sutta.io/read/mn10/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-22T06:17:36Z"
+      },
+      {
+        "url": "https://sutta.io/lexicon/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-18T02:10:03Z"
+      },
+      {
+        "url": "https://sutta.io/en/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-24T03:28:17Z"
+      },
+      {
+        "url": "https://sutta.io/topics/marana/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-04T09:59:06Z"
+      },
+      {
+        "url": "https://sutta.io/topics/facing-fear/",
+        "coverageState": "Discovered - currently not indexed",
+        "lastCrawlTime": null
+      },
+      {
+        "url": "https://sutta.io/topics/facing-criticism/",
+        "coverageState": "Discovered - currently not indexed",
+        "lastCrawlTime": null
+      },
+      {
+        "url": "https://sutta.io/topics/letting-go/",
+        "coverageState": "Discovered - currently not indexed",
+        "lastCrawlTime": null
+      }
+    ]
+  }
+}
