@@ -89,7 +89,8 @@ const Tag = variant === 'home' ? 'h2' : 'p';
   .daily-source-label { letter-spacing: 0.1em; }
   .daily-source a { color: var(--ink-soft); text-decoration: underline; text-underline-offset: 3px; }
   .daily-source a:hover { color: var(--ink); }
-  .daily-readmore { color: var(--thread) !important; }
+  /* 以特異度勝過 .daily-source a（取代原 important 覆寫；v2 守門禁用） */
+  .daily-source a.daily-readmore { color: var(--thread); }
 
   /* /daily 主視覺：字級加大 */
   .daily-page {

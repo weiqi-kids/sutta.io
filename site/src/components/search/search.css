@@ -41,7 +41,7 @@
 }
 .search-go {
   background: var(--thread);
-  color: #fff;
+  color: var(--on-thread);
   border: none;
   border-radius: var(--radius);
   padding: 0 var(--space-4);

@@ -1,5 +1,12 @@
 /* ============================================================================
-   design-tokens.css — 統一設計 token（E-2）
+   variables.css — 統一設計 token（E-2；原 design/design-tokens.css，2026-07-20 遷入 src 單一來源化）
+   ── 設計規範 v2（scripts/check-design.mjs 於 build 前守門，違規即 fail）──
+   1. font-size 禁用 px（一律 --text-* 階梯）
+   2. 顏色（hex/rgb()/hsl()）只准出現在本檔（元件一律 var(--*)）
+   3. 禁 important 覆寫（驚嘆號形式一律不用）
+   4. 禁外部 CDN（Google Fonts / cdnjs / unpkg / jsdelivr；字型自託管）
+   5. 統一 css 檔：src/ 下的 .css 只准 src/styles/{variables,global}.css
+      （components/{study,search} 兩檔為 React island 遷移期凍結，禁再擴充）
    配色：OKLCH（感知均勻；暖=正典 / 冷=AI，色溫即信任層級）。
    字級：離散階梯，**最小 15px、內文 20px、巴利 23px**（夠大、好讀）。參考 yao.care 字級下限精神。
    淺色為主題，深色為 [data-theme="dark"]。元件一律引用本檔 token，勿散落硬值。
@@ -45,6 +52,11 @@
   --prov-commentarial: oklch(0.552 0.077 79.7);    /* 註釋傳統：暖褐 */
   --prov-scholarly:    oklch(0.478 0.039 243.4);   /* 學界：冷藍灰，附具名來源 */
   --prov-ai:           var(--margin);              /* AI：冷灰鉛筆 + AI 徽章 */
+
+  /* ── 反白 / 陰影（2026-07-20 v2 守門新增：元件禁硬編色值，抽此三 token） ── */
+  --on-thread: oklch(1 0 0);                        /* thread 底上的反白文字（原 #fff） */
+  --shadow-lift: 0 6px 24px oklch(0 0 0 / 0.18);    /* 浮起彈層（原 rgba(0,0,0,.18)） */
+  --shadow-drawer: -8px 0 24px oklch(0 0 0 / 0.15); /* 側抽屜（原 rgba(0,0,0,.15)） */
 
   /* ── 字體（DESIGN §3.3）。全開源、可自架 ── */
   --font-pali:  "Gentium Plus", serif;

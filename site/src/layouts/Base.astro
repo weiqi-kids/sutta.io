@@ -13,6 +13,7 @@ import '@fontsource/noto-sans-tc/400.css';
 import '@fontsource/noto-sans-tc/600.css';
 import '../styles/global.css';
 import { getStrings, localeOf, altLocaleHref } from '../i18n';
+import { THEME_COLOR } from '../lib/theme';
 const locale = localeOf(Astro.currentLocale);
 const lang = locale;
 const t = getStrings(locale);
@@ -150,7 +151,7 @@ const breadcrumbSchema =
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#E9E0CC" />
+    <meta name="theme-color" content={THEME_COLOR} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
     <link rel="alternate" hreflang="en" href={enHref} />
@@ -343,14 +344,15 @@ const breadcrumbSchema =
         height: 32px;
         line-height: 1;
       }
-      .lang-switch {
+      /* 以特異度勝過 .site-nav a（取代原 important 覆寫；v2 守門禁用） */
+      .site-nav a.lang-switch {
         border: 1px solid var(--rule);
         border-radius: var(--radius);
         padding: 4px 8px;
-        font-size: var(--text-2xs) !important;
-        color: var(--ink-soft) !important;
+        font-size: var(--text-2xs);
+        color: var(--ink-soft);
       }
-      .lang-switch:hover {
+      .site-nav a.lang-switch:hover {
         border-color: var(--thread);
       }
       .nav-toggle {

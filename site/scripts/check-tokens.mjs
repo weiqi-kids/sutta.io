@@ -7,12 +7,13 @@ import path from 'node:path';
 const SITE = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const ROOT = path.resolve(SITE, '..');
 
-// 1) 收集「已定義」的 token：design-tokens.css ＋ src 內任何 `--foo:` 區域定義（元件本地變數）。
+// 1) 收集「已定義」的 token：src/styles/variables.css（原 design/design-tokens.css，2026-07-20 遷入）
+//    ＋ src 內任何 `--foo:` 區域定義（元件本地變數）。
 const defined = new Set();
 const collectDefs = (txt) => {
   for (const m of txt.matchAll(/(--[a-z0-9-]+)\s*:/gi)) defined.add(m[1]);
 };
-collectDefs(fs.readFileSync(path.join(ROOT, 'design/design-tokens.css'), 'utf8'));
+collectDefs(fs.readFileSync(path.join(SITE, 'src/styles/variables.css'), 'utf8'));
 
 // 2) 掃 src 的所有 .astro/.css/.ts/.tsx，收集 var(--foo) 使用處，並沿路補收本地定義。
 const files = [];

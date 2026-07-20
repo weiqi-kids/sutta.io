@@ -95,7 +95,7 @@
 | ID | 項目 | 狀態 | 說明 |
 |----|------|------|------|
 | E-1 | 設計工藝規格 | ✅ | DESIGN_SPEC.md。 |
-| E-2 | 設計 token 表 | ✅ | `design/design-tokens.css`(OKLCH 暖正典/冷AI、放大字級階梯);被 global.css @import 為單一真相。 |
+| E-2 | 設計 token 表 | ✅ | `site/src/styles/variables.css`(OKLCH 暖正典/冷AI、放大字級階梯;原 design/design-tokens.css 2026-07-20 遷入);被 global.css @import 為單一真相。 |
 | E-3 | 搜尋/字典頁 的設計延伸 | ✅ | search.css/study.css 套 design-tokens;兩頁已 build。 |
 | E-4 | 元件視覺狀態清單 | ✅ | COMPONENT_STATES.md。 |
 

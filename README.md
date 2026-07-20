@@ -64,7 +64,7 @@ runtime 不接託管 LLM(V1)。對話研經、任意查詢的生成式重排需 
 - ✅ **L2 生成(generation/)**:`claude -p`(sonnet) build harness 生白話/概要/研經卡 + 防護欄 + 本機校稿頁(C-6)+ T4 用法摘要 + T5 策展重排(C-11)。MN10 已生 232 段(實測成本 $14.25)。
 - ✅ **靜態站(site/)**:Astro。研經頁(三欄)、搜尋頁(含**離線語意搜尋**:懶載 transformers.js + 本地嵌入 cosine)、字典頁、首頁、目錄、背景世界頁、關於頁。**繁中 + `/en/` 雙路由 i18n**(真翻譯)。自架字體。dist 已 build。
 - ✅ **CI / 腳本(scripts/)**:契約驗證、金鑰掃描、golden 快照、每日自動上一部經(`daily-sutta`)、GA4+GSC 週報。GitHub Pages 部署 workflow(純靜態,CI 不跑 LLM)。
-- ✅ **設計落地**:`design/design-tokens.css`(OKLCH 暖=正典/冷=AI、放大字級階梯)被 site 引用為單一真相;完整頁尾(品牌/聲明/授權/來源)。
+- ✅ **設計落地**:`site/src/styles/variables.css`(OKLCH 暖=正典/冷=AI、放大字級階梯;原 design/design-tokens.css 2026-07-20 遷入)被 site 引用為單一真相;完整頁尾(品牌/聲明/授權/來源)。
 - 🅥2 **V2 程式齊備待部署**:`worker/`(Cloudflare Worker)L3 對話研經 + 任意查詢生成式重排——程式完成,KV id / secret 待填才上線。
 
 待辦(下一階段重心已轉向內容與驗收):
@@ -116,7 +116,11 @@ tipitaka-lens/
 2. **docs/00-architecture/SPEC.md** — 三層分離,整個專案的脊椎。
 3. **contracts/study_page_types.ts** — 資料長什麼形狀(型別即契約;`fixtures/mn1.json` 必須滿足它)。
 4. **docs/00-architecture/DATA_PIPELINE_SPEC.md** — 資料怎麼來。
-5. 你要做哪塊就讀對應頁面規格(docs/01-pages/),設計照 **docs/03-design/** + **design/design-tokens.css**。
+5. 你要做哪塊就讀對應頁面規格(docs/01-pages/),設計照 **docs/03-design/** + **site/src/styles/variables.css**(token 單一真相)。
+   **設計規範 v2(2026-07-20 全站統一,`site/scripts/check-design.mjs` 於 build 前自動守門,違規即 fail)**:
+   (1) font-size 禁用 px,一律 `--text-*` 階梯;(2) 顏色(hex/rgb/hsl)只准出現在 `src/styles/variables.css`;
+   (3) 禁 important 覆寫;(4) 禁外部 CDN(Google Fonts/cdnjs/unpkg/jsdelivr,字型自託管);
+   (5) src/ 下的 .css 只准 `src/styles/{variables,global}.css`(components/{study,search} 兩檔為 React island 遷移期凍結,禁再擴充)。
 6. **docs/04-engineering/BUILD_SPEC.md** — 怎麼蓋:技術棧、repo 結構、build→部署。**開工前必讀。**
 7. **docs/04-engineering/TEST_SPEC.md** — 怎麼驗:契約/資料/L2/前端各層 + golden 基準。
 8. **BACKLOG.md** — 做什麼、做到哪;可照編號認領(如「做 B-3」)。

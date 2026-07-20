@@ -58,4 +58,4 @@
 
 ## 技術骨架(一句話)
 
-Astro 5 + React islands,pnpm monorepo:`site/`(前端)、`pipeline/`＋`generation/`(離線內容管線)、`contracts/`。`git push origin main` → GitHub Actions build → GitHub Pages(自訂網域 sutta.io)。全站純台灣繁中 +`/en/` 鏡像(鏡像非軸線)。設計單一來源 `design/design-tokens.css`(OKLCH,暖=正典/冷=AI 色溫即信任層級)。
+Astro 5 + React islands,pnpm monorepo:`site/`(前端)、`pipeline/`＋`generation/`(離線內容管線)、`contracts/`。`git push origin main` → GitHub Actions build → GitHub Pages(自訂網域 sutta.io)。全站純台灣繁中 +`/en/` 鏡像(鏡像非軸線)。設計單一來源 `site/src/styles/variables.css`(OKLCH,暖=正典/冷=AI 色溫即信任層級;原 `design/design-tokens.css` 2026-07-20 遷入)。**設計規範 v2 守門**(2026-07-20 全站統一):`site/scripts/check-design.mjs` 接在 `pnpm build` 前自動跑,五條=禁 px 字級(--text-* 階梯)/顏色只准 variables.css/禁 important 覆寫/禁外部 CDN/css 檔白名單 `src/styles/{variables,global}.css`(components/{study,search} 兩檔遷移期凍結,禁再擴充);CI fail 由 deploy.yml `notify-failure` 發 Slack(secrets 未設則靜默略過)。

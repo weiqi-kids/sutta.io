@@ -1,10 +1,10 @@
 /* ============================================================================
    global.css — 全站基底樣式
-   設計 token 來自 repo 根 design/design-tokens.css（單一真相，勿另造色值）。
+   設計 token 來自同目錄 variables.css（單一真相，勿另造色值；原 design/design-tokens.css 2026-07-20 遷入）。
    材質語言（暖墨=L1 / 冷灰=L2）見 DESIGN_SPEC §4。
    ============================================================================ */
 
-@import '../../../design/design-tokens.css';
+@import './variables.css';
 
 *,
 *::before,

@@ -253,7 +253,7 @@
   background: var(--surface);
   border: 1px solid var(--rule);
   border-radius: var(--radius);
-  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18);
+  box-shadow: var(--shadow-lift);
   padding: var(--space-3);
   z-index: 100;
   animation: dpd-in var(--motion-popover);
@@ -468,7 +468,7 @@
   width: min(360px, 85vw);
   background: var(--paper);
   border-inline-start: 1px solid var(--rule);
-  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.15);
+  box-shadow: var(--shadow-drawer);
   padding: var(--space-6) var(--space-4);
   overflow-y: auto;
   z-index: 40;
@@ -521,7 +521,7 @@
   width: min(400px, 92vw);
   background: var(--paper);
   border-inline-start: 1px solid var(--rule);
-  box-shadow: -8px 0 24px rgba(0, 0, 0, 0.15);
+  box-shadow: var(--shadow-drawer);
   display: flex;
   flex-direction: column;
   z-index: 60;
@@ -590,7 +590,7 @@
 }
 .chat-send {
   background: var(--thread);
-  color: #fff;
+  color: var(--on-thread);
   border: none;
   border-radius: var(--radius);
   padding: 0 var(--space-4);

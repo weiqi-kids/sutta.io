@@ -23,7 +23,7 @@
 | 層 | 推薦 | 理由 | 可換? |
 |---|---|---|---|
 | 靜態站 | **Astro + React islands** | 內容頁零 JS,研經頁/搜尋用 island 才載互動 | 🔧 可換 Vite+React、SvelteKit static… |
-| 樣式 | 直接用 `design/design-tokens.css` + 原生 CSS(或 Tailwind 接 token) | token 已備 | 🔧 |
+| 樣式 | 直接用 `site/src/styles/variables.css`(原 design/design-tokens.css) + 原生 CSS(或 Tailwind 接 token) | token 已備 | 🔧 |
 | 資料管線 | **Python**(dpd-db 是 SQLite;資料清理) | DPD/CBETA 處理、嵌入皆 Python 生態成熟 | 🔧 可換 Node |
 | 嵌入(build) | sentence-transformers,`intfloat/multilingual-e5-small`(**MIT**) | 與前端同模型 → 向量相容 | 🔧 但須與前端同模型 |
 | 嵌入(client) | transformers.js + 同一 e5-small | 離線、即時 | 🔒 須與 build 同模型同維度 |
