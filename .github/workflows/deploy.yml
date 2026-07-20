@@ -71,6 +71,24 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
+  # 上線後把 sitemap URL 送 IndexNow（Bing/Yandex/Seznam/Naver 即時收錄；Google 不吃 IndexNow）。
+  # 金鑰非機密（本就公開託管於 /<key>.txt），直接寫在 env。任何失敗 exit 0，不擋部署。
+  # Astro 專案在子目錄 site/，故 working-directory 設 site。
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Submit sitemap URLs to IndexNow
+        working-directory: site
+        env:
+          INDEXNOW_KEY: 97b3f5c3183fdf8efe7cb3cb0f3327b7
+          SITE_URL: https://sutta.io
+        run: node scripts/indexnow-submit.mjs
+
   # 任一階段 fail → 發 Slack 要求修改；修正 push 後 workflow 自動重跑＝重審（設計守門 v2）。
   # 需 repo secrets：SLACK_BOT_TOKEN、SLACK_CHANNEL_ID（缺則靜默略過，不 fail）。
   notify-failure:
