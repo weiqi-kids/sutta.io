@@ -121,6 +121,7 @@ tipitaka-lens/
    (1) font-size 禁用 px,一律 `--text-*` 階梯;(2) 顏色(hex/rgb/hsl)只准出現在 `src/styles/variables.css`;
    (3) 禁 important 覆寫;(4) 禁外部 CDN(Google Fonts/cdnjs/unpkg/jsdelivr,字型自託管);
    (5) src/ 下的 .css 只准 `src/styles/{variables,global}.css`(components/{study,search} 兩檔為 React island 遷移期凍結,禁再擴充)。
+   **內容守門(去 AI 味,2026-07-21 全站統一,`site/scripts/check-content.mjs` 於 build 前接在設計守門之後)**:掃 `src/**/*.md(x)`,偵測 AI 套話指紋(「不是X而是Y」/「值得注意的是」/空泛收束/模板化開頭…),強指紋單一命中即擋 build,軟訊號跨 ≥3 層才擋。預設只掃相對 `origin/main` 的變動檔(grandfather 存量),`--all` 全站盤點、`<file>` 指定檔;抓不到 git base 時 exit 0 不誤擋。手動:`pnpm -C site check:content:all`。**註**:本站經文/L2 呈現層目前以 JSON(`content/*.json`)＋TS(`src/content-data/*.ts`)承載,`src/` 下暫無 markdown,故守門現為未來新增 md/mdx 內容預先就位(現掃 0 檔、綠燈通過)。引擎為跨站統一引擎複本;因 Astro 在子目錄 `site/`,已就子目錄調整檔案探測路徑(`git diff --relative` + `:(glob)` glob),規則本體未改。
 6. **docs/04-engineering/BUILD_SPEC.md** — 怎麼蓋:技術棧、repo 結構、build→部署。**開工前必讀。**
 7. **docs/04-engineering/TEST_SPEC.md** — 怎麼驗:契約/資料/L2/前端各層 + golden 基準。
 8. **BACKLOG.md** — 做什麼、做到哪;可照編號認領(如「做 B-3」)。

@@ -7,8 +7,10 @@
     "predev": "node ./scripts/copy-data.mjs",
     "dev": "astro dev",
     "prebuild": "node ./scripts/copy-data.mjs && node ./scripts/check-tokens.mjs",
-    "build": "node scripts/check-design.mjs && astro build",
+    "build": "node scripts/check-design.mjs && node scripts/check-content.mjs && astro build",
     "check:design": "node scripts/check-design.mjs",
+    "check:content": "node scripts/check-content.mjs",
+    "check:content:all": "node scripts/check-content.mjs --all",
     "preview": "astro preview",
     "astro": "astro"
   },
