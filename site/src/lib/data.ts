@@ -427,11 +427,23 @@ export interface UsageData {
   senses: { gloss: string; segment_ids: string[] }[];
   grounded_on: string[];
 }
+let _usageCache: Record<string, UsageData> | null = null;
+function allUsage(): Record<string, UsageData> {
+  if (!_usageCache) {
+    _usageCache = readJsonIfExists<Record<string, UsageData>>(path.join(DATA_DIR, 'usage.json')) ?? {};
+  }
+  return _usageCache;
+}
 /** T4 用法摘要（L2）。僅高頻/要詞有；其餘 null。 */
 export function getUsage(key: string): UsageData | null {
-  const all = readJsonIfExists<Record<string, UsageData>>(path.join(DATA_DIR, 'usage.json'));
-  const u = all?.[key];
+  const u = allUsage()[key];
   return u && u.review_status === 'approved' ? u : null;
+}
+/** 有已校稿用法摘要的詞鍵（供 /llms-full.txt 匯出辭典正文）。 */
+export function getAllUsageKeys(): string[] {
+  return Object.entries(allUsage())
+    .filter(([, u]) => u?.review_status === 'approved')
+    .map(([k]) => k);
 }
 export interface CuratedData {
   questions: {
