@@ -74,6 +74,29 @@ const faqSchema = {
 };
 const termName = L.title.replace(/（[^）]*）/g, '').trim() || L.title;
 const sameAsUrls = getEntityLinkUrls(topic.slug);
+// citation（GEO）：本頁所引原典＝可驗證來源。以「直接被引文的經」為主（L1 深連），
+// 補上相關經作為延伸來源；全部指向站內 /read 正典頁（真實存在，防捏造）。
+const citationMap = new Map<string, { name: string; url: string }>();
+for (const sec of sectionsResolved) {
+  for (const q of sec.resolvedQuotes) {
+    if (!citationMap.has(q.sutta)) {
+      citationMap.set(q.sutta, {
+        name: `${q.sutta_title_zh}（${q.sutta_title_pali}，${q.sutta.toUpperCase()}）`,
+        url: `https://sutta.io/read/${q.sutta}/`,
+      });
+    }
+  }
+}
+for (const rs of relatedSuttas) {
+  if (!citationMap.has(rs.id)) {
+    citationMap.set(rs.id, { name: rs.label, url: `https://sutta.io/read/${rs.id}/` });
+  }
+}
+const citationSchema = [...citationMap.values()].map((c) => ({
+  '@type': 'CreativeWork',
+  name: c.name,
+  url: c.url,
+}));
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -87,6 +110,8 @@ const articleSchema = {
   isAccessibleForFree: true,
   // AEO：標出「一句直答」供答案引擎/語音助手擷取
   speakable: { '@type': 'SpeakableSpecification', cssSelector: ['h1', '.lede'] },
+  // GEO：把本頁引用的原典標為 citation，讓答案引擎能溯源到可驗證出處
+  ...(citationSchema.length ? { citation: citationSchema } : {}),
   // GEO：把本頁主題錨定到已驗證的 Wikidata/維基實體，讓答案引擎正確辨識並引用
   ...(sameAsUrls.length ? { about: { '@type': 'Thing', name: termName, sameAs: sameAsUrls } } : {}),
 };

@@ -77,6 +77,8 @@ const enHref =
       : '/en' + (Astro.url.pathname === '/' ? '' : Astro.url.pathname)
   );
 const ogImageUrl = ogImage ?? 'https://sutta.io/og.png';
+// 實體外連（sameAs）：本站唯一的真實外部身分＝開源程式碼庫（無社群帳號）。GEO：讓答案引擎把此站錨定到可驗證實體。
+const orgSameAs = ['https://github.com/weiqi-kids/sutta.io'];
 // Schema.org（GEO：讓 AI 理解這是一個「系統/工具」實體）
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -95,12 +97,14 @@ const jsonLd = {
     name: t.site.schemaName,
     alternateName: '原典研經庫',
     url: 'https://sutta.io/',
+    sameAs: orgSameAs,
   },
   publisher: {
     '@type': 'Organization',
     name: t.site.schemaName,
     alternateName: '原典研經庫',
     url: 'https://sutta.io/',
+    sameAs: orgSameAs,
   },
   about: [
     { '@type': 'Thing', name: 'Pāli Canon' },
