@@ -37,8 +37,16 @@ const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headwo
 // Entities whose gloss is the common-word meaning (e.g. ananda → "happiness; joy") keep name_zh since "name of" doesn't match.
 const properNounGloss = entry?.gloss && /^name of\b/i.test(entry.gloss) ? entry.gloss : null;
 const meaning = properNounGloss ?? entity?.name_zh ?? entry?.gloss ?? '';
+// Diacritic-stripped alias in the meta description: searchers typing on ASCII keyboards omit
+// macrons/dots (e.g. "atthasi" not "aṭṭhāsi"), so Google can't bold-match the headword against
+// their literal query. Adding the plain form to the description gives it text to match without
+// touching the title's Pali-script presentation.
+const asciiHeadword = headword ? headword.normalize('NFD').replace(/[\u0300-\u036f]/g, '') : '';
+const asciiAlias = asciiHeadword && asciiHeadword.toLowerCase() !== headword.toLowerCase() ? ` (${asciiHeadword})` : '';
 const pageTitle = meaning ? `${headword} (${meaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
-const pageDesc = meaning ? `${headword}, meaning "${meaning}". ${t.lexicon.desc}` : `${headword}｜${t.lexicon.desc}`;
+const pageDesc = meaning
+  ? `${headword}${asciiAlias}, meaning "${meaning}". ${t.lexicon.desc}`
+  : `${headword}${asciiAlias}｜${t.lexicon.desc}`;
 const definedTermSchema = {
   '@context': 'https://schema.org',
   '@type': 'DefinedTerm',
