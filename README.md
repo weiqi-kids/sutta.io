@@ -136,3 +136,7 @@ tipitaka-lens/
 - 資料來源含 CC BY-NC-SA(DPD、CBETA),故本專案**非商業**,衍生資料同樣開放(share-alike)。DPPN 為公共領域。
 - 獨立研經工具,**非任何官方機構**。
 - 內容以權威來源為憑;AI 輔助內容明確標示。
+
+---
+
+Maintained by Light. I build and maintain websites with AI as a service: [arthurs.tw](https://arthurs.tw/?utm_source=github&utm_medium=readme&utm_campaign=oss)
