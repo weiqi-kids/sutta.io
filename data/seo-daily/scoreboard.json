@@ -542,6 +542,11 @@
         "date": "2026-07-30",
         "submitted": 2858,
         "note": "與昨日持平，穩定。**尼柯耶賭注首個正向訊號**：今日 JSON 新增 targetTrend 週對週比對（本週 07-21~07-27 含部署後區間 vs 上週 07-14~07-20），「尼柯耶」position 11→4 明顯進步，clicks 0→1；但本週 impressions 僅 2 次，樣本仍薄，暫不視為定案勝負，續觀察下週是否量能放大。「小乘佛教經典」持平 position 1（3 次曝光）。gsc.topQueries 範圍 07-20~07-27 兩詞數字與前幾日完全一致（尼柯耶 impr3/pos6.33/clicks1），沿用『同一批一次性事件持續留在滾動窗內』判斷，非新增曝光。facing-fear(zh) 從 07-29 的 Discovered-not-indexed 退回「URL is unknown to Google」，letting-go(zh)／facing-criticism(zh) 持平 Discovered-not-indexed，沿用既有 GSC 索引佇列抖動判斷基準，已同步校正 scoreboard.pages。GA4 taiwanOrganicSessions 本週降為 1（7 天滾動窗，07-23 那兩筆事件開始隨窗口滾動而淡出，屬預期衰減非新警訊）；AI Assistant 仍 2 sessions（07-23 印尼＋07-28 印度舊事件持續在窗內）。16 目標詞今日程式化比對（25 筆）仍無字面相符。sitemap submitted 持平 2858。今日無檔案改動。"
+      },
+      {
+        "date": "2026-07-31",
+        "submitted": 2858,
+        "note": "與昨日持平，穩定。今日尼柯耶內鏈賭注（07-25）出現降溫訊號：targetTrend 本週完整週窗（07-22~07-28）position 為 null（零曝光），上週 6.33；gsc.topQueries 滾動窗仍顯示的 impr2/pos4/clicks1 經核對落在 07-21 當天（屬上週窗非本週窗），代表最近一週實際零曝光，先前的進步是舊一次性事件持續留在滾動窗內所致。單週零曝光在極薄樣本下不足以判定賭注失敗，續觀察下週窗是否恢復。同日 strikingDistance 清單首次結構性瘦身：medi dvi nude/kumma/sukkha 三筆一次性歷史事件滾出窗外，atthasi(en) 曝光 7→4（部分舊事件滾出，仍冷卻中不動），mn118 連續第5天持平不動。GA4 taiwanOrganicSessions 仍0，AI Assistant 由2降為1（07-23印尼事件滾出窗，非新訊號）。今日無檔案改動，no-op。"
       }
     ]
   }
