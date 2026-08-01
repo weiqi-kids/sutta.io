@@ -392,11 +392,11 @@
     "https://sutta.io/en/topics/ananda/": "Submitted and indexed",
     "https://sutta.io/topics/reading-guide/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/reading-guide/": "Submitted and indexed",
-    "https://sutta.io/topics/facing-fear/": "URL is unknown to Google",
+    "https://sutta.io/topics/facing-fear/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/facing-fear/": "Discovered - currently not indexed",
     "https://sutta.io/topics/calming-angry-thoughts/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/calming-angry-thoughts/": "Discovered - currently not indexed",
-    "https://sutta.io/topics/facing-criticism/": "Discovered - currently not indexed",
+    "https://sutta.io/topics/facing-criticism/": "URL is unknown to Google",
     "https://sutta.io/en/topics/facing-criticism/": "Discovered - currently not indexed",
     "https://sutta.io/topics/five-hindrances/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/five-hindrances/": "Discovered - currently not indexed",
@@ -547,6 +547,11 @@
         "date": "2026-07-31",
         "submitted": 2858,
         "note": "與昨日持平，穩定。今日尼柯耶內鏈賭注（07-25）出現降溫訊號：targetTrend 本週完整週窗（07-22~07-28）position 為 null（零曝光），上週 6.33；gsc.topQueries 滾動窗仍顯示的 impr2/pos4/clicks1 經核對落在 07-21 當天（屬上週窗非本週窗），代表最近一週實際零曝光，先前的進步是舊一次性事件持續留在滾動窗內所致。單週零曝光在極薄樣本下不足以判定賭注失敗，續觀察下週窗是否恢復。同日 strikingDistance 清單首次結構性瘦身：medi dvi nude/kumma/sukkha 三筆一次性歷史事件滾出窗外，atthasi(en) 曝光 7→4（部分舊事件滾出，仍冷卻中不動），mn118 連續第5天持平不動。GA4 taiwanOrganicSessions 仍0，AI Assistant 由2降為1（07-23印尼事件滾出窗，非新訊號）。今日無檔案改動，no-op。"
+      },
+      {
+        "date": "2026-08-01",
+        "submitted": 2858,
+        "note": "與昨日持平，穩定。尼柯耶內鏈賭注續降溫：gsc.topQueries（範圍07-22~07-29）「尼柯耶」今日完全從清單消失（先前連續多日不變的 impr3/pos6.33/clicks1 已隨滾動窗完全滾出，印證 07-31 判讀為舊事件殘留非新曝光）；targetTrend 本週窗（07-23~07-29）position 仍 null，但與昨日窗高度重疊非真正不重疊的下一週，續觀察約 08-04 起的真正下一週窗再判定。「小乘佛教經典」持平 position1，曝光數 3-4→2（自然衰減，跌出 highImpZeroClick 門檻）。4 垂直對比第19天：facing-fear(zh) 進步（unknown→Discovered-not-indexed），facing-criticism(zh) 退步（Discovered-not-indexed→unknown），一進一退屬既有抖動基準，已同步校正 scoreboard.pages。strikingDistance 僅 atthasi(en) 在榜，仍在 07-27 改動的14天冷卻期內（至約08-10）。GA4 taiwanOrganicSessions 降回0（07-23事件完全滾出7天窗，預期衰減），AI Assistant 2→1（僅剩07-28印度事件在窗內）。今日無檔案改動，no-op。"
       }
     ]
   }
