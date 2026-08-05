@@ -392,15 +392,15 @@
     "https://sutta.io/en/topics/ananda/": "Submitted and indexed",
     "https://sutta.io/topics/reading-guide/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/reading-guide/": "Submitted and indexed",
-    "https://sutta.io/topics/facing-fear/": "Discovered - currently not indexed",
+    "https://sutta.io/topics/facing-fear/": "URL is unknown to Google",
     "https://sutta.io/en/topics/facing-fear/": "Discovered - currently not indexed",
     "https://sutta.io/topics/calming-angry-thoughts/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/calming-angry-thoughts/": "Discovered - currently not indexed",
-    "https://sutta.io/topics/facing-criticism/": "URL is unknown to Google",
+    "https://sutta.io/topics/facing-criticism/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/facing-criticism/": "Discovered - currently not indexed",
     "https://sutta.io/topics/five-hindrances/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/five-hindrances/": "Discovered - currently not indexed",
-    "https://sutta.io/topics/letting-go/": "Discovered - currently not indexed",
+    "https://sutta.io/topics/letting-go/": "URL is unknown to Google",
     "https://sutta.io/en/topics/letting-go/": "Discovered - currently not indexed",
     "https://sutta.io/topics/sense-pleasures-danger/": "Discovered - currently not indexed",
     "https://sutta.io/en/topics/sense-pleasures-danger/": "Discovered - currently not indexed"
@@ -552,6 +552,11 @@
         "date": "2026-08-01",
         "submitted": 2858,
         "note": "與昨日持平，穩定。尼柯耶內鏈賭注續降溫：gsc.topQueries（範圍07-22~07-29）「尼柯耶」今日完全從清單消失（先前連續多日不變的 impr3/pos6.33/clicks1 已隨滾動窗完全滾出，印證 07-31 判讀為舊事件殘留非新曝光）；targetTrend 本週窗（07-23~07-29）position 仍 null，但與昨日窗高度重疊非真正不重疊的下一週，續觀察約 08-04 起的真正下一週窗再判定。「小乘佛教經典」持平 position1，曝光數 3-4→2（自然衰減，跌出 highImpZeroClick 門檻）。4 垂直對比第19天：facing-fear(zh) 進步（unknown→Discovered-not-indexed），facing-criticism(zh) 退步（Discovered-not-indexed→unknown），一進一退屬既有抖動基準，已同步校正 scoreboard.pages。strikingDistance 僅 atthasi(en) 在榜，仍在 07-27 改動的14天冷卻期內（至約08-10）。GA4 taiwanOrganicSessions 降回0（07-23事件完全滾出7天窗，預期衰減），AI Assistant 2→1（僅剩07-28印度事件在窗內）。今日無檔案改動，no-op。"
+      },
+      {
+        "date": "2026-08-05",
+        "submitted": 2858,
+        "note": "與昨日持平，穩定。**尼柯耶內鏈賭注出現本輪最扎實的正向訊號**：今日 JSON gsc.topQueries「尼柯耶」impr1/pos9/clicks1（範圍07-26~08-02），與先前多日不變的 impr3/pos6.33 舊事件明顯不同數字，判斷舊事件已滾出窗；主動用 lib/google.mjs 直接查 GSC 逐日明細（範圍07-22~08-04）確認：這不是單一殘留事件，而是兩個獨立新事件——08-02（1impr/1click/pos9）與08-03（1impr/0click/pos2，官方 JSON range 08-04 尚未涵蓋到）。連續兩個不同日、皆佳排名（pos2/pos9）的獨立事件，是 07-19 建立領先指標監看以來對此詞最強的訊號，但仍在 07-25 內鏈動作的14天冷卻期內（至08-08），且尚無第三方確認趨勢是否持續，今日不加碼、僅記錄。「tathagata 中文」首次進入strikingDistance（/lexicon/tathagata/，pos7，0 clicks），僅第1天，未滿5天門檻不可動。highImpZeroClick今日空清單。16目標詞程式化比對gsc.topQueries（6筆）仍無字面完全相符。4垂直對比觀察窗內（至約08-11，今日第23天未到判讀期）：facing-fear(zh) 從 Discovered-not-indexed 退回「URL is unknown to Google」，facing-criticism(zh) 從「URL is unknown to Google」轉Discovered-not-indexed，letting-go(zh) 從Discovered-not-indexed退回「URL is unknown to Google」，marana(zh)持平已收錄——一進兩退屬既有抖動基準非新訊號，已同步校正scoreboard.pages。GA4：查28天窗AI Assistant明細（date×source×country×landingPage）確認8/1~8/4新增事件（Lithuania/en-ananda、Israel×2/en-anapanasati、en-topics、India/en-anapanasati），全數非台灣籍、全數落在/en/鏡像頁，未達J-1門檻，沿用既有判斷不動。taiwanOrganicSessions本週=4，非目標詞可證新訊號。sitemap submitted持平2858。今日無檔案改動（B2範圍內無可行動訊號，尼柯耶訊號仍在14天冷卻期內、tathagata候選未滿5天門檻），no-op。"
       }
     ]
   }
