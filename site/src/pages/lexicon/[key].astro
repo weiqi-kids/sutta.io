@@ -41,8 +41,15 @@ const crumbs = [{ label: t.nav.lexicon, href: url('/lexicon') }, { label: headwo
 // 每詞條專屬 title/description。中文站的「詞義」一律用中文來源（專名中文名／L2 中文詞義），
 // 2026-07-14 起不再以英文 DPD gloss 冒充中文詞義（英文 gloss 只留在下方「文法」區、標明 DPD 來源）。
 const meaning = entity?.name_zh || getZhGloss(key!) || '';
+// 無變音符號的別名放進 description:用 ASCII 鍵盤查詞的人會打「tathagata」而非「tathāgata」，
+// Google 抓不到變音符號的字面比對；補上無變音版本讓摘要有機會命中,不動title的巴利原形呈現。
+// （EN版 site/src/pages/en/lexicon/[key].astro 已於07-27套用同一手法,此為補齊中文版遺漏。）
+const asciiHeadword = headword ? headword.normalize('NFD').replace(/\p{Mn}/gu, '') : '';
+const asciiAlias = asciiHeadword && asciiHeadword.toLowerCase() !== headword.toLowerCase() ? `（${asciiHeadword}）` : '';
 const pageTitle = meaning ? `${headword}（${meaning}）｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
-const pageDesc = meaning ? `${headword}，意為「${meaning}」。${t.lexicon.desc}` : `${headword}｜${t.lexicon.desc}`;
+const pageDesc = meaning
+  ? `${headword}${asciiAlias}，意為「${meaning}」。${t.lexicon.desc}`
+  : `${headword}${asciiAlias}｜${t.lexicon.desc}`;
 const definedTermSchema = {
   '@context': 'https://schema.org',
   '@type': 'DefinedTerm',
