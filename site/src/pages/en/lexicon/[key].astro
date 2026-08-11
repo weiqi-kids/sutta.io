@@ -43,7 +43,12 @@ const meaning = properNounGloss ?? entity?.name_zh ?? entry?.gloss ?? '';
 // touching the title's Pali-script presentation.
 const asciiHeadword = headword ? headword.normalize('NFD').replace(/[\u0300-\u036f]/g, '') : '';
 const asciiAlias = asciiHeadword && asciiHeadword.toLowerCase() !== headword.toLowerCase() ? ` (${asciiHeadword})` : '';
-const pageTitle = meaning ? `${headword} (${meaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
+// Many DPD glosses stack multiple near-synonym clauses separated by ";" (e.g. "who does not
+// rival; who is not competitive; who is not contentious"), which blows past Google's title
+// pixel limit and gets truncated mid-clause. Title uses only the first clause; description
+// keeps the full gloss since it has more room and helps match varied query phrasings.
+const titleMeaning = meaning.split(';')[0].trim();
+const pageTitle = meaning ? `${headword} (${titleMeaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
 const pageDesc = meaning
   ? `${headword}${asciiAlias}, meaning "${meaning}". ${t.lexicon.desc}`
   : `${headword}${asciiAlias}｜${t.lexicon.desc}`;
