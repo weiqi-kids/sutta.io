@@ -1,11 +1,11 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import { readFileSync, existsSync } from 'node:fs';
-import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
+import { createLastmodResolver } from './src/lib/lastmod-sources.mjs';
 
 // sitemap 與頁面 noindex 對齊：薄詞條頁（lexicon/[key].astro 標 noindex 者）不該進 sitemap，
 // 否則對 Google 送出「sitemap 說收錄／meta 說 noindex」的矛盾訊號。這裡複製 lexicon/[key].astro 的
@@ -28,54 +28,10 @@ const noindexLexKeys = new Set(
   }),
 );
 // ── sitemap 的 <lastmod> ─────────────────────────────────────────────────────
-//
-// 為什麼要有：2026-08-22 全平台機制稽核抓到本站 sitemap 2,858 個網址**一個 lastmod 都沒有**。
-// 沒有這個欄位，Google 每天重新下載 sitemap 也不知道哪一頁變了 —— 改寫既有頁面等於沒說，
-// 而 seo-ops 每天的「sitemap 過期重送」判準（線上網址數 ≠ GSC submitted，或線上最新 lastmod
-// 晚於 lastDownloaded）也只剩前者，改內容永遠不會觸發重送。
-//
-// 🔴 三條原則，缺一不可：
-//   ① 日期一律取 **git commit 時間**，不是 build 時間。本站每次部署都重建全部頁面，
-//      掛 build 時間等於每天對 Google 宣稱「全站都改了」，幾次之後這個欄位就不會被採信。
-//   ② **對不到真實原始檔的頁，寧可不給 lastmod**，也不要退回任何替代值。
-//      特別是不要拿「動態路由檔」的日期去蓋它產生的每一頁——那會讓 2,800 頁共用同一個日期，
-//      正是 forme-cro.org 與 ods.yao.care 2026-08-22 修掉的那個假訊號。
-//   ③ /en/ 是中文內容的英文殼，對到同一份原始檔。
-//
-// ⚠️ CI 的 checkout 必須是 fetch-depth: 0，淺 clone 只有一個 commit，日期會全站一致。
+// 逐頁的真實來源解析抽到 src/lib/lastmod-sources.mjs（含逐詞條從 git 歷史算日期）。
+// 這裡只負責把 repo 根目錄傳進去、把結果掛上 sitemap item。
 const REPO_ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const gitDate = (rel) => {
-  try {
-    const out = execFileSync('git', ['log', '-1', '--format=%cs', '--', rel], {
-      cwd: REPO_ROOT, encoding: 'utf-8', stdio: ['ignore', 'pipe', 'ignore'],
-    }).trim();
-    return out || null;
-  } catch { return null; }
-};
-
-const lastmodFor = (url) => {
-  let p;
-  try { p = decodeURIComponent(new URL(url).pathname); } catch { return null; }
-  p = p.replace(/^\/en(?=\/|$)/, '').replace(/^\/|\/$/g, '');   // 去 /en/ 殼與前後斜線
-
-  // 1) 靜態頁：site/src/pages/<p>.astro 或 <p>/index.astro
-  for (const cand of p === ''
-    ? ['site/src/pages/index.astro']
-    : [`site/src/pages/${p}.astro`, `site/src/pages/${p}/index.astro`]) {
-    if (existsSync(join(REPO_ROOT, cand))) return gitDate(cand);
-  }
-
-  // 2) 逐經頁：/agama/<id>/、/nikaya/<id>/ → 該經自己的資料檔
-  const m = p.match(/^(?:agama|nikaya)\/([^/]+)$/);
-  if (m) {
-    for (const cand of [`content/context/${m[1]}.json`, `data/curated/${m[1]}.json`]) {
-      if (existsSync(join(REPO_ROOT, cand))) return gitDate(cand);
-    }
-  }
-
-  // 3) 對不到 → 不給 lastmod（見原則 ②）
-  return null;
-};
+const lastmodFor = createLastmodResolver(REPO_ROOT);
 
 // filter 收到完整 URL；比對 /lexicon/<key>（含 /en/）的解碼 key 是否在排除集
 const keepInSitemap = (page) => {
@@ -113,7 +69,7 @@ export default defineConfig({
     sitemap({
       filter: keepInSitemap,
       serialize: (item) => {
-        const d = lastmodFor(item.url);
+        const d = lastmodFor(new URL(item.url).pathname);
         return d ? { ...item, lastmod: d } : item;
       },
       i18n: {
