@@ -25,6 +25,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 🔴 sitemap 的 lastmod 逐頁取 git commit 日期（見 site/astro.config.mjs 的 lastmodFor）。
+          #    淺 clone 只有一個 commit，每個檔案的 git log 都會回同一天 —— 那等於每次部署
+          #    都對 Google 宣稱全站更新，是假訊號，比沒有 lastmod 更糟。
+          fetch-depth: 0
 
       - uses: pnpm/action-setup@v4
         with:
