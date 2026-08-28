@@ -5,7 +5,7 @@
 #   Pages 部署）→ 發 🤖/🚦 Slack。失敗發 🔴 保底。
 # **絕對紅線：絕不產生或修改 L2 經文內容（白話/概要/研經卡）—— 那是人工手動的工作。**
 # crontab（台灣 02:40 = UTC 18:40，排在資料層之後）：
-#   40 18 * * * /root/sutta.io/scripts/daily-brain-layer.sh >> /root/sutta.io/pipeline/.cache/brain-layer.log 2>&1
+#   40 18 * * * /mnt/customer/sutta.io/scripts/daily-brain-layer.sh >> /mnt/customer/sutta.io/pipeline/.cache/brain-layer.log 2>&1
 # 乾跑：DRY_RUN=1 scripts/daily-brain-layer.sh
 set -uo pipefail
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
@@ -108,7 +108,7 @@ if [ "$DRY_RUN" != "1" ] && [ "$CLAUDE_OK" = "0" ] && [ -x "$SLACK_NOTIFY" ]; th
   printf '%s' "🚦 今天要不要你出手：🔴 需要你看一下
 :warning: *sutta.io SEO 優化 $DATE — 執行中斷*
 本機大腦層 headless 執行失敗或逾時，今日可能未完成優化/通報。
-請查 log：/root/sutta.io/pipeline/.cache/brain-layer.log" | "$SLACK_NOTIFY" "$CHANNEL" >/dev/null 2>&1 \
+請查 log：/mnt/customer/sutta.io/pipeline/.cache/brain-layer.log" | "$SLACK_NOTIFY" "$CHANNEL" >/dev/null 2>&1 \
     && echo "[brain] 已發失敗保底 Slack" || echo "[brain] 失敗保底 Slack 也送不出（查 token）"
 fi
 

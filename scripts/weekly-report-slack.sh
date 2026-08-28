@@ -2,7 +2,7 @@
 # sutta.io 週報 → Slack（每週一）。比照 folk.tw 週報，但發 Slack（非 GitHub Issue）。
 # 跑既有 scripts/weekly-report.mjs（它會寫 pipeline/.cache/weekly-report.md）→ 把內容發到頻道。
 # 全程非 LLM（GA4/GSC API + 讀本地待核）。weekly-report.mjs 本身不改。
-# crontab（台灣週一 11:00 = UTC 03:00）：0 3 * * 1 /root/sutta.io/scripts/weekly-report-slack.sh >> /root/sutta.io/pipeline/.cache/weekly.log 2>&1
+# crontab（台灣週一 11:00 = UTC 03:00）：0 3 * * 1 /mnt/customer/sutta.io/scripts/weekly-report-slack.sh >> /mnt/customer/sutta.io/pipeline/.cache/weekly.log 2>&1
 set -uo pipefail
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
 export TZ="Asia/Taipei"

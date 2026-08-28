@@ -57,7 +57,7 @@ L3「對話研經 / 生成式重排」serverless 代理（Cloudflare Worker，�
 所有指令於 repo 根目錄的 `worker/` 子目錄執行：
 
 ```bash
-cd /root/sutta.io/worker
+cd /mnt/customer/sutta.io/worker
 export CLOUDFLARE_ACCOUNT_ID=9d9e58b5e0d1657b8f74bd2cbfc91ee3   # 多帳號需指定
 
 # （若尚未登入才需要）
@@ -95,7 +95,7 @@ KV 已建、wrangler.jsonc 已填好 id，故**不需再跑 `kv namespace create
 本機驗證（可選）：
 
 ```bash
-PUBLIC_L3_API="https://sutta-l3-proxy.<subdomain>.workers.dev" pnpm -C /root/sutta.io/site build
+PUBLIC_L3_API="https://sutta-l3-proxy.<subdomain>.workers.dev" pnpm -C /mnt/customer/sutta.io/site build
 ```
 
 ---
@@ -191,7 +191,7 @@ curl -N -X POST "<WORKER_URL>/chat" \
 
 ## 7. 維運速查
 
-- 看即時 log：`cd /root/sutta.io/worker && CLOUDFLARE_ACCOUNT_ID=9d9e58b5e0d1657b8f74bd2cbfc91ee3 npx wrangler tail`
+- 看即時 log：`cd /mnt/customer/sutta.io/worker && CLOUDFLARE_ACCOUNT_ID=9d9e58b5e0d1657b8f74bd2cbfc91ee3 npx wrangler tail`
 - 改速率/來源/模型：編 `worker/wrangler.jsonc` 的 `vars` 後 `npx wrangler deploy`。
 - 換金鑰：重跑 `npx wrangler secret put ANTHROPIC_API_KEY`。
 - 關閉前端 L3：移除 GitHub repo variable `PUBLIC_L3_API` 並重建 site（站台即回純靜態，不需動 Worker）。

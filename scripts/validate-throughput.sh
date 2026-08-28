@@ -4,7 +4,7 @@
 set -uo pipefail
 export HOME=/root
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
-cd /root/sutta.io || exit 1
+cd /mnt/customer/sutta.io || exit 1
 LOG=pipeline/.cache/throughput.log; exec >>"$LOG" 2>&1
 LOCK=/tmp/sutta-daily.lock
 [ -e "$LOCK" ] && kill -0 "$(cat "$LOCK" 2>/dev/null)" 2>/dev/null && { echo "lock 佔用，中止"; exit 0; }

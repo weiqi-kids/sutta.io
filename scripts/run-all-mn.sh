@@ -6,7 +6,7 @@
 set -uo pipefail
 export HOME=/root
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
-REPO=/root/sutta.io; cd "$REPO" || exit 1
+REPO=/mnt/customer/sutta.io; cd "$REPO" || exit 1
 LOG="$REPO/pipeline/.cache/run-all.log"; exec >>"$LOG" 2>&1
 LOCK=/tmp/sutta-daily.lock
 

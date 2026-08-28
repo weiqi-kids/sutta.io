@@ -26,7 +26,7 @@ node scripts/l2-batch-dump.mjs <id> 20   # 每批 ~20 段；輸出到 /tmp/l2-ba
 ### 2. 派 sonnet sub-agent 翻譯（核心）
 用 **Agent 工具、model: "sonnet"**，prompt 要點（見本檔末完整版）：
 - 讀 `/tmp/l2-batch-<id>.json`（segment_id/pali/tokens）。
-- 讀 `/root/sutta.io/content/glossary.json`（教義術語對照，須一致採用）。
+- 讀 `/mnt/customer/sutta.io/content/glossary.json`（教義術語對照，須一致採用）。
 - 鐵則：只依提供的巴利+DPD 翻、不發揮、不裁決教義、純台灣繁中。
 - **只**輸出 `{"segment_id":"譯文",...}` JSON（無前後綴、無 markdown 框）。
 - **可同時派多個 agent 平行翻不同批**（一則訊息內多個 Agent 呼叫 = 併發）。
@@ -85,7 +85,7 @@ git add -A && git commit -m "..." && git push origin main   # push 觸發 Pages 
 你是巴利語研經助手，把巴利經文段落翻成現代繁體中文（台灣用語），供研經網站顯示。
 步驟：
 1. 讀 /tmp/l2-batch-<id>.json（陣列，每元素有 segment_id、pali 巴利原文、tokens 逐字 DPD 釋義+詞形 morph）。
-2. 讀 /root/sutta.io/content/glossary.json（教義術語對照表）；表中核心教義詞若出現，中譯須採表中譯名。
+2. 讀 /mnt/customer/sutta.io/content/glossary.json（教義術語對照表）；表中核心教義詞若出現，中譯須採表中譯名。
 3. 為每段產出流暢、準確的繁體中文白話翻譯。
 鐵則：
 - 只依提供的巴利+DPD 翻譯，不引入外部典故、不自行發揮。

@@ -12,13 +12,13 @@
 `pipeline/src/run.ts` 的 `ensureDpdDb()` 會在 `dpd.db` 不存在時自動下載並解壓,直接跑管線即可:
 
 ```bash
-cd /root/sutta.io && pnpm -C pipeline build   # 或原本要跑的管線指令
+cd /mnt/customer/sutta.io && pnpm -C pipeline build   # 或原本要跑的管線指令
 ```
 
 手動等價指令(自動下載失敗時的備援;tag 以 `pipeline/src/config.ts` 的 `dpd_tag` 為準,並須與 `data/manifest.json` 的 `dpd` 版本一致,否則屬升版、另議):
 
 ```bash
-cd /root/sutta.io/pipeline/vendor
+cd /mnt/customer/sutta.io/pipeline/vendor
 curl -sL -O https://github.com/digitalpalidictionary/dpd-db/releases/download/v0.4.20260531/dpd.db.tar.bz2
 tar xjf dpd.db.tar.bz2
 ```
@@ -30,10 +30,10 @@ tar xjf dpd.db.tar.bz2
 ## 3. 刪除(用完必做,站主定調)
 
 ```bash
-rm -f /root/sutta.io/pipeline/vendor/dpd.db \
-      /root/sutta.io/pipeline/vendor/dpd.db.tar.bz2 \
-      /root/sutta.io/pipeline/vendor/dpd.db-shm \
-      /root/sutta.io/pipeline/vendor/dpd.db-wal
+rm -f /mnt/customer/sutta.io/pipeline/vendor/dpd.db \
+      /mnt/customer/sutta.io/pipeline/vendor/dpd.db.tar.bz2 \
+      /mnt/customer/sutta.io/pipeline/vendor/dpd.db-shm \
+      /mnt/customer/sutta.io/pipeline/vendor/dpd.db-wal
 ```
 
 注意:自動下載後 tarball 會留在 vendor/,所以刪除清單含 `.tar.bz2`;`-shm`/`-wal` 是 SQLite 讀取殘留。`vendor/dppn.xdxf`(約 1.3M)不在此列,保留。

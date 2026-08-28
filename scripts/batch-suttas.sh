@@ -6,7 +6,7 @@ set -uo pipefail
 
 export HOME=/root
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
-REPO=/root/sutta.io
+REPO=/mnt/customer/sutta.io
 cd "$REPO" || exit 1
 
 NEW="${NEW:?需設 NEW=逗號分隔經單}"

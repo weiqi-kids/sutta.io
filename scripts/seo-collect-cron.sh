@@ -3,7 +3,7 @@
 # 純資料流、無 AI：拉 GA4+GSC → data/seo-daily/<台灣日期>.json → commit [skip ci] → push
 #   → Google Indexing API 通知關鍵頁。下游（資料心跳、大腦層）讀此 JSON。**不發 Slack。**
 # crontab（台灣 01:30 = UTC 17:30，排在資料心跳/大腦層之前）：
-#   30 17 * * * /root/sutta.io/scripts/seo-collect-cron.sh >> /root/sutta.io/pipeline/.cache/seo-collect.log 2>&1
+#   30 17 * * * /mnt/customer/sutta.io/scripts/seo-collect-cron.sh >> /mnt/customer/sutta.io/pipeline/.cache/seo-collect.log 2>&1
 set -uo pipefail
 export PATH="/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
 export TZ="Asia/Taipei"
