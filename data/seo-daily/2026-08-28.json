@@ -1,0 +1,1151 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T12:00:15.092Z",
+  "ga4": {
+    "range": "7daysAgo..yesterday",
+    "sessions": 27,
+    "users": 26,
+    "views": 36,
+    "avgDurationSec": 40,
+    "engagedSessions": 9,
+    "taiwanOrganicSessions": 2,
+    "channels": [
+      {
+        "channel": "Direct",
+        "sessions": 15,
+        "engaged": 1
+      },
+      {
+        "channel": "Organic Search",
+        "sessions": 6,
+        "engaged": 5
+      },
+      {
+        "channel": "AI Assistant",
+        "sessions": 5,
+        "engaged": 3
+      },
+      {
+        "channel": "Unassigned",
+        "sessions": 1,
+        "engaged": 0
+      }
+    ],
+    "topPages": [
+      {
+        "path": "/",
+        "views": 10
+      },
+      {
+        "path": "/en/topics/dependent-origination/",
+        "views": 3
+      },
+      {
+        "path": "/browse/",
+        "views": 2
+      },
+      {
+        "path": "/en/topics/anapanasati/",
+        "views": 2
+      },
+      {
+        "path": "/nikaya/",
+        "views": 2
+      },
+      {
+        "path": "/topics/sati/",
+        "views": 2
+      },
+      {
+        "path": "/en/lexicon/pajanati/",
+        "views": 1
+      },
+      {
+        "path": "/en/lexicon/pajapati/",
+        "views": 1
+      },
+      {
+        "path": "/en/lexicon/sammaajiva/",
+        "views": 1
+      },
+      {
+        "path": "/en/nikaya/",
+        "views": 1
+      },
+      {
+        "path": "/en/read/mn118/",
+        "views": 1
+      },
+      {
+        "path": "/en/read/mn9/",
+        "views": 1
+      },
+      {
+        "path": "/en/topics/ananda/",
+        "views": 1
+      },
+      {
+        "path": "/en/topics/anatta/",
+        "views": 1
+      },
+      {
+        "path": "/en/topics/sariputta/",
+        "views": 1
+      }
+    ],
+    "aiReferrals": {
+      "range": "28daysAgo..yesterday",
+      "total": 19,
+      "engaged": 9,
+      "sources": [
+        {
+          "source": "chatgpt.com",
+          "sessions": 18,
+          "engaged": 8
+        },
+        {
+          "source": "perplexity.ai",
+          "sessions": 1,
+          "engaged": 1
+        }
+      ]
+    },
+    "daily": [
+      {
+        "date": "2026-07-03",
+        "sessions": 2,
+        "avgDurationSec": 226,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-04",
+        "sessions": 1,
+        "avgDurationSec": 4,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-05",
+        "sessions": 2,
+        "avgDurationSec": 5,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-08",
+        "sessions": 2,
+        "avgDurationSec": 618,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-09",
+        "sessions": 5,
+        "avgDurationSec": 793,
+        "engaged": 5,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-12",
+        "sessions": 1,
+        "avgDurationSec": 0,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-19",
+        "sessions": 1,
+        "avgDurationSec": 0,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-20",
+        "sessions": 2,
+        "avgDurationSec": 2,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-21",
+        "sessions": 1,
+        "avgDurationSec": 162,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-22",
+        "sessions": 4,
+        "avgDurationSec": 107,
+        "engaged": 3,
+        "taiwanOrganic": 2
+      },
+      {
+        "date": "2026-07-23",
+        "sessions": 3,
+        "avgDurationSec": 29,
+        "engaged": 2,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-07-24",
+        "sessions": 1,
+        "avgDurationSec": 0,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-25",
+        "sessions": 2,
+        "avgDurationSec": 2,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-27",
+        "sessions": 3,
+        "avgDurationSec": 22,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-28",
+        "sessions": 2,
+        "avgDurationSec": 121,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-07-31",
+        "sessions": 1,
+        "avgDurationSec": 0,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-01",
+        "sessions": 3,
+        "avgDurationSec": 298,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-02",
+        "sessions": 6,
+        "avgDurationSec": 56,
+        "engaged": 3,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-08-03",
+        "sessions": 5,
+        "avgDurationSec": 360,
+        "engaged": 3,
+        "taiwanOrganic": 3
+      },
+      {
+        "date": "2026-08-04",
+        "sessions": 3,
+        "avgDurationSec": 53,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-05",
+        "sessions": 2,
+        "avgDurationSec": 113,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-06",
+        "sessions": 3,
+        "avgDurationSec": 19,
+        "engaged": 1,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-08-07",
+        "sessions": 3,
+        "avgDurationSec": 59,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-08",
+        "sessions": 5,
+        "avgDurationSec": 6,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-09",
+        "sessions": 2,
+        "avgDurationSec": 29,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-10",
+        "sessions": 3,
+        "avgDurationSec": 5,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-12",
+        "sessions": 2,
+        "avgDurationSec": 53,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-13",
+        "sessions": 3,
+        "avgDurationSec": 4,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-14",
+        "sessions": 5,
+        "avgDurationSec": 6,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-15",
+        "sessions": 2,
+        "avgDurationSec": 22,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-16",
+        "sessions": 4,
+        "avgDurationSec": 89,
+        "engaged": 3,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-17",
+        "sessions": 5,
+        "avgDurationSec": 49,
+        "engaged": 2,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-18",
+        "sessions": 6,
+        "avgDurationSec": 217,
+        "engaged": 2,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-08-19",
+        "sessions": 6,
+        "avgDurationSec": 14,
+        "engaged": 1,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-08-20",
+        "sessions": 7,
+        "avgDurationSec": 31,
+        "engaged": 3,
+        "taiwanOrganic": 2
+      },
+      {
+        "date": "2026-08-21",
+        "sessions": 9,
+        "avgDurationSec": 35,
+        "engaged": 4,
+        "taiwanOrganic": 1
+      },
+      {
+        "date": "2026-08-22",
+        "sessions": 3,
+        "avgDurationSec": 2,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-23",
+        "sessions": 4,
+        "avgDurationSec": 149,
+        "engaged": 3,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-24",
+        "sessions": 4,
+        "avgDurationSec": 6,
+        "engaged": 1,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-25",
+        "sessions": 3,
+        "avgDurationSec": 1,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-26",
+        "sessions": 1,
+        "avgDurationSec": 7,
+        "engaged": 0,
+        "taiwanOrganic": 0
+      },
+      {
+        "date": "2026-08-27",
+        "sessions": 3,
+        "avgDurationSec": 41,
+        "engaged": 1,
+        "taiwanOrganic": 1
+      }
+    ]
+  },
+  "gsc": {
+    "range": "2026-08-18..2026-08-25",
+    "totals": {
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 48.806451612903224
+    },
+    "topQueries": [
+      {
+        "query": "access to insight four noble truths",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 79
+      },
+      {
+        "query": "bahu meaning in tamil",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 73.5
+      },
+      {
+        "query": "four noble truths access to insight",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 99
+      },
+      {
+        "query": "kusala",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+      },
+      {
+        "query": "maranassati sutta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+      },
+      {
+        "query": "parajana",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 89.5
+      },
+      {
+        "query": "saccavibhanga sutta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 64
+      },
+      {
+        "query": "sutta study",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+      },
+      {
+        "query": "尼柯耶",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 6.083333333333333
+      }
+    ],
+    "topPages": [
+      {
+        "page": "https://sutta.io/",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 58
+      },
+      {
+        "page": "https://sutta.io/en/",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 45.8
+      },
+      {
+        "page": "https://sutta.io/en/browse/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 65.5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 4.333333333333334
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/anumassa/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/anuruddha/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/gacchati/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kammasadhamma/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kayanupassananavasivathikapabba/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kusala/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/parinibbana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/sammappanna/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/sutta/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/vimuttinanadassanasampada",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/vutthapetva/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "page": "https://sutta.io/en/read/mn18/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 52
+      },
+      {
+        "page": "https://sutta.io/en/topics/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 42
+      },
+      {
+        "page": "https://sutta.io/en/topics/ananda/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "page": "https://sutta.io/en/topics/anapanasati/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+      },
+      {
+        "page": "https://sutta.io/en/topics/anatta/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 28
+      },
+      {
+        "page": "https://sutta.io/en/topics/five-aggregates/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 97
+      },
+      {
+        "page": "https://sutta.io/en/topics/four-noble-truths/",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 61.625
+      },
+      {
+        "page": "https://sutta.io/en/topics/marana/",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 64.875
+      },
+      {
+        "page": "https://sutta.io/en/topics/moggallana/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "page": "https://sutta.io/en/topics/reading-guide/",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 35.5
+      }
+    ],
+    "groupTotals": {
+      "主題頁": {
+        "imp": 1,
+        "clk": 0,
+        "n": 1
+      },
+      "經文": {
+        "imp": 0,
+        "clk": 0,
+        "n": 0
+      },
+      "辭典": {
+        "imp": 5,
+        "clk": 0,
+        "n": 3
+      },
+      "英文版": {
+        "imp": 53,
+        "clk": 0,
+        "n": 26
+      }
+    },
+    "channelHealth": {
+      "主題頁": {
+        "imp": 1,
+        "clk": 0,
+        "ctr": 0,
+        "position": 59,
+        "pagesWithImpressions": 1,
+        "bands": {
+          "前3": 0,
+          "4-5": 0,
+          "6-8": 0,
+          "9-15": 0,
+          "16+": 1
+        },
+        "cliff": []
+      },
+      "經文": {
+        "imp": 0,
+        "clk": 0,
+        "ctr": 0,
+        "position": null,
+        "pagesWithImpressions": 0,
+        "bands": {
+          "前3": 0,
+          "4-5": 0,
+          "6-8": 0,
+          "9-15": 0,
+          "16+": 0
+        },
+        "cliff": []
+      },
+      "辭典": {
+        "imp": 5,
+        "clk": 0,
+        "ctr": 0,
+        "position": 66.2,
+        "pagesWithImpressions": 3,
+        "bands": {
+          "前3": 0,
+          "4-5": 1,
+          "6-8": 0,
+          "9-15": 0,
+          "16+": 4
+        },
+        "cliff": []
+      },
+      "英文版": {
+        "imp": 53,
+        "clk": 0,
+        "ctr": 0,
+        "position": 43.867924528301884,
+        "pagesWithImpressions": 26,
+        "bands": {
+          "前3": 3,
+          "4-5": 8,
+          "6-8": 4,
+          "9-15": 0,
+          "16+": 38
+        },
+        "cliff": []
+      }
+    },
+    "positionBands": [
+      {
+        "band": "前3",
+        "pages": 3,
+        "imp": 3,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "band": "4-5",
+        "pages": 7,
+        "imp": 9,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "band": "6-8",
+        "pages": 4,
+        "imp": 19,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "band": "9-15",
+        "pages": 0,
+        "imp": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "band": "16+",
+        "pages": 18,
+        "imp": 48,
+        "clicks": 0,
+        "ctr": 0
+      }
+    ],
+    "pageQueryCross": [
+      {
+        "page": "https://sutta.io/en/",
+        "query": "sutta study",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+      },
+      {
+        "page": "https://sutta.io/en/lexicon/kusala/",
+        "query": "kusala",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+      },
+      {
+        "page": "https://sutta.io/en/topics/four-noble-truths/",
+        "query": "access to insight four noble truths",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 79
+      },
+      {
+        "page": "https://sutta.io/en/topics/four-noble-truths/",
+        "query": "four noble truths access to insight",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 99
+      },
+      {
+        "page": "https://sutta.io/en/topics/four-noble-truths/",
+        "query": "saccavibhanga sutta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 64
+      },
+      {
+        "page": "https://sutta.io/en/topics/marana/",
+        "query": "maranassati sutta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+      },
+      {
+        "page": "https://sutta.io/lexicon/bahu/",
+        "query": "bahu meaning in tamil",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 73.5
+      },
+      {
+        "page": "https://sutta.io/lexicon/parajana/",
+        "query": "parajana",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 89.5
+      },
+      {
+        "page": "https://sutta.io/nikaya/",
+        "query": "尼柯耶",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 6.083333333333333
+      }
+    ],
+    "strikingDistance": [
+      {
+        "page": "https://sutta.io/nikaya/",
+        "query": "尼柯耶",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 6.083333333333333
+      }
+    ],
+    "highImpZeroClick": [
+      {
+        "page": "https://sutta.io/nikaya/",
+        "query": "尼柯耶",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 6.083333333333333
+      }
+    ]
+  },
+  "index": {
+    "sitemaps": [
+      {
+        "path": "https://sutta.io/sitemap-index.xml",
+        "submitted": 2858,
+        "errors": "0",
+        "warnings": "0",
+        "lastDownloaded": "2026-08-24T12:14:58.399Z"
+      }
+    ],
+    "coverage": [
+      {
+        "url": "https://sutta.io/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-27T19:39:17Z"
+      },
+      {
+        "url": "https://sutta.io/topics/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-09T00:35:50Z"
+      },
+      {
+        "url": "https://sutta.io/topics/anapanasati/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-21T20:45:11Z"
+      },
+      {
+        "url": "https://sutta.io/topics/satipatthana-practice/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-09T15:12:48Z"
+      },
+      {
+        "url": "https://sutta.io/topics/anatta/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-24T04:42:57Z"
+      },
+      {
+        "url": "https://sutta.io/agama/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-03T18:02:50Z"
+      },
+      {
+        "url": "https://sutta.io/nikaya/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-24T04:54:00Z"
+      },
+      {
+        "url": "https://sutta.io/read/mn10/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-22T06:17:36Z"
+      },
+      {
+        "url": "https://sutta.io/lexicon/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-15T03:45:09Z"
+      },
+      {
+        "url": "https://sutta.io/en/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-29T18:27:04Z"
+      },
+      {
+        "url": "https://sutta.io/topics/marana/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-04T09:59:06Z"
+      },
+      {
+        "url": "https://sutta.io/topics/facing-fear/",
+        "coverageState": "URL is unknown to Google",
+        "lastCrawlTime": null
+      },
+      {
+        "url": "https://sutta.io/topics/facing-criticism/",
+        "coverageState": "URL is unknown to Google",
+        "lastCrawlTime": null
+      },
+      {
+        "url": "https://sutta.io/topics/letting-go/",
+        "coverageState": "Discovered - currently not indexed",
+        "lastCrawlTime": null
+      },
+      {
+        "url": "https://sutta.io/en/browse/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-21T21:10:22Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-17T20:14:51Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/anumassa/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-26T02:56:09Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/anuruddha/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-24T05:27:59Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/gacchati/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-24T07:50:09Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/kammasadhamma/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-08-17T17:40:07Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/kayanupassananavasivathikapabba/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-22T00:14:38Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/kusala/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-24T05:19:00Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/parinibbana/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-26T05:48:05Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/sammappanna/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-26T22:06:56Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/sutta/",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-06-22T13:29:27Z",
+        "auto": true
+      },
+      {
+        "url": "https://sutta.io/en/lexicon/vimuttinanadassanasampada",
+        "coverageState": "Submitted and indexed",
+        "lastCrawlTime": "2026-07-02T20:33:50Z",
+        "auto": true
+      }
+    ]
+  },
+  "targetTrend": {
+    "range": "2026-08-19..2026-08-25",
+    "prevRange": "2026-08-12..2026-08-18",
+    "rows": [
+      {
+        "query": "尼柯耶",
+        "pinned": true,
+        "position": 6.083333333333333,
+        "prevPosition": null,
+        "impressions": 12,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "四念處",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "阿含經",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "四聖諦",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "巴利",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "佛經 白話",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "四念處 怎麼修",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      },
+      {
+        "query": "阿含經 解釋",
+        "pinned": true,
+        "position": null,
+        "prevPosition": null,
+        "impressions": 0,
+        "clicks": 0,
+        "ctr": 0
+      }
+    ]
+  },
+  "geo": {
+    "site": "sutta.io",
+    "sampleUrl": "https://sutta.io/topics/anapanasati/",
+    "checks": {
+      "ai": {
+        "s": "✅"
+      },
+      "sitemap": {
+        "s": "✅"
+      },
+      "llms": {
+        "s": "✅"
+      },
+      "llmsFull": {
+        "s": "✅"
+      },
+      "org": {
+        "s": "✅"
+      },
+      "sameAs": {
+        "s": "✅"
+      },
+      "content": {
+        "s": "✅"
+      },
+      "faq": {
+        "s": "✅"
+      },
+      "cite": {
+        "s": "✅"
+      },
+      "expect": {
+        "s": "—"
+      },
+      "targetQ": {
+        "s": "✅"
+      }
+    },
+    "gaps": [],
+    "warns": [],
+    "ok": true
+  }
+}
