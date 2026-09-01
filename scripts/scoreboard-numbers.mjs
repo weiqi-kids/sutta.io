@@ -12,7 +12,9 @@ const sb = JSON.parse(readFileSync(join(repo, 'data/seo-daily/scoreboard.json'),
 
 const pages = Object.values(sb.pages);
 const M = pages.length;
-const N = pages.filter((v) => typeof v === 'string' && v.includes('indexed')).length;
+const N = pages.filter(
+  (v) => typeof v === 'string' && v.includes('indexed') && !v.includes('not indexed'),
+).length;
 
 const kws = sb.keywords;
 const K = kws.length;
