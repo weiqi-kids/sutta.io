@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getUsage, getEntity, getAllEntityKeys, resolveOccurrencePassages, getZhGloss } from '../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys, resolveOccurrencePassages, getZhGloss, lexiconSeoOverride } from '../../lib/data';
 import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
@@ -46,10 +46,14 @@ const meaning = entity?.name_zh || getZhGloss(key!) || '';
 // （EN版 site/src/pages/en/lexicon/[key].astro 已於07-27套用同一手法,此為補齊中文版遺漏。）
 const asciiHeadword = headword ? headword.normalize('NFD').replace(/\p{Mn}/gu, '') : '';
 const asciiAlias = asciiHeadword && asciiHeadword.toLowerCase() !== headword.toLowerCase() ? `（${asciiHeadword}）` : '';
-const pageTitle = meaning ? `${headword}（${meaning}）｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
-const pageDesc = meaning
-  ? `${headword}${asciiAlias}，意為「${meaning}」。${t.lexicon.desc}`
-  : `${headword}${asciiAlias}｜${t.lexicon.desc}`;
+const seoOverride = key ? lexiconSeoOverride(key) : {};
+const pageTitle =
+  seoOverride.title ?? (meaning ? `${headword}（${meaning}）｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`);
+const pageDesc =
+  seoOverride.desc ??
+  (meaning
+    ? `${headword}${asciiAlias}，意為「${meaning}」。${t.lexicon.desc}`
+    : `${headword}${asciiAlias}｜${t.lexicon.desc}`);
 const definedTermSchema = {
   '@context': 'https://schema.org',
   '@type': 'DefinedTerm',
