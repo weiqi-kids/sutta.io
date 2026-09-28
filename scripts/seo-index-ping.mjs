@@ -57,20 +57,36 @@ async function pingIndexNow() {
   }
 }
 
+// 🔴 Google Indexing API 政策閘門（2026-09-27 起全面停用）。
+//    政策與實證見 /root/.config/indexing-api-policy.json。內嵌一份檢查而不是 import，
+//    是因為本腳本與 seo-ops 無相依——政策的單一真實來源是那個 JSON，不是程式碼。
+//    ⚠️ 只擋 Google 那一段，② IndexNow 照跑（那是 Bing/Yandex 那側，與本決定無關）。
+function indexingAllowed() {
+  const F = '/root/.config/indexing-api-policy.json';
+  try {
+    const p = JSON.parse(fs.readFileSync(F, 'utf8'));
+    if (p.enabled === true) return true;
+    console.error(`[seo-index-ping] Google Indexing API 已於 ${p.decidedAt ?? '?'} 停用，跳過 Google（IndexNow 照送）。見 ${F}`);
+    return false;
+  } catch { return true; } // 找不到或壞掉一律放行：這是政策閘門，不該變成靜默故障
+}
+
 async function main() {
   // ① Google Indexing API：逐 URL 通報。
-  const token = await getToken();
-  let ok = 0;
-  for (const url of targets) {
-    const res = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
-      method: 'POST', headers: { authorization: `Bearer ${token}`, 'content-type': 'application/json' },
-      body: JSON.stringify({ url, type: 'URL_UPDATED' }),
-    });
-    const j = await res.json();
-    if (res.ok && !j.error) { ok++; console.log(`  ✓ 已通知 Google：${url}`); }
-    else console.error(`  ✗ ${url}：${j.error?.message || JSON.stringify(j).slice(0, 120)}`);
+  if (indexingAllowed()) {
+    const token = await getToken();
+    let ok = 0;
+    for (const url of targets) {
+      const res = await fetch('https://indexing.googleapis.com/v3/urlNotifications:publish', {
+        method: 'POST', headers: { authorization: `Bearer ${token}`, 'content-type': 'application/json' },
+        body: JSON.stringify({ url, type: 'URL_UPDATED' }),
+      });
+      const j = await res.json();
+      if (res.ok && !j.error) { ok++; console.log(`  ✓ 已通知 Google：${url}`); }
+      else console.error(`  ✗ ${url}：${j.error?.message || JSON.stringify(j).slice(0, 120)}`);
+    }
+    console.log(`Google index-ping 完成：${ok}/${targets.length} 成功`);
   }
-  console.log(`Google index-ping 完成：${ok}/${targets.length} 成功`);
   await pingIndexNow();
 }
 main().catch((e) => { console.error('index-ping 失敗：', e.message); process.exit(1); });
