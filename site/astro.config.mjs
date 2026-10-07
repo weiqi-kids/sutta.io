@@ -37,6 +37,9 @@ const lastmodFor = createLastmodResolver(REPO_ROOT);
 const keepInSitemap = (page) => {
   // /en/read/*（英文殼包中文內容）已 noindex，不進 sitemap，避免矛盾訊號、集中中文抓取預算。
   if (/\/en\/read\//.test(page)) return false;
+  // /en/agama/<經號>（英文殼包中文阿含原文）在頁面上 noindex={true}，同理不進 sitemap。
+  // 2026-10-07 全站檢查抓到 33 頁漏排除；scripts/check-sitemap-noindex.mjs 會在 build 後擋下這類不同步。
+  if (/\/en\/agama\/[^/]+\/?$/.test(page)) return false;
   const m = page.match(/\/lexicon\/([^/]+)\/?$/);
   if (!m) return true; // 非詞條頁一律保留
   try {
