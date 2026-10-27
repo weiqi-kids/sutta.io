@@ -61,7 +61,15 @@ async function pingIndexNow() {
 //    政策與實證見 /root/.config/indexing-api-policy.json。內嵌一份檢查而不是 import，
 //    是因為本腳本與 seo-ops 無相依——政策的單一真實來源是那個 JSON，不是程式碼。
 //    ⚠️ 只擋 Google 那一段，② IndexNow 照跑（那是 Bing/Yandex 那側，與本決定無關）。
+// 本站層級的硬開關：Indexing API 已停用（用戶 2026-09-27 決定）。不依賴政策檔是否存在——
+// 政策檔遺失時上面的閘門會放行，這行保證本站不會因此默默恢復推送。要重開只認用戶本人原話。
+const SITE_GOOGLE_INDEXING_ENABLED = false;
+
 function indexingAllowed() {
+  if (!SITE_GOOGLE_INDEXING_ENABLED) {
+    console.error('[seo-index-ping] 本站 Google Indexing API 已停用（用戶 2026-09-27 決定），跳過 Google（IndexNow 照送）');
+    return false;
+  }
   const F = '/root/.config/indexing-api-policy.json';
   try {
     const p = JSON.parse(fs.readFileSync(F, 'utf8'));
