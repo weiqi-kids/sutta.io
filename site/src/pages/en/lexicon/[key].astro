@@ -29,7 +29,7 @@ const url = (p: string) => {
 // 薄詞條（僅文法骨架、出現極少）標 noindex，集中 Google 抓取預算於有價值內容頁
 // 判準與中文版 lexicon/[key].astro、astro.config.mjs 的 noindexLexKeys 同步（2026-11-01：原本這裡只要 occ≥3，
 // 跟中文版的 gloss＋occ≥8 不一致——occ 3–7 的英文頁可索引卻被 sitemap 排除，hreflang 也互指到 noindex 頁）。
-const LEX_OCC_MIN = 8;
+const LEX_OCC_MIN = 20; // 2026-11-01 用戶拍板 8→20，與 astro.config.mjs 同步
 const hasDict = Boolean(entry?.gloss && String(entry.gloss).trim()) && (entry?.occurrences?.length ?? 0) >= LEX_OCC_MIN;
 const indexable = Boolean(usage) || Boolean(entity?.summary?.length) || hasDict;
 const noindex = !indexable;

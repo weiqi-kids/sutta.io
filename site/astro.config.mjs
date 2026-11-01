@@ -17,7 +17,7 @@ const readJson = (f) => (existsSync(f) ? JSON.parse(readFileSync(f, 'utf-8')) : 
 const _lex = readJson(join(DATA_DIR, 'lexicon.json'));
 const _usage = readJson(join(DATA_DIR, 'usage.json'));
 const _ent = readJson(join(DATA_DIR, 'entities.json'));
-const LEX_OCC_MIN = 8; // 字典頁索引門檻：有 DPD gloss 且出現次數≥此值＝正當字典條目、可索引。與 lexicon/[key].astro 同步。
+const LEX_OCC_MIN = 20; // 2026-11-01 用戶拍板 8→20（站級降權疑因規模化詞條佔 95%，先做中間版觀察兩個週期）。字典頁索引門檻：有 DPD gloss 且出現次數≥此值＝正當字典條目、可索引。與 lexicon/[key].astro 同步。
 const noindexLexKeys = new Set(
   [...new Set([...Object.keys(_lex), ...Object.keys(_ent)])].filter((k) => {
     const hasUsage = Boolean(_usage[k]);

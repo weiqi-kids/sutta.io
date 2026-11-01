@@ -30,7 +30,7 @@ const url = (p: string) => {
 // 真正的空殼頁（無釋義或出現過少）才 noindex，集中抓取預算於真內容頁。判準與 astro.config.mjs 的 noindexLexKeys 必須同步。
 // 2026-07-14：7-05 只認 L2 白話（僅 28 詞達標）過嚴，deindex 了 5,409 個含 DPD 釋義+出處的正當字典頁、
 // 連同幾乎全部在拿 GSC 曝光的查詞頁；回調為「gloss + occ≥門檻」，保守起步 occ≥8（約 1,318 頁）。
-const LEX_OCC_MIN = 8;
+const LEX_OCC_MIN = 20; // 2026-11-01 用戶拍板 8→20，與 astro.config.mjs 同步
 const hasDict = Boolean(entry?.gloss && String(entry.gloss).trim()) && (entry?.occurrences?.length ?? 0) >= LEX_OCC_MIN;
 // 字典漏斗：把前幾筆出處解析成「詞活在經文裡」的段落，把查詞導向閱讀（build 期解析、原句可查證）。
 const passages = entry ? resolveOccurrencePassages(entry.occurrences, 3) : [];
