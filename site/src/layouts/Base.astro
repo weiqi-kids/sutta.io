@@ -46,6 +46,8 @@ interface Props {
   extraSchema?: object | object[];
   /** 內容單薄頁（如無用法摘要的字頁）設 noindex,follow，集中抓取預算到真內容頁 */
   noindex?: boolean;
+  /** 另一語系的同頁是 noindex（例：英文 /en/agama、/en/read）時設 true，不輸出 hreflang 互連，免得指向不收錄的頁 */
+  altNoindex?: boolean;
   /** 每頁專屬 OG 金句卡（分享到 LINE/FB 的圖）；未給則用全站通用圖 */
   ogImage?: string;
 }
@@ -57,6 +59,7 @@ const {
   wide = false,
   extraSchema,
   noindex = false,
+  altNoindex = false,
   ogImage,
 } = Astro.props;
 const buildDate = new Date().toISOString().slice(0, 10);
@@ -157,9 +160,13 @@ const breadcrumbSchema =
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content={THEME_COLOR} />
     <link rel="canonical" href={canonical} />
-    <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
-    <link rel="alternate" hreflang="en" href={enHref} />
-    <link rel="alternate" hreflang="x-default" href={zhHref} />
+    {!noindex && !altNoindex && (
+      <>
+        <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
+        <link rel="alternate" hreflang="en" href={enHref} />
+        <link rel="alternate" hreflang="x-default" href={zhHref} />
+      </>
+    )}
 
     {/* Open Graph（分享卡片） */}
     <meta property="og:type" content="website" />

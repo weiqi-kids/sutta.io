@@ -110,6 +110,7 @@ if (dateModified) {
   wide={true}
   extraSchema={articleSchema}
   ogImage={ogCard}
+  altNoindex={true}
 >
   <StudyPage client:load fixture={fixture} prevId={prevId} nextId={nextId} baseUrl={base} context={context} entities={entities} topics={relatedTopics} pericopes={xrefs.pericopes} l3Api={l3Api} lang={Astro.currentLocale} />
   {
