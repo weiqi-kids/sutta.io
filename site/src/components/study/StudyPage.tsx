@@ -121,15 +121,15 @@ export default function StudyPage({ fixture, prevId, nextId, baseUrl, context = 
           <a className="nav-arrow" href={prevId ? url(`/read/${prevId}`) : undefined} aria-disabled={!prevId}>
             ‹
           </a>
-          <div className="study-title-text">
+          <h1 className="study-title-text">
             <span lang="pi" className="title-pali">
               {sutta.title_pali}
-            </span>
+            </span>{' '}
             <span className="title-zh">
               {sutta.collection_zh ? `${sutta.collection_zh}・` : ''}
               {sutta.title_zh}
             </span>
-          </div>
+          </h1>
           <a className="nav-arrow" href={nextId ? url(`/read/${nextId}`) : undefined} aria-disabled={!nextId}>
             ›
           </a>

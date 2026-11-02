@@ -30,6 +30,9 @@
 .study-title-text {
   display: flex;
   flex-direction: column;
+  margin: 0;
+  font: inherit;
+  letter-spacing: inherit;
 }
 .title-pali {
   font-family: var(--font-pali);
