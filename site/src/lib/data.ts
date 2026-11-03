@@ -177,12 +177,12 @@ interface LexiconSeoMap {
   [key: string]: { zh?: string; zhDesc?: string };
 }
 let lexiconSeoMapCache: LexiconSeoMap | null | undefined;
-export function lexiconSeoOverride(key: string): { title?: string; desc?: string } {
+export function lexiconSeoOverride(key: string, locale: 'zh' | 'en' = 'zh'): { title?: string; desc?: string } {
   if (lexiconSeoMapCache === undefined) {
     lexiconSeoMapCache = readJsonIfExists<LexiconSeoMap>(path.join(CONTENT_DIR, 'seo', 'lexicon-seo.json'));
   }
   const entry = (lexiconSeoMapCache ?? {})[key];
-  return { title: entry?.zh, desc: entry?.zhDesc };
+  return locale === 'en' ? { title: entry?.en, desc: entry?.enDesc } : { title: entry?.zh, desc: entry?.zhDesc };
 }
 
 /** 研經頁 SEO 標題：覆蓋表優先，否則通用模板（帶「白話對照」概念詞）。 */

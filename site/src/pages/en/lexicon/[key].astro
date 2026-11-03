@@ -2,7 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import { getStrings } from '../../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getUsage, getEntity, getAllEntityKeys } from '../../../lib/data';
+import { getLexicon, getUsage, getEntity, getAllEntityKeys, lexiconSeoOverride } from '../../../lib/data';
 import type { Provenance } from '@tipitaka/contracts';
 
 export function getStaticPaths() {
@@ -52,10 +52,11 @@ const asciiAlias = asciiHeadword && asciiHeadword.toLowerCase() !== headword.toL
 // pixel limit and gets truncated mid-clause. Title uses only the first clause; description
 // keeps the full gloss since it has more room and helps match varied query phrasings.
 const titleMeaning = meaning.split(';')[0].trim();
-const pageTitle = meaning ? `${headword} (${titleMeaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`;
-const pageDesc = meaning
+const seoOverride = key ? lexiconSeoOverride(key, 'en') : {};
+const pageTitle = seoOverride.title ?? (meaning ? `${headword} (${titleMeaning}) ｜${t.lexicon.title}` : `${headword}｜${t.lexicon.title}`);
+const pageDesc = seoOverride.desc ?? (meaning
   ? `${headword}${asciiAlias}, meaning "${meaning}". ${t.lexicon.desc}`
-  : `${headword}${asciiAlias}｜${t.lexicon.desc}`;
+  : `${headword}${asciiAlias}｜${t.lexicon.desc}`);
 const definedTermSchema = {
   '@context': 'https://schema.org',
   '@type': 'DefinedTerm',
