@@ -10,7 +10,9 @@
   },
   "assosi": {
     "zh": "assosi 意思：聽聞、聽到・巴利動詞解析｜字典",
-    "zhDesc": "assosi 為巴利語動詞（字根 √su）的不定過去式，意思是「聽聞、聽到」；見於中部12、22、24、31、35、38、41、42、118 等經文原文，含逐字文法、全藏出現與用法摘要。"
+    "zhDesc": "assosi 為巴利語動詞（字根 √su）的不定過去式，意思是「聽聞、聽到」；見於中部12、22、24、31、35、38、41、42、118 等經文原文，含逐字文法、全藏出現與用法摘要。",
+    "en": "assosi meaning: heard｜Pāli Dictionary",
+    "enDesc": "assosi in Pāli means heard. See its grammar, root and inflected forms, and how it is used in the suttas."
   },
   "tathagata": {
     "zh": "tathagata（tathāgata）意思：如來・巴利名詞解析｜字典",
@@ -22,7 +24,9 @@
   },
   "addasa": {
     "zh": "addasa 意思：見到、看見・巴利動詞解析｜字典",
-    "zhDesc": "addasa 為巴利語動詞（字根 √dis）的不定過去式，意思是「見到、看見」；見於中部12等經文原文，含逐字文法、全藏出現與用法摘要。"
+    "zhDesc": "addasa 為巴利語動詞（字根 √dis）的不定過去式，意思是「見到、看見」；見於中部12等經文原文，含逐字文法、全藏出現與用法摘要。",
+    "en": "addasa meaning: saw｜Pāli Dictionary",
+    "enDesc": "addasa in Pāli means saw. See its grammar, root and inflected forms, and how it is used in the suttas."
   },
   "adinava": {
     "zh": "adinava（ādīnava）意思：危難、過患・巴利名詞解析｜字典",
@@ -37,5 +41,107 @@
   "anuruddha": {
     "en": "Anuruddha meaning: arahant monk, cousin of the Buddha｜Pāli Dictionary",
     "enDesc": "Anuruddha is the name of an arahant monk, a great disciple and cousin of the Buddha, foremost in the divine eye. See his entry and where he appears in the suttas."
+  },
+  "deseti": {
+    "en": "deseti meaning: teaches, preaches, explains｜Pāli Dictionary",
+    "enDesc": "deseti in Pāli means teaches, preaches or explains. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "brahma": {
+    "en": "brahma meaning: God, creator god｜Pāli Dictionary",
+    "enDesc": "brahma in Pāli means God or creator god. See its grammar, root and inflected forms, and how it is used in the suttas.",
+    "zh": "brahma 意思：梵天、造物主｜巴利字典",
+    "zhDesc": "brahma 的巴利語意思是「梵天、造物主」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "katama": {
+    "en": "katama meaning: what, which one｜Pāli Dictionary",
+    "enDesc": "katama in Pāli means what or which one of many. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "mahanama": {
+    "en": "Mahānāma (mahanama) meaning: Sakyan layman, disciple of the Buddha｜Pāli Dictionary",
+    "enDesc": "Mahānāma (mahanama) in Pāli means the name of a Sakyan layman and great disciple of the Buddha. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "tumha": {
+    "en": "tumha meaning: you｜Pāli Dictionary",
+    "enDesc": "tumha in Pāli means you. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "pavisi": {
+    "en": "pāvisi (pavisi) meaning: entered, went｜Pāli Dictionary",
+    "enDesc": "pāvisi (pavisi) in Pāli means entered or went. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "dutiya": {
+    "en": "dutiya meaning: second (2nd)｜Pāli Dictionary",
+    "enDesc": "dutiya in Pāli means second. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "passanta": {
+    "en": "passanta meaning: seeing｜Pāli Dictionary",
+    "enDesc": "passanta in Pāli means seeing. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "bhavati": {
+    "en": "bhavati meaning: is, becomes｜Pāli Dictionary",
+    "enDesc": "bhavati in Pāli means is or becomes. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "harati": {
+    "en": "harati meaning: carries, takes away｜Pāli Dictionary",
+    "enDesc": "harati in Pāli means carries or takes away. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "samana": {
+    "en": "samaṇa (samana) meaning: ascetic, recluse, monk｜Pāli Dictionary",
+    "enDesc": "samaṇa (samana) in Pāli means an ascetic, recluse or monk. See its grammar, root and inflected forms, and how it is used in the suttas."
+  },
+  "sabba": {
+    "zh": "sabba 意思：一切｜巴利字典",
+    "zhDesc": "sabba 的巴利語意思是「一切」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "yoniso": {
+    "zh": "yoniso 意思：如理、善巧地｜巴利字典",
+    "zhDesc": "yoniso 的巴利語意思是「如理、善巧地」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "nu": {
+    "zh": "nu 意思：疑問語氣詞，豈、豈非｜巴利字典",
+    "zhDesc": "nu 的巴利語意思是「疑問語氣詞，豈、豈非」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "satipatthana": {
+    "zh": "satipaṭṭhāna（satipatthana） 意思：念處｜巴利字典",
+    "zhDesc": "satipaṭṭhāna（satipatthana） 的巴利語意思是「念處」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "akasanancayatana": {
+    "zh": "ākāsānañcāyatana（akasanancayatana） 意思：空無邊處｜巴利字典",
+    "zhDesc": "ākāsānañcāyatana（akasanancayatana） 的巴利語意思是「空無邊處」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "khvaham": {
+    "zh": "khvāhaṃ（khvaham） 意思：我實在、我確實｜巴利字典",
+    "zhDesc": "khvāhaṃ（khvaham） 的巴利語意思是「我實在、我確實」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "bhuta": {
+    "zh": "bhūta（bhuta） 意思：已生、有情｜巴利字典",
+    "zhDesc": "bhūta（bhuta） 的巴利語意思是「已生、有情」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "kala": {
+    "zh": "kāla（kala） 意思：時間、時機｜巴利字典",
+    "zhDesc": "kāla（kala） 的巴利語意思是「時間、時機」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "sariputta": {
+    "zh": "sāriputta（sariputta） 意思：舍利弗，佛陀上首弟子｜巴利字典",
+    "zhDesc": "sāriputta（sariputta） 的巴利語意思是「舍利弗，佛陀上首弟子」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "pajapati": {
+    "zh": "pajāpatī（pajapati） 意思：妻室｜巴利字典",
+    "zhDesc": "pajāpatī（pajapati） 的巴利語意思是「妻室」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "deva": {
+    "zh": "deva 意思：天神｜巴利字典",
+    "zhDesc": "deva 的巴利語意思是「天神」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "tatha": {
+    "zh": "tatha 意思：真實、如實｜巴利字典",
+    "zhDesc": "tatha 的巴利語意思是「真實、如實」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "samaya": {
+    "zh": "samaya 意思：時、時節｜巴利字典",
+    "zhDesc": "samaya 的巴利語意思是「時、時節」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
+  },
+  "kama": {
+    "zh": "kāma（kama） 意思：欲、欲求｜巴利字典",
+    "zhDesc": "kāma（kama） 的巴利語意思是「欲、欲求」。可查逐字文法、字根、變化形，以及它在經文中的用法。"
   }
 }
