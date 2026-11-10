@@ -2,12 +2,16 @@
 import Base from '../../layouts/Base.astro';
 import { getStrings } from '../../i18n';
 const t = getStrings(Astro.currentLocale);
-import { getLexicon, getAllEntityKeys } from '../../lib/data';
+import { getLexicon, getAllEntityKeys, getUsage } from '../../lib/data';
 import { glossary } from '../../content-data/glossary.zh-Hant';
 
 const lex = getLexicon();
 const validKeys = new Set([...Object.keys(lex), ...getAllEntityKeys()]);
+// 與 lexicon/[key].astro／astro.config.mjs 的 indexable 判準同步：未達門檻的詞條頁本身已 noindex，
+// 這個可索引的目錄頁不該再連過去——否則一頁扇出近全部詞條，稀釋內鏈權重並讓 Google 從這裡爬到整批薄頁。
+const LEX_OCC_MIN = 20;
 const entries = Object.entries(lex)
+  .filter(([key, e]) => Boolean(getUsage(key)) || (Boolean(e.gloss && String(e.gloss).trim()) && e.occurrences.length >= LEX_OCC_MIN))
   .map(([key, e]) => ({ key, lemma: e.lemma, gloss: e.gloss, n: e.occurrences.length }))
   .sort((a, b) => a.key.localeCompare(b.key));
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
