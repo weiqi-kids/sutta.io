@@ -46,7 +46,7 @@ interface Props {
   extraSchema?: object | object[];
   /** 內容單薄頁（如無用法摘要的字頁）設 noindex,follow，集中抓取預算到真內容頁 */
   noindex?: boolean;
-  /** 另一語系的同頁是 noindex（例：英文 /en/agama、/en/read）時設 true，不輸出 hreflang 互連，免得指向不收錄的頁 */
+  /** 舊參數：另一語系同頁 noindex 時不輸出 hreflang。2026-11-15 起 hreflang 全撤，此參數已無作用，保留免改呼叫端 */
   altNoindex?: boolean;
   /** 每頁專屬 OG 金句卡（分享到 LINE/FB 的圖）；未給則用全站通用圖 */
   ogImage?: string;
@@ -58,10 +58,14 @@ const {
   preview = false,
   wide = false,
   extraSchema,
-  noindex = false,
-  altNoindex = false,
+  noindex: noindexProp = false,
+  altNoindex: _altNoindex = false,
   ogImage,
 } = Astro.props;
+// 2026-11-15 站主拍板：/en/ 英文鏡像整區不收錄（noindex,follow；頁面與網址照留、robots.txt 不擋）。
+// 軸線只有中文受眾，/en/ 是鏡像噪音。故 locale=en 一律 noindex；中文頁也不再輸出指向 /en/ 的 hreflang。
+// sitemap 端同步排除在 astro.config.mjs keepInSitemap；建置後守門 scripts/check-en-noindex.mjs。
+const noindex = noindexProp || locale === 'en';
 const buildDate = new Date().toISOString().slice(0, 10);
 const fullTitle = title ? `${title}｜${t.site.name}` : t.site.seoTitle;
 const ogTitle = title ? `${title}｜${t.site.name}` : t.site.ogTitle;
@@ -69,16 +73,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lp = locale === 'en' ? '/en' : '';
 // 站內導覽連結一律補齊斜線，與 canonicalPath／sitemap 的正典形式對齊（同一批 canonical 收斂修正）
 const url = (p: string) => `${base}${lp}${p.endsWith('/') ? p : `${p}/`}` || '/';
-// hreflang 互連（同頁的另一語系）；補齊尾斜線與 canonical／sitemap 的正典形式對齊
-const withTrailingSlash = (p: string) => (p === '/' || p.endsWith('/') ? p : `${p}/`);
-const zhHref = 'https://sutta.io' + withTrailingSlash(Astro.url.pathname.replace(/^\/en(\/|$)/, '/'));
-const enHref =
-  'https://sutta.io' +
-  withTrailingSlash(
-    Astro.url.pathname.startsWith('/en')
-      ? Astro.url.pathname
-      : '/en' + (Astro.url.pathname === '/' ? '' : Astro.url.pathname)
-  );
 const ogImageUrl = ogImage ?? 'https://sutta.io/og.png';
 // 實體外連（sameAs）：本站唯一的真實外部身分＝開源程式碼庫（無社群帳號）。GEO：讓答案引擎把此站錨定到可驗證實體。
 const orgSameAs = ['https://github.com/weiqi-kids/sutta.io'];
@@ -155,13 +149,7 @@ const breadcrumbSchema =
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content={THEME_COLOR} />
     <link rel="canonical" href={canonical} />
-    {!noindex && !altNoindex && (
-      <>
-        <link rel="alternate" hreflang="zh-Hant" href={zhHref} />
-        <link rel="alternate" hreflang="en" href={enHref} />
-        <link rel="alternate" hreflang="x-default" href={zhHref} />
-      </>
-    )}
+    {/* hreflang 互連已撤（2026-11-15）：/en/ 全區 noindex，指向它只會送出矛盾訊號 */}
 
     {/* Open Graph（分享卡片） */}
     <meta property="og:type" content="website" />

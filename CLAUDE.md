@@ -11,6 +11,8 @@
 
 → **英文不是次要市場,是錯的戰場。軸線只有中文受眾**;`/en/` 是鏡像噪音,不給軸線地位(見 [[sutta-io-audience-chinese-only]])。中文性本身就是護城河。
 
+**`/en/` 不收錄(2026-11-15 用戶拍板)**:`/en/` 全區輸出 `noindex,follow`(`Base.astro` 依 locale 一律加),頁面與網址照留;整區不進 sitemap(`astro.config.mjs` keepInSitemap,sitemap 亦不輸出 en alternate);中文頁不再輸出 hreflang;`robots.txt` **不可**擋 `/en/`(擋了 Google 讀不到 noindex)。build 後守門 `site/scripts/check-en-noindex.mjs` 鎖住以上四點。seo-ops `trackUrls` 不列 `/en/`。要恢復英文收錄須站主重新拍板。
+
 ## 瓶頸與打法(這決定優先序)
 
 - **瓶頸 = 獲取**(不是留存、不是內容量)。新站低權威,**大詞(無我/四聖諦/八正道)排不上——別追大詞;能贏的是長尾中文求道者查詢**(具體人生苦 + 原始佛教/阿含/佛陀原話)。
